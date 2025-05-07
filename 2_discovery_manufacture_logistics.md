@@ -99,6 +99,10 @@ The FDA checks for trademark violations. Packaging and labeling must be distinct
 
 If the ANDA meets FDA requirements, the generic drug is approved for marketing. Generic drugs are also subject to the same post-market safety monitoring as brand name drugs.
 
+---
+
+> The Drug Price Competition and Patent Term Restoration Act (Hatch-Waxman, 1984) allows for both the extension of drug patent terms and quicker introduction of lower-cost generic drugs.
+
 ## Logistics
 
 When a new drug is brought to market, its distribution is handled by suppliers and wholesalers.
@@ -153,6 +157,10 @@ The FDA is responsible for enforcing rules against adultering and misbranding.
 
 - **Adulteration**: Contanimation or failure to meet purity & quality standards
 - **Misbranding**: Including false, inaccurate, improper, or confusing labeling or if the product is harmful when used according to label directions
+
+---
+
+> The Drug Quality & Security Act (2013) expands the authority of the FDA to include compounded drugs.
 
 ### FDA-Initiated Recalls
 
