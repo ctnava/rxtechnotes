@@ -74,6 +74,26 @@ There are various professional bodies and associations that set and maintain sta
 - **The American Society for Consultant Pharmacists (ASCP)**: Sets standards for the practice of pharmacy who provide medication distribution and consultation for nursing homes.
 - **The Accreditation Commission for Health Care (ACHC)**: Sets standards for pharmacies that provide services in the realm of: infusion, community retail, long-term care, & specialty pharmacy. They also administer the *Pharmacy Compounding Accreditation Board (PCAB)* accreditation.
 
+##### National Certification (Optional)
+
+A ***Certified Pharmacy Technician (CPhT)*** is a technician who has earned certification from a recognized professional organization such as the ***Pharmacy Technician Certification Board (PTCB)*** or the ***National Healthcareer Association (NHA)***. CPhTs are considered to have demonstrated a higher level of competency in pharmacy practice and may be eligible for additional responsibilities, such as inventory management, medication reconciliation support, or billing under a pharmacist’s supervision.
+
+Being a CPhT is a nationally recognized credential that can lead to increased job opportunities and higher income potential. CPhTs also gain professional credibility and may qualify for advancement opportunities.
+
+Certification requires passing the  ***Pharmacy Technician Certification Exam (PTCE)*** or ***Examination for Certified Pharmacy Technicians (ExCPT)***, go through a pharmacy technician training program, and have a certain amount of work experience as a licensed pharmacy technician. Recertification is on a 2-year cycle and requires 20 hours of ***Continuing Education (CE)*** credits, with at least one hour in **Pharmacy Law** and one in **Patient Safety**.
+
+Certification requires passing either the ***Pharmacy Technician Certification Exam (PTCE)*** or the ***Examination for Certified Pharmacy Technicians (ExCPT)***, and meeting eligibility criteria such as completing a recognized training program or having equivalent work experience. Recertification is required every two years and includes 20 hours of ***Continuing Education (CE)***, with at least one hour in ***Pharmacy Law*** and one in ***Patient Safety***.
+
+##### State Licensure (Required)
+
+A licensed Pharmacy Technician (PhT) is a technician who has met the legal requirements set by the state in which they work. Licensure grants legal authority to perform pharmacy-related tasks under the supervision of a pharmacist. Most states require licensure or registration, and the process helps ensure compliance with state-specific laws and regulations.
+
+**Requirements are state-specific**, but commonly include completing an accredited pharmacy technician training program, passing a national certification exam (such as the PTCE or ExCPT), undergoing background checks and drug screening, and submitting an application to the state's board of pharmacy.
+
+In **California**, pharmacy technicians must complete 20 hours of **CE** every two years for license renewal, including at least **1 hour in cultural competency**. Renewal notices are mailed 90 days before license expiration. Licenses that are not renewed within 90 days after expiration are canceled.
+
+California does **not** have a formal license reciprocity process. Technicians moving to another state must meet that state's licensing requirements. Returning to California may require reapplying with all original documentation if the license has been canceled.
+
 ## Important Legislation
 
 ### Occupational Safety & Health Act (OSHA) of 1970
