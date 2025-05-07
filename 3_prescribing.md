@@ -96,6 +96,9 @@ It is the pharmacy staff’s responsibility to:
 | OD     | Doctor of Optometry | 💊 Hydrocodone (post-op), low-dose benzos (rare) |
 | PharmD (RPh) | Pharmacist under protocol | 💊 testosterone |
 
+### Combat Methamphetamine Epididemic Act (CMEA, 2005)
+
+This act establishes strict controls on OTC sales of pseudoephdrine, epehedrine, and phenylpropanolamine.
 
 ## Medication Orders & Prescriptions
 
@@ -182,7 +185,7 @@ Signa (the "sig") is almost always heavily abbreviated and pharmacy techs are of
 | 💊🍽️  | AC           | Before meals               |    |
 | 🍽️💊  | PC           | After meals                |    |
 | 🚨    | STAT         | Immediately                |    |
-| 🗓️    | FXD (RxConnect) | For 10 Days                |    |
+| 🗓️    | FXD (RxConnect) | For 10 Days             |    |
 
 #### 📏 Measurement
 
@@ -203,28 +206,28 @@ Signa (the "sig") is almost always heavily abbreviated and pharmacy techs are of
 | 💧    | gtt, D        | Drop (15-20 gtt/ml)    |    |
 | 🧴    | oz, fl oz, ℥  | Fluid ounce (30mL)     |    |
 | ⚖️    | mEq          | Milliequivalents       |    |
-| ⚠️    | ss, S           | One-half               | ⚠️ (mistaken for “55” or "5") |
+| ⚠️    | ss, S        | One-half               | ⚠️ (mistaken for “55” or "5") |
 
 #### 🧩 Miscellaneous
 
-| Emoji | Abbreviation | Meaning                   | ⚠️ |
-|-------|--------------|---------------------------|----|
-| ⛔    | NR           | No refills                |    |
-| ✍️    | DAW          | Dispense as written       |    |
-| 📘    | UD, TUD       | Take As Directed               |    |
-| 📝    | Sig          | Directions for use        |    |
-| 💊📜  | Rx           | Prescription              |    |
-| 🚫👄  | NPO          | Nothing by mouth          |    |
-| 🩺    | Dx           | Diagnosis                 |    |
-| 🧑‍🤝‍🧑    | aa           | Of each (ana)             |    |
-| ⬆️    | ad           | To, up to                 |    |
-| ➕    | qs           | A sufficient quantity     |    |
-| ➕📈  | qs ad        | A sufficient quantity to make |    |
-| ➕💦  | aq ad        | Add water up to make       |    |
-| ➕    | c̄, w/, w      | With                     |    |
-| ➖    | s̄, w/o        | Without/ With No        |    |
+| Emoji | Abbreviation | Meaning                    | ⚠️ |
+|-------|--------------|----------------------------|----|
+| ⛔    | NR            | No refills                |    |
+| ✍️    | DAW           | Dispense as written       |    |
+| 📘    | UD, TUD       | Take As Directed          |    |
+| 📝    | Sig           | Directions for use        |    |
+| 💊📜  | Rx            | Prescription              |    |
+| 🚫👄  | NPO           | Nothing by mouth          |    |
+| 🩺    | Dx            | Diagnosis                 |    |
+| 🧑‍🤝‍🧑    | aa            | Of each (ana)             |    |
+| ⬆️    | ad            | To, up to                 |    |
+| ➕    | qs            | A sufficient quantity     |    |
+| ➕📈  | qs ad         | A sufficient quantity to make |    |
+| ➕💦  | aq ad         | Add water up to make      |    |
+| ➕    | c̄, w/, w      | With                      |    |
+| ➖    | s̄, w/o        | Without/ With No          |    |
 | ➖    | ō             | Without / With No (archaic/Latin)  | ⚠️ (rare or ambiguous) |
-| ✅🩹 | AAA (RxConnect) | Apply to affected area          |    |
+| ✅🩹 | AAA (RxConnect) | Apply to affected area   |    |
 
 #### 🧾 PRN or Indications (RxConnect)
 
@@ -247,48 +250,48 @@ Signa (the "sig") is almost always heavily abbreviated and pharmacy techs are of
 
 | Emoji/Symbol | Symbol | Meaning              | ⚠️ |
 |--------------|--------|----------------------|----|
-| #️⃣           | #      | Number (e.g., #30 tablets) |    |
-| ♀️            | ♀      | Female               |    |
-| ♂️            | ♂      | Male                 |    |
-| ⬆️            | ↑      | Increase             |    |
-| ⬇️            | ↓      | Decrease             |    |
-| 🔺            | ∆      | Change               |    |
-| ♾️            | ∞      | Infinity / Ongoing/ No Limit   |    |
-| 🚫            | Ø      | None / Null / No Value       |    |
+| #️⃣ | # | Number (e.g., #30 tablets) | |
+| ♀️  | ♀ | Female | |
+| ♂️ | ♂ | Male | |
+| ⬆️ | ↑ | Increase | |
+| ⬇️ | ↓ | Decrease | |
+| 🔺 | ∆ | Change | |
+| ♾️ | ∞ | Infinity / Ongoing/ No Limit | |
+| 🚫 | Ø | None / Null / No Value | |
 
 #### 💼 Common Medication-Specific SIG Codes (RxConnect)
 
-| Medication   | SIG Instruction                                                                 |
-|--------------|----------------------------------------------------------------------------------|
-| ADVAIR       | Inhale 1 dose by mouth twice daily. Rinse mouth after use.                      |
-| FLC          | To be administered by pharmacist for immunization.                              |
-| MEDROL       | Take 6 tablets on day 1 as directed on package and decrease by 1 tablet daily for a total of 6 days. |
-| NUVARING     | Insert 1 ring vaginally as directed. Remove after 3 weeks & wait 7 days before inserting new one. |
+| Medication | SIG Instruction |
+|------------|-----------------|
+| ADVAIR | Inhale 1 dose by mouth twice daily. Rinse mouth after use. |
+| FLC | To be administered by pharmacist for immunization. |
+| MEDROL | Take 6 tablets on day 1 as directed on package and decrease by 1 tablet daily for a total of 6 days. |
+| NUVARING | Insert 1 ring vaginally as directed. Remove after 3 weeks & wait 7 days before inserting new one. |
 | PERI, PERIDEX| Rinse ½ ounce twice a day after breakfast and at bedtime after brushing and flossing. |
-| SPIRIVA      | Inhale 1 capsule via HandiHaler once daily at the same time every day.          |
-| ZPAK         | Take 2 tablets by mouth today, then take 1 tablet daily for 4 days.             |
+| SPIRIVA | Inhale 1 capsule via HandiHaler once daily at the same time every day. |
+| ZPAK | Take 2 tablets by mouth today, then take 1 tablet daily for 4 days. |
 
 ### Common Verbs & Associated Dosage Forms by Route
 
 Directions for use must be specific as the patient does not know what to do with strange medications. Some dosage forms are more toxic when taken the wrong way (e.g. Sulfanilimide).
 
-| Verb              | Dosage Form                                              | Route                    | Emoji |
-|-------------------|----------------------------------------------------------|---------------------------|--------|
-| Take              | Oral Solid (Tablets & Capsules) or Liquids              | Oral                     | 👄     |
-| Chew              | Chewable Tablets & Gum                                   | Oral                     | 🦷     |
-| Place             | Sublingual (under tongue), Buccal (on gums), or Transdermal Patch                 | Sublingual/Buccal/Topical| 👅🩹  |
-| Swish & Spit      | Oral Suspensions (e.g., nystatin rinse)                 | Oral/Mucosal             | 🌀🚫    |
-| Swish & Swallow   | Oral Suspensions (e.g., viscous lidocaine)              | Oral/Mucosal             | 🌀✅    |
-| Dissolve          | Forms that need to be dissolved before administration (Effervescent Tablets & Powders)  | Oral        | 💧     |
-| Rinse             | Mouthwashes or Oral Solutions                            | Oral                     | 🌀     |
-| Apply             | Topical (Creams, Ointments, Patches)                     | Topical/Transdermal      | 🧴     |
-| Insert            | Rectal, Vaginal, or Urethral Suppositories               | Rectal/Vaginal/Urethral  | 🍑🌸   |
-| Instill           | Eye or Ear Drops                                         | Ophthalmic/Otic          | 👁️👂   |
-| Inhale            | Inhalers, Nebulized Solutions                            | Inhalation               | 🌬️     |
-| Spray             | Nasal or Oral Aerosols                                   | Nasal/Oral               | 👃👄   |
-| Inject            | Parenteral (IM, IV, SC, ID)                              | Injection                | 💉     |
-| Infuse            | Intravenous Solutions (IVPB, IV Drip)                    | Intravenous              | 💧💉   |
-| Give              | General (commonly used for caregiver-administered meds) | Any (esp. pediatric)     | 👩‍⚕️👶 |
-| Use               | Non-specific (e.g., inhalers, devices)                   | Varies                   | 🛠️     |
+| Verb | Dosage Form | Route | Emoji |
+|------|-------------|-------|-------|
+| Take | Oral Solid (Tablets & Capsules) or Liquids | Oral | 👄 |
+| Chew | Chewable Tablets & Gum | Oral | 🦷 |
+| Place | Sublingual (under tongue), Buccal (on gums), or Transdermal Patch | Sublingual/Buccal/Topical| 👅🩹 |
+| Swish & Spit | Oral Suspensions (e.g., nystatin rinse) | Oral/Mucosal | 🌀🚫 |
+| Swish & Swallow | Oral Suspensions (e.g., viscous lidocaine) | Oral/Mucosal | 🌀✅ |
+| Dissolve | Forms that need to be dissolved before administration (Effervescent Tablets & Powders) | Oral | 💧 |
+| Rinse | Mouthwashes or Oral Solutions | Oral | 🌀 |
+| Apply | Topical (Creams, Ointments, Patches) | Topical/Transdermal | 🧴 |
+| Insert | Rectal, Vaginal, or Urethral Suppositories | Rectal/Vaginal/Urethral | 🍑🌸 |
+| Instill | Eye or Ear Drops | Ophthalmic/Otic | 👁️👂 |
+| Inhale | Inhalers, Nebulized Solutions | Inhalation | 🌬️ |
+| Spray | Nasal or Oral Aerosols | Nasal/Oral | 👃👄 |
+| Inject | Parenteral (IM, IV, SC, ID) | Injection | 💉 |
+| Infuse | Intravenous Solutions (IVPB, IV Drip) | Intravenous | 💧💉 |
+| Give | General (commonly used for caregiver-administered meds) | Any (esp. pediatric) | 👩‍⚕️👶 |
+| Use | Non-specific (e.g., inhalers, devices) | Varies | 🛠️ |
 
 > **NOTE** Spit, don't swallow Durvet (Chlorhexidine)
