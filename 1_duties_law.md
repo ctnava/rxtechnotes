@@ -139,9 +139,25 @@ HIPAA protects patient privacy by regulating how **Covered Entities** handle **P
 - **NPI (National Provider Identifier)**: 10-digit number assigned to healthcare providers for standardized identification. Each covered entity may receive only one unique NPI, similar to a person's Social Security Number (SSN), and must be used for all standard transactions covered by HIPAA.
 - **NPP (Notice of Privacy Practices)**: Outlines how patient info is used and protected; patients must sign acknowledgment, retained for 6 years from the date of creation or last date in effect (whichever is later) and usually means from the last date of service.
 
-Under HIPAA, medical personnel cannot disclose any PHI to anyone other than the patient unless the patient has given express consent, including spouses & relatives. One such form of consent is a Release of Information form that is typically used to transfer PHI to another healthcare facility or to receive for their personal use.
+## Restrictions, Violations, & Penalties
+
+Under HIPAA, medical personnel cannot disclose any PHI to anyone other than the patient unless the patient has given express consent, including spouses & relatives. One such form of consent is a Release of Information form that is typically used to transfer PHI to another healthcare facility or to receive for their personal use. This includes accessing your own records without following proper protocol.
 
 HIPAA violations (e.g., improper disclosure of PHI) must be reported to the **Office for Civil Rights** at the U.S. Dept. of Health and Human Services:
 
 - Within **60 days** of discovery if the breach affects **500 or more** people
 - Annually (within 60 days of year-end) for smaller breaches
+
+Patients have the right to obtain a copy of their healthcare records. If a patient asks for their records, you have 30 days to comply.
+
+Offenses carried out with the intent to sell, transfer, or use the information for commercial advantage, personal gain or malicious harm can result in fines up to $250,000, imprisonment for up to 10 years, or both.
+
+Violations due to reasonable cause and not willfull neglect can result in $1,000 to $50,000 fines.
+
+> **NOTE** HIPAA allows the sharing of PHI under emergency situations such as natural disasters where people may be evacuated and require healthcare. Notice of disclosures still need to be delivered as soon as reasonably practicable after the emergency.
+
+## The Health Information Technology for Economic & Clinical Health Act (HITECH, 2009)
+
+- mends HIPAA to promote adoption and meaningful use of health information technology, including electronic prescribing & medical records
+- set standards for the creation of these electronic systems
+- expanded Covered Entities to include business associates
