@@ -2,21 +2,50 @@
 
 Notes on general duties and laws to follow for pharmacy technicians.
 
-## Scope of Practice
+## Personnel in the Pharmacy
 
-Pharmacists rely on pharmacy technicians as support staff to assist with essential tasks that do not require the doctor's skill or expertise. A technician's general scope of practice generally includes:
+### Pharmacy Clerk/ Assistant
 
-- collecting patient information to build electronic profiles
-- receiving prescriptions or medication orders from prescribers
-- filling medications in accordance with those prescriptions
-- compounding medications made to order for individual care
-- ordering medication to replenish inventory
-- retrieving expired or recalled medication for inventory control
-- referring patients to the pharmacist for counsel
+Clerks are unlicensed personnel that focus on customer service and store operations. They typically only require a high school diploma & On-the-Job training. Their scope generally includes:
+
+- **Customer Service**: Greet customers, answering phone calls, taking medication orders or prescriptions
+- **Data Entry**: Entering patient information and insurance details into the pharmacy system
+- **Inventory Management**: Stocking shelves, checking inventory levels, receiving shipments
+- **Payment Processing**: Collecting payment from customers
+- **Administrative Tasks**: Filing patient records, organizing paperwork
+
+### Pharmacy Technicians
+
+Pharmacists rely on pharmacy technicians as support staff to assist with essential tasks that do not require the doctor's skill or expertise. These people require state licensure at a minimum and occasionally require national certification. A technician's general scope of practice generally includes:
+
+- **Filling Prescriptions**: Receive and process prescriptions or medication orders, occasionally calculating and measuring out the correct amount of medication
+- **Labeling Medications**: Packaging and labeling medications with instructions for patient use
+- **Processing Insurance Claims**: Assist with billing and insurance claims as well as processing patient payments
+- **Compounding Medications**: Prepare sterile and non-sterile medications, such as those used for cancer treatments or oral suspensions
+- **Collecting Patient Information**: Enter patient information, including prescriptions into a computer system
+- **Maintaining Inventory**: Track inventory stock levels, alerting the pharmacist to shortages
+
+### Pharmacist
+
+Pharmacists are the final authority on prescriptions and patient counseling. They are required to have a Doctorate of Pharmacy (PharmD) degree and state licensure through the NAPLEX & MPJE. They are responsible for:
+
+- **Reviewing Filled Prescriptions & Labels**: to ensure accuracy, appropriateness, & clarity
+- **Educating Patients**: on how to take prescription & Over-the-Counter medications, including dosage and explaining potential side effects
+- **Checking for Drug Interactions**: between medications on a patient's profile and monitoring medication history to identify potential issues
+- **Administering Certain Vaccinations**: depending on local regulations
+- **Performing Basic Health Screenings**: like blood pressure checks in some situations
+
+### Pharmacist Interns
+
+Pharmacist Interns are pharmacists in training. They are required to be enrolled in a PharmD program and have an internship license. Under the supervision of a pharmacist, they:
+
+- **Interact with Patients**: by taking detailed medication histories, verify patient information against prescriptions, and answer basic drug information questions from patients
+- **Prepare Medications**: Count and package medications according to prescriptions, label containers accurately, mix certain drug preparations
+- **Perform Administrative Tasks**: like entering prescription data on computers, check inventory levels, perform price checks on medications, and maintain pharmacy records
 
 ## Compliance with the Law
 
-Technicians are required to follow *state* & *federal* laws while working under the supervision of pharmacists. Technicians that fail to observe relevant law are punished alongside their supervising pharmacist.
+Technicians & other personnel are required to follow *state* & *federal* laws while working under the supervision of pharmacists. Technicians that fail to observe relevant law are punished alongside their supervising pharmacist.
 
 ### Regulatory Bodies
 
@@ -49,17 +78,19 @@ There are various professional bodies and associations that set and maintain sta
 
 ### Occupational Safety & Health Act (OSHA) of 1970
 
-The OSHA was passed to ensure the safety of workers nationwide, including the pharmacy. Workers must be trained in safety measures and be provided Personal Protective Equipment (PPE) when exposure to hazardous substances is possible. It also requires that Materials Safety Data Sheets (SDS) be made available to explain the risks of exposure and protocols necessary to prevent harm from such incidents.
+The OSHA was passed to ensure the safety of workers nationwide, including the pharmacy. Workers must be trained in safety measures and be provided Personal Protective Equipment (PPE) when exposure to hazardous substances is possible. It also requires that Materials Safety Data Sheets (SDS) be made available to explain the risks of exposure, handling instructions, and protocols necessary to prevent harm from such incidents.
 
 ### The Health Information Privacy & Accountability Act (HIPAA) of 1996
 
-HIPAA regulates how healthcare workers handle **Protected Health Information (PHI)**, which is any individually identifiable health information. This includes the manner of transmission and the contents of patient counseling when it includes enough information to identify the patient. Medical personnel must be trained periodically on HIPAA regulations to stay up to date and there must be a designated privacy officer appointed on duty.
+HIPAA regulates how ***covered entities*** handle ***Protected Health Information (PHI)***. It is a large statute that primarily concerns the continuation of health insurance coverage for workers who leave their jobs. Under HIPAA, healthcare providers and other covered entities are required to use a ***National Provider Identifier (NPI)*** for all standard transactions covered by HIPAA. All personnel that have access to PHI must be formally trained periodically on HIPAA regulations to stay up to date and there must be a designated privacy officer appointed on duty.
 
-#### Privacy Policy & Disclosures
+- **Covered Entities**:
+- **PHI**: Any and all individually identifiable health information. This includes the manner of transmission and the contents of patient counseling when it includes enough information to identify the patient.
+- **NPI**: A ten-digit number, with a check digit in the last position to help detect keying errors. Each covered entity may receive only one unique NPI similar to a person's Social Security Number (SSN).
 
-Patients must be informed of their privacy rights, how the pharmacy handles information, and have access to their PHI records if requested.
+Patients must be informed of their privacy rights, how the pharmacy handles information, and have access to their PHI records if requested. This is usually done at pharmacies by presenting a ***Notification of Privacy Policies (NPP)*** and having the patient sign an "acknowledgement" form, which is stored for at least 6 years from the last date of service.
 
-##### Release of Information
+- **NPP**:
 
 Under HIPAA, medical personnel cannot disclose any PHI to anyone other than the patient unless the patient has given express consent, including spouses & relatives. One such form of consent is a Release of Information form that is typically used to transfer PHI to another healthcare facility or to receive for their personal use.
 
