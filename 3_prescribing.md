@@ -161,7 +161,6 @@ The **Durham-Humphrey Amendment** (1951) amendment established two classes of dr
 | SPIRIVA      | Inhale 1 capsule via HandiHaler once daily at the same time every day.          |
 | ZPAK         | Take 2 tablets by mouth today, then take 1 tablet daily for 4 days.             |
 
-
 ## Common Verbs & Associated Dosage Forms by Route
 
 | Verb              | Dosage Form                                              | Route                    | Emoji |
@@ -182,5 +181,7 @@ The **Durham-Humphrey Amendment** (1951) amendment established two classes of dr
 | Infuse            | Intravenous Solutions (IVPB, IV Drip)                    | Intravenous              | 💧💉   |
 | Give              | General (commonly used for caregiver-administered meds) | Any (esp. pediatric)     | 👩‍⚕️👶 |
 | Use               | Non-specific (e.g., inhalers, devices)                   | Varies                   | 🛠️     |
+
+> **NOTE** Spit, don't swallow Durvet (Chlorhexidine)
 
 ## Controlled (& Listed) Substances
