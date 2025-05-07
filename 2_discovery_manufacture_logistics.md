@@ -97,7 +97,11 @@ Wholesalers generally purchase drugs from manufactures in bulk and must be licen
 
 The federal **340B Drug Pricing Program** limits the cost safety-net providers, like medicaid, federally qualified health centers, and qualified hospitals paid for outpatient drugs through wholesalers.
 
-### National Drug Code (NDC)
+### Drug Manufacturer Labels
+
+Drug manufacturer labels provide critical information about the medication, including the composition, dosage, instructions for use, and safety warnings. These labels also provide specific information about the specific instance of drug, including the batch/ lot number, manufacture date, and expiration date. To simplify inventory tracking, barcodes and National Drug Codes are used.
+
+#### National Drug Code (NDC)
 
 The **Drug Listing Act** of 1972 mandates that all drug establishments provide a complete list of drugs manufactured, prepared, propagated, compounded, or processed for distribution, and these drugs must have a ***11-digit National Drug Code (NDC)***; a 3-segmented universal identifier. It's NATO-specific counterpart is called the NATO Stock Number (NSN).
 
@@ -110,6 +114,13 @@ Sample NDC: `12345-6789-01`
 | 01                | Package Code (2 Digits)   | Identifies package size and type.                                |
 
 > **Note**: The NDC can appear in different segment configurations (5-4-2, 4-4-2, or 5-3-2), depending on how the manufacturer registered the drug with the FDA. When stored in databases, it is often reformatted as an 11-digit number (with leading zeroes added if needed).
+
+#### Barcodes
+
+Barcodes are quickly scanned for inventory tracking and come in two varieties: linear and matrix.
+
+- **Linear Barcodes** are 1 dimensional, appearing as stripes that can be read forward or backwards, and contain the NDC of a drug. These are typically used when a technician is checking what drugs are in stock on shelves.
+- **Matrix Barcodes** are 2 dimensional, appearing as squares with black or white pixels, and contain the NDC, lot/ batch number, and expiration date. These are used when a technician needs to identify the correct product when filling prescriptions.
 
 ## Quality Assurance
 
