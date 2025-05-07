@@ -7,6 +7,10 @@ The **Durham-Humphrey Amendment** (1951) amendment established two classes of dr
 - **Legend**: Medications that may not be dispensed to the public except on the order or *prescription* of a licensed prescriber. These "prescription" drugs require a federal *legend* to appear on the packaging that states: "Federal law prohibits dispensing this medication without a prescription".
 - **Over-the-Counter(OTC)**: Medications that may be sold without a prescription as long as they are appropriately labeled for home use. OTC drugs are not inherently safe because they may have significant drug interactions with prescription medications. Technicians must refer patients who request them to pharmacists.
 
+## Prescriptions
+
+
+
 ## Controlled (& Listed) Subtances
 
 ## Formularies

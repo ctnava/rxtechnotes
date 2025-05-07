@@ -1,4 +1,18 @@
-# PTCB National Certification Review
+# Chapter 1: Duties & Law for Pharmacy Technicians
+
+Notes on general duties and laws to follow for pharmacy technicians.
+
+## Scope of Practice
+
+Pharmacists rely on pharmacy technicians as support staff to assist with essential tasks that do not require the doctor's skill or expertise. A technician's general scope of practice generally includes:
+
+- collecting patient information to build electronic profiles
+- receiving prescriptions or medication orders from prescribers
+- filling medications in accordance with those prescriptions
+- compounding medications made to order for individual care
+- ordering medication to replenish inventory
+- retrieving expired or recalled medication for inventory control
+- referring patients to the pharmacist for counsel
 
 ## Compliance with the Law
 
@@ -30,3 +44,25 @@ There are various professional bodies and associations that set and maintain sta
 - **The Joint Commission (TJC)**: A non-profit that establishes standards & monitors compliance for healthcare programs in the US. TJC-accredited programs include hospitals, healthcare networks, HMOs, & nursing homes.
 - **The American Society for Consultant Pharmacists (ASCP)**: Sets standards for the practice of pharmacy who provide medication distribution and consultation for nursing homes.
 - **The Accreditation Commission for Health Care (ACHC)**: Sets standards for pharmacies that provide services in the realm of: infusion, community retail, long-term care, & specialty pharmacy. They also administer the *Pharmacy Compounding Accreditation Board (PCAB)* accreditation.
+
+## Important Legislation
+
+### Occupational Safety & Health Act (OSHA) of 1970
+
+The OSHA was passed to ensure the safety of workers nationwide, including the pharmacy. Workers must be trained in safety measures and be provided Personal Protective Equipment (PPE) when exposure to hazardous substances is possible. It also requires that Materials Safety Data Sheets (SDS) be made available to explain the risks of exposure and protocols necessary to prevent harm from such incidents.
+
+### The Health Information Privacy & Accountability Act (HIPAA) of 1996
+
+HIPAA regulates how healthcare workers handle **Protected Health Information (PHI)**, which is any individually identifiable health information. This includes the manner of transmission and the contents of patient counseling when it includes enough information to identify the patient. Medical personnel must be trained periodically on HIPAA regulations to stay up to date and there must be a designated privacy officer appointed on duty.
+
+#### Privacy Policy & Disclosures
+
+Patients must be informed of their privacy rights, how the pharmacy handles information, and have access to their PHI records if requested.
+
+##### Release of Information
+
+Under HIPAA, medical personnel cannot disclose any PHI to anyone other than the patient unless the patient has given express consent, including spouses & relatives. One such form of consent is a Release of Information form that is typically used to transfer PHI to another healthcare facility or to receive for their personal use.
+
+#### Violations
+
+Violations must be reported to the Department of Health and Human Services' Office for Civil Rights: within 60 days of the end of a calender year if the breach affects less than 500 people; or within 60 days if it affects more.
