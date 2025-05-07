@@ -2,18 +2,100 @@
 
 This chapter covers how patients are authorized access to medications by prescribing authorities.
 
----
+## The Durham-Humphrey Amendment (1951)
 
-The **Durham-Humphrey Amendment** (1951) amendment established two classes of drugs: *legend* & *over-the-counter* (OTC).
+The Durham-Humphrey Amendment amendment established two classes of drugs: *legend* & *over-the-counter* (OTC).
 
 - **Medication Orders**: a written request on a physician's order form OR a transcribed verbal/ telephone order in an *inpatient* setting.
 - **Prescription**: medication order on a prescription blank to be filled in an *outpatient/ ambulatory* setting.
 - **Legend**: Medications that may not be dispensed to the public except on the order or *prescription* of a licensed prescriber. These "prescription" drugs require a federal *legend* to appear on the packaging that states: "Federal law prohibits dispensing this medication without a prescription".
 - **Over-the-Counter(OTC)**: Medications that may be sold without a prescription as long as they are appropriately labeled for home use. OTC drugs are not inherently safe because they may have significant drug interactions with prescription medications. Technicians must refer patients who request them to pharmacists.
 
-## Authorized Prescribers
+## 🔒 Controlled & Monitored Substances
 
-Prescribing authority is determined by state boards of pharmacy and is not limited to physicians.
+The ***Controlled Substances Act (CSA, 1970)*** classifies five levels of controlled substances that have potential for abuse and therefore restricts their distribution. These five categories are called "schedules" and are determined based on potential for abuse, medical use, and risk to overall safety. Drugs placed in Schedules I–V are controlled substances and are subject to varying degrees of regulation regarding prescribing, dispensing, and recordkeeping.
+
+> **TRIVIA**: The Anabolic Steroids Control Act of 1990 added anabolic steroids (like testosterone) to Schedule III of the CSA.
+
+| Schedule | Mark | 🧾 Description | 💊 Examples | 🔁 Refill Restrictions |
+|----------|------|----------------|-------------|------------------------|
+| 🟥 I      | C-I  | 🚫 No accepted medical use, 🆙 high abuse potential | Heroin, LSD, Ecstasy (MDMA), Cannabis* | ❌ **Not allowed** — Cannot be prescribed |
+| 🟥 II     | C-II | ✅ Accepted medical use, 🆙 high abuse risk, severe dependence | Oxycodone (opioid), Methadone (opioid), Fentanyl (opioid), Adderall (most stimulants) | ⛔ **No refills allowed** — New Rx required each time. |
+| 🟧 III    | C-III| ⚠️ Moderate to low physical/psychological dependence potential | Tylenol with Codeine (opioid combo), Ketamine (anesthetic), Testosterone (anabolic steroid) | 🔁 Up to **5 refills** in **6 months**                          |
+| 🟨 IV     | C-IV | 🟡 Low abuse potential and dependence risk | Alprazolam (Xanax), Diazepam (Valium), Zolpidem (Ambien), Tramadol (most benzodiazepines, some sleep aids & analgesics) | 🔁 Up to **5 refills** in **6 months** |
+| 🟩 V      | C-V  | 🟢 Lowest abuse potential, small amounts of narcotics | Robitussin AC (codeine cough syrup), Lomotil (diarrhea), Lyrica (pregabalin) | 🔁 Up to **5 refills** in **6 months**  |
+
+\*Cannabis remains Schedule I federally, though legal or decriminalized in many U.S. states.
+
+### 💼 Prescriber & Pharmacy Responsibilities
+
+- A **valid DEA number** is required on all prescriptions for controlled substances.
+- Schedule II prescriptions must be written (or e-prescribed where required) and cannot be refilled.
+- Partial fills of C-II prescriptions are allowed if requested by the prescriber or patient:
+  - The initial partial fill must occur within 30 days of the issue date.
+  - The remainder must be filled within that same 30-day window; otherwise, the prescription expires.
+- Schedule II records must be stored separately from all others.
+- Schedule III–V records must also be maintained separately and be readily retrievable.
+
+### 🗃️ Recordkeeping Requirements (CA Laws Referenced)
+
+- All prescription and dispensing records for controlled substances must be stored on-site for at least 3 years (CA B&P Code § 4333).
+- Inventory audits must be conducted every 2 years (CA H&S Code § 11190) and must include:
+  - Drug name, dosage form, and strength
+  - Quantity on hand
+  - Date and time of inventory
+  - Signature of the responsible pharmacist
+
+### 📝 DEA Forms & Compliance
+
+- **DEA Form 222** is required for ordering Schedule II drugs via CSOS.
+- **DEA Form 41** is used for returning drugs to suppliers or for reverse distribution (destruction).
+- **DEA Form 106** must be filed within **one business day** of discovering theft or significant loss.
+  - **The California Board of Pharmacy** must also be notified within **30 days**.
+
+### ⚠️ Dispensing & Monitoring Duties
+
+- Schedule II prescriptions generally require a written or e-prescription, except in emergencies:
+  - A verbal or faxed order may be accepted temporarily, but a written/electronic Rx must follow within 7 days.
+- Pharmacies must maintain dispensing logs for all refills and ensure proper dispensing and recordkeeping.
+
+It is the pharmacy staff’s responsibility to:
+
+- Verify and log all controlled substance prescriptions
+- Monitor for abuse or diversion
+- Ensure compliance with all state and federal regulations
+
+### 🩺 Controlled Subtances Commonly Prescribed by Physician Specialists
+
+| 🆎     | 🧑‍⚕️ Title | 💊 Common Controlled Medications |
+|--------|------------|-----------------------------------|
+| DC     | Doctor of Chiropractic |  🚫 None or muscle relaxants (rare, varies by state)  |
+| DDS    | Doctor of Dental Surgery | 💉 Hydrocodone, oxycodone, benzodiazepines |
+| DEM    | Doctor of Emergency Medicine | 💊 Morphine, fentanyl, ketamine, benzodiazepines |
+| DMD    | Doctor of Dental Medicine | 💉 Hydrocodone, oxycodone, local anesthetics |
+| DO     | Doctor of Osteopathic Medicine | 💊 Full scope: opioids, ADHD meds, sedatives |
+| DPH    | Doctor of Public Health | 🚫 None unless dual-licensed |
+| DPM    | Doctor of Podiatric Medicine | 💊 Tramadol, hydrocodone, anxiolytics (if authorized)|
+| DTM    | Diploma in Tropical Medicine | (Depends on medical license) |
+| DVM/DVS| Doctor of Veterinary Medicine/Surgery | 💊 Ketamine, opioids, tranquilizers for animals |
+| MD     | Doctor of Medicine | 💊 Full scope: opioids, benzos, ADHD meds, etc. |
+| OphD   | Doctor of Ophthalmology (MD/DO) | 💊 Tramadol, hydrocodone (post-surgery), benzos |
+| PharmD | Doctor of Pharmacy | 💊 testosterone (some states) |
+
+### 👩‍🔬 Controlled Subtances Commonly Prescribed by Non-Physician Specialists
+
+| 🆎     | 🧑‍⚕️ Title/Role | 💊 Common Controlled Medications |
+|--------|------------------|---------------------------------|
+| NP     | Nurse Practitioner | 💊 Hydrocodone, Adderall, alprazolam |
+| PA     | Physician Assistant | 💊 Oxycodone, clonazepam, lorazepam |
+| CNM    | Certified Nurse Midwife | 💊 Codeine, opioids for labor, benzodiazepines |
+| CRNA   | Certified Registered Nurse Anesthetist | 💊 Fentanyl, midazolam, ketamine |
+| RN/BSN | Registered Nurse | 🚫 None |
+| LPN/LVN| Licensed Practical/Vocational Nurse | 🚫 None |
+| Psych NP | Psychiatric Nurse Practitioner | 💊 Clonazepam, lorazepam, Adderall, antidepressants |
+| OD     | Doctor of Optometry | 💊 Hydrocodone (post-op), low-dose benzos (rare) |
+| PharmD (RPh) | Pharmacist under protocol | 💊 testosterone |
+
 
 ## Medication Orders & Prescriptions
 
@@ -21,11 +103,11 @@ Prescriptions and medication orders are instructions from a medical practictione
 
 - **Prescriber Information**: the name, title, office address, and telephone number
 - **National Provider Identifier (NPI)**: A prescriber's unique national identification number, mandated by HIPAA and administered by the National Plan and Provider Enumeration System (NPPES)
-- **Drug Enforcement Administration (DEA) prescriber registration number**: A number assigned to the prescriber by the DEA that is required on all controlled substance prescriptions
+- **Drug Enforcement Administration (DEA)**: A number assigned to the prescriber by the DEA that is required on all controlled substance prescriptions
 - **Date**: when the prescription was written
 - **Patient Identifiers**: information used to identify the patient
   - **required**: name & address
-  - **optional**: date of birth & weight
+  - **optional**: date of birth & weight (for pediatrics)
 - **Inscription**: specifies the medication prescribed, including strength & amount
 - **Signa**: directions for use
 - **Refill Instructions**: How many refills are authorized for the patient
@@ -210,5 +292,3 @@ Directions for use must be specific as the patient does not know what to do with
 | Use               | Non-specific (e.g., inhalers, devices)                   | Varies                   | 🛠️     |
 
 > **NOTE** Spit, don't swallow Durvet (Chlorhexidine)
-
-## Controlled (& Listed) Substances
