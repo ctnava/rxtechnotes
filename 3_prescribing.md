@@ -107,7 +107,8 @@ The **Durham-Humphrey Amendment** (1951) amendment established two classes of dr
 | ➕📈  | qs ad        | A sufficient quantity to make |    |
 | ➕💦  | aq ad        | Add water up to make       |    |
 | ➕    | c̄, w/, w      | With                     |    |
-| ➖    | s̄, ō, w/o     | Without/ With No        |    |
+| ➖    | s̄, w/o        | Without/ With No        |    |
+| ➖    | ō             | Without / With No (archaic/Latin)  | ⚠️ (rare or ambiguous) |
 
 ### 🔣 Common Symbols
 
