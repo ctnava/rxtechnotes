@@ -21,9 +21,30 @@ Generic drugs make medicine more accessible as insurers are always ready to save
 
 Technicians are generally expected to dispense generic drugs when available unless the prescriber specifies that the drug should be **Dispensed as Written (DAW)** or the inscription is for a hormone.
 
-#### National Drug Code (NDC)
+## Drug Distribution
 
-The **Drug Listing Act** of 1972 mandates that all drug establishments provide a complete list of drugs manufactured, prepared, propagated, compounded, or processed for distribution, and these drugs must have an ***11-digit National Drug Code (NDC)***. This NDC is an identification number assigned by the manufacturer to a drug product comprised of 3 sets of numbers.
+Distribution of drugs is handled by suppliers, manufacturers, and wholesalers.
+
+- **Suppliers**: produce, label, and package drugs
+- **Wholesalers**: purchase drugs in bulk and then sell them to medical facilities
+
+### Suppliers
+
+There are 3 main types of supplier: drug manufacturers, specialty pharmacies, and compounding pharmacies. All of them order raw materials or finished goods (like (in)active ingredients) to produce their goods. However, each one exists for a different scale of care.
+
+- **Drug Manufacturers** package medication in standard dosage forms for mass distribution
+- **Specialty Pharmacies** focus on providing high-cost, complex medications and specialized services to patients with chronic conditions
+- **Compounding Pharmacies** customize medications on a patient-specific basic, often mixing, combinging, or altering existing drugs to meet individual needs
+
+### Wholesalers
+
+Wholesalers generally purchase drugs from manufactures in bulk and must be licensed by the states they operate in for compliance with the 1987 **Prescription Drug Marketing Act**. These entities create wide distribution networks to ensure availability by storing their purchases in warehouses around the country so that deliveries can be made in 24-48 hours. They can also drop ship lower-volume, high-cost medications on an as-needed basis.
+
+The federal **340B Drug Pricing Program** limits the cost safety-net providers, like medicaid, federally qualified health centers, and qualified hospitals paid for outpatient drugs through wholesalers.
+
+### National Drug Code (NDC)
+
+The **Drug Listing Act** of 1972 mandates that all drug establishments provide a complete list of drugs manufactured, prepared, propagated, compounded, or processed for distribution, and these drugs must have a ***11-digit National Drug Code (NDC)***; a 3-segmented universal identifier. It's NATO-specific counterpart is called the NATO Stock Number (NSN).
 
 Sample NDC: `12345-6789-01`
 
