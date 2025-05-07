@@ -63,8 +63,8 @@ Once a patent for a brand name drug expires, other manufacturers may copy the dr
 
 During this process, the manufacturer must prove that their drug is both pharmaceutically and therapeutically equivalent because their inactive ingredients have been altered.
 
-- **Pharmaceutically Equivalent Drugs** contain identical amounts of the same active ingredients in the same dosage form.
-- **Therapeutically Equivalent Drugs** produce effects in patients that are identical to their brand name counterparts.
+> **Pharmaceutically Equivalent Drugs** contain identical amounts of the same active ingredients in the same dosage form.
+> **Therapeutically Equivalent Drugs** produce effects in patients that are identical to their brand name counterparts.
 
 Studies are conducted on a small group of healthy volunteers to compare the generic and brand-name drug's effects on ADME processes. After which, the manufacturer submits an **Abbreviated New Drug Application (ANDA)** to the FDA.
 
@@ -78,7 +78,7 @@ If the ANDA meets FDA requirements, the generic drug is approved for marketing. 
 
 ## Logistics
 
-When a new drug is brought to market, its distribution is handled by suppliers, manufacturers, and wholesalers.
+When a new drug is brought to market, its distribution is handled by suppliers and wholesalers.
 
 - **Suppliers**: produce, label, and package drugs
 - **Wholesalers**: purchase drugs in bulk and then sell them to medical facilities
