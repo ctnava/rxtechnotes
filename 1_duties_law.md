@@ -2,7 +2,9 @@
 
 Notes on general duties and laws to follow for pharmacy technicians.
 
-## Personnel in the Pharmacy
+## Pharmacy Personnel
+
+Pharmacists rely on pharmacy technicians as support staff to assist with essential tasks that do not require the doctor's skill or expertise.
 
 ### Pharmacy Clerk/ Assistant
 
@@ -47,13 +49,11 @@ Interns are pharmacy students enrolled in a PharmD program and working under a *
 
 All pharmacy personnel must comply with **federal and state laws**, under the supervision of a licensed pharmacist. Violations by technicians can also result in disciplinary actions for the supervising pharmacist.
 
-### Regulatory Bodies
-
-#### Federal vs. State Law
-
 - **Federal laws** are passed by Congress and apply nationwide.
 - **State laws** are passed by individual legislatures and apply within their borders.
 - If laws conflict, the **stricter law must be followed**.
+
+### Regulatory Bodies
 
 #### Federal Agencies
 
@@ -115,7 +115,7 @@ Ensures workplace safety. Employers must:
 - Provide **Personal Protective Equipment (PPE)** when exposure to hazardous substances is possible
 - Maintain **Safety Data Sheets (SDS)** for all hazardous substances to explain the risks of exposure, handling instructions, and protocols necessary to prevent harm from such incidents.
 
-### The Health Information Privacy & Accountability Act (HIPAA) of 1996
+### The Health Information Privacy & Accountability Act (HIPAA) - 1996
 
 HIPAA protects patient privacy by regulating how **Covered Entities** handle **Protected Health Information (PHI)**. It is a large statute that primarily concerns the continuation of health insurance coverage for workers who leave their jobs. UAll personnel that have access to PHI must be formally trained periodically on HIPAA regulations to stay up to date and there must be a designated privacy officer appointed on duty.
 
@@ -124,22 +124,16 @@ HIPAA protects patient privacy by regulating how **Covered Entities** handle **P
   - **Healthcare Providers**: Doctors, clinics, pharmacies, hospitals, and other licensed providers who transmit health data electronically
   - **Healthcare Clearinghouses**: Entities that process or facilitate the processing of nonstandard health information into a standard format
 
-- **Protected Health Information (PHI)**: Any information—oral, written, or electronic—that can be used to identify a patient and that relates to the individual’s past, present, or future physical or mental health or condition, the provision of healthcare, or payment for healthcare. PHI is protected under HIPAA and must be kept confidential by all Covered Entities and Business Associates.
+- **Protected Health Information (PHI)**: Any information—oral, written, or electronic—that can be used to identify a patient and that relates to the individual’s past, present, or future physical or mental health or condition, the provision of healthcare, or payment for healthcare. PHI is protected under HIPAA and must be kept confidential by all Covered Entities and Business Associates. Under HIPAA, this information must be safeguarded through administrative, physical, and technical controls, and can only be disclosed with patient authorization or for certain permitted purposes such as treatment, payment, or healthcare operations.
   PHI includes but is not limited to:
+  - **Spoken Word (Verbal)**: Conversations between healthcare providers or with patients
   - **Personal identifiers**: Name, address, birthdate, Social Security Number
-  - **Medical records**: Diagnoses, treatment plans, lab results, prescriptions
+  - **Medical records (Written)**: Notes, Diagnoses, treatment plans, lab results, prescriptions, faxes received
   - **Billing information**: Insurance details, account numbers, claims
-  - **Electronic health records (EHRs)** and any digital communication containing identifiable health information
+  - **Electronic Health Records (EHRs)** and any digital communication containing identifiable health information
+  - **Other Electronic (ePHI)**: Emails, EHRs, text messages, or files stored on computers or mobile devices
 
-  PHI can exist in **three forms**:
-
-  - **Spoken**: Conversations between healthcare providers or with patients
-  - **Written**: Paper documents, faxes, or notes
-  - **Electronic (ePHI)**: Emails, digital records, text messages, or files stored on computers or mobile devices
-
-  Under HIPAA, this information must be safeguarded through administrative, physical, and technical controls, and can only be disclosed with patient authorization or for certain permitted purposes such as treatment, payment, or healthcare operations.
-
-- **NPI (National Provider Identifier)**: 10-digit number assigned to healthcare providers for standardized identification. Each covered entity may receive only one unique NPI similar to a person's Social Security Number (SSN). It must be used for all standard transactions covered by HIPAA.
+- **NPI (National Provider Identifier)**: 10-digit number assigned to healthcare providers for standardized identification. Each covered entity may receive only one unique NPI, similar to a person's Social Security Number (SSN), and must be used for all standard transactions covered by HIPAA.
 - **NPP (Notice of Privacy Practices)**: Outlines how patient info is used and protected; patients must sign acknowledgment, retained for 6 years from the last date of service.
 
 Under HIPAA, medical personnel cannot disclose any PHI to anyone other than the patient unless the patient has given express consent, including spouses & relatives. One such form of consent is a Release of Information form that is typically used to transfer PHI to another healthcare facility or to receive for their personal use.
