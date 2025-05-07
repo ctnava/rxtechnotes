@@ -25,16 +25,12 @@ Technicians are generally expected to dispense generic drugs when available unle
 
 The **Drug Listing Act** of 1972 mandates that all drug establishments provide a complete list of drugs manufactured, prepared, propagated, compounded, or processed for distribution, and these drugs must have an ***11-digit National Drug Code (NDC)***. This NDC is an identification number assigned by the manufacturer to a drug product comprised of 3 sets of numbers.
 
-| NDC Format         | Sequence Name | Description                                                                 |
-|--------------------|----------------|-----------------------------------------------------------------------------|
-| 5-4-2 (e.g., 12345-6789-01) | Labeler Code   | Identifies the manufacturer or distributor. Assigned by the FDA.          |
-|                    | Product Code   | Identifies a specific strength, dosage form, and formulation.              |
-|                    | Package Code   | Identifies package size and type.                                          |
-| 4-4-2 (e.g., 1234-5678-90)  | Labeler Code   | Shorter labeler code; still identifies the manufacturer.                  |
-|                    | Product Code   | Identifies drug specifics (same as above).                                 |
-|                    | Package Code   | Identifies package specifics (same as above).                              |
-| 5-3-2 (e.g., 12345-678-90)  | Labeler Code   | Standard labeler code.                                                     |
-|                    | Product Code   | Shorter product code.                                                      |
-|                    | Package Code   | Standard 2-digit package code.                                             |
+Sample NDC: `12345-6789-01`
+
+| Digits            | Name                      | Description                                                      |
+|-------------------|---------------------------|------------------------------------------------------------------|
+| 12345             | Labeler Code (5 Digits)   | Identifies the manufacturer or distributor. Assigned by the FDA. |
+| 6789              | Product Code (4 Digits)   | Identifies a specific strength, dosage form, and formulation.    |
+| 01                | Package Code (2 Digits)   | Identifies package size and type.                                |
 
 > **Note**: The NDC can appear in different segment configurations (5-4-2, 4-4-2, or 5-3-2), depending on how the manufacturer registered the drug with the FDA. When stored in databases, it is often reformatted as an 11-digit number (with leading zeroes added if needed).
