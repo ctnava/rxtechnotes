@@ -7,8 +7,6 @@ This chapter covers how drugs are discovered, developed, tested, manufactured, d
 ### The Pure Food, Drugs, & Cosmetics Act (FDC, 1906)
 
 - Prohibited interstate commerce in adulterated or misbranded food and drugs
-  - **Adulteration**: Contanimation or failure to meet purity & quality standards
-  - **Misbranding**: Including false, inaccurate, improper, or confusing labeling or if the product is harmful when used according to label directions
 - Required government preapproval of drugs before marketing or sale
 - Enforced by the Bureau of Chemistry (precursor to the FDA) until the Food, Drug, & Insecticide Administration was formed in 1927 and rebranded as the FDA in 1930.
 
@@ -32,6 +30,16 @@ There exist two commercial categories of drugs:
 - **Brand Name Drugs**: Original drugs developed by pharmaceutical companies, protected by patents, and marketed under proprietary names
 - **Generic Drugs**: Copies of brand-name drugs that have the same active ingredients, strength, dosage form, and route of administration, but sold under generic chemical names or different brand names after the original patent expires
 
+### Good Manufacturing Processes (GMP)
+
+Mandated by the FDA to ensure consistent drug quality:
+
+- Validated manufacturing processes
+- Clean and hygienic facilities
+- Qualified personnel and training
+- Detailed documentation
+- Regular audits and inspections
+
 ### Brand Name Drug Development
 
 In order for a newly patented, *Brand Name* drug to come to market, the FDA must first approve it. The process generally is as follows:
@@ -47,52 +55,45 @@ In order for a newly patented, *Brand Name* drug to come to market, the FDA must
 - Conduct **in vitro** (human cells) tests for efficacy & toxicity
 - Conduct **in vivo** (animal) tests to study ADME (Absorption, Distribution, Metabolism, and Excretion) processes
 - Test in at least two mammalian species.
-- Submit results and a clinical plan to the FDA's CDER in an Investigational New Drug (IND) application.
-
-Safety & efficacy are evaluated before clinical trials. This is first done *in vitro* with human cells to assess efficacy & toxicity before *in vivo* studies are done with live animals to observe the effects the drugs have on Absorption, Distributive, Metabolic, & Elimination (ADME) processes. At least two mammalian species must be tested before they are allowed to proceed to humans.
-
-Results of these trials must be filed with the FDA's Center for Drug Evaluation and Research (CDER) to file an application for a ***Investigational New Drug (IND)***. This application additionally requires a plan for human testing and manufacturing details to comply with the Good Manufacturing Practices (GMP) provisioned by the Kefauver-Harris Amendment.
+- Submit results and a clinical plan to the FDA's CDER in an ***Investigational New Drug (IND)*** application. This application additionally requires a plan for human testing and manufacturing details to comply with the Good Manufacturing Practices (GMP) provisioned by the Kefauver-Harris Amendment.
 
 #### Step 3: Clinical Trials (4-7 Years)
 
-Clinical trials involve human research subjects, with "informed consent" and the information necessary to provide it required by the The Kefauver-Harris Amendment for participation. These trials are done in 3 phases, each involving more people as they progress. Participants are free to leave as they wish.
+Clinical trials involve human research subjects and are conducted in three phases:
 
-##### Phase 1 (20 - 80 People)
+- **Phase 1 (20 - 80 People)**: Determine ***safety*** first by collecting a profile of side effects in a small group of healthy volunteers over ***several months***.
+- **Phase 2 (100-300 People)**: Determine ***efficacy*** by testing it on a group of patients with the condition that the drug is trying to treat while also staying on the look out for side effects for ***several months to 2 years***. Controlled trials are also used to compare the drug's activity against a placebo. This test is double-blind, meaning that neither the patients nor the prescribers are aware that the drug is a placebo.
+- **Phase 3 (1,000 - 3,000 People)**: Confirm ***efficacy*** while collecting ***additional safety*** data in a larger population. Also gathering data on interactions and effects at different ***dosages*** for ***1 to 4 years***.
 
-Determine ***safety*** first by collecting a profile of side effects in a small group of healthy volunteers over ***several months***.
-
-##### Phase 2 (100-300 People)
-
-Determine ***efficacy*** by testing it on a group of patients with the condition that the drug is trying to treat while also staying on the look out for side effects for ***several months to 2 years***. Controlled trials are also used to compare the drug's activity against a placebo. This test is double-blind, meaning that neither the patients nor the prescribers are aware that the drug is a placebo.
-
-##### Phase 3 (1,000 - 3,000 People)
-
-Confirm ***efficacy*** while collecting ***additional safety*** data in a larger population. Also gathering data on interactions and effects at different ***dosages*** for ***1 to 4 years***.
+> Participants must give informed consent and the information necessary to provide it (per Kefauver-Harris Amendment). They are free to leave as they wish.
 
 #### Step 4: Review & Approval (1-2 Years)
 
-A ***New Drug Application (NDA)*** can be filed and the FDA can either approve the drug for marketing (regulated by the Kefauver-Harris Amendment) or request further testing.
+- Pharmaceutical company files a ***New Drug Application (NDA)*** with the FDA
+- FDA reviews for safety, efficacy, and labeling
+- Drug is either approved for marketing (regulated by the Kefauver-Harris Amendment) or denied by the FDA and request further testing
 
 #### Step 5: Post-Market Surveillance (Ongoing)
 
-There is ongoing monitoring program for long-term safety & efficacy after the drug is released to the market while the original manufacturer enjoys exclusive production rights without competition for a period of ~20 years to offset cost.
+- Manufacturer maintains exclusive rights (~20 years) to offset research & development cost
+- Continuous monitoring of long-term safety and efficacy after the drug is released to the market
 
 ### Generic Drug Manufacturing
 
-Once a patent for a brand name drug expires, other manufacturers may copy the drug and release it under its generic name. Despite the fact that generic drugs are copies of brand name drugs, licensed manufacturers must still be approved to produce them. However, there is no need for preclinical or normal clinical trials for safety & efficacy as they were already established by the original producer which brings down approval time to 1 to 3 years.
+Once a patent for a brand name drug expires, other manufacturers may copy the drug and release it under its generic name. Generic drugs require FDA approval but do not require full R&D because clinical trials for safety & efficacy were already established by the original producer. To obtain approval, generic manufacturers only need to demonstrate equivalency; shortening the process to 1 - 3 years.
 
 #### Step 1: Bioequivalence Studies
 
 During this process, the manufacturer must prove that their drug is both pharmaceutically and therapeutically equivalent because their inactive ingredients have been altered.
 
 - **Pharmaceutically Equivalent Drugs** contain identical amounts of the same active ingredients in the same dosage form.
-- **Therapeutically Equivalent Drugs** produce effects in patients that are identical to their brand name counterparts.
+- **Therapeutically Equivalent Drugs** produce the same clinical effect.
 
 Studies are conducted on a small group of healthy volunteers to compare the generic and brand-name drug's effects on ADME processes. After which, the manufacturer submits an **Abbreviated New Drug Application (ANDA)** to the FDA.
 
 #### Step 2: Manufacturing & Quality Assurance
 
-The FDA checks for trademark violations. Packaging and labeling must be distinct from brand name. Inactive ingredients may vary to lower production cost, but a facility inspection is also conducted to ensure compliance with the aforementioned Good Manufacturing Practices
+The FDA checks for trademark violations. Packaging and labeling must be distinct from brand name. Inactive ingredients may vary to lower production cost, but a facility inspection is also conducted to ensure compliance with the aforementioned Good Manufacturing Practices.
 
 #### Step 3: Post-Market Surveillance
 
@@ -115,13 +116,15 @@ There are 3 main types of supplier: drug manufacturers, specialty pharmacies, an
 
 ### Wholesalers
 
-Wholesalers generally purchase drugs from manufactures in bulk and must be licensed by the states they operate in for compliance with the 1987 **Prescription Drug Marketing Act**. These entities create wide distribution networks to ensure availability by storing their purchases in warehouses around the country so that deliveries can be made in 24-48 hours. They can also drop ship lower-volume, high-cost medications on an as-needed basis.
+- Purchase drugs from manufactures in bulk and must be licensed by the states they operate in for compliance with the 1987 **Prescription Drug Marketing Act**
+- Create wide distribution networks to ensure availability by storing their purchases in warehouses around the country so that deliveries can be made in 24-48 hours
+- Drop ship lower-volume, high-cost medications on an as-needed basis
 
-The federal **340B Drug Pricing Program** limits the cost safety-net providers, like medicaid, federally qualified health centers, and qualified hospitals paid for outpatient drugs through wholesalers.
+> **Note**: The federal **340B Drug Pricing Program** limits the cost safety-net providers, like medicaid, federally qualified health centers, and qualified hospitals paid for outpatient drugs through wholesalers.
 
 ### Drug Manufacturer Labels
 
-Drug manufacturer labels provide critical information about the medication, including the composition, dosage, instructions for use, and safety warnings. These labels also provide specific information about the specific instance of drug, including the batch/ lot number, manufacture date, and expiration date. To simplify inventory tracking, barcodes and National Drug Codes are used.
+Labels provide critical information about the medication name, dosage, instructions, safety warnings, batch number, manufacture & expiration dates.To simplify inventory tracking, barcodes and National Drug Codes are used.
 
 #### National Drug Code (NDC)
 
@@ -141,44 +144,43 @@ Sample NDC: `12345-6789-01`
 
 Barcodes are quickly scanned for inventory tracking and come in two varieties: linear and matrix.
 
-- **Linear Barcodes** are 1 dimensional, appearing as stripes that can be read forward or backwards, and contain the NDC of a drug. These are typically used when a technician is checking what drugs are in stock on shelves.
-- **Matrix Barcodes** are 2 dimensional, appearing as squares with black or white pixels, and contain the NDC, lot/ batch number, and expiration date. These are used when a technician needs to identify the correct product when filling prescriptions.
+- **Linear Barcodes (1D)** appear as stripes that can be read forward or backwards and encodes NDC. Used for stock checks.
+- **Matrix Barcodes (2D)** appear as squares with black or white pixels; encoding NDC, batch, and expiration. Used in prescription filling to verify the correct product is being used
 
 ## Quality Assurance
 
 The FDA is responsible for enforcing rules against adultering and misbranding.
 
-- **Adulteration** includes contamination or failure to meet purity and quality standards
-- **Misbranding** includes false, inaccurate, improper, or confusing labeling or if the product is harmful when used in accordance to the label's directions
+- **Adulteration**: Contanimation or failure to meet purity & quality standards
+- **Misbranding**: Including false, inaccurate, improper, or confusing labeling or if the product is harmful when used according to label directions
 
 ### FDA-Initiated Recalls
 
-While drug approval processes are thorough, it is impossible to account for everything. The FDA maintains reporting programs called **MedWatch** and the **Vaccine Adverse Event Reporting System (VAERS)** that allow anyone to report adverse effects that occur from the use of approved drugs or vaccines. If the FDA determines that any drug or vaccine poses a public health risk, then they may file an injunction to prevent distribution; seize the drug from the manufacturer; or issue a recall of the drug. Recalls are the most cost-effective because they leverage the manufacturer's current infrastructure and knowledge to retrieve offending drugs. Shipping manifests are used to identify where a drug has been delivered in order to focus efforts on that area.
+While drug approval processes are thorough, it is impossible to account for everything. The FDA maintains reporting programs called **MedWatch** and the **Vaccine Adverse Event Reporting System (VAERS)** that allow anyone to report adverse effects that occur from the use of approved drugs or vaccines. If the FDA determines that any drug or vaccine poses a public health risk, then they may file an injunction to prevent distribution; seize the drug from the manufacturer; or issue a recall of the drug.
+
+> Recalls are the most cost-effective because they leverage the manufacturer's current infrastructure and knowledge to retrieve offending drugs. Shipping manifests are used to identify where a drug has been delivered in order to focus efforts on that area.
 
 There are 3 numerical classes of recalls.
 
 | Class                 | Description|
 |-----------------------|------------|
-|1 (Highest Urgency)    | Strong likelihood that the product will cause serious adverse effects or death |
-|2 (Moderate Urgency)   | May cause temporary but reversible adverse effects, or in which there is little likelihood of serious adverse effects |
-|3 (Lowest Urgency)     | Not likely to cause adverse effects |
+|1 (Highest Urgency)    | Likely to cause serious harm or death |
+|2 (Moderate Urgency)   | May cause reversible harm; serious effects are unlikely |
+|3 (Lowest Urgency)     | Not likely to cause harm; violates labeling or manufacturing standards |
 
 Recalls are generally handled in 4 steps.
 
-1. **Reports of Adverse Effects** The FDA receives enough reports of adverse effects or misbranding that it decides the product is a threat and contacts the manufacturer to recall.
+1. **Reports of Adverse Effects** The FDA receives enough reports of adverse effects or misbranding (through MedWatch or VAERS) that it decides the product is a threat and contacts the manufacturer to recall.
 2. **Manufacturer Notice** The manufacturer establishes a plan to recall that addresses severity, warns the public, and a means for checking the effectiveness of the recall.
 3. **Public Notice** The manufacturer contacts customers (e.g. wholesalers, pharmacies, & more) to notify them that a product of a certain name, size, lot number, serial number, or any other identifiers are being recalled. This notice includes the nature of the recall and the amount of danger involved so that they may protect their clients. They are also supplied with instructions on what to do with affected products, beginning with the cessation of distribution.
 4. **Public Listing** These recalls are listed in the weekly FDA enforcement report.
 
 > **Note** The Environmental Protection Agency's (EPA) Resource Conservation Recovery Act (RCRA) governs the generation, management, storage, treatment, and disposal of hazardous wastes. This includes medication and other drugs.
 
-### Manufacturer-Initiated Recalls
+### Other Recalls
 
-Recalls can be initiated by a manufacturer when they detect a defect, contamination, or labeling error. When this happens, they are legally required to notify the FDA and take appropriate action.
-
-### Pharmacy Chain & Distributor Recalls
-
-Large pharmacy chains and wholesalers may voluntarily recall products from their shelves to to internal quality checks or concerns raised by pharmacists. They may also respond to manufacturer or FDA recalls by removing affected products from circulation. This can happen in the event that it's discovered that medication was held in improper storage conditions that could compromise effectiveness.
+- **Manufacturer Recalls**: are initiated when they detect a defect, contamination, or labeling error. When this happens, they are legally required to notify the FDA and take appropriate action.
+- **Pharmacy Chain & Distributor Recalls**: Large pharmacy chains and wholesalers may voluntarily recall products from their shelves to to internal quality checks or concerns raised by pharmacists. They may also respond to manufacturer or FDA recalls by removing affected products from circulation. This can happen in the event that it's discovered that medication was held in improper storage conditions that could compromise effectiveness.
 
 ### The Role of a Technician
 
