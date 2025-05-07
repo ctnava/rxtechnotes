@@ -1,4 +1,4 @@
-# Drug Development, Manufacturing, & Distribution
+# Drug Development, Manufacturing, & Safety Monitoring
 
 **The Food, Drug, & Cosmetic Act (FDC)** was passed in 1906 to prohibit interstate commerce in adulterated or misbranded food, drinks, and drugs on top of requiring government preapproval before marketing or sale; enforced by the Bureau of Chemistry. It enforced these regulations until the Food, Drug, & Insecticide Administration was formed in 1927 and rebranded as the FDA in 1930.
 
@@ -71,3 +71,31 @@ The FDA checks for trademark violations. Packaging and labeling must be distinct
 #### Step 3: Post-Market Surveillance
 
 If the ANDA meets FDA requirements, the generic drug is approved for marketing. Generic drugs are also subject to the same post-market safety monitoring as brand name drugs.
+
+## Quality Assurance
+
+The FDA is responsible for enforcing rules against adultering and misbranding.
+
+- **Adulteration** includes contamination or failure to meet purity and quality standards
+- **Misbranding** includes false, inaccurate, improper, or confusing labeling or if the product is harmful when used in accordance to the label's directions
+
+### Recalls
+
+While drug approval processes are thorough, it is impossible to account for everything. The FDA maintains reporting programs called **MedWatch** and the **Vaccine Adverse Event Reporting System (VAERS)** that allow anyone to report adverse effects that occur from the use of approved drugs or vaccines. If the FDA determines that any drug or vaccine poses a public health risk, then they may file an injunction to prevent distribution; seize the drug from the manufacturer; or issue a recall of the drug. Recalls are the most cost-effective because they leverage the manufacturer's current infrastructure and knowledge to retrieve offending drugs. Shipping manifests are used to identify where a drug has been delivered in order to focus efforts on that area.
+
+There are 3 numerical classes of recalls.
+
+| Class                 | Description|
+|-----------------------|------------|
+|1 (Highest Urgency)    | Strong likelihood that the product will cause serious adverse effects or death |
+|2 (Moderate Urgency)   | May cause temporary but reversible adverse effects, or in which there is little likelihood of serious adverse effects |
+|3 (Lowest Urgency)     | Not likely to cause adverse effects |
+
+Recalls are generally handled in 4 steps.
+
+1. **Reports of Adverse Effects** The FDA receives enough reports of adverse effects or misbranding that it decides the product is a threat and contacts the manufacturer to recall.
+2. **Manufacturer Notice** The manufacturer establishes a plan to recall that addresses severity, warns the public, and a means for checking the effectiveness of the recall.
+3. **Public Notice** The manufacturer contacts customers (e.g. wholesalers, pharmacies, & more) to notify them that a product of a certain name, size, lot number, serial number, or any other identifiers are being recalled. This notice includes the nature of the recall and the amount of danger involved so that they may protect their clients. They are also supplied with instructions on what to do with affected products, beginning with the cessation of distribution.
+4. **Public Listing** These recalls are listed in the weekly FDA enforcement report.
+
+> **Note** The Environmental Protection Agency's (EPA) Resource Conservation Recovery Act (RCRA) governs the generation, management, storage, treatment, and disposal of hazardous wastes. This includes medication and other drugs.
