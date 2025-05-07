@@ -124,7 +124,7 @@ There are 3 main types of supplier: drug manufacturers, specialty pharmacies, an
 
 ### Drug Manufacturer Labels
 
-Labels provide critical information about the medication name, dosage, instructions, safety warnings, batch number, manufacture & expiration dates.To simplify inventory tracking, barcodes and National Drug Codes are used.
+Labels provide critical information about the medication name, dosage, instructions, safety warnings, batch number, manufacture & expiration dates.To simplify inventory tracking, barcodes and National Drug Codes are used. The ISMP encourages the use of **tall man lettering** to prevent look-alike or sound-alike drugs from being confused with one another.
 
 #### National Drug Code (NDC)
 

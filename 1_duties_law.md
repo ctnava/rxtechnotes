@@ -108,7 +108,25 @@ In California:
 - **Renewals**: Notices mailed 90 days before expiration; licenses are canceled if not renewed within 90 days post-expiration
 - **License Portability**: California has **no reciprocity**; technicians moving to other states must reapply there. Returning to CA may require full reapplication if the license was canceled
 
+## Court of Law
+
+Judicial law has two main divisions:
+
+- **Criminal Law**: laws pertaining to a wrong to society
+- **Civil Law**: laws pertaining to a wrong to an individual
+
+In civil law, there are two major subdivisions:
+
+- **Contracts**: legal agreements that have duties associated with them
+- **Torts**: civil wrongs that have duties associated with them, created by law
+
+Torts are a branch of civil law in which the courts determine remedies for alleged harm suffered by people who have no formal relationship with the offender and the majority of court cases involving pharmacists are torts. These are typically **negligence lawsuits**, where a person or legal party who failed to use reasonable caution when providing care or services which resulted in damages to the victim. **Malpractice** is a type of negligence lawsuit brough against a person with a professional license.
+
+> **Emily's Law** refers to a piece of legislation that focused on improving the qualifications and training of pharmacy technicians after a medication error led to the death of a child, resulting from a malpractice lawsuit. The pharmacist did not catch this error and both were held liable.
+
 ## Important Legislation
+
+Below are vital pieces of legislation to know as a pharmacy technician.
 
 ### Occupational Safety & Health Act (OSHA) - 1970
 
@@ -139,7 +157,7 @@ HIPAA protects patient privacy by regulating how **Covered Entities** handle **P
 - **NPI (National Provider Identifier)**: 10-digit number assigned to healthcare providers for standardized identification. Each covered entity may receive only one unique NPI, similar to a person's Social Security Number (SSN), and must be used for all standard transactions covered by HIPAA.
 - **NPP (Notice of Privacy Practices)**: Outlines how patient info is used and protected; patients must sign acknowledgment, retained for 6 years from the date of creation or last date in effect (whichever is later) and usually means from the last date of service.
 
-## Restrictions, Violations, & Penalties
+#### Restrictions, Violations, & Penalties
 
 Under HIPAA, medical personnel cannot disclose any PHI to anyone other than the patient unless the patient has given express consent, including spouses & relatives. One such form of consent is a Release of Information form that is typically used to transfer PHI to another healthcare facility or to receive for their personal use. This includes accessing your own records without following proper protocol.
 
@@ -156,7 +174,7 @@ Violations due to reasonable cause and not willfull neglect can result in $1,000
 
 > **NOTE** HIPAA allows the sharing of PHI under emergency situations such as natural disasters where people may be evacuated and require healthcare. Notice of disclosures still need to be delivered as soon as reasonably practicable after the emergency.
 
-## The Health Information Technology for Economic & Clinical Health Act (HITECH, 2009)
+#### The Health Information Technology for Economic & Clinical Health Act (HITECH, 2009)
 
 - mends HIPAA to promote adoption and meaningful use of health information technology, including electronic prescribing & medical records
 - set standards for the creation of these electronic systems
