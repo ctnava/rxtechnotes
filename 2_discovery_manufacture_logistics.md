@@ -133,6 +133,20 @@ There are 3 main types of supplier: drug manufacturers, specialty pharmacies, an
 
 Labels provide critical information about the medication name, dosage, instructions, safety warnings, batch number, manufacture & expiration dates.To simplify inventory tracking, barcodes and National Drug Codes are used. The ISMP encourages the use of **tall man lettering** to prevent look-alike or sound-alike drugs from being confused with one another.
 
+#### Fair Packaging & Labeling Act (FPLA, 1967)
+
+The Fair Packaging and Labeling Act (FPLA) requires all consumer products (including over-the-counter (OTC) drugs and many prescription drug packages) to bear labels that are truthful, standardized, and easy for consumers to understand. Enforced by the FDA (for food, drugs, cosmetics) and the FTC (for other consumer goods), this act ensures transparency and prevents deceptive packaging.
+
+Under the FPLA, drug packaging must include:
+
+- The name and place of business of the manufacturer, packer, or distributor
+- An accurate statement of the quantity of the contents (by weight, measure, or count)
+- A clear declaration of the product’s identity and intended use
+
+These requirements complement the FDA’s misbranding and labeling rules under the FDCA and ensure consumers receive consistent and honest information, regardless of brand.
+
+> 📌 The FPLA helps prevent misbranding by requiring clarity and standardization in labeling. Technicians must ensure that OTC products and bulk containers are correctly labeled before stocking shelves or filling orders.
+
 #### National Drug Code (NDC)
 
 The **Drug Listing Act** of 1972 mandates that all drug establishments provide a complete list of drugs manufactured, prepared, propagated, compounded, or processed for distribution, and these drugs must have a ***11-digit National Drug Code (NDC)***; a 3-segmented universal identifier. It's NATO-specific counterpart is called the NATO Stock Number (NSN).
