@@ -29,6 +29,14 @@ Pharmacy technicians are **healthcare professionals** who assist pharmacists wit
 - **Patient Records**: Collecting and entering patient data into pharmacy systems
 - **Inventory Management**: Monitoring stock and notifying pharmacists of shortages
 
+### Pharmacist Interns
+
+Interns are pharmacy students enrolled in a PharmD program and working under a **pharmacist’s supervision**. They typically hold an **intern license**. Responsibilities include:
+
+- **Patient Interaction**: Taking medication histories and verifying prescriptions
+- **Medication Prep**: Counting, packaging, and labeling prescriptions
+- **Administrative Support**: Entering data, monitoring inventory, and maintaining records
+
 ### Pharmacist
 
 Pharmacists are healthcare professionals licensed to **dispense medications**, **counsel patients**, and **oversee pharmacy operations**. They must hold a **Doctor of Pharmacy (PharmD)** degree and pass the **NAPLEX and MPJE** for licensure. Their duties include:
@@ -39,13 +47,44 @@ Pharmacists are healthcare professionals licensed to **dispense medications**, *
 - **Administering Vaccines**: Providing immunizations (as allowed by state law)
 - **Health Screenings**: Conducting blood pressure checks and other basic screenings
 
-### Pharmacist Interns
+#### Additional Requirements Set Forth by Law
 
-Interns are pharmacy students enrolled in a PharmD program and working under a **pharmacist’s supervision**. They typically hold an **intern license**. Responsibilities include:
+Certain federal laws have established pharmacist responsibilities that directly affect pharmacy operations, particularly in how pharmacists interact with patients and manage drug therapy. These laws also shape how pharmacy technicians support those processes.
 
-- **Patient Interaction**: Taking medication histories and verifying prescriptions
-- **Medication Prep**: Counting, packaging, and labeling prescriptions
-- **Administrative Support**: Entering data, monitoring inventory, and maintaining records
+##### Social Security Act Amendments (1965)
+
+The Social Security Act created the Medicare and Medicaid programs:
+
+- **Medicare**: A federal health insurance program for people aged 65+, individuals with certain disabilities, and patients with End-Stage Renal Disease (ESRD).
+- **Medicaid**: A joint federal-state program providing health coverage to low-income individuals.
+
+These programs laid the foundation for future pharmacy regulations that affect how medications are dispensed and monitored, especially for public health insurance recipients.
+
+##### Omnibus Budget Reconcillation Act (OBRA-90 or "the Omnibus", 1990)
+
+OBRA-90 was a major federal law affecting Medicaid prescription drug programs. It mandates that states receiving federal funds must require pharmacists to:
+
+- 📄 **Maintain Patient Medication Profiles**: Pharmacies must maintain records of a patient’s medication history to support counseling and DUR obligations.
+- 📋 **Conduct Drug Utilization Reviews (DURs)**: Evaluate prescriptions to identify therapeutic duplication, drug–disease contraindications, incorrect dosage or duration, and drug–drug interactions.
+- 💬 **Offer Counseling to Medicaid Patients**: Pharmacists must “offer to counsel” Medicaid patients on:
+  - Proper use of the medication
+  - Potential side effects or adverse reactions
+  - Storage instructions
+  - What to do in case of a missed dose
+
+> ⚠️ Some states have extended OBRA-90 requirements to all patients, not just Medicaid recipients. Rejections of counsel must be signed and stored as part of the patient's medication profile.
+
+##### Medicare Modernization Act (MMA, 2003)
+
+The Medicare Modernization Act established Part D of the program to provide prescription drug coverage and requires pharmacists to provide ***Medication Therapy Mangement (MTM)***.
+
+- 💊 **Medication Therapy Management (MTM)**: Pharmacists are required to offer MTM services to eligible Medicare Part D patients. These services include:
+  - Reviewing all medications a patient is taking
+  - Identifying duplications or interactions
+  - Providing personalized medication action plans
+  - Optimizing therapeutic outcomes
+
+> **NOTE**: MTM is usually targeted toward patients taking multiple chronic medications, especially those with multiple conditions or high drug costs. This is done to ensure compliance to, both, reduce waste and improve therapy outcomes.
 
 ## Compliance with the Law
 
