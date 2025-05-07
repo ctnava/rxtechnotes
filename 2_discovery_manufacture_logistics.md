@@ -1,4 +1,8 @@
-# Drug Development, Manufacturing, & Safety Monitoring
+# Chapter 2: The Discovery, Manufacture, & Logistics of Drugs
+
+Notes on drug development, manufacturing, logistics, & safety monitoring
+
+---
 
 **The Food, Drug, & Cosmetic Act (FDC)** was passed in 1906 to prohibit interstate commerce in adulterated or misbranded food, drinks, and drugs on top of requiring government preapproval before marketing or sale; enforced by the Bureau of Chemistry. It enforced these regulations until the Food, Drug, & Insecticide Administration was formed in 1927 and rebranded as the FDA in 1930.
 
