@@ -1,4 +1,8 @@
-# Chapter 3: Prescribing Marketing Drugs
+# Chapter 3: Authorizing Access to Drugs
+
+This chapter covers how patients are authorized access to medications by prescribing authorities.
+
+---
 
 The **Durham-Humphrey Amendment** (1951) amendment established two classes of drugs: *legend* & *over-the-counter* (OTC).
 

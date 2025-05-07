@@ -2,6 +2,8 @@
 
 Notes on general duties and laws to follow for pharmacy technicians.
 
+---
+
 ## Pharmacy Personnel
 
 Pharmacists rely on pharmacy technicians as support staff to assist with essential tasks that do not require the pharmacist's skill or expertise.

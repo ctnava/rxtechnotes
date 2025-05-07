@@ -2,6 +2,8 @@
 
 This chapter covers how drugs are discovered, developed, tested, manufactured, distributed, and monitored for safety.
 
+---
+
 ## Historical Background
 
 ### The Pure Food, Drugs, & Cosmetics Act (FDC, 1906)
