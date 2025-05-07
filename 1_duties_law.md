@@ -4,7 +4,7 @@ Notes on general duties and laws to follow for pharmacy technicians.
 
 ## Pharmacy Personnel
 
-Pharmacists rely on pharmacy technicians as support staff to assist with essential tasks that do not require the doctor's skill or expertise.
+Pharmacists rely on pharmacy technicians as support staff to assist with essential tasks that do not require the pharmacist's skill or expertise.
 
 ### Pharmacy Clerk/ Assistant
 
@@ -16,9 +16,11 @@ Pharmacy clerks (also called assistants) are **unlicensed personnel** who suppor
 - **Payment Processing**: Handling customer payments and receipts
 - **Clerical Work**: Filing records, organizing paperwork
 
+> 🛑 **Note**: In some states, clerks may not be permitted to enter or access prescription data.
+
 ### Pharmacy Technicians (PhT)
 
-Pharmacy technicians are **licensed healthcare professionals** who assist pharmacists with technical tasks. At minimum, technicians require **state licensure**, and some employers may also require **national certification**. Their scope of practice typically includes:
+Pharmacy technicians are **healthcare professionals** who assist pharmacists with technical tasks. In some states, techs are only registered, not licensed. At minimum states require that technicians are **registered (and usually licensed)**, while some employers may also require **national certification**. Their scope of practice typically includes:
 
 - **Prescription Processing**: Receiving and processing medication orders, measuring and preparing dosages
 - **Labeling**: Packaging and labeling medications with usage instructions
@@ -115,7 +117,7 @@ Ensures workplace safety. Employers must:
 - Provide **Personal Protective Equipment (PPE)** when exposure to hazardous substances is possible
 - Maintain **Safety Data Sheets (SDS)** for all hazardous substances to explain the risks of exposure, handling instructions, and protocols necessary to prevent harm from such incidents.
 
-### The Health Information Privacy & Accountability Act (HIPAA) - 1996
+### The Health Information Portability & Accountability Act (HIPAA) - 1996
 
 HIPAA protects patient privacy by regulating how **Covered Entities** handle **Protected Health Information (PHI)**. It is a large statute that primarily concerns the continuation of health insurance coverage for workers who leave their jobs. UAll personnel that have access to PHI must be formally trained periodically on HIPAA regulations to stay up to date and there must be a designated privacy officer appointed on duty.
 
@@ -134,7 +136,7 @@ HIPAA protects patient privacy by regulating how **Covered Entities** handle **P
   - **Other Electronic (ePHI)**: Emails, EHRs, text messages, or files stored on computers or mobile devices
 
 - **NPI (National Provider Identifier)**: 10-digit number assigned to healthcare providers for standardized identification. Each covered entity may receive only one unique NPI, similar to a person's Social Security Number (SSN), and must be used for all standard transactions covered by HIPAA.
-- **NPP (Notice of Privacy Practices)**: Outlines how patient info is used and protected; patients must sign acknowledgment, retained for 6 years from the last date of service.
+- **NPP (Notice of Privacy Practices)**: Outlines how patient info is used and protected; patients must sign acknowledgment, retained for 6 years from the date of creation or last date in effect (whichever is later) and usually means from the last date of service.
 
 Under HIPAA, medical personnel cannot disclose any PHI to anyone other than the patient unless the patient has given express consent, including spouses & relatives. One such form of consent is a Release of Information form that is typically used to transfer PHI to another healthcare facility or to receive for their personal use.
 
