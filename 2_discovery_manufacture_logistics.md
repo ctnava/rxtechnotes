@@ -30,16 +30,6 @@ There exist two commercial categories of drugs:
 - **Brand Name Drugs**: Original drugs developed by pharmaceutical companies, protected by patents, and marketed under proprietary names
 - **Generic Drugs**: Copies of brand-name drugs that have the same active ingredients, strength, dosage form, and route of administration, but sold under generic chemical names or different brand names after the original patent expires
 
-### Good Manufacturing Processes (GMP)
-
-Mandated by the FDA to ensure consistent drug quality:
-
-- Validated manufacturing processes
-- Clean and hygienic facilities
-- Qualified personnel and training
-- Detailed documentation
-- Regular audits and inspections
-
 ### Brand Name Drug Development
 
 In order for a newly patented, *Brand Name* drug to come to market, the FDA must first approve it. The process generally is as follows:
@@ -55,7 +45,7 @@ In order for a newly patented, *Brand Name* drug to come to market, the FDA must
 - Conduct **in vitro** (human cells) tests for efficacy & toxicity
 - Conduct **in vivo** (animal) tests to study ADME (Absorption, Distribution, Metabolism, and Excretion) processes
 - Test in at least two mammalian species.
-- Submit results and a clinical plan to the FDA's CDER in an ***Investigational New Drug (IND)*** application. This application additionally requires a plan for human testing and manufacturing details to comply with the Good Manufacturing Practices (GMP) provisioned by the Kefauver-Harris Amendment.
+- Submit results and a clinical plan to the FDA's CDER in an ***Investigational New Drug (IND)*** application. This application additionally requires a plan for human testing and manufacturing details to comply with the ***Good Manufacturing Practices (GMP)*** provisioned by the Kefauver-Harris Amendment.
 
 #### Step 3: Clinical Trials (4-7 Years)
 
@@ -78,6 +68,19 @@ Clinical trials involve human research subjects and are conducted in three phase
 - Manufacturer maintains exclusive rights (~20 years) to offset research & development cost
 - Continuous monitoring of long-term safety and efficacy after the drug is released to the market
 
+##### Risk Evaluation & Mitigation Strategies (REMS)
+
+In some cases, the FDA may require additional safety measures for high-risk medications after they are brought to market. Established under the FDA Amendments Act of 2007, REMS are required safety programs for medications with known or potential serious risks that must be managed to ensure that the drug’s benefits outweigh its risks.
+
+Depending on the drug, a REMS program may include one or more of the following:
+
+- ***Medication guides*** or ***patient package inserts (PPIs)***
+- Prescriber training and certification requirements
+- Pharmacy certification and restricted dispensing systems
+- Enrollment of patients in registries or special monitoring programs
+
+> **Example**: The drug isotretinoin (Accutane), which can cause severe birth defects, is subject to a REMS program called iPLEDGE that requires prescribers, pharmacies, and patients to follow strict steps before dispensing or receiving the medication.
+
 ### Generic Drug Manufacturing
 
 Once a patent for a brand name drug expires, other manufacturers may copy the drug and release it under its generic name. Generic drugs require FDA approval but do not require full R&D because clinical trials for safety & efficacy were already established by the original producer. To obtain approval, generic manufacturers only need to demonstrate equivalency; shortening the process to 1 - 3 years.
@@ -93,7 +96,7 @@ Studies are conducted on a small group of healthy volunteers to compare the gene
 
 #### Step 2: Manufacturing & Quality Assurance
 
-The FDA checks for trademark violations. Packaging and labeling must be distinct from brand name. Inactive ingredients may vary to lower production cost, but a facility inspection is also conducted to ensure compliance with the aforementioned Good Manufacturing Practices.
+The FDA checks for trademark violations. Packaging and labeling must be distinct from brand name. Inactive ingredients may vary to lower production cost, but a facility inspection is also conducted to ensure compliance with the aforementioned ***Good Manufacturing Practices (GMP)***.
 
 #### Step 3: Post-Market Surveillance
 
@@ -161,6 +164,22 @@ The FDA is responsible for enforcing rules against adultering and misbranding.
 ---
 
 > The Drug Quality & Security Act (2013) expands the authority of the FDA to include compounded drugs.
+
+### Good Manufacturing Practices (GMP)
+
+GMP are a set of quality assurance standards enforced by the FDA to ensure that drugs are consistently produced and controlled according to rigorous safety and quality criteria. These standards apply to both brand name and generic manufacturers and were strengthened under the Kefauver-Harris Amendment of 1962.
+
+GMP requirements help prevent adulteration and misbranding by mandating that manufacturers:
+
+- Use validated and standardized manufacturing processes
+- Maintain clean, hygienic, and climate-controlled facilities
+- Employ qualified staff with documented training
+- Keep detailed records of production and quality control
+- Perform regular audits and allow FDA inspections
+
+Facilities that fail to meet GMP standards may face fines, recalls, or loss of manufacturing licenses. Compliance with GMP ensures that every batch of medication meets the same identity, strength, quality, and purity requirements as approved by the FDA.
+
+> 📌 Pharmacy technicians may encounter GMP-related topics during FDA recalls, quality investigations, or compounding procedures.
 
 ### FDA-Initiated Recalls
 
