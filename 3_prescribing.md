@@ -9,11 +9,13 @@ The **Durham-Humphrey Amendment** (1951) amendment established two classes of dr
 
 ## Prescriptions
 
-## Common Pharmacy SIG Abbreviations
+### Transcribing the SIG
+
+Below are a list of common abbreviations used for transcribing SIGs on prescriptions or medication orders.
 
 > ⚠️ Indicates that this abbreviation is on the "Do Not Use" List.
 
-### 🧭 Route of Administration
+#### 🧭 Route of Administration
 
 | Emoji | Abbreviation | Meaning                | ⚠️ |
 |-------|--------------|------------------------|----|
@@ -39,7 +41,7 @@ The **Durham-Humphrey Amendment** (1951) amendment established two classes of dr
 | 🩹    | P (RxConnect) | Patch                  |    |
 | 🧴    | A (RxConnect) | Apply                  |    |
 
-### 💊 Dosage Form
+#### 💊 Dosage Form
 
 | Emoji | Abbreviation | Meaning          | ⚠️ |
 |-------|--------------|------------------|----|
@@ -56,7 +58,7 @@ The **Durham-Humphrey Amendment** (1951) amendment established two classes of dr
 | 💨🌀 | SP (RxConnect) | Spray              |    |
 | 🌀✅  | SAS (RxConnect) | Swish and swallow  |    |
 
-### ⏰ Timing & Frequency
+#### ⏰ Timing & Frequency
 
 | Emoji | Abbreviation | Meaning                    | ⚠️ |
 |-------|--------------|----------------------------|----|
@@ -77,7 +79,7 @@ The **Durham-Humphrey Amendment** (1951) amendment established two classes of dr
 | 🚨    | STAT         | Immediately                |    |
 | 🗓️    | FXD (RxConnect) | For 10 Days                |    |
 
-### 📏 Measurement
+#### 📏 Measurement
 
 | Emoji | Abbreviation | Meaning                | ⚠️ |
 |-------|--------------|------------------------|----|
@@ -98,7 +100,7 @@ The **Durham-Humphrey Amendment** (1951) amendment established two classes of dr
 | ⚖️    | mEq          | Milliequivalents       |    |
 | ⚠️    | ss, S           | One-half               | ⚠️ (mistaken for “55” or "5") |
 
-### 🧩 Miscellaneous
+#### 🧩 Miscellaneous
 
 | Emoji | Abbreviation | Meaning                   | ⚠️ |
 |-------|--------------|---------------------------|----|
@@ -119,7 +121,7 @@ The **Durham-Humphrey Amendment** (1951) amendment established two classes of dr
 | ➖    | ō             | Without / With No (archaic/Latin)  | ⚠️ (rare or ambiguous) |
 | ✅🩹 | AAA (RxConnect) | Apply to affected area          |    |
 
-### 🧾 PRN or Indications (RxConnect)
+#### 🧾 PRN or Indications (RxConnect)
 
 | Emoji | Abbreviation | Meaning                 |
 |-------|--------------|-------------------------|
@@ -136,7 +138,7 @@ The **Durham-Humphrey Amendment** (1951) amendment established two classes of dr
 | 🫁    | SOB          | For shortness of breath |
 | 💓    | HTN          | For hypertension        |
 
-### 🔣 Common Symbols
+#### 🔣 Common Symbols
 
 | Emoji/Symbol | Symbol | Meaning              | ⚠️ |
 |--------------|--------|----------------------|----|
@@ -149,7 +151,7 @@ The **Durham-Humphrey Amendment** (1951) amendment established two classes of dr
 | ♾️            | ∞      | Infinity / Ongoing/ No Limit   |    |
 | 🚫            | Ø      | None / Null / No Value       |    |
 
-### 💼 Common Medication-Specific SIG Codes (RxConnect)
+#### 💼 Common Medication-Specific SIG Codes (RxConnect)
 
 | Medication   | SIG Instruction                                                                 |
 |--------------|----------------------------------------------------------------------------------|
@@ -161,7 +163,9 @@ The **Durham-Humphrey Amendment** (1951) amendment established two classes of dr
 | SPIRIVA      | Inhale 1 capsule via HandiHaler once daily at the same time every day.          |
 | ZPAK         | Take 2 tablets by mouth today, then take 1 tablet daily for 4 days.             |
 
-## Common Verbs & Associated Dosage Forms by Route
+### Common Verbs & Associated Dosage Forms by Route
+
+Directions for use must be specific as the patient does not know what to do with strange medications. Some dosage forms are more toxic when taken the wrong way (e.g. Sulfanilimide).
 
 | Verb              | Dosage Form                                              | Route                    | Emoji |
 |-------------------|----------------------------------------------------------|---------------------------|--------|
