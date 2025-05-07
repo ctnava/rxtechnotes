@@ -175,8 +175,6 @@ The FDA is responsible for enforcing rules against adultering and misbranding.
 - **Adulteration**: Contanimation or failure to meet purity & quality standards
 - **Misbranding**: Including false, inaccurate, improper, or confusing labeling or if the product is harmful when used according to label directions
 
----
-
 > The Drug Quality & Security Act (2013) expands the authority of the FDA to include compounded drugs.
 
 ### Good Manufacturing Practices (GMP)
