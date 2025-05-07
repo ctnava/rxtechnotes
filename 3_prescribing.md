@@ -11,13 +11,30 @@ The **Durham-Humphrey Amendment** (1951) amendment established two classes of dr
 - **Legend**: Medications that may not be dispensed to the public except on the order or *prescription* of a licensed prescriber. These "prescription" drugs require a federal *legend* to appear on the packaging that states: "Federal law prohibits dispensing this medication without a prescription".
 - **Over-the-Counter(OTC)**: Medications that may be sold without a prescription as long as they are appropriately labeled for home use. OTC drugs are not inherently safe because they may have significant drug interactions with prescription medications. Technicians must refer patients who request them to pharmacists.
 
-## Prescriptions
+## Authorized Prescribers
 
+Prescribing authority is determined by state boards of pharmacy and is not limited to physicians.
 
+## Medication Orders & Prescriptions
 
-### Transcribing the SIG
+Prescriptions and medication orders are instructions from a medical practictioner that authorizes the issue of a drug or device to a patient. They have the following requirements:
 
-Below are a list of common abbreviations used for transcribing SIGs on prescriptions or medication orders.
+- **Prescriber Information**: the name, title, office address, and telephone number
+- **National Provider Identifier (NPI)**: A prescriber's unique national identification number, mandated by HIPAA and administered by the National Plan and Provider Enumeration System (NPPES)
+- **Drug Enforcement Administration (DEA) prescriber registration number**: A number assigned to the prescriber by the DEA that is required on all controlled substance prescriptions
+- **Date**: when the prescription was written
+- **Patient Identifiers**: information used to identify the patient
+  - **required**: name & address
+  - **optional**: date of birth & weight
+- **Inscription**: specifies the medication prescribed, including strength & amount
+- **Signa**: directions for use
+- **Refill Instructions**: How many refills are authorized for the patient
+- **Product Selection Code (Optional)**: Whether or not the medication is specified to be dispensed as written
+- **Prescriber Signature**: required on all prescriptions
+
+### Translating the Signa
+
+Signa (the "sig") is almost always heavily abbreviated and pharmacy techs are often required to transcribe them for computer entry. Below are a list of common abbreviations used for transcribing SIGs on prescriptions or medication orders.
 
 > ⚠️ Indicates that this abbreviation is on the "Do Not Use" List.
 
