@@ -149,6 +149,19 @@ The **Durham-Humphrey Amendment** (1951) amendment established two classes of dr
 | ♾️            | ∞      | Infinity / Ongoing/ No Limit   |    |
 | 🚫            | Ø      | None / Null / No Value       |    |
 
+### 💼 Common Medication-Specific SIG Codes (RxConnect)
+
+| Medication   | SIG Instruction                                                                 |
+|--------------|----------------------------------------------------------------------------------|
+| ADVAIR       | Inhale 1 dose by mouth twice daily. Rinse mouth after use.                      |
+| FLC          | To be administered by pharmacist for immunization.                              |
+| MEDROL       | Take 6 tablets on day 1 as directed on package and decrease by 1 tablet daily for a total of 6 days. |
+| NUVARING     | Insert 1 ring vaginally as directed. Remove after 3 weeks & wait 7 days before inserting new one. |
+| PERI, PERIDEX| Rinse ½ ounce twice a day after breakfast and at bedtime after brushing and flossing. |
+| SPIRIVA      | Inhale 1 capsule via HandiHaler once daily at the same time every day.          |
+| ZPAK         | Take 2 tablets by mouth today, then take 1 tablet daily for 4 days.             |
+
+
 ## Common Verbs & Associated Dosage Forms by Route
 
 | Verb              | Dosage Form                                              | Route                    | Emoji |
