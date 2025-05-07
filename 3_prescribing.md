@@ -71,6 +71,7 @@ The **Durham-Humphrey Amendment** (1951) amendment established two classes of dr
 | 🌙    | QPM, PM      | Evening or night           |    |
 | ☀️    | QAM, AM      | Every morning              |    |
 | 🙋‍♂️    | PRN          | As needed                  |    |
+| 🍽️    | WF           | With food                  |    |
 | 💊🍽️  | AC           | Before meals               |    |
 | 🍽️💊  | PC           | After meals                |    |
 | 🚨    | STAT         | Immediately                |    |
