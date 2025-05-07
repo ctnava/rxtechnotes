@@ -4,7 +4,9 @@
 
 **The Food, Drug, & Cosmetic Act (FDC)** was passed in 1906 to prohibit interstate commerce in adulterated or misbranded food, drinks, and drugs on top of requiring government preapproval before marketing or sale; enforced by the Bureau of Chemistry. It enforced these regulations until the Food, Drug, & Insecticide Administration was formed in 1927 and rebranded as the FDA in 1930.
 
-The **FDCA** (1938) was passed in response to a fatal poisoning of over 100 people by an untested ***sulfanilamide*** drug. This law requires that any new drugs ***must be proven safe*** if used according to directions on its label. Later in 1962, the **Kefauver-Harris Amendment** required that all new drugs ***must also be proven effective*** for the intended use required on drug labels in accordance with the ruling on the *Alberty Food Products v. US* case in 1950.
+The **FDCA** (1938) was passed in response to a fatal poisoning of over 100 people by an untested ***sulfanilamide*** drug. This law requires that any new drugs ***must be proven safe*** if used according to directions on its label. Later in 1962, a new sleeping pill containing the drug ***thalidomide*** caused severe birth defects in pregnant women. In response, the **Kefauver-Harris Amendment** required that all new drugs ***must also be proven effective*** for the intended use required on drug labels in accordance with the ruling on the *Alberty Food Products v. US* case in 1950.
+
+> **Note**: Thalidomide was later found to be safe and effective for treating multiple myeloma & leprosy and is now approved for those uses. However, men and women must both acknowledge the risks associated with taking it and actions they must take while being treated with it.
 
 ### Drug Production
 
