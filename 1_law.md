@@ -12,7 +12,7 @@ Laws in the USA are created and enforced on the state and federal level. ***Fede
 
 Two prominent *federal* agencies involved in the regulation of pharmacy are the Food & Drug Administration (FDA) and Drug Enforcement Agency (DEA).
 
-- **The FDA** was established in 1938 by the ***Federal Food Drug & Cosmetics Act (FDCA)*** and is in charge of assuring the safety, efficacy, & quality of; drugs as well as medical devices; food, cosmetics, and supplements; and products that emit radiation. It's predecessor
+- **The FDA** was established in 1938 by the ***Federal Food Drug & Cosmetics Act (FDCA)*** and is in charge of assuring the safety, efficacy, & quality of; drugs as well as medical devices; food, cosmetics, and supplements; and products that emit radiation.
 - **The DEA** was established in 1973 as part of the ***Controlled Substances Act (CSA)*** of 1970 as its primary enforcement agency.
 
 In addition to laws enforced by these agencies, there are federal laws regulating the treatment of patients that apply to various aspects of pharmacy. These laws guarantee certain rights for patients including: privacy & confidentiality; the right to file complaints; and the right to refuse treatment.
