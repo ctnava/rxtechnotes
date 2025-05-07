@@ -118,7 +118,7 @@ The FDA is responsible for enforcing rules against adultering and misbranding.
 - **Adulteration** includes contamination or failure to meet purity and quality standards
 - **Misbranding** includes false, inaccurate, improper, or confusing labeling or if the product is harmful when used in accordance to the label's directions
 
-### Recalls
+### FDA-Initiated Recalls
 
 While drug approval processes are thorough, it is impossible to account for everything. The FDA maintains reporting programs called **MedWatch** and the **Vaccine Adverse Event Reporting System (VAERS)** that allow anyone to report adverse effects that occur from the use of approved drugs or vaccines. If the FDA determines that any drug or vaccine poses a public health risk, then they may file an injunction to prevent distribution; seize the drug from the manufacturer; or issue a recall of the drug. Recalls are the most cost-effective because they leverage the manufacturer's current infrastructure and knowledge to retrieve offending drugs. Shipping manifests are used to identify where a drug has been delivered in order to focus efforts on that area.
 
@@ -138,3 +138,23 @@ Recalls are generally handled in 4 steps.
 4. **Public Listing** These recalls are listed in the weekly FDA enforcement report.
 
 > **Note** The Environmental Protection Agency's (EPA) Resource Conservation Recovery Act (RCRA) governs the generation, management, storage, treatment, and disposal of hazardous wastes. This includes medication and other drugs.
+
+### Manufacturer-Initiated Recalls
+
+Recalls can be initiated by a manufacturer when they detect a defect, contamination, or labeling error. When this happens, they are legally required to notify the FDA and take appropriate action.
+
+### Pharmacy Chain & Distributor Recalls
+
+Large pharmacy chains and wholesalers may voluntarily recall products from their shelves to to internal quality checks or concerns raised by pharmacists. They may also respond to manufacturer or FDA recalls by removing affected products from circulation. This can happen in the event that it's discovered that medication was held in improper storage conditions that could compromise effectiveness.
+
+### The Role of a Technician
+
+Technicians must stay up to date with recalls posted online. When a recall is brought to their attention, they must alert the pharmacist and store management; providing information for patient outreach. Recalls are generally handled in the pharmacy with the following methodology:
+
+| Step      | Description |
+|-----------|-------------|
+| Verify    | Verify the recall details (lot number, expiration date, affected batches) to see if affected lot numbers are present on shelves.  |
+| Remove    | Remove affected products from inventory and quarantine them. |
+| Notify    | Notify affected patients and healthcare providers (with online alerts, telephone calls, and physical notices) to instruct them to discontinue use. Additionally, arrange for refunds & exchanges. |
+| Follow    | Follow manufacturer or FDA instructions for return or disposal of products. Stay alert for further guidance. |
+| Document  | Document actions taken for pharmacy records to report compliances to regulatory authorities as required. |
