@@ -128,6 +128,7 @@ There are 3 main types of supplier: drug manufacturers, specialty pharmacies, an
 ### Wholesalers
 
 - Purchase drugs from manufactures in bulk and must be licensed by the states they operate in for compliance with the 1987 **Prescription Drug Marketing Act**
+- Wholesalers may only purchase from authorized manufacturers and are not allowed to reimport batches of drugs once exported under this act
 - Create wide distribution networks to ensure availability by storing their purchases in warehouses around the country so that deliveries can be made in 24-48 hours
 - Drop ship lower-volume, high-cost medications on an as-needed basis
 
