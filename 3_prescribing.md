@@ -35,20 +35,26 @@ The **Durham-Humphrey Amendment** (1951) amendment established two classes of dr
 | 🌸    | PV           | Vaginal                |    |
 | 💧+💉 | IVPB         | IV Piggyback           |    |
 | 💉⏩  | IVP          | IV Push                |    |
+| 👃    | EN (RxConnect) | Each nostril           |    |
+| 🩹    | P (RxConnect) | Patch                  |    |
+| 🧴    | A (RxConnect) | Apply                  |    |
 
 ### 💊 Dosage Form
 
 | Emoji | Abbreviation | Meaning          | ⚠️ |
 |-------|--------------|------------------|----|
-| 💊    | tab          | Tablet           |    |
-| ⚪    | cap          | Capsule          |    |
-| 🕯️    | supp         | Suppository      |    |
+| 💊    | tab, T          | Tablet           |    |
+| ⚪    | cap, C          | Capsule          |    |
+| 🕯️    | supp, SP         | Suppository      |    |
 | 🧪    | susp         | Suspension       |    |
 | 💧    | sol          | Solution         |    |
 | 🍯    | syr          | Syrup            |    |
 | 🧴    | crm, cm       | Cream            |    |
 | 🧈    | ung, oint    | Ointment         |    |
 | 💉    | inj          | Injection        |    |
+| 💨    | P (RxConnect) | Puff (inhaler)     |    |
+| 💨🌀 | SP (RxConnect) | Spray              |    |
+| 🌀✅  | SAS (RxConnect) | Swish and swallow  |    |
 
 ### ⏰ Timing & Frequency
 
@@ -57,7 +63,7 @@ The **Durham-Humphrey Amendment** (1951) amendment established two classes of dr
 | 🔁    | QOD          | Every other day            | ⚠️ |
 | 📅    | QD           | Every day                  | ⚠️ (use “daily”) |
 | ⏰    | Q1H          | Every hours                |    |
-| ⏰    | QXH          | Every X hours              |    |
+| ⏰    | Q_H, Q_      | Every _ hours              |    |
 | 🌓    | BID          | Twice a day                |    |
 | ☀️☀️☀️| TID          | Three times a day          |    |
 | 🌞🌞🌞🌞| QID        | Four times a day           |    |
@@ -68,6 +74,7 @@ The **Durham-Humphrey Amendment** (1951) amendment established two classes of dr
 | 💊🍽️  | AC           | Before meals               |    |
 | 🍽️💊  | PC           | After meals                |    |
 | 🚨    | STAT         | Immediately                |    |
+| 🗓️    | FXD (RxConnect) | For 10 Days                |    |
 
 ### 📏 Measurement
 
@@ -80,15 +87,15 @@ The **Durham-Humphrey Amendment** (1951) amendment established two classes of dr
 | 🧊    | L            | Liter                  |    |
 | 🧪    | mL, mL       | Milliliters            |    |
 | 📏    | cc           | Cubic centimeter       | ⚠️ (use “mL”) |
-| 🥄    | tsp, ʒ, ℨ, dr | Dram/ Teaspoon (5ml)   |    |
-| 🥄🥄🥄| tbsp, ʒiii, ℨiii | Tablespoon (3 tsp)    |    |
+| 🥄    | tsp, ʒ, ℨ, dr, TS | Dram/ Teaspoon (5ml)   |    |
+| 🥄🥄🥄| tbsp, ʒiii, ℨiii, TB | Tablespoon (3 tsp)    |    |
 | 🥛    | pt           | Pint (32 tsp)           |    |
 | 🛢️    | gal          | Gallon (8 pt)           |    |
 | 🔢    | U, IU        | International Unit     | ⚠️ (use "Unit") |
-| 💧    | gtt           | Drop (15-20 gtt/ml)    |    |
+| 💧    | gtt, D        | Drop (15-20 gtt/ml)    |    |
 | 🧴    | oz, fl oz, ℥  | Fluid ounce (30mL)     |    |
 | ⚖️    | mEq          | Milliequivalents       |    |
-| ⚠️    | ss           | One-half               | ⚠️ (mistaken for “55”) |
+| ⚠️    | ss, S           | One-half               | ⚠️ (mistaken for “55” or "5") |
 
 ### 🧩 Miscellaneous
 
@@ -96,7 +103,7 @@ The **Durham-Humphrey Amendment** (1951) amendment established two classes of dr
 |-------|--------------|---------------------------|----|
 | ⛔    | NR           | No refills                |    |
 | ✍️    | DAW          | Dispense as written       |    |
-| 📘    | UD           | As directed               |    |
+| 📘    | UD, TUD       | Take As Directed               |    |
 | 📝    | Sig          | Directions for use        |    |
 | 💊📜  | Rx           | Prescription              |    |
 | 🚫👄  | NPO          | Nothing by mouth          |    |
@@ -109,6 +116,24 @@ The **Durham-Humphrey Amendment** (1951) amendment established two classes of dr
 | ➕    | c̄, w/, w      | With                     |    |
 | ➖    | s̄, w/o        | Without/ With No        |    |
 | ➖    | ō             | Without / With No (archaic/Latin)  | ⚠️ (rare or ambiguous) |
+| ✅🩹 | AAA (RxConnect) | Apply to affected area          |    |
+
+### 🧾 PRN or Indications (RxConnect)
+
+| Emoji | Abbreviation | Meaning                 |
+|-------|--------------|-------------------------|
+| 🤕    | PPA          | For pain                |
+| 😖    | PSP          | For severe pain         |
+| 😰    | PAN          | For anxiety             |
+| 🤢    | PNA          | For nausea              |
+| 🤮    | PNV          | For nausea and vomiting |
+| 🤧    | PCG          | For cough               |
+| 💫    | PDZ           | For dizziness           |
+| 😤    | PWH           | For wheeze              |
+| 🤯    | PHA           | For headache            |
+| 🤒    | PIT          | For itch                |
+| 🫁    | SOB          | For shortness of breath |
+| 💓    | HTN          | For hypertension        |
 
 ### 🔣 Common Symbols
 
