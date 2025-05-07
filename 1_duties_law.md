@@ -76,11 +76,12 @@ Each state’s **Board of Pharmacy** is responsible for:
 
 While not government entities, these organizations shape pharmacy standards:
 
-- **ASHP (American Society of Health-System Pharmacists)**: Accredits pharmacy residencies and technician training programs
-- **USP (United States Pharmacopeia Convention)**: Develops official drug quality standards adopted nationwide via the *USP–NF*
-- **TJC (The Joint Commission)**: A non-profit that establishes standards & monitors compliance for healthcare programs in the US. TJC-accredited programs include hospitals, healthcare networks, HMOs, & nursing homes.
-- **ASCP (American Society for Consultant Pharmacists)**: Sets standards for the practice of pharmacy who provide medication distribution and consultation for nursing homes.
-- **ACHC (Accreditation Commission for Health Care)**: Sets standards for pharmacies that provide services in the realm of: infusion, community retail, long-term care, & specialty pharmacy. They also administer the *Pharmacy Compounding Accreditation Board (PCAB)* accreditation.
+- **American Society of Health-System Pharmacists (ASHP)**: Accredits pharmacy residencies and technician training programs
+- **The Joint Commission (TJC)**: A non-profit that establishes standards & monitors compliance for healthcare programs in the US. TJC-accredited programs include hospitals, healthcare networks, HMOs, & nursing homes.
+- **Institute for Safe Medication Practices (ISMP)**: A nonprofit organization devoted to preventing medication errors. ISMP develops safety alerts, best practices, and error-prevention strategies widely adopted in pharmacy and healthcare settings.
+- **United States Pharmacopeia Convention (USP)**: Develops official drug quality standards adopted nationwide via the *USP–NF*
+- **American Society for Consultant Pharmacists (ASCP)**: Sets standards for the practice of pharmacy who provide medication distribution and consultation for nursing homes.
+- **Accreditation Commission for Health Care(ACHC)**: Sets standards for pharmacies that provide services in the realm of: infusion, community retail, long-term care, & specialty pharmacy. They also administer the *Pharmacy Compounding Accreditation Board (PCAB)* accreditation.
 
 ##### National Certification (Optional)
 
