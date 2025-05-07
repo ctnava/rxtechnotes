@@ -1,21 +1,36 @@
 # Chapter 2: The Discovery, Manufacture, & Logistics of Drugs
 
-Notes on drug development, manufacturing, logistics, & safety monitoring
+This chapter covers how drugs are discovered, developed, tested, manufactured, distributed, and monitored for safety.
 
----
+## Historical Background
 
-**The Food, Drug, & Cosmetic Act (FDC)** was passed in 1906 to prohibit interstate commerce in adulterated or misbranded food, drinks, and drugs on top of requiring government preapproval before marketing or sale; enforced by the Bureau of Chemistry. It enforced these regulations until the Food, Drug, & Insecticide Administration was formed in 1927 and rebranded as the FDA in 1930.
+### The Pure Food, Drugs, & Cosmetics Act (FDC, 1906)
 
-The **FDCA** (1938) was passed in response to a fatal poisoning of over 100 people by an untested ***sulfanilamide*** drug. This law requires that any new drugs ***must be proven safe*** if used according to directions on its label. Later in 1962, a new sleeping pill containing the drug ***thalidomide*** caused severe birth defects in pregnant women. In response, the **Kefauver-Harris Amendment** required that all new drugs ***must also be proven effective*** for the intended use required on drug labels in accordance with the ruling on the *Alberty Food Products v. US* case in 1950.
+- Prohibited interstate commerce in adulterated or misbranded food and drugs
+  - **Adulteration**: Contanimation or failure to meet purity & quality standards
+  - **Misbranding**: Including false, inaccurate, improper, or confusing labeling or if the product is harmful when used according to label directions
+- Required government preapproval of drugs before marketing or sale
+- Enforced by the Bureau of Chemistry (precursor to the FDA) until the Food, Drug, & Insecticide Administration was formed in 1927 and rebranded as the FDA in 1930.
 
-> **Note**: Thalidomide was later found to be safe and effective for treating multiple myeloma & leprosy and is now approved for those uses. However, men and women must both acknowledge the risks associated with taking it and actions they must take while being treated with it.
+### The Food, Drug, and Cosmetic Act (FDCA, 1938)
+
+- Required that new drugs must be proven **safe** before marketing.
+- Passed after the **sulfanilamide** tragedy, which caused over 100 deaths (many of which were children) after using this drug in an oral tablet dosage form
+
+> **Note**: Thalidomide is now FDA-approved for treating multiple myeloma and leprosy. Use requires strict risk acknowledgment from both men and women.
+
+### Kefauver-Harris Amendment (1962)
+
+- Required that new drugs must also be proven **effective**
+- Passed after the **thalidomide** tragedy, which caused severe birth defects in pregnant women when it was used as a sleeping pill without any warnings
+- Reinforced by Alberty Food Products v. US (1950), which required labeling intended use.
 
 ## Drug Development & Manufacturing
 
-There exist two commercial categories of drugs: brand name and generic.
+There exist two commercial categories of drugs:
 
-- **Brand Name Drugs**: Original drugs developed by pharmaceutical companies, protected by patents, and marketed under a brand name.
-- **Generic Drugs**: Copies of brand-name drugs that have the same active ingredients, strength, dosage form, and route of administration, but sold under generic chemical names or different brand names after the original patent expires.
+- **Brand Name Drugs**: Original drugs developed by pharmaceutical companies, protected by patents, and marketed under proprietary names
+- **Generic Drugs**: Copies of brand-name drugs that have the same active ingredients, strength, dosage form, and route of administration, but sold under generic chemical names or different brand names after the original patent expires
 
 ### Brand Name Drug Development
 
@@ -23,9 +38,16 @@ In order for a newly patented, *Brand Name* drug to come to market, the FDA must
 
 #### Step 1: Research & Development (3-6 Years)
 
-Drug development begins with identification for a target for a drug to act on. Compounds are screened in laboratory tests for specificity & activity on these targets. A cohort of suitable candidates (~25%) are selected for use in preclinical testing.
+- Identify a biological target
+- Screen compounds for activity and specificity
+- Select ~25% of promising candidates for preclinical testing
 
 #### Step 2: Preclinical Testing (1 Year)
+
+- Conduct **in vitro** (human cells) tests for efficacy & toxicity
+- Conduct **in vivo** (animal) tests to study ADME (Absorption, Distribution, Metabolism, and Excretion) processes
+- Test in at least two mammalian species.
+- Submit results and a clinical plan to the FDA's CDER in an Investigational New Drug (IND) application.
 
 Safety & efficacy are evaluated before clinical trials. This is first done *in vitro* with human cells to assess efficacy & toxicity before *in vivo* studies are done with live animals to observe the effects the drugs have on Absorption, Distributive, Metabolic, & Elimination (ADME) processes. At least two mammalian species must be tested before they are allowed to proceed to humans.
 
