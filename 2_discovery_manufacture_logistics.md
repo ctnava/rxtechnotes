@@ -89,6 +89,27 @@ Depending on the drug, a REMS program may include one or more of the following:
 
 > **Example**: The drug isotretinoin (Accutane), which can cause severe birth defects, is subject to a REMS program called iPLEDGE that requires prescribers, pharmacies, and patients to follow strict steps before dispensing or receiving the medication.
 
+###### 📦 Patient Package Inserts (PPIs)
+
+PPIs (also "Patient Labeling") are required for oral contraceptives, estrogen containing products, and metered dose inhalers. These are required to be dispensed with each prescription. Patient labeling that can be part of the FDA-approved prescription drug labeling that includes information on:
+
+| Section | What It Covers |
+|---------|----------------|
+| **Clinical Pharmacology** | How the drug works in the body, including: Mechanism of action, Pharmacokinetics (absorption, distribution, metabolism, excretion), Demographic considerations (e.g., effects in children, pregnancy) |
+| **Indications & Usage** | Lists the **FDA-approved uses** of the drug (*Note:* Drugs are sometimes used “off-label” for other conditions, based on provider discretion.) |
+| **Contraindications** | Situations where the drug **should not be used**, such as certain medical conditions, allergies, or interactions. |
+| **Warnings** | Serious or life-threatening risks associated with the drug (e.g., Black Box Warnings). |
+| **Precautions** | Instructions to help avoid harm, including guidance that informs **auxiliary labels**. |
+| **Adverse Reactions** | Lists all known **side effects**, including those reported during clinical trials or post-marketing. |
+| **Drug Abuse & Dependence** | Details on the drug’s potential for **abuse, tolerance, or dependence** (especially important for controlled substances). |
+| **Overdosage** | Emergency protocol and symptoms of overdose. |
+| **Dosage & Administration** | How to take the medication, including dose, timing, route, and adjustments. |
+| **How Supplied / Storage**  | Describes the drug’s appearance (shape, color, imprint) and **storage conditions** (e.g., keep refrigerated, protect from light). |
+
+Always verify that a PPI is included with the medication if required. If it's missing from stock bottles or software, ask the pharmacist to print it from the FDA or drug manufacturer’s website.
+
+> 📌 Failure to provide a required PPI can be a violation of federal law.
+
 ### Generic Drug Manufacturing
 
 Once a patent for a brand name drug expires, other manufacturers may copy the drug and release it under its generic name. Generic drugs require FDA approval but do not require full R&D because clinical trials for safety & efficacy were already established by the original producer. To obtain approval, generic manufacturers only need to demonstrate equivalency; shortening the process to 1 - 3 years.
