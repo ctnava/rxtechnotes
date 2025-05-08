@@ -181,13 +181,13 @@ This table should help clarify the essential details when processing prescriptio
 | **Days Supply** | Prescription Details | The number of days the medication is expected to last based on the dosage. |
 | **Prescribing Physician's ID Number** | Prescriber Identifier | Unique ID number for the physician who prescribed the medication. |
 | **Pharmacy ID/NPI** | Pharmacy Identifier | Unique pharmacy identifier or National Provider Identifier (NPI) for the dispensing pharmacy. |
-| **Ingredient Cost** | Pricing | The cost of the medication’s active ingredients. |
-| **Dispensing Fee** | Pricing | The fee charged by the pharmacy for dispensing the medication. |
-| **Total Price** | Pricing | Total amount charged for the prescription (ingredient cost + dispensing fee). |
-| **Deductible or Copay Amount** | Pricing | The portion of the cost the patient is responsible for, based on their plan. |
-| **Balance Due** | Pricing | The remaining balance due after insurance payment and copay/deductible. |
+| **Ingredient Cost** | Pricing Information | The cost of the medication’s active ingredients. |
+| **Dispensing Fee** | Pricing Information | The fee charged by the pharmacy for dispensing the medication. |
+| **Total Price** | Pricing Information | Total amount charged for the prescription (ingredient cost + dispensing fee). |
+| **Deductible or Copay Amount** | Pricing Information | The portion of the cost the patient is responsible for, based on their plan. |
+| **Balance Due** | Pricing Information | The remaining balance due after insurance payment and copay/deductible. |
 
-### 🛑 Third-Party Rejections & Resolutions
+#### 🛑 Third-Party Rejections & Resolutions
 
 A Third-Party Rejection (TPR) occurs when a prescription claim is denied by the PBM or insurance. These denials are flagged with a reject code and message explaining the issue.
 
