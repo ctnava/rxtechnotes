@@ -603,4 +603,10 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 
 ### Prescription Transfers
 
-.
+Prescriptions may be transferred to another pharmacy at the request of a patient. State laws vary when it comes to different classes of drugs. Technicians may pull up the relevant records for transfer, however the pharmacist is responsible for the actual act of sending or receiving prescriptions.
+
+Protocol:
+
+1. Patient calls the pharmacy that will receive a prescription to request transfer
+2. Technician collects the name and contact information of, both, the patient and pharmacy that has the prescription
+3. Technician delivers the information to the pharmacist that calls the other pharmacy to initiate transfer
