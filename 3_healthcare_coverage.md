@@ -121,10 +121,10 @@ Pharmacy Benefits:
 
 - Managed by Express Scripts.
 - Covers prescriptions from:
-- Military treatment facility pharmacies (no copay)
-- TRICARE retail network pharmacies (small copay)
-- Mail-order pharmacy (cheapest option for long-term meds)
-- Formularies are tiered, and prior authorizations may be required for certain drugs.
+  - Military treatment facility pharmacies (no copay)
+  - TRICARE retail network pharmacies (small copay)
+  - Mail-order pharmacy (cheapest option for long-term meds)
+  - Formularies are tiered, and prior authorizations may be required for certain drugs.
 
 > 📋 **Tech Tip**: Always check if the pharmacy is in-network for TRICARE. Verify eligibility using the patient’s military ID or DoD Benefits Number (DBN).
 
