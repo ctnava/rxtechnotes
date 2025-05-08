@@ -1,15 +1,21 @@
 # Chapter 3: Healthcare Coverage
 
-This chapter introduces key aspects of health insurance and how they impact pharmacy operations.
+This chapter introduces key aspects of health insurance, how pharmacy claims are processed, and the technician's role in resolving issues that may arise during insurance billing.
 
 ---
 
 ## 🧰 Key Concepts
 
-Health insurance is a financial agreement where an individual or business pays a **monthly premium** to an insurance company, which in turn agrees to cover a portion of medical expenses incurred due to illness or injury. It acts as a safety net, protecting against the potentially high costs of medical care. Once **enrolled** in a **managed care program**, the patient must meet an **annual deductible** before coinsurance is applied. From there, the patient pays only a portion of the cost of service or medication (as **coinsurance or a copayment**) until they reach their **annual out-of-pocket maximum (OOP Max)**; after which covered services are paid 100% by the plan for the rest of the benefit year.
+Health insurance is a financial agreement where a person or employer pays a **monthly premium** to an insurance company. In exchange, the insurer helps cover medical and prescription costs when care is needed.
 
-| Term | What It Means | Key Info |
-|------|---------------|----------|
+Once **enrolled** in a **managed care plan**, patients are typically responsible for:
+
+- An **annual deductible** (initial out-of-pocket spending)
+- Then **copayments or coinsurance** (depending on plan design) after the deductible is met
+- Until they reach the **out-of-pocket maximum (OOP Max)**, after which covered services are paid 100% by the plan for the rest of the benefit year.
+
+| Term | Meaning | Key Info |
+|------|---------|----------|
 | 📅 **Enrollment** | The period when a patient can **sign up for or change** a plan. | Typically during **open enrollment** (fall) or due to a **qualifying life event** (e.g., marriage, birth, job change). |
 | 💵 **Premium** | The **monthly payment** for health insurance, paid **regardless of use**. | Higher premium plans usually have lower deductibles or copays. |
 | 💳 **Deductible** | The amount a patient pays **out of pocket** before coverage begins. | May be waived for preventive services or some generic drugs. |
@@ -41,7 +47,7 @@ Managed care plans are offered by insurers (public and private); structured to c
 
 A **formulary** is a list of medications approved and covered by an insurer or institution. Formularies guide what medications can be **dispensed, substituted, or reimbursed**.
 
-🏥 **Institutional Formularies**:
+🏥 **Institutional Settings**:
 
 - Controlled by the **Pharmacy & Therapeutics (P&T) Committee**.
 - Only stocked medications are dispensed.
@@ -443,5 +449,3 @@ Medicare is the primary payer; Medi-Cal acts as secondary, covering:
 - These patients often qualify for extra help with Part D prescription drug costs.
 
 > 🧠 Watch for “Medi-Medi” flags in patient profiles. These patients usually have no out-of-pocket cost for covered meds and medical care.
-
-
