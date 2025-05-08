@@ -48,6 +48,8 @@ These programs laid the foundation for future pharmacy regulations that affect h
 | 🅲   | Medicare Advantage | Combines A & B (and usually D), run by private insurers | Varies by plan | May offer dental, vision, hearing, gym |
 | 🅳   | Prescription Drug | Outpatient prescription drugs | Monthly premium, deductible, copays | Private plans available; penalty for late enrollment; Established by the MMA (2003) |
 
+> **TRIVIA**: The ***Patient Protection & Affordable Care Act (Obamacare, 2010)*** was signed into law with the overall goals of improving patient care, quality, and outcomes while reducing cost.
+
 #### 🍩 Medicare Part D “Donut Hole” (Coverage Gap)
 
 The “donut hole” is a temporary limit on what Medicare Part D will pay for prescription drugs.
@@ -147,6 +149,14 @@ A **formulary** is an official list of prescription medications that are **appro
 ### 📝 Prior Authorizations (PAs)
 
 A **Prior Authorization (PA)** is a requirement by insurance companies (often managed by Pharmacy Benefit Managers or PBMs) that a healthcare provider must obtain approval before a specific medication is covered by the patient's insurance. This process is used for medications that are expensive, high-risk, or considered to have alternatives that are more cost-effective.
+
+The general flow of the PA process is as follows:
+
+1. Healthcare providers get prior authorization before service.
+2. Insurers & PBMs review the request.
+3. If approved, the healthcare provider may proceed with service.
+
+> ⚠️ PAs are NOT required for emergency care.
 
 Pharmacy technicians may encounter PAs in several scenarios, such as when:
 
