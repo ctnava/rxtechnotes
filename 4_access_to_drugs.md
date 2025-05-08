@@ -270,7 +270,7 @@ Prescriptions and medication orders are instructions from a medical practictione
 
 ### Intake & Entry
 
-When processing prescriptions for intake and order entry, make sure they contain the following, minimum information:
+When processing prescriptions for intake and order entry, make sure they contain the following information:
 
 - **Prescriber Information**: the name, title, office address, and telephone number
 - **National Provider Identifier (NPI)**: A prescriber's unique national identification number, mandated by HIPAA and administered by the National Plan and Provider Enumeration System (NPPES)
@@ -279,7 +279,7 @@ When processing prescriptions for intake and order entry, make sure they contain
 - **Patient Identifiers**: information used to identify the patient
   - **required**: name & address
   - **optional**: date of birth & weight (for pediatrics)
-- **Inscription**: specifies the medication prescribed, including strength & amount
+- **Inscription**: specifies the generic name of the medication, brand name (if required), including strength & amount
 - **Signa**: directions for use
 - **Refill Instructions**: How many refills are authorized for the patient
 - **Product Selection Code (Optional)**: Whether or not the medication is specified to be dispensed as written
@@ -288,6 +288,17 @@ When processing prescriptions for intake and order entry, make sure they contain
 If the prescription or order is for a controlled substance, technicians must verify the DEA number (typically automatic) and calculate the Days Supply for billing purposes.
 
 > ⚠️ Always consult with the pharmacist for DUR alerts!
+
+#### Hospital Protocol
+
+Medication orders in hospital settings have additional requirements:
+
+- **Additional Patient Identifiers**: Hospital ID & Room/ Bed Location
+- **Indication for Use**: symptoms
+
+Once the technician has a positive ID on the patient, they will compare the order to the patient's profile to look for duplications or other errors and alert the pharmacist in the event one is found. If all is good, the medication is entered.
+
+> ⚠️ Always ask for clarification. Assumptions kill.
 
 #### 🕵️‍♀️ Verifying DEA Numbers
 
@@ -392,6 +403,7 @@ At a minimum, these sigs require the following to be considered complete:
 - Dosage Amount
 - Dosage Form
 - Route of Administration
+  - Site of Administration (for hospitals)
 - Frequency
 - Timing
 
@@ -477,11 +489,11 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 |-------|--------------|----------------------------|----|
 | 🔁    | QOD          | Every other day            | ⚠️ |
 | 📅    | QD           | Every day                  | ⚠️ (use “daily”) |
-| ⏰    | Q1H          | Every hours                |    |
-| ⏰    | Q_H, Q_      | Every _ hours              |    |
+| ⏰    | Q1H          | Every hours                | ⚠️ |
+| ⏰    | Q_H, Q_      | Every _ hours              | ⚠️ |
 | 🌓    | BID          | Twice a day                |    |
 | ☀️☀️☀️| TID          | Three times a day          |    |
-| 🌞🌞🌞🌞| QID        | Four times a day           |    |
+| 🌞🌞🌞🌞| QID        | Four times a day           | ⚠️ |
 | 🛏️    | QHS, HS       | Every night at bedtime     | ⚠️ |
 | 🌙    | QPM, PM      | Evening or night           |    |
 | ☀️    | QAM, AM      | Every morning              |    |
@@ -521,8 +533,10 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 | ✍️    | DAW           | Dispense as written       |    |
 | 📘    | UD, TUD       | Take As Directed          |    |
 | 📝    | Sig           | Directions for use        |    |
-| 💊📜  | Rx            | Prescription              |    |
 | 🚫👄  | NPO           | Nothing by mouth          |    |
+| 💊📜  | Rx            | Prescription              |    |
+| 🤮  | Sx            | Symptoms              |    |
+| 📚  | Hx            | History              |    |
 | 🩺    | Dx            | Diagnosis                 |    |
 | 🧑‍🤝‍🧑    | aa            | Of each (ana)             |    |
 | ⬆️    | ad            | To, up to                 |    |

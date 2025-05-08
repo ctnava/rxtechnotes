@@ -278,6 +278,9 @@ Before a prescription can be processed or billed, a patient profile must be crea
 - Health conditions
 - Current medications (prescriptions, supplements, & OTC)
 - Insurance Information
+- Medication history
+- Patient Preferences (e.g. child-resistant packaging waiver, preference for prescriptions by mail)
+- (Hospital Only) Principle Diagnoses
 
 Technicians must:
 
