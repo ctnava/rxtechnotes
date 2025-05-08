@@ -295,14 +295,16 @@ A valid DEA number has two letters followed by seven digits:
 AB1234563
 ```
 
-- **First Letter**: Identifies the registrant type
+**First Letter**: Identifies the registrant type
+
 | Letter  | Registrant Type |
-| ------- | --------------- |
+|---------|-----------------|
 | A, B, F | Physicians, hospitals, clinics, pharmacies |
 | G       | Department of Defense |
 | M       | Mid-level practitioners (NPs, PAs, optometrists) |
 | X       | Buprenorphine prescribers (DATA-waived providers for opioid use disorder) |
-- **Second Letter**: Usually the first letter of the prescriber’s last name (e.g., “Smith” → “S”)
+
+**Second Letter**: Usually the first letter of the prescriber’s last name (e.g., “Smith” → “S”)
 
 ##### ✅ Verifying the Check Digit (Mathematical Validation)
 
