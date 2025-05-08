@@ -33,7 +33,7 @@ Managed care plans are offered by insurers (public and private); structured to c
 | 🟦 **HMO** (Health Maintenance Organization) | Most restrictive. Requires you to choose a **Primary Care Provider (PCP)** who coordinates all care. | ✅ Yes, for specialists | ❌ No (emergencies only) |
 | 🟧 **PPO** (Preferred Provider Organization) | Flexible. No need for referrals. Higher cost for out-of-network care. | ❌ No | ✅ Yes (higher cost) |
 | 🟨 **POS** (Point of Service) | Hybrid of HMO & PPO. Requires PCP and referrals, but offers some out-of-network coverage. | ✅ Yes | ✅ Yes (with extra cost) |
-| 🟪 **EPO** (Exclusive Provider Organization) | Like an HMO, but **no referrals required**. Still **no out-of-network** coverage (except emergencies). | ❌ No | ❌ No |
+| 🟪 **EPO** (Exclusive Provider Organization) | Like an HMO, but **no referrals required**, still **no out-of-network coverage** (except emergencies). | ❌ No | ❌ No |
 
 > 🔍 Check insurance cards or PBM portals for plan types. Copays are often tiered based on drug cost.
 
@@ -49,7 +49,7 @@ A **formulary** is a list of medications approved and covered by an insurer or i
 
 🛍️ **In Retail/Insurance Settings**:
 
-- Managed by PBMs.
+- Managed by PBMs (in retail/insurance settings).
 - Drugs are divided into **tiers** that affect patient cost:
 
 | Tier | Description |
@@ -69,7 +69,7 @@ PBMs are third-party companies that manage drug benefits on behalf of payers (in
 | 💲 **Reimbursement Rates** | Set copays and pharmacy payouts. |
 | 📋 **Formulary Management** | Create and manage drug tiers. |
 | 🔐 **Prior Authorizations** | Require clinical justification for certain drugs. |
-| 🤝 **Manufacturer Rebates** | Negotiate drug discounts for formulary placement. |
+| 🤝 **Manufacturer Rebates** | Negotiate discounts for formulary placement. |
 | 📦 **Mail-Order Pharmacy** | Operate/contract mail pharmacies for long-term meds. |
 
 > 💡 **Common PBMs**: CVS Caremark, Express Scripts, & OptumRx manage drug benefits for millions of patients nationwide.
@@ -78,11 +78,11 @@ PBMs are third-party companies that manage drug benefits on behalf of payers (in
 
 A **Prior Authorization (PA)** is a requirement by insurance companies (often managed by Pharmacy Benefit Managers or PBMs) that a healthcare provider must obtain approval by providing medical justification before a specific medication is covered by the patient's insurance. This process is used for **high-cost medications** (e.g., brand-name drugs without generic equivalents), **drugs with safety concerns** (e.g., opioid medications, certain antidepressants), **specialty drugs** (e.g., biologics, certain cancer treatments), **medications that require step therapy** (e.g., trying less expensive medications first), drugs not listed in the **formulary**, or drugs considered to have alternatives that are more cost-effective. When a drug isn’t covered or needs a PA, it’s usually the PBM’s rules, not the pharmacy’s.
 
-Generic drugs make medicine more accessible as insurers are always ready to save money. However, inactive ingredients may affect tolerances and allergies in individual patients. If needed, insurers will cover brand name drugs if a doctor provides justification of medical necessity. Without justification or prior authorization, the patient usually must pay the full price without insurance coverage.
+Generic drugs make medicine more accessible as insurers are always ready to save money. However, inactive ingredients may affect tolerances and allergies in individual patients. If needed, insurers will cover brand name drugs if a doctor provides justification of medical necessity. Without justification or PA, the patient usually may have to pay full price without insurance coverage.
 
 > ⚠️ PAs are NOT required for emergency care.
 
-The approval process typically involves submitting specific clinical information to the insurer, such as diagnosis codes, treatment history, or justification for why the prescribed drug is necessary over alternatives. From there insurers & PBMs review the request. If approved, the healthcare provider may proceed with service or the requested medication may be dispensed.
+The approval process typically involves submitting specific clinical information to the insurer, such as diagnosis codes, treatment history, or justification for why the prescribed drug is necessary over alternatives. From there, insurers & PBMs review the request. If approved, the healthcare provider may proceed with service or the requested medication may be dispensed.
 
 If a PA is needed, the technician typically works with the pharmacist to help gather necessary documentation, submit the PA request, and track the status of the request.
 
@@ -97,7 +97,7 @@ In outpatient care settings, PBMs influence what is covered, how much patients p
 
 > **Denial and Appeal**: If a PA is denied, technicians may help by ensuring the pharmacy has all required documentation or by assisting in the appeal process.
 
-### 👤 Patient Profile Creation
+### 👤 Patient Intake & Profile Creation
 
 Before a prescription can be processed or billed, a patient profile must be created in the pharmacy management system. This includes entering key information that ensures accuracy during claim adjudication and compliance with regulations.
 
@@ -107,8 +107,8 @@ Before a prescription can be processed or billed, a patient profile must be crea
 - Date of birth
 - Address and contact information
 - Gender
-- Allergies (use "NKA" there are no known allergies)
-- health conditions
+- Allergies (use "NKA" if there are no known allergies)
+- Health conditions
 - Current medications (prescriptions, supplements, & OTC)
 - Insurance Information
 
@@ -117,6 +117,29 @@ Technicians must:
 - Verify information directly from the patient and their insurance card.
 - Ensure accuracy (especially date of birth, spelling, and ID numbers) to avoid claim rejections.
 - Update records annually or when patient details change.
+
+**Insurance Card Details**:
+
+In addition to the basic patient information, the following details must be collected from the insurance card:
+
+| Information | Category | Description |
+|-------------|----------|-------------|
+| **Member Name** | Patient Info | Full name of the patient as listed on the insurance card. |
+| **Member ID** | Patient Info | Unique identification number for the patient under the plan. |
+| **Person Codes** | Patient Info | Identifiers for specific individuals covered (e.g., primary member, spouse). |
+| **Group Number** | Patient Info | Identifies the patient's insurance plan. |
+| **Gender** | Patient Info | Gender of the patient. |
+| **Date of Birth** | Patient Info | The patient's date of birth, critical for claim accuracy. |
+| **Address and Contact Information** | Patient Info | Patient's current address and contact info. |
+| **Card Issuer Name/Logo** | Insurer Info | Name or logo of the insurance company issuing the card. |
+| **Card Issuer ID** | Insurer Info | Unique ID for the insurance company that issued the card. |
+| **Card Issue/Effective Date** | Insurer Info | Date when the insurance coverage began or card was issued. |
+| **Name and Address of Benefit Administrator** | Insurer Info | Company or agency responsible for managing benefits. |
+| **Phone Number for Member Help Desk** | Insurer Info | Customer service phone number for patient inquiries. |
+| **RXBIN** | Transaction Info | Bank Identification Number for pharmacy claims processing. |
+| **RXPCN** | Transaction Info | Processor Control Number used for managing prescription claims. |
+| **Pharmacy Help Desk Number** | Transaction Info  | Contact number for pharmacies to resolve claim issues. |
+| **Co-pays** | Transaction Info | Patient’s co-payment amounts for different services (e.g., medications). |
 
 > ⚠️ **Tech Tip**: Always confirm insurance data from the most recent insurance card to avoid billing errors and Third Party Rejections.
 
@@ -143,19 +166,13 @@ Prescription billing is the process of submitting a claim to a patient’s insur
 A Third-Party Rejection (TPR) occurs when a prescription claim is denied by the PBM or insurance. These denials are flagged with a reject code and message explaining the issue.
 
 | Rejection | Reason | Resolution |
-|------|---------|------------|
-| Dependend exceeds plan's age limit | X | X |
-| Invalid Birth Date | X | X |
-| Invalid Person Code | X | X |
-| Invalid Sex | X | X |
-| Invalid Prescriber not a network provider | X | X |
-| Unable to Connect to Insurer | X | X |
-| Patient not Covered (Coverage Terminated) | X | X |
-| Refill to Soon | X | X |
-| Refills not Covered | X | X |
-| NDC not Covered | X | X |
-| Invalid Days Supply or Plan Limit Exceeded | X | X |
-| Prior Authorization Required | X | X |
+|-----------|--------|------------|
+| Patient not Covered | Coverage terminated | Update insurance info |
+| Invalid Birth Date | Mismatch with insurance card | Verify DOB with patient |
+| Invalid Person Code | Incorrect ID or gender | Verify with patient |
+| Refill Too Soon | Prescription too early for refill | Inform patient of date limitation |
+| NDC not Covered | Drug not covered by plan | Contact prescriber for alternative |
+| Prior Authorization Required | Drug needs PA | Submit PA request |
 
 > 📍 **Tech Tip**: Always confirm the BIN/PCN/ID from the most recent insurance card. These fields determine where the claim is sent.
 
