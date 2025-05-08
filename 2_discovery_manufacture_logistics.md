@@ -138,6 +138,8 @@ There are 3 main types of supplier: drug manufacturers, specialty pharmacies, an
 
 Labels provide critical information about the medication name, dosage, instructions, safety warnings, batch number, manufacture & expiration dates.To simplify inventory tracking, barcodes and National Drug Codes are used. The ISMP encourages the use of **tall man lettering** to prevent look-alike or sound-alike drugs from being confused with one another.
 
+> ⚠️⚠️⚠️The **Controlled Substances Act (CSA, 1970)** mandates that manufacturers clearly label controlled drugs with their classification or schedule. ⚠️⚠️⚠️
+
 #### Fair Packaging & Labeling Act (FPLA, 1967)
 
 The Fair Packaging and Labeling Act (FPLA) requires all consumer products (including over-the-counter (OTC) drugs and many prescription drug packages) to bear labels that are truthful, standardized, and easy for consumers to understand. Enforced by the FDA (for food, drugs, cosmetics) and the FTC (for other consumer goods), this act ensures transparency and prevents deceptive packaging.

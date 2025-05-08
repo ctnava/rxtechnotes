@@ -161,7 +161,7 @@ It is a *triplicate form* (in traditional paper format), though many pharmacies 
 | **Copy 3** | Blue  | **Pharmacy (purchaser)** keeps on file |
 
 - The pharmacy must keep Copy 3 and a record of the quantity received and the date received.
-- All copies must be kept on file for 2 years federally (California requires 3 years).
+- All copies must be kept on file for 2 years federally (California requires 3 years). **Schedule II records must be kept for 7 years**.
 - If a DEA Form 222 is voided, incomplete, or has errors, it must be marked void and retained—never destroyed.
 - In CSOS (electronic format), each order is digitally signed and tracked, with strict encryption and audit trails.
 
@@ -177,9 +177,11 @@ It is a *triplicate form* (in traditional paper format), though many pharmacies 
 - Schedule II records must be stored separately from all others.
 - Schedule III–V records must also be maintained separately and be readily retrievable.
 
+> **Joint Responsibility**: By law, both the prescripter and dispenser of the prescription have joint responsibility and liability for the legitimate medical purpose of a prescription.
+
 ### 🗃️ Recordkeeping Requirements (CA Laws Referenced)
 
-- All prescription and dispensing records for controlled substances must be stored on-site for at least 3 years (CA B&P Code § 4333).
+- All prescription and dispensing records for controlled substances must be stored on-site for at least 3 years (CA B&P Code § 4333). **Schedule II records must be kept for 7 years.**
 - Inventory audits must be conducted every 2 years (CA H&S Code § 11190) and must include:
   - Drug name, dosage form, and strength
   - Quantity on hand
