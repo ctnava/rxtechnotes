@@ -124,20 +124,20 @@ In addition to the basic patient information, the following details must be coll
 
 | Information | Category | Description |
 |-------------|----------|-------------|
-| **Card Issuer Name/Logo** | Insurer | Name or logo of the insurance company issuing the card. |
-| **Card Issuer ID** | Insurer | Unique ID for the insurance company that issued the card. |
-| **Card Issue/Effective Date** | Insurer | Date when the insurance coverage began or card was issued. |
-| **Member Name** | Patient | Full name of the patient as listed on the insurance card. |
-| **Member ID** | Patient | Unique identification number for the patient under the plan. |
-| **Person Codes** | Patient | Identifiers for specific individuals covered (e.g., primary member, spouse). |
-| **Group Number** | Patient | Identifies the patient's insurance plan. |
-| **Gender** | Patient | Gender of the patient. |
-| **Date of Birth** | Patient | The patient's date of birth, critical for claim accuracy. |
-| **Name and Address of Benefit Administrator** | Claims & Billing | Company or agency responsible for managing benefits. |
-| **Co-pays** | Claims & Billing | Patient’s co-payment amounts for different services (e.g., medications). |
-| **RXBIN** | Claims & Billing | Bank Identification Number for pharmacy claims processing. |
-| **RXPCN** | Claims & Billing | Processor Control Number used for managing prescription claims. |
-| **Pharmacy Help Desk Number** | Claims & Billing  | Contact number for pharmacies to resolve claim issues. |
+| **Card Issuer Name/Logo** | Insurer Identifier | Name or logo of the insurance company issuing the card. |
+| **Card Issuer ID** | Insurer Identifier | Unique ID for the insurance company that issued the card. |
+| **Member Name** | Patient Identifier | Full name of the patient as listed on the insurance card. |
+| **Member ID** | Patient Identifier | Unique identification number for the patient under the plan. |
+| **Person Codes** | Patient Identifier | Identifiers for specific individuals covered (e.g., primary member, spouse). |
+| **Group Number** | Patient Identifier | Identifies the patient's insurance plan. |
+| **Gender** | Patient Identifier | Gender of the patient. |
+| **Date of Birth** | Patient Identifier | The patient's date of birth, critical for claim accuracy. |
+| **Card Issue/Effective Date** | Billing & Claims | Date when the insurance coverage began or card was issued. |
+| **Co-pays** | Billing & Claims | Patient’s co-payment amounts for different services (e.g., medications). |
+| **RXBIN** | Billing & Claims | Bank Identification Number for pharmacy claims processing. |
+| **RXPCN** | Billing & Claims | Processor Control Number used for managing prescription claims. |
+| **Name and Address of Benefit Administrator** | Billing & Claims | Company or agency responsible for managing benefits. |
+| **Pharmacy Help Desk Number** | Billing & Claims  | Contact number for pharmacies to resolve claim issues. |
 | **Phone Number for Member Help Desk** | Patient Use Only | Customer service phone number for patient inquiries. |
 
 > ⚠️ **Tech Tip**: Always confirm insurance data from the most recent insurance card to avoid billing errors and Third Party Rejections.
