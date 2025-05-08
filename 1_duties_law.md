@@ -53,15 +53,6 @@ Pharmacists are healthcare professionals licensed to **dispense medications**, *
 
 Certain federal laws have established pharmacist responsibilities that directly affect pharmacy operations, particularly in how pharmacists interact with patients and manage drug therapy. These laws also shape how pharmacy technicians support those processes.
 
-##### Social Security Act Amendments (1965)
-
-The Social Security Act created the Medicare and Medicaid programs:
-
-- **Medicare**: A federal health insurance program for people aged 65+, individuals with certain disabilities, and patients with End-Stage Renal Disease (ESRD).
-- **Medicaid**: A joint federal-state program providing health coverage to low-income individuals.
-
-These programs laid the foundation for future pharmacy regulations that affect how medications are dispensed and monitored, especially for public health insurance recipients.
-
 ##### Omnibus Budget Reconcillation Act (OBRA-90 or "the Omnibus", 1990)
 
 OBRA-90 was a major federal law affecting Medicaid prescription drug programs. It mandates that states receiving federal funds must require pharmacists to:

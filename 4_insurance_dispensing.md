@@ -1,6 +1,15 @@
 # Insurance, Adjudication, & Insurance
 
-[medicare goes here]
+
+
+##### Social Security Act Amendments (1965)
+
+The Social Security Act created the Medicare and Medicaid programs:
+
+- **Medicare**: A federal health insurance program for people aged 65+, individuals with certain disabilities, and patients with End-Stage Renal Disease (ESRD).
+- **Medicaid**: A joint federal-state program providing health coverage to low-income individuals.
+
+These programs laid the foundation for future pharmacy regulations that affect how medications are dispensed and monitored, especially for public health insurance recipients.
 
 ## Formularies
 
