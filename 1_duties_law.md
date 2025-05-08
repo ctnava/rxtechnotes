@@ -282,3 +282,26 @@ Violations due to reasonable cause and not willfull neglect can result in $1,000
 - mends HIPAA to promote adoption and meaningful use of health information technology, including electronic prescribing & medical records
 - set standards for the creation of these electronic systems
 - expanded Covered Entities to include business associates
+
+## Ethics
+
+Ethics is a branch of philosophy that helps decide what should be done in a principled sense besides what must be done to comply with laws. In the medical industry, universities, colleges, hospitals, and other organizations form Ethical Review Boards (ERBs) (or Institutional Review Boards (IRBs)) to provide ethical guidance and ensure legal & ethical standards are followed. ERBs in hospitals can provide consultation for difficult ethical cases when they arise. Corporate compliance officers are responsible to investigate legal or ethical concerns identified in a business. 
+
+The Centers for Medicare & Medicaid Services (CMS) provide the following guidelines for compliance with federal and state law:
+
+- the maintenance of written policies and procedures
+- designation of a compliance officer and committee
+- conducting effective training and education
+- developing effective lines of communication
+- auditing and monitoring
+- enforcement through publicized disciplinary guidelines and policies dealing with ineligible persons
+- responding to detected offenses, developing corrective action initiatives, and reporting to government authorities
+
+Some basic values in ethical considerations include:
+
+- **Autonomy** of the patient to choose their treatment
+- **Beneficence** when treating patients
+- **Dignification** of the patient
+- **Non-Maleficence** when providing care
+- **Justice** in healthcare
+- **Honesty** in patient communication
