@@ -225,11 +225,11 @@ Torts are a branch of civil law in which the courts determine remedies for alleg
 - 📂 Keep accurate records and update patient profiles
 - 🎓 Engage in continuous training on safety procedures
 
-## Important Legislation
+### Important Legislation
 
 Below are vital pieces of legislation to know as a pharmacy technician.
 
-### Occupational Safety & Health Act (OSHA, 1970)
+#### Occupational Safety & Health Act (OSHA, 1970)
 
 Ensures workplace safety. Employers must:
 
@@ -239,7 +239,7 @@ Ensures workplace safety. Employers must:
 
 > ⚠️ Chemotherapy agents and other hazardous drugs must have Safety Data Sheets!
 
-### The Health Information Portability & Accountability Act (HIPAA) - 1996
+#### The Health Information Portability & Accountability Act (HIPAA) - 1996
 
 HIPAA protects patient privacy by regulating how **Covered Entities** handle **Protected Health Information (PHI)**. It is a large statute that primarily concerns the continuation of health insurance coverage for workers who leave their jobs. UAll personnel that have access to PHI must be formally trained periodically on HIPAA regulations to stay up to date and there must be a designated privacy officer appointed on duty.
 
@@ -260,7 +260,7 @@ HIPAA protects patient privacy by regulating how **Covered Entities** handle **P
 - **NPI (National Provider Identifier)**: 10-digit number assigned to healthcare providers for standardized identification. Each covered entity may receive only one unique NPI, similar to a person's Social Security Number (SSN), and must be used for all standard transactions covered by HIPAA.
 - **NPP (Notice of Privacy Practices)**: Outlines how patient info is used and protected; patients must sign acknowledgment, retained for 6 years from the date of creation or last date in effect (whichever is later) and usually means from the last date of service.
 
-#### Restrictions, Violations, & Penalties
+##### Restrictions, Violations, & Penalties
 
 Under HIPAA, medical personnel cannot disclose any PHI to anyone other than the patient unless the patient has given express consent, including spouses & relatives. One such form of consent is a Release of Information form that is typically used to transfer PHI to another healthcare facility or to receive for their personal use. This includes accessing your own records without following proper protocol.
 
@@ -277,7 +277,7 @@ Violations due to reasonable cause and not willfull neglect can result in $1,000
 
 > **NOTE** HIPAA allows the sharing of PHI under emergency situations such as natural disasters where people may be evacuated and require healthcare. Notice of disclosures still need to be delivered as soon as reasonably practicable after the emergency.
 
-#### The Health Information Technology for Economic & Clinical Health Act (HITECH, 2009)
+##### The Health Information Technology for Economic & Clinical Health Act (HITECH, 2009)
 
 - mends HIPAA to promote adoption and meaningful use of health information technology, including electronic prescribing & medical records
 - set standards for the creation of these electronic systems
