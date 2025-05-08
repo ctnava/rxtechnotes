@@ -1,4 +1,4 @@
-# Chapter 3: Authorizing Access to Drugs
+# Chapter 3: Legal Access to Marketed Drugs
 
 This chapter covers how patients are authorized access to medications by prescribing authorities.
 
@@ -9,7 +9,95 @@ The Durham-Humphrey Amendment amendment established two classes of drugs: *legen
 - **Medication Orders**: a written request on a physician's order form OR a transcribed verbal/ telephone order in an *inpatient* setting.
 - **Prescription**: medication order on a prescription blank to be filled in an *outpatient/ ambulatory* setting.
 - **Legend**: Medications that may not be dispensed to the public except on the order or *prescription* of a licensed prescriber. These "prescription" drugs require a federal *legend* to appear on the packaging that states: "Federal law prohibits dispensing this medication without a prescription".
-- **Over-the-Counter(OTC)**: Medications that may be sold without a prescription as long as they are appropriately labeled for home use. OTC drugs are not inherently safe because they may have significant drug interactions with prescription medications. Technicians must refer patients who request them to pharmacists.
+- **Over-the-Counter(OTC)**: Medications that may be sold without a prescription as long as they are appropriately labeled for home use.
+
+### ⚠️ Hidden Dangers of OTC Drugs
+
+**Over-the-counter (OTC) drugs are not inherently safe** just because they don’t require a prescription. Many OTC medications can cause significant drug interactions, adverse effects, or even life-threatening complications; especially when combined with prescription drugs or taken incorrectly.
+
+When performing **medication reconciliation** (the process of gathering a patient’s full medication history), pharmacy technicians must:
+
+- **Ask about all OTC medications**, supplements, and herbal products
+- **Document** them in the patient’s profile
+- **Refer patients to the pharmacist** for counseling if any concerns arise
+
+#### 💊 Analgesics (Pain Relievers)
+
+Analgesics are medications used to relieve pain. They may be:
+
+- **Systemic (e.g., oral tablets)**: affect the whole body
+- **Topical**: act locally but may still have systemic absorption and therefore produce whole-body effects
+
+They're commonly used to treat:
+
+- Pain
+- Inflammation
+- Fever
+- Menstrual cramps
+- Musculoskeletal injuries
+- Osteoarthritis
+- Headaches
+
+There are 3 main categories of these medications:
+
+##### Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)
+
+| 🔬 Common Examples | Ibuprofen, Naproxen |
+| ------------------ | ------------------- |
+
+**Mechanism**: NSAIDs reduce pain and inflammation by inhibiting prostaglandin synthesis. Prostaglandins also protect the stomach lining and support kidney function — so side effects can be serious.
+
+**Common Uses**: Headaches, back pain, arthritis, menstrual cramps, toothaches, fever, and injuries.
+
+**Risks**:
+
+- GI irritation: heartburn, nausea, ulcers, bleeding
+- Kidney impairment (especially in dehydrated or elderly patients)
+- Cardiovascular risk (avoid in heart disease)
+- Risk of serious complications if combined with alcohol
+
+> ⚠️ Avoid NSAIDs in pregnant women, patients with kidney disease, GI disorders, or heart conditions.
+
+##### Salicylates
+
+| 🔬 Common Examples | Aspirin, Magnesium Salicylate |
+| ------------------ | ----------------------------- |
+
+**Mechanism**: Like NSAIDs, salicylates reduce pain, inflammation, and fever, and also inhibit blood clot formation — making them useful for preventing heart attacks and strokes in high-risk patients.
+
+**Common Uses**: Osteoarthritis, rheumatoid arthritis, back pain, cardiovascular prevention (low-dose aspirin)
+
+**Risks**:
+
+- Increased bleeding risk
+- GI irritation, nausea, indigestion, vomiting
+- Kidney strain
+- **Reye's Syndrome**: rare but serious condition in children with viral infections. Do not give aspirin to children or teens with viral symptoms
+
+> ⚠️ Avoid in pregnancy, bleeding disorders, and patients with ulcers. Also avoid alcohol.
+
+##### Acetaminophen (APAP)
+
+| 🔬 Other/ Alternative Name | Paracetamol |
+| --------------------- | ----------------------- |
+
+**Mechanism**: Acetaminophen relieves pain and reduces fever. Unlike NSAIDs, it does not reduce inflammation and does not irritate the stomach.
+
+**Uses**: Headaches, fever, mild pain, safe in pregnancy and those with GI issues.
+
+**Risks**:
+
+- **Liver toxicity** especially with high doses or chronic alcohol use
+- Avoid combining with other medications that contain APAP (e.g., cold/flu combo meds)
+
+> ⚠️ Max adult dose: 4,000 mg per day; less for patients with liver disease or heavy alcohol use.
+
+| Generic Name | Common Brand names that contain the specified analgesic |
+|--|--|
+| Ibuprofen | Advil, Motrin, Midol |
+| Naproxen | Aleve, Midol, Pamprin |
+| Aspirin | Aspirin, Bufferin, Exotrin, Pamprin, St. Joseph, Halfprin |
+| Acetaminophen (APAP) | Tylenol, Midol, Pamprin |
 
 ## 🔒 Controlled & Monitored Substances
 
