@@ -1,4 +1,4 @@
-# Insurance
+# Chapter 4: Healthcare Coverage
 
 ## Health Insurance
 
