@@ -19,9 +19,11 @@ Pharmacy technicians often need to help patients navigate insurance issues. Know
 
 > 💡 Pharmacy staff may need to explain that a prescription isn’t covered yet because the deductible hasn't been met, or that a prior authorization is required.
 
-## 🏥 Types of Health Insurance
+## 🏥 Health Insurance, Managed Care Programs, & Coordination of Benefits
 
 ### Private Health Insurance
+
+Health insurers offer a variety of managed care programs with different fee structures. some managed care plans have single co-pays, dual co-pays, and three types of copays depending on the tier of service.
 
 | Plan Type | Description | Referrals Needed? | Out-of-Network Coverage? |
 |-----------|-------------|-------------------|-------------------------|
@@ -36,8 +38,8 @@ Pharmacy technicians often need to help patients navigate insurance issues. Know
 
 The ***Social Security Act Amendments (1965)*** created the Medicare and Medicaid programs:
 
-- **Medicaid**: A joint federal-state program providing health coverage to low-income individuals.
-- **Medicare**: A federal health insurance program for people aged 65+, individuals with certain disabilities, and patients with End-Stage Renal Disease (ESRD).
+- **Medicaid**: A joint federal-state program providing health coverage to low-income individuals; operating as HMOs.
+- **Medicare**: A federal health insurance program for people aged 65+, individuals with certain disabilities, and patients with End-Stage Renal Disease (ESRD); operating as HMOs unless the customer elects to enroll in Medicare Part C.
 
 These programs laid the foundation for future pharmacy regulations that affect how medications are dispensed and monitored, especially for public health insurance recipients.
 
@@ -62,6 +64,68 @@ The “donut hole” is a temporary limit on what Medicare Part D will pay for p
 | 💯 **Catastrophic Coverage** | After your out-of-pocket costs hit the cap (\~\$8,000), you pay **nothing** or a small coinsurance per prescription. |
 
 > 💊 For techs: Patients in the donut hole may suddenly pay more—watch for confusion or frustration and refer to the pharmacist.
+
+#### 🦾 Veterans Health Coverage: VA, TRICARE, & CHAMPVA
+
+In addition to private and public insurance plans, some patients receive prescription drug coverage through programs specifically for military personnel, veterans, and their families. These programs include VA, TRICARE, and CHAMPVA. Each has unique eligibility rules, formularies, and pharmacy networks.
+
+##### 🇺🇸 VA (U.S. Department of Veterans Affairs)
+
+The VA provides healthcare (including prescriptions) to eligible veterans through VA medical facilities.
+
+- Prescriptions are typically filled at **VA pharmacies** or via VA mail-order.
+- The VA has its own **national formulary**, and medications must be prescribed by a **VA provider** to be covered.
+- Outside pharmacies generally cannot bill the VA unless under special arrangements.
+- Patients may have a small copayment, depending on their income and service-connected disability status.
+
+> 💊 **Tech Tip**: If a patient brings a VA prescription to a retail pharmacy, it likely won’t be covered—refer them back to the VA system unless there’s a special authorization.
+
+##### 🔺 TRICARE
+
+TRICARE is the healthcare program for:
+
+- Active-duty military members
+- Retirees
+- National Guard/Reserve members
+- Their dependents
+
+TRICARE is managed by the **Department of Defense (DoD)** and offers several plan types, including **TRICARE Prime, TRICARE Select, and TRICARE for Life** (for Medicare-eligible retirees).
+
+Pharmacy Benefits:
+
+- Managed by Express Scripts.
+- Covers prescriptions from:
+- Military treatment facility pharmacies (no copay)
+- TRICARE retail network pharmacies (small copay)
+- Mail-order pharmacy (cheapest option for long-term meds)
+- Formularies are tiered, and prior authorizations may be required for certain drugs.
+
+> 📋 **Tech Tip**: Always check if the pharmacy is in-network for TRICARE. Verify eligibility using the patient’s military ID or DoD Benefits Number (DBN).
+
+##### 🩺 CHAMPVA (Civilian Health and Medical Program of the Department of Veterans Affairs)
+
+CHAMPVA provides coverage for spouses and dependent children of veterans who:
+
+- Are permanently and totally disabled due to a service-connected condition, or
+- Died as a result of a service-connected condition.
+
+CHAMPVA is not the same as TRICARE, but similar in how it functions.
+
+Key Points:
+
+- CHAMPVA covers prescriptions filled at **retail pharmacies** or through Medicare **Part D plans** (if eligible).
+- Claims may need to be **submitted manually** if the pharmacy isn’t set up for electronic CHAMPVA billing.
+- CHAMPVA may act as **secondary insurance** if the patient has another plan.
+
+> 🧠 **Tech Tip**: CHAMPVA patients may carry a special ID card. Verify the plan and check reimbursement procedures. CHAMPVA doesn’t always process like standard insurance.
+
+| Program | Who It Covers | Where Prescriptions Are Filled | Notes |
+|---------|---------------|--------------------------------|-------|
+| **VA** | Veterans enrolled in VA health care | VA pharmacies or VA mail-order | Must be prescribed by a VA provider |
+| **TRICARE** | Active-duty, retired military, and families | Military pharmacies, TRICARE retail network, mail-order | Managed by Express Scripts |
+| **CHAMPVA** | Dependents of disabled/deceased veterans | Retail pharmacies, sometimes Medicare Part D | May require manual claim submission |
+
+> ⚠️ Always verify insurance details for military and veteran patients—coverage rules and pharmacy networks vary significantly between VA, TRICARE, and CHAMPVA.
 
 #### 🏥 Medi-Cal (California Medicaid)
 
@@ -92,6 +156,32 @@ Medicare is the primary payer; Medi-Cal acts as secondary, covering:
 #### Medicare Modernization Act (MMA, 2003)
 
 The **MMA** established Part D of the program to provide prescription drug coverage and requires pharmacists to provide **Medication Therapy Mangement (MTM)** Services.
+
+## 🔄 Coordination of Benefits (COB)
+
+Coordination of Benefits (COB) is the process used when a patient has more than one health insurance plan. For example, private insurance through an employer and public coverage like Medicaid. COB determines which plan pays first (primary) and how much the secondary plan will cover afterward.
+
+Coordination:
+
+- Prevents duplicate payments for the same service or prescription.
+- Ensures the correct insurer is billed first to avoid claim denials or delays.
+- Helps the pharmacy calculate the patient’s true out-of-pocket cost.
+
+| Term | Meaning |
+|------|---------|
+| **Primary Insurance** | The plan that pays first, up to its coverage limits. |
+| **Secondary Insurance** | Pays some or all of what the primary didn’t cover. |
+| **Tertiary Insurance**  | A third plan (rare); used only after the first two pay. |
+
+Pharmacy Technician Role in COB:
+
+- Collect all insurance cards from the patient.
+- Enter insurance plans in correct order into the pharmacy system.
+- Process claims sequentially—submit to the primary first, then coordinate any - remaining balance with the secondary.
+- Watch for denials due to incorrect COB setup (e.g., “other coverage primary” errors).
+- Refer to the pharmacist or billing specialist if COB details are unclear or disputed.
+
+> 💡 **Tip**: If coverage isn’t set up correctly, the claim may reject or the patient may be charged the full price. Always verify COB status during intake for patients with multiple insurance plans.
 
 ## 💼 Pharmacy Benefit Manager (PBM)
 
