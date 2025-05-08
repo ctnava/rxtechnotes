@@ -1,4 +1,4 @@
-# Chapter 1: Duties & Law for Pharmacy Technicians
+# Chapter 1: Duties, Law, & Ethics for Pharmacy Technicians
 
 Notes on general duties and laws to follow for pharmacy technicians.
 
@@ -176,7 +176,7 @@ California State Licensure Requirements:
 - **Renewals**: Notices mailed 90 days before expiration; licenses are canceled if not renewed within 90 days post-expiration
 - **License Portability**: California has **no reciprocity**; technicians moving to other states must reapply there. Returning to CA may require full reapplication if the license was canceled
 
-## ⚖️ Court of Law
+### ⚖️ Court of Law
 
 Judicial law has two main divisions:
 
@@ -192,7 +192,7 @@ Torts are a branch of civil law in which the courts determine remedies for alleg
 
 > **Emily's Law** refers to a piece of legislation that focused on improving the qualifications and training of pharmacy technicians after a medication error led to the death of a child, resulting from a malpractice lawsuit. The pharmacist did not catch this error and both were held liable.
 
-### 💊 Medication Safety Practices & Errors
+#### 💊 Medication Safety Practices & Errors
 
 **Medication safety** is crucial to reducing errors and ensuring optimal patient outcomes. Pharmacy technicians play a key role in maintaining safety by ✅*adhering to proper procedures*, ⚠️*identifying potential risks*, and 👩‍⚕️*collaborating with pharmacists*.
 
@@ -204,7 +204,7 @@ Torts are a branch of civil law in which the courts determine remedies for alleg
 - ⛔ **Administration Errors**: Incorrect patient instructions
 - 👀 **Monitoring Errors**: Failure to detect interactions or reactions
 
-#### 🔐 Error Prevention Strategies
+##### 🔐 Error Prevention Strategies
 
 - 🔄 Double-check all prescriptions before dispensing
 - 🏷️ Use barcodes to verify medication
@@ -217,7 +217,7 @@ Torts are a branch of civil law in which the courts determine remedies for alleg
   - ✔️ Right Route
   - ✔️ Right Timing
 
-#### 🛡️ Best Practices for Safe Handling
+##### 🛡️ Best Practices for Safe Handling
 
 - 🏠 Store medications properly to maintain potency and prevent contamination
 - 🏷️ Label medications clearly and include expiration dates
