@@ -43,6 +43,30 @@ Managed care plans are offered by insurers (public and private); structured to c
 
 > 🔍 Check insurance cards or PBM portals for plan types. Copays are often tiered based on drug cost.
 
+#### 🔄 Coordination of Benefits (COB)
+
+When patients have more than one plan, **COB** determines which is billed first and it:
+
+- Prevents duplicate payments for the same service or prescription.
+- Ensures the correct insurer is billed first to avoid claim denials or delays.
+- Helps the pharmacy calculate the patient’s true out-of-pocket cost.
+
+| Term | Meaning |
+|------|---------|
+| **Primary Insurance** | Pays first up to its coverage limits. |
+| **Secondary Insurance** | Pays some or all of what the primary didn’t cover. |
+| **Tertiary Insurance**  | Rare third plan that covers remaining costs. |
+
+**Pharmacy Technician Role**:
+
+- Collect and enter all insurance cards.
+- Enter insurance plans in correct order into the pharmacy system.
+- Bill in correct order: primary → secondary → tertiary.
+- Watch for Third Party Rejections like “other coverage primary.”
+- Refer unclear COB issues to pharmacist or billing staff.
+
+> 💡 Incorrect COB setup leads to claim denials or full patient cost. Verify COB at patient intake.
+
 #### Public Health Insurance
 
 ##### Medicare & Medicaid
@@ -413,30 +437,6 @@ CMS-10114 Form are required for PDPs offering MTM services and require the follo
 | **99607** | Add-on for MTM services, each additional 15 minutes | For longer sessions (attach to 99605/99606) | Can be billed multiple times for extended visits |
 
 > 💡 All MTM billing requires **time documentation, clinical notes**, and often a **signed patient consent**. These services are generally not billable through PBMs—they go through medical insurance or Medicare Part D PDPs.
-
-### 🔄 Coordination of Benefits (COB)
-
-When patients have more than one plan, **COB** determines which is billed first and it:
-
-- Prevents duplicate payments for the same service or prescription.
-- Ensures the correct insurer is billed first to avoid claim denials or delays.
-- Helps the pharmacy calculate the patient’s true out-of-pocket cost.
-
-| Term | Meaning |
-|------|---------|
-| **Primary Insurance** | Pays first up to its coverage limits. |
-| **Secondary Insurance** | Pays some or all of what the primary didn’t cover. |
-| **Tertiary Insurance**  | Rare third plan that covers remaining costs. |
-
-**Pharmacy Technician Role**:
-
-- Collect and enter all insurance cards.
-- Enter insurance plans in correct order into the pharmacy system.
-- Bill in correct order: primary → secondary → tertiary.
-- Watch for Third Party Rejections like “other coverage primary.”
-- Refer unclear COB issues to pharmacist or billing staff.
-
-> 💡 Incorrect COB setup leads to claim denials or full patient cost. Verify COB at patient intake.
 
 ### Social Health Insurance & Public Assistance
 
