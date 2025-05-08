@@ -31,9 +31,9 @@ The “donut hole” is a temporary limit on what Medicare Part D will pay for p
 
 > 💊 For techs: Patients in the donut hole may suddenly pay more—watch for confusion or frustration and refer to the pharmacist.
 
-#### 🏥 Medi-Cal (California Medicare Medicaid)
+#### 🏥 Medi-Cal (California Medicaid)
 
-Medi-Cal is California’s combined Medicare Medicaid program, providing free or low-cost health coverage for:
+Medi-Cal is California’s Medicaid program, providing free or low-cost health coverage for:
 
 - Low-income families and individuals
 - Seniors (65+)
