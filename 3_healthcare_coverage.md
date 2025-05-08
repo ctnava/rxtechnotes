@@ -1,6 +1,6 @@
 # Chapter 3: Healthcare Coverage
 
-This chapter introduces key aspects of health insurance and how they impact pharmacy operations—including PBMs, cost-sharing, Medicare/Medicaid, formularies, and military benefits.
+This chapter introduces key aspects of health insurance and how they impact pharmacy operations.
 
 ---
 
@@ -18,14 +18,15 @@ Health insurance is a financial agreement where an individual or business pays a
 | 💸 **Copayment (Copay)** | A **fixed amount** (e.g., \$10 or \$50) paid for a service or medication when received. | Typically varies by drug tier or service level. |
 | ⛔ **Out-of-Pocket Maximum (OOP Max)** | The **maximum total** a patient will pay in a year (including deductible, copays, coinsurance). | After this, insurance pays **100%** for covered services. |
 | 💼 **Pharmacy Benefit Manager (PBM)** | Third party administrator that manages the drug benefits for insurers, employers, Medicare Part D, etc. | A **distinct** entity. |
+| ⚙️ **Adjudication** | The real-time process where insurance (via the PBM) evaluates a prescription claim. | Determines coverage, patient cost, and whether the prescription is accepted or rejected. |
 | 🛑 **Third Party Rejection (TPR)** | A **claim denial** from the insurance due to eligibility or processing errors. | May require corrections (e.g., wrong DOB, plan not active). |
 | ⚠️ **Prior Authorization (PA)** | A **requirement for approval** before certain drugs or services are covered. | Often applies to expensive or non-preferred medications. |
 
-> 💡 Pharmacy techs must often explain deductibles, PA delays, or TPRs to patients. Document carefully and involve the pharmacist when needed.
+> 💡 **Tech Tip**: Document all patient interactions about PAs, rejections, and delays. Escalate to pharmacist when necessary.
 
 ### 🏥 Managed Care Programs
 
-Health insurers (both public & private) offer a variety of managed care programs with different fee structures. some managed care plans have single co-pays, dual co-pays, and three types of copays depending on the tier of service.
+Managed care plans are offered by insurers (public and private); structured to control healthcare costs and improve care coordination.
 
 | Plan Type | Description | Referrals Needed? | Out-of-Network Coverage? |
 |-----------|-------------|-------------------|-------------------------|
@@ -34,39 +35,42 @@ Health insurers (both public & private) offer a variety of managed care programs
 | 🟨 **POS** (Point of Service) | Hybrid of HMO & PPO. Requires PCP and referrals, but offers some out-of-network coverage. | ✅ Yes | ✅ Yes (with extra cost) |
 | 🟪 **EPO** (Exclusive Provider Organization) | Like an HMO, but **no referrals required**. Still **no out-of-network** coverage (except emergencies). | ❌ No | ❌ No |
 
-> 🧠 Pharmacy Tip: Always check insurance card or PBM portal for plan type and coverage rules. Most plans use **tiered copays** based on drug cost and type.
+> 🔍 Check insurance cards or PBM portals for plan types. Copays are often tiered based on drug cost.
 
 ### 💊 Formularies
 
-A **formulary** is an official list of prescription medications that are **approved for use** and covered by an institution or insurance plan. Formularies guide what medications can be **dispensed, substituted, or reimbursed**.
+A **formulary** is a list of medications approved and covered by an insurer or institution. Formularies guide what medications can be **dispensed, substituted, or reimbursed**.
 
-🏥 **In Hospital/Institutional Settings**:
+🏥 **Institutional Formularies**:
 
-- The formulary includes only the medications stocked and approved by the Pharmacy & Therapeutics (P&T) Committee.
-- Medications not on the formulary may require a non-formulary request or therapeutic substitution.
-- Helps ensure cost-effective, evidence-based treatment for inpatients.
+- Controlled by the **Pharmacy & Therapeutics (P&T) Committee**.
+- Only stocked medications are dispensed.
+- Non-formulary requests or therapeutic substitutions may be required.
 
 🛍️ **In Retail/Insurance Settings**:
 
-- The formulary is the list of covered drugs under a patient’s insurance plan, usually managed by a Pharmacy Benefit Manager (PBM).
-- Medications are divided into tiers:
-  - Tier 1: Preferred generics (lowest cost)
-  - Tier 2: Preferred brand-name drugs
-  - Tier 3: Non-preferred brands or specialty drugs
-  - Tier 4+: High-cost or specialty medications (higher copay/coinsurance)
+- Managed by PBMs.
+- Drugs are divided into **tiers** that affect patient cost:
+
+| Tier | Description |
+|------|-------------|
+| Tier 1 | Preferred generics (lowest cost) |
+| Tier 2 | Preferred brand-name drugs |
+| Tier 3 | Non-preferred brands |
+| Tier 4+ | High-cost or specialty medications |
 
 ### 💼 Pharmacy Benefit Manager (PBM)
 
-A PBM is a third-party company that manages the prescription drug benefits on behalf of health insurance plans, employers, Medicare Part D plans, and other payers. They act as a middleman between, pharmacies, health insurers/employers, & drug manufacturers.
+PBMs are third-party companies that manage drug benefits on behalf of payers (insurers, employers, Medicare).
 
-| Role | PBM Responsibility |
-|------|--------------------|
-| 🛍️ **Claims Processing** | PBMs process prescription claims when a patient fills a medication at a pharmacy. |
-| 💲 **Reimbursement Rates** | They determine how much pharmacies are paid and how much the patient pays (copay/coinsurance). |
-| 📋 **Formulary Management** | PBMs design **formularies** (i.e. lists of covered drugs) and place them into **tiers** that affect pricing and access. |
-| 🔐 **Prior Authorizations (PAs)** | PBMs require PAs for certain high-cost or high-risk drugs to control costs. |
-| 🤝 **Manufacturer Rebates** | PBMs negotiate **rebates** and **discounts** from drug manufacturers in exchange for preferred placement on formularies. |
-| 📦 **Mail-Order Pharmacy** | Many PBMs operate or partner with **mail-order pharmacies** for 90-day supplies or specialty meds. |
+| Function | Description |
+|----------|-------------|
+| 🛍️ **Claims Processing** | Handle real-time claim adjudication. |
+| 💲 **Reimbursement Rates** | Set copays and pharmacy payouts. |
+| 📋 **Formulary Management** | Create and manage drug tiers. |
+| 🔐 **Prior Authorizations** | Require clinical justification for certain drugs. |
+| 🤝 **Manufacturer Rebates** | Negotiate drug discounts for formulary placement. |
+| 📦 **Mail-Order Pharmacy** | Operate/contract mail pharmacies for long-term meds. |
 
 > 💡 **Common PBMs**: CVS Caremark, Express Scripts, & OptumRx manage drug benefits for millions of patients nationwide.
 
@@ -93,6 +97,68 @@ In outpatient care settings, PBMs influence what is covered, how much patients p
 
 > **Denial and Appeal**: If a PA is denied, technicians may help by ensuring the pharmacy has all required documentation or by assisting in the appeal process.
 
+### 👤 Patient Profile Creation
+
+Before a prescription can be processed or billed, a patient profile must be created in the pharmacy management system. This includes entering key information that ensures accuracy during claim adjudication and compliance with regulations.
+
+**Required Fields**:
+
+- Full legal name
+- Date of birth
+- Address and contact information
+- Gender
+- Allergies (use "NKA" there are no known allergies)
+- health conditions
+- Current medications (prescriptions, supplements, & OTC)
+- Insurance Information
+
+Technicians must:
+
+- Verify information directly from the patient and their insurance card.
+- Ensure accuracy (especially date of birth, spelling, and ID numbers) to avoid claim rejections.
+- Update records annually or when patient details change.
+
+> ⚠️ **Tech Tip**: Always confirm insurance data from the most recent insurance card to avoid billing errors and Third Party Rejections.
+
+### 🔁 Billing & Adjudication
+
+Prescription billing is the process of submitting a claim to a patient’s insurance via a real-time adjudication system; typically operated by the PBM. This process confirms whether a medication is covered, calculates the patient’s share, and notifies the pharmacy of any issues.
+
+#### 🧾 Adjudication Process
+
+1. ***Patient profile setup***: Insurance information is collected and entered into the pharmacy system.
+2. ***Prescription claim submission***: The pharmacy system transmits patient/dose/drug info to the PBM.
+3. ***Real-time response***: The PBM evaluates coverage, applies plan rules (like copays, deductibles, prior authorization), and returns an approval or rejection.
+4. ***Point-of-sale***: Patient is charged based on insurer response. The pharmacy is reimbursed according to its contract with the PBM.
+
+| Step | Role |
+| ---- | ---- |
+| Enter insurance BIN/PCN/ID | Identifies the PBM and patient |
+| Transmit prescription details | Drug, days’ supply, NDC, prescriber info |
+| Adjudication | PBM checks eligibility, coverage, cost-sharing |
+| Response | Approved (with copay) or Rejected (with reason code) |
+
+### 🛑 Third-Party Rejections & Resolutions
+
+A Third-Party Rejection (TPR) occurs when a prescription claim is denied by the PBM or insurance. These denials are flagged with a reject code and message explaining the issue.
+
+| Rejection | Reason | Resolution |
+|------|---------|------------|
+| Dependend exceeds plan's age limit | X | X |
+| Invalid Birth Date | X | X |
+| Invalid Person Code | X | X |
+| Invalid Sex | X | X |
+| Invalid Prescriber not a network provider | X | X |
+| Unable to Connect to Insurer | X | X |
+| Patient not Covered (Coverage Terminated) | X | X |
+| Refill to Soon | X | X |
+| Refills not Covered | X | X |
+| NDC not Covered | X | X |
+| Invalid Days Supply or Plan Limit Exceeded | X | X |
+| Prior Authorization Required | X | X |
+
+> 📍 **Tech Tip**: Always confirm the BIN/PCN/ID from the most recent insurance card. These fields determine where the claim is sent.
+
 ### 🔄 Coordination of Benefits (COB)
 
 When patients have more than one plan, **COB** determines which is billed first and it:
@@ -115,7 +181,7 @@ When patients have more than one plan, **COB** determines which is billed first 
 - Watch for Third Party Rejections like “other coverage primary.”
 - Refer unclear COB issues to pharmacist or billing staff.
 
-> 💡 **Tip**: If coverage isn’t set up correctly, the claim may reject or the patient may be charged the full price. Always verify COB status during intake for patients with multiple insurance plans.
+> 💡 Incorrect COB setup leads to claim denials or full patient cost. Verify COB at patient intake.
 
 ---
 
