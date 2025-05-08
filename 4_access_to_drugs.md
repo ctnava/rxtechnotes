@@ -268,7 +268,7 @@ These ingredients are commonly found in cold and allergy medications but can als
 
 Prescriptions and medication orders are instructions from a medical practictioner that authorizes the issue of a drug or device to a patient.
 
-### Intake & Order Entry
+### Intake & Entry
 
 When processing prescriptions for intake and order entry, make sure they contain the following, minimum information:
 
@@ -382,7 +382,7 @@ For example, if an outpatient is dispensed a **standard U-100** insulin vial **(
 
 > Always check expiration dates when dispensing more than 28 days supply
 
-### Translating the Signa
+#### Translating the Signa
 
 The signa (the "sig") is almost always heavily abbreviated and pharmacy techs are often required to transcribe them for computer entry.
 
@@ -399,7 +399,7 @@ example:
 `℞ i tab po bid pc #XXX`
 `Take 1 tablet by mouth twice a day after meals (Quantity 30)`
 
-#### Common Verbs & Associated Dosage Forms by Route
+##### Common Verbs & Associated Dosage Forms by Route
 
 Directions for use must be specific as the patient does not know what to do with strange medications. Some dosage forms are more toxic when taken the wrong way (e.g. Sulfanilimide).
 
@@ -428,7 +428,7 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 
 > ⚠️ Indicates that this abbreviation is on the "Do Not Use" List.
 
-#### 🧭 Route of Administration
+##### 🧭 Route of Administration
 
 | Emoji | Abbreviation | Meaning                | ⚠️ |
 |-------|--------------|------------------------|----|
@@ -454,7 +454,7 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 | 🩹    | P (RxConnect) | Patch                  |    |
 | 🧴    | A (RxConnect) | Apply                  |    |
 
-#### 💊 Dosage Form
+##### 💊 Dosage Form
 
 | Emoji | Abbreviation | Meaning          | ⚠️ |
 |-------|--------------|------------------|----|
@@ -471,7 +471,7 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 | 💨🌀 | SP (RxConnect) | Spray              |    |
 | 🌀✅  | SAS (RxConnect) | Swish and swallow  |    |
 
-#### ⏰ Timing & Frequency
+##### ⏰ Timing & Frequency
 
 | Emoji | Abbreviation | Meaning                    | ⚠️ |
 |-------|--------------|----------------------------|----|
@@ -492,7 +492,7 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 | 🚨    | STAT         | Immediately                |    |
 | 🗓️    | FXD (RxConnect) | For 10 Days             |    |
 
-#### 📏 Measurement
+##### 📏 Measurement
 
 | Emoji | Abbreviation | Meaning                | ⚠️ |
 |-------|--------------|------------------------|----|
@@ -513,7 +513,7 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 | ⚖️    | mEq          | Milliequivalents       |    |
 | ⚠️    | ss, S        | One-half               | ⚠️ (mistaken for “55” or "5") |
 
-#### 🧩 Miscellaneous
+##### 🧩 Miscellaneous
 
 | Emoji | Abbreviation | Meaning                    | ⚠️ |
 |-------|--------------|----------------------------|----|
@@ -534,7 +534,7 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 | ➖    | ō             | Without / With No (archaic/Latin)  | ⚠️ (rare or ambiguous) |
 | ✅🩹 | AAA (RxConnect) | Apply to affected area   |    |
 
-#### 🧾 PRN or Indications (RxConnect)
+##### 🧾 PRN or Indications (RxConnect)
 
 | Emoji | Abbreviation | Meaning                 |
 |-------|--------------|-------------------------|
@@ -551,7 +551,7 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 | 🫁    | SOB          | For shortness of breath |
 | 💓    | HTN          | For hypertension        |
 
-#### 🔣 Common Symbols
+##### 🔣 Common Symbols
 
 | Emoji/Symbol | Symbol | Meaning              | ⚠️ |
 |--------------|--------|----------------------|----|
@@ -564,7 +564,7 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 | ♾️ | ∞ | Infinity / Ongoing/ No Limit | |
 | 🚫 | Ø | None / Null / No Value | |
 
-#### 💼 Common Medication-Specific SIG Codes (RxConnect)
+##### 💼 Common Medication-Specific SIG Codes (RxConnect)
 
 | Medication | SIG Instruction |
 |------------|-----------------|
