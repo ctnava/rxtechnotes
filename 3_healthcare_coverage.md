@@ -282,7 +282,7 @@ A **formulary** is an official list of prescription medications that are **appro
   - Tier 4+: High-cost or specialty medications (higher copay/coinsurance)
 - Drugs not on the formulary may be denied coverage, unless a prior authorization is approved.
 
-> 📋 **A National Drug Code (NDC)** — a unique 11-digit number — identifies each drug by manufacturer, product, and package size, and is used to match drugs to the correct formulary coverage.
+> 📋 **A National Drug Code (NDC)**: a unique 11-digit number; identifies each drug by manufacturer, product, and package size, and is used to match drugs to the correct formulary coverage.
 
 ## Billing, Claims, & Adjudication
 

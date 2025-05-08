@@ -349,7 +349,7 @@ Technicians are generally expected to dispense generic drugs when available unle
 
 ### Translating the Signa
 
-Signa (the "sig") is almost always heavily abbreviated and pharmacy techs are often required to transcribe them for computer entry. Below are a list of common abbreviations used for transcribing SIGs on prescriptions or medication orders.
+The signa (the "sig") is almost always heavily abbreviated and pharmacy techs are often required to transcribe them for computer entry. Below are a list of common abbreviations used for transcribing SIGs on prescriptions or medication orders.
 
 > ⚠️ Indicates that this abbreviation is on the "Do Not Use" List.
 
