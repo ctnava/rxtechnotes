@@ -55,21 +55,19 @@ In order for a newly patented, *Brand Name* drug to come to market, the FDA must
 
 #### Step 3: Clinical Trials (4-7 Years)
 
-Clinical trials involve human research subjects and are conducted in three phases:
+Clinical trials involve human research subjects and are conducted in three phases. Participants must give informed consent and the information necessary to provide it (per Kefauver-Harris Amendment). They are free to leave as they wish.
 
 - **Phase 1 (20 - 80 People)**: Determine ***safety*** first by collecting a profile of side effects in a small group of healthy volunteers over ***several months***.
 - **Phase 2 (100-300 People)**: Determine ***efficacy*** by testing it on a group of patients with the condition that the drug is trying to treat while also staying on the look out for side effects for ***several months to 2 years***. Controlled trials are also used to compare the drug's activity against a placebo. This test is double-blind, meaning that neither the patients nor the prescribers are aware that the drug is a placebo.
 - **Phase 3 (1,000 - 3,000 People)**: Confirm ***efficacy*** while collecting ***additional safety*** data in a larger population. Also gathering data on interactions and effects at different ***dosages*** for ***1 to 4 years***.
 
-> Participants must give informed consent and the information necessary to provide it (per Kefauver-Harris Amendment). They are free to leave as they wish.
+> **NOTE**: Pediatric clinical trials can take place after Phase 2 or 3 Adult trials if the company is trying to get the drug approved for use in children.
 
 #### Step 4: Review & Approval (1-2 Years)
 
 - Pharmaceutical company files a ***New Drug Application (NDA)*** with the FDA
 - FDA reviews for safety, efficacy, and labeling
 - Drug is either approved for marketing (regulated by the Kefauver-Harris Amendment) or denied by the FDA and request further testing
-
-TODO: NOTES ABOUT PEDIATRICS
 
 #### Step 5: Post-Market Surveillance (Ongoing)
 
