@@ -284,7 +284,7 @@ A **formulary** is an official list of prescription medications that are **appro
 
 > 📋 **A National Drug Code (NDC)**: a unique 11-digit number; identifies each drug by manufacturer, product, and package size, and is used to match drugs to the correct formulary coverage.
 
-## Billing, Claims, & Adjudication
+## Adjudication, Billing, & Claims
 
 ### 📝 Prior Authorizations (PAs)
 

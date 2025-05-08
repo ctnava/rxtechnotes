@@ -69,6 +69,8 @@ Clinical trials involve human research subjects and are conducted in three phase
 - FDA reviews for safety, efficacy, and labeling
 - Drug is either approved for marketing (regulated by the Kefauver-Harris Amendment) or denied by the FDA and request further testing
 
+TODO: NOTES ABOUT PEDIATRICS
+
 #### Step 5: Post-Market Surveillance (Ongoing)
 
 - Manufacturer maintains exclusive rights (~20 years) to offset research & development cost
