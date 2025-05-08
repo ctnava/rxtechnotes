@@ -96,9 +96,36 @@ It is the pharmacy staff’s responsibility to:
 | OD     | Doctor of Optometry | 💊 Hydrocodone (post-op), low-dose benzos (rare) |
 | PharmD (RPh) | Pharmacist under protocol | 💊 testosterone |
 
-### Combat Methamphetamine Epididemic Act (CMEA, 2005)
+### 🧪 Combat Methamphetamine Epidemic Act (CMEA, 2005)
 
-This act establishes strict controls on OTC sales of pseudoephdrine, epehedrine, and phenylpropanolamine.
+The CMEA was enacted to combat the illegal production of methamphetamine by creating a list of monitored drugs, equipment, and chemicals while also placing ***strict, time based controls on over-the-counter (OTC)*** sales of:
+
+- **Pseudoephedrine**
+- **Ephedrine**
+- **Phenylpropanolamine**
+
+| Time Period | Maximum Amount | Notes |
+| ------------|----------------|-------|
+| **Per Day**              | **3.6 grams**  | Applies to **all sources** (combined)    |
+| **30 Days (in-person)**  | **9 grams**    | Applies to retail pharmacy purchases     |
+| **30 Days (mail-order)** | **7.5 grams**  | Stricter limit for mobile/online vendors |
+
+These ingredients are commonly found in cold and allergy medications but can also be used in the **illicit manufacture of methamphetamine**.
+
+🔐 **Storage & Access Requirements**:
+
+- Must be kept Behind-the-Counter or in a locked cabinet.
+- not available for self-service.
+- **Cannot be sold through drive-thru windows**, due to ID and logbook requirements.
+
+🧾 **Sales & Logbook Requirements**:
+
+- Purchasers must be 18 years or older and present a valid photo ID.
+- A logbook must be maintained that records:
+  - Purchaser’s name and address
+  - Product name
+  - Quantity sold
+  - Date and time of the sale
 
 ## Medication Orders & Prescriptions
 
