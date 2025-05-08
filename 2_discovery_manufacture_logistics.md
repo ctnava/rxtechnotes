@@ -34,6 +34,8 @@ There exist two commercial categories of drugs:
 - **Brand Name Drugs**: Original drugs developed by pharmaceutical companies, protected by patents, and marketed under proprietary names
 - **Generic Drugs**: Copies of brand-name drugs that have the same active ingredients, strength, dosage form, and route of administration, but sold under generic chemical names or different brand names after the original patent expires
 
+> **TRIVIA**: The Orphan Drug Act (1983) provides incentives to promote research, approval, and marketing of drugs needed for the treatment of rare (therefore less profitable) diseases.
+
 ### Brand Name Drug Development
 
 In order for a newly patented, *Brand Name* drug to come to market, the FDA must first approve it. The process generally is as follows:
