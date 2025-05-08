@@ -22,7 +22,7 @@ Once **enrolled** in a **managed care plan**, patients are typically responsible
 | 🏥 **Managed Care Program**  | A structured healthcare plan that limits costs by controlling how patients receive care. | Includes HMOs, PPOs, POS, and EPOs. Emphasizes coordination and efficiency. |
 | 📊 **Coinsurance** | A **percentage** of the cost paid by the patient after deductible is met (e.g., 20%). | Common for expensive procedures or specialty medications. |
 | 💸 **Copayment (Copay)** | A **fixed amount** (e.g., \$10 or \$50) paid for a service or medication when received. | Typically varies by drug tier or service level. |
-| ⛔ **Out-of-Pocket Maximum (OOP Max)** | The **maximum total** a patient will pay in a year (including deductible, copays, coinsurance). | After this, insurance pays **100%** for covered services. |
+| ⛔ **Out-of-Pocket Maximum (OOP Max)** | The **maximum total** a patient will pay in a year (including deductible, copays, coinsurance but not including premiums). | After this, insurance pays **100%** for covered services. |
 | 💼 **Pharmacy Benefit Manager (PBM)** | Third party administrator that manages the drug benefits for insurers, employers, Medicare Part D, etc. | A **distinct** entity. |
 | ⚙️ **Adjudication** | The real-time process where insurance (via the PBM) evaluates a prescription claim. | Determines coverage, patient cost, and whether the prescription is accepted or rejected. |
 | 🛑 **Third Party Rejection (TPR)** | A **claim denial** from the insurance due to eligibility or processing errors. | May require corrections (e.g., wrong DOB, plan not active). |
@@ -36,10 +36,10 @@ Managed care plans are offered by insurers (public and private); structured to c
 
 | Plan Type | Description | Referrals Needed? | Out-of-Network Coverage? |
 |-----------|-------------|-------------------|-------------------------|
-| 🟦 **HMO** (Health Maintenance Organization) | Most restrictive. Requires you to choose a **Primary Care Provider (PCP)** who coordinates all care. | ✅ Yes, for specialists | ❌ No (emergencies only) |
+| 🟦 **HMO** (Health Maintenance Organization) | Most restrictive. Requires you to choose a **Primary Care Provider (PCP)** who coordinates all care. | ✅ Yes, for specialists | ❌ No (life-threatening emergencies only) |
 | 🟧 **PPO** (Preferred Provider Organization) | Flexible. No need for referrals. Higher cost for out-of-network care. | ❌ No | ✅ Yes (higher cost) |
-| 🟨 **POS** (Point of Service) | Hybrid of HMO & PPO. Requires PCP and referrals, but offers some out-of-network coverage. | ✅ Yes | ✅ Yes (with extra cost) |
-| 🟪 **EPO** (Exclusive Provider Organization) | Like an HMO, but **no referrals required**, still **no out-of-network coverage** (except emergencies). | ❌ No | ❌ No |
+| 🟨 **POS** (Point of Service) | Hybrid of HMO & PPO. Requires in-network PCP and referrals, but offers some out-of-network coverage. | ✅ Yes | ✅ Yes (with extra cost) |
+| 🟪 **EPO** (Exclusive Provider Organization) | Like an HMO, but **no referrals required**, still **no out-of-network coverage** (except life-threatening emergencies). | ❌ No | ❌ No |
 
 > 🔍 Check insurance cards or PBM portals for plan types. Copays are often tiered based on drug cost.
 
@@ -82,11 +82,11 @@ PBMs are third-party companies that manage drug benefits on behalf of payers (in
 
 ### 📝 Prior Authorizations (PAs)
 
-A **Prior Authorization (PA)** is a requirement by insurance companies (often managed by Pharmacy Benefit Managers or PBMs) that a healthcare provider must obtain approval by providing medical justification before a specific medication is covered by the patient's insurance. This process is used for **high-cost medications** (e.g., brand-name drugs without generic equivalents), **drugs with safety concerns** (e.g., opioid medications, certain antidepressants), **specialty drugs** (e.g., biologics, certain cancer treatments), **medications that require step therapy** (e.g., trying less expensive medications first), drugs not listed in the **formulary**, or drugs considered to have alternatives that are more cost-effective. When a drug isn’t covered or needs a PA, it’s usually the PBM’s rules, not the pharmacy’s.
+A **Prior Authorization (PA)** is a requirement by insurance companies (often managed by Pharmacy Benefit Managers or PBMs) that a healthcare provider must obtain approval by providing medical justification before a specific medication is covered by the patient's insurance. This process is used for **high-cost medications** (e.g., brand-name drugs without generic equivalents), **drugs with safety concerns** (e.g., opioid medications, certain antidepressants), **specialty drugs** (e.g., biologics, certain cancer treatments), **medications that require step therapy** (e.g., must try lower-tier drug first), drugs not listed in the **formulary**, or drugs considered to have alternatives that are more cost-effective. When a drug isn’t covered or needs a PA, it’s usually the PBM’s rules, not the pharmacy’s.
 
 Generic drugs make medicine more accessible as insurers are always ready to save money. However, inactive ingredients may affect tolerances and allergies in individual patients. If needed, insurers will cover brand name drugs if a doctor provides justification of medical necessity. Without justification or PA, the patient usually may have to pay full price without insurance coverage.
 
-> ⚠️ PAs are NOT required for emergency care.
+> ⚠️ PAs are NOT required for emergency care in life-threatening circumstances.
 
 The approval process typically involves submitting specific clinical information to the insurer, such as diagnosis codes, treatment history, or justification for why the prescribed drug is necessary over alternatives. From there, insurers & PBMs review the request. If approved, the healthcare provider may proceed with service or the requested medication may be dispensed.
 
@@ -195,14 +195,15 @@ This table should help clarify the essential details when processing prescriptio
 
 A Third-Party Rejection (TPR) occurs when a prescription claim is denied by the PBM or insurance. These denials are flagged with a reject code and message explaining the issue.
 
-| Rejection | Reason | Resolution |
-|-----------|--------|------------|
-| Patient not Covered | Coverage terminated | Update insurance info |
-| Invalid Birth Date | Mismatch with insurance card | Verify DOB with patient |
-| Invalid Person Code | Incorrect ID or gender | Verify with patient |
-| Refill Too Soon | Prescription too early for refill | Inform patient of date limitation |
-| NDC not Covered | Drug not covered by plan | Contact prescriber for alternative |
-| Prior Authorization Required | Drug needs PA | Submit PA request |
+| Reject Code | Reason | Resolution |
+|-------------|--------|------------|
+| 70 | NDC Not Covered | Use formulary drug or request PA |
+| 75 | Prior Authorization Required | Start PA process |
+| 76 | Plan Limitations Exceeded | Check days’ supply, quantity |
+| 79 | Refill Too Soon | Check last fill date |
+| 25 | Invalid Birth Date | Verify with patient |
+| 26 | Invalid Person Code | Confirm patient relationship |
+| 41 | Invalid Cardholder ID | Correct insurance info |
 
 > 📍 **Tech Tip**: Always confirm the BIN/PCN/ID from the most recent insurance card. These fields determine where the claim is sent.
 
