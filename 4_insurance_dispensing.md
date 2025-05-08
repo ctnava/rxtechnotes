@@ -1,15 +1,17 @@
 # Insurance, Adjudication, & Insurance
 
+## Health Insurance
 
+### Public Health Insurance
 
-##### Social Security Act Amendments (1965)
-
-The Social Security Act created the Medicare and Medicaid programs:
+The ***Social Security Act Amendments (1965)*** created the Medicare and Medicaid programs:
 
 - **Medicare**: A federal health insurance program for people aged 65+, individuals with certain disabilities, and patients with End-Stage Renal Disease (ESRD).
 - **Medicaid**: A joint federal-state program providing health coverage to low-income individuals.
 
 These programs laid the foundation for future pharmacy regulations that affect how medications are dispensed and monitored, especially for public health insurance recipients.
+
+The **Medicare Modernization Act (MMA, 2003)** established Part D of the program to provide prescription drug coverage and requires pharmacists to provide ***Medication Therapy Mangement (MTM)***.
 
 ## Formularies
 

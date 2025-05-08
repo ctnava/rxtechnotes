@@ -53,12 +53,12 @@ Pharmacists are healthcare professionals licensed to **dispense medications**, *
 
 Certain federal laws have established pharmacist responsibilities that directly affect pharmacy operations, particularly in how pharmacists interact with patients and manage drug therapy. These laws also shape how pharmacy technicians support those processes.
 
-##### Omnibus Budget Reconcillation Act (OBRA-90 or "the Omnibus", 1990)
+##### ❗❗❗ Counseling, Record Keeping, & Drug Utilization Review (DUR)
 
-OBRA-90 was a major federal law affecting Medicaid prescription drug programs. It mandates that states receiving federal funds must require pharmacists to:
+The ***Omnibus Budget Reconcillation Act (OBRA-90 or "the Omnibus", 1990)*** was a major federal law affecting Medicaid prescription drug programs. It mandates that states receiving federal funds must require pharmacists to:
 
 - 📄 **Maintain Patient Medication Profiles**: Pharmacies must maintain records (on-site for a minimum of 2 years) of a patient’s medication history to support counseling and DUR obligations.
-- 📋 **Conduct Drug Utilization Reviews (DURs)**: Evaluate prescriptions to identify adverse effects, therapeutic duplication, drug–disease contraindications, incorrect dosage or duration, and drug–drug interactions.
+- 📋 **Conduct DURs**: Evaluate prescriptions to identify adverse effects, therapeutic duplication, drug–disease contraindications, incorrect dosage or duration, and drug–drug interactions.
 - 💬 **Offer Counseling to Medicaid Patients**: Pharmacists must “offer to counsel” Medicaid patients on:
   - Proper use of the medication
   - Potential side effects or adverse reactions
@@ -68,15 +68,14 @@ OBRA-90 was a major federal law affecting Medicaid prescription drug programs. I
 
 > ⚠️ Some states have extended OBRA-90 requirements to all patients, not just Medicaid recipients.
 
-##### Medicare Modernization Act (MMA, 2003)
+##### 💊 Medication Therapy Management (MTM)
 
-The Medicare Modernization Act established Part D of the program to provide prescription drug coverage and requires pharmacists to provide ***Medication Therapy Mangement (MTM)***.
+The ***Medicare Modernization Act (MMA, 2003)*** established Part D of the program to provide prescription drug coverage and requires pharmacists to provide ***Medication Therapy Mangement (MTM)*** services. These include:
 
-- 💊 **Medication Therapy Management (MTM)**: Pharmacists are required to offer MTM services to eligible Medicare Part D patients. These services include:
-  - Reviewing all medications a patient is taking
-  - Identifying duplications or interactions
-  - Providing personalized medication action plans
-  - Optimizing therapeutic outcomes
+- Reviewing all medications a patient is taking
+- Identifying duplications or interactions
+- Providing personalized medication action plans
+- Optimizing therapeutic outcomes
 
 > **NOTE**: MTM is usually targeted toward patients taking multiple chronic medications, especially those with multiple conditions or high drug costs. This is done to ensure compliance to, both, reduce waste and improve therapy outcomes.
 
