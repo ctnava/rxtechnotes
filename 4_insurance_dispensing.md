@@ -1,4 +1,4 @@
-# Insurance, Adjudication, & Insurance
+# Insurance
 
 ## Health Insurance
 
