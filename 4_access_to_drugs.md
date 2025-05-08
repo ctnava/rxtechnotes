@@ -300,13 +300,24 @@ Once the technician has a positive ID on the patient, they will compare the orde
 
 > ⚠️ Always ask for clarification. Assumptions kill.
 
-#### 🕵️‍♀️ Verifying DEA Numbers
+#### 🕵️‍♀️ Assessing Authenticity
+
+Technicians should screen prescriptions for anything unusual like excessive quantity or signs of forgery.
+
+##### Forgery
+
+Prescription forgery often takes the following forms:
+
+- **Tampering**: Erasure & overwriting of the original prescription by altering the strength or dispensing quantity
+- **Theft**: Theft of preprinted prescription pads that may result in legitimate-looking prescriptions
+
+##### Verifying DEA Numbers
 
 A DEA number is a unique identifier assigned by the Drug Enforcement Administration (DEA) to healthcare providers who are authorized to prescribe, dispense, or administer controlled substances. It is assigned when an individual practitioner, pharmacy, hospital/ clinic, or teaching institution files Form 224 with the DEA.
 
 Pharmacy technicians may be required to help verify DEA numbers as part of prescription validation, especially for controlled substances (Schedules II–V).
 
-##### 🔢 DEA Number Format
+🔢 **DEA Number Format**
 
 A valid DEA number has two letters followed by seven digits:
 
@@ -325,7 +336,7 @@ AB1234563
 
 **Second Letter**: Usually the first letter of the prescriber’s last name (e.g., “Smith” → “S”)
 
-###### ✅ Verifying the Check Digit (Mathematical Validation)
+✅ **Verifying the Check Digit (Mathematical Validation)**
 
 To confirm the validity of the DEA number, use this simple formula based on the last digit:
 
@@ -333,13 +344,13 @@ To confirm the validity of the DEA number, use this simple formula based on the 
 
 1. Add the 1st, 3rd, and 5th digits
 → A = 1st + 3rd + 5th
-2. Add the 2nd, 4th, and 6th digits, then multiply by 2
+1. Add the 2nd, 4th, and 6th digits, then multiply by 2
 → B = (2nd + 4th + 6th) × 2
-3. Add A + B
+1. Add A + B
 → Total = A + B
-4. The last digit of the total must match the 7th digit (the check digit) of the DEA number.
+1. The last digit of the total must match the 7th digit (the check digit) of the DEA number.
 
-###### ⚠️ Important Reminders
+⚠️ **Important Reminders**
 
 - DEA numbers are required for all prescriptions involving controlled substances.
 - Pharmacies must keep DEA numbers on file and ensure the prescriber’s authority.
@@ -589,3 +600,7 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 | PERI, PERIDEX| Rinse ½ ounce twice a day after breakfast and at bedtime after brushing and flossing. |
 | SPIRIVA | Inhale 1 capsule via HandiHaler once daily at the same time every day. |
 | ZPAK | Take 2 tablets by mouth today, then take 1 tablet daily for 4 days. |
+
+### Prescription Transfers
+
+.
