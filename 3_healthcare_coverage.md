@@ -11,7 +11,7 @@ Health insurance is a financial agreement where a person or employer pays a **mo
 Once **enrolled** in a **managed care plan**, patients are typically responsible for:
 
 - An **annual deductible** (initial out-of-pocket spending)
-- Then **copayments or coinsurance** (depending on plan design) after the deductible is met
+- Then **copayments *OR* coinsurance** (depending on plan design) after the deductible is met
 - Until they reach the **out-of-pocket maximum (OOP Max)**, after which covered services are paid 100% by the plan for the rest of the benefit year.
 
 | Term | Meaning | Key Info |
@@ -103,7 +103,23 @@ In outpatient care settings, PBMs influence what is covered, how much patients p
 
 > **Denial and Appeal**: If a PA is denied, technicians may help by ensuring the pharmacy has all required documentation or by assisting in the appeal process.
 
-### 👤 Patient Intake & Profile Creation
+### 🔁 Billing & Adjudication
+
+Prescription billing is the process of submitting a claim to a patient’s insurance via a real-time adjudication system, typically operated by the PBM. This process confirms whether a medication is covered, calculates the patient’s share, and notifies the pharmacy of any issues.
+
+1. ***Patient profile setup***: Insurance information is collected and entered into the pharmacy system.
+2. ***Prescription claim submission***: The pharmacy system transmits patient/dose/drug info to the PBM.
+3. ***Real-time response***: The PBM evaluates coverage, applies plan rules (like copays, deductibles, prior authorization), and returns an approval or rejection.
+4. ***Point-of-sale***: Patient is charged based on insurer response. The pharmacy is reimbursed according to its contract with the PBM.
+
+| Step | Role |
+| ---- | ---- |
+| Enter insurance BIN/PCN/ID | Identifies the PBM and patient |
+| Transmit prescription details | Drug, days’ supply, NDC, prescriber info |
+| Adjudication | PBM checks eligibility, coverage, cost-sharing |
+| Response | Approved (with copay) or Rejected (with reason code) |
+
+#### 👤 Patient Intake & Profile Creation
 
 Before a prescription can be processed or billed, a patient profile must be created in the pharmacy management system. This includes entering key information that ensures accuracy during claim adjudication and compliance with regulations.
 
@@ -126,7 +142,7 @@ Technicians must:
 
 **Insurance Card Details**:
 
-In addition to the basic Patient Identifierrmation, the following details must be collected from the insurance card:
+In addition to the basic Patient Identification, the following details must be collected from the insurance card:
 
 | Information | Category | Description |
 |-------------|----------|-------------|
@@ -147,22 +163,6 @@ In addition to the basic Patient Identifierrmation, the following details must b
 | **Phone Number for Member Help Desk** | Patient Use Only | Customer service phone number for patient inquiries. |
 
 > ⚠️ **Tech Tip**: Always confirm insurance data from the most recent insurance card to avoid billing errors and Third Party Rejections.
-
-### 🔁 Billing & Adjudication
-
-Prescription billing is the process of submitting a claim to a patient’s insurance via a real-time adjudication system, typically operated by the PBM. This process confirms whether a medication is covered, calculates the patient’s share, and notifies the pharmacy of any issues.
-
-1. ***Patient profile setup***: Insurance information is collected and entered into the pharmacy system.
-2. ***Prescription claim submission***: The pharmacy system transmits patient/dose/drug info to the PBM.
-3. ***Real-time response***: The PBM evaluates coverage, applies plan rules (like copays, deductibles, prior authorization), and returns an approval or rejection.
-4. ***Point-of-sale***: Patient is charged based on insurer response. The pharmacy is reimbursed according to its contract with the PBM.
-
-| Step | Role |
-| ---- | ---- |
-| Enter insurance BIN/PCN/ID | Identifies the PBM and patient |
-| Transmit prescription details | Drug, days’ supply, NDC, prescriber info |
-| Adjudication | PBM checks eligibility, coverage, cost-sharing |
-| Response | Approved (with copay) or Rejected (with reason code) |
 
 #### Online Claim Information
 
