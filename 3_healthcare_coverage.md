@@ -21,6 +21,32 @@ Pharmacy technicians often need to help patients navigate insurance issues. Know
 
 ## 🏥 Health Insurance, Managed Care Programs, & Coordination of Benefits
 
+### 🔄 Coordination of Benefits (COB)
+
+Coordination of Benefits (COB) is the process used when a patient has more than one health insurance plan. For example, private insurance through an employer and public coverage like Medicaid. COB determines which plan pays first (primary) and how much the secondary plan will cover afterward.
+
+Coordination:
+
+- Prevents duplicate payments for the same service or prescription.
+- Ensures the correct insurer is billed first to avoid claim denials or delays.
+- Helps the pharmacy calculate the patient’s true out-of-pocket cost.
+
+| Term | Meaning |
+|------|---------|
+| **Primary Insurance** | The plan that pays first, up to its coverage limits. |
+| **Secondary Insurance** | Pays some or all of what the primary didn’t cover. |
+| **Tertiary Insurance**  | A third plan (rare); used only after the first two pay. |
+
+Pharmacy Technician Role in COB:
+
+- Collect all insurance cards from the patient.
+- Enter insurance plans in correct order into the pharmacy system.
+- Process claims sequentially—submit to the primary first, then coordinate any - remaining balance with the secondary.
+- Watch for denials due to incorrect COB setup (e.g., “other coverage primary” errors).
+- Refer to the pharmacist or billing specialist if COB details are unclear or disputed.
+
+> 💡 **Tip**: If coverage isn’t set up correctly, the claim may reject or the patient may be charged the full price. Always verify COB status during intake for patients with multiple insurance plans.
+
 ### Private Health Insurance
 
 Health insurers offer a variety of managed care programs with different fee structures. some managed care plans have single co-pays, dual co-pays, and three types of copays depending on the tier of service.
@@ -153,35 +179,57 @@ Medicare is the primary payer; Medi-Cal acts as secondary, covering:
 
 > 🧠 Watch for “Medi-Medi” flags in patient profiles. These patients usually have no out-of-pocket cost for covered meds and medical care.
 
-#### Medicare Modernization Act (MMA, 2003)
+### Social Health Insurance & Public Assistance
 
-The **MMA** established Part D of the program to provide prescription drug coverage and requires pharmacists to provide **Medication Therapy Mangement (MTM)** Services.
+#### 🛠️ Workers’ Compensation (Workers’ Comp)
 
-## 🔄 Coordination of Benefits (COB)
+Workers’ compensation is a type of insurance that provides medical and wage benefits to employees who are injured or become ill due to their job.
 
-Coordination of Benefits (COB) is the process used when a patient has more than one health insurance plan. For example, private insurance through an employer and public coverage like Medicaid. COB determines which plan pays first (primary) and how much the secondary plan will cover afterward.
+How It Affects the Pharmacy:
 
-Coordination:
+- Covers medications directly related to the work injury.
+- Prescriptions must be approved and billed through the employer’s workers’ comp insurance (not the patient’s regular insurance).
+- The claim is processed through a special claims processor or pharmacy network, not a PBM.
+- Patients usually pay $0 out of pocket, but only for approved medications.
 
-- Prevents duplicate payments for the same service or prescription.
-- Ensures the correct insurer is billed first to avoid claim denials or delays.
-- Helps the pharmacy calculate the patient’s true out-of-pocket cost.
+Pharmacy Technician Role:
 
-| Term | Meaning |
-|------|---------|
-| **Primary Insurance** | The plan that pays first, up to its coverage limits. |
-| **Secondary Insurance** | Pays some or all of what the primary didn’t cover. |
-| **Tertiary Insurance**  | A third plan (rare); used only after the first two pay. |
+- **Verify claim details**: name of employer, date of injury, claim number, and insurance carrier.
+- Check for **third-party billing instructions** often sent through a workers’ comp pharmacy network (e.g., Coventry, One Call).
+- If a medication is **not covered**, refer to the pharmacist or contact the claims adjuster for clarification.
 
-Pharmacy Technician Role in COB:
+> ⚠️ **Important**: Workers’ comp claims are not processed through the patient’s regular insurance card. Do not collect copays unless instructed by the plan.
 
-- Collect all insurance cards from the patient.
-- Enter insurance plans in correct order into the pharmacy system.
-- Process claims sequentially—submit to the primary first, then coordinate any - remaining balance with the secondary.
-- Watch for denials due to incorrect COB setup (e.g., “other coverage primary” errors).
-- Refer to the pharmacist or billing specialist if COB details are unclear or disputed.
+#### 🤝 Patient Assistance Programs (PAPs)
 
-> 💡 **Tip**: If coverage isn’t set up correctly, the claim may reject or the patient may be charged the full price. Always verify COB status during intake for patients with multiple insurance plans.
+Patient Assistance Programs (PAPs) are sponsored by drug manufacturers, non-profits, or foundations to help patients access expensive or essential medications often for free or at a reduced cost.
+
+Who Qualifies:
+
+- Uninsured or underinsured patients
+- Patients who cannot afford their copay or coinsurance
+- Must meet income eligibility criteria, which vary by program
+
+Types of Assistance:
+
+- Free medication directly from the manufacturer (often mailed to patient or provider)
+- Copay assistance that lowers the patient’s out-of-pocket cost
+- Foundation grants for chronic or high-cost conditions (e.g., cancer, HIV, MS)
+
+How Pharmacy Staff Can Help:
+
+- Inform patients about PAPs when they can’t afford meds
+- Help gather documentation (insurance info, income proof, prescription)
+- Some pharmacy systems or hospital case managers may handle applications
+
+> 💡 **Tech Tip**: PAPs are not billed through insurance. If approved, drugs may be shipped to the pharmacy or to the patient’s home. Always verify handling instructions.
+
+| Program Type | Who It's For | How It's Billed | Key Role of Tech |
+|--------------|--------------|-----------------|------------------|
+| **Workers’ Comp** | Patients injured at work | Through employer’s WC insurer | Verify claim info, process with WC billing, no copay |
+| **PAP** | Uninsured or low-income patients | Not billed—meds sent free or discounted | Help with enrollment, documentation, or referrals |
+
+> 🧠 When patients can't afford their medication, explore both workers’ comp eligibility (if job-related) and assistance programs and always consult the pharmacist for next steps.
 
 ## 💼 Pharmacy Benefit Manager (PBM)
 
@@ -235,6 +283,8 @@ A **formulary** is an official list of prescription medications that are **appro
 - Drugs not on the formulary may be denied coverage, unless a prior authorization is approved.
 
 > 📋 **A National Drug Code (NDC)** — a unique 11-digit number — identifies each drug by manufacturer, product, and package size, and is used to match drugs to the correct formulary coverage.
+
+## Billing, Claims, & Adjudication
 
 ### 📝 Prior Authorizations (PAs)
 
