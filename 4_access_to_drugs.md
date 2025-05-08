@@ -266,7 +266,11 @@ These ingredients are commonly found in cold and allergy medications but can als
 
 ## Medication Orders & Prescriptions
 
-Prescriptions and medication orders are instructions from a medical practictioner that authorizes the issue of a drug or device to a patient. They have the following requirements:
+Prescriptions and medication orders are instructions from a medical practictioner that authorizes the issue of a drug or device to a patient.
+
+### Intake & Order Entry
+
+When processing prescriptions for intake and order entry, make sure they contain the following, minimum information:
 
 - **Prescriber Information**: the name, title, office address, and telephone number
 - **National Provider Identifier (NPI)**: A prescriber's unique national identification number, mandated by HIPAA and administered by the National Plan and Provider Enumeration System (NPPES)
@@ -281,13 +285,61 @@ Prescriptions and medication orders are instructions from a medical practictione
 - **Product Selection Code (Optional)**: Whether or not the medication is specified to be dispensed as written
 - **Prescriber Signature**: required on all prescriptions
 
-### 🕵️‍♀️ Verifying DEA Numbers
+If the prescription or order is for a controlled substance, technicians must verify the DEA number (typically automatic) and calculate the Days Supply for billing purposes.
+
+> ⚠️ Always consult with the pharmacist for DUR alerts!
+
+#### Product Selection
+
+Technicians are generally expected to dispense generic drugs when available unless the prescriber specifies that the drug should be **Dispensed as Written (DAW)** or the inscription is for a hormone.
+
+🧾 **DAW Codes Reference Table**
+
+| **DAW Code** | **Meaning** | **When It’s Used** |
+|--------------|-------------|--------------------|
+| **0** | No product selection indicated | Default; no DAW—generic substitution is allowed and expected. |
+| **1** | Substitution not allowed by prescriber | Prescriber wants **brand only** (e.g., writes “Brand Medically Necessary”). |
+| **2** | Substitution allowed—patient requested brand | Patient chooses **brand name** even though generic is available. |
+| **3** | Substitution allowed—pharmacist selected brand | Pharmacist dispenses brand when generic is available (rarely reimbursed). |
+| **4** | Substitution allowed—generic not in stock | Temporary situation; brand dispensed because pharmacy is out of generic. |
+| **5** | Substitution allowed—brand dispensed as generic | Brand dispensed but billed as generic (often due to labeling agreements). |
+| **6** | Override | Used in special cases where substitution rules are overridden (e.g., plan override, emergency). |
+| **7** | Substitution not allowed—brand mandated by law | Certain drugs must be dispensed as brand per state law (e.g., anticonvulsants in some states). |
+| **8** | Substitution allowed—generic not available in marketplace | No generic product exists yet, so brand must be used. |
+| **9** | Other | Rare; used when none of the other DAW codes apply and further explanation is needed. |
+
+#### 📱 Calculating Days Supply
+
+The Days Supply refers to how long a prescription will last based on the quantity dispensed and the prescribed dosing instructions. The formula to calculate Days Supply is `Days Supply = Doses per Day/ Quantity Dispensed` and varies slightly based on billable quantity due to dosage form. In the event that the days supply is not a whole number, round down to the nearest whole number.
+
+| **Dosage Form** | **Billable Quantity** | **Formula for Days Supply** | **Notes** |
+| --- | --- | --- | --- |
+| **Tablets / Capsules** | Quantity dispensed (Whole Units) | $\frac{\text{Quantity Dispensed}}{\text{Daily Allowance}}$ | N/A |
+| **Solutions / Suspensions** | Volume (mL) | $\frac{\text{Volume Dispensed (mL)}}{\text{Daily Allowance (mL)}}$ | N/A |
+| **Inhalation Solutions** | Volume (mL) | $\frac{\text{Volume Dispensed}}{\text{Daily Allowance (mL)}}$ | Add volume from all vials dispensed |
+| **Inhalation Powders** | Mass (g) | $\frac{\text{Mass Dispensed (g)}}{\text{Daily Allowance (g)}}$ | Add volume from all vials dispensed |
+| **Metered Dose Inhalers** | Mass (g) Stated on Unit Package  | $\frac{\text{Actuations per Inhaler (puffs)}}{\text{Daily Allowance (puffs)}}$ | Add actuations from all units dispensed |
+| **Eye / Ear Drops** | Volume (mL) | $\frac{\text{Amount in Bottle (gtt)}}{\text{Daily Allowance (gtt)}}$ | Estimate 15-20 gtt/mL |
+| **Lotions** | Volume (mL) | $\frac{\text{Volume Dispensed (mL)}}{\text{Daily Allowance (mL)}}$ | N/A |
+| **Creams, Ointments** | Mass (g) | $\frac{\text{Mass Dispensed (g)}}{\text{Daily Allowance (g)}}$ | Default Mass per Day = 1g unless specified or packaged inside an applicator (check label for quantity) |
+| **Injector Pens** | Volume (mL) | $\frac{\text{Volume Dispensed (mL)}}{\text{Daily Allowance (mL)}}$ | Add volume across all pens dispensed; standard volume for insulin is 3mL (outpatient) or 2.5mL (inpatient) |
+| **Parenteral Injection Vials** | Volume (mL) | $\frac{\text{Volume Dispensed (mL)}}{\text{Daily Allowance (mL)}}$ | Add volume across all vials dispensed; standard volume for insulin is 10mL (outpatient) or 3mL (inpatient) |
+
+> **NOTE**: Some prescriptions may include instructions like "Take as Directed" (UD), which are for medications dispensed as whole units (e.g., ZPAK or Monistat-7). These prescriptions may have a fixed Days Supply regardless of the calculated value, and pharmacies may dispense more than required. Prescriber instructions take precedence over technical calculations.
+
+##### Special Considerations for Insulin
+
+Insulin must be refrigerated before use but can be kept at room temperature for approximately 28 days after opening (with a few exceptions).
+
+For example, if an outpatient is dispensed a **standard U-100** insulin vial **(100 Units/mL)** during an emergency, and the patient requires 12 Units per day, the medication technically lasts for about 83 days. However, expiration date takes precedence over this calculation, as insulin degrades over time, especially once opened. Therefore, the Days Supply should reflect the expiration date, even if technically there is more insulin available.
+
+#### 🕵️‍♀️ Verifying DEA Numbers
 
 A DEA number is a unique identifier assigned by the Drug Enforcement Administration (DEA) to healthcare providers who are authorized to prescribe, dispense, or administer controlled substances. It is assigned when an individual practitioner, pharmacy, hospital/ clinic, or teaching institution files Form 224 with the DEA.
 
 Pharmacy technicians may be required to help verify DEA numbers as part of prescription validation, especially for controlled substances (Schedules II–V).
 
-#### 🔢 DEA Number Format
+##### 🔢 DEA Number Format
 
 A valid DEA number has two letters followed by seven digits:
 
@@ -306,7 +358,7 @@ AB1234563
 
 **Second Letter**: Usually the first letter of the prescriber’s last name (e.g., “Smith” → “S”)
 
-##### ✅ Verifying the Check Digit (Mathematical Validation)
+###### ✅ Verifying the Check Digit (Mathematical Validation)
 
 To confirm the validity of the DEA number, use this simple formula based on the last digit:
 
@@ -320,32 +372,13 @@ To confirm the validity of the DEA number, use this simple formula based on the 
 → Total = A + B
 4. The last digit of the total must match the 7th digit (the check digit) of the DEA number.
 
-##### ⚠️ Important Reminders
+###### ⚠️ Important Reminders
 
 - DEA numbers are required for all prescriptions involving controlled substances.
 - Pharmacies must keep DEA numbers on file and ensure the prescriber’s authority.
 - Invalid or altered DEA numbers are a red flag for fraudulent prescriptions and must be reported to the pharmacist immediately.
 
 > 💡 **Tip**: Many pharmacy systems perform DEA validation automatically, but it’s important to know how to check manually in case of system issues or suspicious prescriptions.
-
-#### Product Selection
-
-Technicians are generally expected to dispense generic drugs when available unless the prescriber specifies that the drug should be **Dispensed as Written (DAW)** or the inscription is for a hormone.
-
-##### DAW Codes Reference Table
-
-| **DAW Code** | **Meaning** | **When It’s Used** |
-|--------------|-------------|--------------------|
-| **0** | No product selection indicated | Default; no DAW—generic substitution is allowed and expected. |
-| **1** | Substitution not allowed by prescriber | Prescriber wants **brand only** (e.g., writes “Brand Medically Necessary”). |
-| **2** | Substitution allowed—patient requested brand | Patient chooses **brand name** even though generic is available. |
-| **3** | Substitution allowed—pharmacist selected brand | Pharmacist dispenses brand when generic is available (rarely reimbursed). |
-| **4** | Substitution allowed—generic not in stock | Temporary situation; brand dispensed because pharmacy is out of generic. |
-| **5** | Substitution allowed—brand dispensed as generic | Brand dispensed but billed as generic (often due to labeling agreements). |
-| **6** | Override | Used in special cases where substitution rules are overridden (e.g., plan override, emergency). |
-| **7** | Substitution not allowed—brand mandated by law | Certain drugs must be dispensed as brand per state law (e.g., anticonvulsants in some states). |
-| **8** | Substitution allowed—generic not available in marketplace | No generic product exists yet, so brand must be used. |
-| **9** | Other | Rare; used when none of the other DAW codes apply and further explanation is needed. |
 
 ### Translating the Signa
 
@@ -363,6 +396,31 @@ At a minimum, these sigs require the following to be considered complete:
 example:
 `℞ i tab po bid pc #XXX`
 `Take 1 tablet by mouth twice a day after meals (Quantity 30)`
+
+#### Common Verbs & Associated Dosage Forms by Route
+
+Directions for use must be specific as the patient does not know what to do with strange medications. Some dosage forms are more toxic when taken the wrong way (e.g. Sulfanilimide).
+
+| Verb | Dosage Form | Route | Emoji |
+|------|-------------|-------|-------|
+| Take | Oral Solid (Tablets & Capsules) or Liquids | Oral | 👄 |
+| Chew | Chewable Tablets & Gum | Oral | 🦷 |
+| Place | Sublingual (under tongue), Buccal (on gums), or Transdermal Patch | Sublingual/Buccal/Topical| 👅🩹 |
+| Swish & Spit | Oral Suspensions (e.g., nystatin rinse) | Oral/Mucosal | 🌀🚫 |
+| Swish & Swallow | Oral Suspensions (e.g., viscous lidocaine) | Oral/Mucosal | 🌀✅ |
+| Dissolve | Forms that need to be dissolved before administration (Effervescent Tablets & Powders) | Oral | 💧 |
+| Rinse | Mouthwashes or Oral Solutions | Oral | 🌀 |
+| Apply | Topical (Creams, Ointments, Patches) | Topical/Transdermal | 🧴 |
+| Insert | Rectal, Vaginal, or Urethral Suppositories | Rectal/Vaginal/Urethral | 🍑🌸 |
+| Instill | Eye or Ear Drops | Ophthalmic/Otic | 👁️👂 |
+| Inhale | Inhalers, Nebulized Solutions | Inhalation | 🌬️ |
+| Spray | Nasal or Oral Aerosols | Nasal/Oral | 👃👄 |
+| Inject | Parenteral (IM, IV, SC, ID) | Injection | 💉 |
+| Infuse | Intravenous Solutions (IVPB, IV Drip) | Intravenous | 💧💉 |
+| Give | General (commonly used for caregiver-administered meds) | Any (esp. pediatric) | 👩‍⚕️👶 |
+| Use | Non-specific (e.g., inhalers, devices) | Varies | 🛠️ |
+
+> **NOTE** Spit, don't swallow Durvet (Chlorhexidine)
 
 Below are a list of common abbreviations used for transcribing SIGs on prescriptions or medication orders.
 
@@ -515,28 +573,3 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 | PERI, PERIDEX| Rinse ½ ounce twice a day after breakfast and at bedtime after brushing and flossing. |
 | SPIRIVA | Inhale 1 capsule via HandiHaler once daily at the same time every day. |
 | ZPAK | Take 2 tablets by mouth today, then take 1 tablet daily for 4 days. |
-
-### Common Verbs & Associated Dosage Forms by Route
-
-Directions for use must be specific as the patient does not know what to do with strange medications. Some dosage forms are more toxic when taken the wrong way (e.g. Sulfanilimide).
-
-| Verb | Dosage Form | Route | Emoji |
-|------|-------------|-------|-------|
-| Take | Oral Solid (Tablets & Capsules) or Liquids | Oral | 👄 |
-| Chew | Chewable Tablets & Gum | Oral | 🦷 |
-| Place | Sublingual (under tongue), Buccal (on gums), or Transdermal Patch | Sublingual/Buccal/Topical| 👅🩹 |
-| Swish & Spit | Oral Suspensions (e.g., nystatin rinse) | Oral/Mucosal | 🌀🚫 |
-| Swish & Swallow | Oral Suspensions (e.g., viscous lidocaine) | Oral/Mucosal | 🌀✅ |
-| Dissolve | Forms that need to be dissolved before administration (Effervescent Tablets & Powders) | Oral | 💧 |
-| Rinse | Mouthwashes or Oral Solutions | Oral | 🌀 |
-| Apply | Topical (Creams, Ointments, Patches) | Topical/Transdermal | 🧴 |
-| Insert | Rectal, Vaginal, or Urethral Suppositories | Rectal/Vaginal/Urethral | 🍑🌸 |
-| Instill | Eye or Ear Drops | Ophthalmic/Otic | 👁️👂 |
-| Inhale | Inhalers, Nebulized Solutions | Inhalation | 🌬️ |
-| Spray | Nasal or Oral Aerosols | Nasal/Oral | 👃👄 |
-| Inject | Parenteral (IM, IV, SC, ID) | Injection | 💉 |
-| Infuse | Intravenous Solutions (IVPB, IV Drip) | Intravenous | 💧💉 |
-| Give | General (commonly used for caregiver-administered meds) | Any (esp. pediatric) | 👩‍⚕️👶 |
-| Use | Non-specific (e.g., inhalers, devices) | Varies | 🛠️ |
-
-> **NOTE** Spit, don't swallow Durvet (Chlorhexidine)
