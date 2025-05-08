@@ -81,6 +81,8 @@ There are 3 main categories of these medications:
 | 🔬 Other/ Alternative Name | Paracetamol |
 | --------------------- | ----------------------- |
 
+> ⚠️ There are over 600 drugs on the market that contain APAP, making it one of the most readily accessible medications on the market. Because of this, patients may not realize they are taking multiple products containing APAP and risk the chance for overdose.
+
 **Mechanism**: Acetaminophen relieves pain and reduces fever. Unlike NSAIDs, it does not reduce inflammation and does not irritate the stomach.
 
 **Uses**: Headaches, fever, mild pain, safe in pregnancy and those with GI issues.
@@ -98,6 +100,30 @@ There are 3 main categories of these medications:
 | Naproxen | Aleve, Midol, Pamprin |
 | Aspirin | Aspirin, Bufferin, Exotrin, Pamprin, St. Joseph, Halfprin |
 | Acetaminophen (APAP) | Tylenol, Midol, Pamprin |
+
+##### 🧴 Topical Analgesics
+
+Topical analgesics are applied directly to the skin to relieve minor aches and pains from musculoskeletal injuries such as sprains, strains, and bruises.
+
+These products are commonly used for short-term relief of localized pain and are for external use only.
+
+| Ingredient | Notes |
+|------------|-------|
+| **Camphor** | Cooling effect; can be toxic if ingested (especially to children) |
+| **Menthol** | Provides a cooling sensation and mild pain relief |
+| **Methyl Nicotinate** | Increases blood flow to area; warming effect |
+| **Capsaicin** | Derived from chili peppers; causes warmth and desensitizes pain receptors over time |
+| **Methyl Salicylate** | Produces a warming effect; salicylate derivative (avoid in children with viral illness) |
+| **Trolamine Salicylate** | Similar to aspirin; absorbed through the skin for anti-inflammatory effect |
+
+###### ⚠️ Safety Warnings
+
+- For external use only — never apply to broken skin, mucous membranes, or near the eyes.
+- Do not bandage tightly or use with heating pads, as this can increase absorption and cause burns.
+- Camphor is highly toxic if swallowed, especially in children — even small amounts can cause seizures or death.
+- Avoid using multiple topical products together unless advised by a healthcare provider.
+
+> 🧒 Keep out of reach of children. Always wash hands after application, especially before eating or touching the face.
 
 ## 🔒 Controlled & Monitored Substances
 
