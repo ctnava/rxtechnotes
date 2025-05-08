@@ -167,6 +167,25 @@ The ***Controlled Substances Act (CSA, 1970)*** classifies five levels of contro
 - **DEA Form 106** must be filed within **one business day** of discovering theft or significant loss.
   - **The California Board of Pharmacy** must also be notified within **30 days**.
 
+#### DEA Form 222
+
+DEA Form 222 is used to order, transfer, or return Schedule II controlled substances.
+
+It is a *triplicate form* (in traditional paper format), though many pharmacies now use the ***Controlled Substance Ordering System (CSOS)*** for digital ordering.
+
+| Copy       | Color | Recipient                              |
+| ---------- | ----- | -------------------------------------- |
+| **Copy 1** | Brown | **Supplier** keeps                     |
+| **Copy 2** | Green | Sent by the supplier to the **DEA**    |
+| **Copy 3** | Blue  | **Pharmacy (purchaser)** keeps on file |
+
+- The pharmacy must keep Copy 3 and a record of the quantity received and the date received.
+- All copies must be kept on file for 2 years federally (California requires 3 years).
+- If a DEA Form 222 is voided, incomplete, or has errors, it must be marked void and retained—never destroyed.
+- In CSOS (electronic format), each order is digitally signed and tracked, with strict encryption and audit trails.
+
+> 🔐 Schedule II records must be kept separate from all other controlled substance records and must be readily retrievable for DEA audits.
+
 ### ⚠️ Dispensing & Monitoring Duties
 
 - Schedule II prescriptions generally require a written or e-prescription, except in emergencies:
@@ -260,7 +279,7 @@ Prescriptions and medication orders are instructions from a medical practictione
 
 ### 🕵️‍♀️ Verifying DEA Numbers
 
-A DEA number is a unique identifier assigned by the Drug Enforcement Administration (DEA) to healthcare providers who are authorized to prescribe, dispense, or administer controlled substances.
+A DEA number is a unique identifier assigned by the Drug Enforcement Administration (DEA) to healthcare providers who are authorized to prescribe, dispense, or administer controlled substances. It is assigned when an individual practitioner, pharmacy, hospital/ clinic, or teaching institution files Form 224 with the DEA.
 
 Pharmacy technicians may be required to help verify DEA numbers as part of prescription validation, especially for controlled substances (Schedules II–V).
 
