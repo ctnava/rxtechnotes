@@ -167,8 +167,11 @@ Pharmacy Technicians must be licensed and registered in most states. Licensure a
 - Background checks and drug screening
 - Application through the **State Board of Pharmacy**
 
-In California:
+California State Licensure Requirements:
 
+- **Proof of Education**: transcript or notarized copy of diploma OR GED / HiSET/ TASC + CHSPE
+- **Proof of Training**: affidavit of ASHP-accredited coursework, associates degree in Pharmacy Technology, or graduation from a ACPE-accredited school of pharmacy
+- **Supporting Documents (optional; skips training)**: PTCB Certification or DD-214
 - **CE Requirements**: 20 hours every 2 years, including **1 hour in cultural competency**
 - **Renewals**: Notices mailed 90 days before expiration; licenses are canceled if not renewed within 90 days post-expiration
 - **License Portability**: California has **no reciprocity**; technicians moving to other states must reapply there. Returning to CA may require full reapplication if the license was canceled
