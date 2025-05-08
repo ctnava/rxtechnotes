@@ -2,7 +2,7 @@
 
 This chapter covers how patients are authorized access to medications by prescribing authorities.
 
-## The Durham-Humphrey Amendment (1951)
+## Designations
 
 The Durham-Humphrey Amendment amendment established two classes of drugs: *legend* & *over-the-counter* (OTC).
 
