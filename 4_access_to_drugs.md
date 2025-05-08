@@ -1,4 +1,4 @@
-# Chapter 3: Legal Access to Marketed Drugs
+# Chapter 4: Legal Access to Marketed Drugs
 
 This chapter covers how patients are authorized access to medications by prescribing authorities.
 

@@ -1,4 +1,4 @@
-# Chapter 4: Healthcare Coverage
+# Chapter 3: Healthcare Coverage
 
 ## 💊 Formularies
 
