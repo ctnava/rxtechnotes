@@ -146,8 +146,6 @@ In addition to the basic Patient Identifierrmation, the following details must b
 
 Prescription billing is the process of submitting a claim to a patient’s insurance via a real-time adjudication system, typically operated by the PBM. This process confirms whether a medication is covered, calculates the patient’s share, and notifies the pharmacy of any issues.
 
-#### 🧾 Adjudication Process
-
 1. ***Patient profile setup***: Insurance information is collected and entered into the pharmacy system.
 2. ***Prescription claim submission***: The pharmacy system transmits patient/dose/drug info to the PBM.
 3. ***Real-time response***: The PBM evaluates coverage, applies plan rules (like copays, deductibles, prior authorization), and returns an approval or rejection.
@@ -202,6 +200,55 @@ A Third-Party Rejection (TPR) occurs when a prescription claim is denied by the 
 
 > 📍 **Tech Tip**: Always confirm the BIN/PCN/ID from the most recent insurance card. These fields determine where the claim is sent.
 
+#### 💲 Reimbursement, Pricing, & Billing Models
+
+Understanding how prescriptions are priced and reimbursed is essential for pharmacy technicians, especially when dealing with insurance billing, patient copays, or third-party rejections.
+
+##### 🧮 Maximum Allowable Cost (MAC)
+
+MAC is a cost-containment strategy used by PBMs to set the maximum amount they will reimburse a pharmacy for a generic drug or group of equivalent drugs. If a pharmacy’s acquisition cost exceeds the MAC, it may lose money on the transaction unless it charges the patient the difference.
+
+- MAC applies only to multi-source (generic) drugs.
+- Set by PBMs or insurers, not manufacturers or pharmacies.
+- May vary between PBMs for the same drug.
+
+> ⚠️ If the pharmacy’s purchase price is higher than the MAC reimbursement, the claim may result in a financial loss unless the pharmacy adjusts the price charged to the patient.
+
+##### 💵 Usual and Customary (U&C / UCR) Price
+
+The Usual & Customary or UCR price is the amount a pharmacy would charge a cash-paying customer for a given prescription. Insurers compare this price to their negotiated rates. Sometimes called the "cash price" or "retail price".
+
+The insurer will pay the lowest of:
+
+- The U&C price
+- The PBM's allowed cost
+- The MAC
+- The contracted reimbursement formula
+
+> 💡 The U&C price must be accurate and current in the pharmacy system. If it's incorrectly low, the PBM may reimburse at that amount (even if it’s below cost).
+
+##### 📄 Universal Claim Form (UCF)
+
+The Universal Claim Form (UCF) is a standardized paper form used to submit prescription claims to insurance providers when electronic billing is unavailable or rejected.
+
+- Created by the National Council for Prescription Drug Programs (NCPDP).
+- Used in long-term care, retroactive billing, or when online adjudication fails.
+- Includes all critical data: patient info, drug details, NDC, prescriber ID, pharmacy ID, cost info, etc.
+
+> 📄 UCFs must be completed accurately and legibly. Errors lead to claim rejections or delays.
+
+##### 🏢 In-House Billing
+
+In-house billing is when a pharmacy submits claims directly to insurers (usually medical, not pharmacy insurance) without using a PBM. This occurs in specialized settings like:
+
+- Compounding pharmacies
+- Specialty clinics
+- Hospitals dispensing outpatient medications
+
+In-house billing uses CMS-1500 or UB-04 medical billing forms instead of the UCF or NCPDP format. Claims are submitted to medical insurance (e.g., Medicare Part B) for injectables, DME, or physician-administered drugs. Requires knowledge of CPT/HCPCS codes and diagnosis codes (ICD-10).
+
+> ⚠️ Medical insurance adjudication is slower and more documentation-heavy than pharmacy claims.
+
 ### 🔄 Coordination of Benefits (COB)
 
 When patients have more than one plan, **COB** determines which is billed first and it:
@@ -225,6 +272,58 @@ When patients have more than one plan, **COB** determines which is billed first 
 - Refer unclear COB issues to pharmacist or billing staff.
 
 > 💡 Incorrect COB setup leads to claim denials or full patient cost. Verify COB at patient intake.
+
+### Social Health Insurance & Public Assistance
+
+#### 🛠️ Workers’ Compensation (Workers’ Comp)
+
+Workers’ compensation is a type of insurance that provides medical and wage benefits to employees who are injured or become ill due to their job.
+
+How It Affects the Pharmacy:
+
+- Covers medications directly related to the work injury.
+- Prescriptions must be approved and billed through the employer’s workers’ comp insurance (not the patient’s regular insurance).
+- The claim is processed through a special claims processor or pharmacy network, not a PBM.
+- Patients usually pay $0 out of pocket, but only for approved medications.
+
+Pharmacy Technician Role:
+
+- **Verify claim details**: name of employer, date of injury, claim number, and insurance carrier.
+- Check for **third-party billing instructions** often sent through a workers’ comp pharmacy network (e.g., Coventry, One Call).
+- If a medication is **not covered**, refer to the pharmacist or contact the claims adjuster for clarification.
+
+> ⚠️ **Important**: Workers’ comp claims are not processed through the patient’s regular insurance card. Do not collect copays unless instructed by the plan.
+
+#### 🤝 Patient Assistance Programs (PAPs)
+
+Patient Assistance Programs (PAPs) are sponsored by drug manufacturers, non-profits, or foundations to help patients access expensive or essential medications often for free or at a reduced cost.
+
+Who Qualifies:
+
+- Uninsured or underinsured patients
+- Patients who cannot afford their copay or coinsurance
+- Must meet income eligibility criteria, which vary by program
+
+Types of Assistance:
+
+- Free medication directly from the manufacturer (often mailed to patient or provider)
+- Copay assistance that lowers the patient’s out-of-pocket cost
+- Foundation grants for chronic or high-cost conditions (e.g., cancer, HIV, MS)
+
+How Pharmacy Staff Can Help:
+
+- Inform patients about PAPs when they can’t afford meds
+- Help gather documentation (insurance info, income proof, prescription)
+- Some pharmacy systems or hospital case managers may handle applications
+
+> 💡 **Tech Tip**: PAPs are not billed through insurance. If approved, drugs may be shipped to the pharmacy or to the patient’s home. Always verify handling instructions.
+
+| Program Type | Who It's For | How It's Billed | Key Role of Tech |
+|--------------|--------------|-----------------|------------------|
+| **Workers’ Comp** | Patients injured at work | Through employer’s WC insurer | Verify claim info, process with WC billing, no copay |
+| **PAP** | Uninsured or low-income patients | Not billed—meds sent free or discounted | Help with enrollment, documentation, or referrals |
+
+> 🧠 When patients can't afford their medication, explore both workers’ comp eligibility (if job-related) and assistance programs and always consult the pharmacist for next steps.
 
 ## Public Health Insurance
 
@@ -345,54 +444,4 @@ Medicare is the primary payer; Medi-Cal acts as secondary, covering:
 
 > 🧠 Watch for “Medi-Medi” flags in patient profiles. These patients usually have no out-of-pocket cost for covered meds and medical care.
 
-## Social Health Insurance & Public Assistance
 
-### 🛠️ Workers’ Compensation (Workers’ Comp)
-
-Workers’ compensation is a type of insurance that provides medical and wage benefits to employees who are injured or become ill due to their job.
-
-How It Affects the Pharmacy:
-
-- Covers medications directly related to the work injury.
-- Prescriptions must be approved and billed through the employer’s workers’ comp insurance (not the patient’s regular insurance).
-- The claim is processed through a special claims processor or pharmacy network, not a PBM.
-- Patients usually pay $0 out of pocket, but only for approved medications.
-
-Pharmacy Technician Role:
-
-- **Verify claim details**: name of employer, date of injury, claim number, and insurance carrier.
-- Check for **third-party billing instructions** often sent through a workers’ comp pharmacy network (e.g., Coventry, One Call).
-- If a medication is **not covered**, refer to the pharmacist or contact the claims adjuster for clarification.
-
-> ⚠️ **Important**: Workers’ comp claims are not processed through the patient’s regular insurance card. Do not collect copays unless instructed by the plan.
-
-### 🤝 Patient Assistance Programs (PAPs)
-
-Patient Assistance Programs (PAPs) are sponsored by drug manufacturers, non-profits, or foundations to help patients access expensive or essential medications often for free or at a reduced cost.
-
-Who Qualifies:
-
-- Uninsured or underinsured patients
-- Patients who cannot afford their copay or coinsurance
-- Must meet income eligibility criteria, which vary by program
-
-Types of Assistance:
-
-- Free medication directly from the manufacturer (often mailed to patient or provider)
-- Copay assistance that lowers the patient’s out-of-pocket cost
-- Foundation grants for chronic or high-cost conditions (e.g., cancer, HIV, MS)
-
-How Pharmacy Staff Can Help:
-
-- Inform patients about PAPs when they can’t afford meds
-- Help gather documentation (insurance info, income proof, prescription)
-- Some pharmacy systems or hospital case managers may handle applications
-
-> 💡 **Tech Tip**: PAPs are not billed through insurance. If approved, drugs may be shipped to the pharmacy or to the patient’s home. Always verify handling instructions.
-
-| Program Type | Who It's For | How It's Billed | Key Role of Tech |
-|--------------|--------------|-----------------|------------------|
-| **Workers’ Comp** | Patients injured at work | Through employer’s WC insurer | Verify claim info, process with WC billing, no copay |
-| **PAP** | Uninsured or low-income patients | Not billed—meds sent free or discounted | Help with enrollment, documentation, or referrals |
-
-> 🧠 When patients can't afford their medication, explore both workers’ comp eligibility (if job-related) and assistance programs and always consult the pharmacist for next steps.
