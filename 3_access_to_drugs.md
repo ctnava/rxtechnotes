@@ -141,25 +141,6 @@ The ***Controlled Substances Act (CSA, 1970)*** classifies five levels of contro
 
 \*Cannabis remains Schedule I federally, though legal or decriminalized in many U.S. states.
 
-### 💼 Prescriber & Pharmacy Responsibilities
-
-- A **valid DEA number** is required on all prescriptions for controlled substances.
-- Schedule II prescriptions must be written (or e-prescribed where required) and cannot be refilled.
-- Partial fills of C-II prescriptions are allowed if requested by the prescriber or patient:
-  - The initial partial fill must occur within 30 days of the issue date.
-  - The remainder must be filled within that same 30-day window; otherwise, the prescription expires.
-- Schedule II records must be stored separately from all others.
-- Schedule III–V records must also be maintained separately and be readily retrievable.
-
-### 🗃️ Recordkeeping Requirements (CA Laws Referenced)
-
-- All prescription and dispensing records for controlled substances must be stored on-site for at least 3 years (CA B&P Code § 4333).
-- Inventory audits must be conducted every 2 years (CA H&S Code § 11190) and must include:
-  - Drug name, dosage form, and strength
-  - Quantity on hand
-  - Date and time of inventory
-  - Signature of the responsible pharmacist
-
 ### 📝 DEA Forms & Compliance
 
 - **DEA Form 222** is required for ordering Schedule II drugs via CSOS.
@@ -185,6 +166,25 @@ It is a *triplicate form* (in traditional paper format), though many pharmacies 
 - In CSOS (electronic format), each order is digitally signed and tracked, with strict encryption and audit trails.
 
 > 🔐 Schedule II records must be kept separate from all other controlled substance records and must be readily retrievable for DEA audits.
+
+### 💼 Prescriber & Pharmacy Responsibilities
+
+- A **valid DEA number** is required on all prescriptions for controlled substances.
+- Schedule II prescriptions must be written (or e-prescribed where required) and cannot be refilled.
+- Partial fills of C-II prescriptions are allowed if requested by the prescriber or patient:
+  - The initial partial fill must occur within 30 days of the issue date.
+  - The remainder must be filled within that same 30-day window; otherwise, the prescription expires.
+- Schedule II records must be stored separately from all others.
+- Schedule III–V records must also be maintained separately and be readily retrievable.
+
+### 🗃️ Recordkeeping Requirements (CA Laws Referenced)
+
+- All prescription and dispensing records for controlled substances must be stored on-site for at least 3 years (CA B&P Code § 4333).
+- Inventory audits must be conducted every 2 years (CA H&S Code § 11190) and must include:
+  - Drug name, dosage form, and strength
+  - Quantity on hand
+  - Date and time of inventory
+  - Signature of the responsible pharmacist
 
 ### ⚠️ Dispensing & Monitoring Duties
 
