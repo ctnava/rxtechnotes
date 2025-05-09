@@ -370,9 +370,20 @@ When receiving an order, accuracy is essential. Technicians must:
 
 > *Temperatures should be monitored daily and recorded. Out-of-range readings must be reported immediately.*
 
+📦 **Inventory Ordering**
+
+Pharmacy technicians help ensure the pharmacy is well-stocked without over-ordering.
+
+- Be familiar with **high-demand medications** (e.g., common antihypertensives) and ensure adequate inventory
+- **Low-demand items** do not require large quantities and may be special ordered when needed
+- Many pharmacies use **automated inventory systems**, but technicians may manually place orders for out-of-stock or special items
+- Communicate **shortages or backorders** to the pharmacist or supervisor
+
+> 🔄 Restocking should be proactive—anticipate needs based on trends and upcoming holidays or flu season.
+
 #### Other/ Administrative Duties
 
-📦 **Stocking Supplies**
+🛍️ **Stocking Supplies**
 
 Technicians are responsible for restocking commonly used pharmacy supplies, including:
 
@@ -382,6 +393,18 @@ Technicians are responsible for restocking commonly used pharmacy supplies, incl
 - 🛍️ Prescription bags for pickups and deliveries
 
 > 🔁 Supplies should be checked at the **start and end of each shift** or according to pharmacy policy.
+
+🚮 **Waste Management**
+
+Proper waste handling ensures patient privacy and environmental responsibility.
+
+- 🗑️ **Regular Trash**: Must be removed daily or per facility policy
+- ♻️ **Drug Bottles**: Empty stock bottles are often separated for recycling
+- 🔐 **Protected Health Information (PHI)** (also called **DPI**, or "data protected information") must be:
+  - Placed in secure bins labeled for shredding
+  - Picked up and destroyed by a contracted vendor that complies with HIPAA (1996)
+
+> ⚖️ Mishandling PHI is a serious HIPAA violation and can result in fines or disciplinary action.
 
 ## 🏥 Hospital Pharmacies
 
