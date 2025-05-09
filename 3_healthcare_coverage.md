@@ -1,9 +1,5 @@
 # Chapter 3: Healthcare Coverage
 
-This chapter introduces key aspects of health insurance, how pharmacy claims are processed, and the technician's role in resolving issues that may arise during insurance billing.
-
----
-
 ## 🧰 Key Concepts
 
 Health insurance is a financial agreement where a person or employer pays a **monthly premium** to an insurance company. In exchange, the insurer helps cover medical and prescription costs when care is needed.
