@@ -150,10 +150,13 @@ There are 3 main types of supplier: drug manufacturers, specialty pharmacies, an
 
 ### Wholesalers
 
-- Purchase drugs from manufactures in bulk and must be licensed by the states they operate in for compliance with the 1987 **Prescription Drug Marketing Act**
-- Wholesalers may only purchase from authorized manufacturers and are not allowed to reimport batches of drugs once exported under this act
-- Create wide distribution networks to ensure availability by storing their purchases in warehouses around the country so that deliveries can be made in 24-48 hours
-- Drop ship lower-volume, high-cost medications on an as-needed basis
+Wholesalers purchase drugs from manufactures in bulk and create wide distribution networks to ensure availability by storing their purchases in warehouses around the country so that deliveries can be made in 24-48 hours. They also drop ship lower-volume, high-cost medications on an as-needed basis.
+
+The **Prescription Drug Marketing Act** mandates that wholesalers & manufacturers:
+
+- must be licensed by the states they operate in
+- may not reimport batches of drugs once exported
+- may only give samples of medication to doctors
 
 > **Note**: The federal **340B Drug Pricing Program** limits the cost safety-net providers, like medicaid, federally qualified health centers, and qualified hospitals paid for outpatient drugs through wholesalers.
 
@@ -262,3 +265,116 @@ Technicians must stay up to date with recalls posted online. When a recall is br
 | Notify    | Notify affected patients and healthcare providers (with online alerts, telephone calls, and physical notices) to instruct them to discontinue use. Additionally, arrange for refunds & exchanges. |
 | Follow    | Follow manufacturer or FDA instructions for return or disposal of products. Stay alert for further guidance. |
 | Document  | Document actions taken for pharmacy records to report compliances to regulatory authorities as required. |
+
+## 📦 Pharmacy Inventory Systems & Control
+
+Pharmacy inventory includes all medications and supplies used during normal operations. Efficient inventory management ensures medication availability, minimizes waste, and controls costs.
+
+**Turnover Rate**: Number of days it takes to **sell or use the entire stock** of a particular item.
+
+- A **high turnover rate** suggests good inventory control.
+- A **low turnover rate** may indicate overstocking or slow-moving items.
+
+> Pharmacies may also stock durable & nondurable medical equipment to dispense with prescriptions.
+
+### 🧮 Inventory Management Systems
+
+- **Perpetual Inventory System**
+  - Maintains a **real-time record** of inventory.
+  - Updates whenever medications are received or dispensed.
+  - Required for **controlled substances (Schedules II–V)**.
+  - Generates reorders based on **minimum/maximum stock levels**.
+
+- **Point of Sale (POS) System**
+  - Deducts items from inventory **at the time of sale or dispensing**.
+  - Helps in real-time tracking of stock levels.
+
+- **Automated Dispensing Systems (ADS)**
+  - Use **computerized cabinets or robotics** to manage inventory in institutional settings.
+  - Improves accuracy, reduces diversion, and speeds up the dispensing process.
+
+#### 📊 Inventory Counts
+
+- **Initial Inventory**: Performed before a pharmacy opens or begins handling controlled substances.
+- **Biennial Inventory**: Required by federal law every 2 years to account for all controlled substances on hand.
+- **Perpetual Inventory**: Continuous tracking, required for all **Schedule II** drugs.
+- **Cycle Counts**: Periodic checks of small inventory segments to catch discrepancies early.
+
+### 📦 Receiving, Handling, & Storage
+
+When receiving an order, accuracy is essential. Technicians must:
+
+- reconcile the shipment with the purchase order
+- check the strength and amount of each item
+- match shipment prices to the invoice
+- return broken or damaged stock
+- notify the supplier if there is a discrepancy
+
+> ⚠️ C2 Medications are shipped separately from other drugs.
+
+#### Stocking the Shelves
+
+Best Practices:
+
+- **FIFO (First In, First Out)**: Older stock is used **before** newer stock to minimize expired medications. When stocking shelves, oldest stock should appear in the front.
+- **LASA Medications (Look-Alike, Sound-Alike)**: Should be **separated**, flagged, or labeled with **Tall Man lettering** to reduce medication errors.
+- **Mylars**: Special labels are used to alert pharmacy staff to hazardous drugs.
+
+Special Storage Locations:
+
+- **Fast Mover Shelf**: 20% of the inventory accounts for 80% of the orders. These medications (often designated the **"fast movers"**) typically have their own designated shelf. It is best practice to check if medications can be stocked there first.
+- **Unit of Use Shelf**: medications dispensed in unit dose packaging (i.e. packages containing a single dose of medication) or medication packs (i.e. packages containing a whole course of medication) often have their own storage area.
+- **ALPHA Shelves**: 80% of the inventory does not move very quickly and gets stored on alphabetized shelves.
+- **Negative Pressure Isolation rooms** are used to store radioactive materials and other hazardous substances.
+
+> Check **Fast Mover** and **Unit of Use** shelves first before placing medication on the **ALPHA** shelves.
+
+#### 🌡️ USP Storage Temperature Guidelines
+
+| Storage Type           | Temperature Range                   |
+|------------------------|-------------------------------------|
+| **Freezer** | –25°C to –10°C (–13°F to 14°F) |
+| **Refrigerated** | 2°C to 8°C (36°F to 46°F) |
+| **Controlled Room Temp** | 20°C to 25°C (68°F to 77°F) |
+| **Excessive Heat** | > 40°C (> 104°F) |
+
+> *Temperatures should be monitored daily and recorded. Out-of-range readings must be reported immediately.*
+
+### 🗑️ Expired Medications
+
+Pharmacy technicians are responsible for routinely checking for expired, expiring, or discontinued medications. These drugs must be separated from active stock to avoid accidental dispensing.
+
+- **Within 6 months of expiration**: Mark with a **"short-date" label**.
+- **Within 3 months of expiration**: **Pull** from the shelf and quarantine from saleable stock.
+- **Expired medications**: Must be stored in a **designated area** (often marked “Do Not Dispense”) until processed for return or disposal.
+
+> Controlled substances must be logged and stored in compliance with DEA regulations.
+
+### 🔄 Reverse Distribution & Drug Returns
+
+**Reverse distributors** handle the safe return and destruction of expired, damaged, or discontinued medications.
+
+Technicians must:
+
+- Separate **non-returnable** from **returnable** items.
+- Complete documentation and inventory logs.
+- Package medications securely for transfer.
+- **Controlled substances** require:
+  - DEA Form 41 for destruction
+  - DEA Form 222 for transfer of Schedule II medications
+
+> Always follow facility SOPs and maintain chain-of-custody documentation.
+
+### ⚠️ Drug Recalls
+
+- **Class I**: Serious health hazard or death (e.g., wrong drug in bottle).
+- **Class II**: Temporary or reversible health effects.
+- **Class III**: Unlikely to cause harm but violates FDA standards.
+
+> Technicians assist with pulling recalled stock, notifying patients if required, and documenting the process.
+
+### 🏥 Floor Stock (Hospitals)
+
+- Medications stored on nursing units for quick access.
+- Must be tracked and restocked regularly.
+- Common for over-the-counter or PRN medications.

@@ -45,6 +45,8 @@ Sterile compounding must take place in a **cleanroom suite** or **segregated com
 - **Compounding aseptic isolators (CAIs)**
 - Controlled **ISO-classified environments** (ISO 5 or better for critical areas)
 
+**Negative Pressure Isolation rooms** = rooms used to store radioactive materials and other hazardous substances  
+
 > 📌 *All sterile compounding requires strict aseptic technique.*
 
 ### 🏷️ CSP Labeling Requirements
@@ -52,7 +54,7 @@ Sterile compounding must take place in a **cleanroom suite** or **segregated com
 All compounded sterile products must include:
 
 - ✅ Patient name (if patient-specific)
-- ✅ Drug name and **concentration/strength**
+- ✅ Generic drug name, concentration, strength, & dosage form
 - ✅ Total volume and base solution
 - ✅ Route and rate of administration (e.g., IVPB over 30 mins)
 - ✅ **Beyond-use date (BUD)** and time (not the manufacturer’s expiration date)
@@ -82,7 +84,7 @@ IV admixtures are prepared for specific patients based on:
 
 Pharmacy technicians involved in sterile compounding must:
 
-- Complete **initial and annual training/competency evaluations**
+- Complete **initial and annual training/competency evaluations** in aseptic technique (written and practical)
 - Pass **media fill tests** and **gloved fingertip testing**
 - Perform accurate calculations and measurements
 - Prepare products under pharmacist supervision using **cleanroom protocol**
