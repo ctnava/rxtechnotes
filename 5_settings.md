@@ -355,6 +355,9 @@ When receiving an order, accuracy is essential. Technicians must:
 - **ALPHA Shelves**:  
   - For general inventory stored **alphabetically**  
   - Used for less frequently dispensed items
+- **OTC Shelves**:
+  - *Not normally stocked by technicians*
+  - There may be a shelf in the pharmacy for some OTC medications (like aspirin) that get frequently prescribed.
 
 > 🔍 Always check **Fast Mover** and **Unit of Use** shelves before placing medications on **ALPHA** shelves.
 
