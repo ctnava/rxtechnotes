@@ -283,6 +283,8 @@ Violations due to reasonable cause and not willfull neglect can result in $1,000
 - set standards for the creation of these electronic systems
 - expanded Covered Entities to include business associates
 
+> ⚠️ Electronic transmission of health information, including claims and billing, must be done via HIPAA-compliant electronic data interchange (EDI).
+
 ## Ethics
 
 Ethics is a branch of philosophy that helps decide what should be done in a principled sense besides what must be done to comply with laws. In the medical industry, universities, colleges, hospitals, and other organizations form Ethical Review Boards (ERBs) (or Institutional Review Boards (IRBs)) to provide ethical guidance and ensure legal & ethical standards are followed. ERBs in hospitals can provide consultation for difficult ethical cases when they arise. Corporate compliance officers are responsible to investigate legal or ethical concerns identified in a business.
