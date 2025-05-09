@@ -240,7 +240,7 @@ The back-end contains workspaces for filling, compounding, and storage.
 
 ##### 🧮 Non-Compounded Prescription Area
 
-Used to prepare most prescriptions after grabbing them from **storage**.
+Used to prepare most prescriptions after grabbing them from **storage**. Occasionally, there are prescriptions for **OTC** drugs that may not be stocked in the immediate vicinity so technicians may be expected to venture into the greater store to retrieve them.
 
 > 🧹 Keep all counters and prescription prep areas **clean and clutter-free**. Periodically wipe down **counting trays, counters, and equipment** with **70% isopropyl alcohol**
 
