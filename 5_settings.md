@@ -308,12 +308,68 @@ Used to prepare customized medications such as suspensions, ointments, and cream
 
 ##### 📦 Storage Area
 
-All medications and supplies are stored in designated zones.
+All medications and supplies in the pharmacy must be stored safely and systematically.
+
+📦 **Receiving Orders**
+
+When receiving an order, accuracy is essential. Technicians must:
+
+- Reconciling the shipment with the **purchase order**
+- Verifying the **drug name, strength, form, quantity**, and packaging
+- Checking for **damage** or **expired** medications
+- Comparing **invoice prices** to the shipment
+- Returning **damaged, expired, or incorrect** items
+- Reporting discrepancies to the **pharmacist or supplier**
+
+> ⚠️ C2 Medications are shipped separately from other drugs.
+
+✅ **Best Practices for Stocking**
+
+- **FIFO (First In, First Out)**: Place **newer stock behind older stock** so that earlier-expiring medications are used first
+- **Rotate inventory** regularly and remove expired or nearly expired medications
+  - ⚠️ Flag meds expiring within **6 months**
+  - ❌ Pull meds expiring within **3 months** and return or destroy per policy
+- **Face all labels forward** for easy identification
+- Separate or flag **LASA (Look-Alike, Sound-Alike)** drugs using:
+  - 🔠 **Tall Man lettering**
+  - ⚠️ Colored warning labels
+- **Mylars**: Use special labels to identify **hazardous medications**
+
+📁 **General Organization**
 
 - 📚 Organized shelving, cabinets, or drawers
 - 🔐 C-II controlled substances must be kept in **locked storage**
 - 💊 C-III through C-V medications may be kept on open shelves
 - ❄️ Pharmacy refrigerators must be **drug-only** (no food or drink allowed)
+
+🗂️ **Special Storage Areas**
+
+- **Fast Mover Shelf**:  
+  - Holds high-demand drugs that account for most prescriptions  
+  - Check this shelf **first** when stocking
+- **Unit of Use Shelf**:  
+  - For medications dispensed in **unit-dose** or **unit-of-use** packaging  
+  - Keep separated from bulk stock
+- **ALPHA Shelves**:  
+  - For general inventory stored **alphabetically**  
+  - Used for less frequently dispensed items
+
+> 🔍 Always check **Fast Mover** and **Unit of Use** shelves before placing medications on **ALPHA** shelves.
+
+🌡️ **USP Storage Temperature Guidelines**
+
+| Storage Type           | Temperature Range                   |
+|------------------------|-------------------------------------|
+| **Freezer** | –25°C to –10°C (–13°F to 14°F) |
+| **Refrigerated** | 2°C to 8°C (36°F to 46°F) |
+| **Controlled Room Temp** | 20°C to 25°C (68°F to 77°F) |
+| **Excessive Heat** | > 40°C (> 104°F) |
+
+> *Temperatures should be monitored daily and recorded. Out-of-range readings must be reported immediately.*
+
+#### Other/ Administrative Duties
+
+Besides keeping the p
 
 ## 🏥 Hospital Pharmacies
 
