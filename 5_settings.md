@@ -205,7 +205,7 @@ Hospital pharmacies are more complex than retail settings and often include spec
 - Assists in rollout of new ADCs and ensures system integration
 - Implements **Pharmacy & Therapeutics (P&T) Committee** decisions into automation
 - Investigates and resolves narcotic discrepancies and medication errors
-- Supports Barcode Medication Administration (BCMA) system implementation
+- Supports **Barcode Medication Administration (BCMA)** system implementation
 
 📍 Setting: Inpatient
 
@@ -226,7 +226,7 @@ Hospital pharmacies are more complex than retail settings and often include spec
 - Works with Investigational Drug Pharmacist to support clinical trials
 - Prepares, labels, and distributes investigational medications per protocol
 - Manages inventory and ensures study medication availability
-- Compounds medications extemporaneously following strict QA/SOPs
+- Compounds medications extemporaneously following strict **Quality Assurance (QA)** SOPs
 - Coordinates sponsor visits and audits
 - Maintains protocol binders, regulatory documents, and budget forms
 - Conducts database entry, billing reconciliation, and compliance audits
