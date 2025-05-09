@@ -17,6 +17,7 @@ The Centers for Medicare & Medicaid Services (CMS) provide the following guideli
 Some basic values in ethical considerations include:
 
 - **Autonomy** of the patient to choose their treatment
+  - ⚠️ *Federal law protects the patient's right to refuse treatment*
 - **Beneficence** when treating patients
 - **Dignification** of the patient
 - **Non-Maleficence** when providing care
@@ -76,14 +77,15 @@ All pharmacy personnel must comply with **federal and state laws**, under the su
 - **State laws** are passed by individual legislatures and apply within their borders.
 - If laws conflict, the **stricter law must be followed**.
 
+> ⚠️ Federal law protects the patient's right to file complaints.
+
 ### Regulatory Bodies
 
 #### Federal Agencies
 
-- **FDA (Food and Drug Administration)**: Established by the *Federal Food, Drug, and Cosmetic Act (1938)*. Oversees safety and regulation of drugs, devices, cosmetics, supplements, and radiation-emitting products.
-- **DEA (Drug Enforcement Administration)**: Enforces the *Controlled Substances Act (1970)* and regulates controlled substances.
-
-Other federal laws protect patient rights, including the right to refuse treatment, and to file complaints.
+- **Food and Drug Administration (FDA)**: Established by the *Federal Food, Drug, and Cosmetic Act (1938)*. Oversees safety and regulation of drugs, devices, cosmetics, supplements, and radiation-emitting products.
+- **Drug Enforcement Administration (DEA)**: Enforces the *Controlled Substances Act (1970)* and regulates controlled substances.
+- **Department of Health and Human Services (HHS)**: The primary federal agency responsible for protecting the health of all Americans. Oversees public health programs and agencies including the CDC, FDA, CMS, and NIH. During public health emergencies, HHS can expand access to care through guidance and waivers (e.g., authorizing technicians to administer vaccines).
 
 #### State Agencies
 
