@@ -56,16 +56,37 @@ Some pharmacy locations operate on-site clinics staffed by **nurse practitioners
 
 These clinics provide minor acute care services such as infection treatment, injury care, health screenings, and immunizations. Technicians help with patient intake, record keeping, and coordinating follow-up.
 
-#### Vaccines
+#### 💉 Vaccines
 
-Pharmacy technicians support vaccination programs by:
+Vaccines help your body build protection against infectious diseases by "teaching" your immune system to recognize and respond to viruses or bacteria. They usually contain inactive or weakened parts of a pathogen, or a genetic blueprint that prompts an immune response.
 
-- Entering prescription and billing information
-- Providing the **CDC Vaccine Information Statement (VIS)** and consent forms
-- Verifying cold chain compliance for vaccine storage
-- Assisting with recordkeeping and scheduling
+> **Herd Immunity** is a phenomenon where a sufficient proportion of a population is immune to a disease, indirectly protecting those who are not immune. This is crucial to protecting **public health** by making it harder for pathogens to spread to those who are not vaccinated (like babies or the immunocompromised).
 
-> 🧪 In many states, **technicians may administer vaccines** after completing approved training programs (based on state board rules and HHS guidance issued during public health emergencies)
+##### 📋 Common Vaccines & Their Details
+
+| Vaccine | Pathogen(s) | Frequency | Indications |
+|--------|-------------|-----------|-------------|
+| **Flu** | Influenza A/B | Annual | All adults; high-risk populations (elderly, immunocompromised, healthcare workers) |
+| **COVID-19** | SARS-CoV-2 | Annual or updated booster as recommended | Adults and children per CDC guidance |
+| **MMR** | Measles, Mumps, Rubella | 2 doses (childhood); 1 booster for travel | Required for school; travel to endemic areas |
+| **Tdap** | Tetanus, Diphtheria, Pertussis | Every 10 years (booster); during pregnancy | Adults every 10 years; pregnancy; wound care |
+| **Hepatitis B** | Hepatitis B virus | 2–3 dose series | Healthcare workers; infants; high-risk adults |
+| **HPV** | Human papillomavirus | 2–3 doses depending on age | Preteens (ages 11–12); adults up to age 26 |
+| **Varicella** | Varicella-zoster virus | 2 doses | Those without prior infection; school entry |
+| **Meningococcal** | Neisseria meningitidis | 1–2 doses (some require boosters) | Teens; college students; military recruits |
+
+> 📌 **Note**: Vaccination schedules vary by age, health status, and exposure risk. Always consult the CDC immunization schedule.
+
+##### 🧪 Pharmacy Technician Responsibilities
+
+Pharmacy technicians support immunization efforts by:
+
+- 🔢 Entering vaccine prescriptions and billing claims (especially Medicare Part D or private insurance)
+- 📄 Providing **CDC Vaccine Information Statements (VIS)** and obtaining consent forms
+- 🧊 Verifying cold chain compliance (refrigeration and storage logs)
+- 📆 Assisting with vaccine recordkeeping and appointment scheduling
+
+> ⚠️ **Tech Vaccine Authority**: In many states, technicians may administer certain vaccines after completing approved training programs and certification, per state board rules and under **HHS guidance** (especially during public health emergencies).
 
 ### 🩺 Disease State Management (DSM)
 
