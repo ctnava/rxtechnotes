@@ -1,7 +1,5 @@
 # Chapter 3: Healthcare Coverage
 
-## 🧰 Key Concepts
-
 Health insurance is a financial agreement where a person or employer pays a **monthly premium** to an insurance company. In exchange, the insurer helps cover medical and prescription costs when care is needed.
 
 Once **enrolled** in a **managed care plan**, patients are typically responsible for:
@@ -26,7 +24,7 @@ Once **enrolled** in a **managed care plan**, patients are typically responsible
 
 > 💡 **Tech Tip**: Document all patient interactions about PAs, rejections, and delays. Escalate to pharmacist when necessary.
 
-### 🏥 Managed Care Programs
+## 🏥 Managed Care Programs
 
 Managed care plans are offered by insurers (public and private); structured to control healthcare costs and improve care coordination.
 
@@ -39,7 +37,7 @@ Managed care plans are offered by insurers (public and private); structured to c
 
 > 🔍 Check insurance cards or PBM portals for plan types. Copays are often tiered based on drug cost.
 
-#### 🔄 Coordination of Benefits (COB)
+### 🔄 Coordination of Benefits (COB)
 
 When patients have more than one plan, **COB** determines which is billed first and it:
 
@@ -63,9 +61,9 @@ When patients have more than one plan, **COB** determines which is billed first 
 
 > 💡 Incorrect COB setup leads to claim denials or full patient cost. Verify COB at patient intake.
 
-#### Public Health Insurance
+### Public Health Insurance
 
-##### Medicare & Medicaid
+#### Medicare & Medicaid
 
 The ***Social Security Act Amendments (1965)*** created the Medicare and Medicaid programs:
 
@@ -96,7 +94,7 @@ The “donut hole” is a temporary limit on what Medicare Part D will pay for p
 
 > 💊 For techs: Patients in the donut hole may suddenly pay more—watch for confusion or frustration and refer to the pharmacist.
 
-###### 🏥 Medi-Cal (California Medicaid)
+##### 🏥 Medi-Cal (California Medicaid)
 
 Medi-Cal is California’s Medicaid program, providing free or low-cost health coverage for:
 
@@ -109,7 +107,7 @@ It covers a wide range of services like doctor visits, hospital care, mental hea
 
 > 💊 Pharmacy Tech Tip: Medi-Cal often uses a state drug formulary and may require Treatment Authorization Requests (TARs) for non-preferred or high-cost medications, especially those not on the state’s formulary.
 
-###### 🩺 Medi-Medi (Dual Eligibility)
+##### 🩺 Medi-Medi (Dual Eligibility)
 
 A “Medi-Medi” patient is eligible for both Medicare and Medi-Cal.
 
@@ -122,11 +120,11 @@ Medicare is the primary payer; Medi-Cal acts as secondary, covering:
 
 > 🧠 Watch for “Medi-Medi” flags in patient profiles. These patients usually have no out-of-pocket cost for covered meds and medical care.
 
-##### 🦾 Veterans Health Coverage: VA, TRICARE, & CHAMPVA
+#### 🦾 Veterans Health Coverage: VA, TRICARE, & CHAMPVA
 
 In addition to private and public insurance plans, some patients receive prescription drug coverage through programs specifically for military personnel, veterans, and their families. These programs include VA, TRICARE, and CHAMPVA. Each has unique eligibility rules, formularies, and pharmacy networks.
 
-###### 🇺🇸 VA (U.S. Department of Veterans Affairs)
+##### 🇺🇸 VA (U.S. Department of Veterans Affairs)
 
 The VA provides healthcare (including prescriptions) to eligible veterans through VA medical facilities.
 
@@ -137,7 +135,7 @@ The VA provides healthcare (including prescriptions) to eligible veterans throug
 
 > 💊 **Tech Tip**: If a patient brings a VA prescription to a retail pharmacy, it likely won’t be covered—refer them back to the VA system unless there’s a special authorization.
 
-###### 🔺 TRICARE
+##### 🔺 TRICARE
 
 TRICARE is the healthcare program for:
 
@@ -159,7 +157,7 @@ Pharmacy Benefits:
 
 > 📋 **Tech Tip**: Always check if the pharmacy is in-network for TRICARE. Verify eligibility using the patient’s military ID or DoD Benefits Number (DBN).
 
-###### 🩺 CHAMPVA (Civilian Health and Medical Program of the Department of Veterans Affairs)
+##### 🩺 CHAMPVA (Civilian Health and Medical Program of the Department of Veterans Affairs)
 
 CHAMPVA provides coverage for spouses and dependent children of veterans who:
 
@@ -184,7 +182,7 @@ Key Points:
 
 > ⚠️ Always verify insurance details for military and veteran patients—coverage rules and pharmacy networks vary significantly between VA, TRICARE, and CHAMPVA.
 
-### 💊 Formularies
+## 💊 Formularies
 
 A **formulary** is a list of prescription drugs that are approved for use and **covered by an insurer, pharmacy benefit manager (PBM), or healthcare institution**. Formularies determine which medications are preferred, **substitutable**, or **reimbursable**, helping control costs and ensure safe, effective therapy.
 
@@ -216,7 +214,7 @@ A **formulary** is a list of prescription drugs that are approved for use and **
 | Tier 3 | Non-preferred brands |
 | Tier 4+ | High-cost or specialty medications |
 
-### 💼 Pharmacy Benefit Manager (PBM)
+## 💼 Pharmacy Benefit Manager (PBM)
 
 PBMs are third-party companies that manage drug benefits on behalf of payers (insurers, employers, Medicare).
 
@@ -231,7 +229,7 @@ PBMs are third-party companies that manage drug benefits on behalf of payers (in
 
 > 💡 **Common PBMs**: CVS Caremark, Express Scripts, & OptumRx manage drug benefits for millions of patients nationwide.
 
-### 📝 Prior Authorizations (PAs)
+## 📝 Prior Authorizations (PAs)
 
 A **Prior Authorization (PA)** is a requirement by insurance companies (often managed by Pharmacy Benefit Managers or PBMs) that a healthcare provider must obtain approval by providing medical justification before a specific medication is covered by the patient's insurance. This process is used for **high-cost medications** (e.g., brand-name drugs without generic equivalents), **drugs with safety concerns** (e.g., opioid medications, certain antidepressants), **specialty drugs** (e.g., biologics, certain cancer treatments), **medications that require step therapy** (e.g., must try lower-tier drug first), drugs not listed in the **formulary**, or drugs considered to have alternatives that are more cost-effective. When a drug isn’t covered or needs a PA, it’s usually the PBM’s rules, not the pharmacy’s.
 
@@ -254,7 +252,7 @@ In outpatient care settings, PBMs influence what is covered, how much patients p
 
 > **Denial and Appeal**: If a PA is denied, technicians may help by ensuring the pharmacy has all required documentation or by assisting in the appeal process.
 
-### 🔁 Billing & Adjudication
+## 🔁 Billing & Adjudication
 
 Prescription billing is the process of submitting a claim to a patient’s insurance via a real-time adjudication system, typically operated by the PBM. This process confirms whether a medication is covered, calculates the patient’s share, and notifies the pharmacy of any issues.
 
@@ -270,7 +268,7 @@ Prescription billing is the process of submitting a claim to a patient’s insur
 | Adjudication | PBM checks eligibility, coverage, cost-sharing |
 | Response | Approved (with copay) or Rejected (with reason code) |
 
-#### 👤 Patient Intake & Profile Creation
+### 👤 Patient Intake & Profile Creation
 
 Before a prescription can be processed or billed, a patient profile must be created in the pharmacy management system. This includes entering key information that ensures accuracy during claim adjudication and compliance with regulations.
 
@@ -318,7 +316,7 @@ In addition to the basic Patient Identification, the following details must be c
 
 > ⚠️ **Tech Tip**: Always confirm insurance data from the most recent insurance card to avoid billing errors and Third Party Rejections.
 
-#### Online Claim Information
+### Online Claim Information
 
 This table should help clarify the essential details when processing prescription claims for adjudication.
 
@@ -345,7 +343,7 @@ This table should help clarify the essential details when processing prescriptio
 | **Deductible or Copay Amount** | Pricing Information | The portion of the cost the patient is responsible for, based on their plan. |
 | **Balance Due** | Pricing Information | The remaining balance due after insurance payment and copay/deductible. |
 
-#### 🛑 Third-Party Rejections & Resolutions
+### 🛑 Third-Party Rejections & Resolutions
 
 A Third-Party Rejection (TPR) occurs when a prescription claim is denied by the PBM or insurance. These denials are flagged with a reject code and message explaining the issue.
 
@@ -361,11 +359,11 @@ A Third-Party Rejection (TPR) occurs when a prescription claim is denied by the 
 
 > 📍 **Tech Tip**: Always confirm the BIN/PCN/ID from the most recent insurance card. These fields determine where the claim is sent.
 
-#### 💲 Reimbursement, Pricing, & Billing Models
+### 💲 Reimbursement, Pricing, & Billing Models
 
 Understanding how prescriptions are priced and reimbursed is essential for pharmacy technicians, especially when dealing with insurance billing, patient copays, or third-party rejections.
 
-##### 🧮 Maximum Allowable Cost (MAC)
+#### 🧮 Maximum Allowable Cost (MAC)
 
 MAC is a cost-containment strategy used by PBMs to set the maximum amount they will reimburse a pharmacy for a generic drug or group of equivalent drugs. If a pharmacy’s acquisition cost exceeds the MAC, it may lose money on the transaction unless it charges the patient the difference.
 
@@ -376,7 +374,7 @@ MAC is a cost-containment strategy used by PBMs to set the maximum amount they w
 
 > ⚠️ If the pharmacy’s purchase price is higher than the MAC reimbursement, the claim may result in a financial loss unless the pharmacy adjusts the price charged to the patient.
 
-##### 💵 Usual and Customary (U&C / UCR) Price
+#### 💵 Usual and Customary (U&C / UCR) Price
 
 The Usual & Customary or UCR price is the amount a pharmacy would charge a cash-paying customer for a given prescription. Insurers compare this price to their negotiated rates. Sometimes called the "cash price" or "retail price".
 
@@ -389,7 +387,7 @@ The insurer will pay the lowest of:
 
 > 💡 The U&C price must be accurate and current in the pharmacy system. If it's incorrectly low, the PBM may reimburse at that amount (even if it’s below cost).
 
-##### 📄 Universal Claim Form (UCF)
+#### 📄 Universal Claim Form (UCF)
 
 The Universal Claim Form (UCF) is a standardized paper form used to submit prescription claims to insurance providers when electronic billing is unavailable or rejected.
 
@@ -399,7 +397,7 @@ The Universal Claim Form (UCF) is a standardized paper form used to submit presc
 
 > 📄 UCFs must be completed accurately and legibly. Errors lead to claim rejections or delays.
 
-##### 🏢 In-House Billing (Medical Claims)
+#### 🏢 In-House Billing (Medical Claims)
 
 Some pharmacies (especially compounding, specialty, or hospital outpatient pharmacies) bill medical insurance directly (bypassing PBMs). This is known as in-house billing.
 
@@ -419,7 +417,7 @@ Requires:
 
 > ⚠️ Medical claims adjudication is slower and often requires supporting documentation (e.g., physician orders, treatment plans).
 
-##### 💊 Medication Therapy Management (MTM)
+#### 💊 Medication Therapy Management (MTM)
 
 Medication Therapy Management (MTM) is a service provided by pharmacists under Medicare Part D Prescription Drug Plans (PDPs) to optimize drug therapy and improve outcomes.
 
@@ -447,9 +445,9 @@ CMS-10114 Form are required for PDPs offering MTM services and require the follo
 
 > 💡 All MTM billing requires **time documentation, clinical notes**, and often a **signed patient consent**. These services are generally not billable through PBMs—they go through medical insurance or Medicare Part D PDPs.
 
-### Social Health Insurance & Public Assistance
+## Social Health Insurance & Public Assistance
 
-#### 🛠️ Workers’ Compensation (Workers’ Comp)
+### 🛠️ Workers’ Compensation (Workers’ Comp)
 
 Workers’ compensation is a type of insurance that provides medical and wage benefits to employees who are injured or become ill due to their job.
 
@@ -468,7 +466,7 @@ Pharmacy Technician Role:
 
 > ⚠️ **Important**: Workers’ comp claims are not processed through the patient’s regular insurance card. Do not collect copays unless instructed by the plan.
 
-#### 🤝 Patient Assistance Programs (PAPs)
+### 🤝 Patient Assistance Programs (PAPs)
 
 Patient Assistance Programs (PAPs) are sponsored by drug manufacturers, non-profits, or foundations to help patients access expensive or essential medications often for free or at a reduced cost.
 
