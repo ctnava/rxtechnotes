@@ -69,6 +69,15 @@ Pharmacists are healthcare professionals licensed to **dispense medications**, *
 - **Administering Vaccines**: Providing immunizations (as allowed by state law)
 - **Health Screenings**: Conducting blood pressure checks and other basic screenings
 
+### (Situational) Nurse Practitioners (NPs) and Physician Assistants (PAs)
+
+NPs and PAs are **advanced practice providers** who are licensed to diagnose, treat, and prescribe medications. Their authority varies by state, but they often function similarly to physicians in outpatient settings.
+
+- **Prescribing Authority**: Can write prescriptions for both non-controlled and controlled substances (depending on state law and DEA registration)
+- **Collaborative Practice**: Often work under a supervising or collaborating physician
+- **Vaccinations**: Can administer and prescribe vaccines
+- **Pharmacy Role**: Pharmacy personnel often verify NP/PA credentials and DEA numbers when filling prescriptions
+
 ## Compliance with the Law
 
 All pharmacy personnel must comply with **federal and state laws**, under the supervision of a licensed pharmacist. Violations by technicians can also result in disciplinary actions for the supervising pharmacist.
