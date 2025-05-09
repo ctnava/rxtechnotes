@@ -215,7 +215,7 @@ The back-end contains workspaces for filling, compounding, and storage.
 
 ##### 🧮 Non-Compounded Prescription Area
 
-Used to prepare most prescriptions.
+Used to prepare most prescriptions after grabbing them from **storage**.
 
 Prescription counters equipped with:
 
