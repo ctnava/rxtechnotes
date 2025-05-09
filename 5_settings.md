@@ -1,4 +1,4 @@
-# Chapter 6: Pharmacy Settings & Technician Specializations
+# Chapter 5: Pharmacy Settings & Technician Specializations
 
 A pharmacy technician is an individual who, under the direct supervision and control of a pharmacist, performs non-discretionary tasks.
 
