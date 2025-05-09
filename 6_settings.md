@@ -1,4 +1,4 @@
-# Chapter 6: Pharmacy
+# Chapter 6: Technician Specializations
 
 ## Community Pharmacies
 
