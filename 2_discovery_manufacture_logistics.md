@@ -199,7 +199,7 @@ Sample NDC: `12345-6789-01`
 Barcodes are quickly scanned for inventory tracking and come in two varieties: linear and matrix.
 
 - **Linear Barcodes (1D)** appear as stripes that can be read forward or backwards and encodes NDC. Used for stock checks.
-- **Matrix Barcodes (2D)** appear as squares with black or white pixels; encoding NDC, batch, and expiration. Used in prescription filling to verify the correct product is being used
+- **Matrix Barcodes (2D)** appear as squares with black or white pixels; encoding NDC, batch, and expiration. Used in prescription filling to verify the correct product is being used.
 
 ## Quality Assurance
 
@@ -340,6 +340,12 @@ Special Storage Locations:
 
 > *Temperatures should be monitored daily and recorded. Out-of-range readings must be reported immediately.*
 
+#### 🏥 Floor Stock (Hospitals)
+
+- Medications stored on nursing units for quick access.
+- Must be tracked and restocked regularly.
+- Common for over-the-counter or PRN medications.
+
 ### 🗑️ Expired Medications
 
 Pharmacy technicians are responsible for routinely checking for expired, expiring, or discontinued medications. These drugs must be separated from active stock to avoid accidental dispensing.
@@ -365,16 +371,10 @@ Technicians must:
 
 > Always follow facility SOPs and maintain chain-of-custody documentation.
 
-### ⚠️ Drug Recalls
+#### ⚠️ Drug Recalls
 
 - **Class I**: Serious health hazard or death (e.g., wrong drug in bottle).
 - **Class II**: Temporary or reversible health effects.
 - **Class III**: Unlikely to cause harm but violates FDA standards.
 
 > Technicians assist with pulling recalled stock, notifying patients if required, and documenting the process.
-
-### 🏥 Floor Stock (Hospitals)
-
-- Medications stored on nursing units for quick access.
-- Must be tracked and restocked regularly.
-- Common for over-the-counter or PRN medications.
