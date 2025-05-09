@@ -116,7 +116,7 @@ Pharmacy technicians may assist with:
 - Electronic health record (EHR) entry  
 - Coordinating follow-up or referrals  
 
-### 🗣️ Interpersonal Activities
+### 🗣️ Interpersonal Skills
 
 Strong communication skills are essential in community pharmacy settings.
 
@@ -209,7 +209,7 @@ Hospital pharmacies are more complex than retail settings and often include spec
 
 📍 Setting: Inpatient
 
-### 🧾 Outpatient Automation Technician
+#### 🧾 Outpatient Automation Technician
 
 - Manages automation in outpatient settings, including:
   - Prescription-filling robots
@@ -221,7 +221,7 @@ Hospital pharmacies are more complex than retail settings and often include spec
 
 📍 Setting: Outpatient
 
-### 🧪 Investigational Drug Services (IDS) Technician
+#### 🧪 Investigational Drug Services (IDS) Technician
 
 - Works with Investigational Drug Pharmacist to support clinical trials
 - Prepares, labels, and distributes investigational medications per protocol
