@@ -253,7 +253,7 @@ Violations due to reasonable cause and not willfull neglect can result in $1,000
 - set standards for the creation of these electronic systems
 - expanded Covered Entities to include business associates
 
-> ⚠️ Electronic transmission of health information, including claims and billing, must be done via HIPAA-compliant electronic data interchange (EDI).
+> ⚠️ Electronic transmission of health information, including claims and billing, must be done via HIPAA-compliant **electronic data interchange (EDI)**.
 
 ## Ethics
 
