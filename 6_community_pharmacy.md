@@ -6,7 +6,7 @@ Community (or retail) pharmacy practice involves providing prescription and heal
 
 - **Independent Pharmacies**: Individually owned and operated, often serving local communities with personalized service.
 - **Chain Pharmacies**: National or regional pharmacy chains such as CVS or Walgreens.
-- **Mass Merchandiser Pharmacies**: Large retail chains like Walmart, KMart, or Costco that have in-store pharmacies.
+- **Mass Merchandiser Pharmacies**: Large retail chains like Walmart, Target, or Costco that have in-store pharmacies.
 - **Food Store Pharmacies**: Grocery chains such as Publix or Wegmans that include pharmacy departments.
 
 ## Interpersonal Activities
@@ -31,7 +31,7 @@ Pharmacy technicians:
 - Direct patients to the pharmacist for required counseling
 - Manage front-end sales for pharmacy-related items
 
-> **Combat Methamphetamine Epidemic Act (CMEA, 2005)**: Requires that pseudoephedrine-containing products be sold only in person, not through drive-thru. Purchasers must present ID, sign a logbook, and stay within purchase limits.
+> **Combat Methamphetamine Epidemic Act (CMEA, 2005)**: Requires that pseudoephedrine-containing products be sold only in face-to-face transactions. Drive-Thru sales are allowed if compliant with ID check, logbook entry, and purchase limits. purchase limits.
 
 ### On the Phone
 
@@ -43,7 +43,7 @@ Pharmacy technicians may:
 - Relay messages or hand off the call to the pharmacist
 - Maintain a professional and courteous tone at all times
 
-> All phone conversations involving patient information are subject to **HIPAA** privacy standards.
+> All phone conversations involving patient information are subject to **HIPAA (1996)** privacy standards.
 
 ## Services Offered
 
@@ -86,7 +86,7 @@ Certain federal laws have established pharmacist responsibilities that directly 
 
 #### ❗❗❗ Counseling, Record Keeping, & Drug Utilization Review (DUR)
 
-The ***Omnibus Budget Reconcillation Act (OBRA-90 or "the Omnibus", 1990)*** was a major federal law affecting Medicaid prescription drug programs. It mandates that states receiving federal funds must require pharmacists to:
+The **Omnibus Budget Reconciliation Act (OBRA-90, 1990)** was a major federal law affecting Medicaid prescription drug programs. It mandates that states receiving federal funds must require pharmacists to:
 
 - 📄 **Maintain Patient Medication Profiles**: Pharmacies must maintain records (on-site for a minimum of 2 years) of a patient’s medication history to support counseling and DUR obligations.
 - 📋 **Conduct DURs**: Evaluate prescriptions to identify adverse effects, therapeutic duplication, drug–disease contraindications, incorrect dosage or duration, and drug–drug interactions.
@@ -95,15 +95,15 @@ The ***Omnibus Budget Reconcillation Act (OBRA-90 or "the Omnibus", 1990)*** was
   - Potential side effects or adverse reactions
   - Storage instructions
   - What to do in case of a missed dose
-- ⛔ **Document Refusals of Counsel**: Rejections of counsel must be signed and stored as part of the patient's medication profile.
+  - 📁 **Document Counseling Offers**: While OBRA-90 requires the offer, specific documentation requirements (such as signed refusals) vary by state.
 
 > ⚠️ Some states have extended OBRA-90 requirements to all patients, not just Medicaid recipients.
 
 #### 💊 Medication Therapy Management (MTM)
 
-The ***Medicare Modernization Act (MMA, 2003)*** established Part D of the program to provide prescription drug coverage and requires pharmacists to provide ***Medication Therapy Mangement (MTM)*** services to optimize therapeutic outcomes while minimizing adverse events. These include:
+The **Medicare Modernization Act (MMA, 2003)** established Part D of the program to provide prescription drug coverage and requires pharmacists to provide **Medication Therapy Management (MTM)** services to optimize therapeutic outcomes while minimizing adverse events. These include:
 
-- **Comprehensive medication reviews (CMRs)**:Reviewing all medications a patient is taking
+- **Comprehensive medication reviews (CMRs)**: Reviewing all medications a patient is taking
 - Identifying duplications or interactions
 - Providing personalized medication action plans
 - Optimizing therapeutic outcomes
