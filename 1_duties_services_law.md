@@ -148,34 +148,6 @@ While not government entities, these organizations shape pharmacy standards:
 - **American Society for Consultant Pharmacists (ASCP)**: Sets standards for the practice of pharmacy who provide medication distribution and consultation for nursing homes.
 - **Accreditation Commission for Health Care(ACHC)**: Sets standards for pharmacies that provide services in the realm of: infusion, community retail, long-term care, & specialty pharmacy. They also administer the *Pharmacy Compounding Accreditation Board (PCAB)* accreditation.
 
-##### National Certification (Optional)
-
-A **Certified Pharmacy Technician (CPhT)** is credentialed by organizations such as the ***Pharmacy Technician Certification Board (PTCB)*** or ***National Healthcareer Association (NHA)***. Certification demonstrates advanced competency and may qualify technicians for expanded duties, such as medication reconciliation or billing.
-
-- **Benefits**: National recognition, greater job opportunities, higher wages, enhanced credibility
-- **Exams**: Must pass either the ***Pharmacy Technician Certification Exam (PTCE)*** (by the PTCB) or ***Examination for Certified Pharmacy Technicians (ExCPT)*** (by the NHA)
-- **Recertification**: Every 2 years, requiring 20 hours of ASHP-accredited **Continuing Education (CE)**, including:
-  - 1 hour in **Pharmacy Law**
-  - 1 hour in **Patient Safety**
-
-##### State Licensure (Required)
-
-Pharmacy Technicians must be licensed and registered in most states. Licensure allows them to perform pharmacy tasks under pharmacist supervision and ensures adherence to local laws. **Requirements are state-specific**, but commonly include:
-
-- Completion of a state-approved training program
-- Passing a national exam (PTCE or ExCPT)
-- Background checks and drug screening
-- Application through the **State Board of Pharmacy**
-
-California State Licensure Requirements:
-
-- **Proof of Education**: transcript or notarized copy of diploma OR GED / HiSET/ TASC + CHSPE
-- **Proof of Training**: affidavit of ASHP-accredited coursework, associates degree in Pharmacy Technology, or graduation from a ACPE-accredited school of pharmacy
-- **Supporting Documents (optional; skips training)**: PTCB Certification or DD-214
-- **CE Requirements**: 20 hours every 2 years, including **1 hour in cultural competency**
-- **Renewals**: Notices mailed 90 days before expiration; licenses are canceled if not renewed within 90 days post-expiration
-- **License Portability**: California has **no reciprocity**; technicians moving to other states must reapply there. Returning to CA may require full reapplication if the license was canceled
-
 ### ⚖️ Court of Law
 
 Judicial law has two main divisions:
