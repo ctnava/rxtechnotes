@@ -146,6 +146,8 @@ The front-end is where patients interact directly with pharmacy staff.
 
 ##### 📞 Picking up the Phone
 
+> 🧾 Pharmacy Clerks may answer general questions about store hours or services, and direct them to appropriate staff.
+
 Typically a front-end task, though back-end technicians may also assist. On the phone, pharmacy technicians may:
 
 - 📞 Answer general questions about prescription status or store services  
@@ -233,6 +235,8 @@ When a patient arrives to pick up a prescription, this is the final opportunity 
      - Used for insurance reimbursement
      - Reviewed during pharmacy audits
      - 🧑‍⚕️ Offer to have the **pharmacist counsel** the patient, especially for new medications, changes in therapy, or if the patient appears confused. Make sure to document the outcome!
+
+> 🧾 Pharmacy Clerks may use the register or POS for OTC medications & Prescriptions. They may also check IDs.
 
 #### ⚙️ Back-End
 
@@ -387,7 +391,7 @@ Pharmacy technicians help ensure the pharmacy is well-stocked without over-order
 
 🛍️ **Stocking Supplies**
 
-Technicians are responsible for restocking commonly used pharmacy supplies, including:
+Technicians & Pharmacy Clerks are responsible for restocking commonly used pharmacy supplies, including:
 
 - 💊 Prescription vials, lids, and bottles (various sizes)
 - 🏷️ Prescription labels and auxiliary sticker rolls
