@@ -1,4 +1,4 @@
-# Compounded Medications
+# Chapter 7: Compounded Medications
 
 ## 📚 United States Pharmacopeia–National Formulary (USP–NF)
 
