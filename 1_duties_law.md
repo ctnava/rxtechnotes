@@ -1,8 +1,4 @@
-# Chapter 1: Duties, Law, & Ethics for Pharmacy Technicians
-
-Notes on general duties and laws to follow for pharmacy technicians.
-
----
+# Chapter 1: Pharmacies - Duties & Law
 
 ## Pharmacy Personnel
 
