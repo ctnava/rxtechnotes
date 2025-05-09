@@ -276,6 +276,15 @@ The **Omnibus Budget Reconciliation Act (OBRA-90, 1990)** was a major federal la
 
 > ⚠️ Some states have extended OBRA-90 requirements to all patients, not just Medicaid recipients.
 
+A process to ensure the most accurate, complete list of all medications a patient is taking—name, dose, route, and frequency—by comparing current medical records with patient and provider sources.  
+
+Especially critical for:
+
+- Emergency Department admissions
+- Hospitalist-managed patients
+- Patients with **Congestive Heart Failure (CHF)**
+- Transfers from **Skilled Nursing Facilities (SNFs)**
+
 ### 💊 Medication Therapy Management (MTM)
 
 The **Medicare Modernization Act (MMA, 2003)** established Part D of the program to provide prescription drug coverage and requires pharmacists to provide **Medication Therapy Management (MTM)** services to optimize therapeutic outcomes while minimizing adverse events. These include:
