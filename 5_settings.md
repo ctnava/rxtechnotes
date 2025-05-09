@@ -218,7 +218,7 @@ Used to prepare most prescriptions.
 
 - Prescription counters equipped with:
   - 🧪 Counting trays  
-  - 🫙 Vials and lids  
+  - 🍶 Vials and lids  
   - 🏷️ Labels and auxiliary warning stickers  
 
 ✅ Must be kept **clean and organized**  
