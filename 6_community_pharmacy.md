@@ -9,6 +9,42 @@ Community (or retail) pharmacy practice involves providing prescription and heal
 - **Mass Merchandiser Pharmacies**: Large retail chains like Walmart, KMart, or Costco that have in-store pharmacies.
 - **Food Store Pharmacies**: Grocery chains such as Publix or Wegmans that include pharmacy departments.
 
+## Interpersonal Activities
+
+Strong communication skills are essential in community pharmacy settings.
+
+- Listen actively and make eye contact
+- Repeat the customer's concerns to confirm understanding
+- Use a positive, respectful tone
+- Refer to the patient by name
+- Identify the pharmacy when answering the phone
+- Follow facility procedures
+- Refer clinical questions or concerns to the pharmacist
+
+### At the Counter
+
+Pharmacy technicians:
+
+- Receive and enter prescriptions accurately
+- Verify insurance and assist with billing issues
+- Retrieve and ring up prescriptions
+- Direct patients to the pharmacist for required counseling
+- Manage front-end sales for pharmacy-related items
+
+> **Combat Methamphetamine Epidemic Act (CMEA, 2005)**: Requires that pseudoephedrine-containing products be sold only in person, not through drive-thru. Purchasers must present ID, sign a logbook, and stay within purchase limits.
+
+### On the Phone
+
+Pharmacy technicians may:
+
+- Answer general questions about prescription status or store services
+- Take refill requests from patients or automated systems
+- Contact prescribers for refill authorizations or clarification
+- Relay messages or hand off the call to the pharmacist
+- Maintain a professional and courteous tone at all times
+
+> All phone conversations involving patient information are subject to **HIPAA** privacy standards.
+
 ## Services Offered
 
 ### Walk-In Clinics
@@ -20,9 +56,18 @@ Some pharmacy locations operate on-site clinics staffed by **nurse practitioners
 
 These clinics provide minor acute care services such as infection treatment, injury care, health screenings, and immunizations. Technicians help with patient intake, record keeping, and coordinating follow-up.
 
-> **State Scope-of-Practice Laws**: Determine whether technicians may assist in clinic-related activities or administer vaccines under pharmacist supervision.
+#### Vaccines
 
-### Disease State Management (DSM)
+Pharmacy technicians support vaccination programs by:
+
+- Entering prescription and billing information
+- Providing the **CDC Vaccine Information Statement (VIS)** and consent forms
+- Verifying cold chain compliance for vaccine storage
+- Assisting with recordkeeping and scheduling
+
+> 🧪 In many states, **technicians may administer vaccines** after completing approved training programs (based on state board rules and HHS guidance issued during public health emergencies)
+
+### 🩺 Disease State Management (DSM)
 
 Pharmacists provide **Disease State Management** services to help patients with chronic conditions understand and manage their illnesses. Common conditions include:
 
@@ -33,18 +78,7 @@ Pharmacists provide **Disease State Management** services to help patients with 
 
 DSM programs often involve patient counseling, medication adherence support, lifestyle education, and clinical monitoring. Technicians support DSM by scheduling appointments, preparing documentation, and assisting with data collection.
 
-> **HIPAA (Health Insurance Portability and Accountability Act, 1996)**: Requires all patient health data to be kept confidential. Pharmacy staff must protect patient privacy during all DSM and MTM services.
-
-### Vaccines
-
-Pharmacy technicians support vaccination programs by:
-
-- Entering prescription and billing information
-- Providing the **CDC Vaccine Information Statement (VIS)** and consent forms
-- Verifying cold chain compliance for vaccine storage
-- Assisting with recordkeeping and scheduling
-
-> In many states, **pharmacy technicians are permitted to administer vaccines** after completing a certified training program, per state board regulations and HHS guidance during public health emergencies.
+> ⚖️ DSM is **not mandated by federal law**, but it is commonly implemented under **MTM programs (via MMA, 2003)** and **state Medicaid or managed care plans**.
 
 ### Requirements Set Forth by Law
 
@@ -80,40 +114,4 @@ The ***Medicare Modernization Act (MMA, 2003)*** established Part D of the progr
 
 Technicians assist by preparing medication histories, documentation, and assisting with insurance or billing tasks.
 
-## Interpersonal Activities
-
-Strong communication skills are essential in community pharmacy settings.
-
-- Listen actively and make eye contact
-- Repeat the customer's concerns to confirm understanding
-- Use a positive, respectful tone
-- Refer to the patient by name
-- Identify the pharmacy when answering the phone
-- Follow facility procedures
-- Refer clinical questions or concerns to the pharmacist
-
-> **OBRA '90 (Omnibus Budget Reconciliation Act of 1990)**: Requires pharmacists to offer counseling to Medicaid patients receiving new prescriptions. Technicians must inform patients of this offer but may not provide the counseling themselves.
-
-### At the Counter
-
-Pharmacy technicians:
-
-- Receive and enter prescriptions accurately
-- Verify insurance and assist with billing issues
-- Retrieve and ring up prescriptions
-- Direct patients to the pharmacist for required counseling
-- Manage front-end sales for pharmacy-related items
-
-> **Combat Methamphetamine Epidemic Act (CMEA, 2005)**: Requires that pseudoephedrine-containing products be sold only in person, not through drive-thru. Purchasers must present ID, sign a logbook, and stay within purchase limits.
-
-### On the Phone
-
-Pharmacy technicians may:
-
-- Answer general questions about prescription status or store services
-- Take refill requests from patients or automated systems
-- Contact prescribers for refill authorizations or clarification
-- Relay messages or hand off the call to the pharmacist
-- Maintain a professional and courteous tone at all times
-
-> All phone conversations involving patient information are subject to **HIPAA** privacy standards.
+> 🔐 **HIPAA (1996)**: Requires all patient health information (PHI) obtained during Counseling, DSM, MTM services to be kept strictly confidential.
