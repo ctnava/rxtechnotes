@@ -49,36 +49,6 @@ Pharmacists are healthcare professionals licensed to **dispense medications**, *
 - **Administering Vaccines**: Providing immunizations (as allowed by state law)
 - **Health Screenings**: Conducting blood pressure checks and other basic screenings
 
-#### Additional Requirements Set Forth by Law
-
-Certain federal laws have established pharmacist responsibilities that directly affect pharmacy operations, particularly in how pharmacists interact with patients and manage drug therapy. These laws also shape how pharmacy technicians support those processes.
-
-##### ❗❗❗ Counseling, Record Keeping, & Drug Utilization Review (DUR)
-
-The ***Omnibus Budget Reconcillation Act (OBRA-90 or "the Omnibus", 1990)*** was a major federal law affecting Medicaid prescription drug programs. It mandates that states receiving federal funds must require pharmacists to:
-
-- 📄 **Maintain Patient Medication Profiles**: Pharmacies must maintain records (on-site for a minimum of 2 years) of a patient’s medication history to support counseling and DUR obligations.
-- 📋 **Conduct DURs**: Evaluate prescriptions to identify adverse effects, therapeutic duplication, drug–disease contraindications, incorrect dosage or duration, and drug–drug interactions.
-- 💬 **Offer Counseling to Medicaid Patients**: Pharmacists must “offer to counsel” Medicaid patients on:
-  - Proper use of the medication
-  - Potential side effects or adverse reactions
-  - Storage instructions
-  - What to do in case of a missed dose
-- ⛔ **Document Refusals of Counsel**: Rejections of counsel must be signed and stored as part of the patient's medication profile.
-
-> ⚠️ Some states have extended OBRA-90 requirements to all patients, not just Medicaid recipients.
-
-##### 💊 Medication Therapy Management (MTM)
-
-The ***Medicare Modernization Act (MMA, 2003)*** established Part D of the program to provide prescription drug coverage and requires pharmacists to provide ***Medication Therapy Mangement (MTM)*** services. These include:
-
-- Reviewing all medications a patient is taking
-- Identifying duplications or interactions
-- Providing personalized medication action plans
-- Optimizing therapeutic outcomes
-
-> **NOTE**: MTM is usually targeted toward patients taking multiple chronic medications, especially those with multiple conditions or high drug costs. This is done to ensure compliance to, both, reduce waste and improve therapy outcomes.
-
 ## Compliance with the Law
 
 All pharmacy personnel must comply with **federal and state laws**, under the supervision of a licensed pharmacist. Violations by technicians can also result in disciplinary actions for the supervising pharmacist.
