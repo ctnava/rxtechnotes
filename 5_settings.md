@@ -130,19 +130,7 @@ Pharmacy technicians may assist with:
 
 ### Community Pharmacy Layout & Duties
 
-Community pharmacies are divided into front-end and back-end areas, each serving specific functions. (duties listed too)
-
-#### 📞 Picking up the Phone
-
-Typically front-end, but backend techs may do this too. On the phone pharmacy technicians may:
-
-- 📞 Answer general questions about prescription status or store services  
-- 🔁 Take refill requests from patients or automated systems  
-- 🖊️ Contact prescribers for refills or clarifications  
-- 🤝 Relay messages or transfer calls to the pharmacist  
-- 🧑‍💼 Maintain a professional and courteous tone at all times
-
-> 🔐 All phone conversations involving patient information must comply with HIPAA (1996) privacy standards. Use at least two identifiers to make sure you have the right person.
+Community pharmacies are divided into front-end and back-end areas, each serving specific functions.
 
 #### 🧾 Front-End
 
@@ -156,65 +144,110 @@ The front-end is where patients interact directly with pharmacy staff.
 
 > ⚖️ Under HIPAA, transaction windows must be positioned to ensure patient privacy.
 
+##### 📞 Picking up the Phone
+
+Typically a front-end task, though back-end technicians may also assist. On the phone, pharmacy technicians may:
+
+- 📞 Answer general questions about prescription status or store services  
+- 🔁 Take refill requests from patients or automated systems  
+- 🖊️ Contact prescribers for refills or clarifications  
+- 🤝 Relay messages or transfer calls to the pharmacist  
+- 🧑‍💼 Maintain a professional and courteous tone at all times  
+
+> 🔐 All phone conversations involving patient information must comply with **HIPAA (1996)** privacy standards.  
+> ✅ Use at least two patient identifiers to confirm their identity.
+
 ##### 🛒 In-Store Counters
 
-- Some pharmacies have separate windows for intake and dispensing.
-- Most include a private or semi-private consultation area for the pharmacist.
-- May include self-service kiosks or health screening stations.
+- Some pharmacies have separate windows for **intake** and **dispensing**
+- Most include a private or semi-private area for **pharmacist consultation**
+- May also offer **self-service kiosks** or basic **health screening stations**
 
 ##### 🚗 Drive-Thru
 
-Many chain pharmacies have a drive-thru window for patient convenience.
+Many chain pharmacies include a drive-thru window for patient convenience.
 
 **Drive-Thru Functions:**
 
-- Drop off new prescriptions
-- Provide insurance information or ID
-- Return empty vials for refill
-- Pick up filled prescriptions
-- Pay via credit card or cash (passed through drawer)
+- 📤 Drop off new prescriptions  
+- 🆔 Provide insurance cards or ID  
+- 🔁 Return empty vials for refill  
+- 📦 Pick up filled prescriptions  
+- 💳 Pay via credit card or cash through a drawer  
 
-> ⚖️ **Combat Methamphetamine Epidemic Act (CMEA, 2005)**: Pseudoephedrine-containing products must be sold in face-to-face transactions. Drive-Thru sales are permitted only if compliant with ID checks, logbook entry, and purchase limits.
+> ⚖️ **Combat Methamphetamine Epidemic Act (CMEA, 2005)**:  
+> Pseudoephedrine-containing products must be sold in face-to-face transactions.  
+> Drive-thru sales are allowed only if compliant with ID checks, logbook entry, and purchase limits.
 
-##### Processing Prescriptions
+##### 💻 Processing Prescriptions
 
-New prescriptions may be submitted to the pharmacy handwritten (typically for controlled medications), faxes, calls, and e-scripts through hipaa compliant EDIs. For phone orders, hand the pharmacist the phone and they will write a prescription for technicians to enter into the digital system. refills can be called in, requested in person, through the website, and smartphone requests.
+New prescriptions may be submitted by:
 
-##### Collecting and Entering Patient Profile Information
+- 📝 Handwritten forms (often for controlled substances)  
+- 📠 Faxed prescriptions  
+- ☎️ Verbal orders (received directly by the pharmacist)  
+- 🧾 E-scripts through HIPAA-compliant Electronic Data Interchange (EDI)
 
-Includes insurance information
+Refills can be requested:
+
+- 📱 Via smartphone apps  
+- 💻 Through pharmacy websites  
+- 🤝 In person  
+- ☎️ Over the phone
+
+> 📋 For verbal orders: the pharmacist takes the call and transcribes the prescription; technicians then input the data into the system
+
+##### 🧾 Collecting & Entering Patient Profile Information
+
+Pharmacy technicians are responsible for:
+
+- Recording accurate **demographic details**
+- Entering or updating **insurance information**
+- Verifying information for prescription processing and billing
+- Confirming **prescriber details** and known allergies
 
 #### ⚙️ Back-End
 
-Every pharmacy usually has a **Non-Compounded Prescription Area** that:
+The back-end contains workspaces for filling, compounding, and storage.
 
-- Includes **prescription counters** with:
-  - Counting trays
-  - Vials and lids
-  - Prescription labels
-  - Auxiliary and warning labels
-- Must be kept clean and organized
-- All prescriptions are checked by the pharmacist before moving to the pickup bins
+##### 🧮 Non-Compounded Prescription Area
 
-Sometimes pharmacies have a **Compounding Area** for:
+Used to prepare most prescriptions.
 
-- mixing medications such as powders, creams, or suspensions
-- Must have an easily accessible, clean sink
-- **Common Equipment**:
-  - Glass mortar & pestle
-  - Prescription balance and metric weights
-  - Graduated cylinders for liquid measurement
-  - Spatulas, ointment slab or parchment paper
-  - Funnels, stirring rods
+**Includes:**
 
-> 🔬 Some pharmacies may include a clean room for **Compounded Sterile Preparations (CSPs)**.
+- Prescription counters equipped with:
+  - 🧪 Counting trays  
+  - 🫙 Vials and lids  
+  - 🏷️ Labels and auxiliary warning stickers  
 
-Deliveries must be broken down and placed in the **Storage Area** where:
+✅ Must be kept **clean and organized**  
+✅ All prescriptions are **checked by the pharmacist before moving to pickup** bins
 
-- Organized shelving, cabinets, or drawers for drug inventory
-- **C-II medications** must be kept in locked storage
-- **C-III through C-V medications** may be stored on open shelves
-- Pharmacy refrigerator must be used exclusively for medications—no food or beverages allowed
+##### 🧪 Compounding Area
+
+Used to prepare customized medications such as suspensions, ointments, and creams.
+
+**Key Features:**
+
+- A dedicated sink for cleaning and preparation  
+- Clean workspace with the following tools:
+  - 🧫 Glass mortar & pestle  
+  - ⚖️ Prescription balance and metric weights  
+  - 🧪 Graduated cylinders  
+  - 🥄 Spatulas and ointment slab or parchment paper  
+  - 🧴 Funnels and stirring rods
+
+> 🔬 Some pharmacies include a **clean room** for preparing **Compounded Sterile Preparations (CSPs)**
+
+##### 📦 Storage Area
+
+All medications and supplies are stored in designated zones.
+
+- 📚 Organized shelving, cabinets, or drawers
+- 🔐 C-II controlled substances must be kept in **locked storage**
+- 💊 C-III through C-V medications may be kept on open shelves
+- ❄️ Pharmacy refrigerators must be **drug-only** (no food or drink allowed)
 
 ## 🏥 Hospital Pharmacies
 
