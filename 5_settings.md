@@ -209,6 +209,32 @@ Pharmacy technicians are responsible for:
 - Verifying information for prescription processing and billing
 - Confirming **prescriber details** and known allergies
 
+##### 🔔 Ringing Up Prescriptions
+
+When a patient arrives to pick up a prescription, this is the final opportunity to verify information, ensure legal compliance, and offer pharmacist counseling.
+
+1. 📋 Begin by asking:
+   - Patient’s **last name and date of birth** to pull up their profile
+   - Retrieve the correct prescription bag from the **alphabetized pickup shelf**
+   - Confirm the patient's **address and phone number** (if on file)
+   - ⚠️ For **Controlled Substances**:
+     - Request and **verify the patient's ID** (check state/federal ID laws)
+     - May be required to log ID info depending on drug and local regulation
+2. 💬 Ask final screening questions (especially for new or changed therapies):
+   - “Have you started taking any new vitamins or supplements?”
+   - “Any new allergies?”
+   - “Have you filled prescriptions at another pharmacy recently?”
+   - “Would you like to receive a flu or other vaccine today?”
+   - ⚠️ "Do you eat grapefruit?" (for certain medications)
+3. 💵 Copay & Payment:
+   - Inform the patient of their **copay** amount (have a calculator handy)
+   - If it’s a **partial fill**, do **not** collect copay until the remainder is dispensed
+   - Accept payment (cash, credit, or other methods)
+4. ✍️ Have the patient **sign the pickup log**
+     - Used for insurance reimbursement
+     - Reviewed during pharmacy audits
+     - 🧑‍⚕️ Offer to have the **pharmacist counsel** the patient, especially for new medications, changes in therapy, or if the patient appears confused. Make sure to document the outcome!
+
 #### ⚙️ Back-End
 
 The back-end contains workspaces for filling, compounding, and storage.
