@@ -1,4 +1,4 @@
-# Chapter 1: Pharmacies - Duties, Law, & Ethics
+# Chapter 1: Pharmacies - Duties, Services, Law, & Ethics
 
 ## Ethics
 
