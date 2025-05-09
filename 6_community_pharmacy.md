@@ -214,7 +214,16 @@ Community (or retail) pharmacy practice involves providing prescription and heal
 - **Mass Merchandiser Pharmacies**: Large retail chains like Walmart, Target, or Costco that have in-store pharmacies.
 - **Food Store Pharmacies**: Grocery chains such as Publix or Wegmans that include pharmacy departments.
 
-## Interpersonal Activities
+### Walk-In Clinics
+
+Some pharmacy locations operate on-site clinics staffed by **nurse practitioners (NPs)** or **physician assistants (PAs)**. Examples include:
+
+- **CVS MinuteClinic**
+- **Walgreens Healthcare Clinic**
+
+These clinics provide minor acute care services such as infection treatment, injury care, health screenings, and immunizations. Technicians help with patient intake, record keeping, and coordinating follow-up.
+
+### Interpersonal Activities
 
 Strong communication skills are essential in community pharmacy settings.
 
@@ -226,7 +235,7 @@ Strong communication skills are essential in community pharmacy settings.
 - Follow facility procedures
 - Refer clinical questions or concerns to the pharmacist
 
-### At the Counter
+#### At the Counter
 
 Pharmacy technicians:
 
@@ -238,7 +247,7 @@ Pharmacy technicians:
 
 > **Combat Methamphetamine Epidemic Act (CMEA, 2005)**: Requires that pseudoephedrine-containing products be sold only in face-to-face transactions. Drive-Thru sales are allowed if compliant with ID check, logbook entry, and purchase limits. purchase limits.
 
-### On the Phone
+#### On the Phone
 
 Pharmacy technicians may:
 
@@ -249,15 +258,3 @@ Pharmacy technicians may:
 - Maintain a professional and courteous tone at all times
 
 > All phone conversations involving patient information are subject to **HIPAA (1996)** privacy standards.
-
-## Services Offered
-
-### Walk-In Clinics
-
-Some pharmacy locations operate on-site clinics staffed by **nurse practitioners (NPs)** or **physician assistants (PAs)**. Examples include:
-
-- **CVS MinuteClinic**
-- **Walgreens Healthcare Clinic**
-
-These clinics provide minor acute care services such as infection treatment, injury care, health screenings, and immunizations. Technicians help with patient intake, record keeping, and coordinating follow-up.
-
