@@ -60,8 +60,6 @@ California State Licensure Requirements:
 
 ### Advancement
 
-Pharmacy technicians can pursue additional certifications and training to move into more advanced or specialized roles.
-
 A **Certified Pharmacy Technician (CPhT)** is credentialed by organizations such as the ***Pharmacy Technician Certification Board (PTCB)*** or ***National Healthcareer Association (NHA)***. Certification demonstrates advanced competency and may qualify technicians for expanded duties, such as medication reconciliation or billing.
 
 - **Benefits**: National recognition, greater job opportunities, higher wages, enhanced credibility
@@ -70,14 +68,7 @@ A **Certified Pharmacy Technician (CPhT)** is credentialed by organizations such
   - 1 hour in **Pharmacy Law**
   - 1 hour in **Patient Safety**
 
-In hospital settings especially, there is increased focus on:
-
-- ⚠️ Medication safety  
-- 📋 Regulatory compliance  
-- 🤖 Automation  
-- 🧭 Transitions of care  
-- 💉 Sterile compounding  
-- 🚨 Drug shortage management  
+Pharmacy technicians can pursue additional certifications and training to move into more advanced or specialized roles.
 
 | 🏅 Certification/Training | 📘 Description | ⚙️ Common Setting |
 |---------------------------|----------------|-------------------|
@@ -162,3 +153,83 @@ Pharmacy technicians may:
 - 🧑‍💼 Maintain a professional and courteous tone at all times
 
 > 🔐 All phone conversations involving patient information must comply with HIPAA (1996) privacy standards.
+
+## 🏥 Hospital Pharmacies
+
+### Specialized Roles
+
+Hospital pharmacies are more complex than retail settings and often include specialized roles that support inpatient and outpatient care, automation, and compliance.
+
+| 👔 Title | 📝 Brief Description |
+|--------|---------------------|
+| 🛡️ Medication Safety & Compliance Technician | Ensures that medication handling follows regulatory and safety protocols; tracks errors and near misses. |
+| 🔄 Inpatient Transitions of Care Technician | Coordinates medication reconciliation during patient admissions, transfers, and discharges to prevent errors. |
+| 🚶 Outpatient Transitions of Care Technician | Works with patients recently discharged to ensure accurate outpatient prescriptions and follow-up. |
+| 🤖 Inpatient Automation Technician | Maintains and operates automated medication dispensing systems (e.g., Pyxis, Omnicell) within the hospital. |
+| 🧾 Outpatient Automation Technician | Manages automation technologies in outpatient pharmacy settings, including prescription filling robots. |
+| 🧪 Investigational Drug Services Technician | Handles storage, documentation, and dispensing of clinical trial medications under strict study protocols. |
+
+#### 🛡️ Medication Safety & Compliance Technician
+
+- Ensures that medication handling complies with **Standard Operating Procedures (SOPs)**
+- Tracks medication errors and near misses
+- Monitors recalls from the Board of Pharmacy, FDA, manufacturers, and wholesalers
+- Maintains regulatory documentation and the internal medication safety website
+- Coordinates inspections to remove expired stock
+- Assists the Medication Safety & Compliance Pharmacist
+- Provides staff training and supports regulatory readiness
+
+📍 Setting: Inpatient, Outpatient, Hospital Outpatient
+
+#### 🔄 Inpatient Transitions of Care Technician
+
+- Conducts Medication Reconciliation during admissions, transfers, and discharges
+- Supports pharmacists in **Drug Utilization Review (DUR)**
+- Helps prevent medication errors during transitions of care
+
+📍 Setting: Hospital Inpatient
+
+#### 🚶 Outpatient Transitions of Care Technician
+
+- Ensures accurate prescription continuity post-discharge
+- Collaborates with nurses, pharmacists, PCTs, physicians, and social workers
+- Aims to reduce 30-day readmission rates (typically around 20%)
+
+📍 Setting: Hospital Outpatient
+
+#### 🤖 Inpatient Automation Technician
+
+- Maintains and operates **Automated Dispensing Cabinets (ADCs)** such as Pyxis and Omnicell
+- Optimizes inventory levels based on usage
+- Configures and loads new automation systems
+- Assists in rollout of new ADCs and ensures system integration
+- Implements **Pharmacy & Therapeutics (P&T) Committee** decisions into automation
+- Investigates and resolves narcotic discrepancies and medication errors
+- Supports Barcode Medication Administration (BCMA) system implementation
+
+📍 Setting: Inpatient
+
+### 🧾 Outpatient Automation Technician
+
+- Manages automation in outpatient settings, including:
+  - Prescription-filling robots
+  - Labelers and counting machines
+  - Pick-to-light control systems
+  - Will-call systems
+- Troubleshoots automation issues
+- Coordinates with pharmacy supervisors to manage inventory
+
+📍 Setting: Outpatient
+
+### 🧪 Investigational Drug Services (IDS) Technician
+
+- Works with Investigational Drug Pharmacist to support clinical trials
+- Prepares, labels, and distributes investigational medications per protocol
+- Manages inventory and ensures study medication availability
+- Compounds medications extemporaneously following strict QA/SOPs
+- Coordinates sponsor visits and audits
+- Maintains protocol binders, regulatory documents, and budget forms
+- Conducts database entry, billing reconciliation, and compliance audits
+- Assists in orienting pharmacy staff to new studies
+
+📍 Setting: Inpatient, Research Pharmacies
