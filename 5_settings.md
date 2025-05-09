@@ -243,6 +243,8 @@ The back-end contains workspaces for filling, compounding, and storage.
 
 Used to prepare most prescriptions after grabbing them from **storage**.
 
+> 🧹 Keep all counters and prescription prep areas **clean and clutter-free**. Periodically wipe down **counting trays, counters, and equipment** with **70% isopropyl alcohol**
+
 Prescription counters equipped with:
 
 - 🏷️ Prescription labels  
@@ -263,7 +265,6 @@ Prescription counters equipped with:
   - e.g., **Kirby Lester KL1**  
     - Includes scan verification of NDC and prescription to reduce errors
 
-✅ Must be kept **clean and organized**  
 ✅ All prescriptions are **checked by the pharmacist before moving to pickup** bins
 
 > ⚖️ **Poison Prevention Packaging Act (PPPA, 1970)**  
@@ -293,6 +294,8 @@ Automated Filling Machines
 ##### 🧪 Compounding Area
 
 Used to prepare customized medications such as suspensions, ointments, and creams.
+
+> 🧹 Ensure the **compounding area** and sink are disinfected regularly and meet sanitary standards
 
 **Key Features:**
 
@@ -369,7 +372,16 @@ When receiving an order, accuracy is essential. Technicians must:
 
 #### Other/ Administrative Duties
 
-Besides keeping the p
+📦 **Stocking Supplies**
+
+Technicians are responsible for restocking commonly used pharmacy supplies, including:
+
+- 💊 Prescription vials, lids, and bottles (various sizes)
+- 🏷️ Prescription labels and auxiliary sticker rolls
+- 🧻 Printer paper and **receipt rolls** for the cash register
+- 🛍️ Prescription bags for pickups and deliveries
+
+> 🔁 Supplies should be checked at the **start and end of each shift** or according to pharmacy policy.
 
 ## 🏥 Hospital Pharmacies
 
