@@ -156,6 +156,7 @@ Typically a front-end task, though back-end technicians may also assist. On the 
 
 > 🔐 All phone conversations involving patient information must comply with **HIPAA (1996)** privacy standards.  
 > ✅ Use at least two patient identifiers to confirm their identity.
+> 💌 Some large pharmacies send text messages to patients to communicate updates on prescriptions and their status. This information may also be available through their official smartphone apps.
 
 ##### 🛒 In-Store Counters
 
@@ -187,6 +188,8 @@ New prescriptions may be submitted by:
 - 📠 Faxed prescriptions  
 - ☎️ Verbal orders (received directly by the pharmacist)  
 - 🧾 E-scripts through HIPAA-compliant Electronic Data Interchange (EDI)
+
+> 📠 For accuracy and improved record keeping, many pharmacies scan the prescription into the pharmacy dispensing system.
 
 Refills can be requested:
 
