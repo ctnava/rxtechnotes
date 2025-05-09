@@ -190,7 +190,17 @@ Key Points:
 
 ### 💊 Formularies
 
-A **formulary** is a list of medications approved and covered by an insurer or institution. Formularies guide what medications can be **dispensed, substituted, or reimbursed**.
+A **formulary** is a list of prescription drugs that are approved for use and **covered by an insurer, pharmacy benefit manager (PBM), or healthcare institution**. Formularies determine which medications are preferred, **substitutable**, or **reimbursable**, helping control costs and ensure safe, effective therapy.
+
+- **Open Formulary**  
+  - Offers **broad coverage** with few restrictions  
+  - **Most medications are covered**, including non-preferred drugs  
+  - Allows greater flexibility but can result in higher overall costs
+
+- **Closed Formulary**  
+  - **Strictly limits** coverage to a specific list of medications  
+  - **Non-formulary drugs are not reimbursed** without prior authorization  
+  - Helps control spending and standardize treatment
 
 🏥 **Institutional Settings**:
 
