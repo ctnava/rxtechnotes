@@ -225,7 +225,6 @@ When a patient arrives to pick up a prescription, this is the final opportunity 
    - “Any new allergies?”
    - “Have you filled prescriptions at another pharmacy recently?”
    - “Would you like to receive a flu or other vaccine today?”
-   - ⚠️ "Do you eat grapefruit?" (for certain medications)
 3. 💵 Copay & Payment:
    - Inform the patient of their **copay** amount (have a calculator handy)
    - If it’s a **partial fill**, do **not** collect copay until the remainder is dispensed
