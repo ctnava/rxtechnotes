@@ -14,9 +14,9 @@ Pharmacy technicians exist to **free up the pharmacist’s time** for more clini
 
 > ⚖️ In **California**, pharmacists may supervise **up to two** technicians. However, if only **one pharmacist** is on duty, the ratio must be **1:1**. Limits vary from state to state.
 
-## 🔬 Scope of Practice
+🔬 **Scope of Practice**
 
-The **scope of practice** varies from state to state but generally includes:
+The scope varies from state to state but generally includes:
 
 - 🏥 Assisting the pharmacist in labeling and filling prescriptions (in both **inpatient** and **outpatient** settings)  
 - 📦 Helping patients drop off and pick up prescriptions  
@@ -28,7 +28,7 @@ The **scope of practice** varies from state to state but generally includes:
 
 > 🎖️ Pharmacy technicians in the armed services may dispense medications under the supervision of pharmacists.
 
-### 🛑 Limitations
+🛑 **Limitations**
 
 Technicians are not allowed to:
 
@@ -38,9 +38,39 @@ Technicians are not allowed to:
 - ❌ Act as the final authority on verifying dosage or directions  
 - ❌ Provide patient counseling (this is strictly a pharmacist role)
 
-### 🚀 Career Advancement
+## 🚀 Career
 
-Pharmacy technicians can pursue additional certifications and training to move into more advanced or specialized roles. In hospital settings especially, there is increased focus on:
+### Basic Requirements
+
+Pharmacy Technicians must be licensed and registered in most states. Licensure allows them to perform pharmacy tasks under pharmacist supervision and ensures adherence to local laws. **Requirements are state-specific**, but commonly include:
+
+- Completion of a state-approved training program
+- Passing a national exam (PTCE or ExCPT)
+- Background checks and drug screening
+- Application through the **State Board of Pharmacy**
+
+California State Licensure Requirements:
+
+- **Proof of Education**: transcript or notarized copy of diploma OR GED / HiSET/ TASC + CHSPE
+- **Proof of Training**: affidavit of ASHP-accredited coursework, associates degree in Pharmacy Technology, or graduation from a ACPE-accredited school of pharmacy
+- **Supporting Documents (optional; skips training)**: PTCB Certification or DD-214
+- **CE Requirements**: 20 hours every 2 years, including **1 hour in cultural competency**
+- **Renewals**: Notices mailed 90 days before expiration; licenses are canceled if not renewed within 90 days post-expiration
+- **License Portability**: California has **no reciprocity**; technicians moving to other states must reapply there. Returning to CA may require full reapplication if the license was canceled
+
+### Advancement
+
+Pharmacy technicians can pursue additional certifications and training to move into more advanced or specialized roles.
+
+A **Certified Pharmacy Technician (CPhT)** is credentialed by organizations such as the ***Pharmacy Technician Certification Board (PTCB)*** or ***National Healthcareer Association (NHA)***. Certification demonstrates advanced competency and may qualify technicians for expanded duties, such as medication reconciliation or billing.
+
+- **Benefits**: National recognition, greater job opportunities, higher wages, enhanced credibility
+- **Exams**: Must pass either the ***Pharmacy Technician Certification Exam (PTCE)*** (by the PTCB) or ***Examination for Certified Pharmacy Technicians (ExCPT)*** (by the NHA)
+- **Recertification**: Every 2 years, requiring 20 hours of ASHP-accredited **Continuing Education (CE)**, including:
+  - 1 hour in **Pharmacy Law**
+  - 1 hour in **Patient Safety**
+
+In hospital settings especially, there is increased focus on:
 
 - ⚠️ Medication safety  
 - 📋 Regulatory compliance  
@@ -57,8 +87,6 @@ Pharmacy technicians can pursue additional certifications and training to move i
 | Six Sigma / Lean Training | Process improvement and error reduction methods | 🏥 Hospital, 🛒 Retail |
 | Basic Life Support (BLS) Certification | CPR/AED training for emergency readiness | 🏥 Hospital |
 | Leadership or Supervisor Training | Prepares techs to oversee operations or manage teams | 🛒 Retail, 🏥 Hospital |
-
-#### 🧭 Pathways to Pharmacy School
 
 Some retail pharmacy chains incentivize loyalty by providing tuition reimbursement or career pipelines into pharmacy school. This includes:
 
