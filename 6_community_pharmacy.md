@@ -58,48 +58,72 @@ These clinics provide minor acute care services such as infection treatment, inj
 
 #### 💉 Vaccines
 
-Vaccines help your body build protection against infectious diseases by "teaching" your immune system to recognize and respond to viruses or bacteria. They usually contain inactive or weakened parts of a pathogen, or a genetic blueprint that prompts an immune response.
+Vaccines help your body build protection against infectious diseases by "teaching" your immune system to recognize and respond to viruses or bacteria. They usually contain inactive or weakened parts of a pathogen, or a genetic blueprint that prompts an immune response. Under normal ciscumstances, the **Centers for Disease Control & Prevention (CDC)** publishes revised adult immunization schedules annually.
 
 > **Herd Immunity** is a phenomenon where a sufficient proportion of a population is immune to a disease, indirectly protecting those who are not immune. This is crucial to protecting **public health** by making it harder for pathogens to spread to those who are not vaccinated (like babies or the immunocompromised).
 
-##### 📋 Common Vaccines & Their Details
+The Advisory Committee on Immunization Practices is responsible for:
 
-| Vaccine | Pathogen(s) | Frequency | Indications |
-|--------|-------------|-----------|-------------|
-| **Flu** | Influenza A/B | Annual | All adults; high-risk populations (elderly, immunocompromised, healthcare workers) |
-| **COVID-19** | SARS-CoV-2 | Annual or updated booster as recommended | Adults and children per CDC guidance |
-| **MMR** | Measles, Mumps, Rubella | 2 doses (childhood); 1 booster for travel | Required for school; travel to endemic areas |
-| **Tdap** | Tetanus, Diphtheria, Pertussis | Every 10 years (booster); during pregnancy | Adults every 10 years; pregnancy; wound care |
-| **Hepatitis B** | Hepatitis B virus | 2–3 dose series | Healthcare workers; infants; high-risk adults |
-| **HPV** | Human papillomavirus | 2–3 doses depending on age | Preteens (ages 11–12); adults up to age 26 |
-| **Varicella** | Varicella-zoster virus | 2 doses | Those without prior infection; school entry |
-| **Meningococcal** | Neisseria meningitidis | 1–2 doses (some require boosters) | Teens; college students; military recruits |
+- Advising the CDC on national immunization policy
+- Advising the National Institutes of Health (NIH) on research priorities related to vaccines
+- Establishing the vaccine antigen components for manufacturers
+- Determining the legitimacy of any legal claims related to vaccines
+
+📋 **Common Vaccines**
+
+| Vaccine | Pathogen(s) | Frequency | Indications | Required in Healthcare? |
+|---------|-------------|-----------|-------------|-------------------------|
+| **Flu** | Influenza (Multiple Strains) | Annual | All patients over 6 months or status unknown (regardless of health) | ✅ Yes (required during flu season) |
+| **COVID-19** | SARS-CoV-2 | Annual or updated booster as recommended | Adults & Children | ✅ Yes (often required) |
+| **MMR** | Measles, Mumps, Rubella | 2 doses (childhood); 1 booster for travel | Required for school; travel to endemic areas | ✅ Yes (2 documented doses or positive titer) |
+| **Tdap** | Tetanus, Diphtheria, Pertussis | Every 10 years (booster); during pregnancy | Adults every 10 years; pregnancy; wound care | ✅ Yes (1-time dose + boosters) |
+| **Hepatitis B** | Hepatitis B virus | 2–3 dose series | Healthcare workers; infants; high-risk adults | ✅ Yes (OSHA-mandated) |
+| **HPV** | Human papillomavirus | 2–3 doses depending on age | Preteens (ages 11–12); adults up to age 26 | ❌ No |
+| **Varicella** | Varicella-zoster virus | 2 doses | Those without prior infection; school entry | ✅ Yes (or documented immunity) |
+| **Meningococcal** | Neisseria meningitidis | 1–2 doses (some require boosters) | Teens; college students; military recruits | ⚠️ Conditional (recommended for lab workers) |
 
 > 📌 **Note**: Vaccination schedules vary by age, health status, and exposure risk. Always consult the CDC immunization schedule.
 
-##### 🧪 Pharmacy Technician Responsibilities
+In the U.S., there is an effective reminder system for childhood vaccinations, but adult immunizations are often overlooked due to the lack of consistent tracking or reminders. As of 2011, the pneumococcal vaccination rate was **62% for elderly adults** and only **20% for younger adults**.
 
 Pharmacy technicians support immunization efforts by:
 
-- 🔢 Entering vaccine prescriptions and billing claims (especially Medicare Part D or private insurance)
-- 📄 Providing **CDC Vaccine Information Statements (VIS)** and obtaining consent forms
-- 🧊 Verifying cold chain compliance (refrigeration and storage logs)
-- 📆 Assisting with vaccine recordkeeping and appointment scheduling
+- ⚠️ **Identifying patients** eligible for recommended vaccines
+- 🔢 **Entering vaccine prescriptions** and processing billing claims (especially through **Medicare Part D** and private insurers)
+- 📄 Providing **CDC Vaccine Information Statements (VIS)** and collecting signed consent forms
+- 🧊 Ensuring **cold chain compliance** by monitoring storage temperatures and logging refrigeration
+- 📆 Assisting with **vaccine recordkeeping** and **appointment scheduling**
 
 > ⚠️ **Tech Vaccine Authority**: In many states, technicians may administer certain vaccines after completing approved training programs and certification, per state board rules and under **HHS guidance** (especially during public health emergencies).
 
-### 🩺 Disease State Management (DSM)
+##### 🧪 Immunization Initiatives in Retail
 
-Pharmacists provide **Disease State Management** services to help patients with chronic conditions understand and manage their illnesses. Common conditions include:
+💬 **Patient Conversations & Screening**
 
-- Diabetes
-- Hypertension
-- Asthma
-- Hyperlipidemia
+As the first point of contact in a pharmacy, technicians should be alert for opportunities to educate and screen patients. Start simple:
 
-DSM programs often involve patient counseling, medication adherence support, lifestyle education, and clinical monitoring. Technicians support DSM by scheduling appointments, preparing documentation, and assisting with data collection.
+"**Have you had your flu shot this year?**"
 
-> ⚖️ DSM is **not mandated by federal law**, but it is commonly implemented under **MTM programs (via MMA, 2003)** and **state Medicaid or managed care plans**.
+> 🤧 Some patients believe the flu vaccine causes illness. You can clarify that protection takes ~2 weeks to develop and the vaccine itself doesn't cause the flu.
+
+Use patient cues to suggest vaccine needs:
+
+| Cue | Suggestion |
+|-----|------------|
+| 🍼 Buying baby supplies or mentions of pregnancy | Recommend **Tdap** and **flu** for pregnant individuals and close contacts. Pertussis and flu can be dangerous to newborns. |
+| ✈️ Travel plans or purchase of motion sickness meds (e.g., Dramamine) | Suggest **Hepatitis A** vaccine—second only to travelers’ diarrhea for travel-related illness. |
+| 🤧 Persistent cough or "whooping" sound | Raise the possibility of **pertussis** exposure; refer to pharmacist for evaluation. |
+| 💉 Diabetic supply purchases | Screen for **flu**, **pneumococcal**, **Hepatitis B**, and **Tdap** vaccines. Diabetics are at higher risk for complications. |
+
+> 💡 **Tip**: The **Immunization Action Coalition** (immunize.org) provides free tools for adult vaccine screening that pharmacy staff can use during patient intake.
+
+##### 🧪 Immunization Initiatives in Hospitals
+
+The Centers for Medicare and Medicaid Services are monitoring hospitals to ensure they are immunizing against flu and pneumonia. Hospitals not immunizing properly may not receive full reimbursement
+
+##### ⚠️ Vaccine Errors
+
+Zoster should only be used in adults and never in children because ...
 
 ### Requirements Set Forth by Law
 
@@ -136,3 +160,16 @@ The **Medicare Modernization Act (MMA, 2003)** established Part D of the program
 Technicians assist by preparing medication histories, documentation, and assisting with insurance or billing tasks.
 
 > 🔐 **HIPAA (1996)**: Requires all patient health information (PHI) obtained during Counseling, DSM, MTM services to be kept strictly confidential.
+
+#### 🩺 Disease State Management (DSM)
+
+Pharmacists provide **Disease State Management** services to help patients with chronic conditions understand and manage their illnesses. Common conditions include:
+
+- Diabetes
+- Hypertension
+- Asthma
+- Hyperlipidemia
+
+DSM programs often involve patient counseling, medication adherence support, lifestyle education, and clinical monitoring. Technicians support DSM by scheduling appointments, preparing documentation, and assisting with data collection.
+
+> ⚖️ DSM is **not mandated by federal law**, but it is commonly implemented under **MTM programs (via MMA, 2003)** and **state Medicaid or managed care plans**.
