@@ -22,6 +22,19 @@ These clinics provide minor acute care services such as infection treatment, inj
 
 > **State Scope-of-Practice Laws**: Determine whether technicians may assist in clinic-related activities or administer vaccines under pharmacist supervision.
 
+### Disease State Management (DSM)
+
+Pharmacists provide **Disease State Management** services to help patients with chronic conditions understand and manage their illnesses. Common conditions include:
+
+- Diabetes
+- Hypertension
+- Asthma
+- Hyperlipidemia
+
+DSM programs often involve patient counseling, medication adherence support, lifestyle education, and clinical monitoring. Technicians support DSM by scheduling appointments, preparing documentation, and assisting with data collection.
+
+> **HIPAA (Health Insurance Portability and Accountability Act, 1996)**: Requires all patient health data to be kept confidential. Pharmacy staff must protect patient privacy during all DSM and MTM services.
+
 ### Vaccines
 
 Pharmacy technicians support vaccination programs by:
@@ -67,19 +80,6 @@ The ***Medicare Modernization Act (MMA, 2003)*** established Part D of the progr
 
 Technicians assist by preparing medication histories, documentation, and assisting with insurance or billing tasks.
 
-### Disease State Management (DSM)
-
-Pharmacists provide **Disease State Management** services to help patients with chronic conditions understand and manage their illnesses. Common conditions include:
-
-- Diabetes
-- Hypertension
-- Asthma
-- Hyperlipidemia
-
-DSM programs often involve patient counseling, medication adherence support, lifestyle education, and clinical monitoring. Technicians support DSM by scheduling appointments, preparing documentation, and assisting with data collection.
-
-> **HIPAA (Health Insurance Portability and Accountability Act, 1996)**: Requires all patient health data to be kept confidential. Pharmacy staff must protect patient privacy during all DSM and MTM services.
-
 ## Interpersonal Activities
 
 Strong communication skills are essential in community pharmacy settings.
@@ -113,7 +113,7 @@ Pharmacy technicians may:
 - Answer general questions about prescription status or store services
 - Take refill requests from patients or automated systems
 - Contact prescribers for refill authorizations or clarification
-- Relay messages to the pharmacist
+- Relay messages or hand off the call to the pharmacist
 - Maintain a professional and courteous tone at all times
 
 > All phone conversations involving patient information are subject to **HIPAA** privacy standards.
