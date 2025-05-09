@@ -96,6 +96,18 @@ Community (or retail) pharmacy practice involves providing prescription and heal
 - 🛒 **Mass Merchandiser Pharmacies**: Large retail chains like Walmart, Target, or Costco that have in-store pharmacies.
 - 🥕 **Food Store Pharmacies**: Grocery chains such as Publix or Wegmans that include pharmacy departments.
 
+Strong communication skills are essential in community pharmacy settings because pharmacy technicians working here are the most exposed to patients.
+
+✅ Best practices:
+
+- Listen actively and make eye contact  
+- Confirm understanding by repeating concerns  
+- Use a respectful, positive tone  
+- Refer to patients by name when possible  
+- Identify the pharmacy when answering the phone  
+- Always follow facility policies and procedures  
+- Refer all clinical questions to the pharmacist
+
 🏥 **Walk-In Clinics**
 
 Some pharmacy locations operate on-site clinics (e.g. CVS MinuteClinic or Walgreens Healthcare Clinic) staffed by:
@@ -114,37 +126,79 @@ Pharmacy technicians may assist with:
 
 - Patient intake and registration  
 - Electronic health record (EHR) entry  
-- Coordinating follow-up or referrals  
+- Coordinating follow-up or referrals
 
-### 🗣️ Interpersonal Skills
+### Community Pharmacy Layout
 
-Strong communication skills are essential in community pharmacy settings.
+Community pharmacies are divided into front-end and back-end areas, each serving specific functions.
 
-✅ Best practices:
+#### 🧾 Front-End
 
-- Listen actively and make eye contact  
-- Confirm understanding by repeating concerns  
-- Use a respectful, positive tone  
-- Refer to patients by name when possible  
-- Identify the pharmacy when answering the phone  
-- Always follow facility policies and procedures  
-- Refer all clinical questions to the pharmacist
+The front-end is where patients interact directly with pharmacy staff.
 
-#### 🧾 At the Counter
+**Key Features:**
 
-Pharmacy technicians:
+- **Transaction Windows**: Designated areas for drop-off and pickup of prescriptions.
+- **Prescription Pickup Bins/Shelves**: Storage for prescriptions awaiting pickup; alphabetized by last name.
+- **Point-of-Sale (POS)**: Technicians ring up prescriptions and over-the-counter items.
 
-- 📥 Receive and enter prescriptions accurately  
-- 💳 Verify insurance and assist with billing issues  
-- 🛍️ Retrieve and ring up prescriptions  
-- 🧑‍⚕️ Direct patients to the pharmacist for counseling  
-- 🧴 Manage front-end sales of pharmacy-related items
+> ⚖️ Under HIPAA, transaction windows must be positioned to ensure patient privacy.
 
-> ⚖️ **Combat Methamphetamine Epidemic Act (CMEA, 2005)**: Requires that pseudoephedrine-containing products be sold only in face-to-face transactions. Drive-Thru sales are allowed if compliant with ID check, logbook entry, and purchase limits. purchase limits.
+##### 🛒 In-Store Counters
 
-#### ☎️ On the Phone
+- Some pharmacies have separate windows for intake and dispensing.
+- Most include a private or semi-private consultation area for the pharmacist.
+- May include self-service kiosks or health screening stations.
 
-Pharmacy technicians may:
+##### 🚗 Drive-Thru
+
+Many chain pharmacies have a drive-thru window for patient convenience.
+
+**Drive-Thru Functions:**
+
+- Drop off new prescriptions
+- Provide insurance information or ID
+- Return empty vials for refill
+- Pick up filled prescriptions
+- Pay via credit card or cash (passed through drawer)
+
+> ⚖️ **Combat Methamphetamine Epidemic Act (CMEA, 2005)**: Pseudoephedrine-containing products must be sold in face-to-face transactions. Drive-Thru sales are permitted only if compliant with ID checks, logbook entry, and purchase limits.
+
+#### ⚙️ Back-End
+
+**Non-Compounded Prescription Area:**
+
+- Includes **prescription counters** with:
+  - Counting trays
+  - Vials and lids
+  - Prescription labels
+  - Auxiliary and warning labels
+- Must be kept clean and organized
+- All prescriptions are checked by the pharmacist before moving to the pickup bins
+
+**Compounding Area:**
+
+- Used for mixing medications such as powders, creams, or suspensions
+- Must have an easily accessible, clean sink
+- **Common Equipment**:
+  - Glass mortar & pestle
+  - Prescription balance and metric weights
+  - Graduated cylinders for liquid measurement
+  - Spatulas, ointment slab or parchment paper
+  - Funnels, stirring rods
+
+> 🔬 Some pharmacies may include a clean room for **Compounded Sterile Preparations (CSPs)**.
+
+**Storage Area:**
+
+- Organized shelving, cabinets, or drawers for drug inventory
+- **C-II medications** must be kept in locked storage
+- **C-III through C-V medications** may be stored on open shelves
+- Pharmacy refrigerator must be used exclusively for medications—no food or beverages allowed
+
+#### Hybrid Duties
+
+On the phone pharmacy technicians may:
 
 - 📞 Answer general questions about prescription status or store services  
 - 🔁 Take refill requests from patients or automated systems  
