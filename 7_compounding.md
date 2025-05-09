@@ -1,4 +1,4 @@
-# IV
+# Compounded Medications
 
 ## 📚 United States Pharmacopeia–National Formulary (USP–NF)
 
@@ -30,7 +30,76 @@ While USP is a **non-governmental organization**, its standards are **legally en
 
 > 🧠 **Quick Fact**: The USP–NF is updated annually, with two supplemental updates each year to reflect evolving scientific standards.
 
-## 💧 Common IV Solutions
+## 💉 Compounded Sterile Preparations (CSPs)
+
+Compounded Sterile Preparations (CSPs) are medications mixed or prepared in a **sterile environment** using **aseptic techniques** to prevent contamination with microorganisms, pyrogens, or particulate matter. These are most often administered via **injection, infusion, or irrigation**, making sterility critical.
+
+CSPs are regulated under **USP <797>**.
+
+### 🧪 Sterile Compounding Environment
+
+Sterile compounding must take place in a **cleanroom suite** or **segregated compounding area (SCA)** using:
+
+- **Laminar airflow workbenches (LAFW)**
+- **Biological safety cabinets (BSC)**
+- **Compounding aseptic isolators (CAIs)**
+- Controlled **ISO-classified environments** (ISO 5 or better for critical areas)
+
+> 📌 *All sterile compounding requires strict aseptic technique.*
+
+### 🏷️ CSP Labeling Requirements
+
+All compounded sterile products must include:
+
+- ✅ Patient name (if patient-specific)
+- ✅ Drug name and **concentration/strength**
+- ✅ Total volume and base solution
+- ✅ Route and rate of administration (e.g., IVPB over 30 mins)
+- ✅ **Beyond-use date (BUD)** and time (not the manufacturer’s expiration date)
+- ✅ Storage requirements (e.g., refrigerate, room temp)
+- ✅ Initials of compounding and verifying personnel
+
+> 📌 *CSPs use a BUD assigned based on stability and USP <797> risk level (e.g., Low, Medium, High risk).*
+
+### 🩸 IV Solutions and Admixtures
+
+**Intravenous (IV) solutions** are a common type of CSP, used to:
+
+- Hydrate patients
+- Deliver medications (e.g., antibiotics, pain meds, chemotherapy)
+- Provide nutrition (**TPN** for NPO or critically ill patients)
+- Replace or balance electrolytes (e.g., sodium chloride, potassium chloride)
+
+IV admixtures are prepared for specific patients based on:
+
+- Weight or body surface area (BSA)
+- Fluid restrictions
+- Lab values (e.g., sodium, creatinine, glucose)
+
+> 🧠 *Admixtures are customized for clinical need and economic practicality. Bulk production is not feasible.*
+
+🔍 **Technician Responsibilities**
+
+Pharmacy technicians involved in sterile compounding must:
+
+- Complete **initial and annual training/competency evaluations**
+- Pass **media fill tests** and **gloved fingertip testing**
+- Perform accurate calculations and measurements
+- Prepare products under pharmacist supervision using **cleanroom protocol**
+- Maintain proper **hand hygiene, garbing, and environmental cleaning**
+
+🛡️ **Final Product Checks**
+
+Every CSP must be verified by a pharmacist before dispensing. Checks include:
+
+- Correct **drug and dose**
+- Compatibility and **physical stability** (e.g., absence of precipitation)
+- Proper **labeling** and documentation
+- Compliance with BUD and storage requirements
+
+> 🚨 *Any visible contamination, cloudiness, or color change renders the product unfit for use.*
+
+#### 💧 Common IV Solutions & Uses
 
 | Abbreviation | Full Name  | Composition | Osmolarity (Relative to Blood) | Clinical Use / Indication | Special Considerations |
 |--------------|------------|-------------|--------------------------------|--------------------------|------------------------|
