@@ -289,6 +289,54 @@ If the prescription or order is for a controlled substance, technicians must ver
 
 > ⚠️ Always consult with the pharmacist for DUR alerts!
 
+#### 🧩 Partial Fills
+
+A **partial fill** occurs when the pharmacy cannot dispense the full prescribed quantity of a medication, typically due to **insufficient inventory**. In these cases, the pharmacy dispenses a **smaller quantity** temporarily while awaiting restock. For example, a prescription is written for a **90-day supply**, but the pharmacy only has **52 days’ worth** in stock. Instead of turning the patient away, the pharmacy may dispense a **partial fill** (such as a **5-day supply**) to ensure the patient has enough medication and availability of partial fills for other patients until the rest arrives.
+
+> ⚖️ **Best Practice**: Dispense only what is needed to bridge the gap until the full quantity becomes available. Avoid dispensing the entire remaining stock unless appropriate for the situation.
+
+**Copays should NOT be collected** until the remainder of the prescription has been filled and picked up by the patient.
+
+- Collect the full copay **only after** the entire prescribed quantity has been dispensed.
+- This avoids overcharging the patient for an incomplete fill.
+
+##### 🗓️ Follow-Up
+
+- **Notify** the patient when the remainder is available.
+- **Document** the partial fill in the pharmacy system.
+- Ensure the final quantity **matches the total prescribed amount**.
+
+##### 🔒 Schedule II Controlled Substances
+
+**Schedule II** drugs (e.g., oxycodone, morphine, Adderall) have strict federal and state regulations. Partial fills for these medications are allowed in limited circumstances under the **Controlled Substances Act** (21 U.S.C. § 829) and **DEA Final Rule (2016)**.
+
+Partial fills for Schedule II prescriptions are permitted under the following conditions:
+
+1. **Pharmacy Has Insufficient Stock**
+   - If the **pharmacy is out of stock**, a partial fill may be dispensed.
+   - The **remaining quantity must be filled within 72 hours**.
+   - If the remainder cannot be filled within 72 hours, the pharmacist must:
+     - **Notify the prescriber**, and
+     - **Void** the remainder of the prescription.
+   - A new prescription is required for any remaining quantity after 72 hours.
+
+2. **Patient or Prescriber Request (Including LTCF and Terminal Illness)**
+   - Under the **Comprehensive Addiction and Recovery Act (CARA)** and DEA Final Rule, partial fills are allowed **at the patient or prescriber’s request**.
+   - The remainder must be filled within **30 days** of the prescription date.
+   - Applies to:
+     - Standard patients (if requested)
+     - **Long-Term Care Facility (LTCF)** residents
+     - **Terminally ill** patients
+
+> 🧠 Must document "terminally ill" or "LTCF patient" on the prescription record.
+
+Each partial fill must be **recorded in the pharmacy system**, including:
+
+- Quantity dispensed
+- Date of each fill
+- Remaining balance
+- Pharmacist initials
+
 #### 🔄 Refills & Refill Requests
 
 Each prescription is assigned a **prescription number**, which stays the same for all refills. The number of authorized refills is written by the prescriber and usually printed on the **prescription label**. If a doctor writes refills (sometimes denoted with “∞”), they are valid for **up to 1 year** from the date the prescription was written, **except for controlled substances**, which have stricter limits.
