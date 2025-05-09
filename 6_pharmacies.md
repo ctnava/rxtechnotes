@@ -58,7 +58,7 @@ Vaccines help your body build protection against infectious diseases by "teachin
 The Advisory Committee on Immunization Practices is responsible for:
 
 - Advising the CDC on national immunization policy
-- Advising the National Institutes of Health (NIH) on research priorities related to vaccines
+- Advising the **National Institutes of Health (NIH)** on research priorities related to vaccines
 - Establishing the vaccine antigen components for manufacturers
 - Determining the legitimacy of any legal claims related to vaccines
 
