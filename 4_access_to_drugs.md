@@ -133,13 +133,13 @@ The ***Controlled Substances Act (CSA, 1970)*** classifies five levels of contro
 
 > **TRIVIA**: The Anabolic Steroids Control Act of 1990 added anabolic steroids (like testosterone) to Schedule III of the CSA.
 
-| Schedule | Mark | 🧾 Description | 💊 Examples | 🔁 Refill Restrictions |
+| Schedule | Mark | 🧾 Description | 💊 Examples | 🔁 Prescribing Restrictions |
 |----------|------|----------------|-------------|------------------------|
 | 🟥 I      | C-I  | 🚫 No accepted medical use, 🆙 high abuse potential | Heroin, LSD, Ecstasy (MDMA), Cannabis* | ❌ **Not allowed** — Cannot be prescribed |
-| 🟥 II     | C-II | ✅ Accepted medical use, 🆙 high abuse risk, severe dependence | Oxycodone (opioid), Methadone (opioid), Fentanyl (opioid), Adderall (most stimulants) | ⛔ **No refills allowed** — New Rx required each time. |
-| 🟧 III    | C-III| ⚠️ Moderate to low physical/psychological dependence potential | Tylenol with Codeine (opioid combo), Ketamine (anesthetic), Testosterone (anabolic steroid) | 🔁 Up to **5 refills** in **6 months**                          |
-| 🟨 IV     | C-IV | 🟡 Low abuse potential and dependence risk | Alprazolam (Xanax), Diazepam (Valium), Zolpidem (Ambien), Tramadol (most benzodiazepines, some sleep aids & analgesics) | 🔁 Up to **5 refills** in **6 months** |
-| 🟩 V      | C-V  | 🟢 Lowest abuse potential, small amounts of narcotics | Robitussin AC (codeine cough syrup), Lomotil (diarrhea), Lyrica (pregabalin) | 🔁 Up to **5 refills** in **6 months**  |
+| 🟥 II     | C-II | ✅ Accepted medical use, 🆙 high abuse risk, severe dependence | Oxycodone (opioid), Methadone (opioid), Fentanyl (opioid), Adderall (most stimulants) | ⛔ **No refills allowed** — New Rx required each time; prescriptions valid for 30 days; prescriptions valid for 30 days to 6 months |
+| 🟧 III    | C-III| ⚠️ Moderate to low physical/psychological dependence potential | Tylenol with Codeine (opioid combo), Ketamine (anesthetic), Testosterone (anabolic steroid) | 🔁 Up to **5 refills** in **6 months**; prescriptions valid for 6 months |
+| 🟨 IV     | C-IV | 🟡 Low abuse potential and dependence risk | Alprazolam (Xanax), Diazepam (Valium), Zolpidem (Ambien), Tramadol (most benzodiazepines, some sleep aids & analgesics) | 🔁 Up to **5 refills** in **6 months**; prescriptions valid for 6 months |
+| 🟩 V      | C-V  | 🟢 Lowest abuse potential, small amounts of narcotics | Robitussin AC (codeine cough syrup), Lomotil (diarrhea), Lyrica (pregabalin) | 🔁 Up to **5 refills** in **6 months**; prescriptions valid for 6 months  |
 
 \*Cannabis remains Schedule I federally, though legal or decriminalized in many U.S. states.
 
@@ -289,7 +289,63 @@ If the prescription or order is for a controlled substance, technicians must ver
 
 > ⚠️ Always consult with the pharmacist for DUR alerts!
 
-#### Hospital Protocol
+#### 🔄 Refills & Refill Requests
+
+Each prescription is assigned a **prescription number**, which stays the same for all refills. The number of authorized refills is written by the prescriber and usually printed on the **prescription label**. If a doctor writes refills (sometimes denoted with “∞”), they are valid for **up to 1 year** from the date the prescription was written, **except for controlled substances**, which have stricter limits.
+
+| Drug Type | Refill Limit | Validity |
+|-----------|---------------|----------|
+| 🧪 **Non-controlled substances** | As prescribed | Up to 1 year |
+| 💊 **Schedule III–V controlled substances** | Max **5 refills** | Within **6 months** of issue date |
+| 🚫 **Schedule II controlled substances** | **Not refillable** | New Rx required each time |
+
+> 🔐 Schedule II prescriptions **cannot be refilled** under any circumstance. A new prescription must be issued each time.
+
+##### 📞 Refill Requests
+
+If no refills remain, **technicians** may contact the prescriber **on behalf of the patient** to request a new prescription. This is typically done when the patient:
+
+- Calls in for a refill
+- Uses a mobile app or website to request one
+
+Once verified, the technician must contact the prescriber’s office using the following procedure.
+
+📝 **Standard Refill Request Procedure**
+
+1. **Gather information** from the patient or system:
+   - Patient’s full name
+   - Date of birth
+   - Medication name, strength, and quantity
+   - Last fill date
+   - Prescription number (if needed)
+
+2. **Call the prescriber’s office** and follow this script:
+
+   > “Hello, this is **[Your Name]** calling from **[Pharmacy Name]**. I’m calling to request a medication refill for a patient.”
+
+3. **Provide patient information**:
+   - “Last name: [Patient Last Name], Date of birth: [DOB]”
+
+4. **Provide medication details**:
+   - “The medication is **[Drug Name, Strength]**, quantity **[##]**.”
+
+5. **Give last fill date**:
+   - “It was last filled on **[MM/DD/YYYY]**.”
+
+6. **State urgency**, if applicable:
+   - E.g., “This is the patient’s emergency heart medication (Nitrostat), and they are on their last dose.”
+
+7. **Give pharmacy contact info** and **document**:
+   - Pharmacy phone/fax number
+   - Receptionist’s name
+   - Date and time of the call
+   - Outcome or notes
+
+If the call goes to voicemail, be sure to leave a message containing all relevant information and document this outcome.
+
+> ✅ Speak slowly, clearly, & succinctly. Use the NATO alphabet when spelling.
+
+#### Inpatient Care
 
 Medication orders in hospital settings have additional requirements:
 
