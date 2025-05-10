@@ -253,7 +253,6 @@ These ingredients are commonly found in cold and allergy medications but can als
 
 - Must be kept Behind-the-Counter or in a locked cabinet.
 - not available for self-service.
-- **Cannot be sold through drive-thru windows**, due to ID and logbook requirements.
 
 🧾 **Sales & Logbook Requirements**:
 
