@@ -192,6 +192,21 @@ These medications are commonly prescribed maintenance medications for long-term 
 
 ---
 
+## 🧩 Miscellaneous
+
+### 💊 Fosamax (Alendronate)
+
+- **Class**: Bisphosphonate
+- **Indication**: Osteoporosis (Prevention and Treatment), Paget's Disease of Bone
+- **How Supplied**: Tablets (5mg, 10mg, 35mg, 40mg, 70mg), Oral Solution
+- **Warnings/Considerations**:
+  - Take on empty stomach, remain upright for 30 minutes
+  - Risk of esophageal irritation, GI issues
+  - May cause osteonecrosis of jaw, unusual bone fractures
+  - Contraindicated in esophageal abnormalities
+
+---
+
 > 🧠 Note: Elderly patients are more sensitive to many medications due to decreased renal clearance, increased fat-to-muscle ratio, and polypharmacy risks. Use caution with CNS-active drugs and monitor closely for side effects.
 
 ## 📋 Geriatric Medication Quick Reference Table
@@ -217,3 +232,4 @@ These medications are commonly prescribed maintenance medications for long-term 
 | Metoclopramide      | Reglan           | **GI Motility Stimulant** / Antiemetic | GERD, Diabetic Gastroparesis        |
 | Levofloxacin        | Levaquin         | Fluoroquinolone **Antibiotic**      | Pneumonia, UTI, Skin Infections          |
 | Metronidazole       | Flagyl           | Nitroimidazole **Antibiotic**       | Anaerobic Infections, C. diff            |
+| Alendrolate         | Fosamax          | Bisphosphonate                      | **Osteoporosis**                          |
