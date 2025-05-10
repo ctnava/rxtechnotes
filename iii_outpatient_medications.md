@@ -79,6 +79,46 @@ These drugs are used in primary care **outpatient** settings, where **volume is 
 
 ---
 
+## 🥣 Gastrointestinal Issues
+
+### 💊 Rabeprazole (Aciphex)
+
+- **Class**: Proton Pump Inhibitor (**PPI**)
+- **Indication**: **GERD**, Ulcers, Zollinger-Ellison Syndrome
+- **How Supplied**: Tablets (Delayed-release)
+- **Warnings/Considerations**:
+  - May cause low magnesium or B12 with long-term use
+  - Take before meals
+
+### 💊 Pantoprazole (Protonix)
+
+- **Class**: Proton Pump Inhibitor (**PPI**)
+- **Indication**: **GERD**, Erosive Esophagitis
+- **How Supplied**: Tablets, Injection
+- **Warnings/Considerations**:
+  - Do not crush or chew delayed-release tablets
+  - Risk of C. difficile with prolonged use
+
+### 💊 Docusate Sodium (Colace)
+
+- **Class**: **Stool Softener**
+- **Indication**: Constipation
+- **How Supplied**: Capsules, Liquid, Tablets
+- **Warnings/Considerations**:
+  - Not for long-term use
+  - Take with a full glass of water
+
+### 💊 Psyllium (Metamucil)
+
+- **Class**: Bulk-Forming **Laxative**
+- **Indication**: Constipation, IBS
+- **How Supplied**: Powder, Capsules
+- **Warnings/Considerations**:
+  - Take with plenty of water to prevent choking
+  - May interfere with absorption of other medications
+
+---
+
 ## 🦠 Anti-Infectives
 
 ### 💊 Amoxicillin (Amoxil)
@@ -108,6 +148,15 @@ These drugs are used in primary care **outpatient** settings, where **volume is 
   - Avoid alcohol during therapy
   - Can cause local irritation
 
+### 💊 Cefadroxil (Duricef)
+
+- **Class**: Cephalosporin **Antibiotic**
+- **Indication**: Skin, throat, and urinary tract infections
+- **How Supplied**: Capsules, Suspension
+- **Warnings/Considerations**:
+  - Cross-reactivity with penicillin allergy possible
+  - Take with food to reduce GI upset
+
 ### 💊 Trimethoprim-Sulfamethoxazole (Bactrim DS, Septra) ⚠️
 
 - **Class**: Sulfonamide **Antibiotic**
@@ -131,8 +180,6 @@ These drugs are used in primary care **outpatient** settings, where **volume is 
   - Monitor thyroid levels regularly
   - Avoid calcium, iron, and aluminum-containing products within 4 hours
 
----
-
 ### 💊 Conjugated Estrogens (Premarin) ⚠️
 
 - **Class**: Estrogen Hormone
@@ -153,9 +200,58 @@ These drugs are used in primary care **outpatient** settings, where **volume is 
   - Smoking increases the risk of cardiovascular events
   - ⚠️ **Patient Package Inserts** must be dispensed with this medication
 
+### 💊 Medroxyprogesterone (Provera)
+
+- **Class**: Progestin Hormone
+- **Indication**: **Hormone Replacement Therapy**, Irregular menstruation, endometriosis, amenorrhea
+- **How Supplied**: Tablets (2.5mg, 5mg, 10mg)
+- **Warnings/Considerations**:
+  - Can cause breakthrough bleeding
+  - May increase risk of breast cancer and blood clots with long-term use
+
+---
+
+## 💨 Respiratory
+
+### 💊 Ipratropium (Atrovent)
+
+- **Class**: Anticholinergic **Bronchodilator**
+- **Indication**: COPD, Chronic Bronchitis
+- **How Supplied**: Inhaler, Nebulizer Solution
+- **Warnings/Considerations**:
+  - May cause dry mouth or bitter taste
+  - Not for acute asthma attacks
+
+### 💊 Fluticasone (Flovent)
+
+- **Class**: Inhaled Corticosteroid
+- **Indication**: **Asthma** maintenance
+- **How Supplied**: Inhaler
+- **Warnings/Considerations**:
+  - Not for rescue use
+  - Rinse mouth after use to prevent oral thrush
+
 ---
 
 ## 🧩 Miscellaneous
+
+### 💊 Cyanocobalamin (Vitamin B12)
+
+- **Class**: Vitamin **Supplement**
+- **Indication**: Vitamin B12 Deficiency, Pernicious Anemia
+- **How Supplied**: Tablets, Injection, Nasal Spray
+- **Warnings/Considerations**:
+  - Monitor B12 levels
+  - May require lifelong supplementation in some patients
+
+### 💊 Diabeta (Glyburide)
+
+- **Class**: Sulfonylurea
+- **Indication**: Type 2 **Diabetes**
+- **How Supplied**: Tablets (1.25mg, 2.5mg, 5mg)
+- **Warnings/Considerations**:
+  - Risk of hypoglycemia
+  - Not first-line; use caution in elderly
 
 ### 💊 Calcium Citrate (Miacalcin Nasal Spray)
 
@@ -174,3 +270,26 @@ These drugs are used in primary care **outpatient** settings, where **volume is 
 - **Warnings/Considerations**:
   - Long-term use can cause skin thinning
   - Avoid use on infected skin
+
+---
+
+## Quick Reference Table
+
+| Generic Name        | Brand Name       | Class                              | Indication                              |
+|---------------------|------------------|------------------------------------|------------------------------------------|
+| Lisinopril          | Zestril          | ACE Inhibitor                      | **Hypertension**, Heart Failure, Chronic Kidney Disease |
+| Metoprolol          | Lopressor        | Beta Blocker                       | **Hypertension**, Angina, Heart Failure, Post-MI |
+| Valsartan           | Diovan           | ARB                                | **Hypertension**, Heart Failure, Post-MI |
+| Hydrochlorothiazide (HCTZ) | Microzide        | Thiazide Diuretic                  | **Hypertension**, Edema                  |
+| Levothyroxine       | Synthroid        | Thyroid Hormone                    | **Hypothyroidism**                       |
+| Fluoxetine          | Prozac           | **SSRI Antidepressant**                | Depression, Anxiety, OCD, Panic Disorder |
+| Eszopiclone         | Sonata           | Non-Benzodiazepine Hypnotic        | **Insomnia**                                 |
+| Zolpidem            | Ambien           | **Sedative/Hypnotic ⚠️ (C-IV)**    | Insomnia                                 |
+| Amoxicillin         | Amoxil           | Penicillin **Antibiotic**              | Bacterial Infections                     |
+| Clarithromycin      | Biaxin           | Macrolide **Antibiotic**               | Respiratory infections, H. pylori infection |
+| Metronidazole       | Metrogel Vaginal | Topical **Antibiotic**                 | Bacterial Vaginosis                      |
+| Trimethoprim-**Sulfa**methoxazole | Bactrim DS, Septra | Sulfonamide **Antibiotic**         | UTI, Pneumonia, Otitis Media             |
+| Conjugated Estrogens| Premarin         | Estrogen Hormone                   | **Menopausal Hormonal Replacement Therapy** |
+| Norethindrone, Ethinyl Estradiol & Ferrous Fumarate | Orthonovum 777 | **Oral Contraceptive**  | Pregnancy Prevention, Menstrual Disorders |
+| Calcium Citrate     | Miacalcin Nasal Spray | Calcitonin                     | **Osteoporosis** (Women at risk of fractures) |
+| Betamethasone       | Kenalog          | Corticosteroid                     | **Inflammatory Skin Conditions**         |
