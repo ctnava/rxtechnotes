@@ -184,6 +184,8 @@ Many chain pharmacies include a drive-thru window for patient convenience.
 
 ##### 💻 Processing Prescriptions
 
+⚠️ ALWAYS for allergies, medications the patient is taking, & if there were any changes to insurance.
+
 New prescriptions may be submitted by:
 
 - 📝 Handwritten forms (often for controlled substances)  

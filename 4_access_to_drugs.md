@@ -285,6 +285,8 @@ When processing prescriptions for intake and order entry, make sure they contain
 - **Product Selection Code (Optional)**: Whether or not the medication is specified to be dispensed as written
 - **Prescriber Signature**: required on all prescriptions
 
+⚠️ ALWAYS for allergies, medications the patient is taking, & if there were any changes to insurance.
+
 If the prescription or order is for a controlled substance, technicians must verify the DEA number (typically automatic) and calculate the Days Supply for billing purposes.
 
 > ⚠️ Always consult with the pharmacist for DUR alerts!
