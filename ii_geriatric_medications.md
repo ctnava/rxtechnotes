@@ -1,6 +1,6 @@
-# 📘 Appendix II: Geriatric Medications (LTC)
+# 📘 Appendix II: Geriatric Maintenance Medications (LTC)
 
-These medications are commonly used in geriatric populations, particularly in Long-Term Care (LTC) settings. Pharmacy technicians should be familiar with their indications, forms, and special considerations.
+These medications are commonly prescribed maintenance medications for long-term management of chronic conditions used in geriatric populations. Pharmacy technicians should be familiar with their indications, forms, and special considerations.
 
 ## ❤️ Cardiovascular Disease
 
