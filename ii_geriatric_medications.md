@@ -188,6 +188,7 @@ These medications are commonly prescribed maintenance medications for long-term 
 - **How Supplied**: Tablets, Capsules, IV, Topical
 - **Warnings/Considerations**:
   - Avoid alcohol (disulfiram-like reaction)
+    - ⚠️ Wait at least 3 days from last dose before consuming alcohol **severe interactions**
   - Can cause metallic taste and GI upset
 
 ---
