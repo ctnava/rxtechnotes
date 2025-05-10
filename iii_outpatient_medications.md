@@ -102,7 +102,7 @@ These drugs are used in primary care **outpatient** settings, where **volume is 
 ### 💊 Docusate Sodium (Colace)
 
 - **Class**: **Stool Softener**
-- **Indication**: Constipation
+- **Indication**: Constipation due to Opiates
 - **How Supplied**: Capsules, Liquid, Tablets
 - **Warnings/Considerations**:
   - Not for long-term use
@@ -142,7 +142,7 @@ These drugs are used in primary care **outpatient** settings, where **volume is 
 ### 💊 Metronidazole (Metrogel Vaginal)
 
 - **Class**: **Antibiotic** (Topical)
-- **Indication**: Bacterial Vaginosis
+- **Indication**: Bacterial **Vaginosis**
 - **How Supplied**: Gel (0.75%)
 - **Warnings/Considerations**:
   - Avoid alcohol during therapy
@@ -216,7 +216,7 @@ These drugs are used in primary care **outpatient** settings, where **volume is 
 ### 💊 Ipratropium (Atrovent)
 
 - **Class**: Anticholinergic **Bronchodilator**
-- **Indication**: COPD, Chronic Bronchitis
+- **Indication**: **Shortness of Breath (SOB)**, COPD, Chronic Bronchitis
 - **How Supplied**: Inhaler, Nebulizer Solution
 - **Warnings/Considerations**:
   - May cause dry mouth or bitter taste
@@ -228,6 +228,7 @@ These drugs are used in primary care **outpatient** settings, where **volume is 
 - **Indication**: **Asthma** maintenance
 - **How Supplied**: Inhaler
 - **Warnings/Considerations**:
+  - For Children **>4 Years Old**
   - Not for rescue use
   - Rinse mouth after use to prevent oral thrush
 
@@ -237,8 +238,8 @@ These drugs are used in primary care **outpatient** settings, where **volume is 
 
 ### 💊 Cyanocobalamin (Vitamin B12)
 
-- **Class**: Vitamin **Supplement**
-- **Indication**: Vitamin B12 Deficiency, Pernicious Anemia
+- **Class**: Vitamin Supplement
+- **Indication**: Vitamin B12 **Deficiency**, Pernicious Anemia
 - **How Supplied**: Tablets, Injection, Nasal Spray
 - **Warnings/Considerations**:
   - Monitor B12 levels
@@ -261,11 +262,13 @@ These drugs are used in primary care **outpatient** settings, where **volume is 
 - **Warnings/Considerations**:
   - May cause nasal irritation or dry nose
   - Risk of hypocalcemia in some patients
+  - 🧊 Store in **Refrigerated** Conditions
+  - 👃 Alternate Nostrils Every Day
 
 ### 💊 Betamethasone (Kenalog)
 
 - **Class**: Corticosteroid
-- **Indication**: **Inflammatory Skin Conditions** (e.g., eczema, psoriasis)
+- **Indication**: Inflammatory Skin Conditions (e.g., **rashes**, eczema, psoriasis)
 - **How Supplied**: Cream, Ointment, Injectable (Acetonide)
 - **Warnings/Considerations**:
   - Long-term use can cause skin thinning
@@ -280,26 +283,26 @@ These drugs are used in primary care **outpatient** settings, where **volume is 
 | Lisinopril                                          | Zestril               | ACE Inhibitor                  | **Hypertension**, Heart Failure, Chronic Kidney Disease |
 | Metoprolol                                          | Lopressor             | Beta Blocker                   | **Hypertension**, Angina, Heart Failure, Post-MI        |
 | Valsartan                                           | Diovan                | ARB                            | **Hypertension**, Heart Failure, Post-MI                |
-| Hydrochlorothiazide                                 | Microzide             | Thiazide **Diuretic**          | **Hypertension**, Edema                                 |
+| Hydrochlorothiazide (**HCTZ**)                   | Microzide             | Thiazide **Diuretic**          | **Hypertension**, Edema                                 |
 | Fluoxetine                                          | Prozac                | **SSRI Antidepressant**            | Depression, Anxiety Disorders, OCD, Panic Disorder  |
 | Eszopiclone                                         | Sonata                | Non-Benzodiazepine Hypnotic    | **Insomnia**                                            |
 | Zolpidem                                            | Ambien                | **Sedative/Hypnotic (C-IV) ⚠️**    | Insomnia                                            |
 | Rabeprazole                                         | Aciphex               | Proton Pump Inhibitor (**PPI**)    | **GERD**, Ulcers, Zollinger-Ellison Syndrome            |
 | Pantoprazole                                        | Protonix              | Proton Pump Inhibitor (**PPI**)    | **GERD**, Erosive Esophagitis                           |
-| Docusate Sodium                                     | Colace                | **Stool Softener**                 | Constipation                                        |
+| Docusate Sodium                                     | Colace                | **Stool Softener**                 | **Constipation Due to Opiates**                                       |
 | Psyllium                                            | Metamucil             | Bulk-Forming **Laxative**          | Constipation, IBS                                   |
 | Amoxicillin                                         | Amoxil                | **Penicillin Antibiotic**          | Bacterial Infections                                |
 | Clarithromycin                                      | Biaxin                | Macrolide **Antibiotic**           | Respiratory Infections, H. pylori Infection         |
-| Metronidazole                                       | Metrogel Vaginal      | Topical **Antibiotic**             | Bacterial Vaginosis                                 |
+| Metronidazole                                       | Metrogel Vaginal      | Topical **Antibiotic**             | Bacterial **Vaginosis**                                 |
 | Cefadroxil                                          | Duricef               | Cephalosporin **Antibiotic**       | Skin, Throat, and Urinary Tract Infections          |
-| Trimethoprim-**Sulfa**methoxazole                       | Bactrim DS, Septra    | Sulfonamide **Antibiotic**         | UTI, Pneumonia, Otitis Media ⚠️                     |
+| Trimethoprim-**Sulfa**methoxazole | Bactrim DS, Septra | Sulfonamide **Antibiotic** | UTI, Pneumonia, Otitis Media; **ALLERGEN ALERT**⚠️ |
 | Levothyroxine                                       | Synthroid             | **Thyroid Hormone**                | **Hypothyroidism**                                      |
 | Conjugated Estrogens                                | Premarin              | Estrogen Hormone               | Menopausal **Hormone Replacement Therapy** ⚠️           |
 | Norethindrone, Ethinyl Estradiol & Ferrous Fumarate | Orthonovum 777        | **Oral Contraceptive**             | Pregnancy Prevention, Menstrual Disorders ⚠️        |
 | Medroxyprogesterone                                 | Provera               | Progestin Hormone              | **Hormone Replacement Therapy**, Irregular Menstruation |
-| Ipratropium                                         | Atrovent              | Anticholinergic **Bronchodilator** | COPD, Chronic Bronchitis                            |
-| Fluticasone                                         | Flovent               | Inhaled Corticosteroid         | **Asthma** Maintenance                                  |
-| Cyanocobalamin                                      | Vitamin B12           | **Vitamin** Supplement             | Vitamin B12 Deficiency, Pernicious Anemia           |
-| Glyburide                                           | Diabeta               | Sulfonylurea                   | Type 2 **Diabetes**                                     |
-| Calcitonin                                          | Miacalcin Nasal Spray | Calcitonin                     | **Osteoporosis** (Women at risk of fractures)           |
-| Betamethasone                                       | Kenalog               | Corticosteroid                 | **Inflammatory Skin Conditions**                       |
+| Ipratropium                                         | Atrovent              | Anticholinergic **Bronchodilator** | **SOB**, COPD, Chronic Bronchitis                            |
+| Fluticasone | Flovent | Inhaled Corticosteroid | **Asthma** Maintenance (**For Children >4 Years Old**) |
+| Cyanocobalamin                                      | Vitamin B12           | Vitamin Supplement             | Vitamin B12 **Deficiency**, Pernicious Anemia           |
+| Glyburide                                           | Diabeta               | Sulfonylurea                   | Type 2 **Diabetes**; **Lowers Blood Sugar**                                     |
+| Calcitonin                                          | Miacalcin Nasal Spray | Calcitonin                     | **Osteoporosis** (Women at risk of fractures); 🧊 **Refrigerated** Medication; 👃 **Alternate Nostrils** |
+| Betamethasone                                       | Kenalog               | Corticosteroid                 | Inflammatory Skin Conditions; **Rashes**                      |
