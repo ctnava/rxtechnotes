@@ -1,4 +1,4 @@
-# Appendix I: Special Medication Watchlist
+# 📘 Appendix I: Special Medication Watchlist
 
 ## 💊 Nitroglycerin (NTG)
 
