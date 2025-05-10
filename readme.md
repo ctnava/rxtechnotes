@@ -11,6 +11,7 @@ Todo:
 - compounding (sterile & nonsterile)
 - MTM (CE)
 - Common Drugs & Uses CH13
+- pharmacology & Pharmacokinetics
 - safe handling CE
 - grapefruit interactions
 - insulin content
