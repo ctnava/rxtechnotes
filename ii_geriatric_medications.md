@@ -196,26 +196,24 @@ These medications are commonly used in geriatric populations, particularly in Lo
 
 ## 📋 Geriatric Medication Quick Reference Table
 
-| Generic Name        | Brand Name      | Class                             | Indication                              |
+| Generic Name        | Brand Name       | Class                              | Indication                              |
 |---------------------|------------------|------------------------------------|------------------------------------------|
-| Furosemide          | Lasix            | Loop Diuretic                      | Edema, CHF                               |
-| Losartan            | Cozaar           | ARB                                | Hypertension, Diabetic Nephropathy       |
-| Benazepril          | Lotensin         | ACE Inhibitor                      | Hypertension                              |
-| Clopidogrel         | Plavix           | Antiplatelet                       | Stroke/MI Prevention, PAD                |
-| Warfarin            | Coumadin         | Anticoagulant                      | Stroke Prevention, DVT/PE                |
-| Gemfibrozil         | Lopid            | Fibrate                            | Hypertriglyceridemia                     |
-| Simvastatin         | Zocor            | Statin                             | Hyperlipidemia                           |
-| Metformin           | Glucophage       | Biguanide                          | Type 2 Diabetes                          |
-| Pioglitazone        | Actos            | Thiazolidinedione                  | Type 2 Diabetes                          |
-| Phenytoin           | Dilantin         | Anticonvulsant                     | Seizure Disorders                        |
-| Gabapentin          | Neurontin        | Anticonvulsant / Neuropathic Agent | Neuropathic Pain, Seizures               |
-| Amitriptyline       | Elavil           | Tricyclic Antidepressant           | Depression, Neuropathy, Insomnia         |
-| Fluoxetine          | Prozac           | SSRI Antidepressant                | Depression, Anxiety, OCD                 |
-| Zolpidem ⚠️ C-IV    | Ambien           | Sedative/Hypnotic                  | Insomnia                                 |
-| Tramadol ⚠️ C-IV    | Ultram           | Opioid Analgesic                   | Moderate to Severe Pain                  |
-| Omeprazole          | Prilosec         | PPI                                | GERD, Ulcers                             |
-| Metoclopramide      | Reglan           | GI Stimulant / Antiemetic          | GERD, Diabetic Gastroparesis            |
-| Levofloxacin        | Levaquin         | Fluoroquinolone Antibiotic         | Pneumonia, UTI, Skin Infections          |
-| Metronidazole       | Flagyl           | Nitroimidazole Antibiotic          | Anaerobic Infections, C. diff            |
-
-> ⚠️ C-IV = DEA Schedule IV Controlled Substance
+| Furosemide          | Lasix            | Loop **Diuretic**                  | **Hypertension**, Edema, CHF                 |
+| Losartan            | Cozaar           | ARB                                | **Hypertension**, Diabetic Nephropathy       |
+| Benazepril          | Lotensin         | ACE Inhibitor                      | **Hypertension**                              |
+| Clopidogrel         | Plavix           | **Antiplatelet**                   | Stroke/MI Prevention, PAD                |
+| Warfarin            | Coumadin         | **Anticoagulant**                  | Stroke Prevention, DVT/PE                |
+| Gemfibrozil         | Lopid            | Fibrate (for "**Cholesterol Control**") | Hypertriglyceridemia               |
+| Simvastatin         | Zocor            | Statin (for "**Cholesterol Control**") | Hyperlipidemia                      |
+| Metformin           | Glucophage       | Biguanide                          | Type 2 **Diabetes**                     |
+| Pioglitazone        | Actos            | Thiazolidinedione                  | Type 2 **Diabetes**                     |
+| Phenytoin           | Dilantin         | **Anticonvulsant**                 | Seizure Disorders                       |
+| Gabapentin          | Neurontin        | Anticonvulsant / Neuropathic Agent | **Neuropathic Pain**, Seizures          |
+| Amitriptyline       | Elavil           | Tricyclic **Antidepressant**       | Depression, Neuropathy, Insomnia         |
+| Fluoxetine          | Prozac           | **SSRI Antidepressant**            | Depression, Anxiety, OCD                 |
+| Zolpidem            | Ambien           | **Sedative/Hypnotic ⚠️ (C-IV)**    | Insomnia                                 |
+| Tramadol            | Ultram           | **Opioid Analgesic ⚠️ (C-IV)**     | Moderate to Severe Pain                  |
+| Omeprazole          | Prilosec         | **PPI**                             | **GERD**, Ulcers                       |
+| Metoclopramide      | Reglan           | **GI Motility Stimulant** / Antiemetic | GERD, Diabetic Gastroparesis        |
+| Levofloxacin        | Levaquin         | Fluoroquinolone **Antibiotic**      | Pneumonia, UTI, Skin Infections          |
+| Metronidazole       | Flagyl           | Nitroimidazole **Antibiotic**       | Anaerobic Infections, C. diff            |
