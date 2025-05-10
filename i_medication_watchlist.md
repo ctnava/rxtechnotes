@@ -1,12 +1,54 @@
 # 📘 Appendix I: Special Medication Watchlist
 
+## 💊 Acetaminophen (Tylenol / APAP)
+
+Acetaminophen (APAP) is a **non-opioid analgesic and antipyretic** used to relieve **mild to moderate pain** and reduce **fever**. It is a common component in many over-the-counter and prescription combination products.
+
+**Dosage Forms:**
+
+- Tablets, caplets, chewables  
+- Liquid suspension  
+- Suppositories  
+- IV formulation (Ofirmev)
+
+**📝 Standard Sig:**
+
+```md
+Take 1–2 tablets (325–650 mg) by mouth every 4 to 6 hours as needed. Do not exceed 3,000 mg per day (2,000 mg/day for chronic alcohol users or liver disease).
+```
+
+- ⚠️ **Hepatotoxicity** risk with overdose
+- 📛 Monitor cumulative APAP dose from **all sources** (common in combo meds like Norco, Percocet, Nyquil, etc.)
+- 🧾 OTC medication; often PRN
+
+## 💚 Digoxin (Lanoxin)
+
+Digoxin is a **cardiac glycoside** used to treat heart failure and atrial fibrillation by increasing cardiac contractility and slowing heart rate.
+
+Dosage Forms:
+
+- Tablets (0.125 mg, 0.25 mg)
+- Oral solution
+- IV formulation
+
+**📝 Standard Sig:**
+
+```md
+Take 1 tablet by mouth once daily. Dose varies based on renal function and therapeutic drug monitoring.
+```
+
+- ⚠️ **Narrow Therapeutic Index**: monitor serum digoxin levels
+- 🩸 **Toxicity signs**: N/V, confusion, visual changes (yellow/green halos), arrhythmias
+- ⚖️ **Renally cleared**: Dose varies based on renal function and therapeutic drug monitoring.
+- 🧾 **Drug interactions**: Amiodarone, verapamil, and certain diuretics may increase toxicity risk
+
 ## 💊 Nitroglycerin (NTG)
 
 Nitroglycerin is a **vasodilator** used to treat and prevent **angina** and reduce the risk of **heart attacks** in patients with **coronary artery disease**.
 
 **Brand Names:**
 
-- 🟣 Nitrostat / NitroQuick (Sublingual Tablets)
+- 🟣 **Nitrostat** / NitroQuick (Sublingual Tablets)
 - 🟠 Nitro-Bid (Topical Ointment w/ Applicator)
 - 🟡 Nitro-Dur (Transdermal Patch)
 
@@ -108,3 +150,20 @@ Used to manage diabetes.
 - ❄️ Store unopened insulin in the refrigerator
 - 🌡️ After opening, can be stored at room temperature for ~28 days
 - ⏳ Always check expiration dates
+
+## 💡 Quick Reference Table — Special Medication Watchlist
+
+| Medication           | Use / Class                         | Key Concerns / Notes                                                                 |
+|----------------------|--------------------------------------|----------------------------------------------------------------------------------------|
+| **Acetaminophen** (Tylenol / APAP) | Analgesic / Antipyretic        | Hepatotoxicity risk; max 3000 mg/day; check combo meds (e.g., Norco, Nyquil)           |
+| **Digoxin** (Lanoxin)             | Cardiac Glycoside               | Narrow TI; monitor serum levels; toxicity signs (visual, GI, arrhythmia); renally cleared |
+| **Nitroglycerin** (NTG)          | Vasodilator (Angina)           | Emergency med; expires 6 mo after opening; no child-proof cap; dispense in glass bottle |
+| **Alendronate** (Fosamax)        | Bisphosphonate (Osteoporosis)  | Stay upright ≥30 min; take with full water glass; weekly dosing                         |
+| **Fentanyl Patch** (Duragesic)   | Opioid Analgesic (C-II)        | 72h duration; dispose by folding & flushing; store securely (abuse risk)               |
+| **Methotrexate** (Trexall)       | Antimetabolite / DMARD         | Weekly dosing; hazardous; teratogenic; special disposal & handling required             |
+| **Adalimumab** (Humira)          | Biologic (Autoimmune)          | Refrigerate; BBW for infection & cancer; requires prior auth                            |
+| **Epinephrine Auto-Injector**    | Anaphylaxis Emergency          | Room temp storage; expires in ~12–18 months; refills routine for high-risk pts         |
+| **Sildenafil** (Viagra / Revatio)| PDE-5 Inhibitor                | Contraindicated with nitrates; hypotension risk                                        |
+| **Warfarin** (Coumadin)          | Anticoagulant                  | INR monitoring; bleeding risk; avoid high-Vitamin K foods                               |
+| **Phenytoin** (Dilantin)         | Anticonvulsant                 | Narrow TI; monitor blood levels                                                        |
+| **Insulin** (All forms)          | Antidiabetic Hormone           | Refrigerate unopened; room temp 28 days; check expiration dates                         |
