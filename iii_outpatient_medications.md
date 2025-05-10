@@ -275,21 +275,31 @@ These drugs are used in primary care **outpatient** settings, where **volume is 
 
 ## Quick Reference Table
 
-| Generic Name        | Brand Name       | Class                              | Indication                              |
-|---------------------|------------------|------------------------------------|------------------------------------------|
-| Lisinopril          | Zestril          | ACE Inhibitor                      | **Hypertension**, Heart Failure, Chronic Kidney Disease |
-| Metoprolol          | Lopressor        | Beta Blocker                       | **Hypertension**, Angina, Heart Failure, Post-MI |
-| Valsartan           | Diovan           | ARB                                | **Hypertension**, Heart Failure, Post-MI |
-| Hydrochlorothiazide (HCTZ) | Microzide        | Thiazide Diuretic                  | **Hypertension**, Edema                  |
-| Levothyroxine       | Synthroid        | Thyroid Hormone                    | **Hypothyroidism**                       |
-| Fluoxetine          | Prozac           | **SSRI Antidepressant**                | Depression, Anxiety, OCD, Panic Disorder |
-| Eszopiclone         | Sonata           | Non-Benzodiazepine Hypnotic        | **Insomnia**                                 |
-| Zolpidem            | Ambien           | **Sedative/Hypnotic ⚠️ (C-IV)**    | Insomnia                                 |
-| Amoxicillin         | Amoxil           | Penicillin **Antibiotic**              | Bacterial Infections                     |
-| Clarithromycin      | Biaxin           | Macrolide **Antibiotic**               | Respiratory infections, H. pylori infection |
-| Metronidazole       | Metrogel Vaginal | Topical **Antibiotic**                 | Bacterial Vaginosis                      |
-| Trimethoprim-**Sulfa**methoxazole | Bactrim DS, Septra | Sulfonamide **Antibiotic**         | UTI, Pneumonia, Otitis Media             |
-| Conjugated Estrogens| Premarin         | Estrogen Hormone                   | **Menopausal Hormonal Replacement Therapy** |
-| Norethindrone, Ethinyl Estradiol & Ferrous Fumarate | Orthonovum 777 | **Oral Contraceptive**  | Pregnancy Prevention, Menstrual Disorders |
-| Calcium Citrate     | Miacalcin Nasal Spray | Calcitonin                     | **Osteoporosis** (Women at risk of fractures) |
-| Betamethasone       | Kenalog          | Corticosteroid                     | **Inflammatory Skin Conditions**         |
+| Generic Name                                        | Brand Name            | Class                          | Indication                                          |
+| --------------------------------------------------- | --------------------- | ------------------------------ | --------------------------------------------------- |
+| Lisinopril                                          | Zestril               | ACE Inhibitor                  | **Hypertension**, Heart Failure, Chronic Kidney Disease |
+| Metoprolol                                          | Lopressor             | Beta Blocker                   | **Hypertension**, Angina, Heart Failure, Post-MI        |
+| Valsartan                                           | Diovan                | ARB                            | **Hypertension**, Heart Failure, Post-MI                |
+| Hydrochlorothiazide                                 | Microzide             | Thiazide **Diuretic**          | **Hypertension**, Edema                                 |
+| Fluoxetine                                          | Prozac                | **SSRI Antidepressant**            | Depression, Anxiety Disorders, OCD, Panic Disorder  |
+| Eszopiclone                                         | Sonata                | Non-Benzodiazepine Hypnotic    | **Insomnia**                                            |
+| Zolpidem                                            | Ambien                | **Sedative/Hypnotic (C-IV) ⚠️**    | Insomnia                                            |
+| Rabeprazole                                         | Aciphex               | Proton Pump Inhibitor (**PPI**)    | **GERD**, Ulcers, Zollinger-Ellison Syndrome            |
+| Pantoprazole                                        | Protonix              | Proton Pump Inhibitor (**PPI**)    | **GERD**, Erosive Esophagitis                           |
+| Docusate Sodium                                     | Colace                | **Stool Softener**                 | Constipation                                        |
+| Psyllium                                            | Metamucil             | Bulk-Forming **Laxative**          | Constipation, IBS                                   |
+| Amoxicillin                                         | Amoxil                | **Penicillin Antibiotic**          | Bacterial Infections                                |
+| Clarithromycin                                      | Biaxin                | Macrolide **Antibiotic**           | Respiratory Infections, H. pylori Infection         |
+| Metronidazole                                       | Metrogel Vaginal      | Topical **Antibiotic**             | Bacterial Vaginosis                                 |
+| Cefadroxil                                          | Duricef               | Cephalosporin **Antibiotic**       | Skin, Throat, and Urinary Tract Infections          |
+| Trimethoprim-**Sulfa**methoxazole                       | Bactrim DS, Septra    | Sulfonamide **Antibiotic**         | UTI, Pneumonia, Otitis Media ⚠️                     |
+| Levothyroxine                                       | Synthroid             | **Thyroid Hormone**                | **Hypothyroidism**                                      |
+| Conjugated Estrogens                                | Premarin              | Estrogen Hormone               | Menopausal **Hormone Replacement Therapy** ⚠️           |
+| Norethindrone, Ethinyl Estradiol & Ferrous Fumarate | Orthonovum 777        | **Oral Contraceptive**             | Pregnancy Prevention, Menstrual Disorders ⚠️        |
+| Medroxyprogesterone                                 | Provera               | Progestin Hormone              | **Hormone Replacement Therapy**, Irregular Menstruation |
+| Ipratropium                                         | Atrovent              | Anticholinergic **Bronchodilator** | COPD, Chronic Bronchitis                            |
+| Fluticasone                                         | Flovent               | Inhaled Corticosteroid         | **Asthma** Maintenance                                  |
+| Cyanocobalamin                                      | Vitamin B12           | **Vitamin** Supplement             | Vitamin B12 Deficiency, Pernicious Anemia           |
+| Glyburide                                           | Diabeta               | Sulfonylurea                   | Type 2 **Diabetes**                                     |
+| Calcitonin                                          | Miacalcin Nasal Spray | Calcitonin                     | **Osteoporosis** (Women at risk of fractures)           |
+| Betamethasone                                       | Kenalog               | Corticosteroid                 | **Inflammatory Skin Conditions**                       |
