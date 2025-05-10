@@ -41,14 +41,15 @@ These medications are commonly prescribed maintenance medications for long-term 
   - Increased risk of bleeding
   - Avoid with active bleeding disorders
 
-### 💊 Warfarin (Coumadin)
+### 💊 Warfarin (Coumadin) ⚠️
 
 - **Class**: **Anticoagulant**
 - **Indication**: Stroke prevention, Atrial Fibrillation, DVT/PE
 - **How Supplied**: Tablets (1mg–10mg, color-coded), Injection
 - **Warnings/Considerations**:
   - Requires INR monitoring
-  - Interacts with Vitamin K and many drugs
+  - ⚠️ **Excessive Caution**: Interacts with Vitamin K and many drugs (e.g. **Aspirin & NSAIDs**)
+  - Always refer to pharmacist for consultation
 
 ### 💊 Simvastatin (Zocor)
 
@@ -218,7 +219,7 @@ These medications are commonly prescribed maintenance medications for long-term 
 | Losartan            | Cozaar           | ARB                                | **Hypertension**, Diabetic Nephropathy       |
 | Benazepril          | Lotensin         | ACE Inhibitor                      | **Hypertension**                              |
 | Clopidogrel         | Plavix           | **Antiplatelet**                   | Stroke/MI Prevention, PAD                |
-| Warfarin            | Coumadin         | **Anticoagulant**                  | Stroke Prevention, DVT/PE                |
+| Coumadin ⚠️         | Warfarin         | **Anticoagulant**                  | Stroke Prevention, DVT/PE; ⚠️ **Excessive Interactions** |
 | Gemfibrozil         | Lopid            | Fibrate (for "**Cholesterol Control**") | Hypertriglyceridemia               |
 | Simvastatin         | Zocor            | Statin (for "**Cholesterol Control**") | Hyperlipidemia                      |
 | Metformin           | Glucophage       | Biguanide                          | Type 2 **Diabetes**                     |
