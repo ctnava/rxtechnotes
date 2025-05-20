@@ -45,7 +45,7 @@ Enter all pharmacy benefit data **exactly as it appears** on the insurance card.
 | Information | Category | Description |
 |-------------|----------|-------------|
 | **Card Issuer Name/Logo** | Insurer Identifier | Name or logo of the insurance company issuing the card. |
-| **Card Issuer ID** | Insurer Identifier | If Listed; Unique ID for the insurance company that issued the card. |
+| **Card Issuer ID** | Insurer Identifier | If Applicable; Unique ID for the insurance company that issued the card. |
 | **Member Name** | Patient Identifier | As Printed on card; Full name of the patient as listed on the insurance card. |
 | **Member ID** | Patient Identifier | Required for Billing; Unique identification number for the patient under the plan. |
 | **Person Codes** | Patient Identifier | If Listed; Identifiers for specific individuals covered (e.g., primary member, spouse). |
@@ -55,7 +55,7 @@ Enter all pharmacy benefit data **exactly as it appears** on the insurance card.
 | **Card Issue/Effective Date** | Billing & Claims | Date when the insurance coverage began or card was issued. |
 | **RXBIN** | Billing & Claims | If Listed; Bank Identification Number for pharmacy claims processing. |
 | **RXPCN** | Billing & Claims | If Listed; Processor Control Number used for managing prescription claims. |
-| **Co-pay Info** | Billing & Claims | If Printed; Patient’s co-payment amounts for different services (e.g., medications). |
+| **Co-pay Info** | Billing & Claims | If Listed/ More Informative for Patients; Co-payment amounts for different services (e.g., medications). |
 | **Name and Address of Benefit Administrator** | Billing & Claims | Company or agency responsible for managing benefits. |
 | **Pharmacy Help Desk Number** | Billing & Claims  | Contact number for pharmacies to resolve claim issues. |
 | **Phone Number for Member Help Desk** | Patient Use Only | Customer service phone number for patient inquiries. |
