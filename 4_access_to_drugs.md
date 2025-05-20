@@ -449,6 +449,24 @@ For example, if an outpatient is dispensed a **standard U-100** insulin vial **(
 
 > Always check expiration dates when dispensing more than 28 days supply
 
+#### Translating the Signa
+
+The signa (the "sig") is almost always heavily abbreviated and pharmacy techs are often required to transcribe them for computer entry ([Reference Table](./Prescriptions/iii_translation.md)). It is important to make sure to do this accurately as this directly affects calculations for days supply. Transcription errors during this phase can lead to potentially fatal administration errors.
+
+At a minimum, these sigs require the following to be considered complete:
+
+- Verb
+- Dosage Amount
+- Dosage Form
+- Route of Administration
+  - Site of Administration (for hospitals)
+- Frequency
+- Timing
+
+example:
+`℞ i tab po bid pc #XXX`
+`Take 1 tablet by mouth twice a day after meals (Quantity 30)`
+
 ### Prescription Transfers
 
 Prescriptions may be transferred to another pharmacy at the request of a patient. State laws vary when it comes to different classes of drugs. Technicians may pull up the relevant records for transfer, however the pharmacist is responsible for the actual act of sending or receiving prescriptions.
