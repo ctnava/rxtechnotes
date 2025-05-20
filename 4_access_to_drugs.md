@@ -281,7 +281,7 @@ When processing prescriptions for intake and order entry, make sure they contain
 - **Inscription**: specifies the generic name of the medication, brand name (if required), including strength & amount
 - **Signa**: directions for use (notes on translation [here](./Prescriptions/iii_translation.md))
 - **Refill Instructions**: How many refills are authorized for the patient
-- **Product Selection Code (Optional)**: Whether or not the medication is specified to be dispensed as written (more information [here](./Prescriptions/ii_product_selection.md))
+- **Product Selection Code (Optional)**: Whether or not the medication is specified to be dispensed as written ([quick reference table](./Prescriptions/ii_product_selection.md))
 - **Prescriber Signature**: required on all prescriptions
 
 ⚠️ ALWAYS for allergies, medications the patient is taking, & if there were any changes to insurance.
