@@ -15,7 +15,7 @@ The Durham-Humphrey Amendment amendment established two classes of drugs: *legen
 
 ### ⚠️ Hidden Dangers of OTC Drugs
 
-**Over-the-counter (OTC) drugs are not inherently safe** just because they don’t require a prescription. Many OTC medications can cause significant drug interactions, adverse effects, or even life-threatening complications; especially when combined with prescription drugs or taken incorrectly. [Here](./Prescriptions/i_otc_analgesics.md) are some considerations for OTC analgesics.
+**Over-the-counter (OTC) drugs are not inherently safe** just because they don’t require a prescription. Many OTC medications can cause significant drug interactions, adverse effects, or even life-threatening complications; especially when combined with prescription drugs or taken incorrectly. [Here](./medications/iv_otc_analgesics.md) are some considerations for OTC analgesics.
 
 When performing **medication reconciliation** (the process of gathering a patient’s full medication history), pharmacy technicians must:
 
