@@ -1,4 +1,4 @@
-# 📘 Appendix II: Product Selection Codes
+# 📘 Appendix III: Product Selection Codes
 
 Technicians are generally expected to dispense generic drugs when available unless the prescriber specifies that the drug should be **Dispensed as Written (DAW)** or the inscription is for a hormone.
 

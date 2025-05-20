@@ -1,4 +1,4 @@
-# 📘 Appendix III: Translating the Signa
+# 📘 Appendix IV: Translating the Signa
 
 The signa (the "sig") is almost always heavily abbreviated and pharmacy techs are often required to transcribe them for computer entry. It is important to make sure to do this accurately as this directly affects calculations for days supply. Transcription errors during this phase can lead to potentially fatal administration errors.
 
