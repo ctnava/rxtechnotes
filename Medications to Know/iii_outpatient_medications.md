@@ -200,7 +200,7 @@ These drugs are used in primary care **outpatient** settings, where **volume is 
   - Smoking increases the risk of cardiovascular events
   - ⚠️ **Patient Package Inserts** must be dispensed with this medication
 
-### 💊 Medroxyprogesterone (Provera)
+### 💊 Medroxyprogesterone (Provera) ⚠️
 
 - **Class**: Progestin Hormone
 - **Indication**: **Hormone Replacement Therapy**, Irregular menstruation, endometriosis, amenorrhea
@@ -208,6 +208,7 @@ These drugs are used in primary care **outpatient** settings, where **volume is 
 - **Warnings/Considerations**:
   - Can cause breakthrough bleeding
   - May increase risk of breast cancer and blood clots with long-term use
+  - ⚠️ **Patient Package Inserts** must be dispensed with this medication
 
 ---
 
@@ -299,7 +300,7 @@ These drugs are used in primary care **outpatient** settings, where **volume is 
 | Levothyroxine                                       | Synthroid             | **Thyroid Hormone**                | **Hypothyroidism**                                      |
 | Conjugated Estrogens                                | Premarin              | Estrogen Hormone               | Menopausal **Hormone Replacement Therapy** ⚠️           |
 | Norethindrone, Ethinyl Estradiol & Ferrous Fumarate | Orthonovum 777        | **Oral Contraceptive**             | Pregnancy Prevention, Menstrual Disorders ⚠️        |
-| Medroxyprogesterone                                 | Provera               | Progestin Hormone              | **Hormone Replacement Therapy**, Irregular Menstruation |
+| Medroxyprogesterone                                 | Provera               | Progestin Hormone              | **Hormone Replacement Therapy**, Irregular Menstruation ⚠️ |
 | Ipratropium                                         | Atrovent              | Anticholinergic **Bronchodilator** | **SOB**, COPD, Chronic Bronchitis                            |
 | Fluticasone | Flovent | Inhaled Corticosteroid | **Asthma** Maintenance (**For Children >4 Years Old**) |
 | Cyanocobalamin                                      | Vitamin B12           | Vitamin Supplement             | Vitamin B12 **Deficiency**, Pernicious Anemia           |
