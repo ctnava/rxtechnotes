@@ -8,7 +8,7 @@ The Durham-Humphrey Amendment amendment established two classes of drugs: *legen
 
 - **Medication Orders**: a written request on a physician's order form OR a transcribed verbal/ telephone order in an *inpatient* setting.
 - **Prescription**: medication order on a prescription blank to be filled in an *outpatient/ ambulatory* setting.
-- **Legend**: Medications that may not be dispensed to the public except on the order or *prescription* of a licensed prescriber. These "prescription" drugs require a federal *legend* to appear on the packaging that states: "Federal law prohibits dispensing this medication without a prescription".
+- **Legend**: Medications that may not be dispensed to the public except on the order or *prescription* of a licensed prescriber. These "prescription" drugs require a federal *legend* to appear on the packaging that states: "Federal law prohibits dispensing this medication without a prescription" or "RX Only".
 - **Over-the-Counter(OTC)**: Medications that may be sold without a prescription as long as they are appropriately labeled for home use.
   - **Exempt Narcotics** are medications that contain habit forming ingredients that can be sold by a pharmacist without prescriptions to persons 18 years or older (e.g. cough syrups with small amounts of codeine)
   - **Emergency Contraceptives** (e.g. Plan B One-Step) sometimes have dual marketing, with unique status as OTC & legend drugs at the same time. Depending on the state, a pharmacist may prescribe these on the spot to dispense to patients.
