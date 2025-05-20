@@ -106,59 +106,9 @@ Each partial fill must be **recorded in the pharmacy system**, including:
 
 #### 🔄 Refills & Refill Requests
 
-Each prescription is assigned a **prescription number**, which stays the same for all refills. The number of authorized refills is written by the prescriber and usually printed on the **prescription label**. If a doctor writes refills (sometimes denoted with “∞”), they are valid for **up to 1 year** from the date the prescription was written, **except for controlled substances**, which have stricter limits.
+Each prescription is assigned a **prescription number**, which stays the same for all refills. The number of authorized refills is written by the prescriber and usually printed on the **prescription label**. If a doctor authorizes multiple refills (often written as ‘Refills: 3’ or ‘Refills: PRN’), they are valid for **up to 1 year** from the date the prescription was written, **except for controlled substances**, which have stricter limits.
 
-| Drug Type | Refill Limit | Validity |
-|-----------|---------------|----------|
-| 🧪 **Non-controlled substances** | As prescribed | Up to 1 year |
-| 💊 **Schedule III–V controlled substances** | Max **5 refills** | Within **6 months** of issue date |
-| 🚫 **Schedule II controlled substances** | **Not refillable** | New Rx required each time |
-
-> 🔐 Schedule II prescriptions **cannot be refilled** under any circumstance. A new prescription must be issued each time.
-
-##### 📞 Refill Requests
-
-If no refills remain, **technicians** may contact the prescriber **on behalf of the patient** to request a new prescription. This is typically done when the patient:
-
-- Calls in for a refill
-- Uses a mobile app or website to request one
-
-Once verified, the technician must contact the prescriber’s office using the following procedure.
-
-📝 **Standard Refill Request Procedure**
-
-1. **Gather information** from the patient or system:
-   - Patient’s full name
-   - Date of birth
-   - Medication name, strength, and quantity
-   - Last fill date
-   - Prescription number (if needed)
-
-2. **Call the prescriber’s office** and follow this script:
-
-   > “Hello, this is **[Your Name]** calling from **[Pharmacy Name]**. I’m calling to request a medication refill for a patient.”
-
-3. **Provide patient information**:
-   - “Last name: [Patient Last Name], Date of birth: [DOB]”
-
-4. **Provide medication details**:
-   - “The medication is **[Drug Name, Strength]**, quantity **[##]**.”
-
-5. **Give last fill date**:
-   - “It was last filled on **[MM/DD/YYYY]**.”
-
-6. **State urgency**, if applicable:
-   - E.g., “This is the patient’s emergency heart medication (Nitrostat), and they are on their last dose.”
-
-7. **Give pharmacy contact info** and **document**:
-   - Pharmacy phone/fax number
-   - Receptionist’s name
-   - Date and time of the call
-   - Outcome or notes
-
-If the call goes to voicemail, be sure to leave a message containing all relevant information and document this outcome.
-
-> ✅ Speak slowly, clearly, & succinctly. Use the NATO alphabet when spelling.
+When a prescription has no refills or is expired, the technician is requesting a new prescription, not a ‘refill’ in the legal sense. **Pharmacy technicians** may be authorized to contact the prescriber **on behalf of the patient** to request a new prescription ([SOP](./sop/refill_request.md)).
 
 #### Inpatient Care
 
