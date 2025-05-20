@@ -33,7 +33,7 @@ A **partial fill** occurs when the pharmacy dispenses **less than the full presc
 
 ### Schedule II (CII)
 
-Regulated under the **Controlled Substances Act (21 U.S.C. § 829)**, **21 CFR § 1306.13**, and the **DEA Final Rule (2016)**.
+Regulated under the **Controlled Substances Act (21 U.S.C. § 829)**, **21 CFR § 1306.13**, **DEA Final Rule/ CARA (2016)**, and **California Health & Safety Code § 11153.5**.
 
 Partial fills are allowed **only** under specific conditions:
 
@@ -48,7 +48,7 @@ Partial fills are allowed **only** under specific conditions:
 
 #### 2. Patient or Prescriber Request
 
-Allowed under **Comprehensive Addiction and Recovery Act (CARA, 2016)**:
+Allowed under the Federal **Comprehensive Addiction and Recovery Act (CARA, 2016)** and California State law:
 
 - Partial fills permitted **at the request** of the patient or prescriber.
 - **Remainder must be filled within 30 days** of the original written date.
@@ -58,6 +58,22 @@ Allowed under **Comprehensive Addiction and Recovery Act (CARA, 2016)**:
   - **Terminally ill** patients
 
 > 🧠 Must annotate “LTCF” or “terminally ill” on the prescription or system record when applicable.
+
+#### Refusal of Remaining Quantity (CII)
+
+If a patient **refuses** the remainder of a partial CII fill:
+
+- **Pharmacist must document**:
+  - The refusal
+  - Date of refusal
+  - Quantity already dispensed
+  - Statement that the remainder was not requested
+- **Void the remaining quantity** in the system. It **must not be dispensed later** unless a new prescription is issued.
+- **Notify the prescriber** that the patient declined the remainder.
+- In California, this action must be documented in a manner that is **readily retrievable** for Board of Pharmacy inspection.
+- The original prescription is considered **closed** once the patient declines the remaining portion.
+
+> 🔒 *California law aligns with federal CARA provisions and permits partial CII fills at patient request. Refusals must be fully documented and reported to the prescriber.*
 
 ### Schedule III–V (CIII–CV)
 
