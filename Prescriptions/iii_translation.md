@@ -41,11 +41,11 @@ Directions for use must be specific as the patient does not know what to do with
 
 > **NOTE** Spit, don't swallow Durvet (Chlorhexidine)
 
+## 🔠 Abbreviations
+
 Below are a list of common abbreviations used for transcribing SIGs on prescriptions or medication orders.
 
 > ⚠️ Indicates that this abbreviation is on the "Do Not Use" List.
-
-## 🔠 Abbreviations
 
 ### 🧭 Route of Administration
 
