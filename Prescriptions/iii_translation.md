@@ -20,24 +20,24 @@ example:
 
 Directions for use must be specific as the patient does not know what to do with strange medications. Some dosage forms are more toxic when taken the wrong way (e.g. Sulfanilimide).
 
-| Emoji | Verb | Dosage Form | Route |
-|------|-------------|-------|-------|
-| 👄 | Take | Oral Solid (Tablets & Capsules) or Liquids | Oral |
-| 🦷 | Chew | Chewable Tablets & Gum | Oral |
-| 👅🩹 | Place | Sublingual (under tongue), Buccal (on gums), or Transdermal Patch | Sublingual/Buccal/Topical|
-| 🌀🚫 | Swish & Spit | Oral Suspensions (e.g., nystatin rinse) | Oral/Mucosal |
-| 🌀✅ | Swish & Swallow | Oral Suspensions (e.g., viscous lidocaine) | Oral/Mucosal |
-| 💧 | Dissolve | Forms that need to be dissolved before administration (Effervescent Tablets & Powders) | Oral |
-| 🌀 | Rinse | Mouthwashes or Oral Solutions | Oral |
-| 🧴 | Apply | Topical (Creams, Ointments, Patches) | Topical/Transdermal |
-| 🍑🌸 | Insert | Rectal, Vaginal, or Urethral Suppositories | Rectal/Vaginal/Urethral |
-| 👁️👂 | Instill | Eye or Ear Drops | Ophthalmic/Otic |
-| 🌬️ | Inhale | Inhalers, Nebulized Solutions | Inhalation |
-| 👃👄 | Spray | Nasal or Oral Aerosols | Nasal/Oral |
-| 💉 | Inject | Parenteral (IM, IV, SC, ID) | Injection |
-| 💧💉 | Infuse | Intravenous Solutions (IVPB, IV Drip) | Intravenous |
-| 👩‍⚕️👶 | Give | General (commonly used for caregiver-administered meds) | Any (esp. pediatric) |
-| 🛠️ | Use | Non-specific (e.g., inhalers, devices) | Varies |
+| Verb | Route | Dosage Form |
+|-------------|-------|-------|
+| Take | 👄 Oral | Oral Solid (Tablets & Capsules) or Liquids |
+| Chew | 🦷 Oral | Chewable Tablets & Gum |
+| Place | 👅🩹 Sublingual/Buccal/Topical | Sublingual (under tongue), Buccal (on gums), or Transdermal Patch |
+| Swish & Spit | 🌀🚫 Oral/Mucosal | Oral Suspensions (e.g., nystatin rinse) |
+| Swish & Swallow | 🌀✅ Oral/Mucosal | Oral Suspensions (e.g., viscous lidocaine) |
+| Dissolve | 💧 Oral | Forms that need to be dissolved before administration (Effervescent Tablets & Powders) |
+| Rinse | 🌀 Oral | Mouthwashes or Oral Solutions |
+| Apply | 🧴 Topical/Transdermal | Topical (Creams, Ointments, Patches) |
+| Insert | 🍑🌸 Rectal/Vaginal/Urethral | Rectal, Vaginal, or Urethral Suppositories |
+| Instill | 👁️👂 Ophthalmic/Otic | Eye or Ear Drops |
+| Inhale | 🌬️ Inhalation | Inhalers, Nebulized Solutions |
+| Spray | 👃👄 Nasal/Oral | Nasal or Oral Aerosols |
+| Inject | 💉 Injection | Parenteral (IM, IV, SC, ID) |
+| Infuse | 💧💉 Intravenous | Intravenous Solutions (IVPB, IV Drip) |
+| Give | 👩‍⚕️👶 Administered (esp. pediatric) | General (commonly used for caregiver-administered meds) |
+| Use | 🛠️Various | Non-specific (e.g., inhalers, devices) |
 
 > **NOTE** Spit, don't swallow Durvet (Chlorhexidine)
 
