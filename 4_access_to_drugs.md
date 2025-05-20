@@ -177,7 +177,7 @@ When processing prescriptions for intake and order entry, make sure they contain
 - **Inscription**: specifies the generic name of the medication, brand name (if required), including strength & amount
 - **Signa**: directions for use (notes on translation [here](./Prescriptions/iv_translation.md))
 - **Refill Instructions**: How many refills are authorized for the patient
-- **Product Selection Code (Optional)**: Whether or not the medication is specified to be dispensed as written ([quick reference table](./Prescriptions/iii_product_selection.md))
+- **Product Selection Code (Optional)**: Whether or not the medication is specified to be dispensed as written ([Reference Table](./Prescriptions/iii_product_selection.md))
 - **Prescriber Signature**: required on all prescriptions
 
 ⚠️ ALWAYS for allergies, medications the patient is taking, & if there were any changes to insurance.
@@ -316,7 +316,7 @@ Prescription forgery often takes the following forms:
 
 A DEA number is a unique identifier assigned by the Drug Enforcement Administration (DEA) to healthcare providers who are authorized to prescribe, dispense, or administer controlled substances. It is assigned when an individual practitioner, pharmacy, hospital/ clinic, or teaching institution files Form 224 with the DEA.
 
-Pharmacy technicians may be required to help verify DEA numbers as part of prescription validation, especially for controlled substances (Schedules II–V) ([how to verify.](./math/i_dea_numbers.md)).
+Pharmacy technicians may be required to help verify DEA numbers as part of prescription validation, especially for controlled substances (Schedules II–V) ([How to Verify](./math/i_dea_numbers.md)).
 
 #### 📱 Calculating Days Supply
 
