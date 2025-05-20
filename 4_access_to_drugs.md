@@ -281,7 +281,7 @@ When processing prescriptions for intake and order entry, make sure they contain
 - **Inscription**: specifies the generic name of the medication, brand name (if required), including strength & amount
 - **Signa**: directions for use
 - **Refill Instructions**: How many refills are authorized for the patient
-- **Product Selection Code (Optional)**: Whether or not the medication is specified to be dispensed as written
+- **Product Selection Code (Optional)**: Whether or not the medication is specified to be dispensed as written (more information [here](./Prescriptions/ii_product_selection.md))
 - **Prescriber Signature**: required on all prescriptions
 
 ⚠️ ALWAYS for allergies, medications the patient is taking, & if there were any changes to insurance.
@@ -462,25 +462,6 @@ To confirm the validity of the DEA number, use this simple formula based on the 
 - Invalid or altered DEA numbers are a red flag for fraudulent prescriptions and must be reported to the pharmacist immediately.
 
 > 💡 **Tip**: Many pharmacy systems perform DEA validation automatically, but it’s important to know how to check manually in case of system issues or suspicious prescriptions.
-
-#### Product Selection
-
-Technicians are generally expected to dispense generic drugs when available unless the prescriber specifies that the drug should be **Dispensed as Written (DAW)** or the inscription is for a hormone.
-
-🧾 **DAW Codes Reference Table**
-
-| **DAW Code** | **Meaning** | **When It’s Used** |
-|--------------|-------------|--------------------|
-| **0** | No product selection indicated | Default; no DAW—generic substitution is allowed and expected. |
-| **1** | Substitution not allowed by prescriber | Prescriber wants **brand only** (e.g., writes “Brand Medically Necessary”). |
-| **2** | Substitution allowed—patient requested brand | Patient chooses **brand name** even though generic is available. |
-| **3** | Substitution allowed—pharmacist selected brand | Pharmacist dispenses brand when generic is available (rarely reimbursed). |
-| **4** | Substitution allowed—generic not in stock | Temporary situation; brand dispensed because pharmacy is out of generic. |
-| **5** | Substitution allowed—brand dispensed as generic | Brand dispensed but billed as generic (often due to labeling agreements). |
-| **6** | Override | Used in special cases where substitution rules are overridden (e.g., plan override, emergency). |
-| **7** | Substitution not allowed—brand mandated by law | Certain drugs must be dispensed as brand per state law (e.g., anticonvulsants in some states). |
-| **8** | Substitution allowed—generic not available in marketplace | No generic product exists yet, so brand must be used. |
-| **9** | Other | Rare; used when none of the other DAW codes apply and further explanation is needed. |
 
 #### 📱 Calculating Days Supply
 
