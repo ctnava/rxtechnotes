@@ -36,7 +36,7 @@ Once privacy documentation is complete, create the patient profile in the **phar
 
 ## 💳 Insurance & Billing Information
 
-Enter all pharmacy benefit data **exactly as it appears** on the insurance card. Use the **member name as printed**, even if different from the legal name, to prevent claim rejection during adjudication.
+Enter all pharmacy benefit data **exactly as it appears** on the insurance card. Use the **member name and sex as printed**, even if different from government-issued identification documents, to prevent claim rejection during adjudication.
 
 > ⚠️ Always use the **most recent** card. Outdated info results in Third Party Rejections.
 
