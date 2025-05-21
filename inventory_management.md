@@ -30,7 +30,7 @@ Pharmacy inventory includes:
   - Coordinates inventory cycle counts and physical audits
 
 > 🔐 Controlled substances require additional documentation, restricted access, and secure storage per DEA and state board regulations.  
-> 🔗 [See: CSA/CMEA Overview](./medications/controlled_listed_substances.md)
+> See: 🔗 [CSA/CMEA Broad Overview](./medications/controlled_listed_substances.md)
 
 ## 🔑 Inventory Concepts
 
@@ -91,6 +91,8 @@ Pharmacy inventory includes:
 
 > 🛡️ Maintain accurate records to protect your license and ensure audit readiness.
 
+<!-- Todo: ### 🔗 Inventory Counting & Discrepancy Reporting SOP Document Link -->
+
 ## 💰 Purchasing
 
 Pharmacies purchase stock from state-licensed:
@@ -98,7 +100,7 @@ Pharmacies purchase stock from state-licensed:
 - **Suppliers**: produce, label, and package drugs
 - **Wholesalers**: purchase drugs in bulk and then sell them to medical facilities
 
-> 🦅 See the [PDMA](./law/abbreviated_federal_law_reference.md#prescription-drug-marketing-act-pdma-1987) for regulations on manufacturer & wholesaler activities.
+> 🦅 See the 🔗 [PDMA](./law/abbreviated_federal_law_reference.md#prescription-drug-marketing-act-pdma-1987) for regulations on manufacturer & wholesaler activities.
 
 ### 🏭 Suppliers
 
@@ -116,7 +118,7 @@ Wholesalers purchase drugs from manufactures in bulk and create wide distributio
 
 ### 📦 Manufacturer Labels & Drug Identification
 
-Labels that are truthful, standardized, and easy for consumers to understand; ensuring transparency and the prevention of deceptive packaging (see the [FPLA](./law/abbreviated_federal_law_reference.md#fair-packaging--labeling-act-fpla-1967)).
+Labels that are truthful, standardized, and easy for consumers to understand; ensuring transparency and the prevention of deceptive packaging (see the 🔗 [FPLA](./law/abbreviated_federal_law_reference.md#fair-packaging--labeling-act-fpla-1967)).
 
 Manufacturer labels include:
 
@@ -124,7 +126,7 @@ Manufacturer labels include:
 - The name and place of business of the manufacturer, packer, or distributor
 - Drug name, strength, & dosage form
 - Net quantity of contents
-- [NDCs](./law/abbreviated_federal_law_reference.md#drug-listing-act-1972) (i.e. 11-digit, 3-segment identifier assigned to every marketed drug)
+- 🔗 [NDCs](./law/abbreviated_federal_law_reference.md#drug-listing-act-1972) (i.e. 11-digit, 3-segment identifier assigned to every marketed drug)
 - Manufacture & expiration dates
 - Batch/lot number
 - Barcodes
@@ -134,3 +136,5 @@ Manufacturer labels include:
 
 > 🛡️ The ISMP encourages the use of **Tall Man Lettering** to differentiate look-alike/sound-alike drugs  
 > Example: `predniSONE` vs. `prednisoLONE`
+
+<!-- Todo: ### 🔗 Ordering SOP Document Link -->
