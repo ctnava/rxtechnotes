@@ -1,42 +1,42 @@
 # Rx Tech Notes for CA State Licensure & National Certification
 
-Welcome to my pharmacy technician notes for California state licensure & national certification.
+Welcome to my pharmacy technician study notes. This repository is tailored to support candidates preparing for **California state licensure** and **national certification**.
 
-## National Certification Tests
+## Emoji Legend
 
-### Exam for the Certification of Pharmacy Technicians (ExCPT)
+The following emoji system is used to quickly identify important categories of information. Some symbols may be combined to indicate overlapping relevance (e.g., both state and federal law).
 
-The ExCPT (Exam for the Certification of Pharmacy Technicians) is a 100-question, multiple-choice exam that tests a candidate's knowledge in three main areas:
-
-- **The Dispensing Process** (55%): Covers all aspects of dispensing medications, from receiving and processing orders to preparing and dispensing prescriptions, as well as calculations, compounding, and sterile & nonsterile products
-- **Laws & Regulations** (25%): Covers the role, scope of practice, and general duties of a pharmacy technician, as well as relevant laws and regulations, including those related to controlled substances
-- **Drugs and Drug Therapy** (20%): Tests knowledge of drug classifications, frequently prescribed medications, and their mechanisms of action
-
-It is a computer-based exam and requires one continuous session to complete. The exam also includes 20 pretest questions, which are not scored, and candidates are given 2 hours and 10 minutes to complete the test.
-
-### Pharmacy Technician Certification Examination (PTCE)
-
-The PTCE, or Pharmacy Technician Certification Examination, is a 2-hour computer-based exam with 90 multiple-choice questions (80 scored and 10 unscored). It evaluates knowledge in four key areas:
-
-- **Medications** (40%): Covers generic and brand names, classifications, therapeutic equivalence, and drug interactions
-- **Patient Safety & Quality Assurance** (26.25%): Covers high-alert medications, error prevention strategies, and quality assurance measures
-- **Order Entry & Processing** (21.25%): Focuses on medication order entry, prescription filling, and related processes
-- **Federal Requirements** (12.5%): Focuses on handling and disposal of pharmaceutical substances, controlled substance regulations (DEA), and federal agency requirements (DEA, FDA)
+| Emoji | Meaning                                                   |
+| ----- | --------------------------------------------------------- |
+| 🐻    | California state law                                      |
+| 🦅    | Federal law                                               |
+| 🐻x🦅 | Areas where California and federal law intersect          |
+| 🔐    | Controlled substances or scheduled drugs                  |
+| 📰    | REMS medications requiring Patient Package Inserts (PPIs) |
+| ☣️    | Hazardous materials or medications                        |
+| 🔗    | Internal link to another document in this repository      |
 
 ## Core Reading
+
+Chapters and SOPs are organized for both conceptual understanding and practical workflow reference:
+
+### Chapters
 
 - [Chapter 1: Pharmacies - Duties, Services, Law, & Ethics](./1_duties_services_law.md)
 - [Chapter 2: The Discovery, Manufacture, & Logistics of Drugs](./2_discovery_manufacture_logistics.md)
 - [Chapter 3: Healthcare Coverage](./3_healthcare_coverage.md)
 - [Chapter 4: Legal Access to Marketed Drugs](./4_access_to_drugs.md)
 - [Chapter 5: Pharmacy Settings & Technician Specializations](./5_settings.md)
-- [SOP: New Patient Intake](./sop/new_patient_intake.md)
-- [SOP: Prescription Intake](./sop/prescription_intake.md)
-- [SOP: Prescription Refills & Renewal Requests](./sop/refill_renewal_request.md)
-- [SOP: Partial Fills](./sop/partial_fills.md)
-- [SOP: Aseptic Handwashing & Gowning](./sop/aseptic_gowning.pdf)
 
-> 🧮 Math Tutorials can be found in the `./math` folder.
+### SOPs
+
+- [New Patient Intake](./sop/new_patient_intake.md)
+- [Prescription Intake](./sop/prescription_intake.md)
+- [Prescription Refills & Renewal Requests](./sop/refill_renewal_request.md)
+- [Partial Fills](./sop/partial_fills.md)
+- [Aseptic Handwashing & Gowning](./sop/aseptic_gowning.pdf)
+
+> 🧮 Math tutorials are located in the `./math` directory.
 
 ## Todo
 
