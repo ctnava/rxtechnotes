@@ -1,6 +1,15 @@
 # 📘 Appendix II: Calculating Days Supply
 
-The Days Supply refers to how long a prescription will last based on the quantity dispensed and the prescribed dosing instructions. The formula to calculate Days Supply is `Days Supply = Quantity Dispensed/ Daily Allowance of Medication` and varies slightly based on billable quantity due to dosage form. In the event that the days supply is not a whole number, round down to the nearest whole number.
+The Days Supply refers to how long a prescription will last based on the quantity dispensed and the prescribed dosing instructions. This is used by insurers to determine refill eligibility during adjudication.
+
+**Formula**:  
+`Days Supply = Quantity Dispensed / Daily Allowance of Medication`
+
+**Rules:**
+
+- Round **down** to the nearest whole day
+- Days supply should be calculated based on **maximum daily usage**
+- Consider split dosing and package-size limitations (e.g., inhalers, patches)
 
 | **Dosage Form** | **Billable Quantity** | **Formula for Days Supply** | **Notes** |
 | --- | --- | --- | --- |
