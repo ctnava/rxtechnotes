@@ -101,3 +101,23 @@ Manufacturers participating in the Medicaid program are required to offer discou
 ## Patient Protection & Affordable Care Act (Obamacare, 2010)
 
 The Obamacare was signed into law with the overall goals of improving patient care, quality, and outcomes while reducing cost.
+
+## Drug Supply Chain Security Act (DSCSA, 2013)
+
+The DSCSA aims to improve the security and traceability of prescription drugs in the supply chain.
+
+### 🎯 DSCSA Objectives
+
+- **Patient Safety**: Protecting patients from harmful drugs, including counterfeit, stolen, or contaminated medications.
+- **Drug Supply Chain Security**: Enhancing the security of the drug supply chain by making it more difficult for illegitimate products to enter.
+- **Data Exchange**: Facilitating a more seamless flow of data between supply chain partners.
+
+### 🔑 DSCSA Key Features
+
+- **Product Identification**: All prescription drugs must be labeled with a unique product identifier, including a Global Trade Identification Number (GTIN), serial number, lot number, and expiration date.
+  - **Matrix Barcode (2D) Mandate**: Requires the use of 2D barcodes, specifically GS1 DataMatrix barcodes, on the unit of sale (UoS) packaging of prescription drugs.
+- **Tracing**: Detailed transaction information, history, and statements must be maintained and shared electronically to trace drugs throughout the supply chain.
+- **Verification**: Drug identifiers must be verified at various points in the supply chain to ensure their authenticity and prevent illegitimate products from entering the system.
+- **Notification**: Trading partners must notify the FDA and other involved parties within 24 hours of discovering an illegitimate or high-risk product.
+- **Interoperable Systems**: The law mandates the development of an electronic, interoperable system for tracking drugs from manufacturer to dispenser.
+- **Enforcement**: The FDA has been implementing the DSCSA since 2013, and enforcement began in 2025.

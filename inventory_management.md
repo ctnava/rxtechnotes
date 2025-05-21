@@ -45,7 +45,7 @@ Pharmacy inventory includes:
 ### 🗃️ Inventory Systems
 
 - **Perpetual Inventory System**
-  - Maintains a **real-time record** of inventory by updating whenever medications are received or dispensed.
+  - Maintains a **real-time record** of inventory by updating whenever medications are received or dispensed when automated systems are properly integrated
     - Enables accurate audits at any point
   - 🔐 Required for **controlled substances (Schedules II–V)**.
   - Generates automatic reorders based on **PAR levels**.
@@ -61,6 +61,8 @@ Pharmacy inventory includes:
 
 ## 📅 Inventory Counting & Audits
 
+<!-- Todo: 🔗 Inventory Counting & Discrepancy Reporting SOP Document Link -->
+
 ### Initial Inventory
 
 - Conducted before opening a new pharmacy or adding controlled substances to stock
@@ -74,7 +76,7 @@ Pharmacy inventory includes:
 
 - Required every 2 years under DEA rules
 - Full controlled substance inventory by actual physical count
-- Must be signed and dated by PIC
+- 🛡️ Signed and dated by PIC; Often required by many state boards or employers
 
 ### Annual Physical Inventory
 
@@ -87,19 +89,20 @@ Pharmacy inventory includes:
   - **Documented promptly**
   - **Investigated thoroughly**
   - **Resolved with corrective actions**
-- 🔐 **DEA Form 106** is required if loss or theft of controlled substances is confirmed
+- 🔐 `DEA Form 106` is required if loss or theft of controlled substances is confirmed
 
 > 🛡️ Maintain accurate records to protect your license and ensure audit readiness.
 
-<!-- Todo: ### 🔗 Inventory Counting & Discrepancy Reporting SOP Document Link -->
-
 ## 💰 Purchasing
+
+<!-- Todo: 🔗 Ordering SOP Document Link -->
 
 Pharmacies purchase stock from state-licensed:
 
 - **Suppliers**: produce, label, and package drugs
 - **Wholesalers**: purchase drugs in bulk and then sell them to medical facilities
 
+> 🦅x🔐 FDA and DEA registration is also required for controlled substances.
 > 🦅 See the 🔗 [PDMA](./law/abbreviated_federal_law_reference.md#prescription-drug-marketing-act-pdma-1987) for regulations on manufacturer & wholesaler activities.
 
 ### 🏭 Suppliers
@@ -108,13 +111,13 @@ There are 3 main types of supplier: drug manufacturers, specialty pharmacies, an
 
 - **Drug Manufacturers** package medication in standard dosage forms for mass distribution
 - **Specialty Pharmacies** focus on providing high-cost, complex medications and specialized services to patients with chronic conditions
-- **Compounding Pharmacies** customize medications on a patient-specific basic, often mixing, combinging, or altering existing drugs to meet individual needs
+- **Compounding Pharmacies** customize medications on a patient-specific basis, often mixing, combining, or altering existing drugs to meet individual needs
 
 > 🦅 [340B](./law/abbreviated_federal_law_reference.md#340b-drug-pricing-program-340b-1992) limits the cost safety-net providers, like medicaid, federally qualified health centers, and qualified hospitals paid for outpatient drugs through wholesalers.
 
 ### 🚚 Wholesalers
 
-Wholesalers purchase drugs from manufactures in bulk and create wide distribution networks to ensure availability by storing their purchases in warehouses around the country so that deliveries can be made in 24-48 hours. They also drop ship lower-volume, high-cost medications on an as-needed basis.
+Wholesalers create regional and national distribution networks, storing bulk purchases in strategically placed warehouses to enable 24–48 hour delivery. They also drop ship lower-volume, high-cost medications on an as-needed basis.
 
 ### 📦 Manufacturer Labels & Drug Identification
 
@@ -131,10 +134,19 @@ Manufacturer labels include:
 - Batch/lot number
 - Barcodes
   - **Linear Barcodes (1D)** appear as stripes that can be read forward or backwards and encodes NDC. Used for stock checks.
-  - **Matrix Barcodes (2D)** appear as squares with black or white pixels; encoding NDC, batch, and expiration. Used in prescription filling to verify the correct product is being used.
+  - **Matrix Barcodes (2D)** appear as squares with black or white pixels; encoding NDC, batch, and expiration. Used in prescription filling to verify the correct product is being used. (Mandated by the 🔗 [DSCSA](./law/abbreviated_federal_law_reference.md#drug-supply-chain-security-act-dscsa-2013))
 - 🔐 DEA Schedule (if applicable)
 
 > 🛡️ The ISMP encourages the use of **Tall Man Lettering** to differentiate look-alike/sound-alike drugs  
 > Example: `predniSONE` vs. `prednisoLONE`
 
-<!-- Todo: ### 🔗 Ordering SOP Document Link -->
+## 🧹 Maintenance
+
+- **Damaged stock**: [defintion]
+- **Expired stock**: Medications past labeled expiration date. Typically in `YYYY/MM` format (good through the end of the month unless in `MM/DD/YYYY` format).
+- **Discontinued Medications**: [definition]
+- **Recalled Medications**: [definition]
+  - **Class I**: Serious health hazard or death (e.g., wrong drug in bottle).
+  - **Class II**: Temporary or reversible health effects.
+  - **Class III**: Unlikely to cause harm but violates FDA standards.
+- **Reverse distribution**: Process of returning expired/damaged products to authorized entities
