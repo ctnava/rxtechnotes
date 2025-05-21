@@ -18,7 +18,14 @@ The following emoji system is used to quickly identify important categories of i
 | ☣️ | Hazardous medications or materials |
 | 🤧 | Known allergens |
 | 💸 | Over-the-Counter (OTC) medications |
+| 🚨 | Clarifying notes or notes on common misconceptions |
+| 📍  | Notes on things that are good to remember |
+| 🤯 | Trivial notes & fun facts |
+| 🩺 | Notes about pharmacist involvement |
+| 🛡️ | Best practices to cover your ass |
+| 🔑 | Key Information |
 | 🔗 | Internal cross-reference within this repository |
+| ✅ | Checklists & Reminders |
 
 ## 📚 Core Reading Materials
 
