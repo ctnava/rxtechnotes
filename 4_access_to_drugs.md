@@ -27,7 +27,7 @@ When performing **medication reconciliation** (the process of gathering a patien
 
 The ***Controlled Substances Act (CSA, 1970)*** classifies five levels of controlled substances that have potential for abuse and therefore restricts their distribution. These five categories are called "schedules" and are determined based on potential for abuse, medical use, and risk to overall safety. Drugs placed in Schedules I–V are controlled substances and are subject to varying degrees of regulation regarding prescribing, dispensing, and recordkeeping.
 
-The ***Combat Methamphetamine Epidemic Act (CMEA, 2005)*** was enacted to combat the illegal production of methamphetamine by creating a list of monitored drugs, equipment, and chemicals while also placing ***strict, time based controls on over-the-counter (OTC)*** sales of ingredients that are commonly found in cold and allergy medications but can also be used in the **illicit manufacture of methamphetamine**. ([more information](./Prescriptions/ii_controlled_listed_substances.md))
+The ***Combat Methamphetamine Epidemic Act (CMEA, 2005)*** was enacted to combat the illegal production of methamphetamine by creating a list of monitored drugs, equipment, and chemicals while also placing ***strict, time based controls on over-the-counter (OTC)*** sales of ingredients that are commonly found in cold and allergy medications but can also be used in the **illicit manufacture of methamphetamine**. ([more information](./medications/controlled_listed_substances.md))
 
 ## Medication Orders & Prescriptions
 

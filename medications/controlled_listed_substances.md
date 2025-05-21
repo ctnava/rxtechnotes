@@ -1,4 +1,4 @@
-# 📘 Appendix II: Controlled & Listed Substances
+# 💊 Controlled & Listed Substances
 
 ## ⚠️ Controlled Substances Act (CSA, 1970)
 
