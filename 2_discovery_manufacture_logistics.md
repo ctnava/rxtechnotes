@@ -23,7 +23,7 @@ This chapter covers how drugs are discovered, developed, tested, manufactured, d
 - Passed after the **thalidomide** tragedy, which caused severe birth defects in pregnant women when it was used as a sleeping pill without any warnings
 - Reinforced by Alberty Food Products v. US (1950), which required labeling intended use.
 
-> **TRIVIA**: The 1976 Medical Device Amendment requires pre-market approval for safety & efficacy of life-sustaining and life-supporting medical devices.
+> 🤯 In 1976, the Medical Device Regulation Act (or "Medical Device Amendments") established the framework for regulating medical devices to ensure their safety and effectiveness. This means pre-market approval is required for life-sustaining and life-supporting medical devices (Class III).
 
 ## Drug Development & Manufacturing
 
