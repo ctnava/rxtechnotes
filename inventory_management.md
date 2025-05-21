@@ -169,6 +169,48 @@ Pharmacy technicians must:
 >
 > 🛡️ Retain all receiving documents for recordkeeping and future audits. Ensure chain-of-custody documentation is maintained, especially for controlled substances.
 
+## 📁 Storage
+
+Proper storage of medications ensures **potency, safety, and compliance** with federal and state regulations. Poor storage practices can lead to contamination, degradation, or diversion. Pharmacy technicians play a key role in maintaining clean, organized, and legally compliant storage environments.
+
+### 🛡️ Best Practices
+
+- **FIFO (First In, First Out)**: Always stock **older inventory in front** of newer stock so that the earliest expiration dates are used first. This reduces the chance of medications expiring on the shelf.
+- **LASA Medications (Look-Alike, Sound-Alike)**: Must be **separated**, flagged with warning stickers, or labeled using **Tall Man Lettering** (e.g., `predniSONE` vs. `prednisoLONE`). Storing these on **separate shelves or tiers** further reduces risk of dispensing errors.
+- **Mylars**: Used to identify **hazardous drugs** (☣️). These labels should be placed clearly on shelves and packaging. Extra precautions should be followed when handling.
+- **Store by Dosage Form & Sort by Strength**:
+  - Organize shelves **first by dosage form** (e.g., tablets, capsules, liquids, injectables).
+  - Then, sort each dosage form **by strength**, from **lowest to highest**.
+  - This prevents mix-ups and ensures faster, safer dispensing workflow.
+
+### 🗂️ Special Storage Locations
+
+- **Fast Mover Shelf**: Roughly 20% of medications account for 80% of dispensing volume. These high-demand items are kept on a dedicated shelf for **quick access**. Always check if new stock belongs here before shelving elsewhere.
+- **Unit of Use Shelf**: Designated for **unit-dose packaging** (single doses) or **unit-of-use packs** (e.g., a 10-day antibiotic course). Keeps bulk items separated from pre-counted or therapy-based packaging.
+- **ALPHA Shelves**: Low-demand inventory (the remaining 80%) is organized **alphabetically** by generic name unless otherwise directed.
+- **Negative Pressure Isolation Room**: Used for storage of **radioactive**, **cytotoxic**, or other **hazardous substances**. These rooms prevent hazardous vapors from escaping into surrounding areas.
+- 🔐 **CII Inventory Safe**: Schedule II medications must be stored in a **secure, locked cabinet or safe**, accessible only by authorized personnel per DEA regulations (🦅x🔐).
+
+> 🛡️ **Always check Fast Mover and Unit of Use shelves first** before placing items on ALPHA shelves.
+
+### 🌡️ USP Storage Temperature Guidelines
+
+| Storage Type           | Temperature Range                   |
+|------------------------|-------------------------------------|
+| **Freezer** | –25°C to –10°C (–13°F to 14°F) |
+| **Refrigerated** | 2°C to 8°C (36°F to 46°F) |
+| **Controlled Room Temp** | 20°C to 25°C (68°F to 77°F) |
+| **Excessive Heat** | > 40°C (> 104°F) |
+
+> 📍 *Temperatures must be checked and logged **daily**. Any out-of-range readings should be reported to the pharmacist-in-charge immediately and documented according to facility SOP.*
+
+### 🏥 Floor Stock (Hospitals)
+
+- Medications stored outside the central pharmacy, typically on **nursing units** for immediate patient use.
+- Includes **frequently used items**, such as PRN pain relievers, antacids, or emergency medications.
+- Must be **monitored, replenished, and audited regularly**.
+- Controlled substances in floor stock require **additional tracking and documentation** per DEA and institutional policies (🦅x🔐).
+
 ## 🧹 Maintenance
 
 Pharmacy technicians are responsible for routinely (e.g., weekly or monthly) checking inventory for medications that are **no longer eligible for dispensing**. These medications must be promptly **removed from active stock**, **clearly labeled**, and **accurately documented** to prevent errors, diversion, or legal noncompliance.
