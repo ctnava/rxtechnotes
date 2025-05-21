@@ -91,7 +91,30 @@ Pharmacy inventory includes:
 
 > 🛡️ Maintain accurate records to protect your license and ensure audit readiness.
 
-## 📦 Manufacturer Labels & Drug Identification
+## 💰 Purchasing
+
+Pharmacies purchase stock from state-licensed:
+
+- **Suppliers**: produce, label, and package drugs
+- **Wholesalers**: purchase drugs in bulk and then sell them to medical facilities
+
+> 🦅 See the [PDMA](./law/abbreviated_federal_law_reference.md#prescription-drug-marketing-act-pdma-1987) for regulations on manufacturer & wholesaler activities.
+
+### 🏭 Suppliers
+
+There are 3 main types of supplier: drug manufacturers, specialty pharmacies, and compounding pharmacies. All of them order raw materials or finished goods (like (in)active ingredients) to produce their goods. However, each one exists for a different scale of care.
+
+- **Drug Manufacturers** package medication in standard dosage forms for mass distribution
+- **Specialty Pharmacies** focus on providing high-cost, complex medications and specialized services to patients with chronic conditions
+- **Compounding Pharmacies** customize medications on a patient-specific basic, often mixing, combinging, or altering existing drugs to meet individual needs
+
+> 🦅 [340B](./law/abbreviated_federal_law_reference.md#340b-drug-pricing-program-340b-1992) limits the cost safety-net providers, like medicaid, federally qualified health centers, and qualified hospitals paid for outpatient drugs through wholesalers.
+
+### 🚚 Wholesalers
+
+Wholesalers purchase drugs from manufactures in bulk and create wide distribution networks to ensure availability by storing their purchases in warehouses around the country so that deliveries can be made in 24-48 hours. They also drop ship lower-volume, high-cost medications on an as-needed basis.
+
+### 📦 Manufacturer Labels & Drug Identification
 
 Labels that are truthful, standardized, and easy for consumers to understand; ensuring transparency and the prevention of deceptive packaging (see the [FPLA](./law/abbreviated_federal_law_reference.md#fair-packaging--labeling-act-fpla-1967)).
 

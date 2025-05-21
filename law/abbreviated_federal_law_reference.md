@@ -78,6 +78,26 @@ The Drug Listing Act of 1972 mandates that all drug establishments provide a com
 > 📌 NDCs can appear as 10-digit variations on packaging. For databases and claims, they are normalized to **11-digit** format with leading zeros (e.g. `0517-0420-01` ➡ `00517-0420-01`).
 > 🤯 NATO Stock Number (NSN) is the military analog to the NDC.
 
+## Prescription Drug Marketing Act (PDMA, 1987)
+
+The PDMA primarily aims to protect public health by regulating the distribution of prescription drugs and samples. It prevents the sale of counterfeit, adulterated, or subpotent drugs by mandating that:
+
+- **Wholesalers** must be licensed by the state they operate in and meet uniform standards.
+- **Wholesalers** may not reimport batches of prescription drugs manufactured in the US and exported abroad back into the US; preventing the entry of potentially compromised or counterfeit drugs.
+- **Wholesalers** & **Manufacturers** may only provide medication samples to licensed prescribers upon request and with proper record-keeping; preventing the illegal sale of samples.
+
+## 340B Drug Pricing Program (340B, 1992)
+
+340B allows certain hospitals and other healthcare providers, known as "covered entities," to purchase outpatient drugs at discounted prices from pharmaceutical manufacturers. This program is intended to help "stretch scarce federal resources" and improve access to medications for vulnerable populations.
+
+Covered entities include:
+
+- hospitals that receive financial assistance under the Public Health Service Act
+- certain federally qualified health centers (FQHCs)
+- other providers serving underserved populations
+
+Manufacturers participating in the Medicaid program are required to offer discounted prices on covered outpatient drugs to participating 340B entities.
+
 ## Patient Protection & Affordable Care Act (Obamacare, 2010)
 
 The Obamacare was signed into law with the overall goals of improving patient care, quality, and outcomes while reducing cost.

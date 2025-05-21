@@ -146,6 +146,8 @@ There are 3 main types of supplier: drug manufacturers, specialty pharmacies, an
 - **Specialty Pharmacies** focus on providing high-cost, complex medications and specialized services to patients with chronic conditions
 - **Compounding Pharmacies** customize medications on a patient-specific basic, often mixing, combinging, or altering existing drugs to meet individual needs
 
+> **Note**: The federal **340B Drug Pricing Program** limits the cost safety-net providers, like medicaid, federally qualified health centers, and qualified hospitals paid for outpatient drugs through wholesalers.
+
 ### Wholesalers
 
 Wholesalers purchase drugs from manufactures in bulk and create wide distribution networks to ensure availability by storing their purchases in warehouses around the country so that deliveries can be made in 24-48 hours. They also drop ship lower-volume, high-cost medications on an as-needed basis.
@@ -155,8 +157,6 @@ The **Prescription Drug Marketing Act** mandates that wholesalers & manufacturer
 - must be licensed by the states they operate in
 - may not reimport batches of drugs once exported
 - may only give samples of medication to doctors
-
-> **Note**: The federal **340B Drug Pricing Program** limits the cost safety-net providers, like medicaid, federally qualified health centers, and qualified hospitals paid for outpatient drugs through wholesalers.
 
 ### Drug Manufacturer Labels
 
