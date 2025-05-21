@@ -142,11 +142,51 @@ Manufacturer labels include:
 
 ## 🧹 Maintenance
 
-- **Damaged stock**: [defintion]
-- **Expired stock**: Medications past labeled expiration date. Typically in `YYYY/MM` format (good through the end of the month unless in `MM/DD/YYYY` format).
-- **Discontinued Medications**: [definition]
-- **Recalled Medications**: [definition]
-  - **Class I**: Serious health hazard or death (e.g., wrong drug in bottle).
-  - **Class II**: Temporary or reversible health effects.
-  - **Class III**: Unlikely to cause harm but violates FDA standards.
-- **Reverse distribution**: Process of returning expired/damaged products to authorized entities
+Pharmacy technicians are responsible for routinely (e.g., weekly or monthly) checking inventory for medications that are **no longer eligible for dispensing**. These medications must be promptly **removed from active stock**, **clearly labeled**, and **accurately documented** to prevent errors, diversion, or legal noncompliance.
+
+> ✅ Applies to all technicians responsible for inventory checks, stock rotation, and returns.
+
+<!-- Todo: 🔗 Inventory Maintenance SOP Document Link -->
+
+### ⏰ Routine Inspections
+
+Medications ineligible for dispensing or distribution include:
+
+- **Damaged Stock**: Sensitive items with broken seals (e.g. opened NitroStat vials), crushed tablets, illegible packaging, visible contamination, or signs of improper storage (e.g., water damage, temperature excursion).
+- **Expired Stock**: Products past their labeled expiration date, typically listed as `YYYY/MM`. These are valid **through the last day of the month** unless marked with a full `MM/DD/YYYY` date.
+  - **Within 6 months of expiration**: Apply a **"short-dated" label**; may remain available for dispensing with priority rotation.
+  - **Within 3 months of expiration**: **Pull** from saleable inventory and transfer to quarantine area for return or disposal.
+- **Discontinued Medications**: Medications no longer manufactured or distributed. Includes products withdrawn for safety reasons or replaced with updated formulations.
+- **Recalled Medications**: Subject to a manufacturer or FDA-initiated recall due to safety, efficacy, or compliance issues. Must be removed immediately upon notice.
+  - <!-- Todo: 🔗 FDA Recalls Document Link -->
+  - **Class I**: Reasonable probability of serious health consequences or death (e.g., mislabeling, contamination).
+  - **Class II**: Temporary or reversible medical harm (e.g., potency variations).
+  - **Class III**: Not likely to cause harm but violates FDA labeling or manufacturing standards.
+
+> 📍 All ineligible medications must be stored in a **clearly marked, physically separated area** (e.g., “Do Not Dispense,” “Quarantine Bin”) and recorded in inventory logs.
+> 🔐 Controlled substances must be **tracked, segregated, and secured** under DEA regulations when awaiting return or destruction.
+
+### 🗑️ Reverse Distribution
+
+**Reverse distributors** are **DEA-registered third parties** authorized to handle the return and destruction of pharmaceuticals. They process:
+
+- **Expired**
+- **Damaged**
+- **Discontinued**
+- **Recalled**
+- **Unwanted controlled substances**
+
+Pharmacy technicians must:
+
+- **Sort** medications into:
+  - **Returnable items** (eligible for credit or replacement)
+  - **Non-returnable items** (must be destroyed)
+- **Document** all items in reverse distribution logs, including quantity, lot number, expiration date, and reason for removal.
+- **Package** inventory securely for shipment, following all handling and labeling protocols.
+- 🔐 **Controlled Substances**:
+  - Destruction must be documented using `DEA Form 41`
+  - Return to a reverse distributor must maintain **chain-of-custody**
+  - Disposal on-site (rare) must be **witnessed** and logged per DEA and state board requirements
+
+> 🛡️ Follow all facility SOPs, manufacturer instructions, and reverse distributor protocols.  
+> 🛡️ Always maintain complete records of returned or destroyed products in case of audit or diversion investigation.
