@@ -1,4 +1,4 @@
-# 📘 Appendix IV: Considerations for OTC Analgesics
+# 📘 Considerations for OTC Analgesics
 
 Analgesics are medications used to relieve pain. They may be:
 

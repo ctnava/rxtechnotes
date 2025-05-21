@@ -98,7 +98,7 @@ OTC medications are not automatically safe. They can cause:
 - **Duplicate therapy**
 - **Toxicity** (e.g., acetaminophen overuse)
 
-🔗 [More Guidance on OTC Analgesics](../medications/iv_otc_analgesics.md)
+🔗 [More Guidance on OTC Analgesics](../medications/otc_analgesics.md)
 
 > 🩺 **Refer patients to the pharmacist** for counseling if potential issues arise  
 
