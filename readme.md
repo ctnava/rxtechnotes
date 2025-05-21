@@ -1,42 +1,56 @@
 # Rx Tech Notes for CA State Licensure & National Certification
 
-Welcome to my pharmacy technician study notes. This repository is tailored to support candidates preparing for **California state licensure** and **national certification**.
+Welcome to *Rx Tech Notes*, a curated study resource for pharmacy technician candidates pursuing **California state licensure** and **national certification**. This repository consolidates essential regulatory, procedural, and pharmacological knowledge aligned with both state and federal standards.
 
-## Emoji Legend
+---
 
-The following emoji system is used to quickly identify important categories of information. Some symbols may be combined to indicate overlapping relevance (e.g., both state and federal law).
+## 🔖 Emoji Key
 
-| Emoji | Meaning                                                   |
-| ----- | --------------------------------------------------------- |
-| 🐻    | California state law                                      |
-| 🦅    | Federal law                                               |
-| 🐻x🦅 | Areas where California and federal law intersect          |
-| 🔐    | Controlled substances or scheduled drugs                  |
-| 📰    | REMS medications requiring Patient Package Inserts (PPIs) |
-| ☣️    | Hazardous materials or medications                        |
-| 🔗    | Internal link to another document in this repository      |
+The following emoji system is used to quickly identify important categories of information. Some symbols may be combined with an `x` to indicate overlapping relevance (e.g., both state and federal law).
 
-## Core Reading
+| Emoji | Classification |
+|-------|----------------|
+| 🐻 | California state law |
+| 🦅 | Federal law |
+| 🦅x🐻 | Intersection of federal and California law |
+| 🔐 | Controlled substances or scheduled medications |
+| 📰 | REMS drugs with Patient Package Inserts (PPIs) |
+| ☣️ | Hazardous medications or materials |
+| 🤧 | Known allergens |
+| 💸 | Over-the-counter (OTC) medications |
+| 🔗 | Internal cross-reference within this repository |
 
-Chapters and SOPs are organized for both conceptual understanding and practical workflow reference:
+---
 
-### Chapters
+## 📚 Core Reading Materials
 
-- [Chapter 1: Pharmacies - Duties, Services, Law, & Ethics](./1_duties_services_law.md)
-- [Chapter 2: The Discovery, Manufacture, & Logistics of Drugs](./2_discovery_manufacture_logistics.md)
-- [Chapter 3: Healthcare Coverage](./3_healthcare_coverage.md)
-- [Chapter 4: Legal Access to Marketed Drugs](./4_access_to_drugs.md)
-- [Chapter 5: Pharmacy Settings & Technician Specializations](./5_settings.md)
+Structured for both exam prep and on-the-job reference.
 
-### SOPs
+### 📖 Chapters
 
-- [New Patient Intake](./sop/new_patient_intake.md)
-- [Prescription Intake](./sop/prescription_intake.md)
-- [Prescription Refills & Renewal Requests](./sop/refill_renewal_request.md)
-- [Partial Fills](./sop/partial_fills.md)
-- [Aseptic Handwashing & Gowning](./sop/aseptic_gowning.pdf)
+| Chapter | Title |
+|---------|-------|
+| 1 | [Pharmacies: Duties, Services, Law, & Ethics](./1_duties_services_law.md) |
+| 2 | [Drug Discovery, Manufacturing, & Logistics](./2_discovery_manufacture_logistics.md) |
+| 3 | [Healthcare Coverage](./3_healthcare_coverage.md) |
+| 4 | [Legal Access to Marketed Drugs](./4_access_to_drugs.md) |
+| 5 | [Pharmacy Settings & Technician Roles](./5_settings.md) |
 
-> 🧮 Math tutorials are located in the `./math` directory.
+### 🛠️ Standard Operating Procedures (SOPs)
+
+| SOP Task | Document Link |
+|----------|---------------|
+| New Patient Intake | [New Patient Intake](./sop/new_patient_intake.md) |
+| Prescription Intake | [Prescription Intake](./sop/prescription_intake.md)|
+| Refills & Renewal Requests | [Refill & Renewal](./sop/refill_renewal_request.md)|
+| Partial Fills | [Partial Fills](./sop/partial_fills.md) |
+| Aseptic Handwashing & Gowning | [Aseptic Technique (PDF)](./sop/aseptic_gowning.pdf) |
+
+---
+
+> 📁 **Math tutorials** are located in the [`./math`](./math) directory.
+>
+> ---
 
 ## Todo
 
