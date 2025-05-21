@@ -140,7 +140,7 @@ Pharmacy technicians may be required to help verify DEA numbers as part of presc
 
 #### 📱 Calculating Days Supply
 
-The Days Supply refers to how long a prescription will last based on the quantity dispensed and the prescribed dosing instructions. The formula to calculate Days Supply is `Days Supply = Quantity Dispensed/ Daily Allowance of Medication` and varies slightly based on billable quantity due to dosage form. In the event that the days supply is not a whole number, round down to the nearest whole number ([How to Calculate](./math/ii_days_supply.md)).
+The Days Supply refers to how long a prescription will last based on the quantity dispensed and the prescribed dosing instructions. The formula to calculate Days Supply is `Days Supply = Quantity Dispensed/ Daily Allowance of Medication` and varies slightly based on billable quantity due to dosage form. In the event that the days supply is not a whole number, round down to the nearest whole number ([How to Calculate](./math/days_supply.md)).
 
 #### Translating the Signa
 

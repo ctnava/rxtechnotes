@@ -141,7 +141,7 @@ The Days Supply refers to how long a prescription will last based on the quantit
 - Days supply should be calculated based on **maximum daily usage**
 - Consider split dosing and package-size limitations (e.g., inhalers, patches)
 
-🔗 ([Days Supply Calculation Guide](../math/ii_days_supply.md))
+🔗 ([Days Supply Calculation Guide](../math/days_supply.md))
 
 ## 💻 Step 5: Claim Submission & Adjudication
 
