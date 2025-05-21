@@ -126,7 +126,7 @@ Technicians must accurately convert prescriber shorthand into full instructions.
 
 > ⚠️ **Errors in sig translation can cause incorrect dosing or days supply. Confirm unclear abbreviations with a pharmacist.**
 
-🔗 ([Abbreviation Reference Table](../prescriptions/iv_translation.md))
+🔗 ([Abbreviation Reference Table](../prescriptions/translation.md))
 
 ## 📱 Step 4: Calculating Days Supply
 

@@ -45,9 +45,9 @@ When processing prescriptions for intake and order entry, make sure they contain
   - **required**: name & address
   - **optional**: date of birth & weight (for pediatrics)
 - **Inscription**: specifies the generic name of the medication, brand name (if required), including strength & amount
-- **Signa**: directions for use (notes on translation [here](./Prescriptions/iv_translation.md))
+- **Signa**: directions for use (notes on translation [here](./prescriptions/translation.md))
 - **Refill Instructions**: How many refills are authorized for the patient
-- **Product Selection Code (Optional)**: Whether or not the medication is specified to be dispensed as written ([Reference Table](./Prescriptions/product_selection.md))
+- **Product Selection Code (Optional)**: Whether or not the medication is specified to be dispensed as written ([Reference Table](./prescriptions/product_selection.md))
 - **Prescriber Signature**: required on all prescriptions
 
 ⚠️ ALWAYS for allergies, medications the patient is taking, & if there were any changes to insurance.
@@ -144,7 +144,7 @@ The Days Supply refers to how long a prescription will last based on the quantit
 
 #### Translating the Signa
 
-The signa (the "sig") is almost always heavily abbreviated and pharmacy techs are often required to transcribe them for computer entry ([Reference Table](./Prescriptions/iv_translation.md)). It is important to make sure to do this accurately as this directly affects calculations for days supply. Transcription errors during this phase can lead to potentially fatal administration errors.
+The signa (the "sig") is almost always heavily abbreviated and pharmacy techs are often required to transcribe them for computer entry ([Reference Table](./prescriptions/translation.md)). It is important to make sure to do this accurately as this directly affects calculations for days supply. Transcription errors during this phase can lead to potentially fatal administration errors.
 
 At a minimum, these sigs require the following to be considered complete:
 
