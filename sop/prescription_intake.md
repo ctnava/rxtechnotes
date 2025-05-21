@@ -53,17 +53,35 @@ In hospital settings, medication orders require additional fields:
 - **Patient Hospital ID** & Room/Bed number
 - **Indication for Use**: Diagnosis or symptom
 - 🐻 **California Law**
-  - **Prescriber Signature**: For verbal orders, prescriber must sign within 48 hours (Title 22, §70747)
+  - **Prescriber Signature**
+    - **Non-Controlled Verbal Orders**: Must be signed by the prescriber within **48 hours** (Title 22, §70747)
+    - **Controlled Substances (CII Emergency)**: See emergency protocol below
 
 > ⚠️ **Schedule II Controlled Substances cannot be ordered verbally**, except in **bona fide emergencies** and **only by a prescriber**. In such cases, a **follow-up prescription** must be:
 >
-> - **Written**,  
-> - **Dated**, and  
-> - **Counter-signed by the prescriber**,  
+> - **Written**
+> - **Dated**
+> - **Counter-signed by the prescriber**
 >
-> and received by the pharmacy **within 7 days** of the emergency oral authorization.
+> and must include:
+>
+> - the phrase: **"Authorization for Emergency Dispensing"**
+> - the **date of the oral order**
+>
+> This written prescription must be received by the pharmacy **within 7 days** of the oral authorization.
 >
 > If the prescriber fails to provide the written prescription within this timeframe, the pharmacist must **notify the DEA** (21 CFR §1306.11(d); CCR §1745).
+>
+> 🐻 **Faxed Schedule II Prescriptions**: May serve as the original prescription **only if**:
+>
+> - The patient is a resident of a **Long-Term Care Facility (LTCF)**
+> - The prescription is for a **hospice patient** (must be noted on the face of the Rx)
+> - The prescription is for a **compounded product** for direct administration (e.g., IV infusion)
+>
+> 🐻 **Partial Fills of Schedule II Drugs**:
+>
+> - Permitted if requested by patient or prescriber
+> - The remaining portion must be filled within **30 days** of the original prescription date (21 CFR §1306.13)
 
 ### Verification Process
 
@@ -186,7 +204,7 @@ A Third-Party Rejection (TPR) occurs when a prescription claim is denied by the 
 - **CURES Reporting** (CA’s PDMP): All Schedule II–IV drugs must be reported to CURES within 1 business day of dispensing. Pharmacists are required to consult CURES before issuing or filling most Schedule II–IV prescriptions.
   - 🔗 [More Information on Controlled Substances](../medications/controlled_listed_substances.md)
 - **Medi-Cal Claims**: May require **Treatment Authorization Requests (TARs)** and submission of **diagnosis codes**.
-- **Technician Documentation**: Technicians must document actions in accordance with facility SOPs (e.g., initials on data entry logs).
+- **Technician Documentation**: Technicians must document actions in accordance with facility SOPs (e.g., initials on data entry logs, audit trails, or EMR time-stamped entries).
 
 ### 🚫 Technician Limitations (BPC §4115)
 
