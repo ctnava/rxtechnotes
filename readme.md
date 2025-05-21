@@ -17,7 +17,7 @@ The following emoji system is used to quickly identify important categories of i
 | 📰 | REMS drugs with Patient Package Inserts (PPIs) |
 | ☣️ | Hazardous medications or materials |
 | 🤧 | Known allergens |
-| 💸 | Over-the-counter (OTC) medications |
+| 💸 | Over-the-Counter (OTC) medications |
 | 🔗 | Internal cross-reference within this repository |
 
 ## 📚 Core Reading Materials
