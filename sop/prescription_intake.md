@@ -21,7 +21,7 @@ Before processing, the pharmacy technician must review prescriptions for complet
   - **Required**: Full name and address
   - **Optional**: Date of birth and weight (especially for pediatrics)
 - **Order Details**
-  - **Date Written**: The date the prescriber issued the prescription
+  - **Date Written**: The date the prescriber issued the prescription (e.g., MM/DD/YYYY)
     - 🐻 **California Law**: *must be filled within 6 months*
   - **Inscription** (drug name, strength, dosage form, quantity)
   - **Signa (Sig)**: Complete instructions for use
@@ -65,7 +65,7 @@ In hospital settings, medication orders require additional fields:
 >
 > and must include:
 >
-> - the phrase: **"Authorization for Emergency Dispensing"**
+> - the ***EXACT*** phrase: **"Authorization for Emergency Dispensing"**
 > - the **date of the oral order**
 >
 > This written prescription must be received by the pharmacy **within 7 days** of the oral authorization.
@@ -205,6 +205,8 @@ A Third-Party Rejection (TPR) occurs when a prescription claim is denied by the 
   - 🔗 [More Information on Controlled Substances](../medications/controlled_listed_substances.md)
 - **Medi-Cal Claims**: May require **Treatment Authorization Requests (TARs)** and submission of **diagnosis codes**.
 - **Technician Documentation**: Technicians must document actions in accordance with facility SOPs (e.g., initials on data entry logs, audit trails, or EMR time-stamped entries).
+
+> 🖇 Certified e-prescribing systems must retain digital logs for auditing, especially for controlled substances.
 
 ### 🚫 Technician Limitations (BPC §4115)
 
