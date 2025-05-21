@@ -13,9 +13,7 @@ Acetaminophen (APAP) is a **non-opioid analgesic and antipyretic** used to relie
 
 **📝 Standard Sig:**
 
-```md
-Take 1–2 tablets (325–650 mg) by mouth every 4 to 6 hours as needed. Do not exceed 3,000 mg per day (2,000 mg/day for chronic alcohol users or liver disease).
-```
+> Take 1–2 tablets (325–650 mg) by mouth every 4 to 6 hours as needed. Do not exceed 3,000 mg per day (2,000 mg/day for chronic alcohol users or liver disease).
 
 - ⚠️ **Hepatotoxicity** risk with overdose
 - 📛 Monitor cumulative APAP dose from **all sources** (common in combo meds like Norco, Percocet, Nyquil, etc.)
@@ -33,9 +31,7 @@ Dosage Forms:
 
 **📝 Standard Sig:**
 
-```md
-Take 1 tablet by mouth once daily. Dose varies based on renal function and therapeutic drug monitoring.
-```
+> Take 1 tablet by mouth once daily. Dose varies based on renal function and therapeutic drug monitoring.
 
 - ⚠️ **Narrow Therapeutic Index**: monitor serum digoxin levels
 - 🩸 **Toxicity signs**: N/V, confusion, visual changes (yellow/green halos), arrhythmias
@@ -56,9 +52,7 @@ Nitroglycerin is a **vasodilator** used to treat and prevent **angina** and redu
 
 **📝 Standard Sig:**
 
-```md
-Place 1 tablet under tongue as needed for chest pain. May repeat dose every 5 minutes for a maximum of 3 doses. If no relief, call 911.
-```
+> Place 1 tablet under tongue as needed for chest pain. May repeat dose every 5 minutes for a maximum of 3 doses. If no relief, call 911.
 
 - ⚠️ Emergency medication: Must be dispensed with an easy-open cap  
 - 🌑 Photosensitive: Dispense in original brown glass bottle  
@@ -71,9 +65,7 @@ Alendronate Sodium is used for the treatment of **postmenopausal osteoporosis**.
 
 **📝 Standard Sig:**
 
-```md
-Take 1 tablet by mouth first thing in the morning with a full glass (6–8 oz) of water once weekly on the same day. Remain upright and do not eat or drink for at least 30 minutes.
-```
+> Take 1 tablet by mouth first thing in the morning with a full glass (6–8 oz) of water once weekly on the same day. Remain upright and do not eat or drink for at least 30 minutes.
 
 - 🪑 Must remain upright to prevent esophageal irritation  
 - 🚫 Do not lie down, eat, or take other medications for 30 minutes after dose  
