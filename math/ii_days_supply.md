@@ -1,4 +1,4 @@
-# 📘 Appendix II: Calculating Days Supply
+# 📘 Calculating Days Supply
 
 The Days Supply refers to how long a prescription will last based on the quantity dispensed and the prescribed dosing instructions. This is used by insurers to determine refill eligibility during adjudication.
 

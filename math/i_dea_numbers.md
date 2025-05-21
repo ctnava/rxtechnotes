@@ -1,4 +1,4 @@
-# 📘 Appendix I: Verification of DEA Numbers
+# 📘 Verification of DEA Numbers
 
 A DEA number is a unique identifier assigned by the Drug Enforcement Administration (DEA) to healthcare providers who are authorized to prescribe, dispense, or administer controlled substances. It is assigned when an individual practitioner, pharmacy, hospital/ clinic, or teaching institution files Form 224 with the DEA.
 
