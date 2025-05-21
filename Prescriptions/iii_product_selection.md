@@ -1,4 +1,4 @@
-# 📘 Appendix III: Product Selection Codes
+# 📘 Product Selection Codes
 
 Brand-name drugs are patented and sold under proprietary names. Generic drugs contain the same active ingredients, strength, dosage form, and route of administration as their brand counterparts and must meet FDA standards for pharmaceutical equivalence and bioequivalence. In most cases, they are considered therapeutically equivalent.
 
