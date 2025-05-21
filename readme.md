@@ -40,6 +40,7 @@ The PTCE, or Pharmacy Technician Certification Examination, is a 2-hour computer
 
 ## Todo
 
+- update gowning SOP to include descriptions of antechamber & clean rooms
 - hospital pharmacies
 - other pharmacy settings
 - Drug Endings (appendix)
