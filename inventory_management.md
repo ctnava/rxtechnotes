@@ -49,8 +49,9 @@ Pharmacy inventory includes:
 - **Perpetual Inventory System**
   - Maintains a **real-time record** of inventory by updating whenever medications are received or dispensed when automated systems are properly integrated
     - Enables accurate audits at any point
-  - 🔐 Required for **controlled substances (Schedules II–V)**.
+  - 🔐 Required for **controlled substances (Schedules II–V)**; logging of usage and receipts
   - Generates automatic reorders based on **PAR levels**.
+    - Manual orders may be entered.
 
 - **Point of Sale (POS) System**
   - Deducts items from inventory **at the time of sale or dispensing**.
@@ -104,6 +105,7 @@ Pharmacies provision stock from state-licensed:
 - **Suppliers**: produce, label, and package drugs
 - **Wholesalers**: purchase drugs in bulk and then sell them to medical facilities
 
+> 🔐 `DEA Form 222` is required for ordering Schedule II drugs via CSOS.
 > 🦅x🔐 FDA and DEA registration is also required for controlled substances.
 > 🦅 See the 🔗 [PDMA](./law/abbreviated_federal_law_reference.md#prescription-drug-marketing-act-pdma-1987) for regulations on manufacturer & wholesaler activities.
 
