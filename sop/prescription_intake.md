@@ -185,7 +185,7 @@ A Third-Party Rejection (TPR) occurs when a prescription claim is denied by the 
 ## 🐻 Special Considerations (California)
 
 - **CURES Reporting** (CA’s PDMP): All Schedule II–IV drugs must be reported to CURES within 1 business day of dispensing. Pharmacists are required to consult CURES before issuing or filling most Schedule II–IV prescriptions.
-  - 🔗 ([More Information on Controlled Substances](../medications/controlled_listed_substances.md))
+  - 🔗 [More Information on Controlled Substances](../medications/controlled_listed_substances.md)
 - **Medi-Cal Claims**: May require **Treatment Authorization Requests (TARs)** and submission of **diagnosis codes**.
 - **Technician Documentation**: Technicians must document actions in accordance with facility SOPs (e.g., initials on data entry logs).
 
