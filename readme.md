@@ -2,8 +2,6 @@
 
 Welcome to *Rx Tech Notes*, a curated study resource for pharmacy technician candidates pursuing **California state licensure** and **national certification**. This repository consolidates essential regulatory, procedural, and pharmacological knowledge aligned with both state and federal standards.
 
----
-
 ## 🔖 Emoji Key
 
 The following emoji system is used to quickly identify important categories of information. Some symbols may be combined with an `x` to indicate overlapping relevance (e.g., both state and federal law).
@@ -19,8 +17,6 @@ The following emoji system is used to quickly identify important categories of i
 | 🤧 | Known allergens |
 | 💸 | Over-the-counter (OTC) medications |
 | 🔗 | Internal cross-reference within this repository |
-
----
 
 ## 📚 Core Reading Materials
 
@@ -44,11 +40,9 @@ Structured for both exam prep and on-the-job reference.
 - [Partial Fills](./sop/partial_fills.md)
 - [Aseptic Technique (PDF)](./sop/aseptic_gowning.pdf)
 
----
-
 > 📁 **Math tutorials** are located in the [`./math`](./math) directory.
->
-> ---
+
+---
 
 ## Todo
 
