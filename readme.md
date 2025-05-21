@@ -22,7 +22,7 @@ The following emoji system is used to quickly identify important categories of i
 | 📍  | Notes on things that are good to remember |
 | 🤯 | Trivial notes & fun facts |
 | 🩺 | Notes about pharmacist involvement |
-| 🛡️ | Best practices to cover your ass |
+| 🛡️ | Best practices |
 | 🔑 | Key Information |
 | 🔗 | Internal cross-reference within this repository |
 | ✅ | Checklists & Reminders |
