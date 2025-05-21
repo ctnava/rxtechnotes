@@ -27,7 +27,7 @@ Before processing, the pharmacy technician must review prescriptions for complet
   - **Signa (Sig)**: Complete instructions for use
   - **Refill Instructions**: Number of refills permitted
   - **Product Selection Code (Optional)**: Product selection code to indicate if substitution is allowed; default 0 (generic substitution allowed)
-    - 🔗 [Further Explanation](../prescriptions/iii_product_selection.md)
+    - 🔗 [Further Explanation](../prescriptions/product_selection.md)
     - 🐻 **California Law**: Prescriber must write “Do Not Substitute” in their own handwriting to prohibit substitution (per BPC §4073)
 - **Prescriber Signature**
   - Must be **manual (wet ink)** for paper prescriptions.
