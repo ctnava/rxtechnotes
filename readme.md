@@ -1,4 +1,4 @@
-# Rx Tech Notes for CA State Licensure & National Certification
+# Rx Tech Notes
 
 Welcome to *Rx Tech Notes*, a curated study resource for pharmacy technician candidates pursuing **California state licensure** and **national certification**. This repository consolidates essential regulatory, procedural, and pharmacological knowledge aligned with both state and federal standards.
 
