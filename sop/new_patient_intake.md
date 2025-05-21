@@ -55,6 +55,7 @@ Enter all pharmacy benefit data **exactly as it appears** on the insurance card.
 | **Card Issue/Effective Date** | Billing & Claims | Date when the insurance coverage began or card was issued. |
 | **RXBIN** | Billing & Claims | If Listed; Bank Identification Number for pharmacy claims processing. |
 | **RXPCN** | Billing & Claims | If Listed; Processor Control Number used for managing prescription claims. |
+| **RXGROUP** | Billing & Claims | If Listed; Group Plan Identifier (Use **Group Number** if not listed). |
 | **Co-pay Info** | Billing & Claims | If Listed/ More Informative for Patients; Co-payment amounts for different services (e.g., medications). |
 | **Name and Address of Benefit Administrator** | Billing & Claims | Company or agency responsible for managing benefits. |
 | **Pharmacy Help Desk Number** | Billing & Claims  | Contact number for pharmacies to resolve claim issues. |
