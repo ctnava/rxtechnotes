@@ -42,6 +42,8 @@ Pharmacy inventory includes:
   - Minimum stock thresholds that trigger reorder  
   - Prevents stockouts and overstocking
 
+> 🛡️ Always report shortages to PIC or coordinator
+
 ### 🗃️ Inventory Systems
 
 - **Perpetual Inventory System**
@@ -93,11 +95,11 @@ Pharmacy inventory includes:
 
 > 🛡️ Maintain accurate records to protect your license and ensure audit readiness.
 
-## 💰 Purchasing
+## 💰 Provisioning
 
 <!-- Todo: 🔗 Ordering SOP Document Link -->
 
-Pharmacies purchase stock from state-licensed:
+Pharmacies provision stock from state-licensed:
 
 - **Suppliers**: produce, label, and package drugs
 - **Wholesalers**: purchase drugs in bulk and then sell them to medical facilities
@@ -140,6 +142,29 @@ Manufacturer labels include:
 > 🛡️ The ISMP encourages the use of **Tall Man Lettering** to differentiate look-alike/sound-alike drugs  
 > Example: `predniSONE` vs. `prednisoLONE`
 
+### 🖐 Receiving
+
+When receiving a shipment, **verify contents immediately and accurately** against the **Purchase Order (PO)** and invoice to ensure the correct items, quantities, and prices have been delivered.
+
+Pharmacy technicians must:
+
+- ✅ **Check product name, strength, dosage form, and quantity** for each item.
+- ✅ **Compare prices** listed on the invoice with those agreed upon in the PO.
+- ✅ **Inspect for damage**, contamination, or tampering. Return unacceptable stock to the supplier or wholesaler.
+- ✅ **Report and log all discrepancies** (e.g., wrong drug, short shipment, overages) **immediately** per facility SOP.
+- ✅ **Sign and date invoices** upon receipt to confirm delivery.
+- ✅ **Enter received stock into the inventory system**, including lot numbers and expiration dates if required.
+- ✅ **Store medications according to manufacturer specifications**, including immediate refrigeration or freezing when required.
+
+> 📍x🔐 **Schedule II controlled substances (C-II)** are shipped **separately** from all other medications and must be:
+>
+> - **Checked in** by authorized personnel only  
+> - **Logged** into the perpetual inventory system immediately  
+> - **Stored** in a DEA-compliant secured location  
+> - Documented per federal and state requirements
+>
+> 🛡️ Retain all receiving documents for recordkeeping and future audits. Ensure chain-of-custody documentation is maintained, especially for controlled substances.
+
 ## 🧹 Maintenance
 
 Pharmacy technicians are responsible for routinely (e.g., weekly or monthly) checking inventory for medications that are **no longer eligible for dispensing**. These medications must be promptly **removed from active stock**, **clearly labeled**, and **accurately documented** to prevent errors, diversion, or legal noncompliance.
@@ -163,7 +188,7 @@ Medications ineligible for dispensing or distribution include:
   - **Class II**: Temporary or reversible medical harm (e.g., potency variations).
   - **Class III**: Not likely to cause harm but violates FDA labeling or manufacturing standards.
 
-> 📍 All ineligible medications must be stored in a **clearly marked, physically separated area** (e.g., “Do Not Dispense,” “Quarantine Bin”) and recorded in inventory logs.
+> 📍 All ineligible medications must be stored in a **clearly marked, visually distinct, physically separated area** (e.g., “Do Not Dispense,” “Quarantine Bin”) and recorded in inventory logs.
 > 🔐 Controlled substances must be **tracked, segregated, and secured** under DEA regulations when awaiting return or destruction.
 
 ### 🗑️ Reverse Distribution
@@ -185,6 +210,7 @@ Pharmacy technicians must:
 - **Package** inventory securely for shipment, following all handling and labeling protocols.
 - 🔐 **Controlled Substances**:
   - Destruction must be documented using `DEA Form 41`
+  - Reverse Distribution of Schedule II medication must be documented using `DEA Form 222`
   - Return to a reverse distributor must maintain **chain-of-custody**
   - Disposal on-site (rare) must be **witnessed** and logged per DEA and state board requirements
 
