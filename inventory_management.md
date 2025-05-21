@@ -30,7 +30,7 @@ Pharmacy inventory includes:
   - Coordinates inventory cycle counts and physical audits
 
 > 🔐 Controlled substances require additional documentation, restricted access, and secure storage per DEA and state board regulations.  
-> See: 🔗 [CSA/CMEA Broad Overview](./medications/controlled_listed_substances.md)
+> See: 🔗 [CSA/CMEA Broad Overview](./law/csa_cmea.md)
 
 ## 🔑 Inventory Concepts
 
