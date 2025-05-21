@@ -98,6 +98,37 @@ Covered entities include:
 
 Manufacturers participating in the Medicaid program are required to offer discounted prices on covered outpatient drugs to participating 340B entities.
 
+## Health Information Portability & Accountability Act (HIPAA, 1996)
+
+🔗 [Expanded Detail](./health_privacy.md#the-health-information-portability--accountability-act-hipaa-1996)
+
+- Protects **Protected Health Information (PHI)** handled by **Covered Entities**.
+- Requires administrative, physical, and technical safeguards to ensure confidentiality.
+- Mandates training, privacy officers, and compliance procedures.
+- **Covered Entities**: Health plans, healthcare providers, healthcare clearinghouses.
+- **PHI** includes any patient-identifiable health data (oral, written, electronic).
+- Patients must receive and acknowledge a **Notice of Privacy Practices (NPP)**.
+- Providers identified by 10-digit **National Provider Identifier (NPI)**.
+
+> 🚨 Unauthorized access, use, or disclosure of PHI is a **HIPAA violation**.
+> 🔐 Breaches affecting 500+ individuals must be reported within **60 days**.
+> ✅ Patients may request copies of their medical records (response required within **30 days**).
+
+**Criminal penalties**:
+
+- Up to $250,000 and 10 years imprisonment for malicious misuse
+- $1,000 to $50,000 fines for violations due to reasonable cause
+
+## Health Information Technology for Economic & Clinical Health Act (HITECH, 2009)
+
+🔗 [Expanded Detail](./health_privacy.md#the-health-information-technology-for-economic--clinical-health-act-hitech-2009)
+
+- Expands HIPAA: includes **business associates** as regulated parties.
+- Promotes the use of electronic health records (EHR) and **meaningful use** standards for health information technology infrastructure (e.g. electronic prescribing)
+- Enforces secure **electronic data interchange (EDI)** for claims, billing, and patient data for HIPAA compliance
+
+> ✅ HITECH strengthens enforcement and increases penalties for noncompliance.
+
 ## Patient Protection & Affordable Care Act (Obamacare, 2010)
 
 The Obamacare was signed into law with the overall goals of improving patient care, quality, and outcomes while reducing cost.

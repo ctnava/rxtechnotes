@@ -211,51 +211,29 @@ Ensures workplace safety. Employers must:
 
 > ⚠️ Chemotherapy agents and other hazardous drugs must have Safety Data Sheets!
 
-#### The Health Information Portability & Accountability Act (HIPAA) - 1996
+#### The Health Information Portability & Accountability Act (HIPAA, 1996)
 
-HIPAA protects patient privacy by regulating how **Covered Entities** handle **Protected Health Information (PHI)**. It is a large statute that primarily concerns the continuation of health insurance coverage for workers who leave their jobs. UAll personnel that have access to PHI must be formally trained periodically on HIPAA regulations to stay up to date and there must be a designated privacy officer appointed on duty.
+🔗 [Expanded Detail](./law/health_privacy.md#the-health-information-portability--accountability-act-hipaa-1996)
 
-- **Covered Entities**: Individuals or organizations that are subject to HIPAA regulations because they handle protected health information (PHI) in connection with standard electronic transactions. Covered entities include:
-  - **Health Plans**: Insurance companies, HMOs, Medicare, Medicaid
-  - **Healthcare Providers**: Doctors, clinics, pharmacies, hospitals, and other licensed providers who transmit health data electronically
-  - **Healthcare Clearinghouses**: Entities that process or facilitate the processing of nonstandard health information into a standard format
+- Protects **Protected Health Information (PHI)** handled by **Covered Entities**.
+- Requires administrative, physical, and technical safeguards to ensure confidentiality.
+- Mandates training, privacy officers, and compliance procedures.
+- **Covered Entities**: Health plans, healthcare providers, healthcare clearinghouses.
+- **PHI** includes any patient-identifiable health data (oral, written, electronic).
+- Patients must receive and acknowledge a **Notice of Privacy Practices (NPP)**.
+- Providers identified by 10-digit **National Provider Identifier (NPI)**.
 
-- **Protected Health Information (PHI)**: Any information (oral, written, or electronic) that can be used to identify a patient and that relates to the individual’s past, present, or future physical or mental health or condition, the provision of healthcare, or payment for healthcare. PHI is protected under HIPAA and must be kept confidential by all Covered Entities and Business Associates. Under HIPAA, this information must be safeguarded through administrative, physical, and technical controls, and can only be disclosed with patient authorization or for certain permitted purposes such as treatment, payment, or healthcare operations.
-  PHI includes but is not limited to:
-  - **Spoken Word (Verbal)**: Conversations between healthcare providers or with patients
-  - **Personal identifiers**: Name, address, birthdate, Social Security Number
-  - **Medical records (Written)**: Notes, Diagnoses, treatment plans, lab results, prescriptions, faxes received
-  - **Billing information**: Insurance details, account numbers, claims
-  - **Electronic Health Records (EHRs)** and any digital communication containing identifiable health information
-  - **Other Electronic (ePHI)**: Emails, EHRs, text messages, or files stored on computers or mobile devices
-
-- **NPI (National Provider Identifier)**: 10-digit number assigned to healthcare providers for standardized identification. Each covered entity may receive only one unique NPI, similar to a person's Social Security Number (SSN), and must be used for all standard transactions covered by HIPAA.
-- **NPP (Notice of Privacy Practices)**: Outlines how patient info is used and protected; patients must sign acknowledgment, retained for 6 years from the date of creation or last date in effect (whichever is later) and usually means from the last date of service.
-
-##### Restrictions, Violations, & Penalties
-
-Under HIPAA, medical personnel cannot disclose any PHI to anyone other than the patient unless the patient has given express consent, including spouses & relatives. One such form of consent is a Release of Information form that is typically used to transfer PHI to another healthcare facility or to receive for their personal use. This includes accessing your own records without following proper protocol.
-
-HIPAA violations (e.g., improper disclosure of PHI) must be reported to the **Office for Civil Rights** at the U.S. Dept. of Health and Human Services:
-
-- Within **60 days** of discovery if the breach affects **500 or more** people
-- Annually (within 60 days of year-end) for smaller breaches
-
-Patients have the right to obtain a copy of their healthcare records. If a patient asks for their records, you have 30 days to comply.
-
-Offenses carried out with the intent to sell, transfer, or use the information for commercial advantage, personal gain or malicious harm can result in fines up to $250,000, imprisonment for up to 10 years, or both.
-
-Violations due to reasonable cause and not willfull neglect can result in $1,000 to $50,000 fines.
-
-> **NOTE** HIPAA allows the sharing of PHI under emergency situations such as natural disasters where people may be evacuated and require healthcare. Notice of disclosures still need to be delivered as soon as reasonably practicable after the emergency.
+> 🚨 Unauthorized access, use, or disclosure of PHI is a **HIPAA violation**.
+> 🔐 Breaches affecting 500+ individuals must be reported within **60 days**.
+> ✅ Patients may request copies of their medical records (response required within **30 days**).
 
 ##### The Health Information Technology for Economic & Clinical Health Act (HITECH, 2009)
 
-- mends HIPAA to promote adoption and meaningful use of health information technology, including electronic prescribing & medical records
-- set standards for the creation of these electronic systems
-- expanded Covered Entities to include business associates
+- Expands HIPAA: includes **business associates** as regulated parties.
+- Promotes the use of electronic health records (EHR) and **meaningful use** standards for health information technology infrastructure (e.g. electronic prescribing)
+- Enforces secure **electronic data interchange (EDI)** for claims, billing, and patient data for HIPAA compliance
 
-> ⚠️ Electronic transmission of health information, including claims and billing, must be done via HIPAA-compliant **electronic data interchange (EDI)**.
+> ✅ HITECH strengthens enforcement and increases penalties for noncompliance.
 
 ## Services Offered
 
