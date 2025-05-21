@@ -17,7 +17,7 @@ The Centers for Medicare & Medicaid Services (CMS) provide the following guideli
 Some basic values in ethical considerations include:
 
 - **Autonomy** of the patient to choose their treatment
-  - ⚠️ *Federal law protects the patient's right to refuse treatment*
+  - 🦅 *Federal law protects the patient's right to refuse treatment*
 - **Beneficence** when treating patients
 - **Dignification** of the patient
 - **Non-Maleficence** when providing care
@@ -86,7 +86,7 @@ All pharmacy personnel must comply with **federal and state laws**, under the su
 - **State laws** are passed by individual legislatures and apply within their borders.
 - If laws conflict, the **stricter law must be followed**.
 
-> ⚠️ Federal law protects the patient's right to file complaints.
+> 🦅 Federal law protects the patient's right to file complaints.
 
 ### Regulatory Bodies
 
