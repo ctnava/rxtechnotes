@@ -38,13 +38,11 @@ Structured for both exam prep and on-the-job reference.
 
 ### 🛠️ Standard Operating Procedures (SOPs)
 
-| SOP Task | Document Link |
-|----------|---------------|
-| New Patient Intake | [New Patient Intake](./sop/new_patient_intake.md) |
-| Prescription Intake | [Prescription Intake](./sop/prescription_intake.md)|
-| Refills & Renewal Requests | [Refill & Renewal](./sop/refill_renewal_request.md)|
-| Partial Fills | [Partial Fills](./sop/partial_fills.md) |
-| Aseptic Handwashing & Gowning | [Aseptic Technique (PDF)](./sop/aseptic_gowning.pdf) |
+- [New Patient Intake](./sop/new_patient_intake.md)
+- [Prescription Intake](./sop/prescription_intake.md)
+- [Refill & Renewal Requests](./sop/refill_renewal_request.md)
+- [Partial Fills](./sop/partial_fills.md)
+- [Aseptic Technique (PDF)](./sop/aseptic_gowning.pdf)
 
 ---
 
