@@ -21,11 +21,9 @@ Before processing, the pharmacy technician must review prescriptions for complet
   - **Required**: Full name and address
   - **Optional**: Date of birth and weight (especially for pediatrics)
 - **Order Details**
-  - **Date Written**: The date the prescriber issued the prescriptions
+  - **Date Written**: The date the prescriber issued the prescription
     - 🐻 **California Law**: *must be filled within 6 months*
-  - **Inscription**
-    - **Name**: Generic and/or brand (if specified)
-    - **Strength**, **Dosage Form**, **Quantity**
+  - **Inscription** (drug name, strength, dosage form, quantity)
   - **Signa (Sig)**: Complete instructions for use
   - **Refill Instructions**: Number of refills permitted
   - **Product Selection Code (Optional)**: Product selection code to indicate if substitution is allowed; default 0 (generic substitution allowed)
@@ -34,7 +32,7 @@ Before processing, the pharmacy technician must review prescriptions for complet
 - **Prescriber Signature**
   - Must be **manual (wet ink)** for paper prescriptions.
   - Must be **digitally signed and transmitted through a certified e-prescribing system** for electronic prescriptions.
-    - 🐻 **California Law**: prescriptions for controlled substances must be issued on a **California Security Prescription Form** if not e-prescribed.
+    - 🐻 **California Law**: Prescriptions for controlled substances must be issued on a **California Security Prescription Form** if not e-prescribed.
 
 > ⚠️ **Controlled Substances must be transmitted electronically** unless exempt (e.g., system outages, veterinarian, terminal illness). Refer to BPC §688 and the 21st Century Cures Act.
 
