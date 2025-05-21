@@ -29,6 +29,7 @@ Before processing, the pharmacy technician must review prescriptions for complet
   - **Signa (Sig)**: Complete instructions for use
   - **Refill Instructions**: Number of refills permitted
   - **Product Selection Code (Optional)**: Product selection code to indicate if substitution is allowed; default 0 (generic substitution allowed)
+    - 🔗 [Further Explanation](../prescriptions/iii_product_selection.md)
     - 🐻 **California Law**: Prescriber must write “Do Not Substitute” in their own handwriting to prohibit substitution (per BPC §4073)
 - **Prescriber Signature**
   - Must be **manual (wet ink)** for paper prescriptions.
@@ -140,7 +141,7 @@ After prescription entry, claims must be submitted accurately to insurance.
 ### Prescription Data
 
 - **Date Written**: The date when the prescription was originally written by the prescriber.
-- **Product Selection Code**: Dispense As Written code indicating product selection rules. ([Reference Table](../prescriptions/iii_product_selection.md))
+- **Product Selection Code**: Dispense As Written code indicating product selection rules.
 - **Days Supply**: The number of days the medication is expected to last based on the dosage.
 - **Prescriber ID Number**: Unique ID number for the physician who prescribed the medication.
 
