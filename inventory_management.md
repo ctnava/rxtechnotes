@@ -146,6 +146,8 @@ Manufacturer labels include:
 
 When receiving a shipment, **verify contents immediately and accurately** against the **Purchase Order (PO)** and invoice to ensure the correct items, quantities, and prices have been delivered.
 
+<!-- Todo: 🔗 Shipment Receiving SOP Document Link -->
+
 Pharmacy technicians must:
 
 - ✅ **Check product name, strength, dosage form, and quantity** for each item.
