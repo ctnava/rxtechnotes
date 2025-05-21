@@ -2,6 +2,8 @@
 
 Welcome to *Rx Tech Notes*, a curated study resource for pharmacy technician candidates pursuing **California state licensure** and **national certification**. This repository consolidates essential regulatory, procedural, and pharmacological knowledge aligned with both state and federal standards.
 
+> For best results, access this repository on a tablet or laptop with a touch screen.
+
 ## 🔖 Emoji Key
 
 The following emoji system is used to quickly identify important categories of information. Some symbols may be combined with an `x` to indicate overlapping relevance (e.g., both state and federal law).
