@@ -34,6 +34,7 @@ The PTCE, or Pharmacy Technician Certification Examination, is a 2-hour computer
 - [SOP: Prescription Intake](./sop/prescription_intake.md)
 - [SOP: Prescription Refills & Renewal Requests](./sop/refill_renewal_request.md)
 - [SOP: Partial Fills](./sop/partial_fills.md)
+- [SOP: Aseptic Handwashing & Gowning](./sop/aseptic_gowning.pdf)
 
 > 🧮 Math Tutorials can be found in the `./math` folder.
 
