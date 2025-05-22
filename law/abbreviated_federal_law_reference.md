@@ -180,7 +180,6 @@ Technicians assist by preparing medication histories, documentation, and assisti
 
 > 📨 **HIPAA**: Requires all patient health information (PHI) obtained during Counseling, DSM, MTM services to be kept strictly confidential.
 
-
 ### Health Information Technology for Economic & Clinical Health Act (HITECH, 2009)
 
 - Expands HIPAA: includes **business associates** as regulated parties.
