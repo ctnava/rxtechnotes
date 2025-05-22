@@ -327,16 +327,12 @@ A **7-day supply** of a drug may be dispensed **without prior authorization** if
 
 #### 💊 Medication Therapy Management (MTM)
 
-Medication Therapy Management (MTM) is a service provided by pharmacists under Medicare Part D Prescription Drug Plans (PDPs) to optimize drug therapy and improve outcomes.
+Medication Therapy Management (MTM) is a clinical service provided by pharmacists under Medicare Part D Prescription Drug Plans (PDPs) to optimize drug therapy, reduce risk, and improve therapeutic outcomes. Services may include **Comprehensive Medication Reviews** (CMRs), **Targeted Medication Reviews** (TMRs), & **Disease-state management** (e.g., diabetes, hypertension, hyperlipidemia).
 
-Services may include:
+Billed using CPT codes on medical claim forms submitted via:
 
-- Comprehensive medication reviews (CMRs)
-  - Targeted medication reviews (TMRs)
-  - Disease state management (e.g., diabetes, hypertension)
-  - Billed using CPT codes on medical claim forms submitted via:
-    - CMS-1500 (direct medical billing)
-    - CMS-10114 form (MTM reporting to CMS)
+- CMS-1500 (direct medical billing)
+- CMS-10114 form (MTM reporting to CMS)
 
 CMS-10114 Form are required for PDPs offering MTM services and require the following supporting documents:
 
@@ -348,10 +344,20 @@ CMS-10114 Form are required for PDPs offering MTM services and require the follo
 | **CPT Code** | **Description** | **Use Case** | **Billing Notes** |
 | ------------ | --------------- | ------------ | ----------------- |
 | **99605** | MTM initial consult, new patient, up to 15 minutes | First encounter with new MTM patient | Billed once per patient per year |
-| **99606** | MTM follow-up visit, established patient, up to 15 minutes | Ongoing MTM care (same year) | Use after 99605 has been billed                  |
+| **99606** | MTM follow-up visit, established patient, up to 15 minutes | Ongoing MTM care (same year) | Use after 99605 has been billed |
 | **99607** | Add-on for MTM services, each additional 15 minutes | For longer sessions (attach to 99605/99606) | Can be billed multiple times for extended visits |
 
-> 💡 All MTM billing requires **time documentation, clinical notes**, and often a **signed patient consent**. These services are generally not billable through PBMs—they go through medical insurance or Medicare Part D PDPs.
+> 💡 All MTM billing requires **time documentation, clinical notes**, and often a **signed patient consent**. These services are generally not billable through PBMs. They go through medical insurance or Medicare Part D PDPs.
+
+##### 🐻 California-Specific MTM Notes
+
+- Under **California Business & Professions Code § 4052.2**, pharmacists may provide MTM services independently if they meet the requirements for advanced practice pharmacist (APh) licensure.
+- Pharmacists may initiate or adjust drug therapy in collaboration with physicians through a **Collaborative Practice Agreement (CPA)**.
+- Medi-Cal (California Medicaid) does **not reimburse** for MTM using CPT codes 99605–99607. MTM under Medi-Cal is typically embedded within comprehensive care management services delivered in clinical settings.
+- **California pharmacists may perform CMRs and TMRs as part of health plan performance measures**, including those tied to CMS Star Ratings.
+- 🛡️ **Technicians may assist** with MTM program documentation, scheduling, and follow-up tasks, but may **not perform clinical reviews, counsel patients, or document clinical interventions**.
+
+> 🐻 MTM services must comply with **California Confidentiality of Medical Information Act (CMIA)** as well as **HIPAA**. Document storage and communication platforms must meet both state and federal privacy standards.
 
 #### 📄 Paper Claims
 
@@ -367,7 +373,7 @@ Common scenarios:
 
 > 📄 UCFs must be completed **accurately and legibly**. Incomplete or illegible forms will result in **claim rejections or delays**. Many payers require original signatures or supporting documents as well as the **reason** for paper submission.
 
-##### 🐻 California-Specific Notes
+##### 🐻 California-Specific UCF Notes
 
 - **Medi-Cal** does **not accept handwritten UCFs**. Claims must be typed or submitted electronically unless an exception is granted.
 - For **Medi-Cal Rx**, electronic claim submission through the **Magellan portal** is required for standard prescriptions. UCFs may be used in rare override or disaster scenarios.
