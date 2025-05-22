@@ -134,6 +134,10 @@ The correct order of insurance coverage is based on **standard coordination rule
      - The patient has **no other insurance** or only has **Medicare Part D** for prescriptions.
    - 🦅x🐻 Some patients may have both **Medi-Cal** and **Medicare**. In that case, Medicare is billed first, and **Medi-Cal is the payer of last resort**.
 
+🤖 **Rule Overrides**
+
+> 🛡️ Choose the **correct rule** based on the **patient's situation**.
+
 | Rule Type | Use When | Overrides Other Rules? |
 |-----------|----------|------------------------|
 | **Subscriber vs. Dependent** | Two private insurances on an adult | Applies only to adults |
