@@ -93,7 +93,6 @@ Public health insurance refers to a system of healthcare coverage provided by go
 - **Billing** is the step that follows adjudication. If the claim is accepted, billing finalizes the transaction: the PBM pays the pharmacy a contracted reimbursement amount, and the patient is charged their portion.
 - **Coordination of benefits (COB)** is the process of determining which plan is billed first when patients have more than one plan. It prevents duplicate payments for the same service or prescription, ensures the correct insurer is billed first to avoid claim denials or delays, and helps the pharmacy calculate the patient’s true out-of-pocket cost.
 - **Third Party Rejections (TPR)** are claim denials from the insurance due to eligibility or processing errors that may be resolved with corrections.
-  - **Prior Authorizations (PA)** are a requirement for approval before certain drugs or services are covered. This often applies to controlled, expensive, or non-preferred medications.
 
 ### 👤 Patient Intake & Coordination of Benefits (COB)
 
@@ -166,6 +165,10 @@ A **7-day supply** of a drug may be dispensed **without prior authorization** if
 - The prescription is for a **new work-related injury**.
 
 > 📍 Always check for California-specific reject messages or override codes when submitting workers’ comp claims.
+
+### 💲 Reimbursement, Pricing, & Billing Models
+
+Understanding how prescriptions are priced and reimbursed is essential for pharmacy technicians, especially when dealing with insurance billing, patient copays, or third-party rejections.
 
 ### 🔁 The Billing Cycle
 
@@ -273,7 +276,7 @@ Pharmacy technicians may assist the pharmacist with the following PA tasks:
      - 🛡️ Appeals are time-sensitive. Always escalate denials immediately to the pharmacist or billing specialist.
 
 > 🛡️ Note date/time of PA submission, patient notification, and any escalation.
->
+> .
 > 🚨 PAs are **not required for emergency/life-threatening prescriptions** under federal rules, but this must be determined by the pharmacist.
 
 ##### 📲 PBM Portals
