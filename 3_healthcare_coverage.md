@@ -22,7 +22,7 @@ Once **enrolled** in a **managed care plan**, patients are typically responsible
 | 🛑 **Third Party Rejection (TPR)** | A **claim denial** from the insurance due to eligibility or processing errors. | May require corrections (e.g., wrong DOB, plan not active). |
 | ⚠️ **Prior Authorization (PA)** | A **requirement for approval** before certain drugs or services are covered. | Often applies to expensive or non-preferred medications. |
 
-> 💡 **Tech Tip**: Document all patient interactions about PAs, rejections, and delays. Escalate to pharmacist when necessary.
+> 🛡️ Document all patient interactions about PAs, rejections, and delays. Escalate to pharmacist when necessary.
 
 ## 🏥 Managed Care Programs
 
@@ -35,7 +35,7 @@ Managed care plans are offered by insurers (public and private); structured to c
 | 🟨 **POS** (Point of Service) | Hybrid of HMO & PPO. Requires in-network PCP and referrals, but offers some out-of-network coverage. | ✅ Yes | ✅ Yes (with extra cost) |
 | 🟪 **EPO** (Exclusive Provider Organization) | Like an HMO, but **no referrals required**, still **no out-of-network coverage** (except life-threatening emergencies). | ❌ No | ❌ No |
 
-> 🔍 Check insurance cards or PBM portals for plan types. Copays are often tiered based on drug cost.
+> 🛡️ Check insurance cards or PBM portals for plan types. Copays are often tiered based on drug cost.
 
 ### 🔄 Coordination of Benefits (COB)
 
@@ -59,7 +59,7 @@ When patients have more than one plan, **COB** determines which is billed first 
 - Watch for Third Party Rejections like “other coverage primary.”
 - Refer unclear COB issues to pharmacist or billing staff.
 
-> 💡 Incorrect COB setup leads to claim denials or full patient cost. Verify COB at patient intake.
+> 🛡️ Incorrect COB setup leads to claim denials or full patient cost. Verify COB at patient intake.
 
 ### Public Health Insurance
 
