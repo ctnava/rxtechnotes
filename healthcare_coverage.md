@@ -89,9 +89,9 @@ Managed care plans are offered by insurers (public and private); structured to c
 - **Prior Authorizations (PA)** are a requirement for approval before certain drugs or services are covered. This often applies to controlled, expensive, or non-preferred medications.
 - **Coordination of benefits (COB)** is the process of determining which plan is billed first when patients have more than one plan. It prevents duplicate payments for the same service or prescription, ensures the correct insurer is billed first to avoid claim denials or delays, and helps the pharmacy calculate the patient’s true out-of-pocket cost.
 
-### 🔁 The Cycle
+### 🔁 The Billing Cycle
 
-The cycle is a real-time loop that occurs every time a prescription is submitted for insurance billing. It ensures the pharmacy receives reimbursement and the patient is charged correctly.
+The billing cycle is a real-time loop that occurs every time a prescription is submitted for insurance billing. It ensures the pharmacy receives reimbursement and the patient is charged correctly.
 
 1. **Prescription Entry**
    - A valid prescription is entered into the pharmacy management system.
