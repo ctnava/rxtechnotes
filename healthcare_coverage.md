@@ -353,7 +353,7 @@ CMS-10114 Form are required for PDPs offering MTM services and require the follo
 
 > 💡 All MTM billing requires **time documentation, clinical notes**, and often a **signed patient consent**. These services are generally not billable through PBMs—they go through medical insurance or Medicare Part D PDPs.
 
-#### 📄 Universal Claim Form (UCF)
+#### 📄 Paper Claims
 
 The **Universal Claim Form (UCF)** is a standardized **paper form** created by the **National Council for Prescription Drug Programs (NCPDP)**. It is used when **electronic adjudication is unavailable**, fails, or is not supported by the plan.
 
