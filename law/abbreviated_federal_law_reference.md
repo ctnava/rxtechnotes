@@ -105,9 +105,9 @@ The DSCSA aims to improve the security and traceability of prescription drugs in
 - **Interoperable Systems**: The law mandates the development of an electronic, interoperable system for tracking drugs from manufacturer to dispenser.
 - **Enforcement**: The FDA has been implementing the DSCSA since 2013, and enforcement began in 2025.
 
-## Healthcare Coverage Policy
+## Healthcare Coverage
 
-## Social Security Act Amendments (1965)
+### Social Security Act Amendments (1965)
 
 These amendments to the Social Security Act created the Medicare and Medicaid programs:
 
@@ -116,11 +116,9 @@ These amendments to the Social Security Act created the Medicare and Medicaid pr
 
 These programs laid the foundation for future pharmacy regulations that affect how medications are dispensed and monitored, especially for public health insurance recipients.
 
-### Patient Protection & Affordable Care Act (Obamacare, 2010)
+> 🤯 The Patient Protection & Affordable Care Act (Obamacare, 2010) was signed into law with the overall goals of improving patient care, quality, and outcomes while reducing cost.
 
-The Obamacare was signed into law with the overall goals of improving patient care, quality, and outcomes while reducing cost.
-
-## Health Information Policy
+## Health Information Handling
 
 🔗 [Further Detail on Health Information Policy](./health_privacy.md)
 
@@ -151,7 +149,7 @@ The Obamacare was signed into law with the overall goals of improving patient ca
 
 > ✅ HITECH strengthens enforcement and increases penalties for noncompliance.
 
-## Workplace Safety Policy
+## Workplace Safety
 
 ### Occupational Safety & Health Act (OSHA, 1970)
 

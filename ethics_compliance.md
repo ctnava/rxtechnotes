@@ -116,19 +116,24 @@ Torts are a branch of civil law in which the courts determine remedies for alleg
 
 Below are vital pieces of legislation to know as a pharmacy technician.
 
-#### Occupational Safety & Health Act (OSHA, 1970)
+## Healthcare Coverage
 
-Ensures workplace safety. Employers must:
+### Social Security Act Amendments (1965)
 
-- Train employees on safety protocols
-- Provide **Personal Protective Equipment (PPE)** when exposure to hazardous substances is possible
-- Maintain **Safety Data Sheets (SDS)** for all hazardous substances to explain the risks of exposure, handling instructions, and protocols necessary to prevent harm from such incidents.
+These amendments to the Social Security Act created the Medicare and Medicaid programs:
 
-> ⚠️ Chemotherapy agents and other hazardous drugs must have Safety Data Sheets!
+- **Medicaid**: A joint federal-state program providing health coverage to low-income individuals; operating as HMOs.
+- **Medicare**: A federal health insurance program for people aged 65+, individuals with certain disabilities, and patients with End-Stage Renal Disease (ESRD); operating as HMOs unless the customer elects to enroll in Medicare Part C where it may act as an HMO or PPO offered by private insurers.
+
+These programs laid the foundation for future pharmacy regulations that affect how medications are dispensed and monitored, especially for public health insurance recipients.
+
+> 🤯 The Patient Protection & Affordable Care Act (Obamacare, 2010) was signed into law with the overall goals of improving patient care, quality, and outcomes while reducing cost.
+
+## Health Information Handling
+
+🔗 [Further Detail on Health Information Policy](./health_privacy.md)
 
 ## Health Information Portability & Accountability Act (HIPAA, 1996)
-
-🔗 [Expanded Detail](./law/health_privacy.md#the-health-information-portability--accountability-act-hipaa-1996)
 
 - Protects **Protected Health Information (PHI)** handled by **Covered Entities**.
 - Requires administrative, physical, and technical safeguards to ensure confidentiality.
@@ -154,3 +159,15 @@ Ensures workplace safety. Employers must:
 - Enforces secure **electronic data interchange (EDI)** for claims, billing, and patient data for HIPAA compliance
 
 > ✅ HITECH strengthens enforcement and increases penalties for noncompliance.
+
+### Workplace Safety Policy
+
+#### Occupational Safety & Health Act (OSHA, 1970)
+
+Ensures workplace safety. Employers must:
+
+- Train employees on safety protocols
+- Provide **Personal Protective Equipment (PPE)** when exposure to hazardous substances is possible
+- Maintain **Safety Data Sheets (SDS)** for all hazardous substances to explain the risks of exposure, handling instructions, and protocols necessary to prevent harm from such incidents.
+
+> ⚠️ Chemotherapy agents and other hazardous drugs must have Safety Data Sheets!
