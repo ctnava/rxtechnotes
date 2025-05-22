@@ -22,6 +22,7 @@
 - Reinforced by Alberty Food Products v. US (1950), which required labeling intended use.
 
 > 🤯 In 1976, the Medical Device Regulation Act (or "Medical Device Amendments") established the framework for regulating medical devices to ensure their safety and effectiveness. This means pre-market approval is required for life-sustaining and life-supporting medical devices (Class III).
+> 🤯 The Drug Price Competition and Patent Term Restoration Act (Hatch-Waxman, 1984) allows for both the extension of drug patent terms and quicker introduction of lower-cost generic drugs.
 
 ## Fair Packaging & Labeling Act (FPLA, 1967)
 
