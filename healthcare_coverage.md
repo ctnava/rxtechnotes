@@ -109,6 +109,24 @@ Before a prescription can be processed or billed, a patient profile must be crea
 
 🔗 See: [New Patient Intake SOP](./sop/new_patient_intake.md)
 
+#### 🛠️ Workers’ Compensation (Workers’ Comp)
+
+Workers’ compensation is a specialized form of insurance that pays for medical expenses, including prescription drugs, when an employee is injured on the job or develops a **work-related** illness. Workers’ comp claims are standalone and bypass commercial or government payers entirely. They are processed through a **separate billing system**, not the patient's standard PBM or insurance. Most workers’ comp plans use a **dedicated claims processor or pharmacy network** (e.g., Coventry, One Call, Mitchell ScriptAdvisor).
+
+🔑 **When Handling these Claims**:
+
+- **Verify and enter claim information**:
+  - Employer’s name
+  - Date of injury
+  - Workers’ comp claim number
+  - Insurance carrier or TPA (Third Party Administrator)
+- **Follow billing instructions** provided by the workers’ comp network or adjuster.
+- Do **not** bill the patient’s regular insurance.
+  - 📍 Incorrect billing to a PBM can delay medication access and violate payer agreements.
+- Do **not** collect copays unless specifically instructed by the workers’ comp payer.
+  - 📍 Patients typically pay **$0 out of pocket**, but **only for medications authorized by the claims adjuster**.
+- If a medication is **denied or not listed**, refer to the pharmacist or contact the claims adjuster.
+
 ### 🔁 The Billing Cycle
 
 The billing cycle is a real-time loop that occurs every time a prescription is submitted for insurance billing. It ensures the pharmacy receives reimbursement and the patient is charged correctly.
@@ -169,7 +187,7 @@ A Third-Party Rejection (TPR) occurs when a prescription claim is denied by the 
 
 > 📍 Always confirm the BIN/PCN/ID from the most recent insurance card. These fields determine where the claim is sent.
 
-#### 📝 Prior Authorization (PA)
+##### 📝 Prior Authorization (PA)
 
 A **Prior Authorization (PA)** is a formal approval process required by insurance companies or PBMs before they will pay for certain prescriptions. A PA TPR is triggered when the insurer needs clinical justification for covering a drug that falls outside standard coverage rules.
 
