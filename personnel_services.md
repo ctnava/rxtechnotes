@@ -95,11 +95,11 @@ The **Medicare Modernization Act (MMA, 2003)** established Part D of the program
 - Monitoring side effects and adherence
 - Coordinating care with prescribers
 
-> **NOTE**: MTM is usually targeted toward patients taking multiple chronic medications, especially those with multiple conditions or high drug costs.
+> 📍 MTM is usually targeted toward patients taking multiple chronic medications, especially those with multiple conditions or high drug costs.
 
 Technicians assist by preparing medication histories, documentation, and assisting with insurance or billing tasks.
 
-> 📨 **HIPAA**: Requires all patient health information (PHI) obtained during Counseling, DSM, MTM services to be kept strictly confidential.
+> 🛡️ HIPAA Requires all patient health information (PHI) obtained during Counseling, DSM, MTM services to be kept strictly confidential.
 
 #### 🩺 Disease State Management (DSM)
 
