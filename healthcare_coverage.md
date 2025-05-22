@@ -325,6 +325,12 @@ A **7-day supply** of a drug may be dispensed **without prior authorization** if
 
 ### Filing Claims
 
+#### Prescription Drugs
+
+Claims for prescription drugs are typically filed during the process of prescription intake. Steps for claim submission are detailed within, but reading this document is not recommended at this time as it will be reintroduced later. Proceed at your own discretion.
+
+🔗 [Prescription Intake SOP](./sop/prescription_intake.md)
+
 #### 💊 Medication Therapy Management (MTM)
 
 Medication Therapy Management (MTM) is a clinical service provided by pharmacists under Medicare Part D Prescription Drug Plans (PDPs) to optimize drug therapy, reduce risk, and improve therapeutic outcomes. Services may include **Comprehensive Medication Reviews** (CMRs), **Targeted Medication Reviews** (TMRs), & **Disease-state management** (e.g., diabetes, hypertension, hyperlipidemia).
