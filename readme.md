@@ -36,18 +36,11 @@ Structured for both exam prep and on-the-job reference.
 | Chapter | Title |
 |---------|-------|
 | 1 | [Pharmacies: Duties, Services, Law, & Ethics](./1_duties_services_law.md) |
-| 2 | [Drug Discovery, Manufacturing, & Logistics](./2_discovery_manufacture_logistics.md) |
-| 3 | [Healthcare Coverage](./3_healthcare_coverage.md) |
+| 2 | [Healthcare Coverage](./3_healthcare_coverage.md) |
+| 3 | [Drug Discovery, Manufacturing, & Logistics](./2_discovery_manufacture_logistics.md) |
 | 4 | [Legal Access to Marketed Drugs](./4_access_to_drugs.md) |
 | 5 | [Pharmacy Settings & Technician Roles](./5_settings.md) |
-
-### 🛠️ Standard Operating Procedures (SOPs)
-
-- [New Patient Intake](./sop/new_patient_intake.md)
-- [Prescription Intake](./sop/prescription_intake.md)
-- [Refill & Renewal Requests](./sop/refill_renewal_request.md)
-- [Partial Fills](./sop/partial_fills.md)
-- [Aseptic Technique (PDF)](./sop/aseptic_gowning.pdf)
+| 6 | [Pharmacy Inventory Management](./inventory_management.md) |
 
 > 📁 **Math tutorials** are located in the [`./math`](./math) directory.
 
