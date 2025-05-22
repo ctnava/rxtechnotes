@@ -22,7 +22,6 @@ Once **enrolled** in a **managed care plan**, patients are typically responsible
 | 🛑 **Third Party Rejection (TPR)** | A **claim denial** from the insurance due to eligibility or processing errors. | May require corrections (e.g., wrong DOB, plan not active). |
 | ⚠️ **Prior Authorization (PA)** | A **requirement for approval** before certain drugs or services are covered. | Often applies to expensive or non-preferred medications. |
 
-<!-- todo: mv this -->
 > 🛡️ Document all patient interactions about PAs, rejections, and delays. Escalate to pharmacist when necessary.
 
 ## 🏥 Managed Care Programs
