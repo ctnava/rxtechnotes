@@ -80,6 +80,10 @@ Managed care plans are offered by insurers (public and private); structured to c
 
 > 🛡️ Check insurance cards or PBM portals for plan types. Copays are often tiered based on drug cost.
 
+### Public Health Insurance
+
+<!-- TODO: Link to explanations of public health insurance -->
+
 ## ⚙️ Claims, Adjudication, & Billing
 
 - **Claims** refer to the electronic submissions that a pharmacy sends to an insurance company or PBM (Pharmacy Benefit Manager) to request payment for a dispensed prescription.
