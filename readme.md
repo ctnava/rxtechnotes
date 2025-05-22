@@ -71,7 +71,3 @@ Recommended Progression:
 - safe handling CE
 - grapefruit interactions
 - insulin content
-
-## Notes
-
-- `./1_duties_services_law.md` is now redundant and pending deletion
