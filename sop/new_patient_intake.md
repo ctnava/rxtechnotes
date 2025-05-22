@@ -63,19 +63,11 @@ Enter all pharmacy benefit data **exactly as it appears** on the insurance card.
 
 > ⚠️ Always verify insurance information annually or when the patient reports a change.
 
-### 🔄 Coordination of Benefits (COB)
+🔄 **Rules for Determining Insurance Hierarchy for Coordination of Benefits (COB)**
 
-When patients have more than one plan:
+When patients have more than one plan, which can sometimes be revealed by Third Party Rejections (e.g. “other coverage primary"), they must be billed in correct order (i.e. primary → secondary → tertiary).
 
-- Collect and enter all insurance cards.
-- Enter insurance plans in correct order into the pharmacy system.
-- Bill in correct order: primary → secondary → tertiary.
-- Watch for Third Party Rejections like “other coverage primary.”
-- Refer unclear COB issues to pharmacist or billing staff.
-
-🔑 **Rules for Determining Insurance Hierarchy**
-
-The correct order of insurance coverage is based on **standard coordination rules** used by insurers and PBMs. Pharmacy technicians must gather all active insurance cards and apply the following logic:
+The correct order of insurance coverage is based on **standard coordination rules** used by insurers and PBMs. Pharmacy technicians must gather all active insurance cards and apply the following logic when entering insurance plans:
 
 1. **Non-Medicare Adults (Two or More Private Insurances)**
    - The plan that **covers the patient as a subscriber** (employee, policyholder) is **primary**.
@@ -104,6 +96,8 @@ The correct order of insurance coverage is based on **standard coordination rule
 
 🤖 **Rule Overrides**
 
+> 🛡️ Choose the **correct rule** based on the **patient's situation**.
+
 | Rule Type | Use When | Overrides Other Rules? |
 |-----------|----------|------------------------|
 | **Subscriber vs. Dependent** | Two private insurances on an adult | Applies only to adults |
@@ -113,7 +107,7 @@ The correct order of insurance coverage is based on **standard coordination rule
 | **Tricare / VA** | Military or veteran coverage involved | VA prescriptions not billed externally; Tricare billing rules apply separately |
 | 🐻 **Medi-Cal as Payer of Last Resort** | Dual-eligible patients in CA | Yes, Medi-Cal always billed last |
 
-> 🛡️ Choose the **correct rule** based on the **patient's situation**.
+> 🛡️ Refer unclear COB issues to pharmacist or billing staff.
 
 ## 🧾 Clinical Documentation
 
