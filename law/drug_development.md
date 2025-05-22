@@ -1,4 +1,4 @@
-# Drug Development, Manufacturing, Marketing, & Distribution
+# Drug Development & Marketing Policy
 
 ## The Pure Food, Drugs, & Cosmetics Act (FDC, 1906)
 
@@ -14,6 +14,13 @@
 - Passed after the **sulfanilamide** tragedy, which caused over 100 deaths (many of which were children) after using this drug in an oral tablet dosage form
 
 > 🤯 Thalidomide is now FDA-approved for treating multiple myeloma and leprosy. Use requires strict risk acknowledgment from both men and women.
+
+### Durham-Humphrey Amendment (1951)
+
+- **Medication Orders**: a written request on a physician's order form OR a transcribed verbal/ telephone order in an *inpatient* setting.
+- **Prescription**: medication order on a prescription blank to be filled in an *outpatient/ ambulatory* setting.
+- **Legend**: Medications that may not be dispensed to the public except on the order or *prescription* of a licensed prescriber. These "prescription" drugs require a federal *legend* to appear on the packaging that states: "Federal law prohibits dispensing this medication without a prescription" or "RX Only".
+- **Over-the-Counter(OTC)**: Medications that may be sold without a prescription as long as they are appropriately labeled for home use.
 
 ## Kefauver-Harris Amendment (1962)
 

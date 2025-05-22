@@ -1,6 +1,4 @@
-# 🦅 Abbreviated Federal Law Reference
-
-These are copy/ paste abbreviated versions of laws that will not make it into the final release of the repo.
+# 🦅 Abbreviated Federal Law Reference Guide
 
 ## Drug Development & Marketing Policy
 
@@ -120,7 +118,7 @@ These programs laid the foundation for future pharmacy regulations that affect h
 
 ## Health Information Handling
 
-🔗 [Further Detail on Health Information Policy](./health_privacy.md)
+🔗 [Further Detail on Health Information Handling Policy](./health_privacy.md)
 
 ### Health Information Portability & Accountability Act (HIPAA, 1996)
 
