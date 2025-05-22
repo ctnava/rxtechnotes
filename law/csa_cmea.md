@@ -1,6 +1,6 @@
 # 💊 Controlled & Listed Substances
 
-## ⚠️ Controlled Substances Act (CSA, 1970)
+## 🔐 Controlled Substances Act (CSA, 1970)
 
 The ***Controlled Substances Act (CSA, 1970)*** classifies five levels of controlled substances that have potential for abuse and therefore restricts their distribution. These five categories are called "schedules" and are determined based on potential for abuse, medical use, and risk to overall safety. Drugs placed in Schedules I–V are controlled substances and are subject to varying degrees of regulation regarding prescribing, dispensing, and recordkeeping.
 
