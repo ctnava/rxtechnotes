@@ -1,4 +1,6 @@
-# 🦅 Abbreviated Federal Law Reference Guide
+# 🦅 Abbreviated Federal Law Reference
+
+These are copy/ paste abbreviated versions of laws that will not make it into the final release of the repo.
 
 ## Pure Food, Drugs, & Cosmetics Act (FDC, 1906)
 
@@ -100,9 +102,11 @@ Covered entities include:
 
 Manufacturers participating in the Medicaid program are required to offer discounted prices on covered outpatient drugs to participating 340B entities.
 
-## Health Information Portability & Accountability Act (HIPAA, 1996)
+## Health Information Policy
 
-🔗 [Expanded Detail](./health_privacy.md#the-health-information-portability--accountability-act-hipaa-1996)
+🔗 [Further Detail on Health Information Policy](./health_privacy.md)
+
+### Health Information Portability & Accountability Act (HIPAA, 1996)
 
 - Protects **Protected Health Information (PHI)** handled by **Covered Entities**.
 - Requires administrative, physical, and technical safeguards to ensure confidentiality.
@@ -121,9 +125,7 @@ Manufacturers participating in the Medicaid program are required to offer discou
 - Up to $250,000 and 10 years imprisonment for malicious misuse
 - $1,000 to $50,000 fines for violations due to reasonable cause
 
-## Health Information Technology for Economic & Clinical Health Act (HITECH, 2009)
-
-🔗 [More Health Information Policy](./health_privacy.md#the-health-information-technology-for-economic--clinical-health-act-hitech-2009)
+### Health Information Technology for Economic & Clinical Health Act (HITECH, 2009)
 
 - Expands HIPAA: includes **business associates** as regulated parties.
 - Promotes the use of electronic health records (EHR) and **meaningful use** standards for health information technology infrastructure (e.g. electronic prescribing)
