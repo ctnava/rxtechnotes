@@ -172,7 +172,7 @@ Processed through:
 > .
 > 🛡️ Never submit these claims to the patient’s regular insurance unless explicitly directed.
 
-### 🧩 Public Assistance & Affordability Pathways
+### Public Assistance & Affordability Pathways
 
 When patients are unable to afford their prescriptions due to lack of insurance coverage, high out-of-pocket costs, or formulary exclusions, pharmacies can support access through a variety of public assistance resources and non-standard funding channels. These programs operate **outside the typical billing and adjudication system** and can provide significant financial relief.
 
