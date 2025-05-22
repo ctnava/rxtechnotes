@@ -86,7 +86,93 @@ Public health insurance refers to a system of healthcare coverage provided by go
 
 🔗 See [Public Healthcare](./insurance/public_health_insurance.md) for more details.
 
-## ⚙️ Claims, Adjudication, & Billing
+## 💲 Reimbursement, Pricing, & Billing Models
+
+Understanding how prescriptions are priced and reimbursed is essential for pharmacy technicians, especially when dealing with insurance billing, patient copays, or third-party rejections.
+
+### Pricing & Fees
+
+- **Average Wholesale Price (AWP)** is a published "sticker" price used as a pricing reference. It is **not** the actual price pharmacies pay, but is used to calculate reimbursements in many contracts.
+- **Wholesale Acquisition Cost (WAC)** is the manufacturer’s list price to wholesalers. It is typically lower than AWP but still does **not** reflect discounts or rebates. It is also used more in pricing negotiations than in routine claims reimbursement.
+- **National Average Drug Acquisition Cost (NADAC)** is a **federal pricing benchmark** based on actual invoice data collected from retail community pharmacies. It represents what pharmacies **typically pay** for a drug and is used by **Medicaid** for fair reimbursement. NADAC is published weekly by CMS and reflects real-world costs more accurately than AWP or WAC.
+- **Dispensing Fee** is a fixed amount paid to the pharmacy by the insurer to cover the professional services involved in preparing and dispensing a prescription. This includes tasks such as verifying the prescription, reviewing drug interactions, labeling, and patient counseling. This is added to the drug cost in most reimbursement formulas. Medicaid programs and PBMs each have different dispensing fee rates. These are fixed by contract and may differ between generics, brands, and 340B drugs.
+
+### Reimbursement
+
+As a cost-containment strategy, insurers will pay the lowest of:
+
+- **Maximum Allowable Cost (MAC)** is the maximum reimbursable amount that a PBM will set for a generic drug or group of equivalent drugs. If a pharmacy’s acquisition cost exceeds the MAC, it may lose money on the transaction unless it charges the patient the difference.
+- **Usual and Customary (U&C / UCR) Price** is the "cash" or "retail" price that a pharmacy would charge a cash-paying customer for a given prescription. Insurers compare this price to their negotiated rates.
+- **Contracted Reimbursement Formula** refers to the specific pricing agreement between the pharmacy and the PBM or third-party payer. These terms vary by payer and are confidential, but typically includes a base rate such as **[ingredient cost + dispensing fee]** or **[average wholesale price (AWP) minus a percentage + fee]**.
+
+> - **🦅 Medicare Part D** plans negotiate their own contracted rates with pharmacies. They do **not** use MAC pricing but rely on **plan-specific reimbursement formulas**.
+> - **🐻 Medi-Cal** uses **NADAC + $10.05 dispensing fee** for most outpatient drugs dispensed at retail pharmacies. This is subject to change based on the state budget and CMS rules.
+> - **🦅 340B Drug Pricing Program** allows eligible entities (e.g., certain clinics and hospitals) to purchase outpatient drugs at significant discounts. When a 340B drug is billed to Medicaid, special **carve-out** rules apply to avoid duplicate discounts.
+> - 🛡️ Pharmacy technicians must identify if a prescription is 340B-eligible and follow proper billing procedures. Billing a 340B drug through Medicaid without correct flags can violate federal law.
+
+### Billing Models
+
+Understanding the different ways a pharmacy submits and processes claims helps clarify why certain prescriptions require different workflows, systems, or documentation. Billing models vary by payer type, drug classification, and healthcare setting.
+
+#### 💊 PBM-Based Prescription Billing
+
+This is the **most common billing model** for retail, chain, and outpatient pharmacies. Claims are submitted electronically through a **Pharmacy Benefit Manager (PBM)**.
+
+- Uses the **NCPDP Telecommunication Standard** (real-time claim format)
+- Requires **BIN / PCN / Group / ID numbers** from the patient’s insurance card
+- Adjudication happens in **real-time**
+- Determines:
+  - Coverage and formulary status
+  - Patient copay or coinsurance
+  - Reimbursement to the pharmacy
+
+> 📍 Rejections are issued instantly with reject codes (e.g., PA required, refill too soon, NDC not covered).
+
+#### 🏢 In-House Billing (Medical Claims)
+
+Some pharmacies (especially compounding, specialty, or hospital outpatient pharmacies) bill **medical insurance** directly, bypassing PBMs. This is known as **in-house billing** or **medical claims billing**.
+
+Uses:
+
+- **CMS-1500** (for professional services)
+- **UB-04** (for institutional billing)
+
+Common for:
+
+- Injectables
+- Durable Medical Equipment (DME)
+- Immunizations
+- Physician-administered medications
+
+Requires:
+
+- HCPCS / CPT procedure codes
+- ICD-10 diagnosis codes
+- Rendering provider and facility NPI numbers
+
+> 📍 Medical claims adjudication is slower and often requires documentation (e.g., physician orders, treatment plans).
+
+#### 🛠️ Third-Party Network Billing (e.g., Workers’ Comp, TPA)
+
+Some prescriptions bypass standard PBMs and are routed through **special billing networks** tied to employer-based or injury-related claims.
+
+Used in:
+
+- **Workers’ compensation claims**
+- **Auto insurance** or liability claims
+- **TPAs (Third Party Administrators)** for employer drug programs
+
+Processed through:
+
+- Designated billing networks (e.g., Coventry, One Call, Mitchell)
+- Manual fax or EDI processes
+- Employer or state-specific guidelines
+
+> 🐻 California has unique workers’ comp rules and drug formularies. Claims must follow Division of Workers' Compensation (DWC) guidelines.
+> .
+> 🛡️ Never submit these claims to the patient’s regular insurance unless explicitly directed.
+
+## ⚙️ Claims, Adjudication, & Billing Cycle
 
 - **Claims** refer to the electronic submissions that a pharmacy sends to an insurance company or PBM (Pharmacy Benefit Manager) to request payment for a dispensed prescription.
 - **Adjudication** is the real-time process where insurance (via the PBM) evaluates a prescription claim. It determines coverage, patient cost, and whether the prescription is accepted or rejected.
@@ -165,30 +251,6 @@ A **7-day supply** of a drug may be dispensed **without prior authorization** if
 - The prescription is for a **new work-related injury**.
 
 > 📍 Always check for California-specific reject messages or override codes when submitting workers’ comp claims.
-
-### 💲 Reimbursement, Pricing, & Billing Models
-
-Understanding how prescriptions are priced and reimbursed is essential for pharmacy technicians, especially when dealing with insurance billing, patient copays, or third-party rejections.
-
-### Pricing & Fees
-
-- **Average Wholesale Price (AWP)** is a published "sticker" price used as a pricing reference. It is **not** the actual price pharmacies pay, but is used to calculate reimbursements in many contracts.
-- **Wholesale Acquisition Cost (WAC)** is the manufacturer’s list price to wholesalers. It is typically lower than AWP but still does **not** reflect discounts or rebates. It is also used more in pricing negotiations than in routine claims reimbursement.
-- **National Average Drug Acquisition Cost (NADAC)** is a **federal pricing benchmark** based on actual invoice data collected from retail community pharmacies. It represents what pharmacies **typically pay** for a drug and is used by **Medicaid** for fair reimbursement. NADAC is published weekly by CMS and reflects real-world costs more accurately than AWP or WAC.
-- **Dispensing Fee** is a fixed amount paid to the pharmacy by the insurer to cover the professional services involved in preparing and dispensing a prescription. This includes tasks such as verifying the prescription, reviewing drug interactions, labeling, and patient counseling. This is added to the drug cost in most reimbursement formulas. Medicaid programs and PBMs each have different dispensing fee rates. These are fixed by contract and may differ between generics, brands, and 340B drugs.
-
-#### Reimbursement
-
-As a cost-containment strategy, insurers will pay the lowest of:
-
-- **Maximum Allowable Cost (MAC)** is the maximum reimbursable amount that a PBM will set for a generic drug or group of equivalent drugs. If a pharmacy’s acquisition cost exceeds the MAC, it may lose money on the transaction unless it charges the patient the difference.
-- **Usual and Customary (U&C / UCR) Price** is the "cash" or "retail" price that a pharmacy would charge a cash-paying customer for a given prescription. Insurers compare this price to their negotiated rates.
-- **Contracted Reimbursement Formula** refers to the specific pricing agreement between the pharmacy and the PBM or third-party payer. These terms vary by payer and are confidential, but typically includes a base rate such as **[ingredient cost + dispensing fee]** or **[average wholesale price (AWP) minus a percentage + fee]**.
-
-> - **🦅 Medicare Part D** plans negotiate their own contracted rates with pharmacies. They do **not** use MAC pricing but rely on **plan-specific reimbursement formulas**.
-> - **🐻 Medi-Cal** uses **NADAC + $10.05 dispensing fee** for most outpatient drugs dispensed at retail pharmacies. This is subject to change based on the state budget and CMS rules.
-> - **🦅 340B Drug Pricing Program** allows eligible entities (e.g., certain clinics and hospitals) to purchase outpatient drugs at significant discounts. When a 340B drug is billed to Medicaid, special **carve-out** rules apply to avoid duplicate discounts.
-> - 🛡️ Pharmacy technicians must identify if a prescription is 340B-eligible and follow proper billing procedures. Billing a 340B drug through Medicaid without correct flags can violate federal law.
 
 ### 🔁 The Billing Cycle
 
