@@ -323,6 +323,58 @@ A **7-day supply** of a drug may be dispensed **without prior authorization** if
 
 > 📍 Always check for California-specific reject messages or override codes when submitting workers’ comp claims.
 
+### Filing Claims
+
+#### 💊 Medication Therapy Management (MTM)
+
+Medication Therapy Management (MTM) is a service provided by pharmacists under Medicare Part D Prescription Drug Plans (PDPs) to optimize drug therapy and improve outcomes.
+
+Services may include:
+
+- Comprehensive medication reviews (CMRs)
+  - Targeted medication reviews (TMRs)
+  - Disease state management (e.g., diabetes, hypertension)
+  - Billed using CPT codes on medical claim forms submitted via:
+    - CMS-1500 (direct medical billing)
+    - CMS-10114 form (MTM reporting to CMS)
+
+CMS-10114 Form are required for PDPs offering MTM services and require the following supporting documents:
+
+- MTM program elements
+- Target populations
+- Intervention frequency
+- Reporting metrics to CMS
+
+| **CPT Code** | **Description** | **Use Case** | **Billing Notes** |
+| ------------ | --------------- | ------------ | ----------------- |
+| **99605** | MTM initial consult, new patient, up to 15 minutes | First encounter with new MTM patient | Billed once per patient per year |
+| **99606** | MTM follow-up visit, established patient, up to 15 minutes | Ongoing MTM care (same year) | Use after 99605 has been billed                  |
+| **99607** | Add-on for MTM services, each additional 15 minutes | For longer sessions (attach to 99605/99606) | Can be billed multiple times for extended visits |
+
+> 💡 All MTM billing requires **time documentation, clinical notes**, and often a **signed patient consent**. These services are generally not billable through PBMs—they go through medical insurance or Medicare Part D PDPs.
+
+#### 📄 Universal Claim Form (UCF)
+
+The **Universal Claim Form (UCF)** is a standardized **paper form** created by the **National Council for Prescription Drug Programs (NCPDP)**. It is used when **electronic adjudication is unavailable**, fails, or is not supported by the plan.
+
+Common scenarios:
+
+- Long-term care or correctional facilities
+- Retroactive insurance billing
+- Workers’ comp or third-party administrator (TPA) claims
+- Coordination of Benefits (COB) adjustments
+- Out-of-network pharmacy claims
+
+> 📄 UCFs must be completed **accurately and legibly**. Incomplete or illegible forms will result in **claim rejections or delays**. Many payers require original signatures or supporting documents as well as the **reason** for paper submission.
+
+##### 🐻 California-Specific Notes
+
+- **Medi-Cal** does **not accept handwritten UCFs**. Claims must be typed or submitted electronically unless an exception is granted.
+- For **Medi-Cal Rx**, electronic claim submission through the **Magellan portal** is required for standard prescriptions. UCFs may be used in rare override or disaster scenarios.
+- Medical billing through **Medi-Cal FFS** requires coordination with the **Local Education Agency (LEA)** or **county health department** for covered services.
+
+> 🐻 CA pharmacies must retain **UCF copies and supporting documentation for 3 years**, per audit standards.
+
 ### 🔁 The Billing Cycle
 
 The billing cycle is a real-time loop that occurs every time a prescription is submitted for insurance billing. It ensures the pharmacy receives reimbursement and the patient is charged correctly.
