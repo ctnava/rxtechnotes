@@ -121,3 +121,135 @@ Vaccines help your body build protection against infectious diseases by "teachin
 To support public health through vaccine efforts, pharmacies offer immunization services.
 
 🔗 Further Reading on [Vaccines as well as Initiatives in Retail & Hospital Pharmacy](./medications/vaccines.md).
+
+## Settings
+
+## Outpatient
+
+### Community Retail Pharmacies
+
+Community retail pharmacies provide direct patient access to prescription medications, health consultations, and over-the-counter (OTC) products. These pharmacies dispense nearly **two-thirds of all prescriptions nationwide**, making them central to public health delivery. They serve as both **medication access points** and **healthcare hubs** within the community.
+
+📦 **Types of Retail Pharmacies**:
+
+- 🧾 **Independent Pharmacies**  
+  - Privately owned and operated  
+  - Offer personalized care and may provide specialized services (e.g., compounding, delivery)
+  - Often emphasize long-term patient relationships and localized service
+- 🏬 **Chain Pharmacies**  
+  - National or regional brands (e.g., CVS, Walgreens, Rite Aid)  
+  - Standardized operations, formularies, and staffing models  
+  - May include centralized call centers and mail-order services
+- 🛒 **Mass Merchandiser Pharmacies**  
+  - In-store pharmacies within retailers like Walmart, Costco, or Target  
+  - High prescription volume, with integrated retail traffic  
+  - Often support immunization programs and low-cost generics
+- 🥕 **Grocery Store Pharmacies**  
+  - Located within supermarkets (e.g., Kroger, Safeway, Publix)  
+  - May integrate with store loyalty programs  
+  - Emphasis on convenience and walk-in services
+
+#### 🏥 Walk-In Clinics (Retail Health Clinics)
+
+Some retail locations operate **on-site clinics** under models like **CVS MinuteClinic** or **Walgreens Healthcare Clinic**. These clinics provide minor acute care and preventative services.
+
+🩺 **Staffed By**:
+
+- 👩‍⚕️ Nurse Practitioners (NPs)  
+- 🧑‍⚕️ Physician Assistants (PAs)
+
+🩹 **Services Offered**:
+
+- Minor infections (e.g., strep throat, UTI)  
+- Injury care (e.g., sprains, cuts, minor burns)  
+- Chronic disease monitoring (e.g., hypertension, diabetes)  
+- Routine vaccinations (e.g., influenza, shingles, COVID-19)  
+- Health screenings (e.g., blood pressure, glucose, cholesterol)
+
+💼 **Pharmacy Technician Roles**:
+
+- **Patient intake** and registration for clinic services  
+- Updating **electronic health records (EHRs)**  
+- Coordinating follow-ups or external referrals  
+- Assisting with **vaccine preparation** and workflow management  
+- Insurance verification and billing support for clinical services
+
+🛡️ **Technician Responsibilities in the Retail Setting**:
+
+- Prescription data entry, third-party adjudication, and label printing  
+- Filling and packaging prescriptions under pharmacist supervision  
+- Inventory control, expiration monitoring, and ordering  
+- Front-end support for OTC product recommendations (non-clinical)  
+- Administering vaccines (where permitted by state law and certification)
+
+🦅x🐻 **Regulatory Oversight**:
+
+- All dispensing activities must comply with **state Board of Pharmacy** rules and **federal law** (DEA, FDA)
+- Prescription processing must meet **HIPAA** privacy standards  
+- Technicians must follow **P&P manuals**, training protocols, and scope-of-practice restrictions  
+
+✅ **Retail Pharmacy Technicians Should Be Familiar With**:
+
+- Workflow systems (e.g., PioneerRx, McKesson, QS/1, or Connexus)  
+- Third-party billing software and plan-specific rejection codes  
+- Manufacturer coupons, discount card programs (e.g., GoodRx), and prior authorization procedures  
+- Vaccine inventory tracking (e.g., VFC or state immunization registries)
+
+📍 **Retail technicians are the first point of contact for most patients**. Professional demeanor, clear communication, and operational efficiency are critical for ensuring medication safety and customer satisfaction.
+
+### 🏪 Compounding Pharmacies
+
+Community compounding pharmacies, also referred to as **hybrid pharmacies**, provide customized medications for patients whose therapeutic needs cannot be met by commercially manufactured products. These pharmacies may operate independently or within a broader community retail pharmacy, and typically focus on **non-sterile compounding**, though some are equipped to handle **Compounded Sterile Preparations (CSPs)**.
+
+🧪 **Compounding Services Are Required When**:
+
+- A patient is allergic to an inactive ingredient (e.g., dyes, preservatives, lactose) in a commercially available product
+- A drug product has been discontinued or is in shortage
+- A patient requires a nonstandard dose or route of administration
+- A specific flavor or form (e.g., liquid vs tablet) is needed for patient compliance
+- A veterinary or pediatric formulation is required
+
+💊 **Common Types of Compounded Medications**:
+
+- Bioidentical hormone replacement therapy (BHRT)
+- Dermatologicals (creams, gels, ointments)
+- Iontophoresis or sonophoresis agents
+- Ophthalmic preparations (eye drops, ointments)
+- Transdermal gels and patches
+- Topical pain management creams
+- Palliative care formulations
+- Pediatric suspensions and lozenges
+- Veterinary medications
+- Sports medicine formulations
+
+📜 **Regulatory & Accreditation Framework**:
+
+- 🧪x🛡️ Must comply with **USP Chapters 795**, **797**, and **800** depending on the type of compounding (non-sterile, sterile, hazardous)
+- 🦅x🐻 Subject to **FDA** & **DEA** oversight and **state board of pharmacy** regulations
+- ✅ Accredited by the **Pharmacy Compounding Accreditation Board (PCAB)**, part of the **Accreditation Commission for Health Care (ACHC)**
+  - Requires written Standard Operating Procedures (SOPs) for compounding processes, quality assurance, and documentation
+
+💸 **Insurance Coverage**:
+
+- Most **private insurance plans** may reimburse compounded prescriptions
+- **Public insurance programs** (e.g., Medicare, Medi-Cal) usually **do not** cover compounded preparations  
+
+> 🚨 Technicians must verify coverage during the adjudication process and inform patients of out-of-pocket costs
+
+🧑‍⚕️ **Staffing Models May Include**:
+
+In addition to pharmacists and technicians, some compounding pharmacies partner with:
+
+- **Holistic health practitioners**: May offer alternative therapy recommendations
+- **Nutritionists**: May assist with integrative care involving supplements or diet plans
+- **Herbalists**: May advise on botanical compounds or adjunct therapies
+
+🛡️ **Pharmacy Technician Roles**:
+
+- Prepare, measure, and compound non-sterile dosage forms under pharmacist supervision
+- Maintain compounding logs and batch records
+- Perform cleaning and maintenance of equipment and designated compounding areas
+- Assist in inventory management and beyond-use dating (BUD) verification
+- Comply with personal protective equipment (PPE) requirements for hazardous compounding
+
+> 🔑 A compounding pharmacy technician must be thoroughly trained and regularly assessed to maintain compliance with internal SOPs, federal standards, and state-specific requirements.
