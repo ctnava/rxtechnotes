@@ -1,4 +1,4 @@
-# Pharmacy Personnel & Services
+# Pharmacy Settings, Personnel, & Services
 
 ## Pharmacy Personnel
 
