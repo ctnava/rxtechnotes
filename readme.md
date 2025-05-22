@@ -75,4 +75,3 @@ Recommended Progression:
 ## Notes
 
 - `./1_duties_services_law.md` is now redundant and pending deletion
-- `./3_healthcare_coverage.md` is now redundant and pending deletion
