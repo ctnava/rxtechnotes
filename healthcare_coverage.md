@@ -82,7 +82,7 @@ Managed care plans are offered by insurers (public and private); structured to c
 
 ### Public Health Insurance
 
-<!-- TODO: Link to explanations of public health insurance -->
+🔗 See [Public HealthCare](./insurance/public_health_insurance.md) for more information.
 
 ## ⚙️ Claims, Adjudication, & Billing
 

@@ -1,4 +1,4 @@
-# Public Health Insurance
+# Public Healthcare
 
 ## Medicare & Medicaid
 
