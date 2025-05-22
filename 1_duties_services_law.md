@@ -278,7 +278,7 @@ The **Medicare Modernization Act (MMA, 2003)** established Part D of the program
 
 Technicians assist by preparing medication histories, documentation, and assisting with insurance or billing tasks.
 
-> 🔐 **HIPAA (1996)**: Requires all patient health information (PHI) obtained during Counseling, DSM, MTM services to be kept strictly confidential.
+> 📨 **HIPAA**: Requires all patient health information (PHI) obtained during Counseling, DSM, MTM services to be kept strictly confidential.
 
 #### 🩺 Disease State Management (DSM)
 
