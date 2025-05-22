@@ -123,7 +123,7 @@ Manufacturers participating in the Medicaid program are required to offer discou
 
 ## Health Information Technology for Economic & Clinical Health Act (HITECH, 2009)
 
-🔗 [Expanded Detail](./health_privacy.md#the-health-information-technology-for-economic--clinical-health-act-hitech-2009)
+🔗 [More Health Information Policy](./health_privacy.md#the-health-information-technology-for-economic--clinical-health-act-hitech-2009)
 
 - Expands HIPAA: includes **business associates** as regulated parties.
 - Promotes the use of electronic health records (EHR) and **meaningful use** standards for health information technology infrastructure (e.g. electronic prescribing)
