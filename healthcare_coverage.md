@@ -107,7 +107,67 @@ Before a prescription can be processed or billed, a patient profile must be crea
 
 🔗 See: [New Patient Intake SOP](./sop/new_patient_intake.md)
 
-### 📝 Prior Authorization (PA)
+### 🔁 The Billing Cycle
+
+The billing cycle is a real-time loop that occurs every time a prescription is submitted for insurance billing. It ensures the pharmacy receives reimbursement and the patient is charged correctly.
+
+1. **Prescription Entry**
+   - A valid prescription is entered into the pharmacy management system.
+   - Key data: prescriber NPI, patient demographics, drug NDC, quantity, days' supply, and DAW code.
+2. **Insurance Claim Submission**
+   - The system electronically submits the claim to the patient’s **primary insurer** via the PBM.
+   - Format: Uses **NCPDP Telecommunication Standard** (e.g., D.0).
+   - Includes BIN, PCN, Group ID, Member ID, relationship code, and coordination of benefits if needed.
+3. **Real-Time Adjudication**
+   - The PBM processes the claim in seconds.
+   - It checks:
+     - **Eligibility**
+     - **Drug coverage and formulary status**
+     - **Quantity limits**
+     - **Copay tiers**
+     - **Prior authorization requirements**
+     - **Coordination of benefits (COB)**
+4. **Response Returned to Pharmacy**
+   - If **accepted** or `paid`:
+     - The PBM returns the **approved reimbursement amount** for the pharmacy and the **patient’s copay**.
+   - If **rejected**:
+     - A `reject` code is returned (e.g., "70 = Product/Service Not Covered", "75 = Prior Authorization Required").
+     - The technician must **troubleshoot** or **refer to pharmacist**.
+       - `Other Coverage Primary` indicates that COB is incorrect and technicians must confirm plan billing order.
+       - `Pending PA` indicates that the plan requires prior authorization and technicians must notify pharmacist to initiate.
+       - `Plan Not Found` indicates possible data entry error (e.g. Insurance ID or BIN) and technicians must reverify the card or contact the PBM helpdesk.
+5. **Patient Pickup & Payment**
+   - If accepted, the patient pays their portion (copay, coinsurance, deductible).
+   - If issues persist, patient may be asked to contact insurer or provider.
+6. **Secondary/Tertiary Claims (if applicable)**
+   - If a secondary or tertiary insurance exists, the remaining balance is submitted to the next payer.
+   - Claim uses coordination of benefits fields (e.g., Amount Paid by Primary Plan).
+   - Adjudication repeats for the next plan.
+7. **Reconciliation & Rebilling**
+   - Pharmacies later receive remittance advice and reconcile claims against actual payments.
+   - Underpaid, reversed, or clawed-back claims may require **reversal and resubmission**.
+
+> 🛡️ Always verify that the correct insurance plan and COB are set up before submission. Even minor data errors can cause denials or underpayments.
+
+<!-- TODO: Insert Claims & Billing SOP -->
+
+#### 🛑 Common Third-Party Rejections & Resolutions
+
+A Third-Party Rejection (TPR) occurs when a prescription claim is denied by the PBM or insurance. These denials are flagged with a reject code and message explaining the issue.
+
+| Reject Code | Reason | Resolution |
+|-------------|--------|------------|
+| 70 | NDC Not Covered | Use formulary drug or request PA |
+| 75 | Prior Authorization Required | Start PA process |
+| 76 | Plan Limitations Exceeded | Check days’ supply, quantity |
+| 79 | Refill Too Soon | Check last fill date |
+| 25 | Invalid Birth Date | Verify with patient |
+| 26 | Invalid Person Code | Confirm patient relationship |
+| 41 | Invalid Cardholder ID | Correct insurance info |
+
+> 📍 Always confirm the BIN/PCN/ID from the most recent insurance card. These fields determine where the claim is sent.
+
+#### 📝 Prior Authorization (PA)
 
 A **Prior Authorization (PA)** is a formal approval process required by insurance companies or PBMs before they will pay for certain prescriptions. A PA TPR is triggered when the insurer needs clinical justification for covering a drug that falls outside standard coverage rules.
 
@@ -167,45 +227,3 @@ Pharmacy technicians commonly access PBM portals to:
 - Troubleshoot error messages or incomplete PA submissions
 
 > 📍 Portals may vary by PBM. Examples include CoverMyMeds, SureScripts, OptumRx, Express Scripts, CVS Caremark, and Medi-Cal Rx.
-
-### 🔁 The Billing Cycle
-
-The billing cycle is a real-time loop that occurs every time a prescription is submitted for insurance billing. It ensures the pharmacy receives reimbursement and the patient is charged correctly.
-
-1. **Prescription Entry**
-   - A valid prescription is entered into the pharmacy management system.
-   - Key data: prescriber NPI, patient demographics, drug NDC, quantity, days' supply, and DAW code.
-2. **Insurance Claim Submission**
-   - The system electronically submits the claim to the patient’s **primary insurer** via the PBM.
-   - Format: Uses **NCPDP Telecommunication Standard** (e.g., D.0).
-   - Includes BIN, PCN, Group ID, Member ID, relationship code, and coordination of benefits if needed.
-3. **Real-Time Adjudication**
-   - The PBM processes the claim in seconds.
-   - It checks:
-     - **Eligibility**
-     - **Drug coverage and formulary status**
-     - **Quantity limits**
-     - **Copay tiers**
-     - **Prior authorization requirements**
-     - **Coordination of benefits (COB)**
-4. **Response Returned to Pharmacy**
-   - If **accepted** or `paid`:
-     - The PBM returns the **approved reimbursement amount** for the pharmacy and the **patient’s copay**.
-   - If **rejected**:
-     - A `reject` code is returned (e.g., "70 = Product/Service Not Covered", "75 = Prior Authorization Required").
-     - The technician must **troubleshoot** or **refer to pharmacist**.
-       - `Other Coverage Primary` indicates that COB is incorrect and technicians must confirm plan billing order.
-       - `Pending PA` indicates that the plan requires prior authorization and technicians must notify pharmacist to initiate.
-       - `Plan Not Found` indicates possible data entry error (e.g. Insurance ID or BIN) and technicians must reverify the card or contact the PBM helpdesk.
-5. **Patient Pickup & Payment**
-   - If accepted, the patient pays their portion (copay, coinsurance, deductible).
-   - If issues persist, patient may be asked to contact insurer or provider.
-6. **Secondary/Tertiary Claims (if applicable)**
-   - If a secondary or tertiary insurance exists, the remaining balance is submitted to the next payer.
-   - Claim uses coordination of benefits fields (e.g., Amount Paid by Primary Plan).
-   - Adjudication repeats for the next plan.
-7. **Reconciliation & Rebilling**
-   - Pharmacies later receive remittance advice and reconcile claims against actual payments.
-   - Underpaid, reversed, or clawed-back claims may require **reversal and resubmission**.
-
-> 🛡️ Always verify that the correct insurance plan and COB are set up before submission. Even minor data errors can cause denials or underpayments.
