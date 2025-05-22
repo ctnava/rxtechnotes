@@ -89,6 +89,20 @@ Managed care plans are offered by insurers (public and private); structured to c
 - **Prior Authorizations (PA)** are a requirement for approval before certain drugs or services are covered. This often applies to controlled, expensive, or non-preferred medications.
 - **Coordination of benefits (COB)** is the process of determining which plan is billed first when patients have more than one plan. It prevents duplicate payments for the same service or prescription, ensures the correct insurer is billed first to avoid claim denials or delays, and helps the pharmacy calculate the patient’s true out-of-pocket cost.
 
+### 👤 Patient Intake & Coordination of Benefits (COB)
+
+Before a prescription can be processed or billed, a patient profile must be created in the pharmacy management system. This includes entering key information that ensures accuracy during claim adjudication and compliance with regulations.
+
+| Term | Meaning |
+|------|---------|
+| **Primary Insurance** | Pays first up to its coverage limits. |
+| **Secondary Insurance** | Pays some or all of what the primary didn’t cover. |
+| **Tertiary Insurance**  | Rare third plan that covers remaining costs. |
+
+> 🛡️ Incorrect COB setup leads to claim denials or full patient cost. Watch for Third Party Rejections like “other coverage primary”. Verify COB at patient intake and refer unclear COB issues to pharmacist or billing staff.
+
+🔗 See: [New Patient Intake SOP](./sop/new_patient_intake.md)
+
 ### 🔁 The Billing Cycle
 
 The billing cycle is a real-time loop that occurs every time a prescription is submitted for insurance billing. It ensures the pharmacy receives reimbursement and the patient is charged correctly.
@@ -130,20 +144,6 @@ The billing cycle is a real-time loop that occurs every time a prescription is s
    - Underpaid, reversed, or clawed-back claims may require **reversal and resubmission**.
 
 > 🛡️ Always verify that the correct insurance plan and COB are set up before submission. Even minor data errors can cause denials or underpayments.
-
-### 👤 Patient Intake & Coordination of Benefits (COB)
-
-Before a prescription can be processed or billed, a patient profile must be created in the pharmacy management system. This includes entering key information that ensures accuracy during claim adjudication and compliance with regulations.
-
-| Term | Meaning |
-|------|---------|
-| **Primary Insurance** | Pays first up to its coverage limits. |
-| **Secondary Insurance** | Pays some or all of what the primary didn’t cover. |
-| **Tertiary Insurance**  | Rare third plan that covers remaining costs. |
-
-> 🛡️ Incorrect COB setup leads to claim denials or full patient cost. Watch for Third Party Rejections like “other coverage primary”. Verify COB at patient intake and refer unclear COB issues to pharmacist or billing staff.
-
-🔗 See: [New Patient Intake SOP](./sop/new_patient_intake.md)
 
 ### 🛑 Third-Party Rejections & Resolutions
 
