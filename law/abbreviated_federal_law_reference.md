@@ -103,7 +103,7 @@ The DSCSA aims to improve the security and traceability of prescription drugs in
 - **Interoperable Systems**: The law mandates the development of an electronic, interoperable system for tracking drugs from manufacturer to dispenser.
 - **Enforcement**: The FDA has been implementing the DSCSA since 2013, and enforcement began in 2025.
 
-## Healthcare Coverage
+## Healthcare Coverage & Standards of Care
 
 ### Social Security Act Amendments (1965)
 
@@ -140,6 +140,23 @@ Especially critical for:
 - Patients with **Congestive Heart Failure (CHF)**
 - Transfers from **Skilled Nursing Facilities (SNFs)**
 
+## Medicare Modernization Act (MMA, 2003)
+
+The MMA established Part D of the program to provide prescription drug coverage and requires pharmacists to provide **Medication Therapy Management (MTM)** services to optimize therapeutic outcomes while minimizing adverse events. These include:
+
+- **Comprehensive medication reviews (CMRs)**: Reviewing all medications a patient is taking
+- Identifying duplications or interactions
+- Providing personalized medication action plans
+- Optimizing therapeutic outcomes
+- Monitoring side effects and adherence
+- Coordinating care with prescribers
+
+> 📍 MTM is usually targeted toward patients taking multiple chronic medications, especially those with multiple conditions or high drug costs.
+
+Technicians assist by preparing medication histories, documentation, and assisting with insurance or billing tasks.
+
+> 📨 **HIPAA**: Requires all patient health information (PHI) obtained during Counseling, DSM, MTM services to be kept strictly confidential.
+
 ## Health Information Handling
 
 🔗 [Further Detail on Health Information Handling Policy](./health_privacy.md)
@@ -162,23 +179,6 @@ Especially critical for:
 
 - Up to $250,000 and 10 years imprisonment for malicious misuse
 - $1,000 to $50,000 fines for violations due to reasonable cause
-
-## Medicare Modernization Act (MMA, 2003)
-
-The MMA established Part D of the program to provide prescription drug coverage and requires pharmacists to provide **Medication Therapy Management (MTM)** services to optimize therapeutic outcomes while minimizing adverse events. These include:
-
-- **Comprehensive medication reviews (CMRs)**: Reviewing all medications a patient is taking
-- Identifying duplications or interactions
-- Providing personalized medication action plans
-- Optimizing therapeutic outcomes
-- Monitoring side effects and adherence
-- Coordinating care with prescribers
-
-> 📍 MTM is usually targeted toward patients taking multiple chronic medications, especially those with multiple conditions or high drug costs.
-
-Technicians assist by preparing medication histories, documentation, and assisting with insurance or billing tasks.
-
-> 📨 **HIPAA**: Requires all patient health information (PHI) obtained during Counseling, DSM, MTM services to be kept strictly confidential.
 
 ### Health Information Technology for Economic & Clinical Health Act (HITECH, 2009)
 

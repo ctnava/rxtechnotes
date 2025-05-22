@@ -1,4 +1,4 @@
-# Healthcare Coverage & Standards
+# Healthcare Coverage & Standards of Care
 
 ## Social Security Act Amendments (1965)
 
