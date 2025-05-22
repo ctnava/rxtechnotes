@@ -197,6 +197,63 @@ Some retail locations operate **on-site clinics** under models like **CVS Minute
 
 📍 **Retail technicians are the first point of contact for most patients**. Professional demeanor, clear communication, and operational efficiency are critical for ensuring medication safety and customer satisfaction.
 
+### 🏪 Compounding Pharmacies
+
+Community compounding pharmacies, also referred to as **hybrid pharmacies**, provide customized medications for patients whose therapeutic needs cannot be met by commercially manufactured products. These pharmacies may operate independently or within a broader community retail pharmacy, and typically focus on **non-sterile compounding**, though some are equipped to handle **Compounded Sterile Preparations (CSPs)**.
+
+🧪 **Compounding Services Are Required When**:
+
+- A patient is allergic to an inactive ingredient (e.g., dyes, preservatives, lactose) in a commercially available product
+- A drug product has been discontinued or is in shortage
+- A patient requires a nonstandard dose or route of administration
+- A specific flavor or form (e.g., liquid vs tablet) is needed for patient compliance
+- A veterinary or pediatric formulation is required
+
+💊 **Common Types of Compounded Medications**:
+
+- Bioidentical hormone replacement therapy (BHRT)
+- Dermatologicals (creams, gels, ointments)
+- Iontophoresis or sonophoresis agents
+- Ophthalmic preparations (eye drops, ointments)
+- Transdermal gels and patches
+- Topical pain management creams
+- Palliative care formulations
+- Pediatric suspensions and lozenges
+- Veterinary medications
+- Sports medicine formulations
+
+📜 **Regulatory & Accreditation Framework**:
+
+- 🧪x🛡️ Must comply with **USP Chapters 795**, **797**, and **800** depending on the type of compounding (non-sterile, sterile, hazardous)
+- 🦅x🐻 Subject to **FDA** & **DEA** oversight and **state board of pharmacy** regulations
+- ✅ Accredited by the **Pharmacy Compounding Accreditation Board (PCAB)**, part of the **Accreditation Commission for Health Care (ACHC)**
+  - Requires written Standard Operating Procedures (SOPs) for compounding processes, quality assurance, and documentation
+
+💸 **Insurance Coverage**:
+
+- Most **private insurance plans** may reimburse compounded prescriptions
+- **Public insurance programs** (e.g., Medicare, Medi-Cal) usually **do not** cover compounded preparations  
+
+> 🚨 Technicians must verify coverage during the adjudication process and inform patients of out-of-pocket costs
+
+🧑‍⚕️ **Staffing Models May Include**:
+
+In addition to pharmacists and technicians, some compounding pharmacies partner with:
+
+- **Holistic health practitioners**: May offer alternative therapy recommendations
+- **Nutritionists**: May assist with integrative care involving supplements or diet plans
+- **Herbalists**: May advise on botanical compounds or adjunct therapies
+
+🛡️ **Pharmacy Technician Roles**:
+
+- Prepare, measure, and compound non-sterile dosage forms under pharmacist supervision
+- Maintain compounding logs and batch records
+- Perform cleaning and maintenance of equipment and designated compounding areas
+- Assist in inventory management and beyond-use dating (BUD) verification
+- Comply with personal protective equipment (PPE) requirements for hazardous compounding
+
+> 🔑 A compounding pharmacy technician must be thoroughly trained and regularly assessed to maintain compliance with internal SOPs, federal standards, and state-specific requirements.
+
 ### Mail Order Pharmacies
 
 Mail order pharmacies represent the **fastest-growing segment** of the retail pharmacy industry. They offer most services provided by traditional community pharmacies, including compounding, but operate primarily through **centralized, high-volume distribution centers** that ship prescriptions directly to patients' homes.
@@ -254,60 +311,3 @@ Mail order pharmacies maintain **dedicated call centers** for patient support:
 - High throughput capacity and centralized quality control
 
 📍 Pharmacy technicians in mail order settings must be comfortable with task specialization, automation, and maintaining high levels of productivity under strict SOPs.
-
-### 🏪 Compounding Pharmacies
-
-Community compounding pharmacies, also referred to as **hybrid pharmacies**, provide customized medications for patients whose therapeutic needs cannot be met by commercially manufactured products. These pharmacies may operate independently or within a broader community retail pharmacy, and typically focus on **non-sterile compounding**, though some are equipped to handle **Compounded Sterile Preparations (CSPs)**.
-
-🧪 **Compounding Services Are Required When**:
-
-- A patient is allergic to an inactive ingredient (e.g., dyes, preservatives, lactose) in a commercially available product
-- A drug product has been discontinued or is in shortage
-- A patient requires a nonstandard dose or route of administration
-- A specific flavor or form (e.g., liquid vs tablet) is needed for patient compliance
-- A veterinary or pediatric formulation is required
-
-💊 **Common Types of Compounded Medications**:
-
-- Bioidentical hormone replacement therapy (BHRT)
-- Dermatologicals (creams, gels, ointments)
-- Iontophoresis or sonophoresis agents
-- Ophthalmic preparations (eye drops, ointments)
-- Transdermal gels and patches
-- Topical pain management creams
-- Palliative care formulations
-- Pediatric suspensions and lozenges
-- Veterinary medications
-- Sports medicine formulations
-
-📜 **Regulatory & Accreditation Framework**:
-
-- 🧪x🛡️ Must comply with **USP Chapters 795**, **797**, and **800** depending on the type of compounding (non-sterile, sterile, hazardous)
-- 🦅x🐻 Subject to **FDA** & **DEA** oversight and **state board of pharmacy** regulations
-- ✅ Accredited by the **Pharmacy Compounding Accreditation Board (PCAB)**, part of the **Accreditation Commission for Health Care (ACHC)**
-  - Requires written Standard Operating Procedures (SOPs) for compounding processes, quality assurance, and documentation
-
-💸 **Insurance Coverage**:
-
-- Most **private insurance plans** may reimburse compounded prescriptions
-- **Public insurance programs** (e.g., Medicare, Medi-Cal) usually **do not** cover compounded preparations  
-
-> 🚨 Technicians must verify coverage during the adjudication process and inform patients of out-of-pocket costs
-
-🧑‍⚕️ **Staffing Models May Include**:
-
-In addition to pharmacists and technicians, some compounding pharmacies partner with:
-
-- **Holistic health practitioners**: May offer alternative therapy recommendations
-- **Nutritionists**: May assist with integrative care involving supplements or diet plans
-- **Herbalists**: May advise on botanical compounds or adjunct therapies
-
-🛡️ **Pharmacy Technician Roles**:
-
-- Prepare, measure, and compound non-sterile dosage forms under pharmacist supervision
-- Maintain compounding logs and batch records
-- Perform cleaning and maintenance of equipment and designated compounding areas
-- Assist in inventory management and beyond-use dating (BUD) verification
-- Comply with personal protective equipment (PPE) requirements for hazardous compounding
-
-> 🔑 A compounding pharmacy technician must be thoroughly trained and regularly assessed to maintain compliance with internal SOPs, federal standards, and state-specific requirements.
