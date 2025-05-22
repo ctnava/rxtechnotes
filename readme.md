@@ -35,7 +35,8 @@ Structured for both exam prep and on-the-job reference.
 
 | Chapter | Title |
 |---------|-------|
-| 1 | [Pharmacies: Duties, Services, Law, & Ethics](./1_duties_services_law.md) |
+| 1 | [Ethics & Compliance](./ethics_compliance.md) |
+| 2 | [Pharmacy Personnel & Services](./personnel_services.md) |
 | 2 | [Healthcare Coverage](./3_healthcare_coverage.md) |
 | 3 | [Drug Discovery, Manufacturing, & Logistics](./2_discovery_manufacture_logistics.md) |
 | 4 | [Legal Access to Marketed Drugs](./4_access_to_drugs.md) |
