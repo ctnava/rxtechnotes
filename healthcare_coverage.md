@@ -111,7 +111,7 @@ Before a prescription can be processed or billed, a patient profile must be crea
 
 #### 🛠️ Workers’ Compensation (Workers’ Comp)
 
-Workers’ compensation is a specialized form of insurance that pays for medical expenses, including prescription drugs, when an employee is injured on the job or develops a **work-related** illness. Workers’ comp claims are standalone and bypass commercial or government payers entirely. They are processed through a **separate billing system**, not the patient's standard PBM or insurance. Most workers’ comp plans use a **dedicated claims processor or pharmacy network** (e.g., Coventry, One Call, Mitchell ScriptAdvisor).
+Workers’ compensation is a specialized form of legally-mandated, private insurance that pays for medical expenses, including prescription drugs, when an employee is injured on the job or develops a **work-related** illness. Workers’ comp claims are standalone and bypass commercial or government payers entirely. They are processed through a **separate billing system**, not the patient's standard PBM or insurance. Most plans use a **dedicated claims processor or pharmacy network** (e.g., Coventry, One Call, Mitchell ScriptAdvisor).
 
 🔑 **When Handling these Claims**:
 
@@ -126,6 +126,46 @@ Workers’ compensation is a specialized form of insurance that pays for medical
 - Do **not** collect copays unless specifically instructed by the workers’ comp payer.
   - 📍 Patients typically pay **$0 out of pocket**, but **only for medications authorized by the claims adjuster**.
 - If a medication is **denied or not listed**, refer to the pharmacist or contact the claims adjuster.
+
+##### 🐻 California-Specific Requirements
+
+In California, workers’ comp prescriptions are regulated by the **Division of Workers’ Compensation (DWC)** and must comply with the **Medical Treatment Utilization Schedule (MTUS)** and **Drug Formulary**.
+
+🦅x🐻 **Drug Formulary Rules**:
+
+- California requires use of the **DWC Drug Formulary**, which classifies drugs as:
+  - **Exempt (Ex)**: No prior authorization needed.
+  - **Non-Exempt (Non-Ex)**: Requires Prior Authorization (PA).
+- The **MTUS** determines which drugs are medically necessary based on evidence-based treatment guidelines.
+
+🐻 **Mandatory Pharmacy Network Participation**:
+
+- Employers or claims administrators may require injured workers to use a specific **Medical Provider Network (MPN)** and contracted pharmacy network.
+- **Out-of-network pharmacies may not be reimbursed**, even if the medication is appropriate and covered under MTUS.
+
+🐻 **Electronic Billing & Documentation**
+
+Claims must be billed using **California DWC electronic billing formats** (837P or NCPDP for pharmacy).
+
+Proper documentation includes:
+
+- Original date of injury
+- DWC claim number
+- National Provider Identifier (NPI)
+- State license number
+- Prescriber’s information
+
+> 🛡️ Pharmacy technicians must confirm that the prescriber is in the MPN and that the drug matches DWC formulary coverage. Always escalate unclear coverage or PA issues to the pharmacist.
+
+🐻 **Emergency Fill Rule**
+
+A **7-day supply** of a drug may be dispensed **without prior authorization** if:
+
+- The drug is **listed as Exempt**, and
+- The provider documents medical necessity,
+- The prescription is for a **new work-related injury**.
+
+> 📍 Always check for California-specific reject messages or override codes when submitting workers’ comp claims.
 
 ### 🔁 The Billing Cycle
 
