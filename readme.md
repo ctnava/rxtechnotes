@@ -33,15 +33,14 @@ Structured for both exam prep and on-the-job reference.
 
 ### 📖 Chapters
 
-| Chapter | Title |
-|---------|-------|
-| 1 | [Ethics & Compliance](./ethics_compliance.md) |
-| 2 | [Pharmacy Personnel & Services](./personnel_services.md) |
-| 3 | [Pharmacy Settings & Technician Roles](./5_settings.md) |
-| 4 | [Healthcare Coverage](./3_healthcare_coverage.md) |
-| 5 | [Drug Discovery, Manufacturing, & Logistics](./2_discovery_manufacture_logistics.md) |
-| 6 | [Prescriptions & Dispensing](./4_access_to_drugs.md) |
-| 7 | [Pharmacy Inventory Management](./inventory_management.md) |
+| Chapter | Title | Status |
+|---------|-------|--------|
+| 1 | [Ethics & Compliance](./ethics_compliance.md) | ✅ Complete |
+| 2 | [Pharmacy Settings, Personnel, & Services](./personnel_services.md) | 🚧 WIP |
+| 3 | [Healthcare Coverage](./healthcare_coverage.md) | ✅ Complete |
+| 4 | [Drug Discovery, Manufacturing, & Logistics](./2_discovery_manufacture_logistics.md) | 🚧 WIP |
+| 5 | [Prescriptions & Dispensing](./4_access_to_drugs.md) | 🚧 WIP |
+| 6 | [Pharmacy Inventory Management](./inventory_management.md) | ✅ Complete |
 
 > 📁 **Math tutorials** are located in the [`./math`](./math) directory.
 
