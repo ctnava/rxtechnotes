@@ -79,7 +79,7 @@ These programs laid the foundation for future pharmacy regulations that affect h
 | 🅲   | Medicare Advantage | Combines A & B (and usually D), run by private insurers | Varies by plan | May offer dental, vision, hearing, gym |
 | 🅳   | Prescription Drug | Outpatient prescription drugs | Monthly premium, deductible, copays | Private plans available; penalty for late enrollment; Established by the MMA (2003) |
 
-> **TRIVIA**: The ***Patient Protection & Affordable Care Act (Obamacare, 2010)*** was signed into law with the overall goals of improving patient care, quality, and outcomes while reducing cost.
+> 🤯 The ***Patient Protection & Affordable Care Act (Obamacare, 2010)*** was signed into law with the overall goals of improving patient care, quality, and outcomes while reducing cost.
 
 🍩 **Medicare Part D “Donut Hole” (Coverage Gap)**
 
@@ -272,49 +272,7 @@ Prescription billing is the process of submitting a claim to a patient’s insur
 
 Before a prescription can be processed or billed, a patient profile must be created in the pharmacy management system. This includes entering key information that ensures accuracy during claim adjudication and compliance with regulations.
 
-**Required Fields**:
-
-- Full legal name
-- Date of birth
-- Address and contact information
-- Gender
-- Allergies (use "NKA" if there are no known allergies)
-- Health conditions
-- Current medications (prescriptions, supplements, & OTC)
-- Insurance Information
-- Medication history
-- Patient Preferences (e.g. child-resistant packaging waiver, preference for prescriptions by mail)
-- (Hospital Only) Principle Diagnoses
-
-Technicians must:
-
-- Verify information directly from the patient and their insurance card.
-- Ensure accuracy (especially date of birth, spelling, and ID numbers) to avoid claim rejections.
-- Update records annually or when patient details change.
-
-**Insurance Card Details**:
-
-In addition to the basic Patient Identification, the following details must be collected from the insurance card:
-
-| Information | Category | Description |
-|-------------|----------|-------------|
-| **Card Issuer Name/Logo** | Insurer Identifier | Name or logo of the insurance company issuing the card. |
-| **Card Issuer ID** | Insurer Identifier | Unique ID for the insurance company that issued the card. |
-| **Member Name** | Patient Identifier | Full name of the patient as listed on the insurance card. |
-| **Member ID** | Patient Identifier | Unique identification number for the patient under the plan. |
-| **Person Codes** | Patient Identifier | Identifiers for specific individuals covered (e.g., primary member, spouse). |
-| **Group Number** | Patient Identifier | Identifies the patient's insurance plan. |
-| **Gender** | Patient Identifier | Gender of the patient. |
-| **Date of Birth** | Patient Identifier | The patient's date of birth, critical for claim accuracy. |
-| **Card Issue/Effective Date** | Billing & Claims | Date when the insurance coverage began or card was issued. |
-| **Co-pays** | Billing & Claims | Patient’s co-payment amounts for different services (e.g., medications). |
-| **RXBIN** | Billing & Claims | Bank Identification Number for pharmacy claims processing. |
-| **RXPCN** | Billing & Claims | Processor Control Number used for managing prescription claims. |
-| **Name and Address of Benefit Administrator** | Billing & Claims | Company or agency responsible for managing benefits. |
-| **Pharmacy Help Desk Number** | Billing & Claims  | Contact number for pharmacies to resolve claim issues. |
-| **Phone Number for Member Help Desk** | Patient Use Only | Customer service phone number for patient inquiries. |
-
-> ⚠️ **Tech Tip**: Always confirm insurance data from the most recent insurance card to avoid billing errors and Third Party Rejections.
+🔗 See: [New Patient Intake & Profile Creation SOP](./sop/new_patient_intake.md)
 
 ### Online Claim Information
 
@@ -357,7 +315,7 @@ A Third-Party Rejection (TPR) occurs when a prescription claim is denied by the 
 | 26 | Invalid Person Code | Confirm patient relationship |
 | 41 | Invalid Cardholder ID | Correct insurance info |
 
-> 📍 **Tech Tip**: Always confirm the BIN/PCN/ID from the most recent insurance card. These fields determine where the claim is sent.
+> 📍 Always confirm the BIN/PCN/ID from the most recent insurance card. These fields determine where the claim is sent.
 
 ### 💲 Reimbursement, Pricing, & Billing Models
 
@@ -464,7 +422,7 @@ Pharmacy Technician Role:
 - Check for **third-party billing instructions** often sent through a workers’ comp pharmacy network (e.g., Coventry, One Call).
 - If a medication is **not covered**, refer to the pharmacist or contact the claims adjuster for clarification.
 
-> ⚠️ **Important**: Workers’ comp claims are not processed through the patient’s regular insurance card. Do not collect copays unless instructed by the plan.
+> 📍 Workers’ comp claims are not processed through the patient’s regular insurance card. Do not collect copays unless instructed by the plan.
 
 ### 🤝 Patient Assistance Programs (PAPs)
 
@@ -488,11 +446,11 @@ How Pharmacy Staff Can Help:
 - Help gather documentation (insurance info, income proof, prescription)
 - Some pharmacy systems or hospital case managers may handle applications
 
-> 💡 **Tech Tip**: PAPs are not billed through insurance. If approved, drugs may be shipped to the pharmacy or to the patient’s home. Always verify handling instructions.
+> 📍 PAPs are not billed through insurance. If approved, drugs may be shipped to the pharmacy or to the patient’s home. Always verify handling instructions.
 
 | Program Type | Who It's For | How It's Billed | Key Role of Tech |
 |--------------|--------------|-----------------|------------------|
 | **Workers’ Comp** | Patients injured at work | Through employer’s WC insurer | Verify claim info, process with WC billing, no copay |
 | **PAP** | Uninsured or low-income patients | Not billed—meds sent free or discounted | Help with enrollment, documentation, or referrals |
 
-> 🧠 When patients can't afford their medication, explore both workers’ comp eligibility (if job-related) and assistance programs and always consult the pharmacist for next steps.
+> 📍 When patients can't afford their medication, explore both workers’ comp eligibility (if job-related) and assistance programs and always consult the pharmacist for next steps.
