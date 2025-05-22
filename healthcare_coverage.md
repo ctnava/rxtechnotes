@@ -103,6 +103,47 @@ Before a prescription can be processed or billed, a patient profile must be crea
 
 🔗 See: [New Patient Intake SOP](./sop/new_patient_intake.md)
 
+### 🛑 Third-Party Rejections & Resolutions
+
+A Third-Party Rejection (TPR) occurs when a prescription claim is denied by the PBM or insurance. These denials are flagged with a reject code and message explaining the issue.
+
+| Reject Code | Reason | Resolution |
+|-------------|--------|------------|
+| 70 | NDC Not Covered | Use formulary drug or request PA |
+| 75 | Prior Authorization Required | Start PA process |
+| 76 | Plan Limitations Exceeded | Check days’ supply, quantity |
+| 79 | Refill Too Soon | Check last fill date |
+| 25 | Invalid Birth Date | Verify with patient |
+| 26 | Invalid Person Code | Confirm patient relationship |
+| 41 | Invalid Cardholder ID | Correct insurance info |
+
+> 📍 Always confirm the BIN/PCN/ID from the most recent insurance card. These fields determine where the claim is sent.
+
+#### 📝 Prior Authorization (PA)
+
+A **Prior Authorization (PA)** is a requirement by insurance companies (often managed by Pharmacy Benefit Managers or PBMs) that a healthcare provider must obtain approval by providing medical justification before a specific medication is covered by the patient's insurance. This process is used for **high-cost medications** (e.g., brand-name drugs without generic equivalents), **drugs with safety concerns** (e.g., opioid medications, certain antidepressants), **specialty drugs** (e.g., biologics, certain cancer treatments), **medications that require step therapy** (e.g., must try lower-tier drug first), drugs not listed in the **formulary**, or drugs considered to have alternatives that are more cost-effective. When a drug isn’t covered or needs a PA, it’s usually the PBM’s rules, not the pharmacy’s.
+
+> 📍 Prescription drugs can be acquired without PA.
+
+Generic drugs make medicine more accessible as insurers are always ready to save money. However, inactive ingredients may affect tolerances and allergies in individual patients. If needed, insurers will cover brand name drugs if a doctor provides justification of medical necessity. Without justification or PA, the patient usually may have to pay full price without insurance coverage.
+
+> 📍 PAs are NOT required for emergency care in life-threatening circumstances.
+
+The approval process typically involves submitting specific clinical information to the insurer, such as diagnosis codes, treatment history, or justification for why the prescribed drug is necessary over alternatives. From there, insurers & PBMs review the request. If approved, the healthcare provider may proceed with service or the requested medication may be dispensed.
+
+If a PA is needed, the technician typically works with the pharmacist to help gather necessary documentation, submit the PA request, and track the status of the request.
+
+> 📍 **Medication Delays**: The process of obtaining a PA can delay medication dispensing. Technicians may need to inform patients about this delay and direct them to a pharmacist for further assistance. Processing can take **1–3 days**. Clear communication with patients about the PA process can help manage expectations. It’s essential for pharmacy technicians to explain why certain medications may require a PA and how long it might take to receive approval. Document all patient interactions about PAs, rejections, and delays. Escalate to pharmacist when necessary.
+
+In outpatient care settings, PBMs influence what is covered, how much patients pay, and how pharmacies get reimbursed. Pharmacy technicians may encounter PAs in several scenarios, such as when a medication is not on the insurance company’s formulary, the prescribed medication requires additional review due to its cost or safety profile, or the insurance plan mandates a trial of a less expensive drug before approving the more expensive one. Pharmacy techs often use PBM portals to:
+
+- Submit or check claims
+- Review drug coverage
+- Confirm copays and eligibility
+- Assist with troubleshooting denials
+
+> **Denial and Appeal**: If a PA is denied, technicians may help by ensuring the pharmacy has all required documentation or by assisting in the appeal process.
+
 ### 🔁 The Billing Cycle
 
 The billing cycle is a real-time loop that occurs every time a prescription is submitted for insurance billing. It ensures the pharmacy receives reimbursement and the patient is charged correctly.
@@ -144,44 +185,3 @@ The billing cycle is a real-time loop that occurs every time a prescription is s
    - Underpaid, reversed, or clawed-back claims may require **reversal and resubmission**.
 
 > 🛡️ Always verify that the correct insurance plan and COB are set up before submission. Even minor data errors can cause denials or underpayments.
-
-### 🛑 Third-Party Rejections & Resolutions
-
-A Third-Party Rejection (TPR) occurs when a prescription claim is denied by the PBM or insurance. These denials are flagged with a reject code and message explaining the issue.
-
-| Reject Code | Reason | Resolution |
-|-------------|--------|------------|
-| 70 | NDC Not Covered | Use formulary drug or request PA |
-| 75 | Prior Authorization Required | Start PA process |
-| 76 | Plan Limitations Exceeded | Check days’ supply, quantity |
-| 79 | Refill Too Soon | Check last fill date |
-| 25 | Invalid Birth Date | Verify with patient |
-| 26 | Invalid Person Code | Confirm patient relationship |
-| 41 | Invalid Cardholder ID | Correct insurance info |
-
-> 📍 Always confirm the BIN/PCN/ID from the most recent insurance card. These fields determine where the claim is sent.
-
-#### 📝 Prior Authorization (PA)
-
-A **Prior Authorization (PA)** is a requirement by insurance companies (often managed by Pharmacy Benefit Managers or PBMs) that a healthcare provider must obtain approval by providing medical justification before a specific medication is covered by the patient's insurance. This process is used for **high-cost medications** (e.g., brand-name drugs without generic equivalents), **drugs with safety concerns** (e.g., opioid medications, certain antidepressants), **specialty drugs** (e.g., biologics, certain cancer treatments), **medications that require step therapy** (e.g., must try lower-tier drug first), drugs not listed in the **formulary**, or drugs considered to have alternatives that are more cost-effective. When a drug isn’t covered or needs a PA, it’s usually the PBM’s rules, not the pharmacy’s.
-
-> 📍 Prescription drugs can be acquired without PA.
-
-Generic drugs make medicine more accessible as insurers are always ready to save money. However, inactive ingredients may affect tolerances and allergies in individual patients. If needed, insurers will cover brand name drugs if a doctor provides justification of medical necessity. Without justification or PA, the patient usually may have to pay full price without insurance coverage.
-
-> 📍 PAs are NOT required for emergency care in life-threatening circumstances.
-
-The approval process typically involves submitting specific clinical information to the insurer, such as diagnosis codes, treatment history, or justification for why the prescribed drug is necessary over alternatives. From there, insurers & PBMs review the request. If approved, the healthcare provider may proceed with service or the requested medication may be dispensed.
-
-If a PA is needed, the technician typically works with the pharmacist to help gather necessary documentation, submit the PA request, and track the status of the request.
-
-> 📍 **Medication Delays**: The process of obtaining a PA can delay medication dispensing. Technicians may need to inform patients about this delay and direct them to a pharmacist for further assistance. Processing can take **1–3 days**. Clear communication with patients about the PA process can help manage expectations. It’s essential for pharmacy technicians to explain why certain medications may require a PA and how long it might take to receive approval.
-
-In outpatient care settings, PBMs influence what is covered, how much patients pay, and how pharmacies get reimbursed. Pharmacy technicians may encounter PAs in several scenarios, such as when a medication is not on the insurance company’s formulary, the prescribed medication requires additional review due to its cost or safety profile, or the insurance plan mandates a trial of a less expensive drug before approving the more expensive one. Pharmacy techs often use PBM portals to:
-
-- Submit or check claims
-- Review drug coverage
-- Confirm copays and eligibility
-- Assist with troubleshooting denials
-
-> **Denial and Appeal**: If a PA is denied, technicians may help by ensuring the pharmacy has all required documentation or by assisting in the appeal process.
