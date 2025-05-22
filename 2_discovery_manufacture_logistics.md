@@ -1,7 +1,5 @@
 # Chapter 2: The Discovery, Manufacture, & Logistics of Drugs
 
-This chapter covers how drugs are discovered, developed, tested, manufactured, distributed, and monitored for safety.
-
 ## Historical Background
 
 ### The Pure Food, Drugs, & Cosmetics Act (FDC, 1906)
@@ -15,7 +13,7 @@ This chapter covers how drugs are discovered, developed, tested, manufactured, d
 - Required that new drugs must be proven **safe** before marketing.
 - Passed after the **sulfanilamide** tragedy, which caused over 100 deaths (many of which were children) after using this drug in an oral tablet dosage form
 
-> **Note**: Thalidomide is now FDA-approved for treating multiple myeloma and leprosy. Use requires strict risk acknowledgment from both men and women.
+> 🤯 Thalidomide is now FDA-approved for treating multiple myeloma and leprosy. Use requires strict risk acknowledgment from both men and women.
 
 ### Kefauver-Harris Amendment (1962)
 
@@ -32,7 +30,7 @@ There exist two commercial categories of drugs:
 - **Brand Name Drugs**: Original drugs developed by pharmaceutical companies, protected by patents, and marketed under proprietary names
 - **Generic Drugs**: Copies of brand-name drugs that have the same active ingredients, strength, dosage form, and route of administration, but sold under generic chemical names or different brand names after the original patent expires
 
-> **TRIVIA**: The Orphan Drug Act (1983) provides incentives to promote research, approval, and marketing of drugs needed for the treatment of rare (therefore less profitable) diseases.
+> 🤯 The Orphan Drug Act (1983) provides incentives to promote research, approval, and marketing of drugs needed for the treatment of rare (therefore less profitable) diseases.
 
 ### Brand Name Drug Development
 
@@ -146,7 +144,7 @@ There are 3 main types of supplier: drug manufacturers, specialty pharmacies, an
 - **Specialty Pharmacies** focus on providing high-cost, complex medications and specialized services to patients with chronic conditions
 - **Compounding Pharmacies** customize medications on a patient-specific basic, often mixing, combinging, or altering existing drugs to meet individual needs
 
-> **Note**: The federal **340B Drug Pricing Program** limits the cost safety-net providers, like medicaid, federally qualified health centers, and qualified hospitals paid for outpatient drugs through wholesalers.
+> 🤯 The federal **340B Drug Pricing Program** limits the cost safety-net providers, like medicaid, federally qualified health centers, and qualified hospitals paid for outpatient drugs through wholesalers.
 
 ### Wholesalers
 
