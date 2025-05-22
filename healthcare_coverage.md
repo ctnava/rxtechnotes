@@ -172,6 +172,77 @@ Processed through:
 > .
 > 🛡️ Never submit these claims to the patient’s regular insurance unless explicitly directed.
 
+### 🧩 Public Assistance & Affordability Pathways
+
+When patients are unable to afford their prescriptions due to lack of insurance coverage, high out-of-pocket costs, or formulary exclusions, pharmacies can support access through a variety of public assistance resources and non-standard funding channels. These programs operate **outside the typical billing and adjudication system** and can provide significant financial relief.
+
+Eligibility varies by program but generally includes:
+
+- **Uninsured** or **underinsured** patients
+- Patients who cannot afford **copays**, **coinsurance**, or **deductibles**
+- Patients who **meet income-based financial criteria**, often aligned with federal poverty levels
+- Patients prescribed **high-cost or specialty medications**
+
+#### 🤝 Patient Assistance Programs (PAPs)
+
+PAPs are typically funded by **drug manufacturers**, **nonprofits**, or **charitable foundations**. They provide **free or low-cost medication** to eligible patients.
+
+- May provide **free medication** shipped directly to the patient or pharmacy
+- Some offer **temporary coverage** while insurance is pending or under appeal
+- Most require application with **prescriber signature**, **proof of income**, and **insurance status**
+
+> 📍 PAPs bypass insurance billing. Approved drugs often come through separate distribution channels. Follow all handling and documentation instructions carefully.
+
+#### 💳 Copay Cards & Manufacturer Coupons
+
+These are **savings cards** issued by drug manufacturers to reduce the patient’s **out-of-pocket cost** at the point of sale.
+
+- Only available to patients with **commercial insurance**
+- Cannot be used with **Medicare**, **Medi-Cal**, or **other federal health programs**
+- Automatically apply at point of sale if card info is entered correctly
+
+> 🛡️ These programs are marketing tools. Always check for restrictions or expirations. Pharmacies may need to enroll through manufacturer portals.
+
+#### 🎗️ Disease-Specific Foundations & Grants
+
+Charitable foundations provide grants or free access to medications for patients with specific **chronic or high-cost diseases**, such as:
+
+- Cancer (e.g., Leukemia & Lymphoma Society)
+- HIV/AIDS (e.g., Patient Advocate Foundation)
+- Multiple Sclerosis (e.g., MSAA)
+
+Assistance may include:
+
+- **Full medication coverage**
+- Help with **copays**, **premiums**, or **transportation**
+- Reimbursement for already purchased meds (in some cases)
+
+> 📍 These programs may be used by **Medicare** or **Medi-Cal** patients when manufacturer copay cards are not allowed.
+
+#### 🧾 Cash Discounts or Sliding Scale Pricing
+
+Some pharmacies, especially **independent** or **clinic-affiliated**, offer cash discounts or **sliding scale pricing** based on income.
+
+- Price is reduced based on verified income level
+- Often used when no other assistance is available or during insurance gaps
+- Requires **internal authorization** or enrollment in discount program
+
+> 📍 Always document when a patient receives discounted pricing. It may affect future eligibility for other assistance programs.
+
+#### Providing Assistance
+
+Pharmacy staff should **screen** for assistance when insurance billing fails, a claim is rejected for cost-related reasons, or the patient expresses inability to pay.
+
+Technicians can help by:
+
+- **Identifying patients** who may benefit from assistance
+- **Explaining options** clearly and without judgment
+- **Gathering required documentation**, including prescriptions, income proof, and insurance info
+- **Coordinating with pharmacists**, case managers, or social workers
+- **Tracking application status** and following up with patients and programs
+
+<!-- TODO: Public Assistance SOP -->
+
 ## ⚙️ Claims, Adjudication, & Billing Cycle
 
 - **Claims** refer to the electronic submissions that a pharmacy sends to an insurance company or PBM (Pharmacy Benefit Manager) to request payment for a dispensed prescription.
