@@ -262,6 +262,8 @@ Recalls are generally handled in 4 steps.
 - **Manufacturer Recalls**: are initiated when they detect a defect, contamination, or labeling error. When this happens, they are legally required to notify the FDA and take appropriate action.
 - **Pharmacy Chain & Distributor Recalls**: Large pharmacy chains and wholesalers may voluntarily recall products from their shelves to to internal quality checks or concerns raised by pharmacists. They may also respond to manufacturer or FDA recalls by removing affected products from circulation. This can happen in the event that it's discovered that medication was held in improper storage conditions that could compromise effectiveness.
 
+<!-- TODO: Move this into an SOP for recall handling (link in pharmacy inventory chapter) -->
+
 ### The Role of a Technician
 
 Technicians must stay up to date with recalls posted online. When a recall is brought to their attention, they must alert the pharmacist and store management; providing information for patient outreach. Recalls are generally handled in the pharmacy with the following methodology:
