@@ -103,25 +103,9 @@ Before a prescription can be processed or billed, a patient profile must be crea
 
 🔗 See: [New Patient Intake SOP](./sop/new_patient_intake.md)
 
-### 🛑 Third-Party Rejections & Resolutions
+### 📝 Prior Authorization (PA)
 
-A Third-Party Rejection (TPR) occurs when a prescription claim is denied by the PBM or insurance. These denials are flagged with a reject code and message explaining the issue.
-
-| Reject Code | Reason | Resolution |
-|-------------|--------|------------|
-| 70 | NDC Not Covered | Use formulary drug or request PA |
-| 75 | Prior Authorization Required | Start PA process |
-| 76 | Plan Limitations Exceeded | Check days’ supply, quantity |
-| 79 | Refill Too Soon | Check last fill date |
-| 25 | Invalid Birth Date | Verify with patient |
-| 26 | Invalid Person Code | Confirm patient relationship |
-| 41 | Invalid Cardholder ID | Correct insurance info |
-
-> 📍 Always confirm the BIN/PCN/ID from the most recent insurance card. These fields determine where the claim is sent.
-
-#### 📝 Prior Authorization (PA)
-
-A **Prior Authorization (PA)** is a formal approval process required by insurance companies or PBMs before they will pay for certain prescriptions. A PA is triggered when the insurer needs clinical justification for covering a drug that falls outside standard coverage rules.
+A **Prior Authorization (PA)** is a formal approval process required by insurance companies or PBMs before they will pay for certain prescriptions. A PA TPR is triggered when the insurer needs clinical justification for covering a drug that falls outside standard coverage rules.
 
 > 📍 Some prescription drugs can still be purchased without insurance if the patient pays out-of-pocket.
 
@@ -135,7 +119,7 @@ A **Prior Authorization (PA)** is a formal approval process required by insuranc
 
 > 🚨 These rules are set by PBMs and insurers—not by the pharmacy.
 
-##### 🧾 PA Workflow for Pharmacy Technicians
+#### 🧾 PA Workflow
 
 Pharmacy technicians may assist the pharmacist with the following PA tasks:
 
