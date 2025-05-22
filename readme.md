@@ -37,13 +37,19 @@ Structured for both exam prep and on-the-job reference.
 |---------|-------|
 | 1 | [Ethics & Compliance](./ethics_compliance.md) |
 | 2 | [Pharmacy Personnel & Services](./personnel_services.md) |
-| 2 | [Healthcare Coverage](./3_healthcare_coverage.md) |
-| 3 | [Drug Discovery, Manufacturing, & Logistics](./2_discovery_manufacture_logistics.md) |
-| 4 | [Legal Access to Marketed Drugs](./4_access_to_drugs.md) |
-| 5 | [Pharmacy Settings & Technician Roles](./5_settings.md) |
-| 6 | [Pharmacy Inventory Management](./inventory_management.md) |
+| 3 | [Pharmacy Settings & Technician Roles](./5_settings.md) |
+| 4 | [Healthcare Coverage](./3_healthcare_coverage.md) |
+| 5 | [Drug Discovery, Manufacturing, & Logistics](./2_discovery_manufacture_logistics.md) |
+| 6 | [Prescriptions & Dispensing](./4_access_to_drugs.md) |
+| 7 | [Pharmacy Inventory Management](./inventory_management.md) |
 
 > 📁 **Math tutorials** are located in the [`./math`](./math) directory.
+
+Recommended Progression:
+
+- `Ethics & Compliance`, `Pharmacy Settings, Personnel, & Services (WIP)`, & `Healthcare Coverage`
+- `Drug Discovery, Manufacturing, Marketing & Logistics (WIP)`
+- `Pharmacy Inventory Management` & `Prescriptions & Dispensing (WIP)`
 
 ---
 
@@ -65,3 +71,8 @@ Structured for both exam prep and on-the-job reference.
 - safe handling CE
 - grapefruit interactions
 - insulin content
+
+## Notes
+
+- `./1_duties_services_law.md` is now redundant and pending deletion
+- `./3_healthcare_coverage.md` is now redundant and pending deletion
