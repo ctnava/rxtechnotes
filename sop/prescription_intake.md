@@ -179,7 +179,7 @@ After prescription entry, claims must be submitted accurately to insurance.
 
 > ⚠️ **Double-check all billing fields. Incorrect DAW codes, expired refills, or wrong days supply can trigger audits or denials.**
 
-### 🛑 Third-Party Rejections & Resolutions
+### 🛑 Common Third-Party Rejections & Resolutions
 
 A Third-Party Rejection (TPR) occurs when a prescription claim is denied by the PBM or insurer. These denials appear with a reject code and an associated message.
 
