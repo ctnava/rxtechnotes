@@ -184,7 +184,7 @@ Ensures workplace safety. Employers must:
 
 #### The Health Information Portability & Accountability Act (HIPAA, 1996)
 
-🔗 [Expanded Detail](./law/health_privacy.md#the-health-information-portability--accountability-act-hipaa-1996)
+🔗 [Expanded Detail](./law/hipaa.md)
 
 - Protects **Protected Health Information (PHI)** handled by **Covered Entities**.
 - Requires administrative, physical, and technical safeguards to ensure confidentiality.
