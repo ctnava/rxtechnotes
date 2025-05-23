@@ -104,8 +104,28 @@ Depending on the drug, a REMS program may include one or more of the following:
 
 > **Example**: The drug isotretinoin (Accutane), which can cause severe birth defects, is subject to a REMS program called iPLEDGE that requires prescribers, pharmacies, and patients to follow strict steps before dispensing or receiving the medication.
 
-## 🏷️ Labeling & Distribution
+## Distribution
 
+### Logistics
+
+When a new drug is brought to market, its distribution is handled by suppliers and wholesalers.
+
+- **Suppliers**: produce, label, and package drugs
+- **Wholesalers**: purchase drugs in bulk and then sell them to medical facilities
+
+#### Suppliers
+
+There are 3 main types of supplier: drug manufacturers, specialty pharmacies, and compounding pharmacies. All of them order raw materials or finished goods (like (in)active ingredients) to produce their goods. However, each one exists for a different scale of care.
+
+- **Drug Manufacturers** package medication in standard dosage forms for mass distribution
+- **Specialty Pharmacies** focus on providing high-cost, complex medications and specialized services to patients with chronic conditions
+- **Compounding Pharmacies** customize medications on a patient-specific basic, often mixing, combinging, or altering existing drugs to meet individual needs
+
+#### Wholesalers
+
+Wholesalers purchase drugs from manufactures in bulk and create wide distribution networks to ensure availability by storing their purchases in warehouses around the country so that deliveries can be made in 24-48 hours. They also drop ship lower-volume, high-cost medications on an as-needed basis.
+
+### 🏷️ Labeling
 <!-- TODO Needs work -->
 
 Drug labeling serves both clinical and legal functions. It communicates critical product information and is regulated by multiple federal laws to ensure safety, traceability, and proper usage.

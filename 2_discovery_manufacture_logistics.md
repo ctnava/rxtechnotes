@@ -129,7 +129,7 @@ If the ANDA meets FDA requirements, the generic drug is approved for marketing. 
 
 <!-- > 🤯 The Drug Price Competition and Patent Term Restoration Act (Hatch-Waxman, 1984) allows for both the extension of drug patent terms and quicker introduction of lower-cost generic drugs. -->
 
-## Logistics
+<!-- ## Logistics
 
 When a new drug is brought to market, its distribution is handled by suppliers and wholesalers.
 
@@ -142,7 +142,7 @@ There are 3 main types of supplier: drug manufacturers, specialty pharmacies, an
 
 - **Drug Manufacturers** package medication in standard dosage forms for mass distribution
 - **Specialty Pharmacies** focus on providing high-cost, complex medications and specialized services to patients with chronic conditions
-- **Compounding Pharmacies** customize medications on a patient-specific basic, often mixing, combinging, or altering existing drugs to meet individual needs
+- **Compounding Pharmacies** customize medications on a patient-specific basic, often mixing, combinging, or altering existing drugs to meet individual needs -->
 
 ### 🤯 340B Drug Pricing Program (340B, 1992)
 
@@ -156,9 +156,9 @@ Covered entities include:
 
 Manufacturers participating in the Medicaid program are required to offer discounted prices on covered outpatient drugs to participating 340B entities.
 
-### Wholesalers
+<!-- ### Wholesalers
 
-Wholesalers purchase drugs from manufactures in bulk and create wide distribution networks to ensure availability by storing their purchases in warehouses around the country so that deliveries can be made in 24-48 hours. They also drop ship lower-volume, high-cost medications on an as-needed basis.
+Wholesalers purchase drugs from manufactures in bulk and create wide distribution networks to ensure availability by storing their purchases in warehouses around the country so that deliveries can be made in 24-48 hours. They also drop ship lower-volume, high-cost medications on an as-needed basis. -->
 
 <!-- The **Prescription Drug Marketing Act** mandates that wholesalers & manufacturers:
 
