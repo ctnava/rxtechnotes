@@ -44,12 +44,6 @@ Structured for both exam prep and on-the-job reference.
 
 > 📁 **Math tutorials** are located in the [`./math`](./math) directory.
 
-Recommended Progression:
-
-- `Ethics & Compliance`, `Pharmacy Settings, Personnel, & Services (WIP)`, & `Healthcare Coverage`
-- `Drug Discovery, Manufacturing, Marketing & Logistics (WIP)`
-- `Pharmacy Inventory Management` & `Prescriptions & Dispensing (WIP)`
-
 ---
 
 ☕ [Show Your Appreciation Here](https://buymeacoffee.com/cat6)
@@ -57,8 +51,7 @@ Recommended Progression:
 ## Todo
 
 - update gowning SOP to include descriptions of antechamber & clean rooms
-- hospital pharmacies
-- other pharmacy settings
+- hospital & Community pharmacies
 - Drug Endings (appendix)
 - PAP examples with links (Check CE)
 - medwatch & VAERS filing SOP (appendix)
