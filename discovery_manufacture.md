@@ -91,6 +91,19 @@ Step 3: **Post-Market Surveillance**
 
 If the ANDA meets FDA requirements, the generic drug is approved for marketing. Generic drugs are also subject to the same post-market safety monitoring as brand name drugs.
 
+### Risk Evaluation & Mitigation Strategies (REMS)
+
+In some cases, the FDA may require additional safety measures for high-risk medications after they are brought to market. **Risk Evaluation & Mitigation Strategies (REMS)** are required safety programs for medications with known or potential serious risks that must be managed to ensure that the drug’s benefits outweigh its risks; particularly those that are addictive (e.g. Opioids, Stimulants, Benzodiazepines), hazardous (e.g. Birth Control, Oncologics, Biologics), or understudied (e.g. Gabapentin).
+
+Depending on the drug, a REMS program may include one or more of the following:
+
+- Mandated **Medication guides** or **patient package inserts (PPIs)**
+- Prescriber training and certification requirements
+- Pharmacy certification and restricted dispensing systems
+- Enrollment of patients in registries or special monitoring programs
+
+> **Example**: The drug isotretinoin (Accutane), which can cause severe birth defects, is subject to a REMS program called iPLEDGE that requires prescribers, pharmacies, and patients to follow strict steps before dispensing or receiving the medication.
+
 ## 🏷️ Labeling & Distribution
 
 <!-- TODO Needs work -->
@@ -120,22 +133,7 @@ National Drug Code (NDC)
 
 > 📌 NDCs can appear as 10-digit variations on packaging. For databases and claims, they are normalized to **11-digit** format with leading zeros (e.g. `0517-0420-01` ➡ `00517-0420-01`).
 
-## Public Safety
-
-### Risk Evaluation & Mitigation Strategies (REMS)
-
-In some cases, the FDA may require additional safety measures for high-risk medications after they are brought to market. **Risk Evaluation & Mitigation Strategies (REMS)** are required safety programs for medications with known or potential serious risks that must be managed to ensure that the drug’s benefits outweigh its risks; particularly those that are addictive (e.g. Opioids, Stimulants, Benzodiazepines), hazardous (e.g. Birth Control, Oncologics, Biologics), or understudied (e.g. Gabapentin).
-
-Depending on the drug, a REMS program may include one or more of the following:
-
-- Mandated **Medication guides** or **patient package inserts (PPIs)**
-- Prescriber training and certification requirements
-- Pharmacy certification and restricted dispensing systems
-- Enrollment of patients in registries or special monitoring programs
-
-> **Example**: The drug isotretinoin (Accutane), which can cause severe birth defects, is subject to a REMS program called iPLEDGE that requires prescribers, pharmacies, and patients to follow strict steps before dispensing or receiving the medication.
-
-### Monitoring & Recalls
+## Public Safety & Recalls
 
 While drug approval processes are thorough, it is impossible to account for everything. The FDA maintains reporting programs called **MedWatch** and the **Vaccine Adverse Event Reporting System (VAERS)** that allow anyone to report adverse effects that occur from the use of approved drugs or vaccines. If the FDA determines that any drug or vaccine poses a public health risk, then they may file an injunction to prevent distribution; seize the drug from the manufacturer; or issue a recall of the drug.
 
@@ -160,12 +158,12 @@ Recalls are generally handled in 4 steps.
 
 > 🤯 The Environmental Protection Agency's (EPA) Resource Conservation Recovery Act (RCRA) governs the generation, management, storage, treatment, and disposal of hazardous wastes. This includes medication and other drugs.
 
-#### Other Recalls
+### Other Recalls
 
 - **Manufacturer Recalls**: are initiated when they detect a defect, contamination, or labeling error. When this happens, they are legally required to notify the FDA and take appropriate action.
 - **Pharmacy Chain & Distributor Recalls**: Large pharmacy chains and wholesalers may voluntarily recall products from their shelves to to internal quality checks or concerns raised by pharmacists. They may also respond to manufacturer or FDA recalls by removing affected products from circulation. This can happen in the event that it's discovered that medication was held in improper storage conditions that could compromise effectiveness.
 
-#### The Role of a Technician
+### The Role of a Technician
 
 <!-- TODO: Move this into an SOP for recall handling (link in pharmacy inventory chapter) -->
 
