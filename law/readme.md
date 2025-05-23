@@ -40,6 +40,15 @@
 
 ---
 
+**Social Security Act & Amendments** (🚧 [Link](./ssa.md))
+
+<!-- | **Title** | **Notes** |
+|-----------|-----------|
+| **HIPAA (1996)** | Protects patient privacy by regulating the use, disclosure, and safeguarding of PHI by Covered Entities. |
+| **HITECH Act (2009)** | Expands HIPAA to include business associates and promotes secure use of electronic health records. | -->
+
+---
+
 **HIPAA & Amendments** (🔗 [Link](./hipaa.md))
 
 | **Title** | **Notes** |
@@ -54,9 +63,3 @@
 | **Title** | **Notes** |
 |-----------|-----------|
 | Occupational Safety & Health Act (OSHA, 1970) | Requires employers to provide PPE, training, and Safety Data Sheets (SDS) for hazardous substances. |
-
----
-
-Todo:
-
-- consolidate healthcare coverage
