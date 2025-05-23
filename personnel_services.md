@@ -126,6 +126,8 @@ To support public health through vaccine efforts, pharmacies offer immunization 
 
 ## Outpatient
 
+In healthcare, outpatient refers to a patient who receives medical care without being admitted to a hospital overnight.
+
 ### Community Retail Pharmacies
 
 Community retail pharmacies provide direct patient access to prescription medications, health consultations, and over-the-counter (OTC) products. These pharmacies dispense nearly **two-thirds of all prescriptions nationwide**, making them central to public health delivery. They serve as both **medication access points** and **healthcare hubs** within the community.
@@ -380,7 +382,15 @@ Chemotherapy and certain antiviral or investigational therapies require safe han
 
 > 📍 Pharmacy technicians in home infusion settings must be thoroughly trained in aseptic technique, hazardous drug handling, and delivery chain-of-custody protocols.
 
+## Inpatient
+
+Inpatient care refers to medical treatment that requires a patient to stay at an inpatient facility overnight or for an extended period.
+
+### Long-Term Care
+
 ## Hybrid
+
+Hybrid settings include inpatient & outpatient services.
 
 ### Nuclear Pharmacies
 
