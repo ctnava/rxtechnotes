@@ -1,6 +1,6 @@
 # Chapter 2: The Discovery, Manufacture, & Logistics of Drugs
 
-## Historical Background
+<!-- ## Historical Background
 
 ### The Pure Food, Drugs, & Cosmetics Act (FDC, 1906)
 
@@ -21,7 +21,7 @@
 - Passed after the **thalidomide** tragedy, which caused severe birth defects in pregnant women when it was used as a sleeping pill without any warnings
 - Reinforced by Alberty Food Products v. US (1950), which required labeling intended use.
 
-> 🤯 In 1976, the Medical Device Regulation Act (or "Medical Device Amendments") established the framework for regulating medical devices to ensure their safety and effectiveness. This means pre-market approval is required for life-sustaining and life-supporting medical devices (Class III).
+> 🤯 In 1976, the Medical Device Regulation Act (or "Medical Device Amendments") established the framework for regulating medical devices to ensure their safety and effectiveness. This means pre-market approval is required for life-sustaining and life-supporting medical devices (Class III). -->
 
 ## Drug Development & Manufacturing
 
@@ -30,7 +30,7 @@ There exist two commercial categories of drugs:
 - **Brand Name Drugs**: Original drugs developed by pharmaceutical companies, protected by patents, and marketed under proprietary names
 - **Generic Drugs**: Copies of brand-name drugs that have the same active ingredients, strength, dosage form, and route of administration, but sold under generic chemical names or different brand names after the original patent expires
 
-> 🤯 The Orphan Drug Act (1983) provides incentives to promote research, approval, and marketing of drugs needed for the treatment of rare (therefore less profitable) diseases.
+<!-- > 🤯 The Orphan Drug Act (1983) provides incentives to promote research, approval, and marketing of drugs needed for the treatment of rare (therefore less profitable) diseases. -->
 
 ### Brand Name Drug Development
 
@@ -127,7 +127,7 @@ If the ANDA meets FDA requirements, the generic drug is approved for marketing. 
 
 ---
 
-> 🤯 The Drug Price Competition and Patent Term Restoration Act (Hatch-Waxman, 1984) allows for both the extension of drug patent terms and quicker introduction of lower-cost generic drugs.
+<!-- > 🤯 The Drug Price Competition and Patent Term Restoration Act (Hatch-Waxman, 1984) allows for both the extension of drug patent terms and quicker introduction of lower-cost generic drugs. -->
 
 ## Logistics
 
@@ -144,7 +144,7 @@ There are 3 main types of supplier: drug manufacturers, specialty pharmacies, an
 - **Specialty Pharmacies** focus on providing high-cost, complex medications and specialized services to patients with chronic conditions
 - **Compounding Pharmacies** customize medications on a patient-specific basic, often mixing, combinging, or altering existing drugs to meet individual needs
 
-### 340B Drug Pricing Program (340B, 1992)
+### 🤯 340B Drug Pricing Program (340B, 1992)
 
 340B allows certain hospitals and other healthcare providers, known as "covered entities," to purchase outpatient drugs at discounted prices from pharmaceutical manufacturers. This program is intended to help "stretch scarce federal resources" and improve access to medications for vulnerable populations.
 
@@ -160,11 +160,11 @@ Manufacturers participating in the Medicaid program are required to offer discou
 
 Wholesalers purchase drugs from manufactures in bulk and create wide distribution networks to ensure availability by storing their purchases in warehouses around the country so that deliveries can be made in 24-48 hours. They also drop ship lower-volume, high-cost medications on an as-needed basis.
 
-The **Prescription Drug Marketing Act** mandates that wholesalers & manufacturers:
+<!-- The **Prescription Drug Marketing Act** mandates that wholesalers & manufacturers:
 
 - must be licensed by the states they operate in
 - may not reimport batches of drugs once exported
-- may only give samples of medication to doctors
+- may only give samples of medication to doctors -->
 
 ### Drug Manufacturer Labels
 
@@ -172,9 +172,9 @@ Labels provide critical information about the medication name, dosage, instructi
 
 > ⚠️⚠️⚠️The **Controlled Substances Act (CSA, 1970)** mandates that manufacturers clearly label controlled drugs with their classification or schedule. ⚠️⚠️⚠️
 
-#### Fair Packaging & Labeling Act (FPLA, 1967)
+<!-- #### Fair Packaging & Labeling Act (FPLA, 1967)
 
-The Fair Packaging and Labeling Act (FPLA) requires all consumer products (including over-the-counter (OTC) drugs and many prescription drug packages) to bear labels that are truthful, standardized, and easy for consumers to understand. Enforced by the FDA (for food, drugs, cosmetics) and the FTC (for other consumer goods), this act ensures transparency and prevents deceptive packaging.
+The Fair Packaging and Labeling Act (FPLA) requires all consumer products (including over-the-counter (OTC) drugs and many prescription drug packages) to bear labels that are truthful, standardized, and easy for consumers to understand. Enforced by the FDA (for food, drugs, cosmetics) and the FTC (for other consumer goods), this act ensures transparency and prevents deceptive packaging. -->
 
 Under the FPLA, drug packaging must include:
 
@@ -182,9 +182,9 @@ Under the FPLA, drug packaging must include:
 - An accurate statement of the quantity of the contents (by weight, measure, or count)
 - A clear declaration of the product’s identity and intended use
 
-These requirements complement the FDA’s misbranding and labeling rules under the FDCA and ensure consumers receive consistent and honest information, regardless of brand.
+<!-- These requirements complement the FDA’s misbranding and labeling rules under the FDCA and ensure consumers receive consistent and honest information, regardless of brand.
 
-> 📌 The FPLA helps prevent misbranding by requiring clarity and standardization in labeling. Technicians must ensure that OTC products and bulk containers are correctly labeled before stocking shelves or filling orders.
+> 📌 The FPLA helps prevent misbranding by requiring clarity and standardization in labeling. Technicians must ensure that OTC products and bulk containers are correctly labeled before stocking shelves or filling orders. -->
 
 #### National Drug Code (NDC)
 
@@ -214,7 +214,7 @@ The FDA is responsible for enforcing rules against adultering and misbranding.
 - **Adulteration**: Contanimation or failure to meet purity & quality standards
 - **Misbranding**: Including false, inaccurate, improper, or confusing labeling or if the product is harmful when used according to label directions
 
-> The Drug Quality & Security Act (2013) expands the authority of the FDA to include compounded drugs.
+<!-- > 🤯 The Drug Quality & Security Act (2013) expands the authority of the FDA to include compounded drugs. -->
 
 ### Good Manufacturing Practices (GMP)
 

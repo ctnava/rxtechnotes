@@ -2,7 +2,7 @@
 
 ## Drug Development & Marketing Policy
 
-### Pure Food, Drugs, & Cosmetics Act (FDC, 1906)
+<!-- ### Pure Food, Drugs, & Cosmetics Act (FDC, 1906)
 
 - Prohibited interstate commerce in adulterated or misbranded food and drugs
 - Required government preapproval of drugs before marketing or sale
@@ -30,9 +30,9 @@
 - Passed after the **thalidomide** tragedy, which caused severe birth defects in pregnant women when it was used as a sleeping pill without any warnings
 - Reinforced by Alberty Food Products v. US (1950), which required labeling intended use.
 
-> 🤯 In 1976, the Medical Device Regulation Act (or "Medical Device Amendments") established the framework for regulating medical devices to ensure their safety and effectiveness. This means pre-market approval is required for life-sustaining and life-supporting medical devices (Class III).
+> 🤯 In 1976, the Medical Device Regulation Act (or "Medical Device Amendments") established the framework for regulating medical devices to ensure their safety and effectiveness. This means pre-market approval is required for life-sustaining and life-supporting medical devices (Class III). -->
 
-### Fair Packaging & Labeling Act (FPLA, 1967)
+<!-- ### Fair Packaging & Labeling Act (FPLA, 1967)
 
 The FPLA requires all consumer products (including over-the-counter (OTC) drugs and many prescription drug packages) to bear labels that are truthful, standardized, and easy for consumers to understand; ensuring transparency and the prevention of deceptive packaging.
 
@@ -48,9 +48,9 @@ Requires that drug packaging includes:
 - A clear declaration of the product’s identity and intended use
 
 > 📌 Helps prevent misbranding and supports FDCA compliance.
-> ✅ Technicians must verify that **bulk containers and OTC products** are properly labeled before stocking or use.
+> ✅ Technicians must verify that **bulk containers and OTC products** are properly labeled before stocking or use. -->
 
-### Drug Listing Act (1972)
+<!-- ### Drug Listing Act (1972)
 
 The Drug Listing Act of 1972 mandates that all drug establishments provide a complete list of drugs manufactured, prepared, propagated, compounded, or processed for distribution, and these drugs must have a ***11-digit National Drug Code (NDC)***; a 3-segmented universal identifier.
 
@@ -61,15 +61,15 @@ The Drug Listing Act of 1972 mandates that all drug establishments provide a com
 | Package Code   | 2      | Identifies package size and type                         |
 
 > 📌 NDCs can appear as 10-digit variations on packaging. For databases and claims, they are normalized to **11-digit** format with leading zeros (e.g. `0517-0420-01` ➡ `00517-0420-01`).
-> 🤯 NATO Stock Number (NSN) is the military analog to the NDC.
+> 🤯 NATO Stock Number (NSN) is the military analog to the NDC. -->
 
-### Prescription Drug Marketing Act (PDMA, 1987)
+<!-- ### Prescription Drug Marketing Act (PDMA, 1987)
 
 The PDMA primarily aims to protect public health by regulating the distribution of prescription drugs and samples. It prevents the sale of counterfeit, adulterated, or subpotent drugs by mandating that:
 
 - **Wholesalers** must be licensed by the state they operate in and meet uniform standards.
 - **Wholesalers** may not reimport batches of prescription drugs manufactured in the US and exported abroad back into the US; preventing the entry of potentially compromised or counterfeit drugs.
-- **Wholesalers** & **Manufacturers** may only provide medication samples to licensed prescribers upon request and with proper record-keeping; preventing the illegal sale of samples.
+- **Wholesalers** & **Manufacturers** may only provide medication samples to licensed prescribers upon request and with proper record-keeping; preventing the illegal sale of samples. -->
 
 ### 340B Drug Pricing Program (340B, 1992)
 
@@ -83,7 +83,7 @@ Covered entities include:
 
 Manufacturers participating in the Medicaid program are required to offer discounted prices on covered outpatient drugs to participating 340B entities.
 
-### Drug Supply Chain Security Act (DSCSA, 2013)
+<!-- ### Drug Supply Chain Security Act (DSCSA, 2013)
 
 The DSCSA aims to improve the security and traceability of prescription drugs in the supply chain.
 
@@ -101,7 +101,7 @@ The DSCSA aims to improve the security and traceability of prescription drugs in
 - **Verification**: Drug identifiers must be verified at various points in the supply chain to ensure their authenticity and prevent illegitimate products from entering the system.
 - **Notification**: Trading partners must notify the FDA and other involved parties within 24 hours of discovering an illegitimate or high-risk product.
 - **Interoperable Systems**: The law mandates the development of an electronic, interoperable system for tracking drugs from manufacturer to dispenser.
-- **Enforcement**: The FDA has been implementing the DSCSA since 2013, and enforcement began in 2025.
+- **Enforcement**: The FDA has been implementing the DSCSA since 2013, and enforcement began in 2025. -->
 
 ## Healthcare Coverage & Standards of Care
 
