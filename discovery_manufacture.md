@@ -126,32 +126,66 @@ There are 3 main types of supplier: drug manufacturers, specialty pharmacies, an
 Wholesalers purchase drugs from manufactures in bulk and create wide distribution networks to ensure availability by storing their purchases in warehouses around the country so that deliveries can be made in 24-48 hours. They also drop ship lower-volume, high-cost medications on an as-needed basis.
 
 ### 🏷️ Labeling
-<!-- TODO Needs work -->
 
-Drug labeling serves both clinical and legal functions. It communicates critical product information and is regulated by multiple federal laws to ensure safety, traceability, and proper usage.
+Drug manufacturers must label their products accurately and clearly to comply with federal laws and ensure safe use by healthcare providers and patients. Labeling requirements are enforced primarily by the FDA under the FDCA and related legislation.
 
-- The name and place of business of the manufacturer, packer, or distributor (FPLA)
-- An accurate statement of the quantity of the contents (by weight, measure, or count) (FPLA)
-- A clear declaration of the product’s identity and intended use (FPLA)
-- National Drug Code (per the Drug Listing Act)
+🔑 **Key Requirements**
+
+- **Identity & Strength**: The label must clearly state the drug’s established name (generic and brand) and its strength or concentration.
+- **Dosage Form & Route**: Indicate the physical form (tablet, solution, injection, etc.) and intended route of administration (oral, intravenous, topical, etc.).
+- **Indications for Use & Instructions**: Declaration of intended use & directions; including recommended dosage and frequency, where applicable.
+- **Warnings & Precautions**: Include all necessary safety information such as contraindications, potential side effects, and any special storage instructions.
+- **Manufacturer Information**: The name and address of the manufacturer, packer, or distributor must appear on the label.
+- **Net Quantity**: Declare the exact amount of drug in the container by weight, volume, or count.
+- **Batch/ Lot Number**: A unique identifier for the production batch to facilitate tracking and recalls if necessary.
+- **Manufacture & Expiration Dates**: Clearly state the date of manufacture and the expiration or “use by” date to ensure drug potency and safety.
+- **National Drug Code (NDC)**: A unique, FDA-assigned 11-digit number identifying the labeler, product, and package size must be displayed on all prescription drug labels.
   - 🤯 NATO Stock Number (NSN) is the military analog to the NDC.
-- All prescription drugs must be labeled with a unique product identifier, including a Global Trade Identification Number (GTIN), serial number, lot number, and expiration date. barcodes too (DSCSA)
+- **Barcodes & Serialization**: To support automated tracking and anti-counterfeiting measures, labels must include scannable barcodes and product serialization according to the Drug Supply Chain Security Act (DSCSA).
   - **Linear Barcodes (1D)** appear as stripes that can be read forward or backwards and encodes NDC. Used for stock checks.
   - **Matrix Barcodes (2D)** appear as squares with black or white pixels; encoding NDC, batch, and expiration. Used in prescription filling to verify the correct product is being used.
-- label controlled drugs with their classification or schedule. (CSA)
-- **Tall Man Lettering** (ISMP-endorsed) is encouraged to distinguish look-alike/sound-alike medications (e.g. **hydrOXYzine** vs **hydrALAZINE**).
+  - **Global Trade Identification Number (GTIN)**
+- 🔐 **Controlled Substance Scheduling**: If applicable, controlled substances must display their DEA schedule classification.
 
-National Drug Code (NDC)
+🛡️ **Safety Features & Best Practices**
 
-***11-digit National Drug Code (NDC)***; a 3-segmented universal identifier.
+- **Tall Man Lettering:** Recommended by ISMP to prevent medication errors (e.g., hydrOXYzine vs hydrALAZINE)
+- **Tamper-Evident Packaging** is often required to assure product integrity.
+- **Legibility and Language**: Labels must be legible and written in English. Supplemental language may be included for specific markets.
 
-| Segment | Digits | Description |
-|---------|--------|-------------|
-| Labeler Code | 5 | Identifies the manufacturer or distributor (FDA-assigned) |
-| Product Code | 4 | Identifies drug, strength, and dosage form |
-| Package Code | 2 | Identifies package size and type |
+#### National Drug Code (NDC)
 
-> 📌 NDCs can appear as 10-digit variations on packaging. For databases and claims, they are normalized to **11-digit** format with leading zeros (e.g. `0517-0420-01` ➡ `00517-0420-01`).
+Format:
+
+| Segment        | Digits | Description                                   |
+|----------------|--------|-----------------------------------------------|
+| Labeler Code   | 5      | Manufacturer or distributor (FDA assigned)   |
+| Product Code   | 4      | Drug, strength, and dosage form               |
+| Package Code   | 2      | Package size and type                         |
+
+- NDCs often appear as 10 digits on packaging but are normalized to 11 digits with leading zeros  
+- Example: `0517-0420-01` → `00517-0420-01`  
+
+#### 📦 Patient Package Inserts (PPIs)
+
+PPIs (also "Patient Labeling") are required for medications covered by REMS programs. These are required to be dispensed with each prescription. Patient labeling that can be part of the FDA-approved prescription drug labeling that includes information on:
+
+| Section | What It Covers |
+|---------|----------------|
+| **Clinical Pharmacology** | How the drug works in the body, including: Mechanism of action, Pharmacokinetics (absorption, distribution, metabolism, excretion), Demographic considerations (e.g., effects in children, pregnancy) |
+| **Indications & Usage** | Lists the **FDA-approved uses** of the drug (*Note:* Drugs are sometimes used “off-label” for other conditions, based on provider discretion.) |
+| **Contraindications** | Situations where the drug **should not be used**, such as certain medical conditions, allergies, or interactions. |
+| **Warnings** | Serious or life-threatening risks associated with the drug (e.g., Black Box Warnings). |
+| **Precautions** | Instructions to help avoid harm, including guidance that informs **auxiliary labels**. |
+| **Adverse Reactions** | Lists all known **side effects**, including those reported during clinical trials or post-marketing. |
+| **Drug Abuse & Dependence** | Details on the drug’s potential for **abuse, tolerance, or dependence** (especially important for controlled substances). |
+| **Overdosage** | Emergency protocol and symptoms of overdose. |
+| **Dosage & Administration** | How to take the medication, including dose, timing, route, and adjustments. |
+| **How Supplied / Storage**  | Describes the drug’s appearance (shape, color, imprint) and **storage conditions** (e.g., keep refrigerated, protect from light). |
+
+Always verify that a PPI is included with the medication if required. If it's missing from stock bottles or software, ask the pharmacist to print it from the FDA or drug manufacturer’s website.
+
+> 📌 Failure to provide a required PPI can be a violation of federal law.
 
 ## Public Safety & Recalls
 

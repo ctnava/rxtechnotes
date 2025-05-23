@@ -85,7 +85,7 @@ Depending on the drug, a REMS program may include one or more of the following:
 
 <!-- ##### 📦 Patient Package Inserts (PPIs) -->
 
-PPIs (also "Patient Labeling") are required for oral contraceptives, estrogen containing products, and metered dose inhalers. These are required to be dispensed with each prescription. Patient labeling that can be part of the FDA-approved prescription drug labeling that includes information on:
+<!-- PPIs (also "Patient Labeling") are required for oral contraceptives, estrogen containing products, and metered dose inhalers. These are required to be dispensed with each prescription. Patient labeling that can be part of the FDA-approved prescription drug labeling that includes information on:
 
 | Section | What It Covers |
 |---------|----------------|
@@ -102,7 +102,7 @@ PPIs (also "Patient Labeling") are required for oral contraceptives, estrogen co
 
 Always verify that a PPI is included with the medication if required. If it's missing from stock bottles or software, ask the pharmacist to print it from the FDA or drug manufacturer’s website.
 
-> 📌 Failure to provide a required PPI can be a violation of federal law.
+> 📌 Failure to provide a required PPI can be a violation of federal law. -->
 
 <!-- ### Generic Drug Manufacturing
 
@@ -166,7 +166,7 @@ Wholesalers purchase drugs from manufactures in bulk and create wide distributio
 - may not reimport batches of drugs once exported
 - may only give samples of medication to doctors -->
 
-### Drug Manufacturer Labels
+<!-- ### Drug Manufacturer Labels
 
 Labels provide critical information about the medication name, dosage, instructions, safety warnings, batch number, manufacture & expiration dates.To simplify inventory tracking, barcodes and National Drug Codes are used. The ISMP encourages the use of **tall man lettering** to prevent look-alike or sound-alike drugs from being confused with one another.
 
@@ -207,12 +207,12 @@ Barcodes are quickly scanned for inventory tracking and come in two varieties: l
 - **Linear Barcodes (1D)** appear as stripes that can be read forward or backwards and encodes NDC. Used for stock checks.
 - **Matrix Barcodes (2D)** appear as squares with black or white pixels; encoding NDC, batch, and expiration. Used in prescription filling to verify the correct product is being used.
 
-## Quality Assurance
+## Quality Assurance -->
 
-The FDA is responsible for enforcing rules against adultering and misbranding.
+<!-- The FDA is responsible for enforcing rules against adultering and misbranding.
 
 - **Adulteration**: Contanimation or failure to meet purity & quality standards
-- **Misbranding**: Including false, inaccurate, improper, or confusing labeling or if the product is harmful when used according to label directions
+- **Misbranding**: Including false, inaccurate, improper, or confusing labeling or if the product is harmful when used according to label directions -->
 
 <!-- > 🤯 The Drug Quality & Security Act (2013) expands the authority of the FDA to include compounded drugs. -->
 
