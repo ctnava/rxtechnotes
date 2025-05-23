@@ -433,7 +433,7 @@ Hospitals are healthcare institutions that provide medical treatment, surgical s
   - **RPh (Registered Pharmacist)**: Reviews orders, dispenses medications, consults on therapy.
   - **Clinical Pharmacist**: Advanced training; participates in patient care rounds, optimizes therapy & monitoring. May or may not dispense.
 
-🔑 **Technician Roles in Hospital Pharmacy**
+🔑 **Basic Technician Roles in Hospital Pharmacy**
 
 - 🧾 **Front Counter/Main Pharmacy Technician**
   - Answers phones
