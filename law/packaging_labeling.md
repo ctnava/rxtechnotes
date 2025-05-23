@@ -18,11 +18,11 @@ These requirements complement the FDA’s misbranding and labeling rules under t
 
 The Drug Listing Act of 1972 mandates that all drug establishments provide a complete list of drugs manufactured, prepared, propagated, compounded, or processed for distribution, and these drugs must have a ***11-digit National Drug Code (NDC)***; a 3-segmented universal identifier.
 
-| Segment        | Digits | Description                                              |
-|----------------|--------|----------------------------------------------------------|
-| Labeler Code   | 5      | Identifies the manufacturer or distributor (FDA-assigned) |
-| Product Code   | 4      | Identifies drug, strength, and dosage form               |
-| Package Code   | 2      | Identifies package size and type                         |
+| Segment | Digits | Description |
+|---------|--------|-------------|
+| Labeler Code | 5 | Identifies the manufacturer or distributor (FDA-assigned) |
+| Product Code | 4 | Identifies drug, strength, and dosage form |
+| Package Code | 2 | Identifies package size and type |
 
 > 📌 NDCs can appear as 10-digit variations on packaging. For databases and claims, they are normalized to **11-digit** format with leading zeros (e.g. `0517-0420-01` ➡ `00517-0420-01`).
 > .
@@ -30,15 +30,7 @@ The Drug Listing Act of 1972 mandates that all drug establishments provide a com
 
 ### Drug Supply Chain Security Act (DSCSA, 2013)
 
-The DSCSA aims to improve the security and traceability of prescription drugs in the supply chain.
-
-🎯 **Objectives**
-
-- **Patient Safety**: Protecting patients from harmful drugs, including counterfeit, stolen, or contaminated medications.
-- **Drug Supply Chain Security**: Enhancing the security of the drug supply chain by making it more difficult for illegitimate products to enter.
-- **Data Exchange**: Facilitating a more seamless flow of data between supply chain partners.
-
-🔑 **Key Features**
+The DSCSA aims to improve the security and traceability of prescription drugs in the supply chain by facilitating a more seamless flow of data between supply chain partners. This protects patients from harmful drugs, including counterfeit, stolen, or contaminated medications.
 
 - **Product Identification**: All prescription drugs must be labeled with a unique product identifier, including a Global Trade Identification Number (GTIN), serial number, lot number, and expiration date.
   - **Matrix Barcode (2D) Mandate**: Requires the use of 2D barcodes, specifically GS1 DataMatrix barcodes, on the unit of sale (UoS) packaging of prescription drugs.
