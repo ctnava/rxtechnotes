@@ -1,4 +1,4 @@
-# Healthcare Coverage & Standards of Care
+# Healthcare Policy
 
 ## Social Security Act Amendments (1965)
 
@@ -35,7 +35,9 @@ Especially critical for:
 - Patients with **Congestive Heart Failure (CHF)**
 - Transfers from **Skilled Nursing Facilities (SNFs)**
 
-## 340B Drug Pricing Program (340B, 1992)
+## Public Health Service Act (PHSA, 1992)
+
+<!-- TODO fix this -->
 
 340B allows certain hospitals and other healthcare providers, known as "covered entities," to purchase outpatient drugs at discounted prices from pharmaceutical manufacturers. This program is intended to help "stretch scarce federal resources" and improve access to medications for vulnerable populations.
 

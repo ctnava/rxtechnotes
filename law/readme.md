@@ -40,12 +40,14 @@
 
 ---
 
-**Social Security Act & Amendments** (🚧 [Link](./ssa.md))
+**Healthcare Policy** (🔗 [Link](./healthcare.md))
 
-<!-- | **Title** | **Notes** |
+| **Title** | **Notes** |
 |-----------|-----------|
-| **HIPAA (1996)** | Protects patient privacy by regulating the use, disclosure, and safeguarding of PHI by Covered Entities. |
-| **HITECH Act (2009)** | Expands HIPAA to include business associates and promotes secure use of electronic health records. | -->
+| **Social Security Act Amendments (1965)** | Created Medicare and Medicaid; foundational for public healthcare reimbursement and pharmacy regulations. |
+| **OBRA-90 (1990)** | Requires patient profiles, DURs, and mandatory counseling offers for Medicaid prescriptions. |
+| **340B Drug Pricing Program (1992)** | Enables eligible providers to purchase outpatient medications at discounted rates to support underserved populations. |
+| **Medicare Modernization Act (MMA, 2003)** | Established Medicare Part D and mandated MTM services to improve outcomes and medication safety. |
 
 ---
 
