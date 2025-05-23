@@ -25,14 +25,14 @@
 
 ## Drug Development & Manufacturing
 
-There exist two commercial categories of drugs:
+<!-- There exist two commercial categories of drugs:
 
 - **Brand Name Drugs**: Original drugs developed by pharmaceutical companies, protected by patents, and marketed under proprietary names
-- **Generic Drugs**: Copies of brand-name drugs that have the same active ingredients, strength, dosage form, and route of administration, but sold under generic chemical names or different brand names after the original patent expires
+- **Generic Drugs**: Copies of brand-name drugs that have the same active ingredients, strength, dosage form, and route of administration, but sold under generic chemical names or different brand names after the original patent expires -->
 
 <!-- > 🤯 The Orphan Drug Act (1983) provides incentives to promote research, approval, and marketing of drugs needed for the treatment of rare (therefore less profitable) diseases. -->
 
-### Brand Name Drug Development
+<!-- ### Brand Name Drug Development
 
 In order for a newly patented, *Brand Name* drug to come to market, the FDA must first approve it. The process generally is as follows:
 
@@ -68,22 +68,22 @@ Clinical trials involve human research subjects and are conducted in three phase
 #### Step 5: Post-Market Surveillance (Ongoing)
 
 - Manufacturer maintains exclusive rights (~20 years) to offset research & development cost
-- Continuous monitoring of long-term safety and efficacy after the drug is released to the market
+- Continuous monitoring of long-term safety and efficacy after the drug is released to the market -->
 
-##### Risk Evaluation & Mitigation Strategies (REMS)
+<!-- ##### Risk Evaluation & Mitigation Strategies (REMS)
 
-In some cases, the FDA may require additional safety measures for high-risk medications after they are brought to market. Established under the FDA Amendments Act of 2007, REMS are required safety programs for medications with known or potential serious risks that must be managed to ensure that the drug’s benefits outweigh its risks.
+In some cases, the FDA may require additional safety measures for high-risk medications after they are brought to market. REMS are required safety programs for medications with known or potential serious risks that must be managed to ensure that the drug’s benefits outweigh its risks; particularly those that are addictive (e.g. Opioids, Stimulants, Benzodiazepines), hazardous (e.g. Birth Control, Oncologics, Biologics), or understudied (e.g. Gabapentin).
 
 Depending on the drug, a REMS program may include one or more of the following:
 
-- ***Medication guides*** or ***patient package inserts (PPIs)***
+- Mandated **Medication guides** or **patient package inserts (PPIs)**
 - Prescriber training and certification requirements
 - Pharmacy certification and restricted dispensing systems
 - Enrollment of patients in registries or special monitoring programs
 
-> **Example**: The drug isotretinoin (Accutane), which can cause severe birth defects, is subject to a REMS program called iPLEDGE that requires prescribers, pharmacies, and patients to follow strict steps before dispensing or receiving the medication.
+> **Example**: The drug isotretinoin (Accutane), which can cause severe birth defects, is subject to a REMS program called iPLEDGE that requires prescribers, pharmacies, and patients to follow strict steps before dispensing or receiving the medication. -->
 
-###### 📦 Patient Package Inserts (PPIs)
+<!-- ##### 📦 Patient Package Inserts (PPIs) -->
 
 PPIs (also "Patient Labeling") are required for oral contraceptives, estrogen containing products, and metered dose inhalers. These are required to be dispensed with each prescription. Patient labeling that can be part of the FDA-approved prescription drug labeling that includes information on:
 
@@ -104,7 +104,7 @@ Always verify that a PPI is included with the medication if required. If it's mi
 
 > 📌 Failure to provide a required PPI can be a violation of federal law.
 
-### Generic Drug Manufacturing
+<!-- ### Generic Drug Manufacturing
 
 Once a patent for a brand name drug expires, other manufacturers may copy the drug and release it under its generic name. Generic drugs require FDA approval but do not require full R&D because clinical trials for safety & efficacy were already established by the original producer. To obtain approval, generic manufacturers only need to demonstrate equivalency; shortening the process to 1 - 3 years.
 
@@ -125,7 +125,7 @@ The FDA checks for trademark violations. Packaging and labeling must be distinct
 
 If the ANDA meets FDA requirements, the generic drug is approved for marketing. Generic drugs are also subject to the same post-market safety monitoring as brand name drugs.
 
----
+--- -->
 
 <!-- > 🤯 The Drug Price Competition and Patent Term Restoration Act (Hatch-Waxman, 1984) allows for both the extension of drug patent terms and quicker introduction of lower-cost generic drugs. -->
 
@@ -172,9 +172,9 @@ Labels provide critical information about the medication name, dosage, instructi
 
 > ⚠️⚠️⚠️The **Controlled Substances Act (CSA, 1970)** mandates that manufacturers clearly label controlled drugs with their classification or schedule. ⚠️⚠️⚠️
 
-<!-- #### Fair Packaging & Labeling Act (FPLA, 1967)
+#### Fair Packaging & Labeling Act (FPLA, 1967)
 
-The Fair Packaging and Labeling Act (FPLA) requires all consumer products (including over-the-counter (OTC) drugs and many prescription drug packages) to bear labels that are truthful, standardized, and easy for consumers to understand. Enforced by the FDA (for food, drugs, cosmetics) and the FTC (for other consumer goods), this act ensures transparency and prevents deceptive packaging. -->
+The Fair Packaging and Labeling Act (FPLA) requires all consumer products (including over-the-counter (OTC) drugs and many prescription drug packages) to bear labels that are truthful, standardized, and easy for consumers to understand. Enforced by the FDA (for food, drugs, cosmetics) and the FTC (for other consumer goods), this act ensures transparency and prevents deceptive packaging.
 
 Under the FPLA, drug packaging must include:
 
@@ -182,23 +182,23 @@ Under the FPLA, drug packaging must include:
 - An accurate statement of the quantity of the contents (by weight, measure, or count)
 - A clear declaration of the product’s identity and intended use
 
-<!-- These requirements complement the FDA’s misbranding and labeling rules under the FDCA and ensure consumers receive consistent and honest information, regardless of brand.
+These requirements complement the FDA’s misbranding and labeling rules under the FDCA and ensure consumers receive consistent and honest information, regardless of brand.
 
-> 📌 The FPLA helps prevent misbranding by requiring clarity and standardization in labeling. Technicians must ensure that OTC products and bulk containers are correctly labeled before stocking shelves or filling orders. -->
+> 📌 The FPLA helps prevent misbranding by requiring clarity and standardization in labeling. Technicians must ensure that OTC products and bulk containers are correctly labeled before stocking shelves or filling orders.
 
 #### National Drug Code (NDC)
 
-The **Drug Listing Act** of 1972 mandates that all drug establishments provide a complete list of drugs manufactured, prepared, propagated, compounded, or processed for distribution, and these drugs must have a ***11-digit National Drug Code (NDC)***; a 3-segmented universal identifier. It's NATO-specific counterpart is called the NATO Stock Number (NSN).
+The Drug Listing Act of 1972 mandates that all drug establishments provide a complete list of drugs manufactured, prepared, propagated, compounded, or processed for distribution, and these drugs must have a ***11-digit National Drug Code (NDC)***; a 3-segmented universal identifier.
 
-Sample NDC: `12345-6789-01`
+| Segment | Digits | Description |
+|---------|--------|-------------|
+| Labeler Code | 5 | Identifies the manufacturer or distributor (FDA-assigned) |
+| Product Code | 4 | Identifies drug, strength, and dosage form |
+| Package Code | 2 | Identifies package size and type |
 
-| Digits            | Name                      | Description                                                      |
-|-------------------|---------------------------|------------------------------------------------------------------|
-| 12345             | Labeler Code (5 Digits)   | Identifies the manufacturer or distributor. Assigned by the FDA. |
-| 6789              | Product Code (4 Digits)   | Identifies a specific strength, dosage form, and formulation.    |
-| 01                | Package Code (2 Digits)   | Identifies package size and type.                                |
-
-> **Note**: The NDC can appear in different segment configurations (5-4-2, 4-4-2, or 5-3-2), depending on how the manufacturer registered the drug with the FDA. When stored in databases, it is often reformatted as an 11-digit number (with leading zeroes added if needed).
+> 📌 NDCs can appear as 10-digit variations on packaging. For databases and claims, they are normalized to **11-digit** format with leading zeros (e.g. `0517-0420-01` ➡ `00517-0420-01`).
+> .
+> 🤯 NATO Stock Number (NSN) is the military analog to the NDC.
 
 #### Barcodes
 
@@ -216,7 +216,7 @@ The FDA is responsible for enforcing rules against adultering and misbranding.
 
 <!-- > 🤯 The Drug Quality & Security Act (2013) expands the authority of the FDA to include compounded drugs. -->
 
-### Good Manufacturing Practices (GMP)
+<!-- ### Good Manufacturing Practices (GMP)
 
 GMP are a set of quality assurance standards enforced by the FDA to ensure that drugs are consistently produced and controlled according to rigorous safety and quality criteria. These standards apply to both brand name and generic manufacturers and were strengthened under the Kefauver-Harris Amendment of 1962.
 
@@ -230,15 +230,15 @@ GMP requirements help prevent adulteration and misbranding by mandating that man
 
 Facilities that fail to meet GMP standards may face fines, recalls, or loss of manufacturing licenses. Compliance with GMP ensures that every batch of medication meets the same identity, strength, quality, and purity requirements as approved by the FDA.
 
-> 📌 Pharmacy technicians may encounter GMP-related topics during FDA recalls, quality investigations, or compounding procedures.
+> 📌 Pharmacy technicians may encounter GMP-related topics during FDA recalls, quality investigations, or compounding procedures. -->
 
-### FDA-Initiated Recalls
+<!-- ### FDA-Initiated Recalls
 
-While drug approval processes are thorough, it is impossible to account for everything. The FDA maintains reporting programs called **MedWatch** and the **Vaccine Adverse Event Reporting System (VAERS)** that allow anyone to report adverse effects that occur from the use of approved drugs or vaccines. If the FDA determines that any drug or vaccine poses a public health risk, then they may file an injunction to prevent distribution; seize the drug from the manufacturer; or issue a recall of the drug.
+While drug approval processes are thorough, it is impossible to account for everything. The FDA maintains reporting programs called **MedWatch** and the **Vaccine Adverse Event Reporting System (VAERS)** that allow anyone to report adverse effects that occur from the use of approved drugs or vaccines. If the FDA determines that any drug or vaccine poses a public health risk, then they may file an injunction to prevent distribution; seize the drug from the manufacturer; or issue a recall of the drug. -->
 
 <!-- Todo: 🔗 Filing MedWatch & VAERS Complaints SOP Document Link -->
 
-> Recalls are the most cost-effective because they leverage the manufacturer's current infrastructure and knowledge to retrieve offending drugs. Shipping manifests are used to identify where a drug has been delivered in order to focus efforts on that area.
+<!-- > Recalls are the most cost-effective because they leverage the manufacturer's current infrastructure and knowledge to retrieve offending drugs. Shipping manifests are used to identify where a drug has been delivered in order to focus efforts on that area.
 
 There are 3 numerical classes of recalls.
 
@@ -260,11 +260,11 @@ Recalls are generally handled in 4 steps.
 ### Other Recalls
 
 - **Manufacturer Recalls**: are initiated when they detect a defect, contamination, or labeling error. When this happens, they are legally required to notify the FDA and take appropriate action.
-- **Pharmacy Chain & Distributor Recalls**: Large pharmacy chains and wholesalers may voluntarily recall products from their shelves to to internal quality checks or concerns raised by pharmacists. They may also respond to manufacturer or FDA recalls by removing affected products from circulation. This can happen in the event that it's discovered that medication was held in improper storage conditions that could compromise effectiveness.
+- **Pharmacy Chain & Distributor Recalls**: Large pharmacy chains and wholesalers may voluntarily recall products from their shelves to to internal quality checks or concerns raised by pharmacists. They may also respond to manufacturer or FDA recalls by removing affected products from circulation. This can happen in the event that it's discovered that medication was held in improper storage conditions that could compromise effectiveness. -->
 
 <!-- TODO: Move this into an SOP for recall handling (link in pharmacy inventory chapter) -->
 
-### The Role of a Technician
+<!-- ### The Role of a Technician
 
 Technicians must stay up to date with recalls posted online. When a recall is brought to their attention, they must alert the pharmacist and store management; providing information for patient outreach. Recalls are generally handled in the pharmacy with the following methodology:
 
@@ -274,4 +274,4 @@ Technicians must stay up to date with recalls posted online. When a recall is br
 | Remove    | Remove affected products from inventory and quarantine them. |
 | Notify    | Notify affected patients and healthcare providers (with online alerts, telephone calls, and physical notices) to instruct them to discontinue use. Additionally, arrange for refunds & exchanges. |
 | Follow    | Follow manufacturer or FDA instructions for return or disposal of products. Stay alert for further guidance. |
-| Document  | Document actions taken for pharmacy records to report compliances to regulatory authorities as required. |
+| Document  | Document actions taken for pharmacy records to report compliances to regulatory authorities as required. | -->
