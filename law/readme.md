@@ -39,3 +39,8 @@
 | **HITECH Act (2009)** | Expands HIPAA to include business associates and promotes secure use of electronic health records. |
 
 ---
+
+Todo:
+
+- consolidate healthcare coverage
+- consolidate csa_cmea
