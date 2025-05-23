@@ -159,7 +159,7 @@ Technicians assist by preparing medication histories, documentation, and assisti
 
 ## Health Information Handling
 
-🔗 [Further Detail on Health Information Handling Policy](./health_privacy.md)
+🔗 [Further Detail on Health Information Handling Policy](./hipaa.md)
 
 ### Health Information Portability & Accountability Act (HIPAA, 1996)
 

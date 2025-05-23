@@ -30,3 +30,12 @@
 | **Drug Supply Chain Security Act (DSCSA, 2013)** | Mandates unique product identifiers, 2D barcodes, electronic tracking, and rapid counterfeit reporting. |
 
 ---
+
+**HIPAA & Amendments** (🔗 [Link](./hipaa.md))
+
+| **Title** | **Notes** |
+|-----------|-----------|
+| **HIPAA (1996)** | Protects patient privacy by regulating the use, disclosure, and safeguarding of PHI by Covered Entities. |
+| **HITECH Act (2009)** | Expands HIPAA to include business associates and promotes secure use of electronic health records. |
+
+---
