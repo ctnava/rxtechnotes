@@ -1,18 +1,5 @@
 # FDC, FDCA, & Amendments
 
-| **Title** | **Description** |
-|-----------|-----------------|
-| **Pure Food, Drugs, & Cosmetics Act (1906)** | Prohibited adulterated or misbranded drugs in interstate commerce. Required purity standards, labeling of dangerous ingredients, and initiated FDA enforcement. |
-| **Food, Drug, and Cosmetic Act (FDCA, 1938)** | Required premarket safety approval of drugs after sulfanilamide deaths. Expanded FDA authority to cosmetics and devices. Required labeling with warnings and directions. |
-| **Durham-Humphrey Amendment (1951)** | Distinguished Rx and OTC drugs. Authorized verbal prescriptions and refills. Required "Rx Only" legend on prescription drugs. |
-| **Kefauver-Harris Amendment (1962)** | Required drug effectiveness proof and FDA pre-approval. Instituted GMP standards and adverse event reporting after thalidomide tragedy. |
-| **Medical Device Amendments (1976)** | Classified devices by risk (Class I–III). Required premarket approval for high-risk (Class III) devices after the Dalkon Shield disaster. |
-| **Orphan Drug Act (1983)** | Provided incentives (tax credits, market exclusivity, grants) for developing drugs for rare diseases. |
-| **Drug Price Competition and Patent Term Restoration Act (Hatch-Waxman, 1984)** | Created ANDA pathway for generics. Allowed brand drugmakers to recover patent life lost during FDA approval. Balanced generic entry with brand protection. |
-| **Prescription Drug Marketing Act (PDMA, 1987)** | Prohibited drug reimportation (except by manufacturer), regulated drug sample distribution, and required wholesale distributor licensure. |
-| **Food & Drug Administration Amendments Act (FDAAA, 2007)** | Required clinical trial registration and pediatric study requirements. Authorized FDA to mandate REMS programs for certain high-risk drugs (e.g., opioids, biologics). |
-| **Drug Quality and Security Act (DQSA, 2013)** | Enhanced oversight of compounded drugs and drug supply chain security. Created "outsourcing facility" category subject to cGMP and FDA inspections. |
-
 ## The Pure Food, Drugs, & Cosmetics Act (FDC, 1906)
 
 - **Upton Sinclair's The Jungle**: exposed unsanitary practices in the meatpacking industry; enacted in response.

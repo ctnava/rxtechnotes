@@ -33,12 +33,12 @@ Structured for both exam prep and on-the-job reference.
 
 ### 📖 Chapters
 
-| Chapter | Title | Status |
-|---------|-------|--------|
+| Chapter | Title | Rework Status |
+|---------|-------|---------------|
 | 1 | [Ethics & Compliance](./ethics_compliance.md) | ✅ Complete |
 | 2 | [Pharmacy Settings, Personnel, & Services](./settings_personnel_services.md) | ✅ Complete |
 | 3 | [Healthcare Coverage](./healthcare_coverage.md) | ✅ Complete |
-| 4 | [Drug Discovery, Manufacturing, & Logistics](./2_discovery_manufacture_logistics.md) | 🚧 WIP |
+| 4 | [Drug Discovery, Manufacturing, & Logistics](./discovery_manufacture.md) | ✅ Complete |
 | 5 | [Prescriptions & Dispensing](./4_access_to_drugs.md) | 🚧 WIP |
 | 6 | [Pharmacy Inventory Management](./inventory_management.md) | ✅ Complete |
 

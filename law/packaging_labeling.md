@@ -1,4 +1,4 @@
-# Extended Packaging & Labeling Legislation
+# Extended Packaging & Labeling Policy
 
 ## Fair Packaging & Labeling Act (FPLA, 1967)
 
@@ -28,7 +28,7 @@ The Drug Listing Act of 1972 mandates that all drug establishments provide a com
 > .
 > 🤯 NATO Stock Number (NSN) is the military analog to the NDC.
 
-### Drug Supply Chain Security Act (DSCSA, 2013)
+### 🤯 Drug Supply Chain Security Act (DSCSA, 2013)
 
 The DSCSA aims to improve the security and traceability of prescription drugs in the supply chain by facilitating a more seamless flow of data between supply chain partners. This protects patients from harmful drugs, including counterfeit, stolen, or contaminated medications.
 

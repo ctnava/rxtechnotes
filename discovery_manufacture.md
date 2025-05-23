@@ -5,6 +5,13 @@
 - **Adulteration**: Contamination or failure to meet specified purity and quality standards.
 - **Misbranding**: False, misleading, confusing, or incomplete labeling, or if the product is harmful when used as labeled.
 
+## Federal Legislation
+
+The following are required reading for this chapter:
+
+- 🔗 **FDC, FDCA, & Amendments** (🔗 [Link](./law/fdc_fdca.md))
+- 🔗 **Extended Packaging & Labeling Policy** (🔗 [Link](./law/packaging_labeling.md))
+
 ## 🏭 Manufacturing
 
 Drug manufacturers must comply with stringent FDA standards during production and distribution. **Good Manufacturing Practices (GMP)** are FDA-enforced standards ensuring drug consistency, safety, and quality. Strengthened by the 🦅 **Kefauver-Harris Amendment (1962)**, GMPs apply to all manufacturers.

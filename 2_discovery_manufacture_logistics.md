@@ -23,7 +23,7 @@
 
 > 🤯 In 1976, the Medical Device Regulation Act (or "Medical Device Amendments") established the framework for regulating medical devices to ensure their safety and effectiveness. This means pre-market approval is required for life-sustaining and life-supporting medical devices (Class III). -->
 
-## Drug Development & Manufacturing
+<!-- ## Drug Development & Manufacturing -->
 
 <!-- There exist two commercial categories of drugs:
 
@@ -144,7 +144,7 @@ There are 3 main types of supplier: drug manufacturers, specialty pharmacies, an
 - **Specialty Pharmacies** focus on providing high-cost, complex medications and specialized services to patients with chronic conditions
 - **Compounding Pharmacies** customize medications on a patient-specific basic, often mixing, combinging, or altering existing drugs to meet individual needs -->
 
-### 🤯 340B Drug Pricing Program (340B, 1992)
+## 🤯 340B Drug Pricing Program (340B, 1992)
 
 340B allows certain hospitals and other healthcare providers, known as "covered entities," to purchase outpatient drugs at discounted prices from pharmaceutical manufacturers. This program is intended to help "stretch scarce federal resources" and improve access to medications for vulnerable populations.
 
