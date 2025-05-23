@@ -463,7 +463,7 @@ A **Prior Authorization (PA)** is a formal approval process required by insuranc
 
 > 🚨 These rules are set by PBMs and insurers—not by the pharmacy.
 
-#### 🧾 PA Workflow
+###### 🧾 PA Workflow
 
 Pharmacy technicians may assist the pharmacist with the following PA tasks:
 
