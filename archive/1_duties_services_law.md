@@ -1,6 +1,6 @@
 # Chapter 1: Pharmacies - Duties, Services, Law, & Ethics
 
-## Ethics
+<!-- ## Ethics
 
 Ethics is a branch of philosophy that helps decide what should be done in a principled sense besides what must be done to comply with laws. In the medical industry, universities, colleges, hospitals, and other organizations form Ethical Review Boards (ERBs) (or Institutional Review Boards (IRBs)) to provide ethical guidance and ensure legal & ethical standards are followed. ERBs in hospitals can provide consultation for difficult ethical cases when they arise. Corporate compliance officers are responsible to investigate legal or ethical concerns identified in a business.
 
@@ -22,7 +22,7 @@ Some basic values in ethical considerations include:
 - **Dignification** of the patient
 - **Non-Maleficence** when providing care
 - **Justice** in healthcare
-- **Honesty** in patient communication
+- **Honesty** in patient communication -->
 
 ## Pharmacy Personnel
 
@@ -80,7 +80,7 @@ NPs and PAs are **advanced practice providers** who are licensed to diagnose, tr
 - **Vaccinations**: Can administer and prescribe vaccines
 - **Pharmacy Role**: Pharmacy personnel often verify NP/PA credentials and DEA numbers when filling prescriptions
 
-## Compliance with the Law
+<!-- ## Compliance with the Law
 
 All pharmacy personnel must comply with **federal and state laws**, under the supervision of a licensed pharmacist. Violations by technicians can also result in disciplinary actions for the supervising pharmacist.
 
@@ -137,9 +137,9 @@ Each state’s **Board of Pharmacy** is responsible for:
 | LPN/LVN| Licensed Practical/Vocational Nurse | ❌ Cannot prescribe medications |
 | Psych NP | Psychiatric Nurse Practitioner | 🧠 Prescribes psychiatric drugs and controlled substances (varies) |
 | OD     | Doctor of Optometry | 👓 Eye meds; some controlled substances depending on state |
-| PharmD (RPh) | Pharmacist under protocol | 💊 Vaccines, birth control, naloxone, tobacco cessation (state rules) |
+| PharmD (RPh) | Pharmacist under protocol | 💊 Vaccines, birth control, naloxone, tobacco cessation (state rules) | -->
 
-#### Non-Government Organizations (NGOs)
+<!-- #### Non-Government Organizations (NGOs)
 
 While not government entities, these organizations shape pharmacy standards:
 
@@ -148,9 +148,9 @@ While not government entities, these organizations shape pharmacy standards:
 - **Institute for Safe Medication Practices (ISMP)**: A nonprofit organization devoted to preventing medication errors. ISMP develops safety alerts, best practices, and error-prevention strategies widely adopted in pharmacy and healthcare settings.
 - **United States Pharmacopeia Convention (USP)**: Develops official drug quality standards adopted nationwide via the *USP–NF*
 - **American Society for Consultant Pharmacists (ASCP)**: Sets standards for the practice of pharmacy who provide medication distribution and consultation for nursing homes.
-- **Accreditation Commission for Health Care(ACHC)**: Sets standards for pharmacies that provide services in the realm of: infusion, community retail, long-term care, & specialty pharmacy. They also administer the *Pharmacy Compounding Accreditation Board (PCAB)* accreditation.
+- **Accreditation Commission for Health Care(ACHC)**: Sets standards for pharmacies that provide services in the realm of: infusion, community retail, long-term care, & specialty pharmacy. They also administer the *Pharmacy Compounding Accreditation Board (PCAB)* accreditation. -->
 
-### ⚖️ Court of Law
+<!-- ### ⚖️ Court of Law
 
 Judicial law has two main divisions:
 
@@ -166,13 +166,13 @@ Torts are a branch of civil law in which the courts determine remedies for alleg
 
 > **Emily's Law** refers to a piece of legislation that focused on improving the qualifications and training of pharmacy technicians after a medication error led to the death of a child, resulting from a malpractice lawsuit. The pharmacist did not catch this error and both were held liable.
 
-🔗 Further Reading on [Basic Medication Safety Practices & Errors](./handling/basic_safety_practices.md)
+🔗 Further Reading on [Basic Medication Safety Practices & Errors](./handling/basic_safety_practices.md) --> -->
 
 ### Important Legislation
 
 Below are vital pieces of legislation to know as a pharmacy technician.
 
-#### Occupational Safety & Health Act (OSHA, 1970)
+<!-- #### Occupational Safety & Health Act (OSHA, 1970)
 
 Ensures workplace safety. Employers must:
 
@@ -180,9 +180,9 @@ Ensures workplace safety. Employers must:
 - Provide **Personal Protective Equipment (PPE)** when exposure to hazardous substances is possible
 - Maintain **Safety Data Sheets (SDS)** for all hazardous substances to explain the risks of exposure, handling instructions, and protocols necessary to prevent harm from such incidents.
 
-> ⚠️ Chemotherapy agents and other hazardous drugs must have Safety Data Sheets!
+> ⚠️ Chemotherapy agents and other hazardous drugs must have Safety Data Sheets! -->
 
-#### The Health Information Portability & Accountability Act (HIPAA, 1996)
+<!-- #### The Health Information Portability & Accountability Act (HIPAA, 1996)
 
 🔗 [Expanded Detail](./law/hipaa.md)
 
@@ -204,7 +204,7 @@ Ensures workplace safety. Employers must:
 - Promotes the use of electronic health records (EHR) and **meaningful use** standards for health information technology infrastructure (e.g. electronic prescribing)
 - Enforces secure **electronic data interchange (EDI)** for claims, billing, and patient data for HIPAA compliance
 
-> ✅ HITECH strengthens enforcement and increases penalties for noncompliance.
+> ✅ HITECH strengthens enforcement and increases penalties for noncompliance. -->
 
 ## Services Offered
 

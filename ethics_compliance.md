@@ -67,7 +67,7 @@ Each state’s **Board of Pharmacy** is responsible for:
 | OphD   | Doctor of Ophthalmology (MD/DO) | 👁️ Eye-related meds: antiglaucoma, corticosteroids, antibiotics |
 | PharmD | Doctor of Pharmacy | 💉 Limited authority under protocol (e.g., vaccines, contraceptives)|
 
-> **TRIVIA**: MDs can be fellows of American Academy of Pediatrics (FAAP), fellows of the American College of Obstetricians & Gynecologists (FACOG), or fellows of the American College of Surgery (FACS)
+> 🤯 MDs can be fellows of American Academy of Pediatrics (FAAP), fellows of the American College of Obstetricians & Gynecologists (FACOG), or fellows of the American College of Surgery (FACS)
 
 ##### 👩‍🔬 Non-Physician Prescribers
 
