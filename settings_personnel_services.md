@@ -433,53 +433,6 @@ Hospitals are healthcare institutions that provide medical treatment, surgical s
   - **RPh (Registered Pharmacist)**: Reviews orders, dispenses medications, consults on therapy.
   - **Clinical Pharmacist**: Advanced training; participates in patient care rounds, optimizes therapy & monitoring. May or may not dispense.
 
-🔑 **Basic Technician Roles in Hospital Pharmacy**
-
-- 🧾 **Front Counter/Main Pharmacy Technician**
-  - Answers phones
-  - Processes first-dose fills of oral medications
-  - Assists clinical staff and other techs
-- 🔐 Narcotics/Controlled Substances Technician
-  - Coordinates receipt, prep, and delivery of controlled substances to nurses' stations or automated dispensing cabinets
-  - Maintains security and logs for scheduled drugs
-  - Reviews inventory, discrepancy reports, and performs audits
-  - Ensures compliance with 🦅 DEA and 🐻 California BOP laws
-  - 📍 Controlled substance handling must follow exact counts and chain-of-custody.
-- 📦 **Delivery Technician**
-  - Transports meds to nursing units and outpatient clinics
-  - Picks up new or stat orders
-- 🤖 **Automation Technician**
-  - Manages pharmacy robotics and Automated Dispensing Cabinets (ADCs)
-  - Troubleshoots user issues, resets passwords, and trains staff
-  - Often becomes the department's automation SME (Subject Matter Expert)
-- 📋 **Medication Reconciliation Technician**
-  - Gathers and verifies patient medication history
-  - Interviews patients and contacts outpatient providers
-  - Compares pre-admission meds with hospital records
-  - Flags discrepancies for pharmacist review
-- 📦 **Inventory Control Technician**
-  - Orders, receives, checks invoices, & stocks medications
-  - Manages shortages, recalls, and emergency procurement
-  - Refills ADCs and crash carts in ancillary areas
-- 🧪 **Quality Assurance Technician**
-  - Conducts unit inspections to ensure compliance with hospital medication storage and labeling policies
-  - Removes expired medications from automated dispensing cabinets and storage areas
-  - Verifies refrigerator and freezer temperatures daily; completes and documents logs
-    - Ensures cold chain compliance for refrigerated and frozen medications
-  - May participate in medication safety or quality improvement committees
-  - Assists in enforcing compliance with USP, Joint Commission, and internal audit standards
-- 💉 **IV Room Technician (Sterile Compounding)**
-  - Prepares compounded sterile preparations (CSPs) under USP <797>
-  - May handle chemotherapy and nutrition therapy under USP <800> and <795>
-  - Requires specialized aseptic technique training and PPE
-  - Must complete regular competency validation.
-- 🧑‍💼 **Pharmacy Technician Supervisor**
-  - Manages tech schedules and workflow
-  - Trains staff and handles annual evaluations
-  - Coordinates with pharmacists, nurses, and department leadership
-
-> 🛡️ All technicians must document actions in the pharmacy system.
-
 🏥 **Hospital Pharmacy Areas**
 
 Hospital pharmacies are compartmentalized into specialized areas that support inpatient, outpatient, and ancillary medical services. These areas include the Central Pharmacy and its Satellites.
@@ -527,71 +480,74 @@ Hospitals may also have **outpatient pharmacies** or **clinic-affiliated pharmac
 - 🛑 They **do not dispense medications** for **inpatient use**
 - 📃 Process outpatient prescriptions under the supervision of hospital pharmacists
 
-#### Advanced Pharmacy Technician Specializations
+🔑 **Hospital Pharmacy Technician Roles**
 
-Hospital pharmacies are more complex than retail settings and often include specialized roles that support inpatient and outpatient care, automation, and compliance.
+- 🧑‍💼 **Pharmacy Technician Supervisor**
+  - Manages workflow and technician schedules
+  - Trains and evaluates technician staff
+  - Coordinates operations with pharmacists and hospital leadership
+- 🧾 **Front Counter/Main Pharmacy Technician**
+  - Answers phones and triages calls
+  - Processes first-dose fills of oral medications
+  - Assists clinical staff and other techs
+- 🔐 **Narcotics/Controlled Substances Technician**
+  - Coordinates receipt, preparation, and delivery of controlled substances to nurses' stations or ADCs
+  - Maintains security, documentation, and logs for scheduled drugs
+  - Reviews inventory and discrepancy reports; performs audits
+  - Ensures compliance with 🦅 DEA and 🐻 California BOP regulations
+  - 📍 Must maintain exact counts and chain-of-custody procedures
+- 📦 **Delivery Technician**
+  - Transports medications to nursing units and outpatient clinics
+  - Retrieves stat orders and new prescriptions
+- 🤖 **Automation Technician**
+  - Manages pharmacy robotics and ADC systems
+  - Troubleshoots errors and login issues
+  - Trains staff on system use
+  - Acts as department SME (Subject Matter Expert) for automation
+  - 🔄 Inpatient version integrates ADC operations and BCMA support
+  - 🧾 Outpatient version manages prescription robots and pickup systems
+- 📋 **Medication Reconciliation Technician**
+  - Gathers and verifies patient medication history
+  - Interviews patients and caregivers
+  - Contacts outpatient providers
+  - Compares data with hospital orders and flags discrepancies for pharmacist review
+- 📦 **Inventory Control Technician**
+  - Orders, receives, and stocks medications
+  - Handles shortages, recalls, and emergency procurement
+  - Refills crash carts and ADCs in ancillary areas
+- 💉 **IV Room Technician (Sterile Compounding)**
+  - Compounds sterile products per USP <797>
+  - May handle chemotherapy (USP <800>) and nutrition therapy (USP <795>)
+  - Requires aseptic technique and PPE
+  - Must complete regular training and competency validation
+- 🛡️ **Medication Safety & Compliance Technician**
+  - Ensures adherence to SOPs and regulatory protocols
+  - Tracks medication errors and near misses
+  - Performs unit inspections for compliance with labeling, storage, and expiration policies
+    - Coordinates inspections to remove expired stock
+  - Documents refrigerator and freezer temperatures daily
+    - Ensures cold chain compliance
+  - Monitors recalls from 🐻 CA BOP, 🦅 FDA, manufacturers, and wholesalers
+  - Assists the Medication Safety Pharmacist
+  - Trains staff on safety procedures
+  - May serve on medication safety and QA committees
+  - Maintains compliance documentation, inspection readiness, & internal medication safety website to support adherence to Joint Commission, USP, and internal audit standards
+- 🧪 **Investigational Drug Services (IDS) Technician**
+  - Supports clinical trials under IRB-approved protocols
+  - Prepares and labels study drugs
+  - Manages investigational inventory and QA procedures
+  - Conducts sponsor audits, tracks billing, and maintains documentation
+  - Assists with staff training on study protocols
+- 🔄 **Inpatient Transitions of Care Technician**
+  - Conducts Medication Reconciliation during admissions, transfers, and discharges
+  - Assists in DUR processes
+  - Aims to reduce errors during patient transitions
+- 🚶 **Outpatient Transitions of Care Technician**
+  - Ensures accurate prescription continuity post-discharge
+  - Collaborates with nurses, pharmacists, PCTs, physicians, and social workers
+  - Aims to reduce 30-day readmission rates (typically around 20%)
 
-| 👔 Title | 📝 Brief Description |
-|--------|---------------------|
-| 🛡️ Medication Safety & Compliance Technician | Ensures that medication handling follows regulatory and safety protocols; tracks errors and near misses. |
-| 🔄 Inpatient Transitions of Care Technician | Coordinates medication reconciliation during patient admissions, transfers, and discharges to prevent errors. |
-| 🚶 Outpatient Transitions of Care Technician | Works with patients recently discharged to ensure accurate outpatient prescriptions and follow-up. |
-| 🤖 Inpatient Automation Technician | Maintains and operates automated medication dispensing systems (e.g., Pyxis, Omnicell) within the hospital. |
-| 🧾 Outpatient Automation Technician | Manages automation technologies in outpatient pharmacy settings, including prescription filling robots. |
-| 🧪 Investigational Drug Services Technician | Handles storage, documentation, and dispensing of clinical trial medications under strict study protocols. |
-
-##### 🛡️ Medication Safety & Compliance Technician
-
-- Ensures that medication handling complies with **Standard Operating Procedures (SOPs)**
-- Tracks medication errors and near misses
-- Monitors recalls from the Board of Pharmacy, FDA, manufacturers, and wholesalers
-- Maintains regulatory documentation and the internal medication safety website
-- Coordinates inspections to remove expired stock
-- Assists the Medication Safety & Compliance Pharmacist
-- Provides staff training and supports regulatory readiness
-
-##### 🔄 Inpatient Transitions of Care Technician
-
-- Conducts Medication Reconciliation during admissions, transfers, and discharges
-- Supports pharmacists in **Drug Utilization Review (DUR)**
-- Helps prevent medication errors during transitions of care
-
-##### 🚶 Outpatient Transitions of Care Technician
-
-- Ensures accurate prescription continuity post-discharge
-- Collaborates with nurses, pharmacists, PCTs, physicians, and social workers
-- Aims to reduce 30-day readmission rates (typically around 20%)
-
-##### 🤖 Inpatient Automation Technician
-
-- Maintains and operates **Automated Dispensing Cabinets (ADCs)** such as Pyxis and Omnicell
-- Optimizes inventory levels based on usage
-- Configures and loads new automation systems
-- Assists in rollout of new ADCs and ensures system integration
-- Implements **Pharmacy & Therapeutics (P&T) Committee** decisions into automation
-- Investigates and resolves narcotic discrepancies and medication errors
-- Supports **Barcode Medication Administration (BCMA)** system implementation
-
-##### 🧾 Outpatient Automation Technician
-
-- Manages automation in outpatient settings, including:
-  - Prescription-filling robots
-  - Labelers and counting machines
-  - Pick-to-light control systems
-  - Will-call systems
-- Troubleshoots automation issues
-- Coordinates with pharmacy supervisors to manage inventory
-
-##### 🧪 Investigational Drug Services (IDS) Technician
-
-- Works with Investigational Drug Pharmacist to support clinical trials approved by the Institutional Review Board (IRB)
-- Prepares, labels, and distributes investigational medications per protocol
-- Manages inventory and ensures study medication availability
-- Compounds medications extemporaneously following strict **Quality Assurance (QA)** SOPs
-- Coordinates sponsor visits and audits
-- Maintains protocol binders, regulatory documents, and budget forms
-- Conducts database entry, billing reconciliation, and compliance audits
-- Assists in orienting pharmacy staff to new studies
+> 🛡️ All pharmacy technicians must document their actions in the pharmacy system in real-time to ensure traceability and compliance.
 
 ### Long-Term Care (LTC)
 
