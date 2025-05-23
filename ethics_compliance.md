@@ -116,4 +116,4 @@ Torts are a branch of civil law in which the courts determine remedies for alleg
 
 Below are vital pieces of legislation to know as a pharmacy technician.
 
-🔗 [Abbreviated Federal Law Reference Guide](./law/abbreviated_federal_law_reference.md)
+🔗 [Federal Law Reference Directory](./law/readme.md)
