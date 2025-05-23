@@ -1,4 +1,4 @@
-# Packaging & Labeling Legislation
+# Extended Packaging & Labeling Legislation
 
 ## Fair Packaging & Labeling Act (FPLA, 1967)
 
