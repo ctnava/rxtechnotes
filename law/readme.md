@@ -49,6 +49,14 @@
 
 ---
 
+**Miscellaneous Law** (🔗 [Link](./misc.md))
+
+| **Title** | **Notes** |
+|-----------|-----------|
+| Occupational Safety & Health Act (OSHA, 1970) | Requires employers to provide PPE, training, and Safety Data Sheets (SDS) for hazardous substances. |
+
+---
+
 Todo:
 
 - consolidate healthcare coverage
