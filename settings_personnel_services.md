@@ -473,6 +473,57 @@ Hospitals are healthcare institutions that provide medical treatment, surgical s
 
 > 🛡️ All technicians must document actions in the pharmacy system.
 
+🏥 **Hospital Pharmacy Areas**
+
+Hospital pharmacies are compartmentalized into specialized areas that support inpatient, outpatient, and ancillary medical services. These areas include the Central Pharmacy and its Satellites.
+
+🧭 **Central Pharmacy**
+
+The central pharmacy is the main hub of medication operations within a hospital.
+
+- 🕒 **Typically operates 24/7** to ensure continuity of care across all patient units.
+- 📦 **Primary responsibilities:**
+  - Houses the **bulk of the hospital's medication inventory**
+  - Prepares **batched doses** for scheduled administration (e.g. 24-hour doses for med carts); including those not covered by satellites.
+  - Supports **ancillary departments** (e.g. dialysis, radiology, endoscopy) with needed medications
+  - Performs **unit-dose repackaging** and barcode labeling
+  - Conducts **restocking of crash carts**, Automated Dispensing Cabinets (ADCs), and floor stock
+  - Oversees **sterile compounding (IV room)** including chemotherapy, parenteral nutrition, and emergency meds
+
+> 📍 If any **pharmacy satellite is closed**, the central pharmacy assumes coverage responsibilities.
+
+🛰️ **Pharmacy Satellites**
+
+Pharmacy satellites are smaller, strategically located pharmacies within the hospital, often near specialized patient care units.
+
+- 🏥 Common examples:
+  - **OR Satellite**: near surgical suites, maintains anesthetics, emergency drugs, and procedure-specific meds
+  - **Pediatric Satellite**: near NICU or pediatric units; focuses on weight-based or concentration-specific formulations
+  - **Oncology Satellite**: for chemotherapy mixing or delivery coordination
+- 💊 Responsibilities:
+  - Provide **first doses** of newly ordered medications
+  - Supply **emergency medications** as needed
+  - Replace **lost or missing doses**
+  - Maintain **limited, specialized inventory** tailored to the needs of the serviced unit
+
+> 📍 Satellites are typically **open 24 hours**. When closed, central pharmacy assumes their duties.
+
+🏪 **Outpatient & Clinic Pharmacies**
+
+Hospitals may also have **outpatient pharmacies** or **clinic-affiliated pharmacies** within or near the main hospital campus.
+
+- 🔄 Operate like **retail/community pharmacies** but staffed by the hospital
+- 💳 Serve:
+  - Patients being discharged
+  - Hospital staff
+  - Walk-in clinic patients
+- 🛑 They **do not dispense medications** for **inpatient use**
+- 📃 Process outpatient prescriptions under the supervision of hospital pharmacists
+
+#### Advanced Pharmacy Technician Specializations
+
+<!-- TODO -->
+
 ### Long-Term Care (LTC)
 
 **Long-Term Care (LTC)** facilities serve individuals who are unable to care for themselves due to **chronic physical or mental impairment**. These include:
