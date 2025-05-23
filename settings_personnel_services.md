@@ -386,6 +386,93 @@ Chemotherapy and certain antiviral or investigational therapies require safe han
 
 Inpatient care refers to medical treatment that requires a patient to stay at an inpatient facility overnight or for an extended period.
 
+### Hospitals
+
+Hospitals are healthcare institutions that provide medical treatment, surgical services, and nursing care for patients suffering from acute illness, injury, or disease. Certified pharmacy technicians are commonly preferred in these settings due to the complexity and high standards of institutional operations.
+
+🏥 **Layout**
+
+- **Auxiliary Units** are clinical patient care areas where medications are stored and administered. The **nurses' station** is the unit hub for communications and stores meds, charts, and supplies.
+- **Ancillary Departments** such as radiology, respiratory therapy, dialysis, and central supply also receive support from the pharmacy.
+- **Central Supply** stocks items not provided by the pharmacy (e.g. lotions, mouthwash, pill cutters) and sometimes IV solutions.
+
+| Abbreviation | Auxiliary Unit Name | Description |
+|--------------|---------------------|-------------|
+| ASC | Ambulatory Surgery Center | Outpatient surgical procedures |
+| BMTU | Bone Marrow Transplant Unit | Specialized oncology care |
+| CCU | Cardiac/ Coronary Care Unit | Intensive cardiac care |
+| ED | Emergency Department | Emergency and trauma services |
+| ER | Emergency Room | Synonym for ED |
+| ICU | Intensive Care Unit | Critical care for unstable patients |
+| CT ICU | Cardiothoracic Intensive Care Unit  | Cardiac and thoracic post-op care |
+| NICU | Neonatal/ Neurological Intensive Care Unit | Critical care for newborns or neurology patients |
+| PICU | Pediatric Intensive Care Unit | Critical care for children |
+| SICU | Surgical Intensive Care Unit | Post-surgical intensive care |
+| OB | Obstetrics | Maternal care and delivery |
+| OR | Operating Room | Surgical procedures |
+| PAR | Post-Anesthesia Recovery | Immediate post-op care |
+| PACU | Post-Anesthesia Care Unit | Same as PAR |
+| PEDS | Pediatrics | Inpatient care for children |
+
+🧑‍⚕️ **Hospital Staff Overview**
+
+- **Physicians**
+  - **MD (Medical Doctor)**: Diagnoses, treats, and prescribes; writes the majority of medication orders.
+  - **DO (Doctor of Osteopathy)**: Similar to MD with emphasis on holistic care.
+- **Nursing Staff**
+  - **NP (Nurse Practitioner)**: provide advanced care & may specialize; can prescribe in most states
+  - **APN (Advanced Practice Nurse)**: Similar to NP; cannot prescribe
+  - **RN (Registered Nurse)**: Administers meds, assists procedures, performs assessments.
+  - **LPN (Licensed Practical Nurse)** & **LVN (Licensed Vocational Nurse)**: Provide bedside care under RN supervision; med administration scope varies by state.
+- **Other Healthcare Professionals**
+  - **PA (Physician Assistant)**: Can prescribe, performs exams, and treatment under supervision of MD or DO
+  - **RT (Respiratory Therapist)**: Manages respiratory treatments; may administer meds.
+  - **PCT (Patient Care Technician)**: Assists nursing; often sent to retrieve medications between deliveries.
+  - **MSW (Master of Social Work)**: Addresses social, legal, or financial patient issues.
+- **Pharmacy Staff**
+  - **RPh (Registered Pharmacist)**: Reviews orders, dispenses medications, consults on therapy.
+  - **Clinical Pharmacist**: Advanced training; participates in patient care rounds, optimizes therapy & monitoring. May or may not dispense.
+
+🔑 **Technician Roles in Hospital Pharmacy**
+
+- 🧾 **Front Counter/Main Pharmacy Technician**
+  - Answers phones
+  - Processes first-dose fills of oral medications
+  - Assists clinical staff and other techs
+- 🔐 Narcotics/Controlled Substances Technician
+  - Coordinates receipt, prep, and delivery of controlled substances to nurses' stations or automated dispensing cabinets
+  - Maintains security and logs for scheduled drugs
+  - Reviews inventory, discrepancy reports, and performs audits
+  - Ensures compliance with 🦅 DEA and 🐻 California BOP laws
+  - 📍 Controlled substance handling must follow exact counts and chain-of-custody.
+- 📦 **Delivery Technician**
+  - Transports meds to nursing units and outpatient clinics
+  - Picks up new or stat orders
+- 🤖 **Automation Technician**
+  - Manages pharmacy robotics and Automated Dispensing Cabinets (ADCs)
+  - Troubleshoots user issues, resets passwords, and trains staff
+  - Often becomes the department's automation SME (Subject Matter Expert)
+- 📋 **Medication Reconciliation Technician**
+  - Gathers and verifies patient medication history
+  - Interviews patients and contacts outpatient providers
+  - Compares pre-admission meds with hospital records
+  - Flags discrepancies for pharmacist review
+- 📦 **Inventory Control Technician**
+  - Orders, receives, checks invoices, & stocks medications
+  - Manages shortages, recalls, and emergency procurement
+  - Refills ADCs and crash carts in ancillary areas
+- 💉 **IV Room Technician (Sterile Compounding)**
+  - Prepares compounded sterile preparations (CSPs) under USP <797>
+  - May handle chemotherapy and nutrition therapy under USP <800> and <795>
+  - Requires specialized aseptic technique training and PPE
+  - Must complete regular competency validation.
+- 🧑‍💼 **Pharmacy Technician Supervisor**
+  - Manages tech schedules and workflow
+  - Trains staff and handles annual evaluations
+  - Coordinates with pharmacists, nurses, and department leadership
+
+> 🛡️ All technicians must document actions in the pharmacy system.
+
 ### Long-Term Care (LTC)
 
 **Long-Term Care (LTC)** facilities serve individuals who are unable to care for themselves due to **chronic physical or mental impairment**. These include:
