@@ -496,7 +496,7 @@ Pharmacy technicians may assist the pharmacist with the following PA tasks:
 > .
 > 🚨 PAs are **not required for emergency/life-threatening prescriptions** under federal rules, but this must be determined by the pharmacist.
 
-##### 📲 PBM Portals
+###### 📲 PBM Portals
 
 Pharmacy technicians commonly access PBM portals to:
 
