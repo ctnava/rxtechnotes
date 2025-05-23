@@ -461,6 +461,13 @@ Hospitals are healthcare institutions that provide medical treatment, surgical s
   - Orders, receives, checks invoices, & stocks medications
   - Manages shortages, recalls, and emergency procurement
   - Refills ADCs and crash carts in ancillary areas
+- 🧪 **Quality Assurance Technician**
+  - Conducts unit inspections to ensure compliance with hospital medication storage and labeling policies
+  - Removes expired medications from automated dispensing cabinets and storage areas
+  - Verifies refrigerator and freezer temperatures daily; completes and documents logs
+    - Ensures cold chain compliance for refrigerated and frozen medications
+  - May participate in medication safety or quality improvement committees
+  - Assists in enforcing compliance with USP, Joint Commission, and internal audit standards
 - 💉 **IV Room Technician (Sterile Compounding)**
   - Prepares compounded sterile preparations (CSPs) under USP <797>
   - May handle chemotherapy and nutrition therapy under USP <800> and <795>
