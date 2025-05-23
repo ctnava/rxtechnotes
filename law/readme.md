@@ -4,6 +4,15 @@
 
 ---
 
+**DEA Policy** (🔗 [Link](./csa_cmea.md))
+
+| **Title** | **Notes** |
+|-----------|-----------|
+| Controlled Substances Act (CSA, 1970) | Classifies drugs into Schedules I–V based on abuse potential and medical use, regulating distribution. |
+| Combat Methamphetamine Epidemic Act (CMEA, 2005) | Regulates pseudoephedrine and related substances with sales limits and strict storage requirements. |
+
+---
+
 **FDC, FDCA, & Amendments** (🔗 [Link](./fdc_fdca.md))
 
 | **Title** | **Notes** |
@@ -43,4 +52,3 @@
 Todo:
 
 - consolidate healthcare coverage
-- consolidate csa_cmea

@@ -1,4 +1,4 @@
-# 💊 Controlled & Listed Substances
+# DEA Policy
 
 ## 🔐 Controlled Substances Act (CSA, 1970)
 
