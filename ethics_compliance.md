@@ -110,7 +110,7 @@ Torts are a branch of civil law in which the courts determine remedies for alleg
 
 > **Emily's Law** refers to a piece of legislation that focused on improving the qualifications and training of pharmacy technicians after a medication error led to the death of a child, resulting from a malpractice lawsuit. The pharmacist did not catch this error and both were held liable.
 
-🔗 Further Reading on [Basic Medication Safety Practices & Errors](../medications/basic_safety_practices.md)
+🔗 Further Reading on [Basic Medication Safety Practices & Errors](../ref/basic_safety_practices.md)
 
 ### Important Legislation
 
