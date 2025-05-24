@@ -39,8 +39,8 @@ Structured for both exam prep and on-the-job reference.
 | 2 | [Pharmacy Settings, Personnel, & Services](./settings_personnel_services.md) | ✅ Complete |
 | 3 | [Healthcare Coverage](./healthcare_coverage.md) | ✅ Complete |
 | 4 | [Drug Discovery, Manufacturing, & Logistics](./discovery_manufacture.md) | ✅ Complete |
-| 5 | [Prescriptions & Dispensing](./4_access_to_drugs.md) | 🚧 WIP |
-| 6 | [Pharmacy Inventory Management](./inventory_management.md) | ✅ Complete |
+| 5 | [Pharmacy Inventory Management](./inventory_management.md) | ✅ Complete |
+| 6 | [Prescriptions & Dispensing](./4_access_to_drugs.md) | 🚧 WIP |
 
 > 📁 **Math tutorials** are located in the [`./math`](./math) directory.
 
