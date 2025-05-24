@@ -98,7 +98,7 @@ Step 3: **Post-Market Surveillance**
 
 If the ANDA meets FDA requirements, the generic drug is approved for marketing. Generic drugs are also subject to the same post-market safety monitoring as brand name drugs.
 
-### ☣️ Risk Evaluation & Mitigation Strategies (REMS)
+### ☣️ Safety Monitoring & Surveillance with REMS
 
 In some cases, the FDA may require additional safety measures for high-risk medications after they are brought to market. **Risk Evaluation & Mitigation Strategies (REMS)** are required safety programs for medications with known or potential serious risks that must be managed to ensure that the drug’s benefits outweigh its risks; particularly those that are addictive (e.g. Opioids, Stimulants, Benzodiazepines), hazardous (e.g. Birth Control, Oncologics, Biologics), or understudied (e.g. Gabapentin).
 
@@ -111,13 +111,13 @@ Depending on the drug, a REMS program may include one or more of the following:
 
 > **Example**: The drug isotretinoin (Accutane), which can cause severe birth defects, is subject to a REMS program called iPLEDGE that requires prescribers, pharmacies, and patients to follow strict steps before dispensing or receiving the medication.
 
+## Distribution
+
 ### 🏷️ Labeling Requirements
 
 Drug manufacturers must label their products accurately and clearly to comply with federal laws and ensure safe use by healthcare providers and patients. Labeling requirements are enforced primarily by the FDA under the FDCA and related legislation.
 
 - 🔗 [Manufacturer Labeling Requirements for Prescription & OTC Drugs](./medications/manufacturer_labeling_reqs.md)
-
-## Distribution
 
 ### Logistics
 
