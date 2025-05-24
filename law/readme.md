@@ -46,7 +46,7 @@
 |-----------|-----------|
 | **Social Security Act Amendments (1965)** | Created Medicare and Medicaid; foundational for public healthcare reimbursement and pharmacy regulations. |
 | **OBRA-90 (1990)** | Requires patient profiles, DURs, and mandatory counseling offers for Medicaid prescriptions. |
-| **340B Drug Pricing Program (1992)** | Enables eligible providers to purchase outpatient medications at discounted rates to support underserved populations. |
+| **Public Health Service Act (PHSA, 1944; 340B in 1992)** | Establishes federal public health infrastructure and programs; includes the 340B program allowing eligible providers to purchase discounted outpatient drugs for underserved populations. |
 | **Medicare Modernization Act (MMA, 2003)** | Established Medicare Part D and mandated MTM services to improve outcomes and medication safety. |
 
 ---
