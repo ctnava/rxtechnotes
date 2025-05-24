@@ -108,6 +108,13 @@ Each partial fill must be **recorded in the pharmacy system**, including:
 
 Each prescription is assigned a **prescription number**, which stays the same for all refills. The number of authorized refills is written by the prescriber and usually printed on the **prescription label**. If a doctor authorizes multiple refills (often written as ‘Refills: 3’ or ‘Refills: PRN’), they are valid for **up to 1 year** from the date the prescription was written, **except for controlled substances**, which have stricter limits.
 
+Refills can be requested:
+
+- 📱 Via smartphone apps  
+- 💻 Through pharmacy websites  
+- 🤝 In person  
+- ☎️ Over the phone
+
 When a prescription has no refills or is expired, the technician is requesting a new prescription, not a ‘refill’ in the legal sense. **Pharmacy technicians** may be authorized to contact the prescriber **on behalf of the patient** to request a new prescription ([SOP](./sop/refill_request.md)).
 
 #### Inpatient Care

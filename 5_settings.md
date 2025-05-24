@@ -4,39 +4,6 @@
 
 ### Community Pharmacy Layout & Duties
 
-#### 🧾 Front-End
-
-##### 💻 Processing Prescriptions
-
-⚠️ ALWAYS for allergies, medications the patient is taking, & if there were any changes to insurance.
-
-New prescriptions may be submitted by:
-
-- 📝 Handwritten forms (often for controlled substances)  
-- 📠 Faxed prescriptions  
-- ☎️ Verbal orders (received directly by the pharmacist)  
-- 🧾 E-scripts through HIPAA-compliant Electronic Data Interchange (EDI)
-
-> 📠 For accuracy and improved record keeping, many pharmacies scan the prescription into the pharmacy dispensing system.
-
-Refills can be requested:
-
-- 📱 Via smartphone apps  
-- 💻 Through pharmacy websites  
-- 🤝 In person  
-- ☎️ Over the phone
-
-> 📋 For verbal orders: the pharmacist takes the call and transcribes the prescription; technicians then input the data into the system
-
-##### 🧾 Collecting & Entering Patient Profile Information
-
-Pharmacy technicians are responsible for:
-
-- Recording accurate **demographic details**
-- Entering or updating **insurance information**
-- Verifying information for prescription processing and billing
-- Confirming **prescriber details** and known allergies
-
 #### ⚙️ Back-End
 
 ##### 📦 Storage Area
