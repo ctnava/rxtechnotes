@@ -154,7 +154,7 @@ Pharmacy technicians must:
 
 - ✅ **Check product name, strength, dosage form, and quantity** for each item.
 - ✅ **Compare prices** listed on the invoice with those agreed upon in the PO.
-- ✅ **Inspect for damage**, contamination, or tampering. Return unacceptable stock to the supplier or wholesaler.
+- ✅ **Inspect for damage**, contamination, expiration, or tampering. Return unacceptable stock to the supplier or wholesaler.
 - ✅ **Report and log all discrepancies** (e.g., wrong drug, short shipment, overages) **immediately** per facility SOP.
 - ✅ **Sign and date invoices** upon receipt to confirm delivery.
 - ✅ **Enter received stock into the inventory system**, including lot numbers and expiration dates if required.
