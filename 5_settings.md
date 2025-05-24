@@ -153,7 +153,7 @@ When a patient arrives to pick up a prescription, this is the final opportunity 
 
 > 🧾 Pharmacy Clerks may use the register or POS for OTC medications & Prescriptions. They may also check IDs.
 
-<!-- #### ⚙️ Back-End -->
+#### ⚙️ Back-End
 
 <!-- The back-end contains workspaces for filling, compounding, and storage.
 
@@ -302,7 +302,7 @@ Pharmacy technicians help ensure the pharmacy is well-stocked without over-order
 
 > 🔄 Restocking should be proactive—anticipate needs based on trends and upcoming holidays or flu season.
 
-#### Other/ Administrative Duties
+<!-- #### Other/ Administrative Duties
 
 🛍️ **Stocking Supplies**
 
@@ -313,9 +313,9 @@ Technicians & Pharmacy Clerks are responsible for restocking commonly used pharm
 - 🧻 Printer paper and **receipt rolls** for the cash register
 - 🛍️ Prescription bags for pickups and deliveries
 
-> 🔁 Supplies should be checked at the **start and end of each shift** or according to pharmacy policy.
+> 🔁 Supplies should be checked at the **start and end of each shift** or according to pharmacy policy. -->
 
-🚮 **Waste Management**
+<!-- 🚮 **Waste Management**
 
 Proper waste handling ensures patient privacy and environmental responsibility.
 
@@ -325,4 +325,4 @@ Proper waste handling ensures patient privacy and environmental responsibility.
   - Placed in secure bins labeled for shredding
   - Picked up and destroyed by a contracted vendor that complies with HIPAA (1996)
 
-> ⚖️ Mishandling PHI is a serious HIPAA violation and can result in fines or disciplinary action.
+> ⚖️ Mishandling PHI is a serious HIPAA violation and can result in fines or disciplinary action. -->

@@ -195,6 +195,17 @@ Proper storage of medications ensures **potency, safety, and compliance** with f
 - Must be **monitored, replenished, and audited regularly**.
 - Controlled substances in floor stock require **additional tracking and documentation** per DEA and institutional policies (🦅x🔐).
 
+### 🛍️ Other Supplies
+
+Technicians & Pharmacy Clerks are responsible for restocking commonly used pharmacy supplies, including:
+
+- 💊 Prescription vials, lids, and bottles (various sizes)
+- 🏷️ Prescription labels and auxiliary sticker rolls
+- 🧻 Printer paper and **receipt rolls** for the cash register
+- 🛍️ Prescription bags for pickups and deliveries
+
+> 🔁 Supplies should be checked at the **start and end of each shift** or according to pharmacy policy.
+
 ## 🧹 Maintenance
 
 Pharmacy technicians are responsible for routinely (e.g., weekly or monthly) checking inventory for medications that are **no longer eligible for dispensing**. These medications must be promptly **removed from active stock**, **clearly labeled**, and **accurately documented** to prevent errors, diversion, or legal noncompliance.
