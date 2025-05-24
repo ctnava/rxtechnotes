@@ -221,7 +221,19 @@ Medications ineligible for dispensing or distribution include:
 > 📍 All ineligible medications must be stored in a **clearly marked, visually distinct, physically separated area** (e.g., “Do Not Dispense,” “Quarantine Bin”) and recorded in inventory logs.
 > 🔐 Controlled substances must be **tracked, segregated, and secured** under DEA regulations when awaiting return or destruction.
 
-### 🗑️ Reverse Distribution
+### 🚮 Waste Management
+
+Proper waste handling ensures patient privacy and environmental responsibility.
+
+- 🗑️ **Regular Trash**: Must be removed daily or per facility policy
+- ♻️ **Drug Bottles**: Empty stock bottles are often separated for recycling
+- 🔐 **Protected Health Information (PHI)** (also called **DPI**, or "data protected information") must be:
+  - Placed in secure bins labeled for shredding
+  - Picked up and destroyed by a contracted vendor that complies with HIPAA (1996)
+
+> ⚖️ Mishandling PHI is a serious HIPAA violation and can result in fines or disciplinary action.
+
+#### 🗑️ Reverse Distribution
 
 **Reverse distributors** are **DEA-registered third parties** authorized to handle the return and destruction of pharmaceuticals. They process:
 
