@@ -5,6 +5,15 @@ Prescriptions and medication orders are instructions from a licensed medical pra
 - **Medication Order**: A written or transcribed (verbal/telephone) order issued in an **inpatient** setting (e.g., hospital).
 - **Prescription**: A medication order written on a prescription blank to be filled in an **outpatient/ambulatory** setting.
 
+New prescriptions may be submitted by:
+
+- 📝 Handwritten forms (often for controlled substances)  
+- 📠 Faxed prescriptions  
+- ☎️ Verbal orders (received directly by the pharmacist; entered by technicians)  
+- 🧾 E-scripts through HIPAA-compliant Electronic Data Interchange (EDI)
+
+> 📠 For accuracy and improved record keeping, many pharmacies scan the prescription into the pharmacy dispensing system.
+
 ## 🗂️ Step 1: Check for Required Elements
 
 Before processing, the pharmacy technician must review prescriptions for completeness and authenticity.
