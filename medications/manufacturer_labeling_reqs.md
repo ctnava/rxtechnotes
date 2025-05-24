@@ -105,19 +105,31 @@ PPIs are FDA-regulated documents that must accompany specific drug classes. They
 
 > 📍 Many PPIs contain diagrams or step-by-step **patient instructions**, especially for complex dosage forms (e.g., vaginal rings, inhalers, patches).
 
-### 📰 Medication Guides (MedGuides)
+### 📋 Medication Guides (MedGuides)
 
-Medication Guides are **FDA-required documents** provided with certain prescription drugs that pose serious and significant health concerns. They must be **dispensed with each prescription** in community and outpatient settings **if any of the following criteria apply**:
+MedGuides are **FDA-required patient labeling** for outpatient prescription drugs that present serious and specific public health concerns. These are distinct from PPIs and are **drug-specific**, not class-based. A MedGuide **must be dispensed** if any of the following conditions apply:
 
-- The drug product could cause **serious adverse effects** that the patient should be aware of to mitigate risk.
-- The drug’s use is **serious enough that patient adherence is essential** to effectiveness.
-- The FDA determines labeling is necessary for safe and effective use.
+| Trigger | Description |
+|--------|-------------|
+| **Patient labeling could prevent serious adverse effects** | The drug has significant risks that could be avoided or reduced by patient understanding |
+| **Serious risks that could affect decision to use** | The drug has known dangers that might change a patient's willingness to begin or continue therapy |
+| **Adherence is crucial to effectiveness** | Incorrect use of the medication would result in ineffective treatment or increased risk |
 
-| MedGuide Required For | Examples |
-|-----------------------|----------|
-| Products with serious risk of adverse effects | NSAIDs (e.g. ibuprofen, naproxen), Antidepressants, Antipsychotics |
-| REMS drugs with patient information components | Isotretinoin, Clozapine, Suboxone |
-| Products where misuse can cause serious harm | Fentanyl patches, Quetiapine |
+> - 📍 If a MedGuide is required for a product, it must be dispensed **with each fill and refill** in the **outpatient setting**. They are not required for **inpatient settings** unless patient requests or drug is part of a REMS program.
+> - 🚨 Failure to provide a required MedGuide renders the drug **misbranded under federal law**, even if all other labeling is correct.
 
-> - 🛡️ Pharmacies must distribute MedGuides **every time the drug is dispensed**, unless inpatient settings meet the exemption criteria under 21 CFR §208.7(d).
-> - 📍 Always verify the most recent MedGuide version with the FDA [Medication Guide database](https://www.accessdata.fda.gov/scripts/cder/mg/index.cfm).
+📂 **Content Breakdown**
+
+| Section | What It Explains |
+|---------|------------------|
+| **What is the most important information I should know?** | Key risks and dangers |
+| **What is [Drug Name]?** | Description and indication |
+| **Who should not take [Drug]?** | Contraindications |
+| **How should I take [Drug]?** | Dosing, missed doses |
+| **What should I avoid?** | Drug/food/alcohol interactions |
+| **Possible side effects** | Sorted by severity |
+| **How do I store [Drug]?** | Storage and handling |
+| **General information** | Encourages patients to ask their pharmacist or doctor for more details |
+
+> - 🛡️ Always verify MedGuide availability in your pharmacy system. Most eRx platforms and label software include print flags for drugs that require them.
+> - 🛡️ Always verify the most recent MedGuide version with the FDA [Medication Guide database](https://www.accessdata.fda.gov/scripts/cder/mg/index.cfm).
