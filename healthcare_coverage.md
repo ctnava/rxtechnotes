@@ -90,7 +90,7 @@ Managed care plans are offered by insurers (public and private); structured to c
 
 Public health insurance refers to a system of healthcare coverage provided by government agencies, such as federal, state, or local governments. It aims to make healthcare accessible and affordable for individuals who may not be able to obtain private health insurance.
 
-🔗 See [Public Healthcare](./insurance/public_health_insurance.md) for more details.
+🔗 See [Public Healthcare](./misc/public_health_insurance.md) for more details.
 
 ## 💲 Reimbursement, Pricing, & Billing Models
 
