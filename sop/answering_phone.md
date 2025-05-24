@@ -1,4 +1,4 @@
-# 🛠️ Standard Operating Procedure: 📞 Answering Pharmacy Phone Calls
+# 🛠️ SOP -  📞 Answering Pharmacy Phone Calls
 
 ## Purpose
 

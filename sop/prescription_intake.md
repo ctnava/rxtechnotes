@@ -1,4 +1,4 @@
-# 🔁 SOP - Prescription Intake & Order Entry
+# 🛠️ SOP - Prescription Intake & Order Entry
 
 Prescriptions and medication orders are instructions from a licensed medical practitioner that authorize the provision of a drug or device to a patient.
 

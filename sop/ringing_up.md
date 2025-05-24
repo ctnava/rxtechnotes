@@ -1,4 +1,4 @@
-# 🛠️ Standard Operating Procedure: 🔔 Ringing Up Prescriptions
+# 🛠️ SOP - 🔔 Ringing Up Prescriptions
 
 ## Purpose
 

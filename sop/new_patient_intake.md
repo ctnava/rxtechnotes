@@ -1,4 +1,4 @@
-# 🔁 SOP - New Patient Intake
+# 🛠️ SOP - New Patient Intake
 
 ## 📜 Notification of Privacy Practices (NPP)
 

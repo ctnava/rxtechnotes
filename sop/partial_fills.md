@@ -1,4 +1,4 @@
-# 🔁 SOP - Partial Fills
+# 🛠️ SOP - 🧩 Partial Fills
 
 A **partial fill** occurs when the pharmacy dispenses **less than the full prescribed quantity** of a medication. This is typically due to **insufficient inventory**. The remainder is dispensed later once stock is available or as permitted by law.
 
