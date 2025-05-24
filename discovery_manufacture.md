@@ -5,7 +5,7 @@
 - **Adulteration**: Contamination or failure to meet specified purity and quality standards.
 - **Misbranding**: False, misleading, confusing, or incomplete labeling, or if the product is harmful when used as labeled.
 
-## Federal Legislation
+## 🦅 Federal Legislation
 
 The following are required reading for this chapter:
 
@@ -37,7 +37,7 @@ There exist two commercial categories of drugs:
 - **Brand Name Drugs**: Original drugs developed by pharmaceutical companies, protected by patents, and marketed under proprietary names
 - **Generic Drugs**: Copies of brand-name drugs that have the same active ingredients, strength, dosage form, and route of administration, but sold under generic chemical names or different brand names after the original patent expires
 
-## Drug Development, Manufacturing Authorization, Marketing, & Monitoring
+## 🧪 Drug Development, Manufacturing Authorization, Marketing, & Monitoring
 
 ### Brand Name Drug Development
 
