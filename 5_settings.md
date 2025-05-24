@@ -75,7 +75,7 @@ Pharmacy technicians are responsible for:
 - Verifying information for prescription processing and billing
 - Confirming **prescriber details** and known allergies
 
-##### 🔔 Ringing Up Prescriptions
+<!-- ##### 🔔 Ringing Up Prescriptions
 
 When a patient arrives to pick up a prescription, this is the final opportunity to verify information, ensure legal compliance, and offer pharmacist counseling.
 
@@ -100,7 +100,7 @@ When a patient arrives to pick up a prescription, this is the final opportunity 
      - Reviewed during pharmacy audits
      - 🧑‍⚕️ Offer to have the **pharmacist counsel** the patient, especially for new medications, changes in therapy, or if the patient appears confused. Make sure to document the outcome!
 
-> 🧾 Pharmacy Clerks may use the register or POS for OTC medications & Prescriptions. They may also check IDs.
+> 🧾 Pharmacy Clerks may use the register or POS for OTC medications & Prescriptions. They may also check IDs. -->
 
 #### ⚙️ Back-End
 
