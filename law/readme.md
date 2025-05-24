@@ -8,8 +8,8 @@
 
 | **Title** | **Notes** |
 |-----------|-----------|
-| Controlled Substances Act (CSA, 1970) | Classifies drugs into Schedules I–V based on abuse potential and medical use, regulating distribution. |
-| Combat Methamphetamine Epidemic Act (CMEA, 2005) | Regulates pseudoephedrine and related substances with sales limits and strict storage requirements. |
+| **Controlled Substances Act (CSA, 1970)** | Classifies drugs into Schedules I–V based on abuse potential and medical use, regulating distribution. |
+| **Combat Methamphetamine Epidemic Act (CMEA, 2005)** | Regulates pseudoephedrine and related substances with sales limits and strict storage requirements. |
 
 ---
 
@@ -64,4 +64,4 @@
 
 | **Title** | **Notes** |
 |-----------|-----------|
-| Occupational Safety & Health Act (OSHA, 1970) | Requires employers to provide PPE, training, and Safety Data Sheets (SDS) for hazardous substances. |
+| **Occupational Safety & Health Act (OSHA, 1970)** | Requires employers to provide PPE, training, and Safety Data Sheets (SDS) for hazardous substances. |
