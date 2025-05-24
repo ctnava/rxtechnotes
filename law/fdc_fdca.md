@@ -1,16 +1,18 @@
 # FDC, FDCA, & Amendments
 
-## The Pure Food, Drugs, & Cosmetics Act (FDC, 1906)
+## Pure Food & Drug Act (1906)
+
+`Foundations of the FDA`
 
 - **Upton Sinclair's The Jungle**: exposed unsanitary practices in the meatpacking industry; enacted in response.
 - **Purity Standards**: defined drugs based on the standards of the United States Pharmacopoeia and the National Formulary (USP-NF).
 - **Prohibitions on the Sale of Misbranded or Adultered Food & Drugs in Interstate Commerce**: products cannot be falsely labeled, and their ingredients could not be adulterated or substituted.
   - `Adulteration`: Contanimation or failure to meet purity & quality standards.
   - `Misbranding`: Including false, inaccurate, improper, or confusing labeling or if the product is harmful when used according to label directions.
-- **Ingredient Disclosure**: mandates that labels list the presence and amount of eleven specific dangerous ingredients, including alcohol, heroin, cocaine, morphine, and cannabis.
+- **Labeling Requirements**: mandates truthfulness & disclosure of the presence and amount of dangerous ingredients
 - **Origins of the FDA**: This act was enforced by the Bureau of Chemistry until the Food, Drug, & Insecticide Administration was formed in 1927 and rebranded as the FDA in 1930.
 
-## The Food, Drug, & Cosmetic Act (FDCA, 1938)
+## Food, Drug, & Cosmetic Act (FDCA, 1938)
 
 `Drugs must be proven SAFE & require PREMARKET APPROVAL`
 
