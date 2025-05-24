@@ -107,7 +107,7 @@ Pharmacies provision stock from state-licensed:
 
 > 🔐 `DEA Form 222` is required for ordering Schedule II drugs via CSOS.
 > 🦅x🔐 FDA and DEA registration is also required for controlled substances.
-> 🦅 See the 🔗 [PDMA](./law/abbreviated_federal_law_reference.md#prescription-drug-marketing-act-pdma-1987) for regulations on manufacturer & wholesaler activities.
+> 🦅 See the 🔗 [PDMA](./law/fda_fdca.md#prescription-drug-marketing-act-pdma-1987) for regulations on manufacturer & wholesaler activities.
 
 ### 🏭 Suppliers
 
@@ -125,7 +125,7 @@ Wholesalers create regional and national distribution networks, storing bulk pur
 
 ### 📦 Manufacturer Labels & Drug Identification
 
-Labels that are truthful, standardized, and easy for consumers to understand; ensuring transparency and the prevention of deceptive packaging (see the 🔗 [FPLA](./law/abbreviated_federal_law_reference.md#fair-packaging--labeling-act-fpla-1967)).
+Labels that are truthful, standardized, and easy for consumers to understand; ensuring transparency and the prevention of deceptive packaging (see the 🔗 [FPLA](./law/packaging_labeling.md#fair-packaging--labeling-act-fpla-1967)).
 
 Manufacturer labels include:
 
@@ -133,12 +133,12 @@ Manufacturer labels include:
 - The name and place of business of the manufacturer, packer, or distributor
 - Drug name, strength, & dosage form
 - Net quantity of contents
-- 🔗 [NDCs](./law/abbreviated_federal_law_reference.md#drug-listing-act-1972) (i.e. 11-digit, 3-segment identifier assigned to every marketed drug)
+- 🔗 [NDCs](./law/packaging_labeling.md#drug-listing-act-1972) (i.e. 11-digit, 3-segment identifier assigned to every marketed drug)
 - Manufacture & expiration dates
 - Batch/lot number
 - Barcodes
   - **Linear Barcodes (1D)** appear as stripes that can be read forward or backwards and encodes NDC. Used for stock checks.
-  - **Matrix Barcodes (2D)** appear as squares with black or white pixels; encoding NDC, batch, and expiration. Used in prescription filling to verify the correct product is being used. (Mandated by the 🔗 [DSCSA](./law/abbreviated_federal_law_reference.md#drug-supply-chain-security-act-dscsa-2013))
+  - **Matrix Barcodes (2D)** appear as squares with black or white pixels; encoding NDC, batch, and expiration. Used in prescription filling to verify the correct product is being used. (Mandated by the 🔗 [DSCSA](./law/packaging_labeling.md#-drug-supply-chain-security-act-dscsa-2013))
 - 🔐 DEA Schedule (if applicable)
 
 > 🛡️ The ISMP encourages the use of **Tall Man Lettering** to differentiate look-alike/sound-alike drugs  
