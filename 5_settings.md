@@ -20,6 +20,16 @@ Strong communication skills are essential in community pharmacy settings because
 
 ##### 📞 Picking up the Phone
 
+**Retail technicians are the first point of contact for most patients**. Professional demeanor, clear communication, and operational efficiency are critical for ensuring medication safety and customer satisfaction.
+
+- Listen actively and make eye contact  
+- Confirm understanding by repeating concerns  
+- Use a respectful, positive tone  
+- Refer to patients by name when possible  
+- Identify the pharmacy when answering the phone  
+- Always follow facility policies and procedures  
+- Refer all clinical questions to the pharmacist
+
 > 🧾 Pharmacy Clerks may answer general questions about store hours or services, and direct them to appropriate staff.
 
 Typically a front-end task, though back-end technicians may also assist. On the phone, pharmacy technicians may:
