@@ -199,15 +199,7 @@ Community pharmacies are divided into front-end and back-end areas, each serving
 
 ##### 🧾 Front-End
 
-The front-end is where patients interact directly with pharmacy staff. As a result, **retail technicians are the first point of contact for most patients**. Professional demeanor, clear communication, and operational efficiency are critical for ensuring medication safety and customer satisfaction.
-
-- Listen actively and make eye contact  
-- Confirm understanding by repeating concerns  
-- Use a respectful, positive tone  
-- Refer to patients by name when possible  
-- Identify the pharmacy when answering the phone  
-- Always follow facility policies and procedures  
-- Refer all clinical questions to the pharmacist
+The front-end is where patients interact directly with pharmacy staff.
 
 **Key Features:**
 
