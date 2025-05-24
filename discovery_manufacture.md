@@ -9,7 +9,7 @@
 
 The following are required reading for this chapter:
 
-- 🔗 **FDC, FDCA, & Amendments** (🔗 [Link](./law/fdc_fdca.md))
+- 🔗 **FDC, FDCA, & Amendments** (🔗 [Link](./law/fda_fdca.md))
 - 🔗 **Extended Packaging & Labeling Policy** (🔗 [Link](./law/packaging_labeling.md))
 
 ## 🏭 Manufacturing

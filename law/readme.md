@@ -13,7 +13,7 @@
 
 ---
 
-**FDC, FDCA, & Amendments** (🔗 [Link](./fdc_fdca.md))
+**Pure Food & Drug Act, FDCA, & Amendments** (🔗 [Link](./fda_fdca.md))
 
 | **Title** | **Notes** |
 |-----------|-----------|
@@ -30,7 +30,7 @@
 
 ---
 
-**Extended Packaging & Labeling Policy** (🔗 [Link](./fdc_fdca.md))
+**Extended Packaging & Labeling Policy** (🔗 [Link](./packaging_labeling.md))
 
 | **Title** | **Notes** |
 |-----------|-----------|
