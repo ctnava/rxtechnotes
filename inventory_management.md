@@ -37,12 +37,19 @@ Pharmacy inventory includes:
 - **Turnover Rate**  
   - How long inventory sits on the shelf before being used or sold  
   - 📌 **High turnover** = efficient inventory; **Low turnover** = potential waste or poor selection
-
 - **PAR Levels (Periodic Automatic Replenishment)**  
   - Minimum stock thresholds that trigger reorder  
   - Prevents stockouts and overstocking
 
-> 🛡️ Always report shortages to PIC or coordinator
+Pharmacy technicians help ensure the pharmacy is well-stocked without over-ordering.
+
+- Be familiar with **high-demand medications** (e.g., common antihypertensives) and ensure adequate inventory
+- **Low-demand items** do not require large quantities and may be special ordered when needed
+- Many pharmacies use **automated inventory systems**, but technicians may manually place orders for out-of-stock or special items
+- Communicate **shortages or backorders** to the pharmacist or supervisor
+
+> - 🛡️ Always report shortages to PIC or coordinator
+> - 🔄 Restocking should be proactive—anticipate needs based on trends and upcoming holidays or flu season.
 
 ### 🗃️ Inventory Systems
 
