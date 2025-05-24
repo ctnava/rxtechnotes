@@ -168,21 +168,17 @@ Some retail locations operate **on-site clinics** under models like **CVS Minute
 - Routine vaccinations (e.g., influenza, shingles, COVID-19)  
 - Health screenings (e.g., blood pressure, glucose, cholesterol)
 
-💼 **Pharmacy Technician Roles**:
+#### 💼 Technician Roles & Responsibilities
 
-- **Patient intake** and registration for clinic services  
 - Updating **electronic health records (EHRs)**  
+  - **Patient intake** and registration for clinic services  
+  - Insurance verification and billing support for clinical services
 - Coordinating follow-ups or external referrals  
 - Assisting with **vaccine preparation** and workflow management  
-- Insurance verification and billing support for clinical services
-
-🛡️ **Technician Responsibilities in the Retail Setting**:
-
+  - Administering vaccines (where permitted by state law and certification)
 - Prescription data entry, third-party adjudication, and label printing  
 - Filling and packaging prescriptions under pharmacist supervision  
-- Inventory control, expiration monitoring, and ordering  
-- Front-end support for OTC product recommendations (non-clinical)  
-- Administering vaccines (where permitted by state law and certification)
+- Inventory control, expiration monitoring, and ordering
 
 🦅x🐻 **Regulatory Oversight**:
 
@@ -197,7 +193,124 @@ Some retail locations operate **on-site clinics** under models like **CVS Minute
 - Manufacturer coupons, discount card programs (e.g., GoodRx), and prior authorization procedures  
 - Vaccine inventory tracking (e.g., VFC or state immunization registries)
 
-📍 **Retail technicians are the first point of contact for most patients**. Professional demeanor, clear communication, and operational efficiency are critical for ensuring medication safety and customer satisfaction.
+#### Community Pharmacy Layout
+
+Community pharmacies are divided into front-end and back-end areas, each serving specific functions.
+
+##### 🧾 Front-End
+
+The front-end is where patients interact directly with pharmacy staff. As a result, **retail technicians are the first point of contact for most patients**. Professional demeanor, clear communication, and operational efficiency are critical for ensuring medication safety and customer satisfaction.
+
+- Listen actively and make eye contact  
+- Confirm understanding by repeating concerns  
+- Use a respectful, positive tone  
+- Refer to patients by name when possible  
+- Identify the pharmacy when answering the phone  
+- Always follow facility policies and procedures  
+- Refer all clinical questions to the pharmacist
+
+**Key Features:**
+
+- **Transaction Windows**: Designated areas for drop-off and pickup of prescriptions.
+  - transaction windows must be positioned to ensure patient privacy.
+- **Prescription Pickup Bins/Shelves**: Storage for prescriptions awaiting pickup; alphabetized by last name.
+- **Point-of-Sale (POS)**: Technicians ring up prescriptions and over-the-counter items.
+
+###### 🛒 In-Store Counters
+
+- Some pharmacies have separate windows for **intake** and **dispensing**
+- Most include a private or semi-private area for **pharmacist consultation**
+- May also offer **self-service kiosks** or basic **health screening stations**
+
+###### 🚗 Drive-Thru
+
+Many chain pharmacies include a drive-thru window for patient convenience.
+
+**Drive-Thru Functions:**
+
+- 📤 Drop off new prescriptions  
+- 🆔 Provide insurance cards or ID  
+- 🔁 Return empty vials for refill  
+- 📦 Pick up filled prescriptions  
+- 💳 Pay via credit card or cash through a drawer  
+
+> ⚖️ **Combat Methamphetamine Epidemic Act (CMEA, 2005)**:  
+> Pseudoephedrine-containing products must be sold in face-to-face transactions.  
+> Drive-thru sales are allowed only if compliant with ID checks, logbook entry, and purchase limits.
+
+##### ⚙️ Back-End
+
+The back-end contains workspaces for filling, compounding, and storage.
+
+###### 🧮 Non-Compounded Prescription Area
+
+Used to prepare most prescriptions after grabbing them from **storage**. Occasionally, there are prescriptions for **OTC** drugs that may not be stocked in the immediate vicinity so technicians may be expected to venture into the greater store to retrieve them.
+
+> 🧹 Keep all counters and prescription prep areas **clean and clutter-free**. Periodically wipe down **counting trays, counters, and equipment** with **70% isopropyl alcohol**
+
+Prescription counters equipped with:
+
+- 🏷️ Prescription labels  
+- 📄 Patient Package Inserts (PPIs) and **Medication Guides (MedGuides)**  
+  - Provided as required by law for certain medications
+- ⚠️ Auxiliary warning stickers  
+  - Provide information on:
+    - Proper administration  
+    - Storage instructions  
+    - Potential side effects  
+    - Food and drug interactions  
+  - May be pre-printed or printed with the label
+- 🍶 Vials and child-resistant lids  
+- 🧪 Counting trays and spatulas  
+  - Technicians typically count by 5s
+- ⚖️ Pill counting scales  
+- 🤖 Automated pill counters  
+  - e.g., **Kirby Lester KL1**  
+    - Includes scan verification of NDC and prescription to reduce errors
+
+✅ All prescriptions are **checked by the pharmacist before moving to pickup** bins
+
+> ⚖️ **Poison Prevention Packaging Act (PPPA, 1970)**  
+> Requires most prescriptions to be dispensed in child-resistant packaging to reduce accidental poisoning.  
+> Patients may request **easy-open caps**, but this must be documented.  
+> Exemptions apply for certain medications (e.g., emergency meds, topical ointments, dose packs).
+
+###### 🤖 Automated Filling Machines
+
+Primarily found in mail-order or high-volume community pharmacies.
+
+Common systems include:
+
+- Kirby Lester **KL60** or **KL100**
+- **Parata Max**
+- **ScriptPro**
+- **RxMedic**
+
+📦 Features:
+
+- Integrate with inventory management systems  
+- Record each fill for auditing and verification  
+- Increase efficiency for repetitive or high-volume tasks  
+- ⚠️ Final product must still be **verified by the pharmacist**
+Automated Filling Machines
+
+###### 🧪 Compounding Area
+
+Used to prepare customized medications such as suspensions, ointments, and creams.
+
+> 🧹 Ensure the **compounding area** and sink are disinfected regularly and meet sanitary standards
+
+**Key Features:**
+
+- A dedicated sink for cleaning and preparation  
+- Clean workspace with the following tools:
+  - 🧫 Glass mortar & pestle  
+  - ⚖️ Prescription balance and metric weights  
+  - 🧪 Graduated cylinders  
+  - 🥄 Spatulas and ointment slab or parchment paper  
+  - 🧴 Funnels and stirring rods
+
+> 🔬 Some pharmacies include a **clean room** for preparing **Compounded Sterile Preparations (CSPs)**
 
 ### Compounding Pharmacies
 
