@@ -2,12 +2,12 @@
 
 ## 🏪 Community Pharmacies
 
-Community (or retail) pharmacy practice involves providing prescription and healthcare services directly to the public. Nearly two-thirds of all prescription medications are dispensed through community pharmacies, requiring a substantial portion of the nation's pharmacists and technicians to meet public demand.
+<!-- Community (or retail) pharmacy practice involves providing prescription and healthcare services directly to the public. Nearly two-thirds of all prescription medications are dispensed through community pharmacies, requiring a substantial portion of the nation's pharmacists and technicians to meet public demand.
 
 - 🧾 **Independent Pharmacies**: Individually owned and operated, often serving local communities with personalized service.
 - 🏬 **Chain Pharmacies**: National or regional pharmacy chains such as CVS or Walgreens.
 - 🛒 **Mass Merchandiser Pharmacies**: Large retail chains like Walmart, Target, or Costco that have in-store pharmacies.
-- 🥕 **Food Store Pharmacies**: Grocery chains such as Publix or Wegmans that include pharmacy departments.
+- 🥕 **Food Store Pharmacies**: Grocery chains such as Publix or Wegmans that include pharmacy departments. -->
 
 Strong communication skills are essential in community pharmacy settings because pharmacy technicians working here are the most exposed to patients.
 
@@ -21,7 +21,7 @@ Strong communication skills are essential in community pharmacy settings because
 - Always follow facility policies and procedures  
 - Refer all clinical questions to the pharmacist
 
-🏥 **Walk-In Clinics**
+<!-- 🏥 **Walk-In Clinics**
 
 Some pharmacy locations operate on-site clinics (e.g. CVS MinuteClinic or Walgreens Healthcare Clinic) staffed by:
 
@@ -39,15 +39,15 @@ Pharmacy technicians may assist with:
 
 - Patient intake and registration  
 - Electronic health record (EHR) entry  
-- Coordinating follow-up or referrals
+- Coordinating follow-up or referrals -->
 
 ### Community Pharmacy Layout & Duties
 
-Community pharmacies are divided into front-end and back-end areas, each serving specific functions.
+<!-- Community pharmacies are divided into front-end and back-end areas, each serving specific functions. -->
 
 #### 🧾 Front-End
 
-The front-end is where patients interact directly with pharmacy staff.
+<!-- The front-end is where patients interact directly with pharmacy staff.
 
 **Key Features:**
 
@@ -55,7 +55,7 @@ The front-end is where patients interact directly with pharmacy staff.
 - **Prescription Pickup Bins/Shelves**: Storage for prescriptions awaiting pickup; alphabetized by last name.
 - **Point-of-Sale (POS)**: Technicians ring up prescriptions and over-the-counter items.
 
-> ⚖️ Under HIPAA, transaction windows must be positioned to ensure patient privacy.
+> ⚖️ Under HIPAA, transaction windows must be positioned to ensure patient privacy. -->
 
 ##### 📞 Picking up the Phone
 
@@ -73,13 +73,13 @@ Typically a front-end task, though back-end technicians may also assist. On the 
 > ✅ Use at least two patient identifiers to confirm their identity.
 > 💌 Some large pharmacies send text messages to patients to communicate updates on prescriptions and their status. This information may also be available through their official smartphone apps.
 
-##### 🛒 In-Store Counters
+<!-- ##### 🛒 In-Store Counters
 
 - Some pharmacies have separate windows for **intake** and **dispensing**
 - Most include a private or semi-private area for **pharmacist consultation**
-- May also offer **self-service kiosks** or basic **health screening stations**
+- May also offer **self-service kiosks** or basic **health screening stations** -->
 
-##### 🚗 Drive-Thru
+<!-- ##### 🚗 Drive-Thru
 
 Many chain pharmacies include a drive-thru window for patient convenience.
 
@@ -93,7 +93,7 @@ Many chain pharmacies include a drive-thru window for patient convenience.
 
 > ⚖️ **Combat Methamphetamine Epidemic Act (CMEA, 2005)**:  
 > Pseudoephedrine-containing products must be sold in face-to-face transactions.  
-> Drive-thru sales are allowed only if compliant with ID checks, logbook entry, and purchase limits.
+> Drive-thru sales are allowed only if compliant with ID checks, logbook entry, and purchase limits. -->
 
 ##### 💻 Processing Prescriptions
 
@@ -153,9 +153,9 @@ When a patient arrives to pick up a prescription, this is the final opportunity 
 
 > 🧾 Pharmacy Clerks may use the register or POS for OTC medications & Prescriptions. They may also check IDs.
 
-#### ⚙️ Back-End
+<!-- #### ⚙️ Back-End -->
 
-The back-end contains workspaces for filling, compounding, and storage.
+<!-- The back-end contains workspaces for filling, compounding, and storage.
 
 ##### 🧮 Non-Compounded Prescription Area
 
@@ -188,9 +188,9 @@ Prescription counters equipped with:
 > ⚖️ **Poison Prevention Packaging Act (PPPA, 1970)**  
 > Requires most prescriptions to be dispensed in child-resistant packaging to reduce accidental poisoning.  
 > Patients may request **easy-open caps**, but this must be documented.  
-> Exemptions apply for certain medications (e.g., emergency meds, topical ointments, dose packs).
+> Exemptions apply for certain medications (e.g., emergency meds, topical ointments, dose packs). -->
 
-###### 🤖 Automated Filling Machines
+<!-- ###### 🤖 Automated Filling Machines
 
 Primarily found in mail-order or high-volume community pharmacies.
 
@@ -225,13 +225,13 @@ Used to prepare customized medications such as suspensions, ointments, and cream
   - 🥄 Spatulas and ointment slab or parchment paper  
   - 🧴 Funnels and stirring rods
 
-> 🔬 Some pharmacies include a **clean room** for preparing **Compounded Sterile Preparations (CSPs)**
+> 🔬 Some pharmacies include a **clean room** for preparing **Compounded Sterile Preparations (CSPs)** -->
 
 ##### 📦 Storage Area
 
-All medications and supplies in the pharmacy must be stored safely and systematically.
+<!-- All medications and supplies in the pharmacy must be stored safely and systematically. -->
 
-📦 **Receiving Orders**
+<!-- 📦 **Receiving Orders**
 
 When receiving an order, accuracy is essential. Technicians must:
 
@@ -242,9 +242,9 @@ When receiving an order, accuracy is essential. Technicians must:
 - Returning **damaged, expired, or incorrect** items
 - Reporting discrepancies to the **pharmacist or supplier**
 
-> ⚠️ C2 Medications are shipped separately from other drugs.
+> ⚠️ C2 Medications are shipped separately from other drugs. -->
 
-✅ **Best Practices for Stocking**
+<!-- ✅ **Best Practices for Stocking**
 
 - **FIFO (First In, First Out)**: Place **newer stock behind older stock** so that earlier-expiring medications are used first
 - **Rotate inventory** regularly and remove expired or nearly expired medications
@@ -254,16 +254,16 @@ When receiving an order, accuracy is essential. Technicians must:
 - Separate or flag **LASA (Look-Alike, Sound-Alike)** drugs using:
   - 🔠 **Tall Man lettering**
   - ⚠️ Colored warning labels
-- **Mylars**: Use special labels to identify **hazardous medications**
+- **Mylars**: Use special labels to identify **hazardous medications** -->
 
-📁 **General Organization**
+<!-- 📁 **General Organization**
 
 - 📚 Organized shelving, cabinets, or drawers
 - 🔐 C-II controlled substances must be kept in **locked storage**
 - 💊 C-III through C-V medications may be kept on open shelves
-- ❄️ Pharmacy refrigerators must be **drug-only** (no food or drink allowed)
+- ❄️ Pharmacy refrigerators must be **drug-only** (no food or drink allowed) -->
 
-🗂️ **Special Storage Areas**
+<!-- 🗂️ **Special Storage Areas**
 
 - **Fast Mover Shelf**:  
   - Holds high-demand drugs that account for most prescriptions  
@@ -278,9 +278,9 @@ When receiving an order, accuracy is essential. Technicians must:
   - *Not normally stocked by technicians*
   - There may be a shelf in the pharmacy for some OTC medications (like aspirin) that get frequently prescribed.
 
-> 🔍 Always check **Fast Mover** and **Unit of Use** shelves before placing medications on **ALPHA** shelves.
+> 🔍 Always check **Fast Mover** and **Unit of Use** shelves before placing medications on **ALPHA** shelves. -->
 
-🌡️ **USP Storage Temperature Guidelines**
+<!-- 🌡️ **USP Storage Temperature Guidelines**
 
 | Storage Type           | Temperature Range                   |
 |------------------------|-------------------------------------|
@@ -289,7 +289,7 @@ When receiving an order, accuracy is essential. Technicians must:
 | **Controlled Room Temp** | 20°C to 25°C (68°F to 77°F) |
 | **Excessive Heat** | > 40°C (> 104°F) |
 
-> *Temperatures should be monitored daily and recorded. Out-of-range readings must be reported immediately.*
+> *Temperatures should be monitored daily and recorded. Out-of-range readings must be reported immediately.* -->
 
 📦 **Inventory Ordering**
 

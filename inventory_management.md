@@ -171,7 +171,12 @@ Pharmacy technicians must:
 
 ## 📁 Storage
 
-Proper storage of medications ensures **potency, safety, and compliance** with federal and state regulations. Poor storage practices can lead to contamination, degradation, or diversion. Pharmacy technicians play a key role in maintaining clean, organized, and legally compliant storage environments.
+Proper storage of medications ensures **potency, safety, and compliance** with federal and state regulations. Poor storage practices can lead to contamination, degradation, or diversion. Pharmacy technicians play a key role in maintaining clean, organized, and legally compliant storage environments which typically looks like this:
+
+- 📚 Organized shelving, cabinets, or drawers
+- 🔐 C-II controlled substances must be kept in **locked storage**
+- 💊 C-III through C-V medications may be kept on open shelves
+- ❄️ Pharmacy refrigerators must be **drug-only** (no food or drink allowed)
 
 ### 🛡️ Best Practices
 
