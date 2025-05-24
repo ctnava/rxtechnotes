@@ -117,26 +117,32 @@ Drug manufacturers must label their products accurately and clearly to comply wi
 
 - 🔗 [Manufacturer Labeling Requirements for Prescription & OTC Drugs](./medications/manufacturer_labeling_reqs.md)
 
-## Distribution
+## 🚚 Distribution
 
-### Logistics
+### 🌐 Logistics
 
-When a new drug is brought to market, its distribution is handled by suppliers and wholesalers.
+When a new drug is brought to market, pharmacies provision its stock from state-licensed:
 
 - **Suppliers**: produce, label, and package drugs
 - **Wholesalers**: purchase drugs in bulk and then sell them to medical facilities
 
-#### Suppliers
+> 🔐 `DEA Form 222` is required for ordering Schedule II drugs via CSOS.
+> 🦅x🔐 FDA and DEA registration is also required for controlled substances.
+> 🦅 See the 🔗 [PDMA](./law/fda_fdca.md#prescription-drug-marketing-act-pdma-1987) for regulations on manufacturer & wholesaler activities.
+
+#### 🏭 Suppliers
 
 There are 3 main types of supplier: drug manufacturers, specialty pharmacies, and compounding pharmacies. All of them order raw materials or finished goods (like (in)active ingredients) to produce their goods. However, each one exists for a different scale of care.
 
 - **Drug Manufacturers** package medication in standard dosage forms for mass distribution
 - **Specialty Pharmacies** focus on providing high-cost, complex medications and specialized services to patients with chronic conditions
-- **Compounding Pharmacies** customize medications on a patient-specific basic, often mixing, combinging, or altering existing drugs to meet individual needs
+- **Compounding Pharmacies** customize medications on a patient-specific basis, often mixing, combining, or altering existing drugs to meet individual needs
 
-#### Wholesalers
+> 🦅 [340B](./law/healthcare.md#-public-health-service-act-phsa-1944-340b-in-1992) limits the cost safety-net providers, like medicaid, federally qualified health centers, and qualified hospitals paid for outpatient drugs through wholesalers.
 
-Wholesalers purchase drugs from manufactures in bulk and create wide distribution networks to ensure availability by storing their purchases in warehouses around the country so that deliveries can be made in 24-48 hours. They also drop ship lower-volume, high-cost medications on an as-needed basis.
+#### 🕸️ Wholesalers
+
+Wholesalers create regional and national distribution networks, storing bulk purchases in strategically placed warehouses to enable 24–48 hour delivery. They also drop ship lower-volume, high-cost medications on an as-needed basis.
 
 ## Public Safety & Recalls
 
