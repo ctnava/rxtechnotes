@@ -27,7 +27,7 @@ Pharmacy technicians are **healthcare professionals** who assist pharmacists wit
 - **Patient Records**: Collecting and entering patient data into pharmacy systems
 - **Inventory Management**: Monitoring stock and notifying pharmacists of shortages
 
-🔗 Continued Notes on [Pharmacy Technician Scope of Practice, Credentials, & Career](./misc/technician_career.md)
+🔗 Continued Notes on [Pharmacy Technician Scope of Practice, Credentials, & Career](./ref/technician_career.md)
 
 ### Pharmacist Interns
 
