@@ -123,26 +123,11 @@ There are 3 main types of supplier: drug manufacturers, specialty pharmacies, an
 
 Wholesalers create regional and national distribution networks, storing bulk purchases in strategically placed warehouses to enable 24–48 hour delivery. They also drop ship lower-volume, high-cost medications on an as-needed basis.
 
-### 📦 Manufacturer Labels & Drug Identification
+### 🏷️ Manufacturer Labels & Drug Identification
 
-Labels that are truthful, standardized, and easy for consumers to understand; ensuring transparency and the prevention of deceptive packaging (see the 🔗 [FPLA](./law/packaging_labeling.md#fair-packaging--labeling-act-fpla-1967)).
+Drug manufacturers must label their products accurately and clearly to comply with federal laws and ensure safe use by healthcare providers and patients. Labeling requirements are enforced primarily by the FDA under the FDCA and related legislation.
 
-Manufacturer labels include:
-
-- Manufacturer/distributor contact info
-- The name and place of business of the manufacturer, packer, or distributor
-- Drug name, strength, & dosage form
-- Net quantity of contents
-- 🔗 [NDCs](./law/packaging_labeling.md#drug-listing-act-1972) (i.e. 11-digit, 3-segment identifier assigned to every marketed drug)
-- Manufacture & expiration dates
-- Batch/lot number
-- Barcodes
-  - **Linear Barcodes (1D)** appear as stripes that can be read forward or backwards and encodes NDC. Used for stock checks.
-  - **Matrix Barcodes (2D)** appear as squares with black or white pixels; encoding NDC, batch, and expiration. Used in prescription filling to verify the correct product is being used. (Mandated by the 🔗 [DSCSA](./law/packaging_labeling.md#-drug-supply-chain-security-act-dscsa-2013))
-- 🔐 DEA Schedule (if applicable)
-
-> 🛡️ The ISMP encourages the use of **Tall Man Lettering** to differentiate look-alike/sound-alike drugs  
-> Example: `predniSONE` vs. `prednisoLONE`
+- 🔗 [Manufacturer Labeling Requirements for Prescription & OTC Drugs](./medications/manufacturer_labeling_reqs.md)
 
 ### 🖐 Receiving
 
