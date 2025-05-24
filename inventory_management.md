@@ -117,7 +117,7 @@ There are 3 main types of supplier: drug manufacturers, specialty pharmacies, an
 - **Specialty Pharmacies** focus on providing high-cost, complex medications and specialized services to patients with chronic conditions
 - **Compounding Pharmacies** customize medications on a patient-specific basis, often mixing, combining, or altering existing drugs to meet individual needs
 
-> 🦅 [340B](./law/abbreviated_federal_law_reference.md#340b-drug-pricing-program-340b-1992) limits the cost safety-net providers, like medicaid, federally qualified health centers, and qualified hospitals paid for outpatient drugs through wholesalers.
+> 🦅 [340B](./law/healthcare.md#-public-health-service-act-phsa-1944-340b-in-1992) limits the cost safety-net providers, like medicaid, federally qualified health centers, and qualified hospitals paid for outpatient drugs through wholesalers.
 
 ### 🚚 Wholesalers
 
