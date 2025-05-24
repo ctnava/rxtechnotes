@@ -123,12 +123,6 @@ There are 3 main types of supplier: drug manufacturers, specialty pharmacies, an
 
 Wholesalers create regional and national distribution networks, storing bulk purchases in strategically placed warehouses to enable 24–48 hour delivery. They also drop ship lower-volume, high-cost medications on an as-needed basis.
 
-### 🏷️ Manufacturer Labels & Drug Identification
-
-Drug manufacturers must label their products accurately and clearly to comply with federal laws and ensure safe use by healthcare providers and patients. Labeling requirements are enforced primarily by the FDA under the FDCA and related legislation.
-
-- 🔗 [Manufacturer Labeling Requirements for Prescription & OTC Drugs](./medications/manufacturer_labeling_reqs.md)
-
 ### 🖐 Receiving
 
 When receiving a shipment, **verify contents immediately and accurately** against the **Purchase Order (PO)** and invoice to ensure the correct items, quantities, and prices have been delivered.
