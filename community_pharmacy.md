@@ -24,6 +24,7 @@ These clinics offer minor acute care services such as:
 - Routine immunizations (e.g., flu shots)
 
 ---
+<!-- todo fix this -->
 
 Pharmacy technicians may assist with:
 

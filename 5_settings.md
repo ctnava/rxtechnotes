@@ -9,7 +9,7 @@
 - 🛒 **Mass Merchandiser Pharmacies**: Large retail chains like Walmart, Target, or Costco that have in-store pharmacies.
 - 🥕 **Food Store Pharmacies**: Grocery chains such as Publix or Wegmans that include pharmacy departments. -->
 
-Strong communication skills are essential in community pharmacy settings because pharmacy technicians working here are the most exposed to patients.
+<!-- Strong communication skills are essential in community pharmacy settings because pharmacy technicians working here are the most exposed to patients.
 
 ✅ Best practices:
 
@@ -19,7 +19,7 @@ Strong communication skills are essential in community pharmacy settings because
 - Refer to patients by name when possible  
 - Identify the pharmacy when answering the phone  
 - Always follow facility policies and procedures  
-- Refer all clinical questions to the pharmacist
+- Refer all clinical questions to the pharmacist -->
 
 <!-- 🏥 **Walk-In Clinics**
 
