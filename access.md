@@ -2,15 +2,75 @@
 
 ## Legal Designations
 
-- **The Durham-Humphrey Amendment** (🔗 [Link](./law/fda_fdca.md#durham-humphrey-amendment-1951))
-- **Controlled & Listed Substance Policy** (🔗 [Link](./law/csa_cmea.md))
+Federal and state law divide drugs into major categories based on how they may be distributed, their potential for abuse, and required labeling.
 
-- **Legend Drugs**: Medications that may not be dispensed to the public except on the order or *prescription* of a licensed prescriber. These "prescription" drugs require a federal *legend* to appear on the packaging that states: "Federal law prohibits dispensing this medication without a prescription" or "RX Only".
-  - **Controlled/ Scheduled Medications** are regulated by the DEA due to abuse potential and risk to overall safety.
-- **Over-the-Counter (OTC) Drugs**: Medications that may be sold without a prescription as long as they are appropriately labeled for home use.
-  - **Exempt Narcotics** are medications that contain habit forming ingredients that can be sold by a pharmacist without prescriptions to persons 18 years or older (e.g. cough syrups with small amounts of codeine)
-  - **Emergency Contraceptives** (e.g. Plan B One-Step) sometimes have dual marketing, with unique status as OTC & legend drugs at the same time. Depending on the state, a pharmacist may prescribe these on the spot to dispense to patients.
-  - **Listed Substances** are monitored drugs, equipment, and chemicals with ***strict, time based controls*** on sale due to their use in the **illicit manufacture of methamphetamine**; commonly found in cold and allergy medications.
+- 🔗 [The Durham-Humphrey Amendment](./law/fda_fdca.md#durham-humphrey-amendment-1951)
+- 🔗 [Controlled & Listed Substance Policy](./law/csa_cmea.md)
+
+### 💊 Legend Drugs
+
+Prescription-only medications authorized under the **Durham-Humphrey Amendment (1951)**. These drugs:
+
+- Must be dispensed **only** on the **written, electronic, or verbal order** of a licensed prescriber.
+- Require the **federal legend** on the manufacturer’s label:
+  > "Caution: Federal law prohibits dispensing without a prescription"  
+  or  
+  > "Rx Only"
+- Include:
+  - **Non-controlled prescription medications** (e.g. antibiotics, blood pressure drugs)
+  - **Controlled substances** (see below)
+
+#### 🔐 Controlled Substances
+
+- **Regulated by the DEA** under the **Controlled Substances Act (1970)**.
+- Categorized into **Schedules I-V** based on **abuse potential**, **medical use**, and **dependence risk**.
+- Subject to strict handling, labeling, inventory, and security requirements.
+- Dispensing often involves:
+  - 🐻 **CURES reporting** in California  
+  - 🦅 **ID verification** and limited refill authorizations  
+
+### 💸 Over-the-Counter (OTC) Drugs
+
+Medications that may be sold without a prescription as long as they are:
+
+- Properly labeled for **self-directed use**
+- Contain **adequate directions and warnings** for consumers
+- Considered **safe and effective** when used as directed
+
+Examples: `Acetaminophen, ibuprofen, diphenhydramine, loratadine`
+
+**Over-the-counter (OTC) drugs are not inherently safe** just because they don’t require a prescription. Many OTC medications can cause significant drug interactions, adverse effects, or even life-threatening complications; especially when combined with prescription drugs or taken incorrectly.
+
+When performing **medication reconciliation** (the process of gathering a patient’s full medication history), pharmacy technicians must:
+
+- **Ask about all OTC medications**, supplements, and herbal products
+- **Document** them in the patient’s profile
+- **Refer patients to the pharmacist** for counseling if any concerns arise
+
+🔗 [Considerations for OTC Analgesics](./medications/otc_analgesics.md)
+
+#### ⚠️ Subcategories and Exceptions
+
+- **Exempt Narcotics**:  
+  - Contain **habit-forming ingredients** (e.g. small amounts of codeine)
+  - May be sold **by a pharmacist** without a prescription to individuals **18+**
+  - Must be logged in a record book with ID verification and quantity tracking  
+  - 🐻 California restrictions may further limit or prohibit these sales
+- **Emergency Contraceptives**:  
+  - Example: `Plan B One-Step`
+  - Sold **OTC without age restrictions**
+  - May also be **prescribed or furnished** by a pharmacist per 🐻 California protocol
+  - Dual marketing as both **OTC and legend** allows flexible access depending on clinical situation
+- **Listed Substances**:  
+  - Products containing precursors to **methamphetamine** (e.g. pseudoephedrine, ephedrine)
+  - Require:
+    - ID verification
+    - Signature logbook
+    - Quantity limits (daily and 30-day)
+    - Locked display or behind-the-counter storage
+  - Monitored under the **Combat Methamphetamine Epidemic Act (2005)**  
+    - 🦅 Federal control  
+    - 🐻 California may impose stricter limits
 
 ## Orders & Prescriptions
 
@@ -20,3 +80,10 @@ Instructions from a medical practictioner, that authorizes the issue of a drug o
 - **Prescription**: medication order on a prescription blank to be filled in an *outpatient/ ambulatory* setting.
 
 ### Intake & Filling
+
+When a patient shows up to the pharmacy for the first time, they usually bring a prescription with them. In these instances, the technician must follow appropriate procedures for **New Patient Intake** before proceeding to **Prescription Intake & Order Entry**.
+
+🛠️ **Standard Operating Procedures**
+
+- 🔗 [New Patient Intake](./sop/new_patient_intake.md)
+- 🔗 [Prescription Intake & Order Entry](./sop/prescription_intake.md)
