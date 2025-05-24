@@ -37,17 +37,32 @@ Especially critical for:
 
 ## Public Health Service Act (PHSA, 1992)
 
-<!-- TODO fix this -->
+The **Public Health Service Act (PHSA)** is a foundational federal statute that governs public health and service delivery in the United States. Originally enacted in 1944 and heavily amended since, it authorizes and organizes federal public health and medical response capabilities, research funding, and service-based health programs.
 
-340B allows certain hospitals and other healthcare providers, known as "covered entities," to purchase outpatient drugs at discounted prices from pharmaceutical manufacturers. This program is intended to help "stretch scarce federal resources" and improve access to medications for vulnerable populations.
+- 🤯 **Title III – National Research Institutes (e.g., NIH, NCI)**  
+  Authorizes funding and oversight for medical research through the **National Institutes of Health (NIH)**. Supports the development of new therapies, clinical trials, and drug innovation—many of which later affect pharmacy practice via new drug approvals and REMS programs.
+- 🤯 **Title II – Communicable Disease Control**  
+  Grants authority to the CDC and other agencies to track, investigate, and respond to infectious disease outbreaks. Pharmacists and technicians may be involved in **emergency vaccine administration**, **drug stockpile deployment**, or **testing logistics** under this provision.
+- 🤯 **Title V – Health Services for Disadvantaged Populations**  
+  Supports maternal and child health programs, substance use disorder treatment, rural health initiatives, and minority health services—all of which may affect drug access, formulary design, and compliance protocols in ambulatory settings.
+- 📌 **Section 340B – Drug Pricing Program**: 340B allows certain hospitals and other healthcare providers, known as "covered entities," to purchase outpatient drugs at discounted prices from pharmaceutical manufacturers. This program is intended to help "stretch scarce federal resources" and improve access to medications for vulnerable populations.
 
 Covered entities include:
 
-- hospitals that receive financial assistance under the Public Health Service Act
-- certain federally qualified health centers (FQHCs)
-- other providers serving underserved populations
+- **Disproportionate Share Hospitals (DSHs)**
+- **Federally Qualified Health Centers (FQHCs)**
+- **Other providers serving underserved populations**
+  - Ryan White HIV/AIDS grantees
+  - Hemophilia treatment centers
+  - Title X family planning clinics
+  - Tribal and Urban Indian health organizations
+  - Certain children’s hospitals and critical access hospitals
 
 Manufacturers participating in the Medicaid program are required to offer discounted prices on covered outpatient drugs to participating 340B entities.
+
+> 🦅 Manufacturers **must** participate in 340B as a condition of their involvement in the **Medicaid Drug Rebate Program**.
+> .
+> 🛡️ Covered entities are **strictly prohibited** from diverting discounted drugs to ineligible patients and must avoid **duplicate discounts** (i.e., receiving both a Medicaid rebate and a 340B discount on the same drug).
 
 ## Medicare Modernization Act (MMA, 2003)
 
