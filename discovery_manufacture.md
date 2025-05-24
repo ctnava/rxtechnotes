@@ -111,13 +111,13 @@ Depending on the drug, a REMS program may include one or more of the following:
 
 > **Example**: The drug isotretinoin (Accutane), which can cause severe birth defects, is subject to a REMS program called iPLEDGE that requires prescribers, pharmacies, and patients to follow strict steps before dispensing or receiving the medication.
 
-## Distribution
-
 ### 🏷️ Labeling Requirements
 
 Drug manufacturers must label their products accurately and clearly to comply with federal laws and ensure safe use by healthcare providers and patients. Labeling requirements are enforced primarily by the FDA under the FDCA and related legislation.
 
 - 🔗 [Manufacturer Labeling Requirements for Prescription & OTC Drugs](./medications/manufacturer_labeling_reqs.md)
+
+## Distribution
 
 ### Logistics
 
