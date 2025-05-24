@@ -1,5 +1,11 @@
 # Healthcare Coverage, Services, & Billing
 
+## Federal Legislation
+
+The following are required reading for this chapter:
+
+- 🔗 **Healthcare Policy** (🔗 [Link](./law/healthcare.md))
+
 ## 😷 Healthcare Coverage
 
 Health insurance is a financial agreement where a person or employer pays a **monthly premium** to an insurance company. In exchange, the insurer helps cover medical and prescription costs when care is needed.
