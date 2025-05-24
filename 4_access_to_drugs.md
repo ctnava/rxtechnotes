@@ -4,14 +4,14 @@ This chapter covers how patients are authorized access to medications by prescri
 
 ## Designations
 
-The Durham-Humphrey Amendment amendment established two classes of drugs: *legend* & *over-the-counter* (OTC).
+<!-- The Durham-Humphrey Amendment amendment established two classes of drugs: *legend* & *over-the-counter* (OTC).
 
 - **Medication Orders**: a written request on a physician's order form OR a transcribed verbal/ telephone order in an *inpatient* setting.
 - **Prescription**: medication order on a prescription blank to be filled in an *outpatient/ ambulatory* setting.
 - **Legend**: Medications that may not be dispensed to the public except on the order or *prescription* of a licensed prescriber. These "prescription" drugs require a federal *legend* to appear on the packaging that states: "Federal law prohibits dispensing this medication without a prescription" or "RX Only".
 - **Over-the-Counter(OTC)**: Medications that may be sold without a prescription as long as they are appropriately labeled for home use.
   - **Exempt Narcotics** are medications that contain habit forming ingredients that can be sold by a pharmacist without prescriptions to persons 18 years or older (e.g. cough syrups with small amounts of codeine)
-  - **Emergency Contraceptives** (e.g. Plan B One-Step) sometimes have dual marketing, with unique status as OTC & legend drugs at the same time. Depending on the state, a pharmacist may prescribe these on the spot to dispense to patients.
+  - **Emergency Contraceptives** (e.g. Plan B One-Step) sometimes have dual marketing, with unique status as OTC & legend drugs at the same time. Depending on the state, a pharmacist may prescribe these on the spot to dispense to patients. -->
 
 ### ⚠️ Hidden Dangers of OTC Drugs
 
@@ -23,15 +23,15 @@ When performing **medication reconciliation** (the process of gathering a patien
 - **Document** them in the patient’s profile
 - **Refer patients to the pharmacist** for counseling if any concerns arise
 
-## 🔒 Controlled & Monitored Substances
+<!-- ## 🔒 Controlled & Monitored Substances
 
 The ***Controlled Substances Act (CSA, 1970)*** classifies five levels of controlled substances that have potential for abuse and therefore restricts their distribution. These five categories are called "schedules" and are determined based on potential for abuse, medical use, and risk to overall safety. Drugs placed in Schedules I–V are controlled substances and are subject to varying degrees of regulation regarding prescribing, dispensing, and recordkeeping.
 
-The ***Combat Methamphetamine Epidemic Act (CMEA, 2005)*** was enacted to combat the illegal production of methamphetamine by creating a list of monitored drugs, equipment, and chemicals while also placing ***strict, time based controls on over-the-counter (OTC)*** sales of ingredients that are commonly found in cold and allergy medications but can also be used in the **illicit manufacture of methamphetamine**. ([more information](./law/csa_cmea.md))
+The ***Combat Methamphetamine Epidemic Act (CMEA, 2005)*** was enacted to combat the illegal production of methamphetamine by creating a list of monitored drugs, equipment, and chemicals while also placing ***strict, time based controls on over-the-counter (OTC)*** sales of ingredients that are commonly found in cold and allergy medications but can also be used in the **illicit manufacture of methamphetamine**. ([more information](./law/csa_cmea.md)) -->
 
 ## Medication Orders & Prescriptions
 
-Prescriptions and medication orders are instructions from a medical practictioner that authorizes the issue of a drug or device to a patient.
+<!-- Prescriptions and medication orders are instructions from a medical practictioner that authorizes the issue of a drug or device to a patient. -->
 
 ### Intake & Entry
 
