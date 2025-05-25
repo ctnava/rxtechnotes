@@ -80,4 +80,8 @@
 ## Week 8: Terminology
 
 - [ ] Reading: Chapter 5 - Terminology
-- [ ] Managing Prior Authorizations
+- [ ] CE: Managing Prior Authorizations
+- [x] Understanding VAERS
+- [x] Physician Specialties
+- [ ] Math: Chapter 25 - Percents
+- [x] MedWatch Videos

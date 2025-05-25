@@ -148,6 +148,12 @@ Wholesalers create regional and national distribution networks, storing bulk pur
 
 While drug approval processes are thorough, it is impossible to account for everything. The FDA maintains reporting programs called **MedWatch** and the **Vaccine Adverse Event Reporting System (VAERS)** that allow anyone to report adverse effects that occur from the use of approved drugs or vaccines. If the FDA determines that any drug or vaccine poses a public health risk, then they may file an injunction to prevent distribution; seize the drug from the manufacturer; or issue a recall of the drug.
 
+### MedWatch Videos
+
+- 🔗 [MedWatch Minute - For Consumers](https://www.youtube.com/watch?v=Svx4i93cVCI)
+- 🔗 [MedWatch Minute - For Health Professionals](https://www.youtube.com/watch?v=s6LrPeXG7Fo)
+- 🔗 [MedWatch Tips & Tools (Janurary 2016)](https://www.youtube.com/watch?v=7b-fcRQ2Q7k)
+
 <!-- Todo: 🔗 Filing MedWatch & VAERS Complaints SOP Document Link -->
 
 > Recalls are the most cost-effective because they leverage the manufacturer's current infrastructure and knowledge to retrieve offending drugs. Shipping manifests are used to identify where a drug has been delivered in order to focus efforts on that area.
