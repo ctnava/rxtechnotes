@@ -74,3 +74,10 @@
 - [ ] CE: Medication Reconciliation
 - [ ] Math: Chapter 24 - Powder Drugs
 - [x] Drug Regulation & Control Video
+- [x] Medical Symbols
+- [x] Special Drugs see `i_medication_watchlist.md`
+
+## Week 8: Terminology
+
+- [ ] Reading: Chapter 5 - Terminology
+- [ ] Managing Prior Authorizations
