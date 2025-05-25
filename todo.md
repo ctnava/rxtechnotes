@@ -44,8 +44,8 @@
 
 ## Week 5: Rx Law & Processing
 
-- [x] DenaliRx Drugs 61-80
 - [x] Externship Study Guide
+- [x] DenaliRx Drugs 61-80
 - [ ] Reading: Chapter 7 - Prescriptions
 - [ ] Reading: Chapter 3 - Pharmacy Law, Regulations, & Ethics
 - [x] Prescription Intake Video & Quiz

@@ -78,8 +78,9 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 
 | Emoji | Abbreviation | Meaning          | ⚠️ |
 |-------|--------------|------------------|----|
-| 💊    | tab, T          | Tablet           |    |
-| ⚪    | cap, C          | Capsule          |    |
+| ⚪    | tab, T          | Tablet           |    |
+| ⏳    | EC          | Enteric Coated           |    |
+| 💊    | cap, C          | Capsule          |    |
 | 🕯️    | supp, SP         | Suppository      |    |
 | 🧪    | susp         | Suspension       |    |
 | 💧    | sol          | Solution         |    |
@@ -142,10 +143,17 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 | 📘    | UD, TUD       | Take As Directed          |    |
 | 📝    | Sig           | Directions for use        |    |
 | 🚫👄  | NPO           | Nothing by mouth          |    |
+| 🚫  | D/C            | Discontinue              |    |
+| ⛔🩺 | DUR            | Drug Utilization Review |    |
+| 🩸    | BS          | Blood Sugar       | |
+| 💩    | BM          | Bowel Movement       | |
 | 💊📜  | Rx            | Prescription              |    |
+| 📝📝  | Tx            | Treatment              |    |
 | 🤮  | Sx            | Symptoms              |    |
 | 📚  | Hx            | History              |    |
 | 🩺    | Dx            | Diagnosis                 |    |
+| 📅  | DoB            | Date of Birth              |    |
+| 😁  | NKA            | No Known Allergies              |    |
 | 🧑‍🤝‍🧑    | aa            | Of each (ana)             |    |
 | ⬆️    | ad            | To, up to                 |    |
 | ➕    | qs            | A sufficient quantity     |    |
@@ -155,6 +163,8 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 | ➖    | s̄, w/o        | Without/ With No          |    |
 | ➖    | ō             | Without / With No (archaic/Latin)  | ⚠️ (rare or ambiguous) |
 | ✅🩹 | AAA (RxConnect) | Apply to affected area   |    |
+| ⏳💨 | MDI | Metered Dose Inhaler |    |
+| 💉 | TPN | Total Parenteral Nutrition |    |
 
 ### 🧾 PRN or Indications (RxConnect)
 
@@ -172,6 +182,8 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 | 🤒    | PIT          | For itch                |
 | 🫁    | SOB          | For shortness of breath |
 | 💓    | HTN          | For hypertension        |
+| 💗    | CHF          | Congenital Heart Failure        |
+| 🩸    | DM          | Diabetes Mellitus       |
 
 ### 💼 Common Medication-Specific SIG Codes (RxConnect)
 
