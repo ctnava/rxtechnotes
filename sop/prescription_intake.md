@@ -114,41 +114,17 @@ Technicians are responsible for flagging suspicious prescriptions before process
 
 > ⚠️ **Always validate DEA numbers for controlled substances**. Use automated tools or manual checksum methods.
 
-🔗 ([DEA Number Verification](../math/i_dea_numbers.md))
+🔗 ([DEA Number Verification](../math/dea_numbers.md))
 
 ## ✍️ Step 3: Translating the Signa (Sig)
 
-Technicians must accurately convert prescriber shorthand into full instructions.
+The signa (the "sig") can be best described as `instructions for use` is almost always heavily abbreviated and pharmacy techs are often required to transcribe them for computer entry.
 
-### ✅ Required Elements in Sig
-
-- Action Verb (e.g. Take, Apply, Inject)
-- Dose and Dosage Form
-- Route of Administration
-  - Site of Administration (for hospitals)
-- Frequency & Duration of Use
-- Timing (e.g., with meals, at bedtime)
-
-**Example**:  
-`℞ i tab po bid pc #30` →  
-`Take 1 tablet by mouth twice daily after meals`
-
-> ⚠️ **Errors in sig translation can cause incorrect dosing or days supply. Confirm unclear abbreviations with a pharmacist.**
-
-🔗 ([Abbreviation Reference Table](../ref/sig_translation.md))
+🔗 ([Sig Translation Guide](../ref/sig_translation.md))
 
 ## 📱 Step 4: Calculating Days Supply
 
 The Days Supply refers to how long a prescription will last based on the quantity dispensed and the prescribed dosing instructions. This is used by insurers to determine refill eligibility during adjudication.
-
-**Formula**:  
-`Days Supply = Quantity Dispensed / Daily Allowance of Medication`
-
-**Rules:**
-
-- Round **down** to the nearest whole day
-- Days supply should be calculated based on **maximum daily usage**
-- Consider split dosing and package-size limitations (e.g., inhalers, patches)
 
 🔗 ([Days Supply Calculation Guide](../math/days_supply.md))
 

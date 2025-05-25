@@ -79,7 +79,7 @@ Instructions from a medical practictioner, that authorizes the issue of a drug o
 - **Medication Orders**: a written request on a physician's order form OR a transcribed verbal/ telephone order in an *inpatient* setting.
 - **Prescription**: medication order on a prescription blank to be filled in an *outpatient/ ambulatory* setting.
 
-### Intake & Filling
+### Intake & Entry
 
 When a patient shows up to the pharmacy for the first time, they usually bring a prescription with them. In these instances, the technician must follow appropriate procedures for **New Patient Intake** before proceeding to **Prescription Intake & Order Entry**.
 
@@ -87,3 +87,30 @@ When a patient shows up to the pharmacy for the first time, they usually bring a
 
 - 🔗 [New Patient Intake](./sop/new_patient_intake.md)
 - 🔗 [Prescription Intake & Order Entry](./sop/prescription_intake.md)
+
+### 🔄 Refills & Renewal Requests
+
+Each prescription is assigned a **prescription number**, which stays the same for all refills. The number of authorized refills is written by the prescriber and usually printed on the **prescription label**. If a doctor authorizes multiple refills (often written as ‘Refills: 3’ or ‘Refills: PRN’), they are valid for **up to 1 year** from the date the prescription was written, **except for controlled substances**, which have stricter limits.
+
+Refills can be requested:
+
+- 📱 Via smartphone apps  
+- 💻 Through pharmacy websites  
+- 🤝 In person  
+- ☎️ Over the phone
+
+When a prescription has no refills or is expired, the technician is requesting a new prescription, not a ‘refill’ in the legal sense. **Pharmacy technicians** may be authorized to contact the prescriber **on behalf of the patient** to request a new prescription.
+
+🔗 [Prescription Intake & Order Entry](./sop/refill_renewal_request.md)
+
+### Filling
+
+### Prescription Transfers
+
+Prescriptions may be transferred to another pharmacy at the request of a patient. State laws vary when it comes to different classes of drugs. Technicians may pull up the relevant records for transfer, however the pharmacist is responsible for the actual act of sending or receiving prescriptions.
+
+Protocol:
+
+1. Patient calls the pharmacy that will receive a prescription to request transfer
+2. Technician collects the name and contact information of, both, the patient and pharmacy that has the prescription
+3. Technician delivers the information to the pharmacist that calls the other pharmacy to initiate transfer

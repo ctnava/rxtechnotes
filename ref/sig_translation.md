@@ -1,20 +1,21 @@
 # 📘 Translating the Signa
 
-The signa (the "sig") is almost always heavily abbreviated and pharmacy techs are often required to transcribe them for computer entry. It is important to make sure to do this accurately as this directly affects calculations for days supply. Transcription errors during this phase can lead to potentially fatal administration errors.
+The signa (the "sig") can be best described as `instructions for use` is almost always heavily abbreviated and pharmacy techs are often required to transcribe them for computer entry.
 
-At a minimum, these sigs require the following to be considered complete:
+> ⚠️ **Errors in sig translation can cause incorrect dosing or days supply. Confirm unclear abbreviations with a pharmacist.**
 
-- Verb
-- Dosage Amount
-- Dosage Form
+## ✅ Required Elements in Sig
+
+- Action Verb (e.g. Take, Apply, Inject)
+- Dose and Dosage Form
 - Route of Administration
   - Site of Administration (for hospitals)
-- Frequency
-- Timing
+- Frequency & Duration of Use
+- Timing (e.g., with meals, at bedtime)
 
-example:
-`℞ i tab po bid pc #XXX`
-`Take 1 tablet by mouth twice a day after meals (Quantity 30)`
+**Example**:  
+`℞ i tab po bid pc #30` →  
+`Take 1 tablet by mouth twice daily after meals`
 
 ## Common Verbs & Associated Dosage Forms by Route
 
