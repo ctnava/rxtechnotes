@@ -167,5 +167,5 @@ We will convert 1 gallon to milliliters by **chaining units**, canceling each on
 <!-- 
 ## Reference
 
-Pharmacy Calculations, 6e; Morton Publishing | Chapter 8 & 10
+Pharmacy Calculations, 6e; Morton Publishing | Chapter 8
 -->
