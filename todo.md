@@ -83,7 +83,7 @@
 - [ ] CE: Managing Prior Authorizations
 - [x] Understanding VAERS
 - [x] Physician Specialties
-- [ ] Math: Chapter 25 - Percents
+- [x] Math: Chapter 25 - Percents
 - [x] MedWatch Videos
 
 ## Week 9: Biopharm & Customer Service
@@ -91,7 +91,7 @@
 - [ ] DenaliRx Drugs 101-120
 - [ ] Reading: Chapter 11 - Biopharmaceutics
 - [ ] Grapefruit Interactions
-- [ ] Math: Chapter 27 - Body Weight Calculations
+- [x] Math: Chapter 27 - Body Weight Calculations
 
 ## Week 10: Drug Activity
 
@@ -99,7 +99,7 @@
 - [ ] Math: Chapter 26 - Ratio Math
 - [ ] Reading: Chapter 12 - Factors Affecting Drug Activity
 - [x] CE: Vaccines
-- [ ] Math: Young & Clark's Rule
+- [x] Math: Young & Clark's Rule
 
 ---
 

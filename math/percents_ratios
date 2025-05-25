@@ -1,0 +1,66 @@
+# 🧮 Percents & Ratios
+
+## 💯 Percent Strength
+
+**Percent strength** is a common way to express the concentration of a solution in pharmacy. Understanding how to calculate, interpret, and manipulate percentages is essential for compounding, dilutions, and preparing medications accurately.
+
+| Term | Definition |
+|------|------------|
+| **Percent Strength (% w/v)** | Number of grams of solute in 100 mL of solution. Most common in pharmacy. |
+| **% w/v** | Weight in volume (grams per 100 mL) — used for solids dissolved in liquids. |
+| **% v/v** | Volume in volume (mL per 100 mL) — used for liquids in liquids. |
+| **% w/w** | Weight in weight (grams per 100 g) — used for ointments or creams. |
+
+> 🚨 Unless otherwise specified, % strength refers to % w/v in pharmacy practice.
+
+### 🧪 Example 1: Determine Percent Strength from Ingredients and Volume
+
+**Question**: What is the % strength of a solution made by dissolving 12 g of NaCl in enough water to make 400 mL of solution?
+
+| Step | Math |
+|------|------|
+| 1: Use formula | ${\%\ \text{w/v} = \frac{\text{g of solute}}{\text{mL of solution}} \times 100}$ |
+| 2: Plug in values | ${\frac{\text{12 g}}{\text{400 mL}} \times 100 = \boxed{3\%}}$ |
+| ✅ Final Answer | The solution is **3% NaCl**. |
+
+### 🧪 Example 2: Calculate Volume from Weight and Percent Strength
+
+**Question**: How much solution can be prepared from 10 g of salicylic acid to make a 2% solution?
+
+| Step | Math |
+|------|------|
+| 1: Use the formula | ${\%\ \text{w/v} = \frac{\text{g of solute}}{100\ \text{mL}}}$ |
+| 2: Use the definition | ${2\% = \frac{\text{2 grams}}{\text{100 mL}}}$ |
+| 3: Set up proportion | ${\frac{\text{2 grams}}{\text{100 mL}} = \frac{\text{10 grams}}{\text{x mL}}}$ |
+| 4: Rearrange to solve for volume | ${\text{x mL} = \frac{\text{10 grams} \times \text{100 mL}}{\text{2 grams}} = \boxed{500\ \text{mL}}}$  |
+| ✅ Final Answer | You can prepare **500 mL** of a 2% salicylic acid solution from 10 g of the drug. |
+
+### 🧪 Example 3: Calculate Amount of Drug in Volume of Solution
+
+**Question**: How many grams of boric acid are in 180 mL of a 4% solution?
+
+| Step | Math |
+|------|------|
+| 1: Use the formula | ${\%\ \text{w/v} = \frac{\text{g of solute}}{100\ \text{mL}}}$ |
+| 2: Use the definition | ${4\% = \frac{\text{4 grams}}{\text{100 mL}}}$ |
+| 3: Set up proportion | ${\frac{\text{4 grams}}{\text{100 mL}} = \frac{\text{x grams}}{\text{180 mL}}}$ |
+| 4: Rearrange to solve for mass | ${\text{x grams} = \frac{\text{4 grams} \times \text{180 mL}}{\text{100 mL}} = \boxed{7.2\ \text{g}}}$ |
+| ✅ Final Answer | The 180 mL contains **7.2 g** of boric acid. |
+
+### Example 4: Calculate How Much of a Concentrated Solution is Needed
+
+Question: How much of a 25% stock solution is required to prepare 200 mL of a 5% solution?
+
+| Step | Math |
+|------|------|
+| 1: Interpret 5% target | ${5\% = \frac{\text{5 grams}}{\text{100 mL}}}$ |
+| 2: Determine how much drug is found in 200 mL | ${\frac{\text{5 grams}}{\text{100 mL}} = \frac{x\ \text{g}}{200\ \text{mL}} \Rightarrow \text{x grams} = \frac{\text{5 grams} \times \text{200 mL}}{\text{100 mL}} = \boxed{10\ \text{g}}}$  |
+| 3: Interpret 25% stock | ${25\% = \frac{\text{25 grams}}{\text{100 mL}}}$ |
+| 4: Set up proportion to find how much of the stock contains 10 g | ${\frac{25\ \text{g}}{100\ \text{mL}} = \frac{\text{10 grams}}{\text{x mL}} \Rightarrow \text{x mL} = \frac{\text{10 grams} \times \text{100 mL}}{\text{25 grams}} = \boxed{40\ \text{mL}}}$ |
+| ✅ Final Answer | Use **40 mL** of 25% stock solution and add **160 mL** of diluent to make 200 mL of 5% solution. |
+
+<!-- 
+## Reference
+
+Pharmacy Calculations, 6e; Morton Publishing | Chapter 25
+-->
