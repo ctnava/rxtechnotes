@@ -1,63 +1,120 @@
 # Health Information Privacy
 
-## The Health Information Portability & Accountability Act (HIPAA, 1996)
+## Health Information Portability & Accountability Act (HIPAA, 1996)
 
-HIPAA was designed to protect people’s access to health insurance in the event that they changed jobs or have pre-existing health conditions. It has been expanded to:
+<!-- Regulating how Covered Entities handle Protected Health Information (PHI) -->
 
-- Alleviate the cost and administrative burdens of healthcare transactions placed on the consumer
-- Define standards and requirements to protect the privacy & security of Protected Health Information for individuals
+HIPAA was originally enacted to protect individuals' access to health insurance when changing jobs or living with pre-existing conditions. It has since evolved into a broad federal standard for the protection of **Protected Health Information (PHI)** and governs how healthcare providers, insurers, and other entities handle patient information.
 
-It protects patient privacy by regulating how **Covered Entities** handle **Protected Health Information (PHI)**. It is a large statute that primarily concerns the continuation of health insurance coverage for workers who leave their jobs. UAll personnel that have access to PHI must be formally trained periodically on HIPAA regulations to stay up to date and there must be a designated privacy officer appointed on duty.
+### 🔑 Primary Objectives
 
-- **Covered Entities**: Individuals or organizations that are subject to HIPAA regulations because they handle protected health information (PHI) in connection with standard electronic transactions. Covered entities include:
-  - **Health Plans**: Insurance companies, HMOs, Medicare, Medicaid
-  - **Healthcare Providers**: Doctors, clinics, pharmacies, hospitals, and other licensed providers who transmit health data electronically
-  - **Healthcare Clearinghouses**: Entities that process or facilitate the processing of nonstandard health information into a standard format
-- **Protected Health Information (PHI)**: Any information (oral, written, or electronic) that can be used to identify a patient and that relates to the individual’s past, present, or future physical or mental health or condition, the provision of healthcare, or payment for healthcare. PHI is protected under HIPAA and must be kept confidential by all Covered Entities and Business Associates. Under HIPAA, this information must be safeguarded through administrative, physical, and technical controls, and can only be disclosed with patient authorization or for certain permitted purposes such as treatment, payment, or healthcare operations.
-  PHI includes but is not limited to:
-  - **Spoken Word (Verbal)**: Conversations between healthcare providers or with patients
-  - **Personal identifiers**: Name, address, birthdate, Social Security Number
-  - **Medical records (Written)**: Notes, Diagnoses, treatment plans, lab results, prescriptions, faxes received
-  - **Billing information**: Insurance details, account numbers, claims
-  - **Electronic Health Records (EHRs)** and any digital communication containing identifiable health information
-  - **Other Electronic (ePHI)**: Emails, EHRs, text messages, or files stored on computers or mobile devices
-- **Disclosure Protocol**: In most cases, disclosure of PHI requires explicit patient authorization that is typically handled via a Release of Information (ROI) request form.
-  - **Minimum Necessary Information**: The idea that disclosures of PHI should be minimized, despite authorization to do so, in order to execute services. Keeping disclosures on a “need to know” basis and gathering the minimum amount of data on the patient is key to protecting individual healthcare privacy.
-  - **NPP (Notice of Privacy Practices)**: Outlines how patient info is used and protected; patients must sign acknowledgment, retained for 6 years from the date of creation or last date in effect (whichever is later) and usually means from the last date of service.
-  - **NPI (National Provider Identifier)**: 10-digit number assigned to healthcare providers for standardized identification. Each covered entity may receive only one unique NPI, similar to a person's Social Security Number (SSN), and must be used for all standard transactions covered by HIPAA.
-- **Security Rule**: Covered entities must implement safeguards for secure transmission, storage, & receipt of PHI in the following categories:
-  - Administrative - This includes proper design of Standard Operating Procedures (SOPs) for employees to follow at work.
-  - Technical - This includes cybersecurity protocols & digital hygiene
-  - Physical - This includes knowing “who belongs where and when”
+- Maintain continuity of health insurance coverage
+- Standardize electronic health transactions
+- Reduce administrative fraud and burden on consumers
+- Protect patient health information from misuse, theft, or inappropriate disclosure
 
-> 📌 Being in contact with PHI means that you are now governed under HIPAA
+> 📌 HIPAA is enforced by the U.S. Department of Health and Human Services (HHS), primarily through the **Office for Civil Rights (OCR)**.
 
-Under HIPAA pharmacy staff cannot disclose any PHI to anyone other than the patient, this includes not disclosing to spouses and relatives unless the patient has given express consent.
+### 🔗 Covered Entities
 
-### Pharmacy HIPAA Requirements
+**Covered Entities** are subject to HIPAA because they transmit health information (*in any form*) in connection with standard transactions. They include:
 
-- Must train staff on HIPAA regulations and update training periodically
-- Dispose of PHI in accordance with laws
-- Appoint a designated privacy officer
-- Inform patients of their privacy rights and how the pharmacy handles information
-- Provide patients with PHI records if requested
+- **Healthcare Providers**: Physicians, clinics, hospitals, pharmacists, pharmacies
+- **Health Plans**: Insurers, employer-sponsored plans, HMOs, Medicare, Medicaid
+- **Healthcare Clearinghouses**: Third parties that process nonstandard data into standard formats
 
-### Restrictions, Violations, & Penalties
+> 🛡️ Business Associates (e.g. billing services, IT contractors) are regulated under HITECH.
 
-Under HIPAA, medical personnel cannot disclose any PHI to anyone other than the patient unless the patient has given express consent, including spouses & relatives. One such form of consent is a Release of Information form that is typically used to transfer PHI to another healthcare facility or to receive for their personal use. This includes accessing your own records without following proper protocol.
+### 🕵️‍♀️ Protected Health Information (PHI)
 
-HIPAA violations (e.g., improper disclosure of PHI) must be reported to the **Office for Civil Rights** at the U.S. Dept. of Health and Human Services:
+PHI refers to any information, in any form, that can identify a patient and relates to their health status (*past, present, or future*), healthcare services, or payment. This includes:
 
-- Within **60 days** of discovery if the breach affects **500 or more** people
-- Annually (within 60 days of year-end) for smaller breaches
+- **Verbal**: oral communications or information (e.g. conversations about care or billing)
+- **Paper Documents**: written communications or information (e.g. Charts, faxes, prescriptions, printouts)
+- **Electronic (ePHI)**: digital communications or information (e.g. Emails, EHRs, cloud storage, mobile devices)
+- **Identifiers**: in any form (e.g. Name, DOB, address, SSN, MRN, phone number, photographs)
 
-Patients have the right to obtain a copy of their healthcare records. If a patient asks for their records, you have 30 days to comply.
+> 🚨 PHI remains protected **50 years after death** unless an exception applies.
 
-Offenses carried out with the intent to sell, transfer, or use the information for commercial advantage, personal gain or malicious harm can result in fines up to $250,000, imprisonment for up to 10 years, or both.
+### 🔓 HIPAA Privacy Rule
 
-Violations due to reasonable cause and not willfull neglect can result in $1,000 to $50,000 fines.
+- **Notice of Privacy Practices (NPP)**:
+  - Informs patients of their rights and how PHI is used
+  - Patients must acknowledge receipt
+  - Retention: 6 years from date of signature or last effective date.
+- **Disclosure Protocol**: PHI may only be used or disclosed for treatment, payment, and healthcare operations (TPO) without patient authorization.
+- **Minimum Necessary Rule**: Disclose only the least amount of PHI required for the purpose; keeping disclosures on a “need to know” basis and gathering the minimum amount of data.
+- **Authorization Required**: For marketing, research, or sharing with third parties not involved in TPO.
+- **National Provider Identifier**: A 10-digit, unique ID assigned to each covered provider. Required on all HIPAA-compliant transactions.
 
-> **NOTE** HIPAA allows the sharing of PHI under emergency situations such as natural disasters where people may be evacuated and require healthcare. Notice of disclosures still need to be delivered as soon as reasonably practicable after the emergency.
+#### 🧾 Release of Information (ROI)
+
+Patient authorization for PHI disclosure must be documented via a **valid ROI form**. Valid authorization includes:
+
+- Specific description of the information
+- Name of recipient
+- Expiration date or event
+- Signature and date
+
+> 📌 Typically used to transfer PHI to another healthcare facility or patient personal use
+
+### 🛡️ HIPAA Security Rule
+
+Applies specifically to **ePHI** and mandates layered safeguards:
+
+- **Administrative**: Employ written policies, SOPs, training, & security officers.
+- **Technical**: Includes cybersecurity protocols & digital hygiene; access controls, audit logs, encryption.
+- **Physical**: Know “who belongs where and when” and keeping PHI in locked file cabinets. Access is gatekept by badges and keeping workstations secure.
+
+> 📌 HIPAA requires **role-based access** to PHI. Personnel must have access only to what they need to do their job.
+
+### 💊 Pharmacy-Specific HIPAA Requirements
+
+Pharmacies must:
+
+- Train staff on HIPAA at regular intervals
+- Post and offer patients a Notice of Privacy Practices
+- Provide access to PHI upon request (within 30 days)
+- Appoint a **Privacy Officer** and maintain written policies
+- Shred, de-identify, or securely dispose of all PHI
+- Prevent unauthorized verbal disclosure (including casual conversations)
+
+> 🚨 HIPAA prohibits disclosure of PHI to family or spouses without patient authorization. Exception: if the patient is present and does not object, or if professional judgment determines it is in the patient's best interest.
+
+### ⚠️ Violations & Penalties
+
+#### 🛑 Common Violations
+
+- Sharing PHI (e.g. with spouses and relatives) without **express consent** from the patient
+- Discussing PHI in public areas (i.e. **gossip**)
+- Accessing a patient’s chart without a valid reason
+- Disposing of printed PHI in regular trash
+- Failing to encrypt portable devices
+
+> - 📌 Being in contact with PHI means that you are now governed under HIPAA
+> - 🚨 While not *technically* a violation, accessing your own records without following proper protocol is considered bad practice
+
+#### 📅 Breach Notification Rule
+
+- **≥ 500 affected**: Notify OCR, affected individuals, and local media within **60 days**
+- **< 500 affected**: Log and report to OCR **annually**
+
+#### 💸 Civil & Criminal Penalties
+
+| Violation Type | Penalty |
+|----------------|---------|
+| Unknowing | $100 to $50,000 per violation |
+| Reasonable Cause | $1,000 to $50,000 |
+| Willful Neglect (Corrected) | $10,000 to $50,000 |
+| Willful Neglect (Uncorrected) | Minimum $50,000 |
+| Knowingly misusing PHI | Up to $250,000 + up to 10 years in prison |
+
+> ✅ Penalties are based on **harm caused**, **intent**, and **effort to correct** the violation.
+
+#### 🚨 Special Situations
+
+- **Emergencies & Disasters**: PHI may be shared for care coordination, family notification, and to reduce risk, but must still follow the “minimum necessary” standard. Privacy notices must be delivered as soon as practical.
+- **Incidental Disclosures**: Not a violation if reasonable safeguards are in place (e.g., overheard info at a pharmacy counter with barriers).
 
 ### Supplemental Information
 
@@ -65,10 +122,13 @@ Violations due to reasonable cause and not willfull neglect can result in $1,000
 - 🔗 VIDEO | [HIPAA Training: What is Required for Compliance](https://www.youtube.com/watch?v=CXGDq7IHgSQ)
 - 🔗 HANDBOOK | [HIPAA Survival Guide](../ref/hipaa_survival_guide.pdf)
 
-## The Health Information Technology for Economic & Clinical Health Act (HITECH, 2009)
+## Health Information Technology for Economic & Clinical Health Act (HITECH, 2009)
 
-- Expands HIPAA: includes **business associates** as regulated parties.
-- Promotes the use of electronic health records (EHR) and **meaningful use** standards for health information technology infrastructure (e.g. electronic prescribing)
-- Enforces secure **electronic data interchange (EDI)** for claims, billing, and patient data for HIPAA compliance
+<!-- Amends HIPAA -->
 
-> ✅ HITECH strengthens enforcement and increases penalties for noncompliance.
+- Expands HIPAA by extending accountability to **Business Associates**
+- Promotes **Electronic Health Records (EHR)** and defines **Meaningful Use** standards
+- Requires secure **Electronic Data Interchange (EDI)** for billing and records
+- Increases penalties for non-compliance
+
+> 🤯 HITECH ties HIPAA compliance to federal incentive programs for technology adoption and mandates stricter breach reporting.
