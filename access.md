@@ -111,16 +111,33 @@ Prescriptions may be transferred to another pharmacy at the request of a patient
 
 ## Filling Prescriptions
 
-<!-- todo -->
+After prescriptions are accurately entered and verified in the system, technicians must follow standardized protocols to ensure safe, legal, and efficient dispensing of medications.
+
+🔗 [Prescription Filling SOP](./sop/rx_fill.md)
 
 ### 🧩 Partial Fills
 
-A **partial fill** occurs when the pharmacy dispenses **less than the full prescribed quantity** of a medication. This is typically due to **insufficient inventory**. The remainder is dispensed later once stock is available or as permitted by law.
+A **partial fill** occurs when a pharmacy dispenses **less than the total prescribed quantity** of a medication. This is commonly due to:
+
+- ⛔ **Inventory shortages**
+- ⏳ **Prescriber instructions** (e.g. titration schedules)
+- 🔐 **Controlled substance regulations** under **21 CFR §1306.13** (🦅) and **CCR §1745** (🐻)
+
+> ✅ Documentation of quantity dispensed, quantity remaining, and follow-up date is required  
+> 🧑‍⚕️ Controlled partial fills may have stricter limits and expiration windows depending on the schedule
 
 🔗 [Partial Filling SOP](./sop/partial_fills.md)
 
 ## 🔔 Prescription Pickup & Handoff
 
-Pharmacy technicians are responsible for verifying patient identity, ensuring regulatory compliance, offering pharmacist counseling, and documenting pickup to ensure accurate, legal, & professional handling of prescription pickups at the point of sale.
+Pharmacy technicians play a key role at the final stage of the dispensing process. This involves:
+
+- 📇 Verifying patient identity using at least two identifiers  
+- 🔐 Complying with federal and state regulations for controlled substances  
+- 🧑‍⚕️ Offering pharmacist counseling when required or appropriate  
+- ✍️ Documenting the pickup for insurance and audit trails  
+- ✅ Ensuring the prescription is handed off to the correct individual with proper tracking
+
+> 🧾 Pickup is a regulated point-of-contact and must be handled with accuracy and professionalism
 
 🔗 [Prescription Handoff SOP](./sop/ringing_up.md)
