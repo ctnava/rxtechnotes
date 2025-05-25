@@ -30,7 +30,7 @@ All pharmacy personnel must comply with **federal and state laws**, under the su
 
 - **Federal laws** are passed by Congress and apply nationwide.
 - **State laws** are passed by individual legislatures and apply within their borders.
-- If laws conflict, the **stricter law must be followed**.
+- `If laws conflict, the stricter law must be followed.`
 
 > 🦅 Federal law protects the patient's right to file complaints.
 

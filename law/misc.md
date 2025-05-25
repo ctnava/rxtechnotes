@@ -2,7 +2,7 @@
 
 ## Occupational Safety & Health Act (OSHA, 1970)
 
-Ensures workplace safety. Employers must:
+Ensures workplace safety nationwide. Employers must:
 
 - Train employees on safety protocols
 - Provide **Personal Protective Equipment (PPE)** when exposure to hazardous substances is possible

@@ -23,7 +23,7 @@
   - **Marketing & Labeling**: requires labels to have warnings about habit formation, provide adequate directions for use, and warn against unsafe use.
 - **FDC Coverage Expansion**: include medical devices and cosmetics, which were previously unregulated.
 - **Enforcement Tools**
-  - **Injunctions**: allows the FDA to file injunctions to **recall** & seize products.
+  - **Injunctions**: allows the FDA to file injunctions to `recall` & seize products.
   - **Factory Inspections**: gives the FDA the authority to inspect factories to ensure adherence to manufacturing, processing, packaging, & storage standards.
 
 ## Durham-Humphrey Amendment (1951)

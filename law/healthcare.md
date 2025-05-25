@@ -15,8 +15,8 @@ These programs laid the foundation for future pharmacy regulations that affect h
 
 OBRA-90 was a major federal law affecting Medicaid prescription drug programs. It mandates that states receiving federal funds must require pharmacists to:
 
-- 📄 **Maintain Patient Medication Profiles**: Pharmacies must maintain records (on-site for a minimum of 2 years) of a patient’s medication history to support counseling and DUR obligations.
-- 📋 **Conduct DURs**: Evaluate prescriptions to identify adverse effects, therapeutic duplication, drug–disease contraindications, incorrect dosage or duration, and drug–drug interactions.
+- 📄 **Maintain Patient Medication Profiles**: Pharmacies must maintain records `(on-site for a minimum of 2 years)` of a patient’s medication history to support counseling and DUR obligations.
+- 📋 **Conduct DURs**: Evaluate prescriptions to identify adverse effects, therapeutic duplication, drug–disease contraindications, incorrect dosage or duration, allergies, and drug–drug interactions.
 - 💬 **Offer Counseling to Medicaid Patients**: Pharmacists must “offer to counsel” Medicaid patients on:
   - Proper use of the medication
   - Potential side effects or adverse reactions
