@@ -42,7 +42,7 @@ Structured for both exam prep and on-the-job reference.
 | 5 | [Pharmacy Inventory Management](./inventory_management.md) | 🚧 WIP |
 | 6 | [Core Pharmacy Operations](./core_operations.md) | ✅ Complete |
 
-> 📁 **Math tutorials** are located in the [`./math`](./math) directory.
+> 📁 **Math tutorials** are located in the [`./math`](./math/readme.md) directory.
 
 ---
 
