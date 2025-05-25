@@ -109,3 +109,37 @@
 - [ ] Reading: Chapter 9 - Nonsterile Compounding
 - [ ] CE: Medication Therapy Management
 - [ ] CE: PAPs
+
+## Week 12: Hospital Pharmacy
+
+- [ ] Reading: Chapter 17 - Hospital Pharmacy
+- [ ] CE: Safe Handling of Hazardous Drugs
+- [ ] Math: Chapter 28 - Body Surface Area
+- [ ] Math: Chapter 10 - Temperature Conversion
+
+## Week 13: Sterile Compounding
+
+- [ ] Math: Chapter 29 - Infusion Rates
+- [ ] Reading: Chapter 10: Sterile Compounding & Aseptic Techniques
+- [ ] PTCB Prep: Assisting the Pharmacist
+- [ ] DenaliRx Drugs 181-200
+
+## Week 14: Common Drugs
+
+- [ ] DenaliRx Drugs 161-180
+- [ ] Reading: Chapter 13 - Common Drugs & Uses
+- [ ] PTCB Prep: Distribution & Inventory Control
+- [ ] Math: Chapter 31 - Dilutions
+
+## Week 15: Admin & Management
+
+- [ ] PTCB Prep: Administration & Management
+
+## Week 16: National Prep
+
+- [ ] Math: Chapter 32 - TPN
+- [ ] Reading: Chapter 6 - Calculation Review
+
+## Week 17: Final
+
+- [ ] Final Content
