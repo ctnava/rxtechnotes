@@ -2,77 +2,108 @@
 
 ## 🔑 Objectives
 
-- Ensure accuracy of medication selection and labeling  
-- Minimize waste by using returned-to-stock and near-expiry inventory first  
-- Comply with labeling, packaging, and verification requirements  
-- Maintain proper documentation and safety protocols
+- Ensure accuracy of medication selection, labeling, and documentation  
+- Minimize waste by prioritizing inventory with the shortest remaining shelf life  
+- Maintain compliance with labeling and packaging standards  
+- Support safe dispensing through barcode scanning and pharmacist oversight
 
-> 🧑‍⚕️ All prescriptions must undergo a **final check by the pharmacist** prior to release to the patient. This SOP outlines the standard procedure for **retail pharmacy prescription fills** that do **not** involve compounding, liquids, unit-dose packaging, or hazardous materials.
+> 🧑‍⚕️ All prescriptions must undergo a **final verification by a licensed pharmacist** prior to being released to the patient. This SOP applies to routine prescription fills in a **retail setting**, excluding compounding, liquids, unit-dose packaging, and hazardous drug handling.
 
 ## 🛠️ Procedure
 
-1. 📋 **Pre-Fill Preparation**
-   1. **Prescription Receipt**
-      - Prescription is entered and verified in the pharmacy software system.
-      - A **prescription pamphlet** is printed at the prescription counter with patient, drug, and prescriber information.
-   2. **Medication Retrieval**
-      - Technician locates the correct medication by verifying the **National Drug Code (NDC)** on the prescription pamphlet.
-      - Follow this inventory selection priority:
-        1. ✅ **Returned-to-stock vials** that are labeled and properly stored
-        2. ✅ **Opened stock bottles** that are not expired
-        3. ✅ **Sealed stock bottles** closest to expiration
-      - Mark any newly opened stock bottle as **"opened"** to maintain inventory control.
-2. 🧪 **Verification and Labeling**
-   1. **System Scanning**
-      - At the prescription counter:
-        - Scan the **prescription pamphlet** barcode
-        - Scan the **1D vial barcode** or **2D NDC barcode** on the stock bottle
-      - This step ensures the **correct drug, dosage, and manufacturer** match the system record.
-   2. **Label Generation**
-      - Once the system confirms the NDC match:
-        - Print the **prescription label**
-        - Print **auxiliary warning labels** as required
-        - Ensure label includes:
-          - Patient name
-          - Drug name and strength
-          - Prescriber name
-          - Directions for use
-          - Refill information
-          - Pharmacy information
-          - Prescription number
-3. ⚖️ **Portioning & Packaging**
-   1. **Counting Medication**
-      - Pour medication onto a **counting tray**
-      - Use the **count-by-5 method**
-      - Cross-check total quantity against the prescribed amount
-   2. **Bottling**
-      - Transfer counted medication into the appropriate vial
-      - Affix:
-        - Prescription label
-        - Auxiliary warning labels (e.g. "May cause drowsiness", "Take with food")
-      - Seal the bottle with a **safety cap**
-      - Return unused tablets to the correct stock container immediately
-4. 🧑‍⚕️ **Final Review & Documentation**
-   1. **Pharmacist Verification**
-      - Set completed prescription in the **designated verification area**
-      - Pharmacist checks:
-        - NDC accuracy
-        - Correct quantity
-        - Label integrity
-        - Drug appearance and consistency
-        - Patient profile alerts or contraindications
-   2. **Patient Package Insert (PPI)**
-      - For drugs requiring a PPI (e.g. estrogens, isotretinoin):
-        - Pharmacist prints and attaches PPI to the prescription
-        - 📰 These must be dispensed **each time the drug is provided**, regardless of refill
-5. ✅ **Stage for Pickup**
-   - Place completed and verified prescription in a **pickup bag** with proper labeling
-   - Alphabetize bag by **patient last name**
-   - Return scanned pamphlet to appropriate filing system
+### 1. 📋 Pre-Fill Preparation
+
+#### 1.1 Prescription Intake
+
+- Verify that the prescription has been:
+  - Entered correctly into the dispensing software
+  - Reviewed for legibility, completeness, and legal validity
+- Print the **prescription pamphlet** containing patient and drug details
+
+#### 1.2 Medication Selection
+
+- Match the medication by **NDC** as listed in the software
+- Follow this inventory prioritization sequence:
+  1. ✅ **Returned-to-stock** vials (oldest first)
+  2. ✅ **Opened** stock bottles that are unexpired
+  3. ✅ **Unopened** stock bottles closest to expiration
+- Mark newly opened stock containers appropriately (e.g. stickered as "OPENED")
+
+> 📍 Double-check the NDC, strength, and dosage form during selection. Mistakes here cascade forward.
+
+### 2. 🧪 Verification and Labeling
+
+#### 2.1 System Scanning
+
+- Scan the barcode on:
+  - The **prescription pamphlet**
+  - The **stock bottle** (2D barcode) or **vial** (1D barcode)
+- Confirm that the scanned item matches the system’s selected NDC
+
+#### 2.2 Label Printing
+
+- Generate and print:
+  - Prescription label
+  - Required auxiliary labels (per system prompts)
+- Ensure label includes:
+  - Patient name
+  - Medication name and strength
+  - Directions for use
+  - Prescriber name
+  - Quantity and refill count
+  - Prescription number and pharmacy details
+
+> 📍 If the patient’s language preference is on file, ensure language-appropriate labeling where available.
+
+### 3. ⚖️ Portioning & Packaging
+
+#### 3.1 Counting
+
+- Pour medication onto a **clean counting tray**
+- Use **count-by-5** unless the quantity is small or requires verification
+- Match count precisely to what was prescribed
+
+#### 3.2 Bottling and Sealing
+
+- Place tablets or capsules into the appropriate vial size
+- Apply:
+  - Prescription label
+  - All auxiliary and warning stickers
+- Affix a **child-resistant cap** unless an easy-open cap is requested and documented
+- Return surplus medication to the original stock bottle immediately
+
+> 🛡️ Never combine stock from different manufacturers or lots in a single bottle.
+
+### 4. 🧑‍⚕️ Final Review & Documentation
+
+#### 4.1 Pharmacist Verification
+
+- Place filled prescription and pamphlet in the **verification queue**
+- Pharmacist verifies:
+  - Product matches the label and NDC
+  - Proper quantity and packaging
+  - Clarity and correctness of directions
+  - No potential interactions or contraindications on patient profile
+
+#### 4.2 REMS Compliance
+
+- 📰 If the drug requires a **Patient Package Insert (PPI)**, requires a **MedGuide**, or is subject to a **REMS program**:
+  - Pharmacist prints the PPI/ MedGuide and attaches it to the bag
+  - Document compliance with REMS (e.g. isotretinoin, mifepristone)
+
+> 🧾 These materials must be included **every time** the medication is dispensed, including refills.
+
+### 5. ✅ Stage for Pickup
+
+- Bag the completed, verified prescription
+- Label the bag with patient information for easy retrieval
+- File alphabetically by **patient last name** on the pickup shelf
+- Return the prescription pamphlet to its proper storage area or filing system per site policy
 
 ## 🛡️ Best Practices
 
-- Double-check expiration dates during stock selection  
-- Never mix different lots or manufacturers in the same bottle  
-- Use auxiliary labels based on the most current system prompts  
-- If there is a mismatch or uncertainty, always **pause and alert the pharmacist**
+- Always verify expiration dates and lot integrity  
+- Never substitute manufacturers without pharmacist approval  
+- Use only **current auxiliary label templates**  
+- If a mismatch or system error is suspected: **STOP** and alert the pharmacist  
+- Document anomalies or overrides thoroughly for audit readiness  
