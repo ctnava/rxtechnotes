@@ -2,13 +2,17 @@
 
 ## The Health Information Portability & Accountability Act (HIPAA, 1996)
 
-HIPAA protects patient privacy by regulating how **Covered Entities** handle **Protected Health Information (PHI)**. It is a large statute that primarily concerns the continuation of health insurance coverage for workers who leave their jobs. UAll personnel that have access to PHI must be formally trained periodically on HIPAA regulations to stay up to date and there must be a designated privacy officer appointed on duty.
+HIPAA was designed to protect people’s access to health insurance in the event that they changed jobs or have pre-existing health conditions. It has been expanded to:
+
+- Alleviate the cost and administrative burdens of healthcare transactions placed on the consumer
+- Define standards and requirements to protect the privacy & security of Protected Health Information for individuals
+
+It protects patient privacy by regulating how **Covered Entities** handle **Protected Health Information (PHI)**. It is a large statute that primarily concerns the continuation of health insurance coverage for workers who leave their jobs. UAll personnel that have access to PHI must be formally trained periodically on HIPAA regulations to stay up to date and there must be a designated privacy officer appointed on duty.
 
 - **Covered Entities**: Individuals or organizations that are subject to HIPAA regulations because they handle protected health information (PHI) in connection with standard electronic transactions. Covered entities include:
   - **Health Plans**: Insurance companies, HMOs, Medicare, Medicaid
   - **Healthcare Providers**: Doctors, clinics, pharmacies, hospitals, and other licensed providers who transmit health data electronically
   - **Healthcare Clearinghouses**: Entities that process or facilitate the processing of nonstandard health information into a standard format
-
 - **Protected Health Information (PHI)**: Any information (oral, written, or electronic) that can be used to identify a patient and that relates to the individual’s past, present, or future physical or mental health or condition, the provision of healthcare, or payment for healthcare. PHI is protected under HIPAA and must be kept confidential by all Covered Entities and Business Associates. Under HIPAA, this information must be safeguarded through administrative, physical, and technical controls, and can only be disclosed with patient authorization or for certain permitted purposes such as treatment, payment, or healthcare operations.
   PHI includes but is not limited to:
   - **Spoken Word (Verbal)**: Conversations between healthcare providers or with patients
@@ -17,9 +21,12 @@ HIPAA protects patient privacy by regulating how **Covered Entities** handle **P
   - **Billing information**: Insurance details, account numbers, claims
   - **Electronic Health Records (EHRs)** and any digital communication containing identifiable health information
   - **Other Electronic (ePHI)**: Emails, EHRs, text messages, or files stored on computers or mobile devices
+- **Disclosure Protocol**: In most cases, disclosure of PHI requires explicit patient authorization that is typically handled via a Release of Information (ROI) request form.
+  - **Minimum Necessary Information**: The idea that disclosures of PHI should be minimized, despite authorization to do so, in order to execute services. Keeping disclosures on a “need to know” basis and gathering the minimum amount of data on the patient is key to protecting individual healthcare privacy.
+  - **NPP (Notice of Privacy Practices)**: Outlines how patient info is used and protected; patients must sign acknowledgment, retained for 6 years from the date of creation or last date in effect (whichever is later) and usually means from the last date of service.
+  - **NPI (National Provider Identifier)**: 10-digit number assigned to healthcare providers for standardized identification. Each covered entity may receive only one unique NPI, similar to a person's Social Security Number (SSN), and must be used for all standard transactions covered by HIPAA.
 
-- **NPI (National Provider Identifier)**: 10-digit number assigned to healthcare providers for standardized identification. Each covered entity may receive only one unique NPI, similar to a person's Social Security Number (SSN), and must be used for all standard transactions covered by HIPAA.
-- **NPP (Notice of Privacy Practices)**: Outlines how patient info is used and protected; patients must sign acknowledgment, retained for 6 years from the date of creation or last date in effect (whichever is later) and usually means from the last date of service.
+> 📌 Being in contact with PHI means that you are now governed under HIPAA
 
 ### Restrictions, Violations, & Penalties
 
