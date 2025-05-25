@@ -109,12 +109,18 @@ Prescriptions may be transferred to another pharmacy at the request of a patient
 
 🔗 [Prescription Transfer SOP](./sop/rx_xfer.md)
 
-### Filling
+## Filling Prescriptions
 
-#### Partial Fills
+<!-- todo -->
+
+### 🧩 Partial Fills
+
+A **partial fill** occurs when the pharmacy dispenses **less than the full prescribed quantity** of a medication. This is typically due to **insufficient inventory**. The remainder is dispensed later once stock is available or as permitted by law.
 
 🔗 [Partial Filling SOP](./sop/partial_fills.md)
 
-### Distribution
+## 🔔 Prescription Pickup & Handoff
+
+Pharmacy technicians are responsible for verifying patient identity, ensuring regulatory compliance, offering pharmacist counseling, and documenting pickup to ensure accurate, legal, & professional handling of prescription pickups at the point of sale.
 
 🔗 [Prescription Handoff SOP](./sop/ringing_up.md)
