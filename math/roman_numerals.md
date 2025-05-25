@@ -89,3 +89,7 @@ Final Roman numeral: **CMXLIV**
 - Repeat only **I, X, C, M**, and only up to **3 times**.
 - Never subtract more than one order of magnitude (e.g., `IC` for 99 is invalid; use `XCIX`).
 - Roman numerals are case-insensitive but typically written **in uppercase**.
+
+## Reference
+
+Pharmacy Calculations, 6e; Morton Publishing | Chapter 1

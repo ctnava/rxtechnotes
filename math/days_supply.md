@@ -33,3 +33,7 @@ Insulin must be refrigerated before use but can be kept at room temperature for 
 For example, if an outpatient is dispensed a **standard U-100** insulin vial **(100 Units/mL)** during an emergency, and the patient requires 12 Units per day, the medication technically lasts for about 83 days. However, expiration date takes precedence over this calculation, as insulin degrades over time, especially once opened. Therefore, the Days Supply should reflect the expiration date, even if technically there is more insulin available.
 
 > Always check expiration dates when dispensing more than 28 days supply
+
+## Reference
+
+Pharmacy Calculations, 6e; Morton Publishing | Chapter 12

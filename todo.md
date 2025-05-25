@@ -16,7 +16,7 @@
 - [ ] Reading: Chapter 2 - The Professional Pharmacy Technician
 - [x] CE: OTC Analgesics
 - [x] Math: Chapter 8 - Household & Metric
-- [ ] The Professional Pharmacy Tech Video
+- [x] The Professional Pharmacy Tech Video
 - [x] Metric Conversion Practice
 - [x] HIPAA Video 1 Notes
 - [x] BLS Overview
