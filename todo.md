@@ -30,13 +30,13 @@
 - [x] HIPAA Survival Guide
 - [ ] Math: Chapter 12 - Day Supply
 - [ ] Math: Chapter 33 - Medication Labels
-- [x] Key Medical Concepts
+- [x] Key Medical Concepts (unlinked)
 
 ## Week 4: Other Environments & Routes
 
-- [ ] DenaliRx Drugs 41-60
+- [x] DenaliRx Drugs 41-60
 - [x] SOP: Refill Request
-- [ ] SOP: Aseptic Gowning
+- [x] Gowning Video
 - [x] Reading: Chapter 18 - Other Environments
 - [ ] Reading: Chapter 8 - Routes & Formulations
 - [x] Math: DEA Numbers
@@ -44,14 +44,17 @@
 
 ## Week 5: Rx Law & Processing
 
-- [ ] DenaliRx Drugs 61-80
+- [x] DenaliRx Drugs 61-80
 - [x] Externship Study Guide
 - [ ] Reading: Chapter 7 - Prescriptions
 - [ ] Reading: Chapter 3 - Pharmacy Law, Regulations, & Ethics
-- [ ] Prescription Intake
+- [x] Prescription Intake Video & Quiz
 - [x] Drug Package Inserts
 - [ ] Math: Chapter 13 - Insulin Math
 - [x] Must Know Laws - National Prep
+- [x] Refill Authorization Request
+- [x] Manufacturer Drug Label Requirements
+- [ ] Manufacturer Drug Visual
 
 ## Week 6: Info & Financial
 
