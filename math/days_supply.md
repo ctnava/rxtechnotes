@@ -34,6 +34,8 @@ For example, if an outpatient is dispensed a **standard U-100** insulin vial **(
 
 > Always check expiration dates when dispensing more than 28 days supply
 
+<!-- 
 ## Reference
 
 Pharmacy Calculations, 6e; Morton Publishing | Chapter 12
+-->

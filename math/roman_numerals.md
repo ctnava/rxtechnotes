@@ -90,6 +90,8 @@ Final Roman numeral: **CMXLIV**
 - Never subtract more than one order of magnitude (e.g., `IC` for 99 is invalid; use `XCIX`).
 - Roman numerals are case-insensitive but typically written **in uppercase**.
 
+<!-- 
 ## Reference
 
 Pharmacy Calculations, 6e; Morton Publishing | Chapter 1
+-->
