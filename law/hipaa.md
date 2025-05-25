@@ -32,6 +32,16 @@ It protects patient privacy by regulating how **Covered Entities** handle **Prot
 
 > 📌 Being in contact with PHI means that you are now governed under HIPAA
 
+Under HIPAA pharmacy staff cannot disclose any PHI to anyone other than the patient, this includes not disclosing to spouses and relatives unless the patient has given express consent.
+
+### Pharmacy HIPAA Requirements
+
+- Must train staff on HIPAA regulations and update training periodically
+- Dispose of PHI in accordance with laws
+- Appoint a designated privacy officer
+- Inform patients of their privacy rights and how the pharmacy handles information
+- Provide patients with PHI records if requested
+
 ### Restrictions, Violations, & Penalties
 
 Under HIPAA, medical personnel cannot disclose any PHI to anyone other than the patient unless the patient has given express consent, including spouses & relatives. One such form of consent is a Release of Information form that is typically used to transfer PHI to another healthcare facility or to receive for their personal use. This includes accessing your own records without following proper protocol.
@@ -48,6 +58,12 @@ Offenses carried out with the intent to sell, transfer, or use the information f
 Violations due to reasonable cause and not willfull neglect can result in $1,000 to $50,000 fines.
 
 > **NOTE** HIPAA allows the sharing of PHI under emergency situations such as natural disasters where people may be evacuated and require healthcare. Notice of disclosures still need to be delivered as soon as reasonably practicable after the emergency.
+
+### Supplemental Information
+
+- 🔗 VIDEO | [How Gossip Can Cause HIPAA Violations](https://www.youtube.com/watch?v=CXGDq7IHgSQ)
+- 🔗 VIDEO | [HIPAA Training: What is Required for Compliance](https://www.youtube.com/watch?v=CXGDq7IHgSQ)
+- 🔗 HANDBOOK | [HIPAA Survival Guide](../ref/hipaa_survival_guide.pdf)
 
 ## The Health Information Technology for Economic & Clinical Health Act (HITECH, 2009)
 
