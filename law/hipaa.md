@@ -17,6 +17,8 @@ HIPAA was originally enacted to protect individuals' access to health insurance 
 
 ### 🔗 Covered Entities
 
+`any person, business, or institution that provides healthcare or keeps records on patients`
+
 **Covered Entities** are subject to HIPAA because they transmit health information (*in any form*) in connection with standard transactions. They include:
 
 - **Healthcare Providers**: Physicians, clinics, hospitals, pharmacists, pharmacies
@@ -37,6 +39,8 @@ PHI refers to any information, in any form, that can identify a patient and rela
 > 🚨 PHI remains protected **50 years after death** unless an exception applies.
 
 ### 🔓 HIPAA Privacy Rule
+
+`HIPAA requires health care providers to make their best efforts to protect patient information and share only the information needed with other health professionals.`
 
 - **Notice of Privacy Practices (NPP)**:
   - Informs patients of their rights and how PHI is used
@@ -74,7 +78,7 @@ Pharmacies must:
 
 - Train staff on HIPAA at regular intervals
 - Post and offer patients a Notice of Privacy Practices
-- Provide access to PHI upon request (within 30 days)
+- Provide access to PHI upon patient request (within 30 days)
 - Appoint a **Privacy Officer** and maintain written policies
 - Shred, de-identify, or securely dispose of all PHI
 - Prevent unauthorized verbal disclosure (including casual conversations)
@@ -112,6 +116,8 @@ Pharmacies must:
 > ✅ Penalties are based on **harm caused**, **intent**, and **effort to correct** the violation.
 
 #### 🚨 Special Situations
+
+`HIPAA allows the sharing of PHI under emergency situations such as natural disasters where people may be evacuated and require healthcare.`
 
 - **Emergencies & Disasters**: PHI may be shared for care coordination, family notification, and to reduce risk, but must still follow the “minimum necessary” standard. Privacy notices must be delivered as soon as practical.
 - **Incidental Disclosures**: Not a violation if reasonable safeguards are in place (e.g., overheard info at a pharmacy counter with barriers).
