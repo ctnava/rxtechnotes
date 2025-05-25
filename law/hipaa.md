@@ -25,6 +25,10 @@ It protects patient privacy by regulating how **Covered Entities** handle **Prot
   - **Minimum Necessary Information**: The idea that disclosures of PHI should be minimized, despite authorization to do so, in order to execute services. Keeping disclosures on a “need to know” basis and gathering the minimum amount of data on the patient is key to protecting individual healthcare privacy.
   - **NPP (Notice of Privacy Practices)**: Outlines how patient info is used and protected; patients must sign acknowledgment, retained for 6 years from the date of creation or last date in effect (whichever is later) and usually means from the last date of service.
   - **NPI (National Provider Identifier)**: 10-digit number assigned to healthcare providers for standardized identification. Each covered entity may receive only one unique NPI, similar to a person's Social Security Number (SSN), and must be used for all standard transactions covered by HIPAA.
+- **Security Rule**: Covered entities must implement safeguards for secure transmission, storage, & receipt of PHI in the following categories:
+  - Administrative - This includes proper design of Standard Operating Procedures (SOPs) for employees to follow at work.
+  - Technical - This includes cybersecurity protocols & digital hygiene
+  - Physical - This includes knowing “who belongs where and when”
 
 > 📌 Being in contact with PHI means that you are now governed under HIPAA
 
