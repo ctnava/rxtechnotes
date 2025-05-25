@@ -333,7 +333,7 @@ A **7-day supply** of a drug may be dispensed **without prior authorization** if
 
 #### Prescription Drugs
 
-Claims for prescription drugs are typically filed during the process of prescription intake. Steps for claim submission are detailed within, but reading this document is not recommended at this time as it will be reintroduced later. Proceed at your own discretion.
+Claims for prescription drugs are typically filed during the process of prescription intake. Steps for claim submission are detailed within, but reading this document is not recommended at this time as it will be reintroduced later in the [Prescriptions & Dispensing](./access.md) chapter. Proceed at your own discretion.
 
 🔗 [Prescription Intake SOP](./sop/prescription_intake.md)
 
@@ -434,8 +434,6 @@ The billing cycle is a real-time loop that occurs every time a prescription is s
    - Underpaid, reversed, or clawed-back claims may require **reversal and resubmission**.
 
 > 🛡️ Always verify that the correct insurance plan and COB are set up before submission. Even minor data errors can cause denials or underpayments.
-
-<!-- TODO: Insert Claims & Billing SOP -->
 
 #### 🛑 Common Third-Party Rejections & Resolutions
 
