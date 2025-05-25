@@ -58,6 +58,8 @@
 
 ## Week 6: Info & Financial
 
+- [ ] DenaliRx Drugs 81-100
+- [ ] Kirby Lester Counting Machine Video
 - [ ] Math: Chapter 23 - Parenteral Ratios & Proportions
 - [ ] Reading: Chapter 4 - Information Sources
 - [ ] Reading: Chapter 15 - Financial Issues

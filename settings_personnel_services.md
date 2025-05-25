@@ -259,6 +259,7 @@ Prescription counters equipped with:
 - 🤖 Automated pill counters  
   - e.g., **Kirby Lester KL1**  
     - Includes scan verification of NDC and prescription to reduce errors
+    - 🔗 [Counting Technique for a Kirby Lester Device](https://www.youtube.com/watch?v=2rq3G7BEnjY)
 
 ✅ All prescriptions are **checked by the pharmacist before moving to pickup** bins
 
