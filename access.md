@@ -105,6 +105,8 @@ When a prescription has no refills or is expired, the technician is requesting a
 
 ### Filling
 
+#### Partial Fills
+
 ### Prescription Transfers
 
 Prescriptions may be transferred to another pharmacy at the request of a patient. State laws vary when it comes to different classes of drugs. Technicians may pull up the relevant records for transfer, however the pharmacist is responsible for the actual act of sending or receiving prescriptions.
