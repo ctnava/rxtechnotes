@@ -53,7 +53,6 @@ Sterile compounding must take place in a **cleanroom suite** or **segregated com
 
 All compounded sterile products must include:
 
-- ✅ Patient name (if patient-specific)
 - ✅ Generic drug name, concentration, strength, & dosage form
 - ✅ Total volume and base solution
 - ✅ Route and rate of administration (e.g., IVPB over 30 mins)
@@ -62,6 +61,8 @@ All compounded sterile products must include:
 - ✅ Initials of compounding and verifying personnel
 
 > 📌 *CSPs use a BUD assigned based on stability and USP <797> risk level (e.g., Low, Medium, High risk).*
+
+- prescriptions must include patient name, age, weight + prescriber name & contact information
 
 ### 🩸 IV Solutions and Admixtures
 
@@ -102,6 +103,8 @@ Every CSP must be verified by a pharmacist before dispensing. Checks include:
 > 🚨 *Any visible contamination, cloudiness, or color change renders the product unfit for use.*
 
 #### 💧 Common IV Solutions & Uses
+
+What is a common application of IV compounding for electrolyte replenishment? Mixing fluids to correct imbalances
 
 | Abbreviation | Full Name  | Composition | Osmolarity (Relative to Blood) | Clinical Use / Indication | Special Considerations |
 |--------------|------------|-------------|--------------------------------|--------------------------|------------------------|
