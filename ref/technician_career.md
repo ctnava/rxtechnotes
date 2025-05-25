@@ -16,6 +16,8 @@ Pharmacy technicians exist to **free up the pharmacist’s time** for more clini
 
 ## 🔬 Scope of Practice
 
+`Technicians carry out tasks that do not require a pharmacist's clinical experise`
+
 The scope varies from state to state but generally includes:
 
 - 🏥 Assisting the pharmacist in labeling and filling prescriptions (in both **inpatient** and **outpatient** settings)  
@@ -23,7 +25,7 @@ The scope varies from state to state but generally includes:
 - 🖥️ Entering prescription and insurance information into pharmacy systems  
 - 🧪 Compounding oral solutions, ointments, creams, and sterile IV medications  
 - 💊 Prepackaging bulk medications into unit doses  
-- 🛒 Assisting with medication purchasing, billing, and inventory control  
+- 🛒 Assisting with medication purchasing, billing, and inventory control; typically computerized  
 - 📞 Working with insurers to process claims and request refills  
 
 > 🎖️ Pharmacy technicians in the armed services may dispense medications under the supervision of pharmacists.
@@ -53,6 +55,8 @@ California State Licensure Requirements:
 - **CE Requirements**: 20 hours every 2 years, including **1 hour in cultural competency**
 - **Renewals**: Notices mailed 90 days before expiration; licenses are canceled if not renewed within 90 days post-expiration
 - **License Portability**: California has **no reciprocity**; technicians moving to other states must reapply there. Returning to CA may require full reapplication if the license was canceled
+
+> ✅ Good Key Words for Your Resume: `Dependable, Detail Oriented, Trustworthy`
 
 ## 🚀 Career Advancement
 
@@ -143,3 +147,19 @@ Some retail pharmacy chains incentivize loyalty by providing tuition reimburseme
 - 💰 Scholarship or tuition assistance  
 
 These initiatives can make becoming a pharmacist more accessible for long-term employees.
+
+### Additional Job Titles Pharmacy Technician Licensees Can Have
+
+- Medication Reconciliation Technician
+- Discharge Coordinator
+- Order Filler
+- Purchasing & Acquisitions Specialist
+- Customer Service Specialist
+- Quality Control Technician
+- Compliance Officer
+- Billing Specialist
+- Pharmacy Coordinator
+- Intake Coordinator
+- Program Specialist
+
+> 📌 these are key words to search for on hiring websites
