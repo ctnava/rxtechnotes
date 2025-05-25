@@ -30,7 +30,7 @@
 - [x] HIPAA Survival Guide
 - [ ] Math: Chapter 12 - Day Supply
 - [ ] Math: Chapter 33 - Medication Labels
-- [ ] Key Medical Concepts
+- [x] Key Medical Concepts
 
 ## Week 4: Other Environments & Routes
 
