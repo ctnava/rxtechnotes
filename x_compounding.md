@@ -106,6 +106,8 @@ Every CSP must be verified by a pharmacist before dispensing. Checks include:
 
 What is a common application of IV compounding for electrolyte replenishment? Mixing fluids to correct imbalances
 
+IV-F === IV Fluid
+
 | Abbreviation | Full Name  | Composition | Osmolarity (Relative to Blood) | Clinical Use / Indication | Special Considerations |
 |--------------|------------|-------------|--------------------------------|--------------------------|------------------------|
 | NS | Normal Saline | 0.9% Sodium Chloride in Water | Isotonic | Hydration, fluid resuscitation, compatible with most meds, drug administration, surgical irrigation, commonly used in surgery, trauma, and emergency situations | Can cause hyperchloremic acidosis with large volumes, not ideal for patients with conditions like heart failure due to sodium content |
