@@ -70,32 +70,15 @@ Conversions commonly used in pharmacy can be broken down into **volume** and **w
 
 We will convert 1 gallon to milliliters by **chaining units**, canceling each one along the way.
 
-#### 🔗 Step-by-Step
-
-Start:  
-`1 gallon`
-
-Convert to quarts:  
-`1 gal × (4 qt / 1 gal) = 4 qt`
-
-Convert to pints:  
-`4 qt × (2 pt / 1 qt) = 8 pt`
-
-Convert to ounces:  
-`8 pt × (16 oz / 1 pt) = 128 oz`
-
-Convert to tablespoons:  
-`128 oz × (2 tbsp / 1 oz) = 256 tbsp`
-
-Convert to teaspoons:  
-`256 tbsp × (3 tsp / 1 tbsp) = 768 tsp`
-
-Convert to mL:  
-`768 tsp × (5 mL / 1 tsp) = 3840 mL`
-
-Final Answer:
-
-`1 gallon = 3840 mL`
+| Step | Math |
+|------|------|
+| 1: Convert to quarts | ${1\ \text{gal} \times \frac{4\ \text{qt}}{1\ \text{gal}} = 4\ \text{qt}}$ |
+| 2: Convert to pints | ${4\ \text{qt} \times \frac{2\ \text{pt}}{1\ \text{qt}} = 8\ \text{pt}}$ |
+| 3: Convert to ounces | ${8\ \text{pt} \times \frac{16\ \text{oz}}{1\ \text{pt}} = 128\ \text{oz}}$ |
+| 4: Convert to tablespoons | ${128\ \text{oz} \times \frac{2\ \text{tbsp}}{1\ \text{oz}} = 256\ \text{tbsp}}$ |
+| 5: Convert to teaspoons | ${256\ \text{tbsp} \times \frac{3\ \text{tsp}}{1\ \text{tbsp}} = 768\ \text{tsp}}$ |
+| 6: Convert to mL | ${768\ \text{tsp} \times \frac{5\ \text{mL}}{1\ \text{tsp}} = \boxed{3840\ \text{mL}}}$ |
+| 7: Final Answer | 1 gallon = 3840 mL |
 
 ### Example: Oral Suspension Dosage in Household Units
 
@@ -107,7 +90,8 @@ Final Answer:
 | Step | Math |
 |------|------|
 | 1: Use the concentration to convert mg to mL| ${375\ \text{mg} \times \frac{5\ \text{mL}}{250\ \text{mg}} = 7.5\ \text{mL}}$ |
-| 2: Convert mL to tsp | ${7.5\ \text{mL} \times \frac{1\ \text{tsp}}{5\ \text{mL}} = \boxed{1.5\ \text{tsp}}}$ |
+| 2 (preferred): Convert mL to tsp | ${7.5\ \text{mL} \div \frac{5\ \text{mL}}{1\ \text{tsp}} = \boxed{1.5\ \text{tsp}}}$ |
+| 2 (alt): Convert mL to tsp | ${7.5\ \text{mL} \times \frac{1\ \text{tsp}}{5\ \text{mL}} = \boxed{1.5\ \text{tsp}}}$ |
 | 3: Final Answer | Take 1.5 tsp per dose |
 
 ### Example: Body Weight Dosing
@@ -119,7 +103,8 @@ Final Answer:
 
 | Step | Math |
 |------|------|
-| 1: Convert weight to kg | ${205\ \text{lbs} \times \frac{1\ \text{kg}}{2.2\ \text{lbs}} \approx 93.18\ \text{kg}}$ |
+| 1 (preferred): Convert weight to kg | ${205\ \text{lbs} \div \frac{2.2\ \text{lbs}}{1\ \text{kg}} \approx 93.18\ \text{kg}}$ |
+| 1 (alt): Convert weight to kg | ${205\ \text{lbs} \times \frac{1\ \text{kg}}{2.2\ \text{lbs}} \approx 93.18\ \text{kg}}$ |
 | 2: Calculate total daily dose | ${30\ \text{mg/kg/day} \times 93.18\ \text{kg} = 2795.45\ \text{mg/day}}$ |
 | 3: Divide into 4 doses | ${\frac{2795.45\ \text{mg/day}}{4} \approx \boxed{698.86\ \text{mg per dose}} \approx \boxed{700\ \text{mg per dose\ (rounded)}}}$ |
 | 4: Final Answer | Administer 700 mg every 6 hours |
