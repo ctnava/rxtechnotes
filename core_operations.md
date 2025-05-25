@@ -45,7 +45,7 @@ Prescription-only medications authorized under the **Durham-Humphrey Amendment (
   - 🦅 **ID verification** and limited refill authorizations
   - 🐻 `7 year recordkeeping` & CURES reporting requirement in California
 
-> 📌 Pharmacists & Prescribers are equally liable for patient incidences involving CII medications. Technicians will be held liable for misconduct or negligence even while following orders.
+> 📌 Pharmacists & Prescribers are equally liable for patient incidences involving CII medications. **Technicians** will be held liable for misconduct or negligence even while following orders.
 
 ### 💸 Over-the-Counter (OTC) Drugs
 
