@@ -58,10 +58,14 @@
 
 ## Week 6: Info & Financial
 
-- [ ] DenaliRx Drugs 81-100
-- [ ] Kirby Lester Counting Machine Video
 - [ ] Math: Chapter 23 - Parenteral Ratios & Proportions
 - [ ] Reading: Chapter 4 - Information Sources
 - [ ] Reading: Chapter 15 - Financial Issues
-- [ ] Syringes Video
+- [ ] CVS Insurance Training Packet
+- [ ] [Syringes Video](https://www.youtube.com/watch?v=b4Y2qE4ZgvE)
 - [ ] IV Solutions
+
+## Week 7: Inventory & Medication Histories
+
+- [ ] DenaliRx Drugs 81-100
+- [x] Kirby Lester Counting Machine Video
