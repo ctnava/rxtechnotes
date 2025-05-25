@@ -134,27 +134,33 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 | ⚖️    | mEq          | Milliequivalents       |    |
 | ⚠️    | ss, S        | One-half               | ⚠️ (mistaken for “55” or "5") |
 
-### 🧩 Miscellaneous
+### 👩‍💻 Patient Information
 
 | Emoji | Abbreviation | Meaning                    | ⚠️ |
 |-------|--------------|----------------------------|----|
-| ⛔    | NR            | No refills                |    |
-| ✍️    | DAW           | Dispense as written       |    |
-| 📘    | UD, TUD       | Take As Directed          |    |
-| 📝    | Sig           | Directions for use        |    |
-| 🚫👄  | NPO           | Nothing by mouth          |    |
-| 🚫  | D/C            | Discontinue              |    |
-| ⛔🩺 | DUR            | Drug Utilization Review |    |
-| 🩸    | BS          | Blood Sugar       | |
-| 💩    | BM          | Bowel Movement       | |
-| 💊📜  | Rx            | Prescription              |    |
 | 📝📝  | Tx            | Treatment              |    |
 | 🤮  | Sx            | Symptoms              |    |
 | 📚  | Hx            | History              |    |
 | 🩺    | Dx            | Diagnosis                 |    |
 | 📅  | DoB            | Date of Birth              |    |
-| 😁  | NKA            | No Known Allergies              |    |
-| 🧑‍🤝‍🧑    | aa            | Of each (ana)             |    |
+| 😁  | NKA            | No Known Allergies         |  |
+| 🩸    | BS          | Blood Sugar       | |
+| 💩    | BM          | Bowel Movement       | |
+| 💓    | BP          | Blood Sugar       | |
+| ⛔🩺 | DUR            | Drug Utilization Review | |
+
+### 🧩 Miscellaneous
+
+| Emoji | Abbreviation | Meaning                    | ⚠️ |
+|-------|--------------|----------------------------|----|
+| 💊📜  | Rx            | Prescription              |    |
+| ⛔    | NR            | No refills                |    |
+| ✍️    | DAW           | Dispense as written       |    |
+| 📘    | UD, TUD       | Take As Directed          |    |
+| 📝    | Sig           | Directions for use        |    |
+| 🚫👄  | NPO           | Nothing by mouth          | |
+| 🚫  | D/C            | Discontinue              | |
+| 🧑‍🤝‍🧑    | aa            | Of each (ana)             | |
 | ⬆️    | ad            | To, up to                 |    |
 | ➕    | qs            | A sufficient quantity     |    |
 | ➕📈  | qs ad         | A sufficient quantity to make |    |
