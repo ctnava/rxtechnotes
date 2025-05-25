@@ -116,7 +116,7 @@ Pharmacies must:
 - **Emergencies & Disasters**: PHI may be shared for care coordination, family notification, and to reduce risk, but must still follow the “minimum necessary” standard. Privacy notices must be delivered as soon as practical.
 - **Incidental Disclosures**: Not a violation if reasonable safeguards are in place (e.g., overheard info at a pharmacy counter with barriers).
 
-### Supplemental Information
+### 📚 Supplemental Materials
 
 - 🔗 VIDEO | [How Gossip Can Cause HIPAA Violations](https://www.youtube.com/watch?v=CXGDq7IHgSQ)
 - 🔗 VIDEO | [HIPAA Training: What is Required for Compliance](https://www.youtube.com/watch?v=CXGDq7IHgSQ)
