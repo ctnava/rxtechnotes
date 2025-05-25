@@ -57,3 +57,8 @@ Use this checklist to confirm mastery of essential skills and knowledge before b
 
 - [ ] Understands major pharmacy laws (e.g., OBRA, FDCA, CSA)  
 - [ ] Familiar with key practice concepts (e.g., scope of practice, labeling rules)  
+
+## 📚 13. Reading
+
+<!-- TODO Extract -->
+- [ ] Chapter 2: All Contents
