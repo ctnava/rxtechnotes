@@ -9,6 +9,8 @@
 
 > 🧑‍⚕️ All prescriptions must undergo a **final check by the pharmacist** prior to release to the patient. This SOP outlines the standard procedure for **retail pharmacy prescription fills** that do **not** involve compounding, liquids, unit-dose packaging, or hazardous materials.
 
+## 🛠️ Procedure
+
 1. 📋 **Pre-Fill Preparation**
    1. **Prescription Receipt**
       - Prescription is entered and verified in the pharmacy software system.
