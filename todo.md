@@ -58,12 +58,13 @@
 
 ## Week 6: Info & Financial
 
+- [ ] Gowning SOP
 - [ ] Math: Chapter 23 - Parenteral Ratios & Proportions
 - [ ] Reading: Chapter 4 - Information Sources
 - [ ] Reading: Chapter 15 - Financial Issues
 - [ ] CVS Insurance Training Packet
 - [ ] [Syringes Video](https://www.youtube.com/watch?v=b4Y2qE4ZgvE)
-- [ ] IV Solutions
+- [x] IV Solutions
 
 ## Week 7: Inventory & Medication Histories
 
