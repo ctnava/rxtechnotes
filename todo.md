@@ -115,7 +115,7 @@
 - [ ] Reading: Chapter 17 - Hospital Pharmacy
 - [ ] CE: Safe Handling of Hazardous Drugs
 - [ ] Math: Chapter 28 - Body Surface Area
-- [ ] Math: Chapter 10 - Temperature Conversion
+- [x] Math: Chapter 10 - Temperature Conversion & Specific Gravity
 
 ## Week 13: Sterile Compounding
 

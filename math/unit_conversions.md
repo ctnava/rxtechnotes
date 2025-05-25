@@ -116,8 +116,71 @@ We will convert 1 gallon to milliliters by **chaining units**, canceling each on
 - Use only verified, standard conversion values
 - Understand both directions: household → metric and metric → household
 
+## ⚖️ Density & Specific Gravity
+
+Understanding **density** and **specific gravity (SG)** is essential for pharmacy technicians when converting between **weight (grams)** and **volume (milliliters)**. These concepts are especially relevant for compounding, labeling, and interpreting formulas involving **liquids that are not water** because:
+
+- Many drugs are dosed or dispensed in **volume** but labeled in **weight**
+- **Non-aqueous solutions** (like ethanol or glycerin) don’t follow the 1 g = 1 mL "rule"
+- Knowing the **density** or **SG** allows accurate conversions between **g ↔ mL**
+
+| Term | Definition | Units |
+|------|------------|-------|
+| **Density** | Mass per unit volume. | Commonly expressed as **g/mL** in pharmacy. |
+| **Specific Gravity (SG)** | Ratio of a substance’s density to the density of water. | **No units** (it's a ratio). |
+
+📍 **Used when**:
+
+- Measuring solvents in compounding
+- Calculating dosages from weight-based orders
+- Understanding concentration of liquid formulations
+
+> 🚨 **SG is a dimensionless number** because it's a ratio. Since water’s density is 1 g/mL at standard conditions, the SG is **numerically equal** to the density for most pharmacy applications—but not always interchangeable when units are required.
+
+🌡️ **Common Liquid Densities and Specific Gravities**
+
+| Substance | Density (g/mL) | Specific Gravity (SG) |
+|-----------|----------------|------------------------|
+| **Water** | 1.00           | 1.00                   |
+| **Ethanol** | 0.79         | 0.79                   |
+| **Glycerin** | 1.26        | 1.26                   |
+
+> ✅ These values are typical at room temperature (20°C to 25°C)
+
+### 🔄 Conversion Formulas
+
+| To Find | Formula |
+|---------|---------|
+| **Mass (g)** | Volume (mL) × Density (g/mL) |
+| **Volume (mL)** | Mass (g) ÷ Density (g/mL) |
+
+> 🔁 SG can substitute for density (in g/mL) when comparing to water.
+
+#### 🧪 Example 1: What is the weight in grams of 15 mL of ethanol?
+
+| Step | Value |
+|------|-------|
+| Given volume | 15 mL |
+| Density of ethanol | 0.79 g/mL |
+| Multiply | 15 × 0.79 = 11.85 g |
+
+#### 🧪 Example 2: What volume in mL is 5 g of glycerin?
+
+| Step | Value |
+|------|-------|
+| Given mass | 5 g |
+| Density of glycerin | 1.26 g/mL |
+| Divide | 5 ÷ 1.26 ≈ 3.97 mL |
+
+### 🛡️ Best Practices
+
+- Always check whether the substance is **water** or something else
+- If SG is given instead of density, you can treat it as **g/mL** for pharmacy conversions
+- Round **only at the final step**
+- Clearly label your **units** in all work
+
 <!-- 
 ## Reference
 
-Pharmacy Calculations, 6e; Morton Publishing | Chapter 8
+Pharmacy Calculations, 6e; Morton Publishing | Chapter 8 & 10
 -->
