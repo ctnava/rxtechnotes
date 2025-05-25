@@ -14,6 +14,45 @@ These requirements complement the FDA’s misbranding and labeling rules under t
 
 > 📌 The FPLA helps prevent misbranding by requiring clarity and standardization in labeling. Technicians must ensure that OTC products and bulk containers are correctly labeled before stocking shelves or filling orders.
 
+### Poison Prevention Packaging Act (PPPA, 1970)
+
+The PPPA was enacted to reduce the risk of accidental poisoning in children under five years of age by requiring **child-resistant (CR) packaging** for hazardous household substances, including many prescription and over-the-counter (OTC) medications.
+
+> 🔑 **Enforced by** the Consumer Product Safety Commission (CPSC), not the FDA.
+
+#### Requirements
+
+- **Child-resistant packaging** must be used for most prescription drugs dispensed to patients.
+- CR packaging must be designed so that at least **85% of children under five cannot open it**, while **90% of adults can**.
+- **Reversible (dual-purpose)** caps are allowed but must default to the child-resistant mode unless otherwise requested.
+
+#### Exceptions (Exemptions from CR packaging)
+
+CR packaging is *not required* in the following cases:
+
+- 🩺 **Upon prescriber request** (for a single prescription only)
+- 🩺 **Upon patient request** (can apply to all prescriptions; must be documented)
+- 💸 Certain OTC products, such as:
+  - Effervescent acetaminophen or aspirin tablets (with low unit content)
+  - Powdered iron or acetaminophen formulations with ≤0.324 g per unit dose
+- Institutional settings where medications are administered by professionals (e.g. nursing homes, hospitals)
+- Specific medications by regulation, such as:
+  - **Sublingual nitroglycerin**
+  - **Oral contraceptives** in mnemonic blister packs
+  - **Inhalers** (e.g., albuterol)
+
+#### Technician Responsibilities
+
+- Ensure that dispensed containers use CR packaging by default.
+- If a **non-CR container** is requested:
+  - 🩺 Record the request clearly in the patient's profile.
+  - Only fulfill prescriber-requested exceptions **per individual prescription**.
+- Do **not reuse** child-resistant containers. The mechanism may degrade after use.
+- Maintain awareness of which medications are **exempt** from CR requirements.
+
+> - 🛡️ Failing to use child-resistant packaging without proper documentation may result in **liability** for preventable harm.
+> - 🚨 CR requirements apply at the **point of dispensing**, not necessarily at the manufacturer level. A product may arrive in CR packaging and still require repackaging at the pharmacy.
+
 ### Drug Listing Act (1972)
 
 The Drug Listing Act of 1972 mandates that all drug establishments provide a complete list of drugs manufactured, prepared, propagated, compounded, or processed for distribution, and these drugs must have a ***11-digit National Drug Code (NDC)***; a 3-segmented universal identifier.
