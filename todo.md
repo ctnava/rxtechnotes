@@ -2,23 +2,25 @@
 
 ## Week 1: History of Pharmacy
 
-- [ ] DenaliRx Drugs 1-20
+- [x] DenaliRx Drugs 1-20
 - [x] Common Pharmacy Abbreviations
 - [ ] Reading: Chapter 1 - History of Pharmacy
 - [x] CE: Wheel of Pharmacy Technician Career Opportunities
-- [ ] SOP: Aseptic Handwashing
-- [ ] Chapter 1 Math - Roman Numerals
+- [x] SOP: Aseptic Handwashing
+- [x] Chapter 1 Math - Roman Numerals
 
 ## Week 2: Pharmacy Tech Profession
 
-- [ ] DenaliRx Drugs 21-40
+- [x] DenaliRx Drugs 21-40
 - [x] "Medications to Know" (iii_outpatient_medications.md)
 - [ ] Reading: Chapter 2 - The Professional Pharmacy Technician
 - [x] CE: OTC Analgesics
 - [ ] Math: Chapter 8 - Household & Metric
-- [x] The Professional Pharmacy Tech Video
+- [ ] The Professional Pharmacy Tech Video
 - [x] Metric Conversion Practice
 - [x] HIPAA Video 1 Notes
+- [x] BLS Overview
+- [x] HIPAA in the Workplace
 
 ## Week 3: Community RX & HIPAA
 
@@ -49,7 +51,7 @@
 - [ ] Prescription Intake
 - [x] Drug Package Inserts
 - [ ] Math: Chapter 13 - Insulin Math
-- [ ] Must Know Laws
+- [x] Must Know Laws - National Prep
 
 ## Week 6: Info & Financial
 
