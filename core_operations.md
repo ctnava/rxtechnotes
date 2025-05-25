@@ -1,6 +1,22 @@
-# Access to Drugs
+# Core Pharmacy Operations
 
-## Legal Designations
+## 📞 Customer Service
+
+Pharmacy technicians must answer calls promptly, communicate clearly and respectfully, gather accurate information, and route clinical inquiries appropriately to ensure professional, accurate, and HIPAA-compliant telephone communication with patients, providers, and other parties contacting the pharmacy.
+
+🔗 [Answering Pharmacy Phone Calls SOP](./sop/answering_phone.md)
+
+**Retail technicians are the first point of contact for most patients**. Professional demeanor, clear communication, and operational efficiency are critical for ensuring medication safety and customer satisfaction.
+
+- Listen actively and make eye contact  
+- Confirm understanding by repeating concerns  
+- Use a respectful, positive tone  
+- Refer to patients by name when possible  
+- Identify the pharmacy when answering the phone  
+- Always follow facility policies and procedures  
+- Refer all clinical questions to the pharmacist
+
+## Legal Designations of Drugs
 
 Federal and state law divide drugs into major categories based on how they may be distributed, their potential for abuse, and required labeling.
 

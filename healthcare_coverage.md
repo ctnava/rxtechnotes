@@ -333,7 +333,7 @@ A **7-day supply** of a drug may be dispensed **without prior authorization** if
 
 #### Prescription Drugs
 
-Claims for prescription drugs are typically filed during the process of prescription intake. Steps for claim submission are detailed within, but reading this document is not recommended at this time as it will be reintroduced later in the [Prescriptions & Dispensing](./access.md) chapter. Proceed at your own discretion.
+Claims for prescription drugs are typically filed during the process of prescription intake. Steps for claim submission are detailed within, but reading this document is not recommended at this time as it will be reintroduced later in the [Core Pharmacy Operations](./core_operations.md) chapter. Proceed at your own discretion.
 
 🔗 [Prescription Intake SOP](./sop/prescription_intake.md)
 

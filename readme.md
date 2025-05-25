@@ -40,7 +40,7 @@ Structured for both exam prep and on-the-job reference.
 | 3 | [Healthcare Coverage](./healthcare_coverage.md) | 🚧 WIP |
 | 4 | [Drug Discovery, Manufacturing, & Logistics](./discovery_manufacture.md) | 🚧 WIP |
 | 5 | [Pharmacy Inventory Management](./inventory_management.md) | 🚧 WIP |
-| 6 | [Prescriptions & Dispensing](./access.md) | ✅ Complete |
+| 6 | [Core Pharmacy Operations](./core_operations.md) | ✅ Complete |
 
 > 📁 **Math tutorials** are located in the [`./math`](./math) directory.
 
