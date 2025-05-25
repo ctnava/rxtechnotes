@@ -42,8 +42,10 @@ Prescription-only medications authorized under the **Durham-Humphrey Amendment (
 - Categorized into **Schedules I-V** based on **abuse potential**, **medical use**, and **dependence risk**.
 - Subject to strict handling, labeling, inventory, and security requirements.
 - Dispensing often involves:
-  - 🐻 **CURES reporting** in California  
-  - 🦅 **ID verification** and limited refill authorizations  
+  - 🦅 **ID verification** and limited refill authorizations
+  - 🐻 `7 year recordkeeping` & CURES reporting requirement in California
+
+> 📌 Pharmacists & Prescribers are equally liable for patient incidences involving CII medications. Technicians will be held liable for misconduct or negligence even while following orders.
 
 ### 💸 Over-the-Counter (OTC) Drugs
 
@@ -71,11 +73,11 @@ When performing **medication reconciliation** (the process of gathering a patien
   - Contain **habit-forming ingredients** (e.g. small amounts of codeine)
   - May be sold **by a pharmacist** without a prescription to individuals **18+**
   - Must be logged in a record book with ID verification and quantity tracking  
-  - 🐻 California restrictions may further limit or prohibit these sales
+  - 🐻 There are no exempt narcotics in California
 - **Emergency Contraceptives**:  
   - Example: `Plan B One-Step`
   - Sold **OTC without age restrictions**
-  - May also be **prescribed or furnished** by a pharmacist per 🐻 California protocol
+  - May also be **prescribed or furnished** by a pharmacist for minors per 🐻 California protocol
   - Dual marketing as both **OTC and legend** allows flexible access depending on clinical situation
 - **Listed Substances**:  
   - Products containing precursors to **methamphetamine** (e.g. pseudoephedrine, ephedrine)

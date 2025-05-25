@@ -73,4 +73,4 @@
 - [ ] Reading: Chapter 14 - Inventory
 - [ ] CE: Medication Reconciliation
 - [ ] Math: Chapter 24 - Powder Drugs
-- [ ] Drug Regulation & Control Video
+- [x] Drug Regulation & Control Video
