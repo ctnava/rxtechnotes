@@ -43,7 +43,7 @@
 3. ⚖️ **Portioning & Packaging**
    1. **Counting Medication**
       - Pour medication onto a **counting tray**
-      - Use the **count-by-5 method** unless otherwise directed
+      - Use the **count-by-5 method**
       - Cross-check total quantity against the prescribed amount
    2. **Bottling**
       - Transfer counted medication into the appropriate vial
