@@ -15,5 +15,5 @@
 | 11 | [Temperature Scale, Density, & Specific Gravity Conversions](./temperature_scale_conversions.md) | ✅ Complete |
 | 12 | [Body Surface Area](./bsa.md) | ❌ DNE  |
 | 13 | [Infusion and Drip Rate Calculations](./flow_drip_rate.md) | ✅ Complete |
-| 14 | [Dilutions](./dilutions.md) | ❌ DNE  |
+| 14 | [Dilutions](./dilutions.md) | ✅ Complete  |
 | 15 | [Total Parenteral Nutrition](./tpn.md) | ❌ DNE  |
