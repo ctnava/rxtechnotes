@@ -72,7 +72,7 @@
 - [ ] CVS Insurance Training Packet
 - [ ] Reading: Chapter 14 - Inventory
 - [ ] CE: Medication Reconciliation
-- [ ] Math: Chapter 24 - Powder Drugs
+- [x] Math: Chapter 24 - Powder Drugs
 - [x] Drug Regulation & Control Video
 - [x] Medical Symbols
 - [x] Special Drugs see `i_medication_watchlist.md`
