@@ -42,9 +42,9 @@ ${\boxed{\Rightarrow \text{Days Supply} = \frac{\text{Amount Dispensed}}{\text{A
 
 > 📌 Many pharmacy systems calculate days’ supply automatically, but knowing how to do it manually helps catch input errors and supports DUR decisions.
 
-## 📘 Oral Formulations
+## 👄 Oral Formulations
 
-### Solids: Tablets & Capsules
+### 💊 Oral Solids: Tablets & Capsules
 
 For the sake of simplicity, I will be referring to them as `pills`.
 
@@ -79,9 +79,7 @@ ${\boxed{\Rightarrow \text{Days Supply}} = \text{45 tab} \div \text{12 tab/day} 
 
 ${\boxed{\Rightarrow \text{Days Supply}} = \text{3.75 Days} = \text{3 Days (Rounded Down)}}$
 
-## 📘 Oral Liquids
-
-
+## 🥤 Oral Liquids
 
 ---
 
