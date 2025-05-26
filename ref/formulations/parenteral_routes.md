@@ -29,10 +29,10 @@ Injection Dependent Routes involves delivering drugs directly into the body thro
 
 | Route | Description | Common Uses/ Drugs |
 |-------|-------------|--------------------|
-| **Intravenous (IV)** | Injected **directly into the vein**. Provides **immediate systemic effect**. Ideal for **large volumes**, **continuous infusion**, or **small volumes** of drugs with **narrow therapeutic windows** | Fluids (e.g. D5W, NS), blood products, fat emulsions, Patient Controlled Analgesia(PCA) |
-| **Intramuscular (IM)** | Injected **deep into muscle tissue**. Slower onset than IV, but longer duration. | haloperidol, prochlorperazine, **iron dextran**, olanzapine, ziprasidone, metoclopramide |
-| **Subcutaneous (SC or SubQ)** | Injected or **implanted** into the **fatty tissue** just under the skin. Slower absorption than IM. | insulin, enoxaparin, heparin, vaccines |
-| **Intradermal (ID)** | Injected into the **dermal layer** of skin at an angle. | immunization, desensitization, **allergy testing**, & **diagnostics**  (e.g. tuberculin tests) |
+| 🔗 [Intravenous (IV)](#intravenous-route) | Injected **directly into the vein**. Provides **immediate systemic effect**. Ideal for **large volumes**, **continuous infusion**, or **small volumes** of drugs with **narrow therapeutic windows** | Fluids (e.g. D5W, NS), blood products, fat emulsions, Patient Controlled Analgesia(PCA) |
+| 🔗 [Intramuscular (IM)](#intramuscular-route) | Injected **deep into muscle tissue**. Slower onset than IV, but longer duration. | haloperidol, prochlorperazine, **iron dextran**, olanzapine, ziprasidone, metoclopramide |
+| 🔗 [Subcutaneous (SC or SubQ)](#subcutaneous-route) | Injected or **implanted** into the **fatty tissue** just under the skin. Slower absorption than IM. | insulin, enoxaparin, heparin, vaccines |
+| 🔗 [Intradermal (ID)](#intradermal-route) | Injected into the **dermal layer** of skin at an angle. | immunization, desensitization, **allergy testing**, & **diagnostics**  (e.g. tuberculin tests) |
 
 ### Injectable Formulations & Administration
 
@@ -58,11 +58,11 @@ Administered by needle
 
 #### ⚗️ Injectable Formulations
 
-| Type          | Description                                                                                 |
-|---------------|---------------------------------------------------------------------------------------------|
-| **Solutions** | Most common. May be aqueous (e.g. SWFI, Bacteriostatic Water, NS) or nonaqueous (e.g. glycols, alcohols)          |
-| **Suspensions** | Difficult to formulate; require careful attention to syringeability and injectability      |
-| **Emulsions** | Typically oil-in-water, sometimes water-in-oil; used for nutrition (TPN), lipophilic drugs                          |
+| Type | Description |
+|------|-------------|
+| **Solutions** | Most common. May be aqueous (e.g. SWFI, Bacteriostatic Water, NS) or nonaqueous (e.g. glycols, alcohols) |
+| **Suspensions** | Difficult to formulate; require careful attention to syringeability and injectability |
+| **Emulsions** | Typically oil-in-water, sometimes water-in-oil; used for nutrition (TPN), lipophilic drugs |
 | **Lyophilized Powders** | Freeze-dried drugs for reconstitution before injection. Diluent varies by product; refer to package insert |
 
 🛡️ **Considerations**
