@@ -40,7 +40,7 @@
 - [x] Reading: Chapter 18 - Other Environments
 - [ ] Reading: Chapter 8 - Routes & Formulations
 - [x] Math: DEA Numbers
-- [ ] CE: Calculations for Pharmacy Technicians: Math & Measurements
+- [x] CE: Calculations for Pharmacy Technicians: Math & Measurements
 
 ## Week 5: Rx Law & Processing
 
