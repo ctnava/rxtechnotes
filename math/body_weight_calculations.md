@@ -1,4 +1,4 @@
-# 🧮 Dosage Calculations Based on Body Weight
+# 🧮 Dosage Calculations Based on Body Weight & Age
 
 Dosage calculations based on **body weight** are essential in pharmacy practice. They ensure safe and effective medication administration, especially in **pediatrics**, **critical care**, and **oncology**. Weight-based dosing adjusts for patient size, which significantly affects drug distribution and metabolism.
 
