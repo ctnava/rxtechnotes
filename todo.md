@@ -101,8 +101,6 @@
 - [x] CE: Vaccines
 - [x] Math: Young & Clark's Rule
 
----
-
 ## Week 11: Non Sterile Compounding
 
 - [x] DenaliRx Drugs 141-160
@@ -142,4 +140,4 @@
 
 ## Week 17: Final
 
-- [ ] Final Content
+- [x] Final Content
