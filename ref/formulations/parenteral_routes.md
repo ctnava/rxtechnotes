@@ -83,7 +83,7 @@ To protect sensitive and vital organs, parenteral formulations must:
 
 ⏱️ **Complete distribution occurs within ~20 seconds**
 
-#### 🔑 Overview
+#### 🔑 IV Overview
 
 IV administration delivers drug **directly into the vein**, bypassing all absorption barriers. It allows **precise control** over blood concentrations, making it ideal for **emergent therapies**, **electrolyte correction**, **continuous infusions**, and **drugs with narrow therapeutic indices**.
 
@@ -190,6 +190,69 @@ Always document:
 > 📍 For high-alert medications, double-check pump settings and line compatibility before administration.
 
 ### Intramuscular Route
+
+`Less hazardous and technically simpler than IV, but more painful`
+
+#### 🔑 IM Overview
+
+Intramuscular administration involves injecting a drug **deep into the skeletal muscle**, where it forms a **depot** that enables **slower absorption** and **prolonged action** compared to IV. IM injections are useful for **poorly soluble drugs**, **extended-release formulations**, and when **moderate volumes** are required.
+
+- **Onset**: Slower than IV  
+- **Duration**: Longer than IV  
+- **Absorption influenced by**:
+  - **Muscle activity** (blood flow)
+  - **Formulation properties** (particle size, vehicle)
+  - **Salt form** of the drug
+
+⚗️ **Acceptable IM Formulations**
+
+| Type         | Notes |
+|--------------|-------|
+| **Aqueous Solutions** | Fastest absorption |
+| **Oleaginous Solutions** | Slower, prolonged release; increased irritation risk |
+| **Suspensions** | Require shaking; slow, sustained release |
+| **Colloids / Emulsions** | Oil-in-water (o/w) or water-in-oil (w/o); particle size, emulsion type, and salt form modulate release rate |
+
+> 🛡️ All IM formulations must be **sterile**, **non-pyrogenic**, and free from particulate contamination.
+
+🧭 **Common IM Injection Sites**
+
+| Site | Region | Notes |
+|------|--------|-------|
+| **Gluteus maximus** | Buttocks | Large volume tolerance (up to 5 mL); avoid sciatic nerve |
+| **Deltoid muscle**  | Upper arm | Convenient for small-volume injections (≤ 2 mL); risk of hitting radial nerve if poorly placed |
+| **Vastus lateralis**| Thigh | Preferred in infants and small children; moderate volume (~2 mL) |
+| **Ventrogluteal**   | Hip | Safe site; away from major nerves and blood vessels |
+
+>- 📍 IM sites should be chosen to avoid proximity to **major nerves and blood vessels**.
+>- 📍 Doses >3 mL should be split between two sites unless specifically indicated otherwise.
+
+🎯 **Z-Track Technique**
+
+Used to minimize **drug leakage**, **tissue staining**, and **irritation**:
+
+1. Pull the skin and subcutaneous tissue laterally.
+2. Inject the drug into the muscle.
+3. Release the skin to **seal off the track**.
+
+> 🛡️ Recommended for:
+>
+>- Iron dextran
+>- Hydroxyprogesterone
+>- Drugs that discolor skin or irritate subcutaneous tissues
+
+🚨 **Risks & Complications**
+
+| Complication      | Description |
+|-------------------|-------------|
+| **Abscess**       | Sterile or infected localized collection of pus |
+| **Cysts**         | Form due to poor technique or poor drug absorption |
+| **Embolism**      | From accidental injection into blood vessel |
+| **Hematoma**      | Accumulation of blood from punctured vessels |
+| **Skin Sloughing**| Necrosis or peeling of skin layers |
+| **Scar Formation**| Repeated trauma to tissue |
+
+> 🛡️ **Prevention**: Always rotate injection sites!
 
 ### Subcutaneous Route
 
