@@ -215,6 +215,17 @@ Intramuscular administration involves injecting a drug **deep into the skeletal 
 
 > 🛡️ All IM formulations must be **sterile**, **non-pyrogenic**, and free from particulate contamination.
 
+🚨 **Risks & Complications**
+
+| Complication      | Description |
+|-------------------|-------------|
+| **Abscess**       | Sterile or infected localized collection of pus |
+| **Cysts**         | Form due to poor technique or poor drug absorption |
+| **Embolism**      | From accidental injection into blood vessel |
+| **Hematoma**      | Accumulation of blood from punctured vessels |
+| **Skin Sloughing**| Necrosis or peeling of skin layers |
+| **Scar Formation**| Repeated trauma to tissue |
+
 🧭 **Common IM Injection Sites**
 
 | Site | Region | Notes |
@@ -226,6 +237,7 @@ Intramuscular administration involves injecting a drug **deep into the skeletal 
 
 >- 📍 IM sites should be chosen to avoid proximity to **major nerves and blood vessels**.
 >- 📍 Doses >3 mL should be split between two sites unless specifically indicated otherwise.
+>- 🛡️ Always rotate injection sites to prevent muscle fibrosis, local irritation, scar & abscess formation
 
 🎯 **Z-Track Technique**
 
@@ -240,19 +252,6 @@ Used to minimize **drug leakage**, **tissue staining**, and **irritation**:
 >- Iron dextran
 >- Hydroxyprogesterone
 >- Drugs that discolor skin or irritate subcutaneous tissues
-
-🚨 **Risks & Complications**
-
-| Complication      | Description |
-|-------------------|-------------|
-| **Abscess**       | Sterile or infected localized collection of pus |
-| **Cysts**         | Form due to poor technique or poor drug absorption |
-| **Embolism**      | From accidental injection into blood vessel |
-| **Hematoma**      | Accumulation of blood from punctured vessels |
-| **Skin Sloughing**| Necrosis or peeling of skin layers |
-| **Scar Formation**| Repeated trauma to tissue |
-
-> 🛡️ **Prevention**: Always rotate injection sites!
 
 ### Subcutaneous Route
 
