@@ -7,7 +7,7 @@
 - [ ] Reading: Chapter 1 - History of Pharmacy
 - [x] CE: Wheel of Pharmacy Technician Career Opportunities
 - [x] SOP: Aseptic Handwashing
-- [x] Chapter 1 Math - Roman Numerals
+- [x] Math: Chapter 1 - Roman Numerals
 
 ## Week 2: Pharmacy Tech Profession
 
@@ -112,8 +112,8 @@
 
 - [ ] Reading: Chapter 17 - Hospital Pharmacy
 - [ ] CE: Safe Handling of Hazardous Drugs
-- [ ] Math: Chapter 28 - Body Surface Area
 - [x] Math: Chapter 10 - Temperature Conversion & Specific Gravity
+- [ ] Math: Chapter 28 - Body Surface Area
 
 ## Week 13: Sterile Compounding
 

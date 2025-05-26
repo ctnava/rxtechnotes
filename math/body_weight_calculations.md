@@ -130,6 +130,8 @@ $\text{Child's Dose} = \left( \frac{\text{Age}}{\text{Age} + 12} \right) \times 
 | 3: Dose per administration | ${1{,}452 \div 6 = 242\ \text{mg per dose}}$ |
 | 4: Convert mg to mL | ${\left(242\ \text{mg}\right) \times \left(\frac{5\ \text{mL}}{120\ \text{mg}}\right) = \boxed{10.08\ \text{mL per dose}}}$ |
 
+🔗 Back to [**Mathematics Concepts Directory**](./readme.md)
+
 <!-- 
 ## Reference
 
