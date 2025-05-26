@@ -59,7 +59,7 @@
 ## Week 6: Info & Financial
 
 - [ ] Gowning SOP
-- [ ] Math: Chapter 23 - Parenteral Ratios & Proportions
+- [x] Math: Chapter 23 - Parenteral Ratios & Proportions
 - [ ] Reading: Chapter 4 - Information Sources
 - [ ] Reading: Chapter 15 - Financial Issues
 - [ ] [Syringes Video](https://www.youtube.com/watch?v=b4Y2qE4ZgvE)
