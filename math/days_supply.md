@@ -1,6 +1,6 @@
 # 📘 Calculating Days' Supply
 
-## Key Concepts
+## 🔑 Key Concepts
 
 The Days Supply refers to how long a prescription will last based on the quantity dispensed and the prescribed dosing instructions. It is a technical quantity based entirely on math; not a guess, and not just the number of pills dispensed.
 
@@ -13,7 +13,11 @@ Two patients may receive the **same quantity** of medication but have **differen
 
 **General Calculation**:
 
-`Days Supply = Quantity Dispensed / Amount Taken Per Day`
+${\boxed{\text{Per Diem}} = \text{Amount per Dose} \times \text{Doses per Diem}}$
+
+${\boxed{\text{Days Supply}} = \text{Amount Dispensed} \div \text{Amount Per Diem}}$
+
+${\boxed{\Rightarrow \text{Days Supply} = \frac{\text{Amount Dispensed}}{\text{Amount per Dose} \times \text{Doses per Diem}}}}$
 
 - Round **down** to the nearest whole day
 - Days supply should be calculated based on **maximum daily usage**
@@ -37,6 +41,41 @@ Two patients may receive the **same quantity** of medication but have **differen
 - 🛡️ Document how you arrived at your days’ supply if not obvious.
 
 > 📌 Many pharmacy systems calculate days’ supply automatically, but knowing how to do it manually helps catch input errors and supports DUR decisions.
+
+## 📘 Oral Solids: Tablets & Capsules
+
+For the sake of simplicity, I will be referring to them as `pills`.
+
+🔠 **Abbreviations**:
+
+- Capsules = `cap`/ `c`
+- Tablets = `tab`/ `t`
+
+🔢 **Formula**:
+
+${\boxed{\text{Pills Per Diem}} = \text{Pills per Dose} \times \text{Doses Per Diem}}$
+
+${\boxed{\text{Days Supply} }= \text{Pills Dispensed} \div \text{Pills Per Diem}}$
+
+${\boxed{\Rightarrow \text{Days Supply} = \frac{\text{Pills Dispensed}}{\text{Pills per Dose} \times \text{Doses per Diem}}}}$
+
+💊 **Example**:
+
+- **Sig**: `iii tabs po QID #XLV`
+- **Translation**: Take 3 tablets by mouth, 4 times a day
+- **Quantity Dispensed**: 45 Tablets
+
+${\boxed{\text{Pills Dispensed}} = \text{45 tab}}$
+
+${\boxed{\text{Pills per Dose}} = \text{3 tab/dose}}$
+
+${\boxed{\text{Doses per Diem}} = \text{4 dose/day}}$
+
+${\boxed{\Rightarrow \text{Pills Per Diem}} = \frac{\text{3 tab}}{\text{1 dose}} \times \frac{\text{4 dose}}{\text{1 day}} = \frac{\text{12 tab}}{\text{1 day}} = \text{12 tab/day}}$
+
+${\boxed{\Rightarrow \text{Days Supply}} = \text{45 tab} \div \text{12 tab/day} = \frac{\text{45 tab}}{\text{1}} \times \frac{\text{1 day}}{\text{12 tab}}}$
+
+${\boxed{\Rightarrow \text{Days Supply}} = \text{3.75 Days} = \text{3 Days (Rounded Down)}}$
 
 | **Dosage Form** | **Billable Quantity** | **Formula for Days Supply** | **Notes** |
 | --- | --- | --- | --- |
