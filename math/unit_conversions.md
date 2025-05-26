@@ -254,7 +254,7 @@ $\%\ \text{w/v} = \left(\frac{\text{g}}{\text{mL}}\right) \times 100$
 
 | Ratio Strength | Equivalent Percent (w/v) |
 |----------------|--------------------------|
-| 1:1000         | ${\frac{1\ \text{g}}{1000\ \text{mL}} = 0.1\%}$ |
+| 1:1000         | ${\frac{1\ \text{g}}{1000\ \text{mL}} =}$ = 0.1% |
 | 1:500          | ${\frac{1\ \text{g}}{500\ \text{mL}} = 0.2\%}$  |
 | 1:250          | ${\frac{1\ \text{g}}{250\ \text{mL}} = 0.4\%}$  |
 | 1:100          | ${\frac{1\ \text{g}}{100\ \text{mL}} = 1\%}$    |
