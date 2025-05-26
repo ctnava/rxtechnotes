@@ -53,16 +53,77 @@ Dosage forms consist of:
 
 ## 👄 Oral Formulations
 
-`Per Orale (PO)` or `Taken by Mouth`
+Per os (`PO`), Latin for "by mouth", is the most frequently used route of drug administration.
 
-Oral administration is the most frequently used route. When formulations are orally administered, they enter the stomach, which has a pH of 1-2 (very acidic). Certain drugs cannot be taken orally because they are degraded or destroyed by stomach acid.
+Drugs administered orally pass through the stomach, which has a very **acidic pH (1–2)**. Some drugs **cannot** be administered orally because they are **degraded or inactivated** by gastric acid or enzymes.
 
-> 📌 The presence of food can directly affect the process of `ABSORPTION`
+> 📍 **Food Intake Warning**: The presence of food can **delay, reduce, or enhance** drug absorption depending on the formulation and the drug's properties.
 
-### Oral Solid Formulations
+### 💊 Oral Solid Formulations
 
-#### Tablets
+Solid dosage forms must typically undergo two processes:
 
-#### Capsules
+- **Disintegration**: Breaking apart into smaller particles
+- **Dissolution**: Dissolving into solution for absorption
 
-#### Bulk Powders
+Only dissolved drug molecules can cross gastrointestinal membranes and enter systemic circulation.
+
+#### 🔄 Modified Release Formulations
+
+**Modified-release** formulations alter the timing and/or location of drug release. These reduce dosing frequency and may offer steadier blood concentrations.
+
+Common terms include:
+
+| Abbreviation | Meaning              |
+|--------------|----------------------|
+| SR           | Sustained Release     |
+| SA           | Sustained Action      |
+| ER / XR      | Extended Release      |
+| PA           | Prolonged Action      |
+| CR           | Controlled Release    |
+| TR           | Time Release          |
+| LA           | Long Acting           |
+
+> 🛡️ **Do NOT crush, split, or chew** modified-release, layered, or coated formulations unless specifically labeled as safe to do so.
+
+#### ⚪ Tablets
+
+**Tablets** are hard, compressed formulations made by pressing active and inactive ingredients into a solid shape. Common types include:
+
+- **Film or sugar-coated tablets**: For taste masking or protection
+- **Scored tablets**: Designed to be safely split
+- **Multiple-compressed tablets**: Two-layer or compression-coated, often for combination or staged release
+- **Repeated action tablets**: Release a portion of the dose immediately, followed by another later
+- **Chewable tablets**: Intended to be chewed before swallowing
+- **Effervescent tablets**: Dissolved in water before ingestion
+
+> 🚨 **Enteric-coated tablets** resist stomach acid and disintegrate only at the higher pH of the **small intestine**.  
+> 🛡️ **Do not cut or crush** enteric-coated, layered, or time-release tablets.
+
+#### 💊 Capsules
+
+**Capsules** are solid dosage forms in which drugs and excipients are enclosed in a **gelatin shell**.
+
+Key features:
+
+- **Hard gelatin capsules**: Usually contain powder or pellets (small tablets)
+- **Softgels**: Contain **predissolved drugs in a liquid base**
+- **Gelatin dissolves**, releasing the contents, which must then dissolve into solution for absorption
+
+> 📍 Capsule size depends on the volume of contents. Smaller numbers indicate **larger** capsule sizes (i.e. 000 to 5).
+
+#### 📨 Bulk Powders
+
+**Bulk powders** are loose powder forms packaged in folded paper or foil pouches. They contain:
+
+- The active drug
+- Optional excipients that aid dissolution or flavor
+
+Usage:
+
+- Poured onto the back of the tongue and swallowed
+- Or dissolved in water or a flavored beverage before ingestion
+
+> 📍 Bulk powders bypass the **disintegration** step and dissolve directly, potentially leading to **faster onset** than tablets or capsules.
+
+### 🥤 Oral Liquid Formulations
