@@ -1,10 +1,5 @@
 # 💧 Infusion and Drip Rate Calculations
 
-## 🎯 Learning Objectives
-
-- ✅ Calculate the **IV flow rate in mL/hour** if the **volume** and **time** are known
-- ✅ Calculate **how long an IV infusion will last**
-
 ## 🕰️ Military Time
 
 📍 Military time is a **24-hour clock system** used in clinical settings to avoid AM/PM confusion.
