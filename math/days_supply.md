@@ -42,7 +42,9 @@ ${\boxed{\Rightarrow \text{Days Supply} = \frac{\text{Amount Dispensed}}{\text{A
 
 > 📌 Many pharmacy systems calculate days’ supply automatically, but knowing how to do it manually helps catch input errors and supports DUR decisions.
 
-## 📘 Oral Solids: Tablets & Capsules
+## 📘 Oral Formulations
+
+### Solids: Tablets & Capsules
 
 For the sake of simplicity, I will be referring to them as `pills`.
 
@@ -61,9 +63,9 @@ ${\boxed{\Rightarrow \text{Days Supply} = \frac{\text{Pills Dispensed}}{\text{Pi
 
 💊 **Example**:
 
-- **Sig**: `iii tabs po QID #XLV`
-- **Translation**: Take 3 tablets by mouth, 4 times a day
-- **Quantity Dispensed**: 45 Tablets
+**Sig**: `iii tabs po QID #XLV`
+
+==> `Take 3 tablets by mouth, 4 times a day #45`
 
 ${\boxed{\text{Pills Dispensed}} = \text{45 tab}}$
 
@@ -76,6 +78,12 @@ ${\boxed{\Rightarrow \text{Pills Per Diem}} = \frac{\text{3 tab}}{\text{1 dose}}
 ${\boxed{\Rightarrow \text{Days Supply}} = \text{45 tab} \div \text{12 tab/day} = \frac{\text{45 tab}}{\text{1}} \times \frac{\text{1 day}}{\text{12 tab}}}$
 
 ${\boxed{\Rightarrow \text{Days Supply}} = \text{3.75 Days} = \text{3 Days (Rounded Down)}}$
+
+## 📘 Oral Liquids
+
+
+
+---
 
 | **Dosage Form** | **Billable Quantity** | **Formula for Days Supply** | **Notes** |
 | --- | --- | --- | --- |

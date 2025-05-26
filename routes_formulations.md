@@ -127,3 +127,102 @@ Usage:
 > 📍 Bulk powders bypass the **disintegration** step and dissolve directly, potentially leading to **faster onset** than tablets or capsules.
 
 ### 🥤 Oral Liquid Formulations
+
+Oral **liquid formulations** deliver the drug in a pre-dissolved or suspended form, bypassing the need for **disintegration** and, in some cases, **dissolution**. This generally leads to **faster absorption** compared to solid oral dosage forms.
+
+#### 💧 Solutions
+
+**Solutions** are homogeneous mixtures in which one or more substances (**solutes**) are completely dissolved in a **solvent**. They are **clear** (not necessarily colorless) and contain no undissolved particles.
+
+Types of oral solutions:
+
+- **Aqueous solutions**: Water is the solvent. Most common type.
+  - **Syrups**:
+    - Aqueous solutions saturated with **sucrose** or other sugars
+    - Viscous, sweet, and flavored
+    - Contain **<10% alcohol**
+  - **Elixirs**:
+    - Clear, sweetened **hydroalcoholic** solutions
+    - Used for alcohol or water-soluble drugs
+    - Less viscous and less sweet than syrups
+    - Alcohol content ranges from **5–40%**
+
+- **Nonaqueous solutions**: Solvent is primarily **not water**. Only a limited number of nonaqueous solvents are allowed due to toxicity concerns (e.g. Glycerine, Alcohol, Propylene Glycol).
+
+- **Spirits / Essences**:
+  - Alcoholic or hydroalcoholic solutions of **volatile substances** (e.g., essential oils)
+  - Alcohol content: **62–85%**
+  - Used for flavoring or mild medicinal effects
+
+- **Tinctures**:
+  - Alcoholic or hydroalcoholic solutions of **nonvolatile substances**
+  - **10% drug strength** for potent drugs
+  - **20% drug strength** for non-potent drugs
+
+📌 **Considerations**
+
+| Advantages | Disadvantages |
+|------------|---------------|
+| Homogeneous doses | Shorter shelf life (less chemically stable) |
+| Faster absorption | Poor taste may require masking |
+| Suitable for patients unable to swallow solids | Bulky and heavy to store/transport |
+| Easy to adjust doses | May require dosing tools (oral syringes, cups) |
+|  | Some drugs are not soluble in acceptable solvents |
+
+#### 🌫️ Suspensions
+
+**Suspensions** are **heterogeneous** mixtures in which the drug is suspended as fine particles in a liquid. The drug **does not dissolve** completely.
+
+- 🛡️ Must be **shaken well** before each dose to ensure uniformity
+- Flavored and sweetened to improve palatability
+
+**Reconstitution**:
+
+- Many suspensions are sold as **lyophilized powders** (freeze-dried)
+- Require **reconstitution** with water before use
+- Common in pediatric antibiotics
+
+| Advantages | Disadvantages |
+|------------|---------------|
+| Allows administration of **insoluble drugs** | Particles **settle over time** |
+| Chemically **more stable** than in solution | Texture may be gritty or unpleasant |
+| Masks taste |  |
+| Suitable for patients who can't take solids |  |
+
+#### Colloidal Dispersions
+
+Colloids are mixtures where **small particles** (1–1000 nanometers) are dispersed throughout a medium. They are intermediate between solutions and suspensions.
+
+##### 🧴 Emulsions
+
+**Emulsions** are **liquid–liquid** dispersions of two immiscible phases (usually oleaginous (oil) and aqueous). One phase is dispersed into the other as **droplets**, stabilized by an **emulsifying agent**.
+
+- **Oil-in-Water (o/w)**: Water is continuous phase; oil is dispersed
+- **Water-in-Oil (w/o)**: Oil is continuous phase; water is dispersed
+
+Notes:
+
+- Emulsions for oral use are rare due to **instability** and **oily texture**
+- Used when oral solubility or bioavailability of a drug are greatly increased or for better flavoring agents
+- Common in **topical** dosage forms
+- **Creaming**: droplets rise/fall but can be **re-dispersed** by shaking
+- **Coalescence**: irreversible merging of droplets (product failure)
+
+> 🛡️ Must be shaken well before each use. Visually inspect for separation.
+
+##### 🌿 Gels
+
+**Gels** are **semi-solid** systems where a **liquid phase is dispersed within a solid matrix** formed by gelling agents. They are sometimes used orally, though more common topically.
+
+Key characteristics:
+
+- Require **12–24 hours** to reach full viscosity and clarity
+- Sometimes easier to incorporate the drug **before gel formation**
+- **Agent Concentration**: 0.5% – 10%
+- Gelling agents used orally:
+  - **Carbomers**
+  - **Methylcellulose**
+  - **Hydroxypropyl methylcellulose (HPMC)**
+  - **Sodium carboxymethylcellulose (NaCMC)**
+
+> 📍 Avoid using gelling agents not labeled for oral use. Some are only appropriate for topical or ophthalmic formulations.
