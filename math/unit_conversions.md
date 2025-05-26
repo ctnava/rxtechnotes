@@ -80,6 +80,35 @@ We will convert 1 gallon to milliliters by **chaining units**, canceling each on
 | 6: Convert to mL | ${768\ \text{tsp} \times \frac{5\ \text{mL}}{1\ \text{tsp}} = \boxed{3840\ \text{mL}}}$ |
 | 7: Final Answer | 1 gallon = 3840 mL |
 
+## 🧪 Example: Oral Suspension Dosage in Household Units
+
+- **Prescription:**
+  - `Cefaclor 250 mg/5 mL, dispense 150 mL`  
+  - `Take 375 mg twice daily for 10 days`
+- **Question:** How many teaspoons should I take per dose?
+
+| Step | Math |
+|------|------|
+| 1: Use the concentration to convert mg to mL| ${375\ \text{mg} \times \frac{5\ \text{mL}}{250\ \text{mg}} = 7.5\ \text{mL}}$ |
+| 2 (preferred): Convert mL to tsp | ${7.5\ \text{mL} \div \frac{5\ \text{mL}}{1\ \text{tsp}} = \boxed{1.5\ \text{tsp}}}$ |
+| 2 (alt): Convert mL to tsp | ${7.5\ \text{mL} \times \frac{1\ \text{tsp}}{5\ \text{mL}} = \boxed{1.5\ \text{tsp}}}$ |
+| 3: Final Answer | Take 1.5 tsp per dose |
+
+## 🧪 Example: Body Weight Dosing
+
+- **Medication Order:**
+  - `Dose: 30 mg/kg/day, divided into 4 doses`
+  - `Patient Weight: 205 lbs`
+- **Question:** What is the patient's dosing schedule and amount?
+
+| Step | Math |
+|------|------|
+| 1 (preferred): Convert weight to kg | ${205\ \text{lbs} \div \frac{2.2\ \text{lbs}}{1\ \text{kg}} \approx 93.18\ \text{kg}}$ |
+| 1 (alt): Convert weight to kg | ${205\ \text{lbs} \times \frac{1\ \text{kg}}{2.2\ \text{lbs}} \approx 93.18\ \text{kg}}$ |
+| 2: Calculate total daily dose | ${30\ \text{mg/kg/day} \times 93.18\ \text{kg} = 2795.45\ \text{mg/day}}$ |
+| 3: Divide into 4 doses | ${\frac{2795.45\ \text{mg/day}}{4} \approx \boxed{698.86\ \text{mg per dose}} \approx \boxed{700\ \text{mg per dose\ (rounded)}}}$ |
+| 4: Final Answer | Administer 700 mg every 6 hours |
+
 ### ✅ Best Practices
 
 - Write out all units and cancel as you go
