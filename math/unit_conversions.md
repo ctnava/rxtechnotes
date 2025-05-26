@@ -208,8 +208,8 @@ Understanding **density** and **specific gravity (SG)** is essential for pharmac
 
 | Step | Math |
 |------|------|
-| 1: Use the formula | ${\%\ \text{w/v} = \frac{\text{g of solute}}{100\ \text{mL}}}$ |
-| 2: Use the definition | ${2\% = \frac{\text{2 grams}}{\text{100 mL}}}$ |
+| 1: Use the formula | % ${\text{w/v} = \frac{\text{g of solute}}{100\ \text{mL}}}$ |
+| 2: Use the definition | 2% ${= \frac{\text{2 grams}}{\text{100 mL}}}$ |
 | 3: Set up proportion | ${\frac{\text{2 grams}}{\text{100 mL}} = \frac{\text{10 grams}}{\text{x mL}}}$ |
 | 4: Rearrange to solve for volume | ${\text{x mL} = \frac{\text{10 grams} \times \text{100 mL}}{\text{2 grams}} = \boxed{500\ \text{mL}}}$  |
 | ✅ Final Answer | You can prepare **500 mL** of a 2% salicylic acid solution from 10 g of the drug. |
@@ -220,8 +220,8 @@ Understanding **density** and **specific gravity (SG)** is essential for pharmac
 
 | Step | Math |
 |------|------|
-| 1: Use the formula | ${\%\ \text{w/v} = \frac{\text{g of solute}}{100\ \text{mL}}}$ |
-| 2: Use the definition | ${4\% = \frac{\text{4 grams}}{\text{100 mL}}}$ |
+| 1: Use the formula | % ${\text{w/v} = \frac{\text{g of solute}}{100\ \text{mL}}}$ |
+| 2: Use the definition | 4% ${= \frac{\text{4 grams}}{\text{100 mL}}}$ |
 | 3: Set up proportion | ${\frac{\text{4 grams}}{\text{100 mL}} = \frac{\text{x grams}}{\text{180 mL}}}$ |
 | 4: Rearrange to solve for mass | ${\text{x grams} = \frac{\text{4 grams} \times \text{180 mL}}{\text{100 mL}} = \boxed{7.2\ \text{g}}}$ |
 | ✅ Final Answer | The 180 mL contains **7.2 g** of boric acid. |
@@ -232,9 +232,9 @@ Question: How much of a 25% stock solution is required to prepare 200 mL of a 5%
 
 | Step | Math |
 |------|------|
-| 1: Interpret 5% target | ${5\% = \frac{\text{5 grams}}{\text{100 mL}}}$ |
+| 1: Interpret 5% target | 5% ${= \frac{\text{5 grams}}{\text{100 mL}}}$ |
 | 2: Determine how much drug is found in 200 mL | ${\frac{\text{5 grams}}{\text{100 mL}} = \frac{x\ \text{g}}{200\ \text{mL}} \Rightarrow \text{x grams} = \frac{\text{5 grams} \times \text{200 mL}}{\text{100 mL}} = \boxed{10\ \text{g}}}$  |
-| 3: Interpret 25% stock | ${25\% = \frac{\text{25 grams}}{\text{100 mL}}}$ |
+| 3: Interpret 25% stock | 25% ${= \frac{\text{25 grams}}{\text{100 mL}}}$ |
 | 4: Set up proportion to find how much of the stock contains 10 g | ${\frac{25\ \text{g}}{100\ \text{mL}} = \frac{\text{10 grams}}{\text{x mL}} \Rightarrow \text{x mL} = \frac{\text{10 grams} \times \text{100 mL}}{\text{25 grams}} = \boxed{40\ \text{mL}}}$ |
 | ✅ Final Answer | Use **40 mL** of 25% stock solution and add **160 mL** of diluent to make 200 mL of 5% solution. |
 
