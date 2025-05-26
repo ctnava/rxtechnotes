@@ -117,7 +117,7 @@
 
 ## Week 13: Sterile Compounding
 
-- [ ] Math: Chapter 29 - Infusion Rates
+- [x] Math: Chapter 29 - Infusion Rates
 - [ ] Reading: Chapter 10: Sterile Compounding & Aseptic Techniques
 - [ ] PTCB Prep: Assisting the Pharmacist
 - [x] DenaliRx Drugs 181-200
