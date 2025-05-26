@@ -122,11 +122,11 @@
 - [ ] Math: Chapter 29 - Infusion Rates
 - [ ] Reading: Chapter 10: Sterile Compounding & Aseptic Techniques
 - [ ] PTCB Prep: Assisting the Pharmacist
-- [ ] DenaliRx Drugs 181-200
+- [x] DenaliRx Drugs 181-200
 
 ## Week 14: Common Drugs
 
-- [ ] DenaliRx Drugs 161-180
+- [x] DenaliRx Drugs 161-180
 - [ ] Reading: Chapter 13 - Common Drugs & Uses
 - [ ] PTCB Prep: Distribution & Inventory Control
 - [ ] Math: Chapter 31 - Dilutions
