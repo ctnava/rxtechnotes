@@ -18,10 +18,10 @@
 
 > 🛡️ Must be **sterile** and **pyrogen-free**; preservatives and tonicity agents may be used.
 
-| Type | Description |
+| Route Type | Description |
 |------|-------------|
-| **Injection-Dependent** | Requires **needle and propulsion device** (syringe, infusion pump) |
-| **Injection-Independent** | No needle required but **must remain sterile** (e.g. inhalations, opthalmics, intranasal) |
+| 🔗 [Injection-Dependent](#injection-dependent-routes) | Requires **needle and propulsion device** (syringe, infusion pump) |
+| 🔗 [Injection-Independent](#injection-independent-routes) | No needle required but **must remain sterile** (e.g. inhalations, opthalmics, intranasal) |
 
 ## Injection Dependent Routes
 
