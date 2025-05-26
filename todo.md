@@ -95,7 +95,7 @@
 
 ## Week 10: Drug Activity
 
-- [ ] DenaliRx Drugs 121-140
+- [x] DenaliRx Drugs 121-140
 - [x] Math: Chapter 26 - Ratio Math
 - [ ] Reading: Chapter 12 - Factors Affecting Drug Activity
 - [x] CE: Vaccines
