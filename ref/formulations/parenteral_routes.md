@@ -330,4 +330,35 @@ Subcutaneous tissue can serve as a **site for infusion access** via **implanted 
 
 ### Intradermal Route
 
+`Shallow injection into the top layer of skin (dermis), primarily for diagnostics and immunologic use`
+
+#### 🔑 ID Overview
+
+Intradermal administration delivers **small volumes (0.1 mL or less)** directly into the **dermis**, the layer beneath the **epidermis**.
+
+- **Absorption**: **Extremely slow** due to limited vascularity
+- **Effect**: Can be **local** (skin reaction) or **systemic**
+- **Depot effect**: Drug forms a **wheal** (small, raised blister) from which it is gradually absorbed
+
+> 📍 The **wheal** is a visible sign of correct administration.
+
+📍 **Common Injection Site**
+
+- **Anterior forearm**: Most common and accessible site for intradermal administration
+
+> 🛡️ Aseptic technique is essential to prevent localized infection or abscess formation.
+
+🚨 **Important Considerations**
+
+- **Needle size**: Typically **25–27 gauge**, **3/8 inch**
+- **Angle of injection**: **5–15 degrees** with the bevel facing up
+- **Injection volume**: Usually **0.1 mL**
+- **Technique**:
+  - Stretch the skin taut
+  - Insert needle at shallow angle
+  - Inject slowly to form a **wheal**
+- **Do not massage** the site afterward; may affect drug absorption or test interpretation
+
+> 📍 The dermis contains **more blood vessels than the epidermis**, but **fewer than IM or SC tissues**, accounting for the very slow absorption rate.
+
 ## Injection Independent routes
