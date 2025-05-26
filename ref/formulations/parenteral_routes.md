@@ -34,9 +34,6 @@ Injection Dependent Routes involves delivering drugs directly into the body thro
 | **Subcutaneous (SC or SubQ)** | Injected or **implanted** into the **fatty tissue** just under the skin. Slower absorption than IM. | insulin, enoxaparin, heparin, vaccines |
 | **Intradermal (ID)** | Injected into the **dermal layer** of skin at an angle. | immunization, desensitization, **allergy testing**, & **diagnostics**  (e.g. tuberculin tests) |
 
-> 🚨 Smaller gauge = larger diameter.  
-> 🛡️ Use **aseptic technique** to reduce infection risk.
-
 ### Injectable Formulations & Administration
 
 #### 🧰 Injection Devices & Performance
@@ -55,6 +52,9 @@ Administered by needle
 | IM | 19–22G; 1–1.5" |
 | Subcutaneous | 24–27G; 3/8–1" |
 | Intradermal | 25–26G; 3/8" |
+
+>- 🚨 Smaller gauge = larger diameter.  
+>- 🛡️ Use **aseptic technique** to reduce infection risk.
 
 #### ⚗️ Injectable Formulations
 
@@ -127,7 +127,7 @@ IV administration delivers drug **directly into the vein**, bypassing all absorp
 
 > ☣️ Central lines are **high-risk** access points requiring **strict sterile technique** and **skilled insertion**. Central access is often needed for TPN, chemo, or prolonged antibiotic therapy.
 
-<!-- 📍 **Documentation Reminder**  
+📍 **Documentation Reminder**  
 
 Always document:
 
@@ -135,7 +135,7 @@ Always document:
 - Needle/catheter gauge  
 - Time of initiation  
 - Volume and drug administered  
-- Complications (if any) -->
+- Complications (if any)
 
 #### 🔄 Infusions
 
