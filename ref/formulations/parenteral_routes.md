@@ -255,6 +255,79 @@ Used to minimize **drug leakage**, **tissue staining**, and **irritation**:
 
 ### Subcutaneous Route
 
+`Versatile route suitable for both short-term and extended-release therapies`
+
+#### 🔑 SubQ Overview
+
+Subcutaneous administration involves injecting medication into the **fatty tissue beneath the dermis** and above the muscle layer. It is used when **slow, consistent absorption** is desired.
+
+- **Onset**: Slower than IM due to lower vascularity
+- **Duration**: Can support short-term or **very long-term** therapies
+- **Volume Limit**: Typically **0.5–1.5 mL** per injection
+
+> 📍 Useful for self-administration due to ease of access and minimal training requirements.
+
+⚗️ **Absorption Influencers**
+
+Absorption from subcutaneous tissue is largely influenced by same factors as intramuscular injections.
+
+| Factor | Effect |
+|--------|--------|
+| **Blood supply** | Fewer vessels = slower uptake |
+| **Heat or Massage** | Increases absorption rate |
+| **Co-administered Drugs** | Vasodilators may speed up absorption; vasoconstrictors slow it down |
+| **Formulation Type** | Suspension or viscous solutions slow absorption |
+
+🚨 **Risks & Complications**
+
+| Risk | Notes |
+|------|-------|
+| **Abscess** | May occur with improper aseptic technique |
+| **Tissue Necrosis** | Often linked to irritant drugs or repeated injections |
+| **Pain** | Dependent on needle size, volume, and formulation |
+
+🧭 **Common Injection Sites**
+
+| Site | Notes |
+|------|-------|
+| **Lower abdomen** | Avoid 2-inch radius around navel |
+| **Anterior thigh** | Easy self-access |
+| **Upper back** | Less common, used in clinical settings |
+| **Back of upper arm** | Common for vaccinations or biologics |
+
+> 🛡️ **Rotate sites** to avoid lipoatrophy, lipohypertrophy, or irritation.
+
+#### 🧪 Subcutaneous Implants
+
+SubQ implants are designed to deliver **sustained-release** medications over weeks, months, or even years.
+
+- **Placement**: Implanted into the subcutaneous tissue using:
+  - **Surgical incision** or
+  - **Specialized implant syringe**
+- **Design Considerations**:
+  - Must be **biocompatible**
+  - Must not cause **irritation**, **infection**, or **abscess formation**
+- **Advantages**:
+  - Long duration with single administration
+  - **Easily removable** if needed
+  - Ideal for **hormones**, **opioid antagonists**, **contraceptives**, etc.
+
+🔙 **Ports and Pumps in SubQ Tissue**
+
+Subcutaneous tissue can serve as a **site for infusion access** via **implanted ports** or **elastomeric pumps**:
+
+- **Function**: Ports deliver medication through **catheters** inserted into:
+  - **Veins**
+  - **Body cavities**
+  - **Arteries**
+  - **CNS spaces**
+- **Indications**:
+  - **Chemotherapy**
+  - **Long-term antibiotics**
+  - **Pain management**
+
+> 🛡️ These systems allow **continuous infusion** without repeated needle sticks, improving patient comfort and compliance.
+
 ### Intradermal Route
 
 ## Injection Independent routes
