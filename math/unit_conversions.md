@@ -250,7 +250,7 @@ $\text{Ratio Strength } (1:x) = \frac{1\ \text{g}}{x\ \text{mL}}$
 
 - **Convert ratio to percent (w/v):**  
 
-$\%\ \text{w/v} = \left(\frac{\text{g}}{\text{mL}}\right) \times 100$
+% $\text{w/v} = \left(\frac{\text{g}}{\text{mL}}\right) \times 100$
 
 | Ratio Strength | Equivalent Percent (w/v) |
 |----------------|--------------------------|
