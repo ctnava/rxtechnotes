@@ -127,7 +127,7 @@
 - [x] DenaliRx Drugs 161-180
 - [ ] Reading: Chapter 13 - Common Drugs & Uses
 - [ ] PTCB Prep: Distribution & Inventory Control
-- [ ] Math: Chapter 31 - Dilutions
+- [x] Math: Chapter 31 - Dilutions
 
 ## Week 15: Admin & Management
 
