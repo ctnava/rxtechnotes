@@ -51,7 +51,7 @@ Dosage forms consist of:
 
 📍 *Note: Not all excipients are inert for all patients. Some may cause allergies or intolerances.*
 
-## 👄 Oral Formulations
+## 👄 Oral Routes
 
 Per os (`PO`), Latin for "by mouth", is the most frequently used route of drug administration.
 
@@ -226,3 +226,54 @@ Key characteristics:
   - **Sodium carboxymethylcellulose (NaCMC)**
 
 > 📍 Avoid using gelling agents not labeled for oral use. Some are only appropriate for topical or ophthalmic formulations.
+
+### 👅 Sublingual & Buccal Routes
+
+**Sublingual (SL)** and **buccal (Bucc)** formulations are designed for **rapid systemic absorption** via the **oral mucosa**. These dosage forms bypass the gastrointestinal tract and **first-pass hepatic metabolism**, delivering the drug **directly into the bloodstream** through **capillaries under or along the tongue and inner cheek**.
+
+- **Sublingual (SL)**: Dosage form placed **under the tongue**, where it dissolves and is absorbed through the sublingual mucosa.
+- **Buccal (Bucc)**: Dosage form placed **between the cheek and gum**, where it dissolves and is absorbed through the buccal mucosa. Buccal forms may contain **bioadhesive polymers** to prolong retention time.
+
+They are *useful* when **swallowing is impaired** or GI route is contraindicated and *suitable* for **emergency** or **onset-critical** drugs (e.g. nitroglycerin, fentanyl).
+
+> 📌 These formulations are typically **solid** (e.g. tablets, films, wafers) or **liquid drops** (usually <1 mL per dose) containing **water-soluble drugs**.
+
+#### ⚙️ Administration Guidelines
+
+- If the mouth is **dry**, moisten it before administration to improve dissolution and absorption.
+- **Do not chew or swallow** the dosage form; allow it to fully dissolve.
+- **Avoid eating, drinking, or talking** until the drug is fully absorbed.
+- Buccal forms with **mucoadhesives** can improve residence time and absorption but may feel bulky or uncomfortable.
+
+#### 📉 Disadvantages
+
+- **Unpleasant or bitter taste** is common.
+- **Mucosal irritation** may occur.
+- May be **inconvenient** for patients who cannot remain still or refrain from eating/drinking during administration.
+
+### 🍑 Rectal Route
+
+Drugs administered via the **rectal route** can provide **rapid, local or systemic,** effects. This route is used when:
+
+- Local effects are desired (e.g. **Anti-inflammatory agents** to soothe **hemorrhoidal tissue** or **Laxatives** to stimulate bowel movements)
+- Systemic effects are desired, but:
+  - the drug is **unstable in gastric acid** or degraded by **digestive enzymes**
+  - **Swallowing** is not feasible due to **nausea, vomiting, unconsciousness, or dysphagia**
+  - Rapid absorption is needed but **parenteral routes** are not available
+
+💊 **Common Rectal Formulations**
+
+| Dosage Form | Description | Notes |
+|-------------|-------------|-------|
+| **Suppositories** | Semisolid dosage forms that **melt or dissolve** at body temperature after insertion | Must be inserted past the anal sphincter for effectiveness |
+| **Solutions (Enemas)** | Liquids administered rectally, used for **cleansing** or **retention** | Cleansing enemas (water-based) stimulate defecation; retention enemas (oil-based) soften stool |
+| **Ointments** | Topical semisolids applied around the anus | Used for inflammation or irritation, often with local anesthetics or steroids |
+
+> 🚨 **Frequent enema use is discouraged** due to potential for dependence and disruption of normal bowel function.
+
+#### ⚠️ Disadvantages
+
+- **Inconvenient and uncomfortable**
+- **Erratic and unpredictable absorption**
+- Risk of **expulsion** before the drug is fully absorbed
+- May cause **local irritation**
