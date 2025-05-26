@@ -254,12 +254,12 @@ $\%\ \text{w/v} = \left(\frac{\text{g}}{\text{mL}}\right) \times 100$
 
 | Ratio Strength | Equivalent Percent (w/v) |
 |----------------|--------------------------|
-| 1:1000 | ${\frac{\text{1 g}}{\text{1000 mL}} = \text{0.1 %\}}$ |
-| 1:500 | ${\frac{\text{1 g}}{\text{500 mL}} = \text{0.2 %\}}$ |
-| 1:250 | ${\frac{\text{1 g}}{\text{250 mL}} = \text{0.4 %\}}$ |
-| 1:100 | ${\frac{\text{1 g}}{\text{100 mL}} = \text{1 %\}}$ |
-| 1:40 | ${\frac{\text{1 g}}{\text{40 mL}} = \text{2.5 %\}}$ |
-| 1:10 | ${\frac{\text{1 g}}{\text{10 mL}} = \text{10 %\}}$ |
+| 1:1000 | ${\frac{\text{1 g}}{\text{1000 mL}} = \text{0.1} %\}$ |
+| 1:500 | ${\frac{\text{1 g}}{\text{500 mL}} = \text{0.2} %\}$ |
+| 1:250 | ${\frac{\text{1 g}}{\text{250 mL}} = \text{0.4} %\}$ |
+| 1:100 | ${\frac{\text{1 g}}{\text{100 mL}} = \text{1} %\}$ |
+| 1:40 | ${\frac{\text{1 g}}{\text{40 mL}} = \text{2.5} %\}$ |
+| 1:10 | ${\frac{\text{1 g}}{\text{10 mL}} = \text{10} %\}$ |
 
 ### 🧪 Example 1: Convert Ratio to Percent Strength
 
