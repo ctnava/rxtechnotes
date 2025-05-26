@@ -179,7 +179,7 @@ Understanding **density** and **specific gravity (SG)** is essential for pharmac
 - Round **only at the final step**
 - Clearly label your **units** in all work
 
-## 💯 Percent Strength
+## 💯 Percent Strength of Solutions
 
 **Percent strength** is a common way to express the concentration of a solution in pharmacy. Understanding how to calculate, interpret, and manipulate percentages is essential for compounding, dilutions, and preparing medications accurately.
 

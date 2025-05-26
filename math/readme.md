@@ -8,4 +8,3 @@
 | 4 | [Temperature Scale Conversions](./temperature_scale_conversions.md) | ✅ Complete |
 | 5 | [Unit Conversions for Pharmacy Technicians](./unit_conversions.md) | 🚧 WIP |
 | 6 | [Dosage Calculations Based on Body Weight](./body_weight_calculations.md) | ✅ Complete |
-| 7 | [Percents & Ratios](./percents_ratios.md) | ✅ Complete |
