@@ -113,6 +113,8 @@ $\text{Time} = \frac{1000\ \text{mL}}{125\ \text{mL/hr}} = 8\ \text{hr}$
 | 3: Add 5 hours | 1400 + 5 hr = 1900 hrs |
 | 4: Answer | ${\boxed{\text{1900 hrs on Tuesday}}}$ (7:00 PM Tuesday) |
 
+🔗 Back to [**Mathematics Concepts Directory**](./readme.md)
+
 <!-- 
 ## Reference
 
