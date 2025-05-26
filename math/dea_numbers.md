@@ -43,4 +43,31 @@ To confirm the validity of the DEA number, use this simple formula based on the 
 - Pharmacies must keep DEA numbers on file and ensure the prescriber’s authority.
 - Invalid or altered DEA numbers are a red flag for fraudulent prescriptions and must be reported to the pharmacist immediately.
 
-> 💡 **Tip**: Many pharmacy systems perform DEA validation automatically, but it’s important to know how to check manually in case of system issues or suspicious prescriptions.
+## 🌐 Online DEA Number Verification
+
+DEA number verification can also be conducted using **online resources**, though **only authorized parties** such as pharmacies, law enforcement, and healthcare institutions may access official DEA registrant databases.
+
+### 🦅x🐻 Legal Note
+
+Pharmacy technicians in California are permitted to **assist with DEA number validation**, but **access to official DEA registrant databases** may be restricted to pharmacists or other credentialed staff depending on facility policy.
+
+### 🔗 Verification Resources
+
+| Resource | Description |
+|----------|-------------|
+| ✅ **DEA Diversion Control Division** | [https://www.deadiversion.usdoj.gov](https://www.deadiversion.usdoj.gov) — Official site for DEA registration, forms, and updates |
+| ✅ **NABP PMP InterConnect** | A multi-state prescription monitoring system that may cross-check DEA registration indirectly |
+| ✅ **State Licensing Boards** | Many prescriber license lookups include DEA status |
+| ✅ **Pharmacy Management Systems** | Commercial systems (e.g., PioneerRx, QS/1, McKesson) often include DEA auto-validation |
+| ⚠️ **Third-party Lookup Tools** | Use caution. Only rely on services with verified access to DEA data |
+
+## 🚨 Best Practices
+
+- 🛡️ Use **official sources or trusted pharmacy software** for verification
+- 📍 If unsure about a prescriber’s authority, **consult the pharmacist**
+- 🛡️ Keep a **record of any manual or external verification** performed, especially if it affects dispensing decisions
+- 🚨 **Never fill a controlled substance** prescription with a questionable or unverifiable DEA number without pharmacist review
+
+> 💡 **Tip**: If you're working in a setting without direct DEA lookup access, **ask the pharmacist** to verify or use their credentials on registered platforms.
+
+🔗 Back to [**Mathematics Concepts Directory**](./readme.md)
