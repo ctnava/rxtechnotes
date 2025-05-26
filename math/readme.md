@@ -3,7 +3,7 @@
 | Chapter | Title | Rework Status |
 |---------|-------|---------------|
 | 1 | [Roman Numeral System](./roman_numerals.md) | ✅ Complete |
-| 2 | [Unit Conversions: Household & Metric](./unit_conversions.md) | 🚧 WIP |
+| 2 | [Unit Conversions: Household & Metric](./unit_conversions.md) | ✅ Complete |
 | 3 | [Calculating Days Supply](./days_supply.md) | 🚧 WIP |
 | 4 | [Reading Medication Labels](./medication_labels.md) | ❌ DNE |
 | 5 | [Verification of DEA Numbers](./dea_numbers.md) | 🚧 WIP |
