@@ -67,7 +67,7 @@
 
 ## Week 7: Inventory & Medication Histories
 
-- [ ] DenaliRx Drugs 81-100
+- [x] DenaliRx Drugs 81-100
 - [x] Kirby Lester Counting Machine Video
 - [ ] CVS Insurance Training Packet
 - [ ] Reading: Chapter 14 - Inventory
