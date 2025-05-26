@@ -112,3 +112,9 @@ $\text{Time} = \frac{1000\ \text{mL}}{125\ \text{mL/hr}} = 8\ \text{hr}$
 | 2: Start time | 1400 hrs (Tuesday) |
 | 3: Add 5 hours | 1400 + 5 hr = 1900 hrs |
 | 4: Answer | ${\boxed{\text{1900 hrs on Tuesday}}}$ (7:00 PM Tuesday) |
+
+<!-- 
+## Reference
+
+Pharmacy Calculations, 6e; Morton Publishing | Chapter 29
+-->
