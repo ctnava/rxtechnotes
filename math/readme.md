@@ -13,7 +13,7 @@
 | 9 | [Ratios & Percents in Pharmacy](./percents_ratios.md) | ✅ Complete |
 | 10 | [Dosage Calculations Based on Body Weight & Age](./body_weight_calculations.md) | ✅ Complete |
 | 11 | [Temperature Scale, Density, & Specific Gravity Conversions](./temperature_scale_conversions.md) | ✅ Complete |
-| 12 | [Body Surface Area](./bsa.md) | ❌ DNE  |
+| 12 | [Dosage Calculations Based on Body Surface Area](./bsa.md) | ✅ Complete  |
 | 13 | [Infusion and Drip Rate Calculations](./flow_drip_rate.md) | ✅ Complete |
 | 14 | [Dilutions](./dilutions.md) | ✅ Complete  |
 | 15 | [Total Parenteral Nutrition](./tpn.md) | ❌ DNE  |
