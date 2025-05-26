@@ -259,7 +259,7 @@ $\%\ \text{w/v} = \left(\frac{\text{g}}{\text{mL}}\right) \times 100$
 | 1:250          | \( \frac{1\,\text{g}}{250\,\text{mL}} = 0.4\% \)  |
 | 1:100          | \( \frac{1\,\text{g}}{100\,\text{mL}} = 1\% \)    |
 | 1:40           | \( \frac{1\,\text{g}}{40\,\text{mL}} = 2.5\% \)   |
-| 1:10           | \( \frac{1\,\text{g}}{10\,\text{mL}} = 10\% \)    |
+| 1:10           | ${ \frac{1\,\text{g}}{10\,\text{mL}} = 10\% }$    |
 
 ### 🧪 Example 1: Convert Ratio to Percent Strength
 
