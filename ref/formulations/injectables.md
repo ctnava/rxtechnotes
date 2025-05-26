@@ -164,6 +164,11 @@ Always document:
 
 > 📍 For high-alert medications, double-check pump settings and line compatibility before administration.
 
+---
+
+- 🗺️ [**Table of Contents**](#injection-dependent-parenteral-routes-of-administration)
+- 🔗 Back to [**Parenteral Routes of Administration**](./parenteral_routes.md)
+
 ## Intramuscular Route
 
 `Less hazardous and technically simpler than IV, but more painful`
@@ -227,6 +232,11 @@ Used to minimize **drug leakage**, **tissue staining**, and **irritation**:
 >- Iron dextran
 >- Hydroxyprogesterone
 >- Drugs that discolor skin or irritate subcutaneous tissues
+
+---
+
+- 🗺️ [**Table of Contents**](#injection-dependent-parenteral-routes-of-administration)
+- 🔗 Back to [**Parenteral Routes of Administration**](./parenteral_routes.md)
 
 ## Subcutaneous Route
 
@@ -303,6 +313,11 @@ Subcutaneous tissue can serve as a **site for infusion access** via **implanted 
 
 > 🛡️ These systems allow **continuous infusion** without repeated needle sticks, improving patient comfort and compliance.
 
+---
+
+- 🗺️ [**Table of Contents**](#injection-dependent-parenteral-routes-of-administration)
+- 🔗 Back to [**Parenteral Routes of Administration**](./parenteral_routes.md)
+
 ## Intradermal Route
 
 `Shallow injection into the top layer of skin (dermis), primarily for diagnostics and immunologic use`
@@ -338,4 +353,5 @@ Intradermal administration delivers **small volumes (0.1 mL or less)** directly 
 
 ---
 
-🔗 Back to [**Parenteral Routes of Administration**](./parenteral_routes.md)
+- 🗺️ [**Table of Contents**](#injection-dependent-parenteral-routes-of-administration)
+- 🔗 Back to [**Parenteral Routes of Administration**](./parenteral_routes.md)
