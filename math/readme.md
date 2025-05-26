@@ -7,6 +7,6 @@
 | 3 | [Calculating Days Supply](./days_supply.md) | 🚧 WIP |
 | 4 | [Temperature Scale Conversions](./temperature_scale_conversions.md) | ✅ Complete |
 | 5 | [Unit Conversions for Pharmacy Technicians](./unit_conversions.md) | ✅ Complete |
-| 5 | [Ratios & Percents in Pharmacy](./percents_ratios.md) | ✅ Complete |
-| 6 | [Dosage Calculations Based on Body Weight](./body_weight_calculations.md) | ✅ Complete |
-| 6 | [Infusion Rates](./flow_drip_rate.md) | ✅ Complete |
+| 6 | [Ratios & Percents in Pharmacy](./percents_ratios.md) | ✅ Complete |
+| 7 | [Dosage Calculations Based on Body Weight](./body_weight_calculations.md) | ✅ Complete |
+| 8 | [Infusion Rates](./flow_drip_rate.md) | ✅ Complete |
