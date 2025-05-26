@@ -167,7 +167,7 @@ Always document:
 ---
 
 - 🗺️ [**Table of Contents**](#injection-dependent-parenteral-routes-of-administration)
-- 🔗 Back to [**Parenteral Routes of Administration**](./parenteral_routes.md)
+- 🔙 [**Parenteral Routes of Administration**](./parenteral_routes.md)
 
 ## Intramuscular Route
 
@@ -236,7 +236,7 @@ Used to minimize **drug leakage**, **tissue staining**, and **irritation**:
 ---
 
 - 🗺️ [**Table of Contents**](#injection-dependent-parenteral-routes-of-administration)
-- 🔗 Back to [**Parenteral Routes of Administration**](./parenteral_routes.md)
+- 🔙 [**Parenteral Routes of Administration**](./parenteral_routes.md)
 
 ## Subcutaneous Route
 
@@ -316,7 +316,7 @@ Subcutaneous tissue can serve as a **site for infusion access** via **implanted 
 ---
 
 - 🗺️ [**Table of Contents**](#injection-dependent-parenteral-routes-of-administration)
-- 🔗 Back to [**Parenteral Routes of Administration**](./parenteral_routes.md)
+- 🔙 [**Parenteral Routes of Administration**](./parenteral_routes.md)
 
 ## Intradermal Route
 
@@ -354,4 +354,4 @@ Intradermal administration delivers **small volumes (0.1 mL or less)** directly 
 ---
 
 - 🗺️ [**Table of Contents**](#injection-dependent-parenteral-routes-of-administration)
-- 🔗 Back to [**Parenteral Routes of Administration**](./parenteral_routes.md)
+- 🔙 [**Parenteral Routes of Administration**](./parenteral_routes.md)
