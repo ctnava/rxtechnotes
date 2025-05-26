@@ -186,9 +186,9 @@ Understanding **density** and **specific gravity (SG)** is essential for pharmac
 | Term | Definition |
 |------|------------|
 | **Percent Strength (% w/v)** | Number of grams of solute in 100 mL of solution. Most common in pharmacy. |
-| **% w/v** | Weight in volume (grams per 100 mL) — used for solids dissolved in liquids. |
-| **% v/v** | Volume in volume (mL per 100 mL) — used for liquids in liquids. |
-| **% w/w** | Weight in weight (grams per 100 g) — used for ointments or creams. |
+| **% w/v** | Weight in volume (grams per 100 mL) - used for solids dissolved in liquids. |
+| **% v/v** | Volume in volume (mL per 100 mL) - used for liquids in liquids. |
+| **% w/w** | Weight in weight (grams per 100 g) - used for ointments or creams. |
 
 > 🚨 Unless otherwise specified, % strength refers to % w/v in pharmacy practice.
 
