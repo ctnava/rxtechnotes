@@ -385,5 +385,5 @@ Medication Order:
 <!-- 
 ## Reference
 
-Pharmacy Calculations, 6e; Morton Publishing | Chapter 8, 10, 25, & 26
+Pharmacy Calculations, 6e; Morton Publishing | Chapter 8, 10, 23, 25, & 26
 -->
