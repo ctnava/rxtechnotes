@@ -246,3 +246,7 @@ Drugs administered via the **rectal route** can provide **rapid, local or system
 - **Erratic and unpredictable absorption**
 - Risk of **expulsion** before the drug is fully absorbed
 - May cause **local irritation**
+
+---
+
+🔗 Back to [**Routes & Formulations**](../../routes_formulations.md)
