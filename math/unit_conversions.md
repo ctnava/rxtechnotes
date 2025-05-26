@@ -198,8 +198,8 @@ Understanding **density** and **specific gravity (SG)** is essential for pharmac
 
 | Step | Math |
 |------|------|
-| 1: Use formula | ${\%\ \text{w/v} = \frac{\text{g of solute}}{\text{mL of solution}} \times 100}$ |
-| 2: Plug in values | ${\frac{\text{12 g}}{\text{400 mL}} \times 100 = \boxed{3\%}}$ |
+| 1: Use formula | % ${\text{w/v} = \frac{\text{g of solute}}{\text{mL of solution}} \times 100}$ |
+| 2: Plug in values | ${\frac{\text{12 g}}{\text{400 mL}} \times 100 =}$ **3%** |
 | ✅ Final Answer | The solution is **3% NaCl**. |
 
 ### 🧪 Example 2: Calculate Volume from Weight and Percent Strength
@@ -268,7 +268,7 @@ $\%\ \text{w/v} = \left(\frac{\text{g}}{\text{mL}}\right) \times 100$
 | Step | Math |
 |------|------|
 | 1: Interpret the ratio | ${1:250 = \frac{1\ \text{g}}{250\ \text{mL}}}$ |
-| 2: Apply formula | ${\frac{1\ \text{g}}{250\ \text{mL}} \times 100 = \boxed{0.4\%}}$ |
+| 2: Apply formula | ${\frac{1\ \text{g}}{250\ \text{mL}} \times 100 =}$ **0.4%** |
 | ✅ Final Answer | A 1:250 ratio = **0.4% w/v** |
 
 ### 🧪 Example 2: Convert Percent to Ratio Strength
@@ -277,7 +277,7 @@ $\%\ \text{w/v} = \left(\frac{\text{g}}{\text{mL}}\right) \times 100$
 
 | Step | Math |
 |------|------|
-| 1: Use percent definition | ${0.9\% = \frac{0.9\ \text{g}}{100\ \text{mL}}}$ |
+| 1: Use percent definition | 0.9% ${= \frac{0.9\ \text{g}}{100\ \text{mL}}}$ |
 | 2: Set up proportion to scale to 1 g | ${\frac{0.9\ \text{g}}{100\ \text{mL}} = \frac{1\ \text{g}}{x\ \text{mL}}}$ |
 | 3: Solve for x | ${x = \frac{100\ \text{mL}}{0.9} = \boxed{111.1\ \text{mL}}}$ |
 | ✅ Final Answer | 0.9% = **1:111.1** (rounded to one decimal) |
