@@ -105,7 +105,7 @@
 
 ## Week 11: Non Sterile Compounding
 
-- [ ] DenaliRx Drugs 141-160
+- [x] DenaliRx Drugs 141-160
 - [ ] Reading: Chapter 9 - Nonsterile Compounding
 - [ ] CE: Medication Therapy Management
 - [ ] CE: PAPs
