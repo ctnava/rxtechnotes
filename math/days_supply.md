@@ -48,6 +48,8 @@ ${\boxed{\Rightarrow \text{Days Supply} = \frac{\text{Amount Dispensed}}{\text{A
 
 **Billable Units**: Whole Tablets or Capsules
 
+*also includes patches & suppositories
+
 🔠 **Abbreviations**:
 
 - Capsules = `cap`/ `c`
@@ -153,42 +155,6 @@ ${\boxed{\Rightarrow \text{Grams Per Diem} = \frac{1 \, \text{g}}{1 \, \text{app
 
 ${\boxed{\Rightarrow \text{Days Supply} = \frac{30 \, \text{g}}{2 \, \text{g/day}} = \frac{30}{1} \times \frac{1 \, \text{day}}{2} = 15 \, \text{days}}}$
 
-## 🌬️ Metered-Dose Inhalers (MDIs)
-
-**Billable Quantity**: Mass (g); based on **canister**  
-**Clinical Quantity**: Total **metered doses** (puffs)
-
-🔠 **Abbreviations**:
-
-- **Metered-Dose Inhaler**: `mdi`
-- **Puffs**: `p`
-
-🔢 **Formula**:
-
-${\boxed{\text{Puffs Per Diem} = {\text{Puffs per Dose} \times \text{Doses per Diem}}}}$
-
-${\boxed{\text{Days Supply} = \frac{\text{Total Metered Doses}}{{\text{Puffs per Dose} \times \text{Doses per Diem}}}}}$
-
-> 📍 MDI canisters are labeled with **number of actuations (puffs)**
-
-📘 **Example**:
-
-**Sig**: `iii puff q6h prn sob # IIX g (200 metered doses)`
-
-==> `inhale 3 puffs every 6 hours as needed for shortness of breath #8 grams (200 metered doses)`
-
-${\boxed{\text{Total Metered Doses} = 200 \, \text{p}}}$
-
-${\boxed{\text{Puffs per Dose} = 3 \, \text{p}}}$
-
-${\boxed{\text{Doses per Diem} = \frac{24 \, \text{hr}}{6 \, \text{hr/dose}} = 4 \, \text{doses/day}}}$
-
-${\boxed{\Rightarrow \text{Puffs Per Diem} = \frac{3 \, \text{p}}{1 \, \text{dose}} \times \frac{4 \, \text{doses}}{1 \, \text{day}} = \frac{12 \, \text{p}}{1 \, \text{day}} = 12 \, \text{p/day}}}$
-
-${\boxed{\text{Days Supply} = \frac{200 \, \text{p}}{12 \, \text{p/day}} = \frac{200}{1} \times \frac{1 \, \text{day}}{12} = 16.66 \, \text{days}}}$
-
-${\boxed{\Rightarrow \text{Days Supply} = 16 \, \text{Days (Rounded Down)}}}$
-
 ## 👁️ Eyedrops & Eardrops
 
 **Billable Quantity**: Volume (mL)
@@ -232,6 +198,44 @@ ${\boxed{\text{Doses per Diem} = 1 \, \text{dose/day}}}$
 ${\boxed{\Rightarrow \text{Drops per Diem} = \frac{4 \, \text{gtt}}{1 \, \text{dose}} \times \frac{1 \, \text{dose}}{1 \, \text{day}} = \frac{4 \, \text{gtt}}{1 \, \text{day}} = 4 \, \text{gtt/day}}}$
 
 ${\boxed{\Rightarrow \text{Days Supply} = \frac{100 \, \text{gtt}}{4 \, \text{gtt/day}} = \frac{100}{1} \times \frac{1 \, \text{day}}{4} = 25 \, \text{days}}}$
+
+## 🌬️ Metered-Dose Inhalers (MDIs)
+
+**Billable Quantity**: Mass (g); based on **canister**  
+**Clinical Quantity**: Total **metered doses** (puffs)
+
+🔠 **Abbreviations**:
+
+- **Metered-Dose Inhaler**: `mdi`
+- **Puffs**: `p`
+
+🔢 **Formula**:
+
+${\boxed{\text{Puffs Per Diem} = {\text{Puffs per Dose} \times \text{Doses per Diem}}}}$
+
+${\boxed{\text{Days Supply} = \frac{\text{Total Metered Doses}}{{\text{Puffs per Dose} \times \text{Doses per Diem}}}}}$
+
+> 📍 MDI canisters are labeled with **number of actuations (puffs)**
+
+📘 **Example**:
+
+**Sig**: `iii puff q6h prn sob # IIX g (200 metered doses)`
+
+==> `inhale 3 puffs every 6 hours as needed for shortness of breath #8 grams (200 metered doses)`
+
+${\boxed{\text{Total Metered Doses} = 200 \, \text{p}}}$
+
+${\boxed{\text{Puffs per Dose} = 3 \, \text{p}}}$
+
+${\boxed{\text{Doses per Diem} = \frac{24 \, \text{hr}}{6 \, \text{hr/dose}} = 4 \, \text{doses/day}}}$
+
+${\boxed{\Rightarrow \text{Puffs Per Diem} = \frac{3 \, \text{p}}{1 \, \text{dose}} \times \frac{4 \, \text{doses}}{1 \, \text{day}} = \frac{12 \, \text{p}}{1 \, \text{day}} = 12 \, \text{p/day}}}$
+
+${\boxed{\text{Days Supply} = \frac{200 \, \text{p}}{12 \, \text{p/day}} = \frac{200}{1} \times \frac{1 \, \text{day}}{12} = 16.66 \, \text{days}}}$
+
+${\boxed{\Rightarrow \text{Days Supply} = 16 \, \text{Days (Rounded Down)}}}$
+
+---
 
 ## 🧪 Specialized Dosing Schedules
 
