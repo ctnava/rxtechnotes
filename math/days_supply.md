@@ -302,7 +302,7 @@ ${\boxed{\text{Days Supply} = \frac{28 \, \text{tab}}{1 \, \text{tab/day}} = 28 
 <!-- 
 ## Reference
 
-Pharmacy Calculations, 6e; Morton Publishing | Chapter 12
+Pharmacy Calculations, 6e; Morton Publishing | Chapter 12 & 13
 -->
 
 ---
