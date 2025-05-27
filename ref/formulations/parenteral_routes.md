@@ -225,22 +225,91 @@ Inhaled medications deliver drugs to the **pulmonary system** via the lungs, whi
 
 ### Dermal Route
 
-dosage forms
+`Easiest administration route.`
 
-- solutions
-- tinctures
-- collofions
-- liniments
-- suspensions
-- ointments
-- creams
-- gels
-- lotions
-- pastes
-- plasters
-- powders
-- aerosols
-- transfermal patches
+Most dermal dosage forms are intended for **local effects** on or within the skin:
+
+- **Protectants**: form a barrier
+- **Lubricants**: reduce friction
+- **Emollients**: soften and moisturize
+- **Drying agents**
+- **Drug delivery**: via *percutaneous absorption* (through the skin) into systemic circulation
+
+🔬 **Anatomy of the Skin**
+
+- **Largest and heaviest organ** (≈17% of body weight)
+- Average thickness: **3–5 mm**, varies by location
+- Layers:
+  - **Epidermis**: outer layer, includes **stratum corneum**
+    - Stratum corneum = ~10 µm thick, can swell 3x with hydration
+    - Primary barrier to drug penetration
+    - Turnover rate: ~21 days
+  - **Dermis**
+  - **Subcutaneous tissue**
+
+📈 Rules of Percutaneous Absorption
+
+- Absorption limited by the **stratum corneum**; max rate ≈ **2 mg/hour**
+- **Larger surface area** = greater absorption
+- **Hydrated skin** absorbs more
+- **Inunction** (rubbing in) increases absorption
+- **Longer contact time** increases delivery
+- **Easily stopped** by removing formulation
+
+#### 💊 Dosage Forms
+
+##### 🔹 **Solutions, Tinctures, Collodions, Liniments**
+
+- **Solutions/Tinctures**:
+  - Small-volume alcohol or water-based preparations
+  - Often used for **anti-infectives**
+  - Dispensed in **dropper bottles**
+- **Collodions**:
+  - Alcohol/ether-based
+  - **Forms a thin film** upon evaporation
+- **Liniments**:
+  - Alcoholic or oleaginous solutions
+  - **Applied with friction** to stimulate or counterirritate
+
+##### 🔹 **Ointments, Creams, Lotions**
+
+- Most popular for dermatological therapy
+- **Ointments**:
+  - Drug in a **greasy base** (e.g. petrolatum)
+  - Occlusive; useful for dry, scaly lesions
+- **Creams**:
+  - Semisolid **oil-in-water or water-in-oil emulsions**
+  - Less greasy, often vanish into skin
+- **Lotions**:
+  - Fluid **aqueous suspensions**
+  - Spread easily over large areas; good for hairy skin
+
+##### 🔹 **Pastes, Plasters, Powders**
+
+- **Pastes**:
+  - Thicker than ointments
+  - Absorb moisture from lesions
+  - Protective barrier; less skin penetration
+- **Plasters**:
+  - Semisolid or solid adhesive formulations
+  - Spread on **backing materials** (e.g. paper, felt)
+- **Powders**:
+  - Finely divided drug + excipients
+  - Used to **dust** or **cover** irritated or moist skin
+
+##### 🔹 **Transdermal Systems**
+
+- Deliver drugs **through skin for systemic effect**
+- Two types:
+  - **Rate-controlled devices**: control release; more potent (e.g. fentanyl, nicotine)
+  - **Passive patches**: skin determines absorption rate; less potent
+- Benefits:
+  - Steady plasma concentrations
+  - Non-invasive
+  - Easily removed to stop drug delivery
+- Challenges:
+  - **Skin irritation**
+  - **Adhesive degradation** over time
 
 ### Vaginal Route
 
