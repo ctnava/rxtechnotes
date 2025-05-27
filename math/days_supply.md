@@ -6,14 +6,7 @@
 
 The Days Supply refers to how long a prescription will last based on the quantity dispensed and the prescribed dosing instructions. It is a technical quantity based entirely on math; not a guess, and not just the number of pills dispensed.
 
-**Why It Varies**:
-
-Two patients may receive the **same quantity** of medication but have **different dosing instructions**. For example:
-
-- **Patient A**: Take 1 tablet daily → 30 tablets = 30 days
-- **Patient B**: Take 2 tablets daily → 30 tablets = 15 days
-
-**General Calculation**:
+### Days Supply Calculations
 
 ${\boxed{\text{Per Diem}} = \text{Amount per Dose} \times \text{Doses per Diem}}$
 
@@ -34,6 +27,23 @@ ${\boxed{\Rightarrow \text{Days Supply} = \frac{\text{Amount Dispensed}}{\text{A
   - Adjust fills to **short-term supplies** (e.g., 21 or 28 days)
   - Calculate partial fills to align dates
   - **Document synchronization quantity** in pharmacy software
+
+### ⏱️ Dosing Frequency
+
+`Why Days Supply Calculations can Vary Across Patients`
+
+${\boxed{\text{Dosing Frequency} \implies \text{Doses per Diem}}}$
+
+Dosing frequency refers to how often a medication is taken each day. It directly determines how fast the dispensed quantity will be used and therefore controls the days supply.
+
+The same quantity of medication can result in different days supplies depending on the prescribed frequency. For example, a 30-count bottle will last:
+
+- 30 days if taken once daily  
+- 15 days if taken twice daily
+
+The math must always reflect the **maximum daily use** allowed by the prescription. If the directions say "take 1–2 tablets every 4–6 hours as needed," the calculation should be based on 2 tablets every 4 hours (i.e., the highest permissible daily dose).
+
+This principle applies to **all dosage forms** — not just tablets. Whether dosing is measured in mL, grams, puffs, or vials, the frequency determines the per diem amount used and therefore the days supply.
 
 ### 🚨 Tips & Best Practices
 
