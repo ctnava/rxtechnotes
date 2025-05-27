@@ -16,6 +16,20 @@ The Days Supply refers to how long a prescription will last based on the quantit
 - Insurance claims **require accurate billing quantities** to calculate reimbursement and determine refill eligibility.
   - 🚨 Incorrect entries may cause claim rejection, reimbursement errors, or audit flags.
 
+🧾 **Common Billing Units by Dosage Form**
+
+| Dosage Form             | Billing Unit | Example                        |
+|--------------------------|--------------|--------------------------------|
+| Tablets / Capsules       | Each         | 30 tablets = 30 billing units  |
+| Liquids (oral)           | mL           | 120 mL bottle = 120 units      |
+| Topical creams/ointments | Grams        | 45g tube = 45 units            |
+| Inhalers (MDIs)          | Grams        | Labeled on canister (e.g., 8g) |
+| Nebulizer vials          | mL           | Box of 30; 1mL vials = 30 units|
+| Eye/Ear drops            | mL           | 5 mL bottle = 5 units          |
+| Insulin pens             | mL           | 3 mL per pen = 15 mL for box of 5 |
+| Injections (vials)       | mL           | 1 mL vial = 1 billing unit     |
+| Patches                  | Each         | Box of 15 patches = 15 units   |
+
 ### Days Supply Calculations
 
 ${\boxed{\text{Per Diem}} = \text{Amount per Dose} \times \text{Doses per Diem}}$
