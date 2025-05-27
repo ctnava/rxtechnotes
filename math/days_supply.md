@@ -117,15 +117,16 @@ ${\boxed{\Rightarrow \text{Days Supply}} = \frac{180 \, \text{mL}}{40 \, \text{m
 
 ${\boxed{\Rightarrow \text{Days Supply} = \text{4 Days (Rounded Down)}}}$
 
-## 📘 Topical Medications (Creams, Ointments, & Gels)
+## 📘 Topical Medications (Creams, Ointments, Gels, & Lotions)
 
-**Billable Units**: Mass (g)
+**Billable Units**: Mass (g); for Lotions - Volume (mL)
 
 🔠 **Abbreviations**:
 
 - creams = `cm`/ `crm`
 - ointments = `ung`/ `oint`
 - gels = `gel`
+- lotions = `lot.` (uncommon)
 
 🔢 **Formula**:
 
@@ -133,7 +134,7 @@ ${\boxed{\text{Grams Per Diem} = {\text{Grams per Application} \times \text{Appl
 
 ${\boxed{\text{Days Supply} = \frac{\text{Grams Dispensed}}{{\text{Grams per Application} \times \text{Applications Per Diem}}}}}$
 
->- 📍 Estimate **1 gram per application**, unless prescriber or labeling indicates otherwise  
+>- 📍 Estimate **1 gram/ 1mL per application**, unless prescriber or labeling indicates otherwise  
 >- 📍 1 gram typically covers a **10 cm × 10 cm** area of skin  
 
 🧴 **Example**:
