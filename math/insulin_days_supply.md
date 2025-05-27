@@ -35,6 +35,8 @@ ${\boxed{\text{Days Supply} = \frac{\text{Total Units Available}}{\text{Units Pe
 
 ${\boxed{\text{Max Days Supply} = \text{Minimum of: Calculated Supply OR Expiration After Opening}}}$
 
+---
+
 ## 💉 Example 1: U-100 Vial with Low Daily Use
 
 **Product**: Lantus U-100 vial (10 mL × 100 U/mL = 1000 Units total)  
@@ -61,6 +63,8 @@ ${\boxed{\text{Theoretical Days Supply} = \frac{1000 \, U}{100 \, \frac{U}{\text
 
 ✅ **Final Days Supply** = **10 days** *(no discard constraint reached)*
 
+---
+
 ## 💉 Example 3: Toujeo U-300 (Concentrated)
 
 **Product**: Toujeo Solostar Pen (U-300, 1.5 mL per pen, 450 Units total per pen)  
@@ -74,6 +78,8 @@ ${\boxed{\text{Theoretical Days Supply} = \frac{1350 \, U}{60 \, \frac{U}{\text{
 ✅ Final Days Supply = **22 days**
 
 > 🛡️ No discard conflict; full quantity usable before expiration
+
+---
 
 ## 💉 Example 4: Insulin Pen Box — Sequential Pen Use
 
@@ -118,6 +124,8 @@ ${\boxed{5 \, \text{pens} \times 10 \, \text{days per pen} = 50 \, \text{days}}}
 📍 **Labeling Note**: Include counseling or auxiliary label: "Each pen good for 28 days after first use. Store unopened pens in refrigerator. Use opened pen within 28 days."
 
 🛡️ Pens **should not** be used simultaneously unless explicitly instructed. If simultaneous use is required (e.g., backup pen in use), calculation **must adjust** for overlapping expiration windows.
+
+---
 
 ### 💉 Example 5: Sequential Vial Use Limited by Discard Date
 
