@@ -8,7 +8,7 @@ Look at this as more of a quick review resource. It's not comprehensive and does
 |---------|-------|---------------|
 | 1 | [Roman Numeral System](./roman_numerals.md) | ✅ Complete |
 | 2 | [Unit Conversions for Pharmacy Technicians: Household & Metric](./unit_conversions.md) | ✅ Complete |
-| 3 | [Calculating Days Supply](./days_supply.md) | 🚧 WIP |
+| 3 | [Calculating Days Supply](./days_supply.md) | ✅ Complete; Minor Adjustments Needed |
 | 4 | [Reading Medication Labels](./medication_labels.md) | ❌ DNE |
 | 5 | [Verification of DEA Numbers](./dea_numbers.md) | ✅ Complete |
 | 6 | [Calculating Days Supply: Insulin](./insulin_math.md) | ✅ Complete |
