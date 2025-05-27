@@ -28,7 +28,7 @@
 - [ ] The Prescription Video
 - [ ] Reading: Chapter 16 - Community Pharmacy
 - [x] HIPAA Survival Guide
-- [ ] Math: Chapter 12 - Day Supply
+- [x] Math: Chapter 12 - Day Supply
 - [ ] Math: Chapter 33 - Medication Labels
 - [x] Key Medical Concepts (unlinked)
 
@@ -50,7 +50,7 @@
 - [ ] Reading: Chapter 3 - Pharmacy Law, Regulations, & Ethics
 - [x] Prescription Intake Video & Quiz
 - [x] Drug Package Inserts
-- [ ] Math: Chapter 13 - Insulin Math
+- [x] Math: Chapter 13 - Insulin Math
 - [x] Must Know Laws - National Prep
 - [x] Refill Authorization Request
 - [x] Manufacturer Drug Label Requirements
