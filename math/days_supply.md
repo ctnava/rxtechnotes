@@ -186,7 +186,52 @@ ${\boxed{\text{Days Supply} = \frac{200 \, \text{p}}{12 \, \text{p/day}} = \frac
 
 ${\boxed{\Rightarrow \text{Days Supply} = 16 \, \text{Days (Rounded Down)}}}$
 
+## 👁️ Eyedrops & Eardrops
+
+**Billable Quantity**: Volume (mL)
+**Clinical Quantity**: Total **drops** (gtt)
+
+🔠 **Abbreviations**:
+
+- **Drops**: `gtt`
+- **Eye**: `OS` (left); `OD` (right); `OU` (both)
+- **Ear**: `AS` (left); `AD` (right); `AU` (both)
+
+🔢 **Formula**:
+
+${\boxed{\text{Total Drops Available} = \text{Volume Dispensed (mL)} \times \frac{20 \, \text{gtt}}{1 \, \text{mL}}}}$
+
+${\boxed{\text{Drops per Diem} = \text{Drops per Dose} \times \text{Doses per Diem}}}$
+
+${\boxed{\text{Days Supply} = \frac{\text{Total Drops Available}}{\text{Drops per Diem}}}}$
+
+> 📍 Estimate **20 drops per mL** unless otherwise specified by package insert  
+> 🛡️ Always check if treatment is **unilateral or bilateral**
+
+📘 **Example**
+
+**Sig**: `ii gtt ou qpm # V`
+
+==> `instill 2 drops in both eyes at night #5mL`
+
+${\boxed{\text{Volume Dispensed} = 5 \, \text{mL}}}$
+
+${\boxed{\Rightarrow \text{Drops Dispensed} = 5 \, \text{mL} \times \frac{20 \, \text{gtt}}{1 \, \text{mL}} = 100 \, \text{gtt}}}$
+
+${\boxed{\text{Drops per Eye per Dose} = 2 \, \text{gtt}}}$
+
+${\boxed{\text{Number of Eyes Treated} = 2 \, \text{eyes (OU)}}}$
+
+${\boxed{\text{Drops per Dose} = 2 \, \text{gtt/eye} \times 2 \, \text{eyes} = 4 \, \text{gtt}}}$
+
+${\boxed{\text{Doses per Diem} = 1 \, \text{dose/day}}}$
+
+${\boxed{\Rightarrow \text{Drops per Diem} = \frac{4 \, \text{gtt}}{1 \, \text{dose}} \times \frac{1 \, \text{dose}}{1 \, \text{day}} = \frac{4 \, \text{gtt}}{1 \, \text{day}} = 4 \, \text{gtt/day}}}$
+
+${\boxed{\Rightarrow \text{Days Supply} = \frac{100 \, \text{gtt}}{4 \, \text{gtt/day}} = \frac{100}{1} \times \frac{1 \, \text{day}}{4} = 25 \, \text{days}}}$
+
 ---
+<!-- 
 
 | **Dosage Form** | **Billable Quantity** | **Formula for Days Supply** | **Notes** |
 | --- | --- | --- | --- |
@@ -202,6 +247,8 @@ ${\boxed{\Rightarrow \text{Days Supply} = 16 \, \text{Days (Rounded Down)}}}$
 | **Parenteral Injection Vials** | Volume (mL) | $\frac{\text{Volume Dispensed (mL)}}{\text{Daily Allowance (mL)}}$ | Add volume across all vials dispensed; standard volume for insulin is 10mL (outpatient) or 3mL (inpatient) |
 
 > **NOTE**: Some prescriptions may include instructions like "Take as Directed" (UD), which are for medications dispensed as whole units (e.g., ZPAK or Monistat-7). These prescriptions may have a fixed Days Supply regardless of the calculated value, and pharmacies may dispense more than required. Prescriber instructions take precedence over technical calculations.
+ 
+-->
 
 ## Special Considerations for Insulin
 
