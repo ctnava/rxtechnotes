@@ -1,5 +1,7 @@
 # 📘 Calculating Days' Supply
 
+🔗 [Quick Reference Table](../ref/days_supply_table.md)
+
 ## 🔑 Key Concepts
 
 The Days Supply refers to how long a prescription will last based on the quantity dispensed and the prescribed dosing instructions. It is a technical quantity based entirely on math; not a guess, and not just the number of pills dispensed.
@@ -282,30 +284,13 @@ ${\boxed{\text{Days Supply} = \frac{28 \, \text{tab}}{1 \, \text{tab/day}} = 28 
 >- 🛡️ Ensure consistent labeling between **dispensed quantity** and **cycle length**  
 >- 🛡️ Clarify if patient is **skipping placebos** or using for **noncontraceptive indication**
 
-## Reference Table
-
-| **Dosage Form** | **Billable Quantity** | **Formula for Days Supply** | **Notes** |
-| --- | --- | --- | --- |
-| **Tablets / Capsules** | Quantity dispensed (Whole Units) | $\frac{\text{Quantity Dispensed}}{\text{Daily Allowance}}$ | N/A |
-| **Solutions, Suspensions, Syrups** | Volume (mL) | $\frac{\text{Volume Dispensed (mL)}}{\text{Daily Allowance (mL)}}$ | N/A |
-| **Creams, Ointments, Gels** | Mass (g) | $\frac{\text{Mass Dispensed (g)}}{\text{Daily Allowance (g)}}$ | Default Mass per Day = 1g unless specified or packaged inside an applicator (check label for quantity) |
-| **Lotions** | Volume (mL) | $\frac{\text{Volume Dispensed (mL)}}{\text{Daily Allowance (mL)}}$ | N/A |
-| **Metered Dose Inhalers** | Mass (g) Stated on Unit Package  | $\frac{\text{Actuations per Inhaler (puffs)}}{\text{Daily Allowance (puffs)}}$ | Add actuations from all units dispensed |
-| **Inhalation Solutions** | Volume (mL) | $\frac{\text{Volume Dispensed}}{\text{Daily Allowance (mL)}}$ | Add volume from all vials dispensed |
-| **Inhalation Powders** | Mass (g) | $\frac{\text{Mass Dispensed (g)}}{\text{Daily Allowance (g)}}$ | Add volume from all vials dispensed |
-| **Eye / Ear Drops** | Volume (mL) | $\frac{\text{Amount in Bottle (gtt)}}{\text{Daily Allowance (gtt)}}$ | Estimate 15-20 gtt/mL |
-| **Injector Pens** | Volume (mL) | $\frac{\text{Volume Dispensed (mL)}}{\text{Daily Allowance (mL)}}$ | Add volume across all pens dispensed; standard volume for insulin is 3mL (outpatient) or 2.5mL (inpatient) |
-| **Parenteral Injection Vials** | Volume (mL) | $\frac{\text{Volume Dispensed (mL)}}{\text{Daily Allowance (mL)}}$ | Add volume across all vials dispensed; standard volume for insulin is 10mL (outpatient) or 3mL (inpatient) |
-
-> **NOTE**: Some prescriptions may include instructions like "Take as Directed" (UD), which are for medications dispensed as whole units (e.g., ZPAK or Monistat-7). These prescriptions may have a fixed Days Supply regardless of the calculated value, and pharmacies may dispense more than required. Prescriber instructions take precedence over technical calculations.
+---
 
 <!-- 
 ## Reference
 
-Pharmacy Calculations, 6e; Morton Publishing | Chapter 12 & 13
+Pharmacy Calculations, 6e; Morton Publishing | Chapter 12
 -->
-
----
 
 ## Special Considerations for Insulin
 
