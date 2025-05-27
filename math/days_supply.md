@@ -44,6 +44,8 @@ ${\boxed{\Rightarrow \text{Days Supply} = \frac{\text{Amount Dispensed}}{\text{A
 
 ## 💊 Tablets & Capsules
 
+**Billable Units**: Whole Tablets or Capsules
+
 🔠 **Abbreviations**:
 
 - Capsules = `cap`/ `c`
@@ -79,6 +81,8 @@ ${\boxed{\Rightarrow \text{Days Supply}} = \text{3.75 Days} = \text{3 Days (Roun
 
 ## 🥤 Liquid Solutions, Suspensions, Syrups
 
+**Billable Units**: Volume (mL)
+
 🔠 **Abbreviations**:
 
 - Solutions = `sol`
@@ -87,11 +91,11 @@ ${\boxed{\Rightarrow \text{Days Supply}} = \text{3.75 Days} = \text{3 Days (Roun
 
 🔢 **Formula**:
 
-${\boxed{\text{Volume (mL) Per Diem}} = \text{Volume (mL) per Dose} \times \text{Doses Per Diem}}$
+${\boxed{\text{Volume Per Diem}} = \text{Volume per Dose} \times \text{Doses Per Diem}}$
 
-${\boxed{\text{Days Supply} }= \text{Volume (mL) Dispensed} \div \text{Volume (mL) Per Diem}}$
+${\boxed{\text{Days Supply} }= \text{Volume Dispensed} \div \text{Volume Per Diem}}$
 
-${\boxed{\Rightarrow \text{Days Supply} = \frac{\text{Volume (mL) Dispensed}}{\text{Volume (mL) per Dose} \times \text{Doses per Diem}}}}$
+${\boxed{\Rightarrow \text{Days Supply} = \frac{\text{Volume Dispensed}}{\text{Volume per Dose} \times \text{Doses per Diem}}}}$
 
 💧 **Example**:
 
@@ -101,17 +105,19 @@ ${\boxed{\Rightarrow \text{Days Supply} = \frac{\text{Volume (mL) Dispensed}}{\t
 
 ${\text{1 tsp} = 5 \, \text{mL} \qquad \text{1 oz} = 30 \, \text{mL}}$
 
-${\boxed{\text{Volume (mL) Dispensed}} = {6 \, \text{oz} \times \frac{30 \, \text{mL}}{1 \, \text{oz}} = 180 \, \text{mL}}}$
+${\boxed{\text{Volume Dispensed}} = {6 \, \text{oz} \times \frac{30 \, \text{mL}}{1 \, \text{oz}} = 180 \, \text{mL}}}$
 
-${\boxed{\text{Volume (mL) per Dose}} = {\text{2 tsp} \times  \frac{\text{5 mL}}{\text{1 tsp}} = 10 \, \text{mL}}}$
+${\boxed{\text{Volume per Dose}} = {\text{2 tsp} \times  \frac{\text{5 mL}}{\text{1 tsp}} = 10 \, \text{mL}}}$
 
-${\boxed{\Rightarrow \text{Volume (mL) per Diem}} = \frac{10 \, \text{mL}}{1 \, \text{dose}} \times \frac{4 \, \text{doses}}{1 \, \text{day}} = \frac{40 \, \text{mL}}{1 \, \text{day}} = 40 \, \text{mL/day}}$
+${\boxed{\Rightarrow \text{Volume per Diem}} = \frac{10 \, \text{mL}}{1 \, \text{dose}} \times \frac{4 \, \text{doses}}{1 \, \text{day}} = \frac{40 \, \text{mL}}{1 \, \text{day}} = 40 \, \text{mL/day}}$
 
 ${\boxed{\text{Days Supply}} = \frac{180 \, \text{mL}}{40 \, \text{mL/day}} = \frac{180}{1} \times \frac{1 \, \text{day}}{40} = \frac{180}{40} = 4.5 \, \text{days}}$
 
 ${\boxed{\Rightarrow \text{Days Supply} = \text{4 Days (Rounded Down)}}}$
 
 ## 📘 Topical Medications (Creams, Ointments, & Gels)
+
+**Billable Units**: Mass (g)
 
 🔠 **Abbreviations**:
 
@@ -143,6 +149,10 @@ ${\boxed{\text{Applications per Diem} = 2 \, \text{times/day}}}$
 ${\boxed{\Rightarrow \text{Grams Per Diem} = \frac{1 \, \text{g}}{1 \, \text{application}} \times \frac{2 \, \text{applications}}{1 \, \text{day}} = \frac{2 \, \text{g}}{1 \, \text{day}} = 2 \, \text{g/day}}}$
 
 ${\boxed{\Rightarrow \text{Days Supply} = \frac{30 \, \text{g}}{2 \, \text{g/day}} = \frac{30}{1} \times \frac{1 \, \text{day}}{2} = 15 \, \text{days}}}$
+
+## 📘 Metered-Dose Inhalers (MDIs)
+
+📍 MDI canisters are labeled with **number of actuations (puffs)**
 
 ---
 
