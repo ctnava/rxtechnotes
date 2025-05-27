@@ -111,6 +111,39 @@ ${\boxed{\text{Days Supply}} = \frac{180 \, \text{mL}}{40 \, \text{mL/day}} = \f
 
 ${\boxed{\Rightarrow \text{Days Supply} = \text{4 Days (Rounded Down)}}}$
 
+## 📘 Topical Medications (Creams, Ointments, & Gels)
+
+🔠 **Abbreviations**:
+
+- creams = `cm`/ `crm`
+- ointments = `ung`/ `oint`
+- gels = `gel`
+
+🔢 **Formula**:
+
+${\boxed{\text{Grams Per Diem} = {\text{Grams per Application} \times \text{Applications Per Diem}}}}$
+
+${\boxed{\text{Days Supply} = \frac{\text{Grams Dispensed}}{{\text{Grams per Application} \times \text{Applications Per Diem}}}}}$
+
+>- 📍 Estimate **1 gram per application**, unless prescriber or labeling indicates otherwise  
+>- 📍 1 gram typically covers a **10 cm × 10 cm** area of skin  
+
+🧴 **Example**:
+
+**Sig**: `AAA QAM & QPM #XXX`
+
+==> `Apply to affected area every night & morning #30g tube`
+
+${\boxed{\text{Grams Dispensed} = 30 \, \text{g}}}$
+
+${\boxed{\text{Grams per Application} = 1 \, \text{g}}}$
+
+${\boxed{\text{Applications per Diem} = 2 \, \text{times/day}}}$
+
+${\boxed{\Rightarrow \text{Grams Per Diem} = \frac{1 \, \text{g}}{1 \, \text{application}} \times \frac{2 \, \text{applications}}{1 \, \text{day}} = \frac{2 \, \text{g}}{1 \, \text{day}} = 2 \, \text{g/day}}}$
+
+${\boxed{\Rightarrow \text{Days Supply} = \frac{30 \, \text{g}}{2 \, \text{g/day}} = \frac{30}{1} \times \frac{1 \, \text{day}}{2} = 15 \, \text{days}}}$
+
 ---
 
 | **Dosage Form** | **Billable Quantity** | **Formula for Days Supply** | **Notes** |
