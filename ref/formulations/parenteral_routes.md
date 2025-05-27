@@ -31,7 +31,7 @@ Injection Dependent Routes involves delivering drugs directly into the body thro
 
 ## Injection Independent routes
 
-### Opthalmic Route
+### Intraocular Route
 
 `Local administration to the eye for therapeutic or anesthetic purposes`
 
@@ -81,7 +81,11 @@ Injection Dependent Routes involves delivering drugs directly into the body thro
 | **Conjunctival Absorption** | Drug may be absorbed by **conjunctiva** (lining of the eyelid) |
 | **Ideal Dose Volume** | **5–10 µL**, but most patients have access to droppers that are not that precise |
 
+> 📍 1mL = 20 gtt
+
 #### 🔢 How to Use Opthalmic Drops
+
+<!-- not a terribly important section -->
 
 > 🛡️ The eye is a sterile environment. Contamination of the product can result in **serious infection**.
 
@@ -106,9 +110,58 @@ Injection Dependent Routes involves delivering drugs directly into the body thro
 
 >📍 **Ophthalmic Ointments** are supplied in **3.5 g tubes** with **narrow-gauge tips**. Administer by applying a thin **ribbon** inside the lower eyelid.
 
-⚠️ Important Warnings
+⚠️ **Important Warnings**
 
 - Avoid **touching the dropper tip** to the eye, hands, or any surface.
 - If **irritation**, **pain**, or **redness increases**, discontinue use immediately and consult a pharmacist or physician.
 - Avoid **eye makeup** or contact lenses unless directed by a healthcare provider.
 - Use a **mirror** or request assistance if coordination is difficult.
+
+### Intranasal Route
+
+dosage forms
+
+- solutions
+- suspensions
+- ointments
+- gels
+
+### Inhalation Route
+
+dosage forms
+
+- solutions
+- aerosols
+- powders
+
+### Dermal Route
+
+dosage forms
+
+- solutions
+- tinctures
+- collofions
+- liniments
+- suspensions
+- ointments
+- creams
+- gels
+- lotions
+- pastes
+- plasters
+- powders
+- aerosols
+- transfermal patches
+
+### Vaginal Route
+
+dosage forms
+
+- lotions
+- ointments
+- creams
+- aerosol foams
+- powders
+- suppositories
+- tablets
+- IUDs
