@@ -83,7 +83,7 @@ Injection Dependent Routes involves delivering drugs directly into the body thro
 
 > 📍 1mL = 20 gtt
 
-<!-- #### 🔢 How to Use Opthalmic Drops
+#### 🔢 How to Use Opthalmic Drops
 
 > 🛡️ The eye is a sterile environment. Contamination of the product can result in **serious infection**.
 
@@ -106,7 +106,7 @@ Injection Dependent Routes involves delivering drugs directly into the body thro
    - **Gently press the inner corner** of the eye (nasolacrimal duct) with a fingertip for **1 full minute** to prevent drainage and systemic absorption.
 8. **Recap the bottle** tightly to maintain sterility.
 
->📍 **Ophthalmic Ointments** are supplied in **3.5 g tubes** with **narrow-gauge tips**. Administer by applying a thin **ribbon** inside the lower eyelid. -->
+>📍 **Ophthalmic Ointments** are supplied in **3.5 g tubes** with **narrow-gauge tips**. Administer by applying a thin **ribbon** inside the lower eyelid.
 
 ⚠️ **Important Warnings**
 
@@ -155,7 +155,7 @@ Injection Dependent Routes involves delivering drugs directly into the body thro
 
 > 📍 Nasal sprays and aerosols are engineered for **precise particle size** and **targeted deposition**. Use only as directed to avoid mucosal damage or systemic overdose.
 
-<!-- #### 🔢 How to Use Nasal Sprays
+#### 🔢 How to Use Nasal Sprays
 
 1. **Blow your nose gently** to clear the nostrils.
 2. **Wash hands** thoroughly with soap and warm water.
@@ -171,15 +171,57 @@ Injection Dependent Routes involves delivering drugs directly into the body thro
 11. **Wash hands** again after use.
 
 > 🛡️ Proper use minimizes irritation, prevents contamination, and ensures consistent dosing.
-> 🚨 Avoid directing spray toward the septum. Long-term damage may occur. -->
+> 🚨 Avoid directing spray toward the septum. Long-term damage may occur.
 
 ### Oral Inhalation Route
 
-dosage forms
+Inhaled medications deliver drugs to the **pulmonary system** via the lungs, which have a **large surface area** and **extensive blood supply**.
 
-- solutions
-- aerosols
-- powders
+🩺 **Clinical Uses**:  
+
+- **Gaseous and volatile anesthetics**
+- **Bronchodilators** (asthma, COPD)
+- **Allergy medications**
+
+> 🚨 Not a reliable alternative to IV for systemic therapy due to variability in absorption.
+
+💊 **Dosage Forms**
+
+- **Aerosols** (Most Common)
+  - **Metered Dose Inhalers (MDIs)**: pressurized canisters; standard for many pulmonary drugs.
+  - **Spacers and Adapters**: attach to MDI mouthpiece; improve delivery by separating actuation from inhalation by 3–5 seconds.
+- **Solutions**
+  - **Atomizers**: spray-generating devices; may use manual squeeze bulbs or automated systems.
+  - **Nebulizers**: vaporize solution using air or ultrasonic energy inside a chamber for direct inhalation.
+- **Dry Powder Inhalers (DPIs)**
+  - Drug is preloaded into the device and automatically released upon patient inhalation.
+
+⚠️ **Challenges**
+
+- **Deposition efficiency is low**. Large particles may be exhaled.
+- **Particle size is critical**:
+  - 1–10 µm: optimal for reaching bronchioles
+  - ~0.6 µm: required to reach alveolar sacs
+- Physical barriers such as **mucus, inflammation**, and **airway constriction** affect drug delivery.
+
+#### 🔢 How to Use a Metered Dose Inhaler (MDI)
+
+1. **Shake the inhaler** vigorously 3–4 times.
+2. **Remove the cap**.
+3. **Exhale fully**, away from the inhaler.
+4. **Insert mouthpiece** between the teeth; seal lips tightly around it.
+5. **Inhale slowly and deeply** through the mouth **while pressing** the top of the canister **once**.
+6. **Continue inhaling** to fill lungs completely.
+7. **Hold your breath for 10 seconds** (if possible).
+8. **Exhale slowly** through the nose or mouth.
+9. If another dose is needed:
+   - **Wait 30 seconds**
+   - **Shake** the inhaler again
+   - **Repeat steps 3–8**
+10. **Rinse mouth** with water after use (especially for corticosteroids).
+
+> 🛡️ Rinsing the mouth reduces the risk of oral thrush and irritation.
+> ✅ Use a spacer if available to improve drug deposition and reduce oropharyngeal deposition.
 
 ### Dermal Route
 
