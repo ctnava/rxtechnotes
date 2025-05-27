@@ -8,8 +8,8 @@
 - **Insulin concentrations** vary by product:
   - **U-100** = 100 Units/mL *(standard for most insulins)*
   - **U-200**, **U-300**, and **U-500** = concentrated formulations for patients on higher doses
-- **Vials**: 10 mL total volume  
-- **Pens**: 3 mL each (typically dispensed in 5-pen cartons = 15 mL total)
+- **Vials**: 10 mL (outpatient); 3mL (inpatient)
+- **Pens**: 3 mL each (typically dispensed in 5-pen cartons = 15 mL total); 2.5mL (inpatient)
 - **Refrigeration**: Required before opening
 - **Room Temperature Stability**:
   - Most insulins: **28 days** once opened

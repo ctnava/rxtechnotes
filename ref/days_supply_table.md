@@ -17,7 +17,7 @@
 
 ---
 
-🔗 Back to [Calculating Days' Supply](./days_supply.md)
+🔗 Back to [Calculating Days' Supply](../math/days_supply.md)
 
 <!-- 
 ## Reference
