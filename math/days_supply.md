@@ -284,18 +284,32 @@ ${\boxed{\text{Days Supply} = \frac{28 \, \text{tab}}{1 \, \text{tab/day}} = 28 
 >- 🛡️ Ensure consistent labeling between **dispensed quantity** and **cycle length**  
 >- 🛡️ Clarify if patient is **skipping placebos** or using for **noncontraceptive indication**
 
+## 💉 Insulin: Special Considerations for Days' Supply
+
+Insulin is dosed in **Units**, but dispensed and billed by **volume (mL)**. Most insulins are **U-100** (100 Units/mL), though higher concentrations exist (e.g., U-200, U-300, U-500). The most common package sizes are:
+
+- **Vial**: 10 mL (1,000 Units for U-100)
+- **Pen**: 3 mL (300 Units for U-100)
+
+📍 **Opened insulin products expire 28 days after first use**, even if medication remains. Days’ supply is limited by:
+
+- **Daily usage** (Units/day)
+- **Package volume** (Units total)
+- **Post-opening expiration period** (usually 28 days)
+
+🛡️ The correct Days Supply is the **shorter of**:
+
+- How long the volume lasts based on dose
+- The product’s discard period
+
+This prevents billing beyond usable shelf-life and supports safe patient use.
+
+🔗 See [Days Supply Calculations for Insulin](./insulin_days_supply.md)
+
 ---
 
 <!-- 
 ## Reference
 
-Pharmacy Calculations, 6e; Morton Publishing | Chapter 12
+Pharmacy Calculations, 6e; Morton Publishing | Chapter 12 & 13
 -->
-
-## Special Considerations for Insulin
-
-Insulin must be refrigerated before use but can be kept at room temperature for approximately 28 days after opening (with a few exceptions).
-
-For example, if an outpatient is dispensed a **standard U-100** insulin vial **(100 Units/mL)** during an emergency, and the patient requires 12 Units per day, the medication technically lasts for about 83 days. However, expiration date takes precedence over this calculation, as insulin degrades over time, especially once opened. Therefore, the Days Supply should reflect the expiration date, even if technically there is more insulin available.
-
-> Always check expiration dates when dispensing more than 28 days supply
