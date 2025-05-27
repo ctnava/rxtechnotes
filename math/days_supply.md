@@ -230,25 +230,82 @@ ${\boxed{\Rightarrow \text{Drops per Diem} = \frac{4 \, \text{gtt}}{1 \, \text{d
 
 ${\boxed{\Rightarrow \text{Days Supply} = \frac{100 \, \text{gtt}}{4 \, \text{gtt/day}} = \frac{100}{1} \times \frac{1 \, \text{day}}{4} = 25 \, \text{days}}}$
 
----
-<!-- 
+## 🧪 Specialized Dosing Schedules
+
+**Billable Quantity**: Varies
+**Clinical Quantity**: Total number of **doses** administered over a **calendar schedule**
+
+🔠 **Common Terms**:
+
+- **Loading dose**: High starting dose, then taper
+- **Fixed taper**: Dose decreases or increases over time
+- **Packaged therapy**: Manufacturer-defined duration (e.g., Z-Pak, Medrol Dosepak, Monistat, OCPs)
+
+🔢 **Formula**:
+
+${\boxed{\text{Days Supply} = \text{Total Calendar Days Covered by Instructions}}}$
+
+>- 🚨 **Do not** calculate based solely on quantity or max daily dose  
+>- 🛡️ Use labeled **day-by-day schedule** if provided  
+>- 🛡️ Document pack-based durations in notes or comments fields if system-calculated days supply differs
+
+### 📦 **Example: Z-Pak (Azithromycin 250 mg)**
+
+**Sig**: `Take 2 tablets on day 1, then 1 tablet daily on days 2–5 #6 tabs`  
+==> **Days Supply = 5 calendar days**
+
+### 🌸 **Example: Monistat 7 (Miconazole 100 mg Vaginal Cream)**
+
+**Sig**: `Insert 1 applicatorful vaginally at bedtime for 7 nights #7 prefilled applicators`  
+==> One dose nightly × 7 nights
+
+${\boxed{\text{Doses per Day} = 1}}$  
+${\boxed{\text{Total Doses} = 7}}$  
+${\boxed{\text{Days Supply} = 7}}$
+
+>- 📌 Applicators are single-use, prefilled  
+>- 🛡️ System-calculated supply based on quantity = 7, but still requires documentation if used **PRN** or **shortened**
+
+### 💊 **Example: Combined Oral Contraceptive (OCP)**
+
+**Sig**: `Take 1 tablet daily #28-day pack`  
+==> Common contraceptive schedule
+
+- **21 active tablets** (hormonal)  
+- **7 placebo tablets** (reminder/inert)
+
+${\boxed{\text{Tablets Dispensed} = 28}}$  
+${\boxed{\text{Tablets per Day} = 1}}$  
+${\boxed{\text{Days Supply} = \frac{28 \, \text{tab}}{1 \, \text{tab/day}} = 28 \, \text{days}}}$
+
+>- 📌 If dispensing a **3-month supply** (e.g., 84 active + 7 placebos × 3), adjust days supply accordingly  
+>- 🛡️ Ensure consistent labeling between **dispensed quantity** and **cycle length**  
+>- 🛡️ Clarify if patient is **skipping placebos** or using for **noncontraceptive indication**
+
+## Reference Table
 
 | **Dosage Form** | **Billable Quantity** | **Formula for Days Supply** | **Notes** |
 | --- | --- | --- | --- |
 | **Tablets / Capsules** | Quantity dispensed (Whole Units) | $\frac{\text{Quantity Dispensed}}{\text{Daily Allowance}}$ | N/A |
 | **Solutions, Suspensions, Syrups** | Volume (mL) | $\frac{\text{Volume Dispensed (mL)}}{\text{Daily Allowance (mL)}}$ | N/A |
 | **Creams, Ointments, Gels** | Mass (g) | $\frac{\text{Mass Dispensed (g)}}{\text{Daily Allowance (g)}}$ | Default Mass per Day = 1g unless specified or packaged inside an applicator (check label for quantity) |
+| **Lotions** | Volume (mL) | $\frac{\text{Volume Dispensed (mL)}}{\text{Daily Allowance (mL)}}$ | N/A |
 | **Metered Dose Inhalers** | Mass (g) Stated on Unit Package  | $\frac{\text{Actuations per Inhaler (puffs)}}{\text{Daily Allowance (puffs)}}$ | Add actuations from all units dispensed |
 | **Inhalation Solutions** | Volume (mL) | $\frac{\text{Volume Dispensed}}{\text{Daily Allowance (mL)}}$ | Add volume from all vials dispensed |
 | **Inhalation Powders** | Mass (g) | $\frac{\text{Mass Dispensed (g)}}{\text{Daily Allowance (g)}}$ | Add volume from all vials dispensed |
 | **Eye / Ear Drops** | Volume (mL) | $\frac{\text{Amount in Bottle (gtt)}}{\text{Daily Allowance (gtt)}}$ | Estimate 15-20 gtt/mL |
-| **Lotions** | Volume (mL) | $\frac{\text{Volume Dispensed (mL)}}{\text{Daily Allowance (mL)}}$ | N/A |
 | **Injector Pens** | Volume (mL) | $\frac{\text{Volume Dispensed (mL)}}{\text{Daily Allowance (mL)}}$ | Add volume across all pens dispensed; standard volume for insulin is 3mL (outpatient) or 2.5mL (inpatient) |
 | **Parenteral Injection Vials** | Volume (mL) | $\frac{\text{Volume Dispensed (mL)}}{\text{Daily Allowance (mL)}}$ | Add volume across all vials dispensed; standard volume for insulin is 10mL (outpatient) or 3mL (inpatient) |
 
 > **NOTE**: Some prescriptions may include instructions like "Take as Directed" (UD), which are for medications dispensed as whole units (e.g., ZPAK or Monistat-7). These prescriptions may have a fixed Days Supply regardless of the calculated value, and pharmacies may dispense more than required. Prescriber instructions take precedence over technical calculations.
- 
+
+<!-- 
+## Reference
+
+Pharmacy Calculations, 6e; Morton Publishing | Chapter 12
 -->
+
+---
 
 ## Special Considerations for Insulin
 
@@ -257,9 +314,3 @@ Insulin must be refrigerated before use but can be kept at room temperature for 
 For example, if an outpatient is dispensed a **standard U-100** insulin vial **(100 Units/mL)** during an emergency, and the patient requires 12 Units per day, the medication technically lasts for about 83 days. However, expiration date takes precedence over this calculation, as insulin degrades over time, especially once opened. Therefore, the Days Supply should reflect the expiration date, even if technically there is more insulin available.
 
 > Always check expiration dates when dispensing more than 28 days supply
-
-<!-- 
-## Reference
-
-Pharmacy Calculations, 6e; Morton Publishing | Chapter 12
--->
