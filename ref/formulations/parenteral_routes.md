@@ -311,6 +311,11 @@ Most dermal dosage forms are intended for **local effects** on or within the ski
   - **Skin irritation**
   - **Adhesive degradation** over time
 
+##### 🔹 **Aerosols**
+
+- Used for **local anesthetics**, **antibiotics**, or **cooling agents**
+- Convenient for **hard-to-reach areas** or **broken skin**
+
 ### Vaginal Route
 
 dosage forms
