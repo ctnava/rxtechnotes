@@ -161,3 +161,13 @@ ${\boxed{28 \, \text{days per vial} \times 2 \, \text{vials} = 56 \, \text{days}
 ✅ **Final Days Supply = 56 days**
 
 📍 **Labeling Note**: “Each vial is stable for 28 days after opening. Discard remaining insulin after that period. Store unopened vials in the refrigerator. Opened vials may be stored at room temperature for up to 28 days.”
+
+---
+
+🔗 Back to [Calculating Days' Supply](./days_supply.md)
+
+<!-- 
+## Reference
+
+Pharmacy Calculations, 6e; Morton Publishing | Chapter 13
+-->
