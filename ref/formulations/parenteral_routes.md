@@ -318,13 +318,94 @@ Most dermal dosage forms are intended for **local effects** on or within the ski
 
 ### Vaginal Route
 
-dosage forms
+The vaginal route allows for **local or systemic drug delivery**. Dosage forms are either **inserted and securely retained** due to anatomical positioning, or removed as needed. Drugs are absorbed through **mucous membranes**, making this a versatile route.
 
-- lotions
-- ointments
-- creams
-- aerosol foams
-- powders
-- suppositories
-- tablets
-- IUDs
+🧪 **Local Effects**
+
+- Antibacterials
+- Antifungals
+- Antiprotozoals
+- Antivirals
+- Spermicides
+- Labor-inducing agents
+- Prostaglandins
+- Hormones/steroids
+
+💉 **Systemic Effects**
+
+- Rich **vascular supply**
+- **Large surface area**
+- **High permeability**
+- Capable of delivering **peptides and proteins**
+- **Systemic bioavailability** can rival that of IV forms
+
+⚠️ **Disadvantages**
+
+- **Variable absorption** due to pH and fluid shifts
+- **Toxic Shock Syndrome** (rare, serious)
+  - A systemic **bacterial infection** from retained foreign material (e.g. tampons, prolonged-release drugs)
+  - Symptoms: fever, hypotension, rash, vomiting, organ failure
+  - Requires urgent **antibiotic therapy**
+- **Expelled dosages** due to posture, movement, or fluid dynamics
+
+🧬 **Anatomy Recap**
+
+- **Vagina**: Cylindrical, muscular organ connecting **cervix/uterus** to external genitalia
+- Functions in:
+  - **Intercourse**
+  - **Menstrual discharge**
+  - **Childbirth** (lower portion of birth canal)
+
+#### 💊 Vaginal Dosage Forms
+
+##### 🔹 Ointments, Creams, Aerosol Foams
+
+- Contain **antibiotics, hormones, or contraceptives**
+- Applied via **tube applicators**
+  - Inserted high into vaginal canal
+  - **Plunger** is depressed to deposit medication
+
+##### 🔹 Suppositories & Tablets (Inserts)
+
+- Used **before bedtime**
+- Wear a **sanitary napkin** overnight
+- Inserted **high** using an applicator
+
+**Suppositories**:
+
+- Used for contraception, antiseptics, antibiotics, hormonal therapy
+- Shape: globe, egg, or cone
+- Weight: approx. **5 grams**
+- **Base types**:
+  - **Glycerinated Gelatin** (70% glycerin, 20% gelatin, 10% water)
+    - Soft, **slow-dissolving**
+    - Requires **refrigeration**
+  - **Polyethylene Glycol (PEG)**
+    - Dissolve faster
+    - **No refrigeration** needed
+
+**Tablets (Inserts)**:
+
+- Contain same agents as suppositories
+- **Dip in water** before use to activate
+- Typically inserted **at bedtime**
+
+##### 🔹 Powders
+
+- Used in **vaginal douches**
+- Function: cleanse vaginal canal
+
+##### 🔹 Intrauterine Devices (IUDs)
+
+- Used for **long-term contraception**
+- Made of **plastic or copper**, shaped like a "T"
+- Lifespan: **up to 10 years**
+
+##### 🔹 Vaginal Rings (e.g. NuvaRing)
+
+- Used for **contraception**
+- **Flexible plastic ring** impregnated with hormones
+- Provides **continuous systemic delivery** of estrogen and progestin
+- Inserted into the vaginal canal for **3 weeks**, removed for **1 week** (menstruation occurs)
+- **Self-administered**
+- Stored **refrigerated prior to dispensing**, room temp OK for 4 months
