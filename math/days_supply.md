@@ -6,6 +6,16 @@
 
 The Days Supply refers to how long a prescription will last based on the quantity dispensed and the prescribed dosing instructions. It is a technical quantity based entirely on math; not a guess, and not just the number of pills dispensed.
 
+### Billing Quantity
+
+**Billing Quantity** is the amount of drug product reported to insurance for payment and inventory tracking. It is not always the same as the number of doses, units taken, or total uses. Instead, it reflects the **form in which the drug is dispensed** (e.g., tablets, milliliters, grams, vials, puffs).
+
+- The **billing unit** must match the **product’s NDC (National Drug Code)** unit of measure.
+- Quantities must reflect the **dispensed amount**, not just what is consumed.
+  - 🚨 **Billing quantity must match what is physically dispensed, regardless of expected usage.** For example, if a patient is prescribed a cream to apply once daily for 30 days and receives a **60g tube**, the **billing quantity is 60 grams**, even though the patient may only use 30 grams.
+- Insurance claims **require accurate billing quantities** to calculate reimbursement and determine refill eligibility.
+  - 🚨 Incorrect entries may cause claim rejection, reimbursement errors, or audit flags.
+
 ### Days Supply Calculations
 
 ${\boxed{\text{Per Diem}} = \text{Amount per Dose} \times \text{Doses per Diem}}$
