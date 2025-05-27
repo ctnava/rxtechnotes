@@ -1,4 +1,4 @@
-# 📘 Calculating Days' Supply
+# 📘 Calculating Days' Supply & Billing Quantity
 
 🔗 [Quick Reference Table](../ref/days_supply_table.md)
 
@@ -43,13 +43,49 @@ The same quantity of medication can result in different days supplies depending 
 
 The math must always reflect the **maximum daily use** allowed by the prescription. If the directions say "take 1–2 tablets every 4–6 hours as needed," the calculation should be based on 2 tablets every 4 hours (i.e., the highest permissible daily dose).
 
-This principle applies to **all dosage forms** — not just tablets. Whether dosing is measured in mL, grams, puffs, or vials, the frequency determines the per diem amount used and therefore the days supply.
+📘 **Example**: Around-the-Clock
+
+**Sig**: `Take 1 tablet by mouth every 8 hours`
+
+${\boxed{\text{Hours per Dose} = 8 \, \text{hours}}}$
+
+${\boxed{\Rightarrow \text{Doses Per Diem} = \frac{24 \, \text{hours}}{8 \, \text{hours/dose}} = 3 \, \text{doses/day}}}$
+
+${\boxed{\text{Tablets per Dose} = 1 \, \text{tab}}}$
+
+${\boxed{\Rightarrow \text{Tablets Per Diem} = 1 \, \text{tab/dose} \times 3 \, \text{doses/day} = 3 \, \text{tabs/day}}}$
+
+If the prescription is written for `#90 tablets`:
+
+${\boxed{\Rightarrow \text{Days Supply} = \frac{90 \, \text{tabs}}{3 \, \text{tabs/day}} = 30 \, \text{days}}}$
+
+> 📍 Divide 24 hours by the interval to determine frequency.
+
+📘 **Example**: As Needed
+
+**Sig**: `Take 1–2 tablets every 4–6 hours as needed for pain`
+
+${\boxed{\text{Minimum Hours per Dose}} = \min(4, 6) = 4 \, \text{hours}}$
+
+${\boxed{\Rightarrow \text{Doses Per Diem}} = \text{24 hours/day} \div \text{4 hours/dose} = \text{6 doses/day}}$
+
+${\boxed{\text{Tablets per Dose}} = \text{2 tabs/dose}}$
+
+${\boxed{\Rightarrow \text{Tablets Per Diem}} = \text{2 tabs/dose} \times \text{6 doses/day} = \text{12 tabs/day}}$
+
+If the prescription is written for `#60 tablets`:
+
+${\boxed{\Rightarrow \text{Days Supply} = \frac{60 \, \text{tabs}}{12 \, \text{tabs/day}} = 5 \, \text{days}}}$
+
+> 🚨 Always calculate based on the **maximum** allowed usage, even for PRN directions.
+
+This principle applies to **all dosage forms**; not just tablets. Whether dosing is measured in mL, grams, puffs, or vials, the frequency determines the per diem amount used and therefore the days supply.
 
 ### 🚨 Tips & Best Practices
 
-- 🛡️ Always read the sig carefully — BID can mean two tablets, two times a day, or one tablet twice a day.
+- 🛡️ Always read the sig carefully; BID can mean two tablets, two times a day, or one tablet twice a day.
 - 🚨 For eye/ear drops, check if **both eyes/ears** are being treated.
-- 🛡️ Topical use is often estimated — confirm application area with pharmacist if unclear.
+- 🛡️ Topical use is often estimated; confirm application area with pharmacist if unclear.
 - 🛡️ Document how you arrived at your days’ supply if not obvious.
 
 > 📌 Many pharmacy systems calculate days’ supply automatically, but knowing how to do it manually helps catch input errors and supports DUR decisions.
