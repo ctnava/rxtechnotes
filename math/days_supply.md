@@ -42,11 +42,7 @@ ${\boxed{\Rightarrow \text{Days Supply} = \frac{\text{Amount Dispensed}}{\text{A
 
 > 📌 Many pharmacy systems calculate days’ supply automatically, but knowing how to do it manually helps catch input errors and supports DUR decisions.
 
-## 👄 Oral Formulations
-
-### 💊 Oral Solids: Tablets & Capsules
-
-For the sake of simplicity, I will be referring to them as `pills`.
+## 💊 Tablets & Capsules
 
 🔠 **Abbreviations**:
 
@@ -54,6 +50,8 @@ For the sake of simplicity, I will be referring to them as `pills`.
 - Tablets = `tab`/ `t`
 
 🔢 **Formula**:
+
+For the sake of simplicity, I will be referring to them as `pills`.
 
 ${\boxed{\text{Pills Per Diem}} = \text{Pills per Dose} \times \text{Doses Per Diem}}$
 
@@ -79,7 +77,39 @@ ${\boxed{\Rightarrow \text{Days Supply}} = \text{45 tab} \div \text{12 tab/day} 
 
 ${\boxed{\Rightarrow \text{Days Supply}} = \text{3.75 Days} = \text{3 Days (Rounded Down)}}$
 
-## 🥤 Oral Liquids
+## 🥤 Liquid Solutions, Suspensions, Syrups
+
+🔠 **Abbreviations**:
+
+- Solutions = `sol`
+- Suspensions = `susp`
+- Syrups = `syr`
+
+🔢 **Formula**:
+
+${\boxed{\text{Volume (mL) Per Diem}} = \text{Volume (mL) per Dose} \times \text{Doses Per Diem}}$
+
+${\boxed{\text{Days Supply} }= \text{Volume (mL) Dispensed} \div \text{Volume (mL) Per Diem}}$
+
+${\boxed{\Rightarrow \text{Days Supply} = \frac{\text{Volume (mL) Dispensed}}{\text{Volume (mL) per Dose} \times \text{Doses per Diem}}}}$
+
+💧 **Example**:
+
+**Sig**: `2 tsp po q6h prn pain # VI oz`
+
+==> `Take 2 Teaspoons by mouth every 6 hours, as needed for pain #6 oz`
+
+${\text{1 tsp} = 5 \, \text{mL} \qquad \text{1 oz} = 30 \, \text{mL}}$
+
+${\boxed{\text{Volume (mL) Dispensed}} = {6 \, \text{oz} \times \frac{30 \, \text{mL}}{1 \, \text{oz}} = 180 \, \text{mL}}}$
+
+${\boxed{\text{Volume (mL) per Dose}} = {\text{2 tsp} \times  \frac{\text{5 mL}}{\text{1 tsp}} = 10 \, \text{mL}}}$
+
+${\boxed{\Rightarrow \text{Volume (mL) per Diem}} = \frac{10 \, \text{mL}}{1 \, \text{dose}} \times \frac{4 \, \text{doses}}{1 \, \text{day}} = \frac{40 \, \text{mL}}{1 \, \text{day}} = 40 \, \text{mL/day}}$
+
+${\boxed{\text{Days Supply}} = \frac{180 \, \text{mL}}{40 \, \text{mL/day}} = \frac{180}{1} \times \frac{1 \, \text{day}}{40} = \frac{180}{40} = 4.5 \, \text{days}}$
+
+${\boxed{\Rightarrow \text{Days Supply} = \text{4 Days (Rounded Down)}}}$
 
 ---
 
