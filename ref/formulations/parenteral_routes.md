@@ -35,7 +35,7 @@ Injection Dependent Routes involves delivering drugs directly into the body thro
 
 `Local administration to the eye for therapeutic or anesthetic purposes`
 
-🔑 **Purpose**
+#### 🔑 Intraocular Overview
 
 - Treatment of **infections**, **inflammation**, **glaucoma**, **dry eye**, or **allergies**
 - Local **anesthesia** for diagnostic or surgical procedures
@@ -83,9 +83,7 @@ Injection Dependent Routes involves delivering drugs directly into the body thro
 
 > 📍 1mL = 20 gtt
 
-#### 🔢 How to Use Opthalmic Drops
-
-<!-- not a terribly important section -->
+<!-- #### 🔢 How to Use Opthalmic Drops
 
 > 🛡️ The eye is a sterile environment. Contamination of the product can result in **serious infection**.
 
@@ -108,7 +106,7 @@ Injection Dependent Routes involves delivering drugs directly into the body thro
    - **Gently press the inner corner** of the eye (nasolacrimal duct) with a fingertip for **1 full minute** to prevent drainage and systemic absorption.
 8. **Recap the bottle** tightly to maintain sterility.
 
->📍 **Ophthalmic Ointments** are supplied in **3.5 g tubes** with **narrow-gauge tips**. Administer by applying a thin **ribbon** inside the lower eyelid.
+>📍 **Ophthalmic Ointments** are supplied in **3.5 g tubes** with **narrow-gauge tips**. Administer by applying a thin **ribbon** inside the lower eyelid. -->
 
 ⚠️ **Important Warnings**
 
@@ -119,14 +117,63 @@ Injection Dependent Routes involves delivering drugs directly into the body thro
 
 ### Intranasal Route
 
-dosage forms
+`Highly vascularized route; allows for rapid systemic absorption in some cases`
 
-- solutions
-- suspensions
-- ointments
-- gels
+#### 🔑 Intranasal Overview
 
-### Inhalation Route
+- The **nasal cavity** has a total volume of ~20 mL and a **large surface area** lined with **rich capillary beds**, making it highly suitable for both **local** and **systemic** drug delivery.
+- Absorption through the nasal mucosa can produce **plasma drug concentrations comparable to intravenous (IV)** administration for certain drugs.
+
+🩺 **Common Uses**
+
+- **Local**: Decongestants, antihistamines, corticosteroids
+- **Systemic**: Hormones (e.g. calcitonin, desmopressin), analgesics, vaccines
+
+⚗️ **Dosage Forms**
+
+| Formulation Type | Delivery Mode | Notes |
+|------------------|----------------|-------|
+| **Solutions** | Drops or fine mist | Simple; but drops often drain (post nasal drip) and are swallowed |
+| **Suspensions** | Spray or aerosol | Longer contact time on mucosa |
+| **Sprays** | Metered spray | Preferred over drops; minimizes drainage and swallowing |
+| **Metered-Dose Inhalers (MDI)** | Actuator device | More accurate dosing than squeeze bottles |
+| **Aerosols** | Pressurized canister | Used when **particle size** matters for deposition |
+| **Inhalers** | Volatile drug systems | Contain fibrous matrix saturated with volatile agents |
+| **Ointments / Gels** | Direct application | Longer residence time; less drainage risk |
+
+🧪 **Challenges to Absorption**
+
+- **Enzymatic degradation**: Nasal mucosa contains metabolic enzymes (e.g. peptidases, cytochrome P450s) that can degrade certain drugs.
+- **Mucociliary clearance**: Constant movement of mucus removes foreign substances and can reduce contact time.
+- **Swallowing of dose**: Some of the drug may pass into the throat and be swallowed, leading to **unintended systemic effects** or **first-pass metabolism**.
+
+🚨 **Risks and Limitations**
+
+- **Mucosal edema** (swelling) and **rebound congestion** can occur with overuse.
+- Should not be used **continuously** for more than **3–5 days** unless directed by a physician.
+- Chronic misuse can lead to **rhinitis medicamentosa** (drug-induced chronic nasal inflammation).
+
+> 📍 Nasal sprays and aerosols are engineered for **precise particle size** and **targeted deposition**. Use only as directed to avoid mucosal damage or systemic overdose.
+
+<!-- #### 🔢 How to Use Nasal Sprays
+
+1. **Blow your nose gently** to clear the nostrils.
+2. **Wash hands** thoroughly with soap and warm water.
+3. **Hold head upright** (do not tilt back).
+4. **Close one nostril** using a finger; **keep mouth closed**.
+5. **Insert the spray tip** into the open nostril.
+   - Aim the nozzle slightly outward, away from the nasal septum.
+6. **Inhale deeply** through the nose **while simultaneously activating** the spray (squeeze bottle or press MDI actuator).
+7. **Hold your breath** momentarily, then **exhale through the mouth**.
+8. **Repeat** for the other nostril if prescribed.
+9. **Wipe or rinse the nozzle** with hot water. Do not share spray devices.
+10. **Recap the device** and store it properly.
+11. **Wash hands** again after use.
+
+> 🛡️ Proper use minimizes irritation, prevents contamination, and ensures consistent dosing.
+> 🚨 Avoid directing spray toward the septum. Long-term damage may occur. -->
+
+### Oral Inhalation Route
 
 dosage forms
 
