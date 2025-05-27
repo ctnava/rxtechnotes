@@ -44,6 +44,8 @@ ${\boxed{\Rightarrow \text{Days Supply} = \frac{\text{Amount Dispensed}}{\text{A
 
 > 📌 Many pharmacy systems calculate days’ supply automatically, but knowing how to do it manually helps catch input errors and supports DUR decisions.
 
+<!-- todo: seperate based on route & dosage form -->
+
 ## 💊 Tablets & Capsules
 
 **Billable Units**: Whole Tablets or Capsules
@@ -83,7 +85,9 @@ ${\boxed{\Rightarrow \text{Days Supply}} = \text{45 tab} \div \text{12 tab/day} 
 
 ${\boxed{\Rightarrow \text{Days Supply}} = \text{3.75 Days} = \text{3 Days (Rounded Down)}}$
 
-## 🥤 Liquid Solutions, Suspensions, Syrups
+---
+
+## 🥤 Oral Liquid Solutions, Suspensions, Syrups
 
 **Billable Units**: Volume (mL)
 
@@ -119,7 +123,9 @@ ${\boxed{\Rightarrow \text{Days Supply}} = \frac{180 \, \text{mL}}{40 \, \text{m
 
 ${\boxed{\Rightarrow \text{Days Supply} = \text{4 Days (Rounded Down)}}}$
 
-## 📘 Topical Medications (Creams, Ointments, Gels, & Lotions)
+---
+
+## 📘 Topical Creams, Ointments, Gels, & Lotions
 
 **Billable Units**: Mass (g); for Lotions - Volume (mL)
 
@@ -199,9 +205,18 @@ ${\boxed{\Rightarrow \text{Drops per Diem} = \frac{4 \, \text{gtt}}{1 \, \text{d
 
 ${\boxed{\Rightarrow \text{Days Supply} = \frac{100 \, \text{gtt}}{4 \, \text{gtt/day}} = \frac{100}{1} \times \frac{1 \, \text{day}}{4} = 25 \, \text{days}}}$
 
-## 🌬️ Metered-Dose Inhalers (MDIs)
+---
 
-**Billable Quantity**: Mass (g); based on **canister**  
+## 🌬️ Pulmonary
+
+### 🔫 Metered-Dose Inhalers (MDIs); Aerosols
+
+**Billable Quantity**:
+
+- Based on **canister**  
+- Mass (g) for Dry Powder Cartridges
+- Volume (mL) for Liquid Mist
+
 **Clinical Quantity**: Total **metered doses** (puffs)
 
 🔠 **Abbreviations**:
