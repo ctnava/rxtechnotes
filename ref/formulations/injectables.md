@@ -151,7 +151,7 @@ Always document:
       - Balloon-like reservoir exerts pressure to deliver medication through a flow restrictor
       - Used for **ambulatory care**, **home infusions**, or **slow intermittent therapy**
 
-🛡️ **Clinical Safety Note**
+<!-- 🛡️ **Clinical Safety Note**
 
 - Match **infusion rate** and **fluid volume** to patient condition:
   - ⚠️ Too fast → fluid overload, pulmonary edema, or cardiac stress
@@ -162,7 +162,7 @@ Always document:
   - Infection
   - Dislodgement or occlusion
 
-> 📍 For high-alert medications, double-check pump settings and line compatibility before administration.
+> 📍 For high-alert medications, double-check pump settings and line compatibility before administration. -->
 
 ---
 
@@ -218,7 +218,7 @@ Intramuscular administration involves injecting a drug **deep into the skeletal 
 >- 📍 Doses >3 mL should be split between two sites unless specifically indicated otherwise.
 >- 🛡️ Always rotate injection sites to prevent muscle fibrosis, local irritation, scar & abscess formation
 
-🎯 **Z-Track Technique**
+<!-- 🎯 **Z-Track Technique**
 
 Used to minimize **drug leakage**, **tissue staining**, and **irritation**:
 
@@ -230,7 +230,7 @@ Used to minimize **drug leakage**, **tissue staining**, and **irritation**:
 >
 >- Iron dextran
 >- Hydroxyprogesterone
->- Drugs that discolor skin or irritate subcutaneous tissues
+>- Drugs that discolor skin or irritate subcutaneous tissues -->
 
 ---
 
