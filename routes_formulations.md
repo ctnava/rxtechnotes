@@ -8,12 +8,8 @@ Routes of administration are classified into two broad categories:
 
 - **Enteral**: Administration involving the **alimentary canal**
   - 🔗 See [Formulations & Dosage Forms](./ref/formulations/enteral_routes.md)
-- **Parenteral**: Administration **bypassing** the gastrointestinal tract, including:
-  - Intravenous (IV)
-  - Intramuscular (IM)
-  - Subcutaneous (SC)
-  - Intradermal (ID)
-  - Other specialized routes (e.g., intra-articular, intrathecal)
+- **Parenteral**: Administration **bypassing** the gastrointestinal tract
+  - 🔗 See [Formulations & Dosage Forms](./ref/formulations/parenteral_routes.md)
 
 > 📌 Each route affects **onset**, **bioavailability**, and **duration of action**.
 
