@@ -45,6 +45,7 @@ ${\boxed{\Rightarrow \text{Days Supply} = \frac{\text{Amount Dispensed}}{\text{A
 > 📌 Many pharmacy systems calculate days’ supply automatically, but knowing how to do it manually helps catch input errors and supports DUR decisions.
 
 <!-- todo: seperate based on route & dosage form -->
+<!-- todo: insert billing quantity math -->
 
 ## 💊 Tablets & Capsules
 
@@ -207,15 +208,50 @@ ${\boxed{\Rightarrow \text{Days Supply} = \frac{100 \, \text{gtt}}{4 \, \text{gt
 
 ---
 
-## 🌬️ Pulmonary
+## 🌬️ Aerosols
 
-### 🔫 Metered-Dose Inhalers (MDIs); Aerosols
+### 💨 Nebulized Solutions
+
+**Billable Quantity**: Volume (mL)  
+**Clinical Quantity**: Based on **container**; **whole vials**
+
+🔠 **Abbreviations**:
+
+- **By Nebulizer**: `per neb`
+- **Handheld Nebulizer**: `HHN`
+
+🔢 **Formula**:
+
+${\boxed{\text{Vials per Diem} = \text{Vials per Dose} \times \text{Doses per Diem}}}$
+
+${\boxed{\text{Days Supply} = \frac{\text{Vials Dispensed}}{\text{Vials Per Diem}}}}$
+
+>- 📍 Each nebulizer vial is unit-dose (e.g., 2.5 mL each)  
+>- 📍 Do **not** assume volume-use fractions; vials are **not** split
+
+📘 **Example**:
+
+**Sig**: `i vial via HHN QHS # XXV vials (2.5mL each)`
+
+==> `Inhale 1 vial via handheld nebulizer every night`
+
+${\boxed{\text{Vials Dispensed} = 25 \, \text{vials}}}$  
+
+${\boxed{\text{Vials Per Diem} = 1 \, \text{vial/day}}}$  
+
+${\boxed{\Rightarrow \text{Days Supply} = \frac{25 \, \text{vials}}{1 \, \text{vial/day}} = 25 \, \text{days}}}$
+
+> 🚨 Do **not** use total volume (e.g., 2.5 mL × 25 = 62.5 mL) to calculate days supply. Use **vial count** and **dosing frequency** only.
+
+---
+
+### 🔫 Metered-Dose Inhalers (MDIs) & Sprays
 
 **Billable Quantity**:
 
-- Based on **canister**  
+- Based on **container**  
 - Mass (g) for Dry Powder Cartridges
-- Volume (mL) for Liquid Mist
+- Volume (mL) for Liquid Mist Sprays
 
 **Clinical Quantity**: Total **metered doses** (puffs)
 
