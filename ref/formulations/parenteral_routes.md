@@ -34,3 +34,7 @@ Injection Dependent Routes involves delivering drugs directly into the body thro
 Parenteral routes bypass the gastrointestinal (GI) tract. While most parenteral routes involve injections (e.g., IV, IM, SC), a subset deliver drugs **without needles or infusion devices**.
 
  🔗 See [Injection Dependent Parenteral Routes of Administration](./non_injectables.md) for more information.
+
+---
+
+🔗 Back to [**Routes & Formulations**](../../routes_formulations.md)
