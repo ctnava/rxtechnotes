@@ -4,69 +4,128 @@
 
 Dilution involves **reducing the concentration** of a solution by adding a diluent (e.g. sterile water, normal saline). The **total amount of drug stays the same**, but it's dispersed in a **larger volume**.
 
-## 🔢 Dilution Formulas
+## 🔢 Dilution Proportion Formula
 
-Formula 1: **Concentration × Volume = Amount of Drug**
+${\boxed{C_i \times V_i = C_f \times V_f}}$
 
-${C_1 \times V_1 = C_2 \times V_2}$
+${\boxed{\implies \text{Initial, Stock Concentration for Dilution } (C_i)} = (C_f \times V_f) \div V_i}$
 
-Where:
+${\boxed{\implies \text{Initial, Stock Volume Used for Dilution } (V_i)} = (C_f \times V_f) \div C_i}$
 
-- ${C_1}$ = original (higher) concentration
-- ${V_1}$ = volume of original solution
-- ${C_2}$ = final (diluted) concentration
-- ${V_2}$ = final total volume
+${\boxed{\implies \text{Final Concentration After Dilution } (C_f)} = (C_i \times V_i) \div V_f}$
 
-Formula 2: **Amount of Diluent Needed**
+${\boxed{\implies \text{Final, Total Volume After Dilution } (V_f)} = (C_i \times V_i) \div V_f}$
 
-$\text{Diluent Volume} = \text{Final Total Volume} - \text{Volume of Original Solution}$
+---
+
+${\boxed{\text{Final, Total Volume After Dilution } (V_f)} = V_i + V_d}$
+
+${\boxed{\implies \text{Initial, Stock Volume Used for Dilution } (V_i)} = V_f - V_d}$
+
+${\boxed{\implies \text{Diluent Volume Used }  (V_d)} = V_f - V_i}$
+
+---
+
+### Formula Manipulation
+
+${\boxed{C_i \times V_i = C_f \times (V_i + V_d)}}$
+
+${\boxed{\implies \text{Final Concentration After Dilution } (C_f)} = (C_i \times V_i) \div (V_i + V_d)}$
+
+${\implies C_i \times V_i = {(V_i \times C_f) + (V_d \times C_f)}}$
+
+${\boxed{\implies \text{Diluent Volume Used } (V_d)} =  \frac{(C_i \times V_i) - (V_i \times C_f)}{C_f}}$
+
+${\boxed{\implies \text{Initial, Stock Volume Used for Dilution } (V_i)} =  \frac{(C_i \times V_i) - (V_d \times C_f)}{C_f}}$
 
 ## 📘 Examples
 
-Example: **Calculate Final Concentration After Dilution**
+### 1.) Calculate Final, Diluted Concentration After Adding Diluent
 
-**You have**: 200 mg of drug in 2 mL  
-**You add**: 8 mL diluent  
-**Total Volume**: 10 mL
+- **Have**: 2 mL of Stock Solution at 100 mg/mL
+- **Add**: 8 mL diluent
 
-$\text{Final concentration} = \frac{\text{Total Drug}}{\text{Total Volume}} = \frac{200\ \text{mg}}{10\ \text{mL}} = \boxed{20\ \text{mg/mL}}$
+Option 1: **Plugging In**
 
----
+${\boxed{C_f = (C_i \times V_i) \div (V_i + V_d)}}$
 
-Example: **Calculate How Much Diluent to Add**
+${\implies C_f = ({100\ \frac{mg}{mL} \times \text{2 mL}}) \div (\text{2 mL + 8 mL})}$
 
-**You have**: 100 mg/mL concentration  
-**You need**: 20 mg/mL concentration  
-**Final volume needed**: 50 mL
+${\boxed{\implies C_f = \text{200 mg} \div \text{10 mL} = 20\ \frac{mg}{mL}}}$
 
-${C_1 \times V_1 = C_2 \times V_2}$
+Option 2: **Winging It**
 
-${100 \times V_1 = 20 \times 50}$
+${\boxed{C_i \times V_i = C_f \times V_f}}$
 
-${\Rightarrow 100 \times V_1 = 1000 }$
+${\boxed{V_f = V_i + V_d}}$
 
-${\Rightarrow V_1 = 10\ \text{mL}}$
+${\implies {C_i \times V_i = C_f \times (V_i + V_d)}}$
 
-This means you need **10 mL** of the original solution.
+${\implies 100\ \frac{mg}{mL} \times \text{2 mL} = C_f \times (\text{2 mL + 8 mL})}$
 
-Now calculate diluent:
+${\implies \text{200 mg} = C_f \times \text{10 mL}}$
 
-$\text{Diluent} = V_2 - V_1 = 50 - 10 = \boxed{40\ \text{mL}}$
+${\boxed{\implies C_f = \text{200 mg} \div \text{10 mL} = 20\ \frac{mg}{mL}}}$
 
 ---
 
-Example:  **How to Make 30 mL of 1:10 Solution From 1:5**
+### 2.) Calculate How Much Diluent to Add
+
+- **Have**: Stock Solution @ 100 mg/mL (Unlimited)
+- **Need**: 50 mL @ 20 mg/mL
+
+Option 1: **Plugging In**
+
+${\boxed{V_i = (C_f \times V_f) \div C_i}}$
+
+${\implies {V_i = (C_f \times V_f) \div C_i}}$
+
+${\implies {V_i = (20\ \frac{mg}{mL} \times \text{50 mL}) \div 100\ \frac{mg}{mL}}}$
+
+${\implies {V_i = \text{1000 mg} \div 100\ \frac{mg}{mL}}}$
+
+${\implies V_i = \text{1000 mg} \times \frac{\text{100 mg}}{\text{1 mL}} = \text{10 mL}}$
+
+${\boxed{V_d = \frac{(C_i \times V_i) - (V_i \times C_f)}{C_f}}}$
+
+${\implies {V_d = \frac{(100\ \frac{mg}{mL} \times \text{10 mL}) - (\text{10 mL} \times 20\ \frac{mg}{mL})}{20\ \frac{mg}{mL}}}}$
+
+${\implies {V_d = \frac{\text{1000 mg} - \text{200 mg}}{20\ \frac{mg}{mL}} = \frac{\text{800 mg}}{20\ \frac{mg}{mL}}}}$
+
+${\boxed{\implies {V_d = {\text{800 mg}}\div{20\ \frac{mg}{mL}} = {\text{40 mL}}}}}$
+
+Option 2: **Winging It**
+
+${\boxed{C_i \times V_i = C_f \times V_f}}$
+
+${\implies 100\ \frac{mg}{mL} \times V_i = 20\ \frac{mg}{mL} \times \text{50 mL}}$
+
+${\implies 100\ \frac{mg}{mL} \times V_i = \text{1000 mg}}$
+
+${\implies V_i = \text{1000 mg} \div 100\ \frac{mg}{mL} }$
+
+${\implies V_i = \text{1000 mg} \times \frac{\text{100 mg}}{\text{1 mL}} = \text{10 mL}}$
+
+${\boxed{V_f = V_i + V_d}}$
+
+${\implies \text{50 mL} = \text{10 mL} + V_d}$
+
+${\boxed{\implies V_d = \text{50 mL} - \text{10 mL} = \text{40 mL}}}$
+
+---
+
+### 3.) How to Make 30 mL of 1:10 Solution From 1:5
 
 Convert to ratios:
 
 - 1:5 = 1 part drug in 5 total parts = 20%
 - 1:10 = 1 part drug in 10 total parts = 10%
 
-${C_1 \times V_1 = C_2 \times V_2}$
+${C_i \times V_i = C_f \times V_f}$
 
-${\Rightarrow 20\% \times V_1 = 10\% \times 30}$
+${\Rightarrow 20\% \times V_i = 10\% \times 30}$
 
-${\Rightarrow V_1 = \frac{300}{20} = \boxed{15\ \text{mL}}}$
+${\Rightarrow V_i = \frac{300}{20} = \boxed{15\ \text{mL}}}$
 
 Then:
 
@@ -76,11 +135,11 @@ ${\text{Diluent} = 30 - 15 = \boxed{15\ \text{mL}}}$
 
 ## 🚨 Tips and Best Practices
 
-- 📍 Use **consistent units** across all values (e.g. mg/mL or %)
-- 🛡️ Use **C1V1 = C2V2** for any dilution when drug strength and volume are involved
-- 📍 1:10 = 10% = 100 mg/mL if the solute is 1000 mg
-- 🛡️ Double-check **final concentration** when preparing for neonates or pediatrics
-- 📍 Record **lot numbers** and **expiration dates** for compounded dilutions
+- 📍 **Always label units**; cancel to confirm your math is valid.
+- 🛡️ For safety-critical doses (e.g. neonatal), recalculate and verify final concentration.
+- 🔁 Ratios (e.g. 1:5, 1:10) = "1 part drug per total parts" → Convert to percent or mg/mL if needed.
+- 📦 Document all compounding: **lot numbers, dates, and expiration**.
+- 🔗 Save all dilution steps for pharmacist verification.
 
 🔗 Back to [**Mathematics Concepts Directory**](./readme.md)
 
