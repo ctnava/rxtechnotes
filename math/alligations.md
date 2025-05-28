@@ -21,7 +21,7 @@ You **cannot** use alligation if:
 - The desired strength is **not between** the two available strengths
 - The solutions contain **different ingredients**
 
-> 🔑 **Alligation**: type of calculation to determine how much of two concentrations of the same ingredient are needed to prepare a concentration that is in between
+> 🔑 **Definition**: type of calculation to determine how much of two concentrations of the same ingredient are needed to prepare a concentration that is in between
 
 ---
 
