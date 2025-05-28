@@ -1,6 +1,7 @@
 # ⚖️ Alligation Calculations for Pharmacy Technicians
 
-<!-- ## Reference
+<!-- 
+## Reference
 
 Pharmacy Calculations, 6e; Morton Publishing | Chapter 31
 -->
