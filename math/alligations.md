@@ -2,20 +2,20 @@
 
 ## 🔑 Key Concepts
 
-**Alligation** is a method used to determine how to combine **two concentrations** of the **same ingredient** to achieve a **desired concentration** that falls **between** the two.
+**Alligation** is a method used to determine how to combine **two strengths** (concentrations) of the **same ingredient** to achieve a **desired strength** (concentration) that falls **between** the two.
 
 It is a shortcut technique (often visualized like a tic-tac-toe grid) to avoid solving with full algebra.
 
 Use **alligation** when:
 
-- You are **mixing two known concentrations** of the **same active ingredient**
-- You need to make a **specific final concentration**
-- The **desired concentration lies between the two** known concentrations
+- You are **mixing two known strengths** of the **same active ingredient**
+- You need to make a **specific final strength**
+- The **desired strength lies between the two** known strengths
 - This **dilutions** (use 0%)
 
 You **cannot** use alligation if:
 
-- The desired concentration is **not between** the two available strengths
+- The desired strength is **not between** the two available strengths
 - The solutions contain **different ingredients**
 
 ---
@@ -33,15 +33,15 @@ You **cannot** use alligation if:
 
 Where:
 
-${\boxed{\text{Higher, Available Concentration } (\% \times 100) = C_h}}$
+${\boxed{\text{Higher, Available Strength } (\% \times 100) = C_h}}$
 
-${\boxed{\text{Lower, Available Concentration } (\% \times 100) = C_l}}$
+${\boxed{\text{Lower, Available Strength } (\% \times 100) = C_l}}$
 
-${\boxed{\text{Desired Concentration } (\% \times 100) = C_d}}$
+${\boxed{\text{Desired Strength } (\% \times 100) = C_d}}$
 
-${\boxed{\text{Higher Concentration in Final Solution (Parts)} = P_h}}$
+${\boxed{\text{Higher Strength in Final Solution (Parts)} = P_h}}$
 
-${\boxed{\text{Lower Concentration in Final Solution (Parts)} = P_l}}$
+${\boxed{\text{Lower Strength in Final Solution (Parts)} = P_l}}$
 
 #### 🧩 Determining Ratios of Each
 
@@ -55,15 +55,15 @@ ${\boxed{\implies \text{Ratio of Lower Strength } (R_l)= \frac{P_l}{P_s}}}$
 
 ${\boxed{\text{Total Volume (mL)} = V_t\ (\text{Given})}}$
 
-${\boxed{\implies \text{Higher Concentration Volume } (V_h) = R_h \times V_t = (\frac{P_h}{P_s}) \times V_t}}$
+${\boxed{\implies \text{Higher Strength Volume } (V_h) = R_h \times V_t = (\frac{P_h}{P_s}) \times V_t}}$
 
-${\boxed{\implies \text{Lower Concentration Volume } (V_l) = R_l \times V_t = (\frac{P_l}{P_s}) \times V_t}}$
+${\boxed{\implies \text{Lower Strength Volume } (V_l) = R_l \times V_t = (\frac{P_l}{P_s}) \times V_t}}$
 
 ---
 
 ## 📍 Tips and Best Practices
 
-- 🛡️ Always check that the desired concentration is **between** the two available.
+- 🛡️ Always check that the desired concentration/ strength is **between** the two available.
 - 📏 Keep units consistent: mL with mL, g with g.
 - ✅ Use exact math before rounding unless a sig fig limit is specified.
 - 🤯 Alligation gives **ratios**, not volumes—convert with total quantity.
