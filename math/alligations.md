@@ -24,18 +24,18 @@ You **cannot** use alligation if:
 
 ### 🧩 Table Setup
 
-<!-- ![table setup](./img/alligations/f_table.PNG) -->
-| $C_h$ | | ${P_h = C_d - C_l}$ |
+![table setup](./img/alligations/f_table.PNG)
+<!-- | $C_h$ | | ${P_h = C_d - C_l}$ |
 |-|-|-|
 | | $C_d$ | |
-| $C_l$  | | ${P_l = C_h - C_d}$ |
+| $C_l$  | | ${P_l = C_h - C_d}$ | -->
 
 > The numbers on the diagonals are always subtractive differences. Always subtract "across" the grid.
 
 Where:
 
-<!-- ![table labels](./img/alligations/f_labels.PNG) -->
-${\boxed{\text{Higher, Available Strength } (\% \times 100) = C_h}}$
+![table labels](./img/alligations/f_labels.PNG)
+<!-- ${\boxed{\text{Higher, Available Strength } (\% \times 100) = C_h}}$
 
 ${\boxed{\text{Lower, Available Strength } (\% \times 100) = C_l}}$
 
@@ -43,7 +43,7 @@ ${\boxed{\text{Desired Strength } (\% \times 100) = C_d}}$
 
 ${\boxed{\text{Higher Strength in Final Solution (Parts)} = P_h}}$
 
-${\boxed{\text{Lower Strength in Final Solution (Parts)} = P_l}}$
+${\boxed{\text{Lower Strength in Final Solution (Parts)} = P_l}}$ -->
 
 ### 🧩 Determining Ratios of Each
 
