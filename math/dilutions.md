@@ -6,6 +6,8 @@ Dilution involves **reducing the concentration** of a solution by adding a dilue
 
 ## 🔢 Dilution Proportion Formula
 
+![V_i C_i = V_f C_f](./img/dilutions/f1.PNG)
+<!-- 
 ${\boxed{C_i \times V_i = C_f \times V_f}}$
 
 ${\boxed{\implies \text{Initial, Stock Concentration for Dilution } (C_i)} = (C_f \times V_f) \div V_i}$
@@ -14,21 +16,24 @@ ${\boxed{\implies \text{Initial, Stock Volume Used for Dilution } (V_i)} = (C_f 
 
 ${\boxed{\implies \text{Final Concentration After Dilution } (C_f)} = (C_i \times V_i) \div V_f}$
 
-${\boxed{\implies \text{Final, Total Volume After Dilution } (V_f)} = (C_i \times V_i) \div V_f}$
+${\boxed{\implies \text{Final, Total Volume After Dilution } (V_f)} = (C_i \times V_i) \div V_f}$ -->
 
 ---
 
+![V_f = V_i + V_d](./img/dilutions/f2.PNG)
+<!-- 
 ${\boxed{\text{Final, Total Volume After Dilution } (V_f)} = V_i + V_d}$
 
 ${\boxed{\implies \text{Initial, Stock Volume Used for Dilution } (V_i)} = V_f - V_d}$
 
-${\boxed{\implies \text{Diluent Volume Used }  (V_d)} = V_f - V_i}$
+${\boxed{\implies \text{Diluent Volume Used }  (V_d)} = V_f - V_i}$ -->
 
 ---
 
 ### Formula Manipulation
 
-${\boxed{C_i \times V_i = C_f \times (V_i + V_d)}}$
+![formula manipulation examples](./img/dilutions/f3.PNG)
+<!-- ${\boxed{C_i \times V_i = C_f \times (V_i + V_d)}}$
 
 ${\boxed{\implies \text{Final Concentration After Dilution } (C_f)} = (C_i \times V_i) \div (V_i + V_d)}$
 
@@ -36,7 +41,7 @@ ${\implies C_i \times V_i = {(V_i \times C_f) + (V_d \times C_f)}}$
 
 ${\boxed{\implies \text{Diluent Volume Used } (V_d)} =  \frac{(C_i \times V_i) - (V_i \times C_f)}{C_f}}$
 
-${\boxed{\implies \text{Initial, Stock Volume Used for Dilution } (V_i)} =  \frac{(C_i \times V_i) - (V_d \times C_f)}{C_f}}$
+${\boxed{\implies \text{Initial, Stock Volume Used for Dilution } (V_i)} =  \frac{(C_i \times V_i) - (V_d \times C_f)}{C_f}}$ -->
 
 ## 📘 Examples
 
