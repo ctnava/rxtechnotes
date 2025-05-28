@@ -44,3 +44,20 @@ Pharmacy Calculations, 6e; Morton Publishing | Chapter 32
 | Vitamins         | MVI (multi-vitamin infusion)                 |
 | Trace Elements   | Zinc, Copper, Chromium, Manganese, Selenium |
 | Other Additives  | Insulin, H2 blockers (e.g. ranitidine)       |
+
+## Examples
+
+### Reference Table
+
+| **Item**              | **Available Concentrations** |
+|-----------------------|------------------------------|
+| Potassium Chloride    | 2 mEq/mL |
+| Sodium Chloride       | 14.6%; 2.5 mEq/mL |
+| Calcium Gluconate     | 10%; 4.65 mEq/10 mL |
+| Magnesium Sulfate     | 50%; 40.6 mEq/10 mL |
+| Sodium Acetate        | 2 mEq/mL |
+| Sodium Phosphate      | 45 mM/15 mL; 60 mEq/15 mL |
+| Potassium Acetate     | 19.6%; 2 mEq/mL |
+| Potassium Phosphate   | 15 mM/5 mL; 4.4 mEq/mL |
+| Humulin R             | 100 units/mL |
+| Vitamin C             | 250 mg/2 mL |
