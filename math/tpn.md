@@ -26,10 +26,11 @@ Pharmacy Calculations, 6e; Morton Publishing | Chapter 32
 
 - **Sterile Water for Injection (SWFI)**: used to dilute hypertonic solutions
 - **Dextrose** (carbohydrate source)  
-  - Common concentrations: D10W, D20W, D50W, etc.  
+  - Concentrations: 10% to 70%
   - Provides 3.4 kcal/g
 - **Amino Acids** (protein source)  
-  - Products: e.g. Aminosyn 3%, 5%, 10%  
+  - Concentrations: 3.5% to 15%
+    - Brands: Aminosyn & Travasol
   - Provides 4 kcal/g
 - **IV Fat Emulsion (Lipid)** (fat source)  
   - 10% = 1.1 kcal/mL  
