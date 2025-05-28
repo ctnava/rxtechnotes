@@ -11,7 +11,7 @@ Look at this as more of a quick review resource. It's not comprehensive and does
 
 | Chapter | Title | Rework Status |
 |---------|-------|---------------|
-| 1 | [Roman Numeral System](./roman_numerals.md) | ✅ |
+| 1 | [Roman Numeral System](./roman_numerals.md) | 🚧 |
 | 2 | [Unit Conversions for Pharmacy Technicians: Household & Metric](./unit_conversions.md) | 📸 |
 | 3 | [Calculating Days Supply](./days_supply.md) | 🚧 |
 | 4 | [Dosage Calculations from Medication Labels](./medication_labels.md) | ✅ |
