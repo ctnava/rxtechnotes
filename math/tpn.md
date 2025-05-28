@@ -47,9 +47,6 @@ Parenteral nutrition consists of a **base solution** and a **set of additives**.
 
 ### 💊 Additives (Micronutrients)
 
-- **Sterile Water for Injection (SWFI)**: used to dilute hypertonic solutions
-| SWFI | Diluent | N/A | 0 kcal | Adjusts final osmolarity |
-
 | Type             | Examples                                     |
 |------------------|----------------------------------------------|
 | Electrolytes     | Na⁺, K⁺, Cl⁻, Mg²⁺, PO₄³⁻, Ca²⁺              |
