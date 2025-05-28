@@ -21,6 +21,6 @@ Look at this as more of a quick review resource. It's not comprehensive and does
 | 13 | [Infusion and Drip Rate Calculations](./flow_drip_rate.md) | ✅📸 Complete|
 | 14 | [Alligations](./alligations.md) | ✅ Complete |
 | 15 | [Dilutions](./dilutions.md) | ✅ Complete  |
-| 16 | [Total Parenteral Nutrition](./tpn.md) | 🚧 WIP  |
+| 16 | [Total Parenteral Nutrition](./tpn.md) | ✅ Complete  |
 
 > 🚨 Disclaimer: I haven't had a chance to double-check the math. I'm just sort of blowing through it. I'm more worried about covering law & SOPs. I'll come back to this afterwards.
