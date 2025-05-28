@@ -10,7 +10,7 @@ Look at this as more of a quick review resource. It's not comprehensive and does
 | 2 | [Unit Conversions for Pharmacy Technicians: Household & Metric](./unit_conversions.md) | ✅ Complete |
 | 3 | [Calculating Days Supply](./days_supply.md) | ✅ Complete; Minor Adjustments Needed |
 | 4 | [Reading Medication Labels](./medication_labels.md) | ❌ DNE |
-| 5 | [Verification of DEA Numbers](./dea_numbers.md) | ✅ Complete |
+| 5 | [Verification of DEA Numbers](./dea_numbers.md) | ✅ Complete; Minor Adjustments Needed |
 | 6 | [Calculating Days Supply: Insulin](./insulin_math.md) | ✅ Complete |
 | 7 | [Parenteral Doses Using Ratio & Proportion Calculations](./parenteral_ratios.md) | ✅ Complete |
 | 8 | [Powder Drug Volume & Reconstitution Calculations](./powder_volume.md) | ✅ Complete |
