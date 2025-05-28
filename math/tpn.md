@@ -47,13 +47,6 @@ Parenteral nutrition consists of a **base solution** and a **set of additives**.
 
 ### 💊 Additives (Micronutrients)
 
-| Type             | Examples                                     |
-|------------------|----------------------------------------------|
-| Electrolytes     | Na⁺, K⁺, Cl⁻, Mg²⁺, PO₄³⁻, Ca²⁺              |
-| Vitamins         | MVI (multi-vitamin infusion)                 |
-| Trace Elements   | Zinc, Copper, Chromium, Manganese, Selenium |
-| Other Additives  | Insulin, H2 blockers (e.g. ranitidine)       |
-
 | Type | Examples | Notes |
 |------|----------|-------|
 | Electrolytes | Na⁺, K⁺, Cl⁻, Mg²⁺, PO₄³⁻, Ca²⁺ | Must monitor serum levels and renal function |
