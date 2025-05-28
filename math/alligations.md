@@ -99,18 +99,18 @@ Step 2: **Calculate Ratios**
 <!-- ![tables](./img/alligations/e1_ratios.PNG) -->
 $P_t = P_h + P_l = 5 + 10 = 15$ parts
 
-$R_h = \frac{P_h}{P_t} = \frac{5}{15} = \frac{1}{3}$
+$\implies R_h = \frac{P_h}{P_t} = \frac{5}{15} = \frac{1}{3}$
 
-$R_l = \frac{P_l}{P_t} = \frac{10}{15} = \frac{2}{3}$
+$\implies R_l = \frac{P_l}{P_t} = \frac{10}{15} = \frac{2}{3}$
 
 Step 3: **Determine Volumes**
 
 <!-- ![tables](./img/alligations/e1_volumes.PNG) -->
 $V_t \text{ (given)} = 60\ \text{mL}$
 
-$V_h = R_h \times V_t = \frac{1}{3} \times 60 = \boxed{20\ \text{mL}}$
+$\implies V_h = R_h \times V_t = \frac{1}{3} \times 60 = \boxed{20\ \text{mL}}$
 
-$V_l = R_l \times V_t = \frac{2}{3} \times 60 = \boxed{40\ \text{mL}}$
+$\implies V_l = R_l \times V_t = \frac{2}{3} \times 60 = \boxed{40\ \text{mL}}$
 
 ✅ **Final Answer**: Mix 20 mL of 25% solution with 40 mL of 10% solution to make 60 mL of 15% solution
 
@@ -139,18 +139,18 @@ Step 2: **Calculate Ratios**
 <!-- ![tables](./img/alligations/e2_ratios.PNG) -->
 $P_t = P_h + P_l = 4 + 8 = 12$ parts
 
-$R_h = \frac{P_h}{P_t} = \frac{4}{12} = \frac{1}{3}$
+$\implies R_h = \frac{P_h}{P_t} = \frac{4}{12} = \frac{1}{3}$
 
-$R_l = \frac{P_l}{P_t} = \frac{8}{12} = \frac{2}{3}$
+$\implies R_l = \frac{P_l}{P_t} = \frac{8}{12} = \frac{2}{3}$
 
 Step 3: **Determine Masses**
 
 <!-- ![tables](./img/alligations/e2_masses.PNG) -->
 $M_t \text{ (given)} = 500\ \text{g}$
 
-$M_h = R_h \times M_t = \frac{1}{3} \times 500 = \boxed{166.67\ \text{g}}$
+$\implies M_h = R_h \times M_t = \frac{1}{3} \times 500 = \boxed{166.67\ \text{g}}$
 
-$M_l = R_l \times M_t = \frac{2}{3} \times 500 = \boxed{333.33\ \text{g}}$
+$\implies M_l = R_l \times M_t = \frac{2}{3} \times 500 = \boxed{333.33\ \text{g}}$
 
 ✅ **Final Answer**: Mix 166.67 g of 20% ointment with 333.33 g of 8% ointment to make 500 g of 12% ointment
 
@@ -186,9 +186,9 @@ Step 3: **Determine Volumes**
 <!-- ![tables](./img/alligations/e3_volumes.PNG) -->
 $V_t \text{ (given)} = 120\ \text{mL}$
 
-$\implies V_h = R_h \times V_t = 0.25 \times 120 = 30\ \text{mL}$
+$\implies V_h = R_h \times V_t = 0.25 \times 120 = \boxed{30\ \text{mL}}$
 
-$\implies V_l = R_l \times V_t = 0.75 \times 120 = 90\ \text{mL}$
+$\implies V_l = R_l \times V_t = 0.75 \times 120 = \boxed{90\ \text{mL}}$
 
 ✅ **Final Answer**: Mix 30 mL of 10% solution with 90 mL of sterile water to make 120 mL of 2.5% solution
 
