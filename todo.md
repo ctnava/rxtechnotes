@@ -29,7 +29,7 @@
 - [ ] Reading: Chapter 16 - Community Pharmacy
 - [x] HIPAA Survival Guide
 - [x] Math: Chapter 12 - Day Supply
-- [ ] Math: Chapter 33 - Medication Labels
+- [x] Math: Chapter 33 - Medication Labels
 - [x] Key Medical Concepts (unlinked)
 
 ## Week 4: Other Environments & Routes

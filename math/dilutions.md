@@ -1,7 +1,5 @@
 # 💧 Dilution Calculations for Pharmacy Technicians
 
-## 🔑 Key Concepts
-
 Dilution involves **reducing the concentration** of a solution by adding a diluent (e.g. sterile water, normal saline). The **total amount of drug stays the same**, but it's dispersed in a **larger volume**.
 
 ## 🔢 Dilution Proportion Formula
