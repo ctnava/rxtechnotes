@@ -109,3 +109,5 @@ This example demonstrates how to calculate the **volumes of additives** needed t
 | Sodium Acetate          | 10 mEq      | 5 mL |
 | Potassium Acetate       | 25 mEq      | 12.5 mL |
 | Sodium Phosphates       | 8 mEq       | 2 mL |
+
+**Total Volume** = 1072.55 mL
