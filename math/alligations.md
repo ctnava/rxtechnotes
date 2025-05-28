@@ -67,6 +67,7 @@ ${\boxed{\implies \text{Lower Strength Volume } (V_l) = R_l \times V_t = (\frac{
 
 For **Solids Use Mass**:
 
+<!-- ![volumes](./img/alligations/f_masses.PNG) -->
 ${\boxed{\text{Total Sum Mass (g)} = M_t\ (\text{Given})}}$
 
 ${\boxed{\implies \text{Higher Strength Mass } (M_h) = R_h \times M_t = (\frac{P_h}{P_t}) \times M_t}}$
