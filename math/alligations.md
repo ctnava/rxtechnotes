@@ -1,7 +1,5 @@
 # ⚖️ Alligation Calculations for Pharmacy Technicians
 
-## 🔑 Key Concepts
-
 **Alligation** is a method used to determine how to combine **two strengths** (concentrations) of the **same ingredient** to achieve a **desired strength** (concentration) that falls **between** the two.
 
 It is a shortcut technique (often visualized like a tic-tac-toe grid) to avoid solving with full algebra.
@@ -17,6 +15,8 @@ You **cannot** use alligation if:
 
 - The desired strength is **not between** the two available strengths
 - The solutions contain **different ingredients**
+
+> 🔑 **Alligation**: type of calculation to determine how much of two concentrations of the same ingredient are needed to prepare a concentration that is in between
 
 ---
 
@@ -53,6 +53,8 @@ ${\boxed{\text{Lower Strength in Final Solution (Parts)} = P_l}}$ -->
 ${\boxed{\implies \text{Ratio of Higher Strength } (R_h)= \frac{P_h}{P_t}}}$
 
 ${\boxed{\implies \text{Ratio of Lower Strength } (R_l)= \frac{P_l}{P_t}}}$ -->
+
+> 🔑 **Part**: Relative Amount of Ingredient
 
 ### 🧩 Determining Amounts of Each
 
