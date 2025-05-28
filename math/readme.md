@@ -5,7 +5,7 @@ Look at this as more of a quick review resource. It's not comprehensive and does
 🔣 **Legend**
 
 - ✅ Ready for Mobile Viewing
-- 🚧 Minor Adjustments Needed
+- 🚧 Minor Presentation Adjustments Needed; Otherwise Complete
 - 📸 Need images since LaTex doesn't render on github mobile.
 - 🚨 Disclaimer: I haven't had a chance to double-check the math. I'm just sort of blowing through it. I'm more worried about covering law & SOPs. I'll come back to this afterwards.
 
