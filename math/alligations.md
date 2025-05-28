@@ -24,16 +24,18 @@ You **cannot** use alligation if:
 
 #### 🧩 Table Setup
 
-| $C_h$ | | ${P_h = C_d - C_l}$ |
+![table setup](./img/alligations/f_table.PNG)
+<!-- | $C_h$ | | ${P_h = C_d - C_l}$ |
 |-|-|-|
 | | $C_d$ | |
-| $C_l$  | | ${P_l = C_h - C_d}$ |
+| $C_l$  | | ${P_l = C_h - C_d}$ | -->
 
 > The numbers on the diagonals are always subtractive differences. Always subtract "across" the grid.
 
 Where:
 
-${\boxed{\text{Higher, Available Strength } (\% \times 100) = C_h}}$
+![table labels](./img/alligations/f_labels.PNG)
+<!-- ${\boxed{\text{Higher, Available Strength } (\% \times 100) = C_h}}$
 
 ${\boxed{\text{Lower, Available Strength } (\% \times 100) = C_l}}$
 
@@ -41,23 +43,25 @@ ${\boxed{\text{Desired Strength } (\% \times 100) = C_d}}$
 
 ${\boxed{\text{Higher Strength in Final Solution (Parts)} = P_h}}$
 
-${\boxed{\text{Lower Strength in Final Solution (Parts)} = P_l}}$
+${\boxed{\text{Lower Strength in Final Solution (Parts)} = P_l}}$ -->
 
 #### 🧩 Determining Ratios of Each
 
-${\boxed{\text{Sum of All (Parts)} = P_s} = P_h + P_l}$
+![ratios](./img/alligations/f_ratios.PNG)
+<!-- ${\boxed{\text{Sum of All (Parts)} = P_s} = P_h + P_l}$
 
 ${\boxed{\implies \text{Ratio of Higher Strength } (R_h)= \frac{P_h}{P_s}}}$
 
-${\boxed{\implies \text{Ratio of Lower Strength } (R_l)= \frac{P_l}{P_s}}}$
+${\boxed{\implies \text{Ratio of Lower Strength } (R_l)= \frac{P_l}{P_s}}}$ -->
 
 #### 🧩 Determining Volumes of Each
 
-${\boxed{\text{Total Volume (mL)} = V_t\ (\text{Given})}}$
+![volumes](./img/alligations/f_volumes.PNG)
+<!-- ${\boxed{\text{Total Volume (mL)} = V_t\ (\text{Given})}}$
 
 ${\boxed{\implies \text{Higher Strength Volume } (V_h) = R_h \times V_t = (\frac{P_h}{P_s}) \times V_t}}$
 
-${\boxed{\implies \text{Lower Strength Volume } (V_l) = R_l \times V_t = (\frac{P_l}{P_s}) \times V_t}}$
+${\boxed{\implies \text{Lower Strength Volume } (V_l) = R_l \times V_t = (\frac{P_l}{P_s}) \times V_t}}$ -->
 
 ---
 
@@ -72,3 +76,9 @@ ${\boxed{\implies \text{Lower Strength Volume } (V_l) = R_l \times V_t = (\frac{
 ---
 
 🔗 Back to [**Mathematics Concepts Directory**](./readme.md)
+
+<!-- 
+## Reference
+
+Pharmacy Calculations, 6e; Morton Publishing | Chapter 31
+-->
