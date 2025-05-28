@@ -67,9 +67,11 @@ ${\implies \text{200 mg} = C_f \times \text{10 mL}}$
 
 ${\boxed{\implies C_f = \text{200 mg} \div \text{10 mL} = 20\ \frac{mg}{mL}}}$
 
+✅ **Final Answer**: Diluting 2 mL of 100 mg/mL solution with 8 mL makes **10mL of 20 mg/mL solution**.
+
 ---
 
-### 2.) Calculate How Much Diluent to Add
+### 2.) Calculate How Much Stock & Diluent to Add
 
 - **Have**: Stock Solution @ 100 mg/mL (Unlimited)
 - **Need**: 50 mL @ 20 mg/mL
@@ -84,7 +86,7 @@ ${\implies {V_i = (20\ \frac{mg}{mL} \times \text{50 mL}) \div 100\ \frac{mg}{mL
 
 ${\implies {V_i = \text{1000 mg} \div 100\ \frac{mg}{mL}}}$
 
-${\implies V_i = \text{1000 mg} \times \frac{\text{100 mg}}{\text{1 mL}} = \text{10 mL}}$
+${\boxed{\implies V_i = \text{1000 mg} \times \frac{\text{100 mg}}{\text{1 mL}} = \text{10 mL}}}$
 
 ${\boxed{V_d = \frac{(C_i \times V_i) - (V_i \times C_f)}{C_f}}}$
 
@@ -104,7 +106,7 @@ ${\implies 100\ \frac{mg}{mL} \times V_i = \text{1000 mg}}$
 
 ${\implies V_i = \text{1000 mg} \div 100\ \frac{mg}{mL} }$
 
-${\implies V_i = \text{1000 mg} \times \frac{\text{100 mg}}{\text{1 mL}} = \text{10 mL}}$
+${\boxed{\implies V_i = \text{1000 mg} \times \frac{\text{100 mg}}{\text{1 mL}} = \text{10 mL}}}$
 
 ${\boxed{V_f = V_i + V_d}}$
 
@@ -112,24 +114,52 @@ ${\implies \text{50 mL} = \text{10 mL} + V_d}$
 
 ${\boxed{\implies V_d = \text{50 mL} - \text{10 mL} = \text{40 mL}}}$
 
+✅ **Final Answer**: Add **40 mL diluent** to **10 mL of 100 mg/mL solution**, in order to make 50 mL of 20 mg/mL solution.
+
 ---
 
-### 3.) How to Make 30 mL of 1:10 Solution From 1:5
+### 3.) Convert Stock Ratio Solution to a Weaker Ratio
 
-Convert to ratios:
+- **Have**: Stock solution at **1:5**
+- **Need**: Final solution at **1:10**
+- **Final total volume desired**: 30 mL
 
-- 1:5 = 1 part drug in 5 total parts = 20%
-- 1:10 = 1 part drug in 10 total parts = 10%
+🧪 **Convert ratios to percentages**:
 
-${C_i \times V_i = C_f \times V_f}$
+- **1:5** = 1 ÷ 5 = 0.20 **= 20%**
+- **1:10** = 1 ÷ 10 = 0.10 **= 10%**
 
-${\Rightarrow 20\% \times V_i = 10\% \times 30}$
+Option 1: **Plugging In**
 
-${\Rightarrow V_i = \frac{300}{20} = \boxed{15\ \text{mL}}}$
+${\boxed{V_i = \frac{C_f \times V_f}{C_i}}}$
 
-Then:
+${\implies V_i = \frac{0.10 \times 30\ mL}{0.20}}$
 
-${\text{Diluent} = 30 - 15 = \boxed{15\ \text{mL}}}$
+${\boxed{\implies V_i = \frac{3\ \text{mL}}{0.20} = 15\ mL}}$
+
+${\boxed{V_d = V_f - V_i}}$
+
+${\implies {V_d = 30\ mL - 15\ mL }}$
+
+${\boxed{\implies V_d = 15\ mL}}$
+
+Option 2: **Winging It**
+
+${\boxed{C_i \times V_i = C_f \times V_f}}$
+
+${\implies 0.20 \times V_i = 0.10 \times 30\ mL}$
+
+${\implies 0.20 \times V_i = 3\ mL}$
+
+${\boxed{\implies V_i = \frac{3\ mL}{0.20} = 15\ mL}}$
+
+${\boxed{V_d = V_f - V_i}}$
+
+${\implies {V_d = 30\ mL - 15\ mL }}$
+
+${\boxed{\implies V_d = 15\ mL}}$
+
+✅ **Final Answer**: Add **15 mL diluent** to **15 mL of 1:5 solution**, in order to make 30 mL of 1:10 solution.
 
 ---
 
