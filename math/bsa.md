@@ -1,5 +1,11 @@
 # 📏 Dosage Calculations Based on Body Surface Area (BSA)
 
+<!-- 
+## Reference
+
+Pharmacy Calculations, 6e; Morton Publishing | Chapter 28
+-->
+
 ## 🔑 What is BSA?
 
 **Body Surface Area (BSA)** is a measurement of the total surface of a patient’s body. It is used in drug dosing because it provides a more accurate estimation of metabolic mass than weight alone.
@@ -75,10 +81,6 @@ ${\Rightarrow \text{Total Dose} = 640 \times 5 = \boxed{3200\ \text{mg}}}$
 - 📍 Pediatric patients are especially sensitive to **BSA-based dosing**
 - 🛡️ Round final doses **per pharmacy protocol** or **physician instruction**
 
+---
+
 🔗 Back to [**Mathematics Concepts Directory**](./readme.md)
-
-<!-- 
-## Reference
-
-Pharmacy Calculations, 6e; Morton Publishing | Chapter 28
--->
