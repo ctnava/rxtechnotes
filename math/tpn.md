@@ -63,19 +63,49 @@ Calcium and phosphate can **precipitate** if not managed carefully. To minimize 
 - Maintain **appropriate temperature, pH, and total volume**
 - Ensure pharmacist approval before mixing
 
-## Examples
+## Example
 
-### Reference Table
+This example demonstrates how to calculate the **volumes of additives** needed to compound a **patient-specific TPN**. Use the reference concentrations provided.
 
-| **Item**              | **Available Concentrations** |
-|-----------------------|------------------------------|
-| Potassium Chloride    | 2 mEq/mL |
-| Sodium Chloride       | 14.6%; 2.5 mEq/mL |
-| Calcium Gluconate     | 10%; 4.65 mEq/10 mL |
-| Magnesium Sulfate     | 50%; 40.6 mEq/10 mL |
-| Sodium Acetate        | 2 mEq/mL |
-| Sodium Phosphate      | 45 mM/15 mL; 60 mEq/15 mL |
-| Potassium Acetate     | 19.6%; 2 mEq/mL |
-| Potassium Phosphate   | 15 mM/5 mL; 4.4 mEq/mL |
-| Humulin R             | 100 units/mL |
-| Vitamin C             | 250 mg/2 mL |
+### 📦 Reference Table
+
+| **Item**              | **Available Concentrations**               |
+|-----------------------|--------------------------------------------|
+| Potassium Chloride    | 2 mEq/mL                                   |
+| Sodium Chloride       | 14.6%; 2.5 mEq/mL                          |
+| Calcium Gluconate     | 10%; 4.65 mEq/10 mL                        |
+| Folic Acid            | 5 mg/mL                                    |
+| Magnesium Sulfate     | 50%; 40.6 mEq/10 mL                        |
+| Sodium Acetate        | 2 mEq/mL                                   |
+| Sodium Phosphate      | 45 mM/15 mL; 60 mEq/15 mL                  |
+| Potassium Acetate     | 19.6%; 2 mEq/mL                            |
+| Potassium Phosphate   | 15 mM/5 mL; 4.4 mEq/mL                     |
+| Humulin R             | 100 units/mL                               |
+| Vitamin C             | 250 mg/2 mL                                |
+
+### 🧱 Base Solution Components
+
+| **Component**           | **Ordered** | **To Add** |
+|-------------------------|-------------|------------|
+| Travasol 7.5% w/ lytes  | 500 mL      | 500 mL     |
+| Dextrose 70% (D70W)     | 300 mL      | 300 mL     |
+| Sterile Water for Inj   | 200 mL      | 200 mL     |
+| Infusion Rate           | 60 mL/hr*   | -          |
+
+### 💊 Additive Components
+
+| **Additive**            | **Ordered** | **To Add** |
+|-------------------------|-------------|------------|
+| Sodium Chloride         | 15 mEq      | 6 mL |
+| Potassium Chloride      | 10 mEq      | 5 mL |
+| Magnesium Sulfate       | 500 mg      | 1 mL |
+| Potassium Phosphates    | 12 mM       | 4 mL |
+| Calcium Gluconate       | 1.5 g       | 15 mL |
+| MVI-12                  | 10 mL/vial  | 10 mL |
+| Trace Elements          | 5 mL        | 5 mL |
+| Vitamin C               | 625 mg      | 5 mL |
+| Humulin R               | 80 units    | 0.8 mL |
+| Folic Acid              | 6.25 mg     | 1.25 mL |
+| Sodium Acetate          | 10 mEq      | 5 mL |
+| Potassium Acetate       | 25 mEq      | 12.5 mL |
+| Sodium Phosphates       | 8 mEq       | 2 mL |
