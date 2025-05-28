@@ -1,5 +1,11 @@
 # 🌡️ Temperature Scale, Density, & Specific Gravity Conversions
 
+<!-- 
+## Reference
+
+Pharmacy Calculations, 6e; Morton Publishing | Chapter 10
+-->
+
 | Conversion | Formula |
 |------------|---------|
 | Fahrenheit (°F) to Celsius (°C) | ${C = \frac{5}{9}(F - 32)}$ |
@@ -101,10 +107,6 @@ Understanding **density** and **specific gravity (SG)** is essential for pharmac
 - Round **only at the final step**
 - Clearly label your **units** in all work
 
+---
+
 🔗 Back to [**Mathematics Concepts Directory**](./readme.md)
-
-<!-- 
-## Reference
-
-Pharmacy Calculations, 6e; Morton Publishing | Chapter 10
--->
