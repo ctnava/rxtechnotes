@@ -74,8 +74,6 @@ ${\boxed{\implies \text{Higher Strength Mass } (M_h) = R_h \times M_t = (\frac{P
 
 ${\boxed{\implies \text{Lower Strength Mass } (M_l) = R_l \times M_t = (\frac{P_l}{P_t}) \times M_t}}$
 
----
-
 ## Examples
 
 ### 1.) Liquid Alligation
@@ -84,6 +82,7 @@ ${\boxed{\implies \text{Lower Strength Mass } (M_l) = R_l \times M_t = (\frac{P_
 
 Step 1: **Set Up Alligation Table**
 
+<!-- ![tables](./img/alligations/e1_table.PNG) -->
 $C_h = 25\%$
 
 $C_l = 10\%$
@@ -97,6 +96,7 @@ $C_d = 15\%$
 
 Step 2: **Calculate Ratios**
 
+<!-- ![tables](./img/alligations/e1_ratios.PNG) -->
 $P_t = P_h + P_l = 5 + 10 = 15$ parts
 
 $R_h = \frac{P_h}{P_t} = \frac{5}{15} = \frac{1}{3}$
@@ -105,6 +105,7 @@ $R_l = \frac{P_l}{P_t} = \frac{10}{15} = \frac{2}{3}$
 
 Step 3: **Determine Volumes**
 
+<!-- ![tables](./img/alligations/e1_volumes.PNG) -->
 $V_t \text{ (given)} = 60\ \text{mL}$
 
 $V_h = R_h \times V_t = \frac{1}{3} \times 60 = \boxed{20\ \text{mL}}$
@@ -113,12 +114,15 @@ $V_l = R_l \times V_t = \frac{2}{3} \times 60 = \boxed{40\ \text{mL}}$
 
 ✅ **Final Answer**: Mix 20 mL of 25% solution with 40 mL of 10% solution to make 60 mL of 15% solution
 
-### 1.) Solid Alligation
+---
+
+### 2.) Solid Alligation
 
 `Prepare 500 g of a 12% ointment using 8% and 20%`
 
 Step 1: **Set Up Alligation Table**
 
+<!-- ![tables](./img/alligations/e2_table.PNG) -->
 $C_h = 20\%$
 
 $C_l = 8\%$
@@ -132,6 +136,7 @@ $C_d = 12\%$
 
 Step 2: **Calculate Ratios**
 
+<!-- ![tables](./img/alligations/e2_ratios.PNG) -->
 $P_t = P_h + P_l = 4 + 8 = 12$ parts
 
 $R_h = \frac{P_h}{P_t} = \frac{4}{12} = \frac{1}{3}$
@@ -140,6 +145,7 @@ $R_l = \frac{P_l}{P_t} = \frac{8}{12} = \frac{2}{3}$
 
 Step 3: **Determine Masses**
 
+<!-- ![tables](./img/alligations/e2_masses.PNG) -->
 $M_h = R_h \times M_t = \frac{1}{3} \times 500 = \boxed{166.67\ \text{g}}$
 
 $M_l = R_l \times M_t = \frac{2}{3} \times 500 = \boxed{333.33\ \text{g}}$
