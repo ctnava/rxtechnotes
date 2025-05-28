@@ -132,10 +132,11 @@
 ## Week 15: Admin & Management
 
 - [ ] PTCB Prep: Administration & Management
+- [x] Math: Chapter 32 - Alligations
 
 ## Week 16: National Prep
 
-- [ ] Math: Chapter 32 - TPN
+- [x] Math: Chapter 32 - TPN
 - [ ] Reading: Chapter 6 - Calculation Review
 
 ## Week 17: Final
