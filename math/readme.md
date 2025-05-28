@@ -20,6 +20,7 @@ Look at this as more of a quick review resource. It's not comprehensive and does
 | 12 | [Dosage Calculations Based on Body Surface Area](./bsa.md) | ✅ Complete; Needs Images  |
 | 13 | [Infusion and Drip Rate Calculations](./flow_drip_rate.md) | ✅ Complete; Needs Images |
 | 14 | [Dilutions](./dilutions.md) | ✅ Complete  |
-| 15 | [Total Parenteral Nutrition](./tpn.md) | ❌ DNE  |
+| 15 | [Alligations](./tpn.md) | 🚧 WIP |
+| 16 | [Total Parenteral Nutrition](./tpn.md) | ❌ DNE  |
 
 TODO: Math doesn't render on GitHub Mobile, so the interim fix is to add pictures after properly laying out the math. (See [./dilutions](./dilutions.md) example)
