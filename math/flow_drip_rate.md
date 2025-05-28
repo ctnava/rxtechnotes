@@ -1,5 +1,18 @@
 # 💧 Infusion and Drip Rate Calculations
 
+<!-- 
+## Reference
+
+Pharmacy Calculations, 6e; Morton Publishing | Chapter 29
+-->
+
+An **IV set** is the tubing used to administer fluids and medications intravenously. It includes:
+
+- Drip chamber
+- Roller clamp
+- Spike and port
+- Labeled **drop factor** or **calibration** in gtt/mL
+
 ## 🕰️ Military Time
 
 📍 Military time is a **24-hour clock system** used in clinical settings to avoid AM/PM confusion.
@@ -28,7 +41,12 @@
 
 `given volume & time`
 
-Used for **infusion pumps** that measure delivery in mL/hour.
+### 🧪 Infusion Rate
+
+The **infusion rate** refers to the volume of IV fluid or medication to be delivered over a specific amount of time, typically measured in **mL/hr**.
+
+- Used when setting **infusion pumps**
+- Based on prescription (e.g., "Infuse 1000 mL over 8 hours")
 
 💧 **Example**
 
@@ -42,12 +60,16 @@ $\text{Rate} = \frac{\text{1000 mL}}{\text{8 hr}} = \text{125 mL/hr}$
 
 Used for **gravity IV sets**. Requires knowing the **drop factor** (calibration) of the IV tubing.
 
-### Common drop factors
+### 📏 Calibrated Drip Rate (Drop Factor)
+
+The **drop factor** is the number of drops (gtt) that make up 1 mL of fluid for a given IV set. It determines how fast the fluid drips into the patient when gravity is used.
 
 | Tubing Type | Drop Factor |
 |-------------|-------------|
 | Macrodrip   | 10, 15, or 20 gtt/mL |
 | Microdrip   | 60 gtt/mL            |
+
+> 🚨 You must use the correct drop factor listed on the IV tubing packaging.
 
 💧 **Example**
 
@@ -113,10 +135,6 @@ $\text{Time} = \frac{1000\ \text{mL}}{125\ \text{mL/hr}} = 8\ \text{hr}$
 | 3: Add 5 hours | 1400 + 5 hr = 1900 hrs |
 | 4: Answer | ${\boxed{\text{1900 hrs on Tuesday}}}$ (7:00 PM Tuesday) |
 
+---
+
 🔗 Back to [**Mathematics Concepts Directory**](./readme.md)
-
-<!-- 
-## Reference
-
-Pharmacy Calculations, 6e; Morton Publishing | Chapter 29
--->
