@@ -1,5 +1,11 @@
 # 💧 Dilution Calculations for Pharmacy Technicians
 
+<!-- 
+## Reference
+
+Pharmacy Calculations, 6e; Morton Publishing | Chapter 30
+-->
+
 Dilution involves **reducing the concentration** of a solution by adding a diluent (e.g. sterile water, normal saline). The **total amount of drug stays the same**, but it's dispersed in a **larger volume**.
 
 ## 🔢 Dilution Proportion Formula
@@ -183,10 +189,6 @@ ${\boxed{\implies V_d = 15\ mL}}$ -->
 - 📦 Document all compounding: **lot numbers, dates, and expiration**.
 - 🔗 Save all dilution steps for pharmacist verification.
 
+---
+
 🔗 Back to [**Mathematics Concepts Directory**](./readme.md)
-
-<!-- 
-## Reference
-
-Pharmacy Calculations, 6e; Morton Publishing | Chapter 30
--->
