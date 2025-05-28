@@ -15,7 +15,7 @@ Look at this as more of a quick review resource. It's not comprehensive and does
 | 7 | [Parenteral Doses Using Ratio & Proportion Calculations](./parenteral_ratios.md) | ✅📸 Complete|
 | 8 | [Powder Drug Volume & Reconstitution Calculations](./powder_volume.md) | ✅📸 Complete|
 | 9 | [Ratios & Percents in Pharmacy](./percents_ratios.md) | ✅📸 Complete|
-| 10 | [Dosage Calculations Based on Body Weight & Age](./body_weight_calculations.md) | ✅📸 Complete; Needs Images |
+| 10 | [Dosage Calculations Based on Body Weight & Age](./body_weight_calculations.md) | ✅📸 Complete |
 | 11 | [Temperature Scale, Density, & Specific Gravity Conversions](./temperature_scale_conversions.md) | ✅📸 Complete|
 | 12 | [Dosage Calculations Based on Body Surface Area](./bsa.md) | ✅📸 Complete |
 | 13 | [Infusion and Drip Rate Calculations](./flow_drip_rate.md) | ✅📸 Complete|
