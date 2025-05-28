@@ -47,32 +47,32 @@ ${\boxed{\text{Lower Strength in Final Solution (Parts)} = P_l}}$
 
 ### 🧩 Determining Ratios of Each
 
-<!-- ![ratios](./img/alligations/f_ratios.PNG) -->
-${\boxed{\text{Total Sum of All (Parts)} = P_t} = P_h + P_l}$
+![ratios](./img/alligations/f_ratios.PNG)
+<!-- ${\boxed{\text{Total Sum of All (Parts)} = P_t} = P_h + P_l}$
 
 ${\boxed{\implies \text{Ratio of Higher Strength } (R_h)= \frac{P_h}{P_t}}}$
 
-${\boxed{\implies \text{Ratio of Lower Strength } (R_l)= \frac{P_l}{P_t}}}$
+${\boxed{\implies \text{Ratio of Lower Strength } (R_l)= \frac{P_l}{P_t}}}$ -->
 
 ### 🧩 Determining Amounts of Each
 
 For **Liquids Use Volume**:
 
-<!-- ![volumes](./img/alligations/f_volumes.PNG) -->
-${\boxed{\text{Total Sum Volume (mL)} = V_t\ (\text{Given})}}$
+![volumes](./img/alligations/f_volumes.PNG)
+<!-- ${\boxed{\text{Total Sum Volume (mL)} = V_t\ (\text{Given})}}$
 
 ${\boxed{\implies \text{Higher Strength Volume } (V_h) = R_h \times V_t = (\frac{P_h}{P_t}) \times V_t}}$
 
-${\boxed{\implies \text{Lower Strength Volume } (V_l) = R_l \times V_t = (\frac{P_l}{P_t}) \times V_t}}$
+${\boxed{\implies \text{Lower Strength Volume } (V_l) = R_l \times V_t = (\frac{P_l}{P_t}) \times V_t}}$ -->
 
 For **Solids Use Mass**:
 
-<!-- ![volumes](./img/alligations/f_masses.PNG) -->
-${\boxed{\text{Total Sum Mass (g)} = M_t\ (\text{Given})}}$
+![volumes](./img/alligations/f_masses.PNG)
+<!-- ${\boxed{\text{Total Sum Mass (g)} = M_t\ (\text{Given})}}$
 
 ${\boxed{\implies \text{Higher Strength Mass } (M_h) = R_h \times M_t = (\frac{P_h}{P_t}) \times M_t}}$
 
-${\boxed{\implies \text{Lower Strength Mass } (M_l) = R_l \times M_t = (\frac{P_l}{P_t}) \times M_t}}$
+${\boxed{\implies \text{Lower Strength Mass } (M_l) = R_l \times M_t = (\frac{P_l}{P_t}) \times M_t}}$ -->
 
 ## Examples
 
@@ -167,19 +167,19 @@ $C_l = 0\%$ (sterile water = no drug)
 
 $C_d = 2.5\%$
 
-| $C_h = 20\%$ |                 | $P_h = 12 - 8 = 4$ parts  |
-|--------------|-----------------|---------------------------|
-|              | $C_d = 12\%$    |                           |
-| $C_l = 8\%$  |                 | $P_l = 20 - 12 = 8$ parts | -->
+| $C_h = 10\%$ |                 | $P_h = 2.5 - 0 = 2.5$ parts  |
+|--------------|-----------------|------------------------------|
+|              | $C_d = 2.5\%$   |                              |
+| $C_l = 0\%$  |                 | $P_l = 10 - 2.5 = 7.5$ parts | -->
 
 Step 2: **Calculate Ratios**
 
 ![ratios](./img/alligations/e3_ratios.PNG)
-<!-- $P_s = P_h + P_l = 4 + 8 = 12$ parts
+<!-- $P_s = P_h + P_l = 2.5 + 7.5 = 10$ parts
 
-$\implies R_h = \frac{P_h}{P_s} = \frac{4}{12} = \frac{1}{3}$
+$\implies R_h = \frac{P_h}{P_s} = \frac{2.5}{10} = 0.25$
 
-$\implies R_l = \frac{P_l}{P_s} = \frac{8}{12} = \frac{2}{3}$ -->
+$\implies R_l = \frac{P_l}{P_s} = \frac{7.5}{10} = 0.75$ -->
 
 Step 3: **Determine Volumes**
 
