@@ -52,15 +52,18 @@ ${\boxed{\implies \text{Initial, Stock Volume Used for Dilution } (V_i)} =  \fra
 
 Option 1: **Plugging In**
 
-${\boxed{C_f = (C_i \times V_i) \div (V_i + V_d)}}$
+![img](./img/dilutions/e1_o1.PNG)
+<!-- ${\boxed{C_f = (C_i \times V_i) \div (V_i + V_d)}}$
 
 ${\implies C_f = ({100\ \frac{mg}{mL} \times \text{2 mL}}) \div (\text{2 mL + 8 mL})}$
 
-${\boxed{\implies C_f = \text{200 mg} \div \text{10 mL} = 20\ \frac{mg}{mL}}}$
+${\boxed{\implies C_f = \text{200 mg} \div \text{10 mL} = 20\ \frac{mg}{mL}}}$ -->
 
 Option 2: **Winging It**
 
-${\boxed{C_i \times V_i = C_f \times V_f}}$
+![img](./img/dilutions/e1_o2.PNG)
+
+<!-- ${\boxed{C_i \times V_i = C_f \times V_f}}$
 
 ${\boxed{V_f = V_i + V_d}}$
 
@@ -70,7 +73,7 @@ ${\implies 100\ \frac{mg}{mL} \times \text{2 mL} = C_f \times (\text{2 mL + 8 mL
 
 ${\implies \text{200 mg} = C_f \times \text{10 mL}}$
 
-${\boxed{\implies C_f = \text{200 mg} \div \text{10 mL} = 20\ \frac{mg}{mL}}}$
+${\boxed{\implies C_f = \text{200 mg} \div \text{10 mL} = 20\ \frac{mg}{mL}}}$ -->
 
 ✅ **Final Answer**: Diluting 2 mL of 100 mg/mL solution with 8 mL makes **10mL of 20 mg/mL solution**.
 
@@ -83,9 +86,9 @@ ${\boxed{\implies C_f = \text{200 mg} \div \text{10 mL} = 20\ \frac{mg}{mL}}}$
 
 Option 1: **Plugging In**
 
-${\boxed{V_i = (C_f \times V_f) \div C_i}}$
+![img](./img/dilutions/e2_o1.PNG)
 
-${\implies {V_i = (C_f \times V_f) \div C_i}}$
+<!-- ${\boxed{V_i = (C_f \times V_f) \div C_i}}$
 
 ${\implies {V_i = (20\ \frac{mg}{mL} \times \text{50 mL}) \div 100\ \frac{mg}{mL}}}$
 
@@ -99,11 +102,13 @@ ${\implies {V_d = \frac{(100\ \frac{mg}{mL} \times \text{10 mL}) - (\text{10 mL}
 
 ${\implies {V_d = \frac{\text{1000 mg} - \text{200 mg}}{20\ \frac{mg}{mL}} = \frac{\text{800 mg}}{20\ \frac{mg}{mL}}}}$
 
-${\boxed{\implies {V_d = {\text{800 mg}}\div{20\ \frac{mg}{mL}} = {\text{40 mL}}}}}$
+${\boxed{\implies {V_d = {\text{800 mg}}\div{20\ \frac{mg}{mL}} = {\text{40 mL}}}}}$ -->
 
 Option 2: **Winging It**
 
-${\boxed{C_i \times V_i = C_f \times V_f}}$
+![img](./img/dilutions/e2_o2.PNG)
+
+<!-- ${\boxed{C_i \times V_i = C_f \times V_f}}$
 
 ${\implies 100\ \frac{mg}{mL} \times V_i = 20\ \frac{mg}{mL} \times \text{50 mL}}$
 
@@ -117,7 +122,7 @@ ${\boxed{V_f = V_i + V_d}}$
 
 ${\implies \text{50 mL} = \text{10 mL} + V_d}$
 
-${\boxed{\implies V_d = \text{50 mL} - \text{10 mL} = \text{40 mL}}}$
+${\boxed{\implies V_d = \text{50 mL} - \text{10 mL} = \text{40 mL}}}$ -->
 
 ✅ **Final Answer**: Add **40 mL diluent** to **10 mL of 100 mg/mL solution**, in order to make 50 mL of 20 mg/mL solution.
 
@@ -136,7 +141,9 @@ ${\boxed{\implies V_d = \text{50 mL} - \text{10 mL} = \text{40 mL}}}$
 
 Option 1: **Plugging In**
 
-${\boxed{V_i = \frac{C_f \times V_f}{C_i}}}$
+![img](./img/dilutions/e3_o1.PNG)
+
+<!-- ${\boxed{V_i = \frac{C_f \times V_f}{C_i}}}$
 
 ${\implies V_i = \frac{0.10 \times 30\ mL}{0.20}}$
 
@@ -146,11 +153,13 @@ ${\boxed{V_d = V_f - V_i}}$
 
 ${\implies {V_d = 30\ mL - 15\ mL }}$
 
-${\boxed{\implies V_d = 15\ mL}}$
+${\boxed{\implies V_d = 15\ mL}}$ -->
 
 Option 2: **Winging It**
 
-${\boxed{C_i \times V_i = C_f \times V_f}}$
+![img](./img/dilutions/e3_o2.PNG)
+
+<!-- ${\boxed{C_i \times V_i = C_f \times V_f}}$
 
 ${\implies 0.20 \times V_i = 0.10 \times 30\ mL}$
 
@@ -162,7 +171,7 @@ ${\boxed{V_d = V_f - V_i}}$
 
 ${\implies {V_d = 30\ mL - 15\ mL }}$
 
-${\boxed{\implies V_d = 15\ mL}}$
+${\boxed{\implies V_d = 15\ mL}}$ -->
 
 ✅ **Final Answer**: Add **15 mL diluent** to **15 mL of 1:5 solution**, in order to make 30 mL of 1:10 solution.
 
