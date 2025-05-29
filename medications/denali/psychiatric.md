@@ -5,8 +5,8 @@
 | Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
 |------------|--------------|-----------------|-------|------------|------------------|
 | Ambien | Zolpidem | **Sleep aid (C-IV)** | Sedative/Hypnotic | Insomnia | “Ambien helps ambient sleep”; zolpidem sounds like “zombie” → sleepy |
-| Restoril | Temazepam | **Sleep aid (C-IV)** | Benzodiazepine | Insomnia | “Restore with Restoril”; -pam = benzo |
 | Catapres | Clonidine | **Sleep aid/ Antihypertensive** | Alpha-2 agonist | Hypertension, Insomnia (off-label) | “Catapres calms pressure”; clone of sedation effect |
+| Restoril | Temazepam | **Sleep aid (C-IV)** | Benzodiazepine | Insomnia | “Restore with Restoril”; -pam = benzo |
 
 ## ⚡ ADHD Medications
 
