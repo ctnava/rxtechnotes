@@ -1,10 +1,16 @@
 # 📘 Calculating Days' Supply & Billing Quantity
 
+<!-- 
+## Reference
+
+Pharmacy Calculations, 6e; Morton Publishing | Chapter 12 & 13
+-->
+
 🔗 [Quick Reference Table](../ref/days_supply_table.md)
 
 ## 🔑 Key Concepts
 
-The Days Supply refers to how long a prescription will last based on the quantity dispensed and the prescribed dosing instructions. It is a technical quantity based entirely on math; not a guess, and not just the number of pills dispensed.
+The **Days Supply** refers to how long a prescription will last based on the quantity dispensed and the prescribed dosing instructions. It is a technical quantity based entirely on math; not a guess, and not just the number of pills dispensed.
 
 ### Billing Quantity
 
@@ -430,12 +436,6 @@ Insulin is dosed in **Units**, but dispensed and billed by **volume (mL)**. Most
 
 This prevents billing beyond usable shelf-life and supports safe patient use.
 
-🔗 See [Days Supply Calculations for Insulin](./insulin_days_supply.md)
-
 ---
 
-<!-- 
-## Reference
-
-Pharmacy Calculations, 6e; Morton Publishing | Chapter 12 & 13
--->
+🔗 See [Days Supply Calculations for Insulin](./insulin_days_supply.md)
