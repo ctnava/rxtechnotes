@@ -59,6 +59,8 @@ Before processing, the pharmacy technician must review prescriptions for complet
 
 ### 🏥 Inpatient Medication Orders
 
+![sample medication order](../ref/img/sample_medication_order.PNG)
+
 In hospital settings, medication orders require additional fields:
 
 - **Patient Hospital ID** & Room/Bed number
