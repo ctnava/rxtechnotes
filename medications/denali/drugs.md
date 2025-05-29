@@ -1,58 +1,5 @@
 # Denali Top 200
 
-## Psychiatric
-
-### Sleep Aids
-
-ambien, zolpidem, sleep aid (C-IV)
-restoril, temazepam, sleep aid (c-iv)
-catapres, clonidine, antihypertensive/ sleep aid
-
-### ADHD
-
-strattera, atomoxetine, adhd
-focalin, dexmethylphenidate, adhd (C-II)
-concerta, methylphenidate, adhd (c-ii)
-adderall, amphetamine + dextroamphetamine, adhd (c-ii)
-vyvanse, lisdexamfetamine, adhd (c-ii)
-
-### Antidepressants
-
-desyrel, trazodone, antidepressant
-elavil, amitriptyline, antidepressant
-remeron, mirtazapine, antidepressant
-wellbutrin, buproprion, antidepressant
-pamelor, nortryptyline, antidepressant
-
-### Antipsychotics
-
-seroquel, quetiapine, antipsychotic
-abilify, aripiprazole, antipsychotic
-risperdal, risperidone, antipsychotic
-zyprexa, olanzapine, antipsychotic
-
-#### SNRIs
-
-cymbalta, duloxetine, antidepressant
-effexor, venlafaxine, antidepressant
-pristiq, desvenlafaxine, antidepressant
-
-#### SSRIs
-
-zoloft, sertraline, antidepressant (SSRI)
-celexa, citalopram, antidepressant (ssri)
-lexapro, escitalopram, antidepressant (ssri)
-prozac, fluoxetine, antidepressant (ssri)
-paxil, paroxetine, antidepressant (ssri)
-
-### Anxiety Agents
-
-xanax, alprazolam, antianxiety (C-IV)
-ativan, lorazepam, antianxiety (c-iv)
-klonopin, clonazepam, antianxiety (c-iv)
-valium, diazepam, antianxiety (c-iv)
-buspar, buspirone, antianxiety
-
 ## Hormones, Controllers, & Related Conditions
 
 ### Reproductive
