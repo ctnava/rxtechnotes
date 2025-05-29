@@ -24,6 +24,7 @@ The **solute** is the active ingredient or substance being dissolved. It is typi
 
 **Question**: What is the % strength of a solution made by dissolving 12 g of NaCl in enough water to make 400 mL of solution?
 
+<!-- ![percents example 1](./img/percents_ratios/per_ex1.PNG) -->
 | Step | Math |
 |------|------|
 | 1: Use formula | % ${\text{w/v} = \frac{\text{g of solute}}{\text{mL of solution}} \times 100}$ |
@@ -34,6 +35,7 @@ The **solute** is the active ingredient or substance being dissolved. It is typi
 
 **Question**: How much solution can be prepared from 10 g of salicylic acid to make a 2% solution?
 
+<!-- ![percents example 2](./img/percents_ratios/per_ex2.PNG) -->
 | Step | Math |
 |------|------|
 | 1: Use the formula | % ${\text{w/v} = \frac{\text{g of solute}}{100\ \text{mL}}}$ |
@@ -46,6 +48,7 @@ The **solute** is the active ingredient or substance being dissolved. It is typi
 
 **Question**: How many grams of boric acid are in 180 mL of a 4% solution?
 
+<!-- ![percents example 3](./img/percents_ratios/per_ex3.PNG) -->
 | Step | Math |
 |------|------|
 | 1: Use the formula | % ${\text{w/v} = \frac{\text{g of solute}}{100\ \text{mL}}}$ |
@@ -58,6 +61,7 @@ The **solute** is the active ingredient or substance being dissolved. It is typi
 
 Question: How much of a 25% stock solution is required to prepare 200 mL of a 5% solution?
 
+<!-- ![percents example 4](./img/percents_ratios/per_ex4.PNG) -->
 | Step | Math |
 |------|------|
 | 1: Interpret 5% target | 5% ${= \frac{\text{5 grams}}{\text{100 mL}}}$ |
@@ -74,6 +78,7 @@ The **first term of the ratio** always represents the quantity of solute. The **
 
 Ratios can be converted to percent strength by dividing the solute by the solution volume and multiplying by 100. For example:
 
+<!-- ![ratio formula](./img/percents_ratios/rat_formula.PNG) -->
 ${1:1000 = \frac{1\, \text{g}}{1000\, \text{mL}} = 0.1\%}$
 
 This system is frequently used for medications that require very small amounts of drug, such as epinephrine or ophthalmic solutions. Ratio strengths are also useful in preparing dilutions and performing inverse calculations when reducing or concentrating a formulation.
@@ -84,10 +89,12 @@ Understanding how to move between percent strength and ratio strength, and knowi
 
 - **Ratio Strength (1:x)**  
 
+<!-- ![ratio strength rule](./img/percents_ratios/rat_strength_rule.PNG) -->
 $\text{Ratio Strength } (1:x) = \frac{1\ \text{g}}{x\ \text{mL}}$
 
 - **Convert ratio to percent (w/v):**  
 
+<!-- ![ratio to percent table](./img/percents_ratios/rat_per_table.PNG) -->
 % $\text{w/v} = \left(\frac{\text{g}}{\text{mL}}\right) \times 100$
 
 | Ratio Strength | Equivalent Percent (w/v) |
@@ -103,6 +110,7 @@ $\text{Ratio Strength } (1:x) = \frac{1\ \text{g}}{x\ \text{mL}}$
 
 **Question**: Convert a 1:250 ratio strength to percent strength.
 
+<!-- ![ratio example 1](./img/percents_ratios/rat_ex1.PNG) -->
 | Step | Math |
 |------|------|
 | 1: Interpret the ratio | ${1:250 = \frac{1\ \text{g}}{250\ \text{mL}}}$ |
@@ -113,6 +121,7 @@ $\text{Ratio Strength } (1:x) = \frac{1\ \text{g}}{x\ \text{mL}}$
 
 **Question**: Convert 0.9% strength to a ratio strength.
 
+<!-- ![ratio example 2](./img/percents_ratios/rat_ex2.PNG) -->
 | Step | Math |
 |------|------|
 | 1: Use percent definition | 0.9% ${= \frac{0.9\ \text{g}}{100\ \text{mL}}}$ |
@@ -124,6 +133,7 @@ $\text{Ratio Strength } (1:x) = \frac{1\ \text{g}}{x\ \text{mL}}$
 
 **Question**: How many grams of epinephrine are in 120 mL of a 1:1000 solution?
 
+<!-- ![ratio example 3](./img/percents_ratios/rat_ex3.PNG) -->
 | Step | Math |
 |------|------|
 | 1: Use ratio definition | ${1:1000 = \frac{1\ \text{g}}{1000\ \text{mL}}}$ |
@@ -135,6 +145,7 @@ $\text{Ratio Strength } (1:x) = \frac{1\ \text{g}}{x\ \text{mL}}$
 
 **Question**: How many mL of a 1:500 solution are needed to obtain 0.5 g of the drug?
 
+<!-- ![ratio example 4](./img/percents_ratios/rat_ex4.PNG) -->
 | Step | Math |
 |------|------|
 | 1: Use ratio definition | ${1:500 = \frac{1\ \text{g}}{500\ \text{mL}}}$ |
@@ -146,6 +157,7 @@ $\text{Ratio Strength } (1:x) = \frac{1\ \text{g}}{x\ \text{mL}}$
 
 **Question**: Reduce 150:600 to lowest terms.
 
+<!-- ![ratio example 5](./img/percents_ratios/rat_ex5.PNG) -->
 | Step | Math |
 |------|------|
 | 1: Write as a fraction | ${\frac{150}{600}}$ |
@@ -162,6 +174,7 @@ Medication Order:
 - **Required dose**: 100 mcg
 - **Final volume**: to be diluted in 50 mL NS
 
+<!-- ![advanced example](./img/percents_ratios/adv_ex.PNG) -->
 | Step | Math |
 |------|------|
 | 1: Convert ratio strength to mg/mL | ${\frac{1\ \text{g}}{1000\ \text{mL}} = \frac{1000\ \text{mg}}{1000\ \text{mL}} = 1\ \text{mg/mL}}$ |
