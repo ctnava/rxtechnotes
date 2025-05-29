@@ -6,6 +6,8 @@
 Pharmacy Calculations, 6e; Morton Publishing | Chapter 13
 -->
 
+🔗 [Quick Reference Table](../ref/days_supply_table.md)
+
 ## 🔑 Key Facts
 
 **Billable Quantity**: Volume (mL)  

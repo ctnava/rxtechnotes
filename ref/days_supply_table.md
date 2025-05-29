@@ -18,7 +18,8 @@
 
 ---
 
-🔗 Back to [Calculating Days' Supply](../math/days_supply.md)
+- 🔙🔗 [Calculating Days' Supply](../math/days_supply.md)
+- 🔙🔗 [Calculating Insulin Days' Supply](../math/insulin_days_supply.md)
 
 <!-- 
 ## Reference
