@@ -225,40 +225,6 @@ medrol, methylprednisone, anti-inflammatory steroid
 tessalon perles, benzonatate, cough suppressant
 robitussin, guaifenesin, anti-mucus (expectorant)
 
-## Anti Infectives
-
-### Antibiotics
-
-amoxil, amoxicillin, antibiotic
-augmentin, amoxicillin + clavulanate, antibiotic
-zithromax, azithromycin, antibiotic
-cipro, ciprofloxacin, antibiotic
-keflex, cephalexin, antibiotic
-vibramycin, doxycycline, antibiotic
-levaquin, levofloxacin, antibiotic
-omnicef, cefdinir, antibiotic
-furadantin, nitrofurantoin, antibiotic
-biaxin, clarithromycin, antibiotic
-avelox, moxifloxacin, antibiotic
-septra, sulfamethoxazole + trimethoprim, antibiotic combo
-bactroban, mupirocin, topical antibacterial
-
-### Antifungals
-
-diflucan, fluconazole, antifungal
-nizoral, ketoconazole, antifungal
-
-### Antimicrobials
-
-cleocin, clindamycin, antimicrobial
-flagyl, metronidazole, antimicrobial
-
-### Antivirals
-
-valtrex, valacyclovir, antiviral
-zovirax, acyclovir, antiviral
-tamiflu, oseltamivir, antiviral (flu)
-
 ## Urinary Tract
 
 ### Prostate Size Reducers
