@@ -444,6 +444,8 @@ Home health care involves the delivery of clinical services in a patient’s hom
 
 🧪 **Home Infusion Therapy** is the **fastest growing segment** of home health care is **home infusion therapy**, due to advances in **infusion pump technology** that have made treatment more accurate, portable (via ambulatory pumps), & user-friendly for both patients and caregivers.
 
+> 📌 Patient education is important in home infusion because it allows the patient to have a hand in their own well-being.
+
 🏠 **Home Health and Infusion Services Providers**
 
 - 🏥 **Hospitals**: Extend post-discharge care for continuity of therapy  
@@ -462,9 +464,9 @@ Home health care involves the delivery of clinical services in a patient’s hom
 ☣️ **Hazardous Drugs & Waste**:  
 Chemotherapy and certain antiviral or investigational therapies require safe handling procedures in compliance with **USP <800>**, **DOT**, and **OSHA** regulations. This includes:
 
-- Safe transport to the home  
-- Secure storage by the patient or caregiver  
-- Proper disposal of hazardous waste  
+- Safe **transport** to the home  
+- Secure **storage** by the patient or caregiver  
+- Proper **disposal** of hazardous waste  
   - 🚨 **All personnel, patients, and caregivers must be trained in hazardous material handling.**
 
 🔐 **Sterile Compounding Requirements**:
@@ -693,13 +695,13 @@ Pharmacists in LTC take on two distinct roles:
 Pharmacy technicians in LTC pharmacy settings often take on responsibilities similar to those in institutional settings, with additional LTC-specific tasks:
 
 - 🧴 Filling and restocking **medication carts**
-  - often weekly supplies due to the fact that therapies don't change often
+  - often **weekly** supplies due to the fact that therapies don't change often
 - 🚑 Filling and restocking **emergency code carts**
   - Used for urgent or life-threatening events
   - Must be securely stored, routinely inspected, and **re-sealed after use**
   - Technicians are responsible for:
     - Refilling used or expired medications
-    - Charging medications used to the correct resident
+    - **Charging medications used to the correct resident**
     - Maintaining inventory logs, especially for **controlled substances**
     - Pharmacist performs **final verification** before resealing
 - 💊 Packaging prescriptions in **unit-dose** or **multi-dose** systems
@@ -742,7 +744,7 @@ Hybrid settings include inpatient & outpatient services.
 🧠 **Function & Location**
 
 - Most nuclear pharmacies are **strategically located near hospitals and diagnostic imaging centers**
-- Operate **24/7**, 365 days a year
+- Operate **24/7, 365 days a year**
 - Radiopharmaceuticals are usually prepared in the **evening and early morning hours**
   - Delivered before **6:00 AM** for same-day clinical use
 - **STAT orders** are accepted and delivered **immediately** when needed
@@ -756,7 +758,7 @@ Hybrid settings include inpatient & outpatient services.
   - **USP <795>**: Non-sterile compounding (not commonly applicable here)
   - **USP <797>**: **Sterile compounding**, required for injectable radiopharmaceuticals
   - **USP <800>**: Handling of **hazardous drugs**, which includes many radiopharmaceuticals
-    - ☣️ Radiopharmaceuticals are also considered hazardous materials.
+    - ☣️ Radiopharmaceuticals are also considered **hazardous** materials.
 
 🧑‍⚕️ **Roles in Nuclear Pharmacy**
 
