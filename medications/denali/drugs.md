@@ -68,16 +68,8 @@ hytrin, terazosin, antihypertensive
 tenex, guanfacine, antihypertensive
 zebeta, bisoprolol, antihypertensive
 apresoline, hydralazine, antihypertensive
-dyazide, triamterene + hctz, antihypertensive (2 diuretics)
 benicar, olmesartan, antihypertensive (ARB)
-zestoretic, lisinopril + hctz, antihypertensive diuretic combo
-hyzaar, losartan + HCTZ, antihypertensive diuretic combo
-avalide, irbesartan + hctz, antihypertensive diuretic combo
 catapres, clonidine, antihypertensive/ sleep aid
-lasix, furosemide, diuretic/ antihypertensive
-microzide, hydrochlorothiazide (hctz), diuretic/ antihypertensive
-dyrenium, triamterene, diuretic/ antihypertensive
-aldactone, spironolactone, diuretic/ antihypertensive
 
 ## Pain Management
 

@@ -2,7 +2,23 @@
 
 ## 🔴 Antihypertensives
 
-<!-- todo -->
+### 💧 Diuretics
+
+| Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
+|------------|--------------|------------------|-------|------------|------------------|
+| Aldactone | Spironolactone | Spares K+ | K-sparing **diuretic** | **Hypertension** / Aldosterone antagonist | Alda = aldosterone block |
+| Dyrenium | Triamterene | Potassium-sparing | **Diuretic** | **Hypertension** | Dyrenium = diet + renal function |
+| Lasix | Furosemide | "Lasts six hours" | Loop **diuretic** | Edema / **Hypertension** | Lasix = lasts six |
+| Microzide | Hydrochlorothiazide (HCTZ) | "Micro" pee | Thiazide **diuretic** | **Hypertension** | Micro = pee small volumes often |
+| Dyazide | Triamterene + HCTZ | **Dual diuretic** | Potassium-sparing + Thiazide | **Hypertension** | Dyazide = "dual" |
+
+## #🟣 Antihypertensive Combos
+
+| Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
+|------------|--------------|------------------|-------|------------|------------------|
+| Avalide | Irbesartan + HCTZ | ARB + **Diuretic** | **Combo** | **Hypertension** | Ava = ARB, "-lide" = glide pressure down |
+| Hyzaar | Losartan + HCTZ | ARB + **Diuretic** | **Combo** | **Hypertension** | "Hyz" = high zapping pressure |
+| Zestoretic | Lisinopril + HCTZ | ACE + **Diuretic** | **Combo** | **Hypertension** | Zest = zippy pressure relief |
 
 ## ⚡ Arrhythmia
 
