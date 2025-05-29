@@ -62,7 +62,7 @@ Many injectable or biologically sensitive medications are unstable in liquid for
 
 🔢 Formula:
 
-$\text{Powder Volume} = \text{Final Volume} - \text{Diluent Volume}$
+${\boxed{\text{Powder Volume} = \text{Final Volume} - \text{Diluent Volume}}}$
 
 💧 **Example: Calculate Powder Volume**
 
@@ -76,7 +76,7 @@ Concentration is typically expressed as **amount per 1 mL**.
 
 🔢 Formula:
 
-$\text{Concentration} = \frac{\text{Amount of Drug}}{\text{Final Volume}}$
+${\boxed{\text{Concentration} = \frac{\text{Amount of Drug}}{\text{Final Volume}}}}$
 
 💧 **Example: Calculate concentration**
 
@@ -88,9 +88,7 @@ $\text{Concentration} = \frac{1000\ \text{mg}}{4\ \text{mL}} = \boxed{250\ \text
 
 When a drug is reconstituted, calculate the **volume** needed to give the **desired dose** using the concentration.
 
-🔢 Formula:
-
-$\text{Volume to Give} = \frac{\text{Desired Dose}}{\text{Concentration}}$
+${\boxed{\text{Volume to Give} = \frac{\text{Desired Dose}}{\text{Concentration}}}}$
 
 💧 **Example: Dose Volume Calculation**
 
