@@ -28,7 +28,25 @@
 | Elavil     | Amitriptyline | **TCA** | Tricyclic **antidepressant** | Depression, nerve pain | “Elevate mood with Elavil”; “trip” in amitriptyline hints tricyclic |
 | Pamelor    | Nortriptyline | **TCA** | Tricyclic antidepressant** | Depression | “Pam is trippin’ again”; nortriptyline = TCA like amitriptyline |
 
-## 🧩 Antipsychotics
+### 🔄 SNRIs
+
+| Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
+|------------|--------------|-----------------|-------|------------|------------------|
+| Cymbalta   | Duloxetine   | Chronic pain + depression | **SNRI** | **Depression**, anxiety, neuropathy, fibromyalgia | “Cymbals crash = pain relief”; duloxetine = dual action |
+| Effexor    | Venlafaxine  | Dose-dependent NE effect | **SNRI** | **Depression**, anxiety | “Effective effort = Effexor”; venlafaxine = vein + affect |
+| Pristiq    | Desvenlafaxine | Active metabolite of Effexor | **SNRI** | **Depression** | “Pristine version of Effexor”; des-venlafaxine = refined |
+
+### 🌊 SSRIs
+
+| Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
+|------------|--------------|-----------------|-------|------------|------------------|
+| Zoloft     | Sertraline   | GI upset | **SSRI** | **Depression**, anxiety, PTSD | “Zoloft = zero loft”; sertraline = serene |
+| Celexa     | Citalopram   | QT prolongation risk | **SSRI** | **Depression** | “Celexa = select serotonin”; -pram = SSRI |
+| Lexapro    | Escitalopram | Cleaner isomer of citalopram | **SSRI** | **Depression**, anxiety | “Lex = left/right (isomer)”; escitalopram = ‘S’-citalopram |
+| Prozac     | Fluoxetine   | Activating | **SSRI** | **Depression**, OCD | “Pro-energy”; fluoxetine = fluent mood |
+| Paxil      | Paroxetine   | Sedating, anticholinergic | **SSRI** | **Depression**, anxiety | “Pack it in = sedate”; paroxetine = para-chill |
+
+### 🧩 Antipsychotics
 
 | Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
 |------------|--------------|-----------------|-------|------------|------------------|
@@ -37,21 +55,15 @@
 | Risperdal  | Risperidone  | High EPS risk | Atypical **antipsychotic** | Schizophrenia, bipolar | “Risperdal = rise in EPS”; risperidone = riskier |
 | Zyprexa    | Olanzapine   | Appetite gain, sedation | Atypical **antipsychotic** | Schizophrenia, bipolar | “Zzz-prexa = sleepy + prexa for weight” |
 
-### SNRIs
+## 😰 Anxiety Agents
 
-cymbalta, duloxetine, antidepressant
-effexor, venlafaxine, antidepressant
-pristiq, desvenlafaxine, antidepressant
-
-### SSRIs
-
-zoloft, sertraline, antidepressant (SSRI)
-celexa, citalopram, antidepressant (ssri)
-lexapro, escitalopram, antidepressant (ssri)
-prozac, fluoxetine, antidepressant (ssri)
-paxil, paroxetine, antidepressant (ssri)
-
-## Anxiety Agents
+| Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
+|------------|--------------|-----------------|-------|------------|------------------|
+| Xanax      | Alprazolam   | Fast-acting **(C-IV)** | Benzodiazepine | **Anxiety**, panic | “Xanax = eXit anxiety”; -zolam = benzo |
+| Ativan     | Lorazepam    | Intermediate-acting **(C-IV)** | Benzodiazepine | Anxiety, seizures | “Ativan = anti-vanic attack”; lore = calming |
+| Klonopin   | Clonazepam   | Long-acting **(C-IV)** | Benzodiazepine | **Anxiety**, seizures | “Clone peace = Klonopin”; -zepam = benzo |
+| Valium     | Diazepam     | Long-acting **(C-IV**) | Benzodiazepine | **Anxiety**, muscle relaxant | “Value of calm”; diazepam = dial it down |
+| Buspar     | Buspirone    | Non-sedating | 5-HT1A partial agonist | **Anxiety** (GAD) | “Buspar = bus to peace”; buspirone ≠ benzo |
 
 xanax, alprazolam, antianxiety (C-IV)
 ativan, lorazepam, antianxiety (c-iv)
