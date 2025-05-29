@@ -31,11 +31,12 @@ An **IV set** is the tubing used to administer fluids and medications intravenou
 
 ## 🔑 Key Formula Summaries
 
-| Task | Formula |
+![key formulas](./img/flow_drip/key_formulas.PNG)
+<!-- | Task | Formula |
 |------|---------|
 | mL/hr (infusion pump) | ${\text{Rate} = \frac{\text{Total Volume (mL)}}{\text{Time (hr)}} }$ |
 | gtt/min (manual IV set) | ${\text{Flow Rate} = \frac{\text{Volume (mL)} \times \text{Drop Factor (gtt/mL)}}{\text{Time (min)}} }$ |
-| Time (hr) | ${\text{Time} = \frac{\text{Total Volume (mL)}}{\text{Rate (mL/hr)}} }$ |
+| Time (hr) | ${\text{Time} = \frac{\text{Total Volume (mL)}}{\text{Rate (mL/hr)}} }$ | -->
 
 ## 📘 Calculating Rate of Infusion
 
@@ -52,7 +53,8 @@ The **infusion rate** refers to the volume of IV fluid or medication to be deliv
 
 **Order**: 1000 mL D5W to infuse over 8 hours.
 
-$\text{Rate} = \frac{\text{1000 mL}}{\text{8 hr}} = \text{125 mL/hr}$
+![1000 ml / 8 hr = 125 ml/hr](./img/flow_drip/infusion_example.PNG)
+<!-- $\text{Rate} = \frac{\text{1000 mL}}{\text{8 hr}} = \text{125 mL/hr}$ -->
 
 ## 📘 Calculate IV Flow Rate in Drops Per Minute (gtt/min)
 
@@ -77,11 +79,12 @@ The **drop factor** is the number of drops (gtt) that make up 1 mL of fluid for 
 
 Step-by-step:
 
-| Step | Math |
+![drip rate example](./img/flow_drip/drip_example.PNG)
+<!-- | Step | Math |
 |------|------|
 | 1: Convert time to minutes | ${4\ \text{hr} = 4 \times 60 = 240\ \text{min}}$ |
 | 2: Use formula | ${\text{Flow Rate} = \frac{500\ \text{mL} \times 15\ \text{gtt/mL}}{240\ \text{min}} = \frac{7500}{240} \approx 31.25}$ |
-| 3: Round | ${\text{Flow Rate} = \boxed{31\ \text{gtt/min}}}$ |
+| 3: Round | ${\text{Flow Rate} = \boxed{31\ \text{gtt/min}}}$ | -->
 
 ## 📘 Calculating Time of Infusion
 
@@ -91,7 +94,8 @@ Used when the total volume and rate are known. Often needed to project when a ba
 
 **Order**: 1000 mL LR infusing at 125 mL/hr
 
-$\text{Time} = \frac{1000\ \text{mL}}{125\ \text{mL/hr}} = 8\ \text{hr}$
+![1000 mL / 125 mL/hr = 8 hr](./img/flow_drip/time_example.PNG)
+<!-- $\text{Time} = \frac{1000\ \text{mL}}{125\ \text{mL/hr}} = 8\ \text{hr}$ -->
 
 ## 🚨 Tips and Best Practices
 
@@ -107,33 +111,36 @@ $\text{Time} = \frac{1000\ \text{mL}}{125\ \text{mL/hr}} = 8\ \text{hr}$
 
 **Order**: Dopamine 5 g in 500 mL. Infuse at 25 mcg/kg/min. Patient weighs 112 kg.
 
-| Step | Math |
+![example 1](./img/flow_drip/ex1.PNG)
+<!-- | Step | Math |
 |------|------|
 | 1: Convert 5 g to mcg | ${\text{5 g} = 5,000,000\ \text{mcg}}$ |
 | 2: Determine drug concentration | ${\frac{5,000,000\ \text{mcg}}{500\ \text{mL}} = 10,000\ \text{mcg/mL}}$ |
 | 3: Apply weight-based formula | ${\text{Rate} = \frac{25\ \text{mcg/kg/min} \times 112\ \text{kg} \times 60\ \text{min/hr}}{10,000\ \text{mcg/mL}}}$ |
-| 4: Final Answer | ${\text{Rate} = \frac{168,000}{10,000} = \boxed{16.8\ \text{mL/hr}}}$ |
+| 4: Final Answer | ${\text{Rate} = \frac{168,000}{10,000} = \boxed{16.8\ \text{mL/hr}}}$ | -->
 
 ### 💧 Example: Insulin gtt/min calculation
 
 **Order**: 37 Units regular insulin over 1 hour. In 250 mL NS. IV set calibrated at 10 gtt/mL.
 
-| Step | Math |
+![example 2](./img/flow_drip/ex2.PNG)
+<!-- | Step | Math |
 |------|------|
 | 1: Time in minutes | 1 hr = 60 min |
 | 2: Apply formula | $\frac{250\ \text{mL} \times 10\ \text{gtt/mL}}{60\ \text{min}} = \frac{2500}{60} \approx 41.67$ |
-| 3: Round | $\boxed{42\ \text{gtt/min}}$ |
+| 3: Round | $\boxed{42\ \text{gtt/min}}$ | -->
 
 ### 💧 Example: Determine time & day next liter is needed
 
 **Order**: 1 L D5W started at 1400 hours on Tuesday. Rate = 200 mL/hr.
 
-| Step | Math |
+![example 3](./img/flow_drip/ex3.PNG)
+<!-- | Step | Math |
 |------|------|
 | 1: Total infusion time | ${\frac{1000\ \text{mL}}{200\ \text{mL/hr}} = 5\ \text{hr}}$ |
 | 2: Start time | 1400 hrs (Tuesday) |
 | 3: Add 5 hours | 1400 + 5 hr = 1900 hrs |
-| 4: Answer | ${\boxed{\text{1900 hrs on Tuesday}}}$ (7:00 PM Tuesday) |
+| 4: Answer | ${\boxed{\text{1900 hrs on Tuesday}}}$ (7:00 PM Tuesday) | -->
 
 ---
 

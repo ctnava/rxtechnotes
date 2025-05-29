@@ -25,7 +25,7 @@
 | 11 | [Dosage Calculations Based on Body Weight & Age](./body_weight_calculations.md) | ✅ |
 | 12 | [Temperature Scale, Density, & Specific Gravity Conversions](./temperature_scale_conversions.md) | ✅ |
 | 13 | [Dosage Calculations Based on Body Surface Area](./bsa.md) | ✅ |
-| 14 | [Infusion and Drip Rate Calculations](./flow_drip_rate.md) | 📸 |
+| 14 | [Infusion and Drip Rate Calculations](./flow_drip_rate.md) | ✅ |
 | 15 | [Alligation Calculations](./alligations.md) | ✅ |
 | 16 | [Dilution Calculations](./dilutions.md) | ✅ |
 | 17 | [Parenteral Nutrition (PN) Calculations](./tpn.md) | ✅ |
