@@ -1,6 +1,6 @@
 # Denali Top 200
 
-## Psychiatric & Neurological
+## Psychiatric
 
 ### Sleep Aids
 
@@ -253,7 +253,7 @@ adipex, phentermine, appetite suppressant (c-iv)
 
 ## Respiratory & Allergy
 
-## Allergy Relief
+### Allergy Relief
 
 xyzal, levocetirizine, antihistamine
 vistaril, hydroxyzine, antihistamine
