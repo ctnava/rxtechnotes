@@ -47,29 +47,12 @@ humalog, insulin lispro, insulin (short acting)
 #### Antihypertensives & Diuretics
 
 lopressor, metoprolol, antihypertensive
-norvasc, amlodipine, antihypertensive
-prinivil/ zestril, lisinopril, antihypertensive
 tenormin, atenolol, antihypertensive
 coreg, carvedilol, antihypertensive
-diovan, valsartan, antihypertensive
-minipress, prazosin, antihypertensive
 bystolic, nebivolol, antihypertensive
-edarbi, azilsartan, antihypertensive
-vasotech, enalapril, antihypertensive
-altace, ramipril, antihypertensive
-cozaar, losartan, antihypertensive
 trandate, labetalol, antihypertensive
-lotensin, benazepril, antihypertensive
-cardizem, diltiazem, antihypertensive
 inderal, propanolol, antihypertensive
-accupril, quinapril, antihypertensive
-avapro, irbesartan, antihypertensive
-hytrin, terazosin, antihypertensive
-tenex, guanfacine, antihypertensive
 zebeta, bisoprolol, antihypertensive
-apresoline, hydralazine, antihypertensive
-benicar, olmesartan, antihypertensive (ARB)
-catapres, clonidine, antihypertensive/ sleep aid
 
 ## Pain Management
 
