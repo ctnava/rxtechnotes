@@ -4,7 +4,7 @@
 
 ---
 
-**DEA Policy** (🔗 [Link](./csa_cmea.md))
+**DEA Policy** (🔗 [To Document](./csa_cmea.md))
 
 | **Title** | **Notes** |
 |-----------|-----------|
@@ -13,7 +13,7 @@
 
 ---
 
-**Pure Food & Drug Act, FDCA, & Amendments** (🔗 [Link](./fda_fdca.md))
+**Pure Food & Drug Act, FDCA, & Amendments** (🔗 [To Document](./fda_fdca.md))
 
 | **Title** | **Notes** |
 |-----------|-----------|
@@ -30,7 +30,7 @@
 
 ---
 
-**Extended Packaging & Labeling Policy** (🔗 [Link](./packaging_labeling.md))
+**Extended Packaging & Labeling Policy** (🔗 [To Document](./packaging_labeling.md))
 
 | **Title** | **Notes** |
 |-----------|-----------|
@@ -40,7 +40,7 @@
 
 ---
 
-**Healthcare Policy** (🔗 [Link](./healthcare.md))
+**Healthcare Policy** (🔗 [To Document](./healthcare.md))
 
 | **Title** | **Notes** |
 |-----------|-----------|
@@ -51,7 +51,7 @@
 
 ---
 
-**HIPAA & Amendments** (🔗 [Link](./hipaa.md))
+**HIPAA & Amendments** (🔗 [To Document](./hipaa.md))
 
 | **Title** | **Notes** |
 |-----------|-----------|
@@ -60,7 +60,7 @@
 
 ---
 
-**Miscellaneous Law** (🔗 [Link](./misc.md))
+**Miscellaneous Law** (🔗 [To Document](./misc.md))
 
 | **Title** | **Notes** |
 |-----------|-----------|
