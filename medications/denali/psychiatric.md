@@ -35,6 +35,7 @@
 | Cymbalta   | Duloxetine   | Chronic pain + depression | **SNRI** | **Depression**, anxiety, neuropathy, fibromyalgia | “Cymbals crash = pain relief”; duloxetine = dual action |
 | Effexor    | Venlafaxine  | Dose-dependent NE effect | **SNRI** | **Depression**, anxiety | “Effective effort = Effexor”; venlafaxine = vein + affect |
 | Pristiq    | Desvenlafaxine | Active metabolite of Effexor | **SNRI** | **Depression** | “Pristine version of Effexor”; des-venlafaxine = refined |
+| Strattera | Atomoxetine | **Non-stimulant ADHD** | SNRI | ADHD | "Strategy + attention = Strattera"; atomoxetine sounds like “atom” = brain power |
 
 ## 🌊 SSRIs
 
