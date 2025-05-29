@@ -94,7 +94,8 @@ The math must always reflect the **maximum daily use** allowed by the prescripti
 
 📘 **Example**: Around-the-Clock
 
-**Sig**: `Take 1 tablet by mouth every 8 hours`
+- **Sig**: `Take 1 tablet by mouth every 8 hours #90`
+  - **Quantity**: 90 Tablets
 
 ${\boxed{\text{Hours per Dose} = 8 \, \text{hours}}}$
 
@@ -104,15 +105,14 @@ ${\boxed{\text{Tablets per Dose} = 1 \, \text{tab}}}$
 
 ${\boxed{\Rightarrow \text{Tablets Per Diem} = 1 \, \text{tab/dose} \times 3 \, \text{doses/day} = 3 \, \text{tabs/day}}}$
 
-If the prescription is written for `#90 tablets`:
-
 ${\boxed{\Rightarrow \text{Days Supply} = \frac{90 \, \text{tabs}}{3 \, \text{tabs/day}} = 30 \, \text{days}}}$
 
 > 📍 Divide 24 hours by the interval to determine frequency.
 
 📘 **Example**: As Needed
 
-**Sig**: `Take 1–2 tablets every 4–6 hours as needed for pain`
+- **Sig**: `Take 1–2 tablets every 4–6 hours as needed for pain #60`
+  - **Quantity**: 90 Tablets
 
 ${\boxed{\text{Minimum Hours per Dose}} = \min(4, 6) = 4 \, \text{hours}}$
 
@@ -121,8 +121,6 @@ ${\boxed{\Rightarrow \text{Doses Per Diem}} = \text{24 hours/day} \div \text{4 h
 ${\boxed{\text{Tablets per Dose}} = \text{2 tabs/dose}}$
 
 ${\boxed{\Rightarrow \text{Tablets Per Diem}} = \text{2 tabs/dose} \times \text{6 doses/day} = \text{12 tabs/day}}$
-
-If the prescription is written for `#60 tablets`:
 
 ${\boxed{\Rightarrow \text{Days Supply} = \frac{60 \, \text{tabs}}{12 \, \text{tabs/day}} = 5 \, \text{days}}}$
 
