@@ -67,6 +67,7 @@
 - [x] Externship Study Guide
 - [x] DenaliRx Drugs 61-80
 - [ ] Reading: Chapter 7 - Prescriptions
+  - [ ] import checklists
 - [ ] Reading: Chapter 3 - Pharmacy Law, Regulations, & Ethics
 - [x] Prescription Intake Video & Quiz
 - [x] Drug Package Inserts

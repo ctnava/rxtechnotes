@@ -32,6 +32,12 @@ This document synthesizes key federal statutes and regulations governing how dru
 
 > 🛡️ The ISMP recommends **Tall Man Lettering** to distinguish look-alike drug names (e.g. predniSONE vs prednisoLONE)
 
+![Manufacturer Stock Label](./img/stock_label.PNG)
+
+Manufacturer Stock Label
+
+![OTC Label](./img/otc_label.PNG)
+
 ## Identification & Tracking
 
 ### National Drug Code (NDC) Format
