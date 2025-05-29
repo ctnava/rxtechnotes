@@ -93,10 +93,10 @@ Understanding how to read prescriptions requires familiarity with the **Inscript
 
 ### 📃 Prescription Structure
 
-| Section       | Purpose                                                |
-|---------------|--------------------------------------------------------|
+| Section | Purpose |
+|---------|---------|
 | **Inscription** | Lists the **drug name**, **strength**, and **dosage form** |
-| **Signa (Sig)** | Provides **directions for the patient**              |
+| **Signa (Sig)** | Provides **directions for the patient** |
 
 > 🛡️ "Signa" is Latin for "let it be labeled." It tells the patient how to take the medication.
 
