@@ -311,7 +311,7 @@ Community compounding pharmacies, also referred to as **hybrid pharmacies**, pro
 
 🧪 **Compounding Services Are Required When**:
 
-- A patient is allergic to an inactive ingredient (e.g., dyes, preservatives, lactose) in a commercially available product
+- **A patient is allergic to an inactive ingredient** (e.g., dyes, preservatives, lactose) in a commercially available product
 - A drug product has been discontinued or is in shortage
 - A patient requires a nonstandard dose or route of administration
 - A specific flavor or form (e.g., liquid vs tablet) is needed for patient compliance
@@ -369,7 +369,7 @@ Mail order pharmacies represent the **fastest-growing segment** of the retail ph
 
 📬 **Purpose & Use Cases**:
 
-- Designed for patients with **chronic conditions** such as diabetes, hypertension, or depression
+- Designed for patients with **chronic conditions** (i.e. long-lasting health conditions that typically last 12 months or more and may require ongoing medical attention) such as diabetes, hypertension, or depression
 - Medications are shipped with a **delivery window of 24–48 hours or more**
 - Appropriate for **maintenance medications**, which are taken on a long-term, ongoing basis
 - **Not suitable** for acute or urgent needs (e.g., antibiotics for sudden infections)  
@@ -669,7 +669,7 @@ Hospitals may also have **outpatient pharmacies** or **clinic-affiliated pharmac
 
 🦅 **Federal Requirement**
 
-Per **42 CFR § 483.60**, all LTC facilities that accept **Medicare or Medicaid** must provide **pharmacy services**, including:
+Per **42 CFR § 483.60**, all LTC facilities that accept **Medicare or Medicaid** must provide **pharmacy services 24 hours a day**, including:
 
 - Medication acquisition
 - Medication administration
