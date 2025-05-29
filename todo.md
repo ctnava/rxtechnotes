@@ -2,6 +2,7 @@
 
 ## Todo
 
+- GO THROUGH READING WORKBOOK
 - update gowning SOP to include descriptions of antechamber & clean rooms
 - hospital & Community pharmacies
 - Drug Endings (appendix)
