@@ -14,7 +14,7 @@
 |---------|-------|---------------|
 | 1 | [Roman Numeral System](./roman_numerals.md) | ✅ |
 | 1 | [Significant Figures](./sig_figs.md) | ✅ |
-| 3 | [Unit Conversions for Pharmacy Technicians: Household & Metric](./unit_conversions.md) | 📸 |
+| 3 | [Unit Conversions for Pharmacy Technicians: Household & Metric](./unit_conversions.md) | ✅ |
 | 4 | [Calculating Days Supply](./days_supply.md) | 📸 |
 | 5 | [Dosage Calculations from Medication Labels](./medication_labels.md) | ✅ |
 | 6 | [Verifying DEA Numbers](./dea_numbers.md) | ✅ |
