@@ -46,15 +46,6 @@
 | Prozac     | Fluoxetine   | Activating | **SSRI** | **Depression**, OCD | “Pro-energy”; fluoxetine = fluent mood |
 | Paxil      | Paroxetine   | Sedating, anticholinergic | **SSRI** | **Depression**, anxiety | “Pack it in = sedate”; paroxetine = para-chill |
 
-### 🧩 Antipsychotics
-
-| Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
-|------------|--------------|-----------------|-------|------------|------------------|
-| Abilify    | Aripiprazole | Activating, less sedating | Atypical **antipsychotic** | Schizophrenia, bipolar, MDD adjunct | “Ability + fix”; aripiprazole → “Ari is able” |
-| Risperdal  | Risperidone  | High EPS risk | Atypical **antipsychotic** | Schizophrenia, bipolar | “Risperdal = rise in EPS”; risperidone = riskier |
-| Seroquel   | Quetiapine   | Sedating | Atypical **antipsychotic** | Schizophrenia, bipolar, depression adjunct | “Serenity + quiet” = Seroquel; quetiapine = quiet time |
-| Zyprexa    | Olanzapine   | Appetite gain, sedation | Atypical **antipsychotic** | Schizophrenia, bipolar | “Zzz-prexa = sleepy + prexa for weight” |
-
 ## 😰 Anxiety Agents
 
 | Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
@@ -64,3 +55,12 @@
 | Valium     | Diazepam     | Long-acting **(C-IV**) | Benzodiazepine | **Anxiety**, muscle relaxant | “Value of calm”; diazepam = dial it down |
 | Xanax      | Alprazolam   | Fast-acting **(C-IV)** | Benzodiazepine | **Anxiety**, panic | “Xanax = eXit anxiety”; -zolam = benzo |
 | Buspar     | Buspirone    | Non-sedating | 5-HT1A partial agonist | **Anxiety** (GAD) | “Buspar = bus to peace”; buspirone ≠ benzo |
+
+## 🧩 Antipsychotics
+
+| Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
+|------------|--------------|-----------------|-------|------------|------------------|
+| Abilify    | Aripiprazole | Activating, less sedating | Atypical **antipsychotic** | Schizophrenia, bipolar, MDD adjunct | “Ability + fix”; aripiprazole → “Ari is able” |
+| Risperdal  | Risperidone  | High EPS risk | Atypical **antipsychotic** | Schizophrenia, bipolar | “Risperdal = rise in EPS”; risperidone = riskier |
+| Seroquel   | Quetiapine   | Sedating | Atypical **antipsychotic** | Schizophrenia, bipolar, depression adjunct | “Serenity + quiet” = Seroquel; quetiapine = quiet time |
+| Zyprexa    | Olanzapine   | Appetite gain, sedation | Atypical **antipsychotic** | Schizophrenia, bipolar | “Zzz-prexa = sleepy + prexa for weight” |
