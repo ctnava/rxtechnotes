@@ -18,13 +18,17 @@ bactroban, mupirocin, topical antibacterial
 
 ## 🍄 Antifungals
 
-diflucan, fluconazole, antifungal
-nizoral, ketoconazole, antifungal
+| Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
+|------------|--------------|-----------------|-------|------------|------------------|
+| Diflucan   | Fluconazole  | Oral yeast infections | **Azole antifungal** | Candidiasis, thrush | “Flu-flu fungus = Fluconazole”; Diflucan = Defeat fungus |
+| Nizoral    | Ketoconazole | Shampoo/tablet forms | **Azole antifungal** | Fungal skin infections, dandruff | “Keto vs fungus”; Nizoral = anti-itch/nizzy fix |
 
 ## 🧬 Antimicrobials
 
-cleocin, clindamycin, antimicrobial
-flagyl, metronidazole, antimicrobial
+| Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
+|------------|--------------|-----------------|-------|------------|------------------|
+| Cleocin    | Clindamycin  | Anaerobic coverage | **Lincosamide antimicrobial** | Dental, bone, abscesses | “Clean with Cleocin”; clinda = cleanse deep |
+| Flagyl     | Metronidazole | No alcohol use | **Nitroimidazole antimicrobial** | Anaerobic, C. diff, trichomoniasis | “Flag down alcohol”; metro = metallic taste & anaerobes |
 
 ## 🧪 Antivirals
 
