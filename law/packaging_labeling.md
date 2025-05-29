@@ -78,3 +78,7 @@ The DSCSA aims to improve the security and traceability of prescription drugs in
 - **Notification**: Trading partners must notify the FDA and other involved parties within 24 hours of discovering an illegitimate or high-risk product.
 - **Interoperable Systems**: The law mandates the development of an electronic, interoperable system for tracking drugs from manufacturer to dispenser.
 - **Enforcement**: The FDA has been implementing the DSCSA since 2013, and enforcement began in 2025.
+  
+---
+
+🔙🔗 Back to [**Federal Law Reference Directory**](./readme.md)

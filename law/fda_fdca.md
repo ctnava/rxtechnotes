@@ -96,3 +96,7 @@
 - **Exemptions**: Outsourcing facilities may be exempt from certain new drug requirements and labeling requirements, but must still adhere to cGMP.
 - **Reporting Requirements**: Outsourcing facilities must report biannually on the drugs they compound and submit adverse event reports.
 - **Risk-Based Inspections**: Outsourcing facilities are subject to a risk-based inspection schedule.
+  
+---
+
+🔙🔗 Back to [**Federal Law Reference Directory**](./readme.md)

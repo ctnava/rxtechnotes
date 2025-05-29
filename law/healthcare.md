@@ -80,3 +80,7 @@ The MMA established Part D of the program to provide prescription drug coverage 
 Technicians assist by preparing medication histories, documentation, and assisting with insurance or billing tasks.
 
 > 🛡️ HIPAA Requires all patient health information (PHI) obtained during Counseling, DSM, MTM services to be kept strictly confidential.
+  
+---
+
+🔙🔗 Back to [**Federal Law Reference Directory**](./readme.md)

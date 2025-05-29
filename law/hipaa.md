@@ -128,7 +128,7 @@ Pharmacies must:
 - 🔗 VIDEO | [HIPAA Training: What is Required for Compliance](https://www.youtube.com/watch?v=CXGDq7IHgSQ)
 - 🔗 HANDBOOK | [HIPAA Survival Guide](../ref/hipaa_survival_guide.pdf)
 
-## Health Information Technology for Economic & Clinical Health Act (HITECH, 2009)
+## 🤯 Health Information Technology for Economic & Clinical Health Act (HITECH, 2009)
 
 <!-- Amends HIPAA -->
 
@@ -138,3 +138,7 @@ Pharmacies must:
 - Increases penalties for non-compliance
 
 > 🤯 HITECH ties HIPAA compliance to federal incentive programs for technology adoption and mandates stricter breach reporting.
+  
+---
+
+🔙🔗 Back to [**Federal Law Reference Directory**](./readme.md)

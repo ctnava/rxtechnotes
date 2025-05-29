@@ -9,3 +9,7 @@ Ensures workplace safety nationwide. Employers must:
 - Maintain **Safety Data Sheets (SDS)** for all hazardous substances to explain the risks of exposure, handling instructions, and protocols necessary to prevent harm from such incidents.
 
 > ⚠️ Chemotherapy agents and other hazardous drugs must have Safety Data Sheets!
+  
+---
+
+🔙🔗 Back to [**Federal Law Reference Directory**](./readme.md)

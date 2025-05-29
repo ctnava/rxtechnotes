@@ -135,3 +135,7 @@ These ingredients are commonly found in cold and allergy medications but can als
   - Product name
   - Quantity sold
   - Date and time of the sale
+  
+---
+
+🔙🔗 Back to [**Federal Law Reference Directory**](./readme.md)
