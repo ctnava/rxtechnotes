@@ -50,6 +50,14 @@ Many injectable or biologically sensitive medications are unstable in liquid for
 - Diluent volume to add (e.g. "Add 2.5 mL Sterile Water")
 - Final volume after reconstitution (e.g. 3.5 mL)
 
+## 🚨 Tips and Best Practices
+
+- 🛡️ **Read vial label and package insert carefully** before preparing.
+- 📍 Use a **prescribed diluent only** (e.g. Sterile Water, NS, Bacteriostatic Water).
+- ☣️ **Do not shake** protein-based powders (e.g. biologics); swirl gently.
+- 🛡️ **Label vial** with date/time of reconstitution and initials.
+- 📍 Concentration may vary depending on **volume of diluent added**—follow exact instructions.
+
 ## 📘 Calculations
 
 🔢 Formula:
@@ -89,14 +97,6 @@ $\text{Volume to Give} = \frac{\text{Desired Dose}}{\text{Concentration}}$
 **Order**: Give 500 mg of cefazolin. Concentration = 250 mg/mL.
 
 $\text{Volume} = \frac{500\ \text{mg}}{250\ \text{mg/mL}} = \boxed{2\ \text{mL}}$
-
-## 🚨 Tips and Best Practices
-
-- 🛡️ **Read vial label and package insert carefully** before preparing.
-- 📍 Use a **prescribed diluent only** (e.g. Sterile Water, NS, Bacteriostatic Water).
-- ☣️ **Do not shake** protein-based powders (e.g. biologics); swirl gently.
-- 🛡️ **Label vial** with date/time of reconstitution and initials.
-- 📍 Concentration may vary depending on **volume of diluent added**—follow exact instructions.
 
 ---
 
