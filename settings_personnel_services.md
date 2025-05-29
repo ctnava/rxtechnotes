@@ -153,7 +153,7 @@ Community retail pharmacies provide direct patient access to prescription medica
 
 #### 🏥 Walk-In Clinics (Retail Health Clinics)
 
-Some retail locations operate **on-site clinics** under models like **CVS MinuteClinic** or **Walgreens Healthcare Clinic**. These clinics provide minor acute care and preventative services.
+Some retail locations operate **on-site clinics** under models like **CVS MinuteClinic** or **Walgreens Healthcare Clinic**. These clinics provide minor acute care, for **acute** conditions** (i.e. sudden conditions requiring immediate treatment), and preventative services.
 
 🩺 **Staffed By**:
 
