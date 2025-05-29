@@ -2,19 +2,21 @@
 
 ## 💊 Antibiotics
 
-amoxil, amoxicillin, antibiotic
-augmentin, amoxicillin + clavulanate, antibiotic
-zithromax, azithromycin, antibiotic
-cipro, ciprofloxacin, antibiotic
-keflex, cephalexin, antibiotic
-vibramycin, doxycycline, antibiotic
-levaquin, levofloxacin, antibiotic
-omnicef, cefdinir, antibiotic
-furadantin, nitrofurantoin, antibiotic
-biaxin, clarithromycin, antibiotic
-avelox, moxifloxacin, antibiotic
-septra, sulfamethoxazole + trimethoprim, antibiotic combo
-bactroban, mupirocin, topical antibacterial
+| Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
+|------------|--------------|-----------------|-------|------------|------------------|
+| Amoxil     | Amoxicillin  | Common **penicillin** | Beta-lactam antibiotic | Bacterial infections | “Amox = amoxicillin” is nearly identical |
+| Augmentin  | Amoxicillin + Clavulanate | Broad-spectrum + beta-lactamase inhibitor | Beta-lactam + inhibitor | Resistant bacterial infections | “Augmented Amoxil”; aug = enhanced |
+| Avelox     | Moxifloxacin | Respiratory FQ | **Fluoroquinolone** | Pneumonia, sinusitis | “Ave = advanced”; moxifloxacin = MOXIE for lungs |
+| Cipro      | Ciprofloxacin | UTI, C-II interaction | **Fluoroquinolone** | UTI, anthrax, GI | “Cipro for Cystitis”; ends in -floxacin |
+| Levaquin   | Levofloxacin | Respiratory & UTI | **Fluoroquinolone** | Pneumonia, UTI | “Levo = left-flank attack on bugs”; -floxacin |
+| Keflex     | Cephalexin   | Cephalosporin | 1st-gen **cephalosporin** | Skin, soft tissue, UTI | “Keflex = ceph-flex”; cephalexin = cephalosporin |
+| Omnicef    | Cefdinir     | Red stool (iron bind) | 3rd-gen **cephalosporin** | Respiratory, sinus, ear | “Omni = broad”; cefdinir = cephalosporin |
+| Biaxin     | Clarithromycin | Metallic taste | **Macrolide antibiotic** | Respiratory, H. pylori | “Biaxin = big ax on bacteria”; clarithro = clear throat |
+| Zithromax  | Azithromycin | Long half-life | **Macrolide antibiotic** | Respiratory, skin, STIs | “Z-pack = Zithromax”; azithro → zithro |
+| Vibramycin | Doxycycline  | Broad-spectrum | **Tetracycline antibiotic** | Acne, Lyme, atypicals | “Vibrate with Vibramycin”; doxy = tetracycline |
+| Septra     | Sulfamethoxazole + Trimethoprim | **Combo sulfa** | Sulfonamide + DHFR inhibitor | UTI, MRSA, PCP | “SEParate actions combined”; trimethoprim = trim-down folate |
+| Bactroban  | Mupirocin    | Topical use | **Topical antibacterial** | Impetigo, MRSA nasal | “BAN bacteria on skin”; mupirocin = mup-it-on skin |
+| Furadantin | Nitrofurantoin | Urinary specific | Urinary antiseptic | UTI | “Fura = urine fury”; nitrofurantoin = nitro for nitrites |
 
 ## 🍄 Antifungals
 
