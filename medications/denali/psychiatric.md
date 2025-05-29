@@ -50,9 +50,9 @@
 
 | Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
 |------------|--------------|-----------------|-------|------------|------------------|
-| Seroquel   | Quetiapine   | Sedating | Atypical **antipsychotic** | Schizophrenia, bipolar, depression adjunct | “Serenity + quiet” = Seroquel; quetiapine = quiet time |
 | Abilify    | Aripiprazole | Activating, less sedating | Atypical **antipsychotic** | Schizophrenia, bipolar, MDD adjunct | “Ability + fix”; aripiprazole → “Ari is able” |
 | Risperdal  | Risperidone  | High EPS risk | Atypical **antipsychotic** | Schizophrenia, bipolar | “Risperdal = rise in EPS”; risperidone = riskier |
+| Seroquel   | Quetiapine   | Sedating | Atypical **antipsychotic** | Schizophrenia, bipolar, depression adjunct | “Serenity + quiet” = Seroquel; quetiapine = quiet time |
 | Zyprexa    | Olanzapine   | Appetite gain, sedation | Atypical **antipsychotic** | Schizophrenia, bipolar | “Zzz-prexa = sleepy + prexa for weight” |
 
 ## 😰 Anxiety Agents
