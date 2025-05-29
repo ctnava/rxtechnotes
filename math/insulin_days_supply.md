@@ -104,39 +104,24 @@ ${\boxed{\text{Theoretical Days Supply} = \frac{1350 \, U}{60 \, \frac{U}{\text{
 - **Sig**: Inject 30 Units subcutaneously once daily  
   - **Total Daily Usage**: 30 U/day  
 
-🔢 **Step-by-Step Math**:
-
-### 1️⃣ Units per Pen
-
 ${\boxed{3 \, \text{mL} \times 100 \, \frac{U}{\text{mL}} = 300 \, U \text{ per pen}}}$
-
-### 2️⃣ Days per Pen
 
 ${\boxed{\frac{300 \, U}{30 \, \frac{U}{\text{day}}} = 10 \, \text{days per pen}}}$
 
-> 📍 Each pen supports 10 days of therapy at this dose
-
-### 3️⃣ Days Supply for 5 Pens (Used Sequentially)
-
 ${\boxed{5 \, \text{pens} \times 10 \, \text{days per pen} = 50 \, \text{days}}}$
 
-### 4️⃣ Stability Consideration: Opened Pens
-
+🛡️ **Stability Consideration: Opened Pens**
+  
 - Each **individual pen** is stable for **28 days** at room temperature
-- Pens are used **sequentially** (not all opened at once)
+  - No single pen will exceed its discard limit during use
+  - Each pen supports 10 days of therapy at this dose
+  - ✅ **Stability-compliant**: No adjustment needed.
+- 🛡️ Pens **should not** be used simultaneously unless explicitly instructed (i.e. **not all opened at once**). If simultaneous use is required (e.g., backup pen in use), calculation **must adjust** for overlapping expiration windows.
 - No single pen will exceed its discard limit during use
 
-✅ **Stability-compliant**  
+**Final Days Supply** = `50 days`
 
-✅ **No adjustment needed**  
-
-✅ **Final Days Supply = 50 days**
-
-✅ **Final Days Supply** = **50 days**
-
-📍 **Labeling Note**: Include counseling or auxiliary label: "Each pen good for 28 days after first use. Store unopened pens in refrigerator. Use opened pen within 28 days."
-
-🛡️ Pens **should not** be used simultaneously unless explicitly instructed. If simultaneous use is required (e.g., backup pen in use), calculation **must adjust** for overlapping expiration windows.
+> 📍 **Labeling Note**: Include counseling or auxiliary label: "Each pen good for 28 days after first use. Store unopened pens in refrigerator. Use opened pen within 28 days."
 
 ---
 
