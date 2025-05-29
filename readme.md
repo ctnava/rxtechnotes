@@ -42,7 +42,7 @@ Structured for both exam prep and on-the-job reference.
 | 5 | [Pharmacy Inventory Management](./inventory_management.md) | 🚧 WIP |
 | 6 | [Core Pharmacy Operations](./core_operations.md) | ✅ Complete |
 
-- 📁 **Math Tutorials** are located in the [Mathematics Concepts Directory](./math/readme.md) directory (🚧 WIP; todo: mobile support with pictures).
+- 📁 **Math Tutorials** are located in the [Mathematics Concepts Directory](./math/readme.md) directory.
 - 📁 **Legal Overviews & Breakdowns** are located in the [Federal Law Reference Directory](./law/readme.md) directory.
 
 ### 🧠 Medications to Remember
