@@ -57,11 +57,12 @@ Sig codes are often written in abbreviated Latin phrases. Pharmacy technicians m
 
 ### Days Supply Calculations
 
-${\boxed{\text{Per Diem}} = \text{Amount per Dose} \times \text{Doses per Diem}}$
+![Days Supply = amount dispensed / amount per day](./img/days_supply/core_formula.PNG)
+<!-- ${\boxed{\text{Per Diem}} = \text{Amount per Dose} \times \text{Doses per Diem}}$
 
 ${\boxed{\text{Days Supply}} = \text{Amount Dispensed} \div \text{Amount Per Diem}}$
 
-${\boxed{\Rightarrow \text{Days Supply} = \frac{\text{Amount Dispensed}}{\text{Amount per Dose} \times \text{Doses per Diem}}}}$
+${\boxed{\Rightarrow \text{Days Supply} = \frac{\text{Amount Dispensed}}{\text{Amount per Dose} \times \text{Doses per Diem}}}}$ -->
 
 - Round **down** to the nearest whole day
 - Days supply should be calculated based on **maximum daily usage**
@@ -81,7 +82,8 @@ ${\boxed{\Rightarrow \text{Days Supply} = \frac{\text{Amount Dispensed}}{\text{A
 
 `Why Days Supply Calculations can Vary Across Patients`
 
-${\boxed{\text{Dosing Frequency} \implies \text{Doses per Diem}}}$
+![Dosing Frequency = Doses per Diem](./img/days_supply/frequency.PNG)
+<!-- ${\boxed{\text{Dosing Frequency} \implies \text{Doses per Diem}}}$ -->
 
 Dosing frequency refers to how often a medication is taken each day. It directly determines how fast the dispensed quantity will be used and therefore controls the days supply.
 
@@ -97,7 +99,8 @@ The math must always reflect the **maximum daily use** allowed by the prescripti
 - **Sig**: `Take 1 tablet by mouth every 8 hours #90`
   - **Quantity**: 90 Tablets
 
-${\boxed{\text{Hours per Dose} = 8 \, \text{hours}}}$
+![atc dosing](./img/days_supply/frequency_atc.PNG)
+<!-- ${\boxed{\text{Hours per Dose} = 8 \, \text{hours}}}$
 
 ${\boxed{\Rightarrow \text{Doses Per Diem} = \frac{24 \, \text{hours}}{8 \, \text{hours/dose}} = 3 \, \text{doses/day}}}$
 
@@ -105,7 +108,7 @@ ${\boxed{\text{Tablets per Dose} = 1 \, \text{tab}}}$
 
 ${\boxed{\Rightarrow \text{Tablets Per Diem} = 1 \, \text{tab/dose} \times 3 \, \text{doses/day} = 3 \, \text{tabs/day}}}$
 
-${\boxed{\Rightarrow \text{Days Supply} = \frac{90 \, \text{tabs}}{3 \, \text{tabs/day}} = 30 \, \text{days}}}$
+${\boxed{\Rightarrow \text{Days Supply} = \frac{90 \, \text{tabs}}{3 \, \text{tabs/day}} = 30 \, \text{days}}}$ -->
 
 > 📍 Divide 24 hours by the interval to determine frequency.
 
@@ -114,7 +117,8 @@ ${\boxed{\Rightarrow \text{Days Supply} = \frac{90 \, \text{tabs}}{3 \, \text{ta
 - **Sig**: `Take 1–2 tablets every 4–6 hours as needed for pain #60`
   - **Quantity**: 90 Tablets
 
-${\boxed{\text{Minimum Hours per Dose}} = \min(4, 6) = 4 \, \text{hours}}$
+![prn dosing](./img/days_supply/frequency_prn.PNG)
+<!-- ${\boxed{\text{Minimum Hours per Dose}} = \min(4, 6) = 4 \, \text{hours}}$
 
 ${\boxed{\Rightarrow \text{Doses Per Diem}} = \text{24 hours/day} \div \text{4 hours/dose} = \text{6 doses/day}}$
 
@@ -122,7 +126,7 @@ ${\boxed{\text{Tablets per Dose}} = \text{2 tabs/dose}}$
 
 ${\boxed{\Rightarrow \text{Tablets Per Diem}} = \text{2 tabs/dose} \times \text{6 doses/day} = \text{12 tabs/day}}$
 
-${\boxed{\Rightarrow \text{Days Supply} = \frac{60 \, \text{tabs}}{12 \, \text{tabs/day}} = 5 \, \text{days}}}$
+${\boxed{\Rightarrow \text{Days Supply} = \frac{60 \, \text{tabs}}{12 \, \text{tabs/day}} = 5 \, \text{days}}}$ -->
 
 > 🚨 Always calculate based on the **maximum** allowed usage, even for PRN directions.
 
@@ -155,11 +159,12 @@ This principle applies to **all dosage forms**; not just tablets. Whether dosing
 
 For the sake of simplicity, I will be referring to them as `pills`.
 
-${\boxed{\text{Pills Per Diem}} = \text{Pills per Dose} \times \text{Doses Per Diem}}$
+![tab formula](./img/days_supply/tab_form.PNG)
+<!-- ${\boxed{\text{Pills Per Diem}} = \text{Pills per Dose} \times \text{Doses Per Diem}}$
 
 ${\boxed{\text{Days Supply} }= \text{Pills Dispensed} \div \text{Pills Per Diem}}$
 
-${\boxed{\Rightarrow \text{Days Supply} = \frac{\text{Pills Dispensed}}{\text{Pills per Dose} \times \text{Doses per Diem}}}}$
+${\boxed{\Rightarrow \text{Days Supply} = \frac{\text{Pills Dispensed}}{\text{Pills per Dose} \times \text{Doses per Diem}}}}$ -->
 
 💊 **Example**:
 
@@ -167,7 +172,8 @@ ${\boxed{\Rightarrow \text{Days Supply} = \frac{\text{Pills Dispensed}}{\text{Pi
 
 ==> `Take 3 tablets by mouth, 4 times a day #45`
 
-${\boxed{\text{Pills Dispensed}} = \text{45 tab}}$
+![tab example](./img/days_supply/tab_ex.PNG)
+<!-- ${\boxed{\text{Pills Dispensed}} = \text{45 tab}}$
 
 ${\boxed{\text{Pills per Dose}} = \text{3 tab/dose}}$
 
@@ -177,7 +183,7 @@ ${\boxed{\Rightarrow \text{Pills Per Diem}} = \frac{\text{3 tab}}{\text{1 dose}}
 
 ${\boxed{\Rightarrow \text{Days Supply}} = \text{45 tab} \div \text{12 tab/day} = \frac{\text{45 tab}}{\text{1}} \times \frac{\text{1 day}}{\text{12 tab}}}$
 
-${\boxed{\Rightarrow \text{Days Supply}} = \text{3.75 Days} = \text{3 Days (Rounded Down)}}$
+${\boxed{\Rightarrow \text{Days Supply}} = \text{3.75 Days} = \text{3 Days (Rounded Down)}}$ -->
 
 ---
 
@@ -193,11 +199,12 @@ ${\boxed{\Rightarrow \text{Days Supply}} = \text{3.75 Days} = \text{3 Days (Roun
 
 🔢 **Formula**:
 
-${\boxed{\text{Volume Per Diem}} = \text{Volume per Dose} \times \text{Doses Per Diem}}$
+![liq formula](./img/days_supply/liq_form.PNG)
+<!-- ${\boxed{\text{Volume Per Diem}} = \text{Volume per Dose} \times \text{Doses Per Diem}}$
 
 ${\boxed{\text{Days Supply} }= \text{Volume Dispensed} \div \text{Volume Per Diem}}$
 
-${\boxed{\Rightarrow \text{Days Supply} = \frac{\text{Volume Dispensed}}{\text{Volume per Dose} \times \text{Doses per Diem}}}}$
+${\boxed{\Rightarrow \text{Days Supply} = \frac{\text{Volume Dispensed}}{\text{Volume per Dose} \times \text{Doses per Diem}}}}$ -->
 
 💧 **Example**:
 
@@ -205,7 +212,8 @@ ${\boxed{\Rightarrow \text{Days Supply} = \frac{\text{Volume Dispensed}}{\text{V
 
 ==> `Take 2 Teaspoons by mouth every 6 hours, as needed for pain #6 oz`
 
-${\text{1 tsp} = 5 \, \text{mL} \qquad \text{1 oz} = 30 \, \text{mL}}$
+![liq example](./img/days_supply/liq_ex.PNG)
+<!-- ${\text{1 tsp} = 5 \, \text{mL} \qquad \text{1 oz} = 30 \, \text{mL}}$
 
 ${\boxed{\text{Volume Dispensed}} = {6 \, \text{oz} \times \frac{30 \, \text{mL}}{1 \, \text{oz}} = 180 \, \text{mL}}}$
 
@@ -215,7 +223,7 @@ ${\boxed{\Rightarrow \text{Volume per Diem}} = \frac{10 \, \text{mL}}{1 \, \text
 
 ${\boxed{\Rightarrow \text{Days Supply}} = \frac{180 \, \text{mL}}{40 \, \text{mL/day}} = \frac{180}{1} \times \frac{1 \, \text{day}}{40} = \frac{180}{40} = 4.5 \, \text{days}}$
 
-${\boxed{\Rightarrow \text{Days Supply} = \text{4 Days (Rounded Down)}}}$
+${\boxed{\Rightarrow \text{Days Supply} = \text{4 Days (Rounded Down)}}}$ -->
 
 ---
 
@@ -232,12 +240,13 @@ ${\boxed{\Rightarrow \text{Days Supply} = \text{4 Days (Rounded Down)}}}$
 
 🔢 **Formula**:
 
-${\boxed{\text{Grams Per Diem} = {\text{Grams per Application} \times \text{Applications Per Diem}}}}$
+![top form](./img/days_supply/top_form.PNG)
+<!-- ${\boxed{\text{Grams Per Diem} = {\text{Grams per Application} \times \text{Applications Per Diem}}}}$
 
 ${\boxed{\text{Days Supply} = \frac{\text{Grams Dispensed}}{{\text{Grams per Application} \times \text{Applications Per Diem}}}}}$
 
 >- 📍 Estimate **1 gram/ 1mL per application**, unless prescriber or labeling indicates otherwise  
->- 📍 1 gram typically covers a **10 cm × 10 cm** area of skin  
+>- 📍 1 gram typically covers a **10 cm × 10 cm** area of skin   -->
 
 🧴 **Example**:
 
@@ -245,7 +254,8 @@ ${\boxed{\text{Days Supply} = \frac{\text{Grams Dispensed}}{{\text{Grams per App
 
 ==> `Apply to affected area every night & morning #30g tube`
 
-${\boxed{\text{Grams Dispensed} = 30 \, \text{g}}}$
+![top example](./img/days_supply/top_ex.PNG)
+<!-- ${\boxed{\text{Grams Dispensed} = 30 \, \text{g}}}$
 
 ${\boxed{\text{Grams per Application} = 1 \, \text{g}}}$
 
@@ -253,7 +263,7 @@ ${\boxed{\text{Applications per Diem} = 2 \, \text{times/day}}}$
 
 ${\boxed{\Rightarrow \text{Grams Per Diem} = \frac{1 \, \text{g}}{1 \, \text{application}} \times \frac{2 \, \text{applications}}{1 \, \text{day}} = \frac{2 \, \text{g}}{1 \, \text{day}} = 2 \, \text{g/day}}}$
 
-${\boxed{\Rightarrow \text{Days Supply} = \frac{30 \, \text{g}}{2 \, \text{g/day}} = \frac{30}{1} \times \frac{1 \, \text{day}}{2} = 15 \, \text{days}}}$
+${\boxed{\Rightarrow \text{Days Supply} = \frac{30 \, \text{g}}{2 \, \text{g/day}} = \frac{30}{1} \times \frac{1 \, \text{day}}{2} = 15 \, \text{days}}}$ -->
 
 ## 👁️ Eyedrops & Eardrops
 
@@ -268,11 +278,12 @@ ${\boxed{\Rightarrow \text{Days Supply} = \frac{30 \, \text{g}}{2 \, \text{g/day
 
 🔢 **Formula**:
 
-${\boxed{\text{Total Drops Available} = \text{Volume Dispensed (mL)} \times \frac{20 \, \text{gtt}}{1 \, \text{mL}}}}$
+![gtt form](./img/days_supply/gtt_form.PNG)
+<!-- ${\boxed{\text{Total Drops Available} = \text{Volume Dispensed (mL)} \times \frac{20 \, \text{gtt}}{1 \, \text{mL}}}}$
 
 ${\boxed{\text{Drops per Diem} = \text{Drops per Dose} \times \text{Doses per Diem}}}$
 
-${\boxed{\text{Days Supply} = \frac{\text{Total Drops Available}}{\text{Drops per Diem}}}}$
+${\boxed{\text{Days Supply} = \frac{\text{Total Drops Available}}{\text{Drops per Diem}}}}$ -->
 
 > 📍 Estimate **20 drops per mL** unless otherwise specified by package insert  
 > 🛡️ Always check if treatment is **unilateral or bilateral**
@@ -283,7 +294,8 @@ ${\boxed{\text{Days Supply} = \frac{\text{Total Drops Available}}{\text{Drops pe
 
 ==> `instill 2 drops in both eyes at night #5mL`
 
-${\boxed{\text{Volume Dispensed} = 5 \, \text{mL}}}$
+![gtt example](./img/days_supply/gtt_ex.PNG)
+<!-- ${\boxed{\text{Volume Dispensed} = 5 \, \text{mL}}}$
 
 ${\boxed{\Rightarrow \text{Drops Dispensed} = 5 \, \text{mL} \times \frac{20 \, \text{gtt}}{1 \, \text{mL}} = 100 \, \text{gtt}}}$
 
@@ -297,7 +309,7 @@ ${\boxed{\text{Doses per Diem} = 1 \, \text{dose/day}}}$
 
 ${\boxed{\Rightarrow \text{Drops per Diem} = \frac{4 \, \text{gtt}}{1 \, \text{dose}} \times \frac{1 \, \text{dose}}{1 \, \text{day}} = \frac{4 \, \text{gtt}}{1 \, \text{day}} = 4 \, \text{gtt/day}}}$
 
-${\boxed{\Rightarrow \text{Days Supply} = \frac{100 \, \text{gtt}}{4 \, \text{gtt/day}} = \frac{100}{1} \times \frac{1 \, \text{day}}{4} = 25 \, \text{days}}}$
+${\boxed{\Rightarrow \text{Days Supply} = \frac{100 \, \text{gtt}}{4 \, \text{gtt/day}} = \frac{100}{1} \times \frac{1 \, \text{day}}{4} = 25 \, \text{days}}}$ -->
 
 ---
 
@@ -315,9 +327,10 @@ ${\boxed{\Rightarrow \text{Days Supply} = \frac{100 \, \text{gtt}}{4 \, \text{gt
 
 🔢 **Formula**:
 
-${\boxed{\text{Vials per Diem} = \text{Vials per Dose} \times \text{Doses per Diem}}}$
+![neb form](./img/days_supply/neb_form.PNG)
+<!-- ${\boxed{\text{Vials per Diem} = \text{Vials per Dose} \times \text{Doses per Diem}}}$
 
-${\boxed{\text{Days Supply} = \frac{\text{Vials Dispensed}}{\text{Vials Per Diem}}}}$
+${\boxed{\text{Days Supply} = \frac{\text{Vials Dispensed}}{\text{Vials Per Diem}}}}$ -->
 
 >- 📍 Each nebulizer vial is unit-dose (e.g., 2.5 mL each)  
 >- 📍 Do **not** assume volume-use fractions; vials are **not** split
@@ -328,11 +341,12 @@ ${\boxed{\text{Days Supply} = \frac{\text{Vials Dispensed}}{\text{Vials Per Diem
 
 ==> `Inhale 1 vial via handheld nebulizer every night`
 
-${\boxed{\text{Vials Dispensed} = 25 \, \text{vials}}}$  
+![neb example](./img/days_supply/neb_ex.PNG)
+<!-- ${\boxed{\text{Vials Dispensed} = 25 \, \text{vials}}}$  
 
 ${\boxed{\text{Vials Per Diem} = 1 \, \text{vial/day}}}$  
 
-${\boxed{\Rightarrow \text{Days Supply} = \frac{25 \, \text{vials}}{1 \, \text{vial/day}} = 25 \, \text{days}}}$
+${\boxed{\Rightarrow \text{Days Supply} = \frac{25 \, \text{vials}}{1 \, \text{vial/day}} = 25 \, \text{days}}}$ -->
 
 > 🚨 Do **not** use total volume (e.g., 2.5 mL × 25 = 62.5 mL) to calculate days supply. Use **vial count** and **dosing frequency** only.
 
@@ -355,9 +369,10 @@ ${\boxed{\Rightarrow \text{Days Supply} = \frac{25 \, \text{vials}}{1 \, \text{v
 
 🔢 **Formula**:
 
-${\boxed{\text{Puffs Per Diem} = {\text{Puffs per Dose} \times \text{Doses per Diem}}}}$
+![mdi formula](./img/days_supply/mdi_form.PNG)
+<!-- ${\boxed{\text{Puffs Per Diem} = {\text{Puffs per Dose} \times \text{Doses per Diem}}}}$
 
-${\boxed{\text{Days Supply} = \frac{\text{Total Metered Doses}}{{\text{Puffs per Dose} \times \text{Doses per Diem}}}}}$
+${\boxed{\text{Days Supply} = \frac{\text{Total Metered Doses}}{{\text{Puffs per Dose} \times \text{Doses per Diem}}}}}$ -->
 
 > 📍 MDI canisters are labeled with **number of actuations (puffs)**
 
@@ -367,7 +382,8 @@ ${\boxed{\text{Days Supply} = \frac{\text{Total Metered Doses}}{{\text{Puffs per
 
 ==> `inhale 3 puffs every 6 hours as needed for shortness of breath #8 grams (200 metered doses)`
 
-${\boxed{\text{Total Metered Doses} = 200 \, \text{p}}}$
+![mdi example](./img/days_supply/mdi_ex.PNG)
+<!-- ${\boxed{\text{Total Metered Doses} = 200 \, \text{p}}}$
 
 ${\boxed{\text{Puffs per Dose} = 3 \, \text{p}}}$
 
@@ -377,7 +393,7 @@ ${\boxed{\Rightarrow \text{Puffs Per Diem} = \frac{3 \, \text{p}}{1 \, \text{dos
 
 ${\boxed{\text{Days Supply} = \frac{200 \, \text{p}}{12 \, \text{p/day}} = \frac{200}{1} \times \frac{1 \, \text{day}}{12} = 16.66 \, \text{days}}}$
 
-${\boxed{\Rightarrow \text{Days Supply} = 16 \, \text{Days (Rounded Down)}}}$
+${\boxed{\Rightarrow \text{Days Supply} = 16 \, \text{Days (Rounded Down)}}}$ -->
 
 ---
 
@@ -394,7 +410,8 @@ ${\boxed{\Rightarrow \text{Days Supply} = 16 \, \text{Days (Rounded Down)}}}$
 
 🔢 **Formula**:
 
-${\boxed{\text{Days Supply} = \text{Total Calendar Days Covered by Instructions}}}$
+![unit dose formula](./img/days_supply/unit_form.PNG)
+<!-- ${\boxed{\text{Days Supply} = \text{Total Calendar Days Covered by Instructions}}}$ -->
 
 >- 🚨 **Do not** calculate based solely on quantity or max daily dose  
 >- 🛡️ Use labeled **day-by-day schedule** if provided  
@@ -410,9 +427,10 @@ ${\boxed{\text{Days Supply} = \text{Total Calendar Days Covered by Instructions}
 **Sig**: `Insert 1 applicatorful vaginally at bedtime for 7 nights #7 prefilled applicators`  
 ==> One dose nightly × 7 nights
 
-${\boxed{\text{Doses per Day} = 1}}$  
+![unit dose example 1](./img/days_supply/unit_ex1.PNG)
+<!-- ${\boxed{\text{Doses per Day} = 1}}$  
 ${\boxed{\text{Total Doses} = 7}}$  
-${\boxed{\text{Days Supply} = 7}}$
+${\boxed{\text{Days Supply} = 7}}$ -->
 
 >- 📌 Applicators are single-use, prefilled  
 >- 🛡️ System-calculated supply based on quantity = 7, but still requires documentation if used **PRN** or **shortened**
@@ -425,9 +443,10 @@ ${\boxed{\text{Days Supply} = 7}}$
 - **21 active tablets** (hormonal)  
 - **7 placebo tablets** (reminder/inert)
 
-${\boxed{\text{Tablets Dispensed} = 28}}$  
+![unit dose example 2](./img/days_supply/unit_ex2.PNG)
+<!-- ${\boxed{\text{Tablets Dispensed} = 28}}$  
 ${\boxed{\text{Tablets per Day} = 1}}$  
-${\boxed{\text{Days Supply} = \frac{28 \, \text{tab}}{1 \, \text{tab/day}} = 28 \, \text{days}}}$
+${\boxed{\text{Days Supply} = \frac{28 \, \text{tab}}{1 \, \text{tab/day}} = 28 \, \text{days}}}$ -->
 
 >- 📌 If dispensing a **3-month supply** (e.g., 84 active + 7 placebos × 3), adjust days supply accordingly  
 >- 🛡️ Ensure consistent labeling between **dispensed quantity** and **cycle length**  
