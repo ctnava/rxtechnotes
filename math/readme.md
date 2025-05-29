@@ -5,7 +5,6 @@ Look at this as more of a quick review resource. It's not comprehensive and does
 🔣 **Legend**
 
 - ✅ Ready for Mobile Viewing
-- 🚧 Minor Presentation Adjustments Needed; Otherwise Complete
 - 📸 Need images since LaTex doesn't render on github mobile.
 - 🚨 Disclaimer: I haven't had a chance to double-check the math. I'm just sort of blowing through it. I'm more worried about covering law & SOPs. I'll come back to this afterwards.
 
@@ -13,7 +12,7 @@ Look at this as more of a quick review resource. It's not comprehensive and does
 |---------|-------|---------------|
 | 1 | [Roman Numeral System](./roman_numerals.md) | ✅ |
 | 2 | [Unit Conversions for Pharmacy Technicians: Household & Metric](./unit_conversions.md) | 📸 |
-| 3 | [Calculating Days Supply](./days_supply.md) | 🚧 |
+| 3 | [Calculating Days Supply](./days_supply.md) | 📸 |
 | 4 | [Dosage Calculations from Medication Labels](./medication_labels.md) | ✅ |
 | 5 | [Verifying DEA Numbers](./dea_numbers.md) | ✅ |
 | 6 | [Calculating Days Supply: Insulin](./insulin_days_supply.md) | 📸 |
