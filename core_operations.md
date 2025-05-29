@@ -159,3 +159,7 @@ Pharmacy technicians play a key role at the final stage of the dispensing proces
 > 🧾 Pickup is a regulated point-of-contact and must be handled with accuracy and professionalism
 
 🔗 [Prescription Handoff SOP](./sop/ringing_up.md)
+
+---
+
+🔙🔗 Back to [**Home Directory**](../readme.md)
