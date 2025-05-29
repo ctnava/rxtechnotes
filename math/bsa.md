@@ -27,18 +27,21 @@ BSA-based dosing is most often used for drugs with a **narrow therapeutic index*
 
 **Mosteller Formula** (commonly used)
 
-${BSA (m^2) = \sqrt{ \frac{\text{Height (cm)} \times \text{Weight (kg)}}{3600} }}$
+![formula](./img/bsa/formula.PNG)
+<!-- ${BSA (m^2) = \sqrt{ \frac{\text{Height (cm)} \times \text{Weight (kg)}}{3600} }}$ -->
 
 Alternate version with inches and pounds:
 
-${BSA (m^2) = \sqrt{ \frac{\text{Height (in)} \times \text{Weight (lb)}}{3131} }}$
+![alternative formula](./img/bsa/formula_alt.PNG)
+<!-- ${BSA (m^2) = \sqrt{ \frac{\text{Height (in)} \times \text{Weight (lb)}}{3131} }}$ -->
 
 📘 Example: **BSA Using Mosteller Formula**
 
 **Height** = 160 cm  
 **Weight** = 60 kg
 
-${BSA = \sqrt{ \frac{160 \times 60}{3600} } = \sqrt{ \frac{9600}{3600} } = \sqrt{2.67} \approx \boxed{1.63\ m^2}}$
+![formula example](./img/bsa/formula_example.PNG)
+<!-- ${BSA = \sqrt{ \frac{160 \times 60}{3600} } = \sqrt{ \frac{9600}{3600} } = \sqrt{2.67} \approx \boxed{1.63\ m^2}}$ -->
 
 **Using a Nomogram** (Theoretical)
 
@@ -55,23 +58,26 @@ A **nomogram** is a visual tool used to estimate BSA by drawing a straight line 
 
 ## 💊 Calculating Drug Dose Based on BSA
 
-${\text{Dose (mg)} = \text{BSA (m²)} \times \text{Dose per m²}}$
+![calculation template](./img/bsa/template.PNG)
+<!-- $\boxed{\text{Dose (mg)} = \text{BSA (m²)} \times \text{Dose per m²}}$ -->
 
 ### 📘 Example 1: Single Dose
 
 **Order**: Doxorubicin 30 mg/m²  
 **Patient BSA**: 1.8 m²
 
-${\text{Dose} = 30 \times 1.8 = \boxed{54\ \text{mg}}}$
+![example 1](./img/bsa/ex1.PNG)
+<!-- ${\text{Dose} = 30 \times 1.8 = \boxed{54\ \text{mg}}}$ -->
 
 ### 📘 Example 2: Total Dose for 5 Days
 
 **Order**: Cyclophosphamide 400 mg/m²/day for 5 days  
 **Patient BSA**: 1.6 m²
 
-${\text{Daily Dose} = 400 \times 1.6 = 640\ \text{mg}}$
+![example 2](./img/bsa/ex2.PNG)
+<!-- ${\text{Daily Dose} = 400 \times 1.6 = 640\ \text{mg}}$
 
-${\Rightarrow \text{Total Dose} = 640 \times 5 = \boxed{3200\ \text{mg}}}$
+${\Rightarrow \text{Total Dose} = 640 \times 5 = \boxed{3200\ \text{mg}}}$ -->
 
 ## 🚨 Tips and Best Practices
 
