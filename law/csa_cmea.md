@@ -45,6 +45,7 @@ It is a *triplicate form* (in traditional paper format), though many pharmacies 
 ### 💼 Prescriber & Pharmacy Responsibilities
 
 - A **valid DEA number** is required on all prescriptions for controlled substances.
+  - 🔗 [Verifying DEA Numbers](../math/dea_numbers.md)
 - Schedule II prescriptions must be written (or e-prescribed where required) and cannot be refilled.
 - Partial fills of C-II prescriptions are allowed if requested by the prescriber or patient:
   - The initial partial fill must occur within 30 days of the issue date.

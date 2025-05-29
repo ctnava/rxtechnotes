@@ -1,5 +1,9 @@
 # 🔐 Verifying DEA Numbers
 
+- 🔙🔗 [DEA Policy](../law/csa_cmea.md#-prescriber--pharmacy-responsibilities)
+
+---
+
 A **DEA number** is a unique identifier issued by the Drug Enforcement Administration (DEA) to entities authorized to **prescribe, dispense, or administer controlled substances** (Schedules II–V). It is assigned when an individual practitioner, pharmacy, hospital/ clinic, or teaching institution files **Form 224** with the DEA.
 
 Pharmacy technicians may assist in DEA number verification as part of controlled substance prescription screening.
