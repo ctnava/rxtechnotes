@@ -33,13 +33,15 @@ Pharmacy Calculations, 6e; Morton Publishing | Chapter 13
 
 ## 🔢 Formulas
 
-${\boxed{\text{Total Units Available} = \text{mL Dispensed} \times \text{Units/mL}}}$
+![formula](./img/insulin_days/formula.PNG)
+<!-- ${\boxed{\text{Total Units Available} = \text{mL Dispensed} \times \text{Units/mL}}}$
 
-${\boxed{\text{Days Supply} = \frac{\text{Total Units Available}}{\text{Units Per Diem}}}}$
+${\boxed{\text{Days Supply} = \frac{\text{Total Units Available}}{\text{Units Per Diem}}}}$ -->
 
 🛑 **BUT**:
 
-${\boxed{\text{Max Days Supply} = \text{Minimum of: Calculated Supply OR Expiration After Opening}}}$
+![caveat](./img/insulin_days/caveat.PNG)
+<!-- ${\boxed{\text{Max Days Supply} = \text{Minimum of: Calculated Supply OR Expiration After Opening}}}$ -->
 
 ---
 
@@ -49,8 +51,9 @@ ${\boxed{\text{Max Days Supply} = \text{Minimum of: Calculated Supply OR Expirat
 - **Sig**: Inject 12 Units SC once daily #1 vial
   - **Total Daily Usage**: 12 U/day  
 
-${\boxed{\text{Total Units in Vial} = 10 \, \text{mL} \times 100 \, \frac{U}{\text{mL}} = 1000 \, U}}$  
-${\boxed{\text{Theoretical Days Supply} = \frac{1000 \, U}{12 \, \frac{U}{\text{day}}} = 83.33 \Rightarrow 83 \, \text{days}}}$
+![example 1](./img/insulin_days/ex1.PNG)
+<!-- ${\boxed{\text{Total Units in Vial} = 10 \, \text{mL} \times 100 \, \frac{U}{\text{mL}} = 1000 \, U}}$  
+${\boxed{\text{Theoretical Days Supply} = \frac{1000 \, U}{12 \, \frac{U}{\text{day}}} = 83.33 \Rightarrow 83 \, \text{days}}}$ -->
 
 🛑 Discard after 28 days once opened
 
@@ -64,8 +67,9 @@ ${\boxed{\text{Theoretical Days Supply} = \frac{1000 \, U}{12 \, \frac{U}{\text{
 - **Sig**: Inject 50 Units SC twice daily = 100 Units/day  
 - **Qty**: 1 vial (10 mL)
 
-${\boxed{\text{Total Units} = 10 \, \text{mL} \times 100 \, \frac{U}{\text{mL}} = 1000 \, U}}$  
-${\boxed{\text{Theoretical Days Supply} = \frac{1000 \, U}{100 \, \frac{U}{\text{day}}} = 10 \, \text{days}}}$
+![example 2](./img/insulin_days/ex2.PNG)
+<!-- ${\boxed{\text{Total Units} = 10 \, \text{mL} \times 100 \, \frac{U}{\text{mL}} = 1000 \, U}}$  
+${\boxed{\text{Theoretical Days Supply} = \frac{1000 \, U}{100 \, \frac{U}{\text{day}}} = 10 \, \text{days}}}$ -->
 
 ✅ **Final Days Supply** = **10 days** *(no discard constraint reached)*
 
@@ -77,8 +81,9 @@ ${\boxed{\text{Theoretical Days Supply} = \frac{1000 \, U}{100 \, \frac{U}{\text
 - **Sig**: Inject 60 Units SC once daily  
   - **Qty**: 3 pens dispensed
 
-${\boxed{\text{Total Units} = 3 \times 450 = 1350 \, U}}$  
-${\boxed{\text{Theoretical Days Supply} = \frac{1350 \, U}{60 \, \frac{U}{\text{day}}} = 22.5 \Rightarrow 22 \, \text{days}}}$
+![example 3](./img/insulin_days/ex3.PNG)
+<!-- ${\boxed{\text{Total Units} = 3 \times 450 = 1350 \, U}}$  
+${\boxed{\text{Theoretical Days Supply} = \frac{1350 \, U}{60 \, \frac{U}{\text{day}}} = 22.5 \Rightarrow 22 \, \text{days}}}$ -->
 
 - ✅ Toujeo pen stable **up to 56 days at room temperature**  
 - ✅ Final Days Supply = **22 days**
