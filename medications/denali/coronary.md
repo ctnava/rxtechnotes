@@ -20,4 +20,4 @@
 | Zocor | **Simva**statin | "-statin" suffix | Statin | High cholesterol | Zocor = simvaSTATIN |
 | Tricor | Fenofibrate | Fibrate | **Fibrate** | High cholesterol | TRI = triglycerides |
 | Lopid | Gemfibrozil | "-fibrate" relative | **Fibrate** | High cholesterol | LOPID = lipids dropped |
-| Zetia | Ezetimibe | Inhibits absorption | Cholesterol absorption inhibitor | High cholesterol | ZETia = Z block absorption |
+| Zetia | Ezetimibe | Inhibits absorption | **Cholesterol absorption inhibitor** | High cholesterol | ZETia = Z block absorption |
