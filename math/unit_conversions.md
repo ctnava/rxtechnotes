@@ -68,6 +68,7 @@ Conversions commonly used in pharmacy can be broken down into **volume** and **w
 | 1 kg                          | 2.2 lbs |
 | 1 lb                          | 0.454 kg |
 | 1 lb                          | 454 g |
+| 1 **gr**                      | 64.8 mg |
 
 > - 📌 Know both household → metric and metric → household conversions.
 > - 📌 Metric conversions are base-10: just move the decimal point.
