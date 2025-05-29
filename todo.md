@@ -4,6 +4,7 @@
 
 - GO THROUGH READING WORKBOOK
 - update gowning SOP to include descriptions of antechamber & clean rooms
+  - port markdown
 - hospital & Community pharmacies
 - Drug Endings (appendix)
 - PAP examples with links (Check CE)
@@ -17,6 +18,7 @@
 - insulin content
 - mention the Poison Prevention Act somewhere
 - link in my essays
+  - port to markdown
 
 ## Week 1: History of Pharmacy
 
