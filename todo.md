@@ -5,18 +5,10 @@
 - GO THROUGH READING WORKBOOK
 - update gowning SOP to include descriptions of antechamber & clean rooms
   - port markdown
-- hospital & Community pharmacies
 - Drug Endings (appendix)
-- PAP examples with links (Check CE)
 - medwatch & VAERS filing SOP (appendix)
-- compounding (sterile & nonsterile)
-- MTM (CE)
-- Common Drugs & Uses CH13
 - pharmacology & Pharmacokinetics
-- safe handling CE
-- grapefruit interactions
 - insulin content
-- mention the Poison Prevention Act somewhere
 - link in my essays
   - port to markdown
 
