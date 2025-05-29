@@ -88,6 +88,8 @@ $\text{Concentration} = \frac{1000\ \text{mg}}{4\ \text{mL}} = \boxed{250\ \text
 
 When a drug is reconstituted, calculate the **volume** needed to give the **desired dose** using the concentration.
 
+🔢 Formula:
+
 ${\boxed{\text{Volume to Give} = \frac{\text{Desired Dose}}{\text{Concentration}}}}$
 
 💧 **Example: Dose Volume Calculation**
