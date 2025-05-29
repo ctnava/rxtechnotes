@@ -30,3 +30,7 @@
 - 📚 Educate patients on proper medication use and side effects
 - 📂 Keep accurate records and update patient profiles
 - 🎓 Engage in continuous training on safety procedures
+
+---
+
+🔙🔗 Back to [**Ethics & Compliance**](../ethics_compliance.md)
