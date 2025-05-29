@@ -6,12 +6,12 @@
 
 | Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
 |------------|--------------|------------------|-------|------------|------------------|
+| Bystolic | Nebivolol | "By STOLling" the heart | Beta-blocker | Hypertension | Slows heart by beta blocking |
+| Coreg | Carvedilol | Core = heart | Beta-blocker | Hypertension | "Core" relates to heart |
+| Inderal | Propranolol | Classic beta-blocker | Beta-blocker | Hypertension | "Inderal" sounds old-school |
 | Lopressor | Metoprolol | "Lo press" = lowers pressure | Beta-blocker | Hypertension | "Low pressure" sounds like Lopressor |
 | Tenormin | Atenolol | "Ten" = slow heart | Beta-blocker | Hypertension | "Tenor" = slows rhythm |
-| Coreg | Carvedilol | Core = heart | Beta-blocker | Hypertension | "Core" relates to heart |
-| Bystolic | Nebivolol | "By STOLling" the heart | Beta-blocker | Hypertension | Slows heart by beta blocking |
 | Trandate | Labetalol | Dual alpha/beta | Beta-blocker | Hypertension | "Tran-date" = transition of pressure |
-| Inderal | Propranolol | Classic beta-blocker | Beta-blocker | Hypertension | "Inderal" sounds old-school |
 | Zebeta | Bisoprolol | "Zebra beta" | Beta-blocker | Hypertension | Z = beta-blocker memory |
 
 ### 💢 ACE Inhibitors

@@ -40,20 +40,6 @@ levemir, insulin detemir, insulin - antidiabetic
 tresiba, insulin degludec, insulin (long acting)
 humalog, insulin lispro, insulin (short acting)
 
-## Cardiovascular
-
-### Antihypertensives
-
-#### Antihypertensives & Diuretics
-
-lopressor, metoprolol, antihypertensive
-tenormin, atenolol, antihypertensive
-coreg, carvedilol, antihypertensive
-bystolic, nebivolol, antihypertensive
-trandate, labetalol, antihypertensive
-inderal, propanolol, antihypertensive
-zebeta, bisoprolol, antihypertensive
-
 ## Pain Management
 
 ### Migraine Relief
