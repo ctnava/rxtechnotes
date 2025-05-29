@@ -1,14 +1,41 @@
-# 💉 Powder Drug Volume and Reconstitution Calculations
+# 💉 Powder Drug Volume & Reconstitution Calculations
 
-## 🔎 Why Are Some Medications Supplied as Powders?
+<!-- 
+## Reference
 
-📍 Many parenteral drugs are unstable in liquid form and degrade quickly. These medications are supplied as **powdered solids** to ensure stability and shelf life.
+Pharmacy Calculations, 6e; Morton Publishing | Chapter 24
+-->
 
-Common reasons:
+## 🔎 What is Reconstitution?
 
-- 🚨 **Short stability** in solution
-- ☣️ **Light or temperature sensitivity**
-- 🛡️ Preservative-free formulas for sensitive use (e.g. spinal, neonatal)
+🧪 **Reconstitution** refers to the process of adding a specific diluent (liquid) to a powdered drug in order to create a usable liquid solution or suspension for administration. This is a **critical skill** in both sterile and non-sterile compounding.
+
+## 🔑 Why Are Drugs Supplied as Powders?
+
+Many injectable or biologically sensitive medications are unstable in liquid form and can degrade quickly after mixing. Supplying these medications as powders:
+
+- 🛡️ Improves **shelf life** and **stability**
+- ☣️ Reduces **degradation** from light, temperature, or moisture
+- 🚨 Avoids need for preservatives in sensitive formulations
+- 🧪 Allows for **precise concentration control** at time of use
+
+📦 **Common Examples**
+
+| Drug | Reason for Powder Form |
+|------|------------------------|
+| 💉 **Cefazolin** | Unstable in solution; short shelf life |
+| 🧬 **Biologics (e.g. monoclonal antibodies)** | Protein structure sensitive to agitation or heat |
+| 💊 **Chemotherapy agents** | Hazardous in liquid form; requires controlled handling |
+
+## 📘 Definitions
+
+| Term | Definition |
+|------|------------|
+| **Powdered Drug** | A solid form of a medication supplied in a vial or container. Not ready for use until reconstituted. |
+| **Reconstitution** | The process of dissolving a powder into an appropriate diluent to create a liquid medication. |
+| **Diluent** | The liquid (e.g. Sterile Water for Injection, Normal Saline) used to dissolve the powdered drug. |
+| **Final Volume** | The total volume of solution after the powder has been fully dissolved in the diluent. |
+| **Powder Volume** | The difference between the final volume and the amount of diluent added; represents the volume occupied by the drug itself. |
 
 ## 📘 Sources for Reconstitution Instructions
 
@@ -23,11 +50,7 @@ Common reasons:
 - Diluent volume to add (e.g. "Add 2.5 mL Sterile Water")
 - Final volume after reconstitution (e.g. 3.5 mL)
 
-## 🔑 Key Concepts
-
-- **Powder volume**: Volume occupied by the drug after reconstitution.
-- **Diluent volume**: Volume of liquid added to dissolve the powder.
-- **Final volume**: Total volume of solution after drug has dissolved.
+## 📘 Calculations
 
 🔢 Formula:
 
@@ -75,10 +98,6 @@ $\text{Volume} = \frac{500\ \text{mg}}{250\ \text{mg/mL}} = \boxed{2\ \text{mL}}
 - 🛡️ **Label vial** with date/time of reconstitution and initials.
 - 📍 Concentration may vary depending on **volume of diluent added**—follow exact instructions.
 
+---
+
 🔗 Back to [**Mathematics Concepts Directory**](./readme.md)
-
-<!-- 
-## Reference
-
-Pharmacy Calculations, 6e; Morton Publishing | Chapter 24
--->
