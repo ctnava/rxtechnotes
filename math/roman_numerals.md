@@ -1,20 +1,55 @@
 # Roman Numeral System
 
-Roman numerals are a non-positional numeral system originating from ancient Rome. They are still used today in certain contexts, such as on clocks, outlines, monarch names, and some medical or pharmaceutical labels (e.g. cranial nerves, Schedule classes).
+<!-- 
+## Reference
 
-## 🔑 Basic Roman Numerals
+Pharmacy Calculations, 6e; Morton Publishing | Chapter 1
+-->
 
-| Symbol | Value |
-|--------|-------|
-| I      | 1     |
-| V      | 5     |
-| X      | 10    |
-| L      | 50    |
-| C      | 100   |
-| D      | 500   |
-| M      | 1000  |
+In pharmacy calculations, two primary numeral systems may appear: **Arabic numerals** and **Roman numerals**. Understanding both is essential for interpreting medication labels, documentation, schedules, and historical references in medical texts.
 
-## 🧮 Combining Symbols
+## 🔑 Definitions
+
+- **Numeral**: A written symbol that represents a number.
+- **Arabic numerals**: The standard, **base-10 positional** number system used in most of the world today.
+- **Roman numerals**: A **non-positional** numeral system developed in ancient Rome, still used in specialized contexts.
+
+## 1️⃣ Arabic Numerals
+
+Arabic numerals are what we use every day in pharmacy and general arithmetic:
+
+`0, 1, 2, 3, 4, 5, 6, 7, 8, 9`
+
+### 🔗 Key Characteristics
+
+- **Positional**: The value of a digit depends on its position (e.g., 3 in 300 = three hundreds).
+- **Base-10**: Each digit represents a power of ten.
+- **Widely used** in all pharmacy math, dosage calculations, and labeling.
+
+## 2️⃣ Roman Numerals
+
+Roman numerals use letters from the Latin alphabet to represent values:
+
+| Roman | Arabic |
+|--------|--------|
+| I      | 1      |
+| V      | 5      |
+| X      | 10     |
+| L      | 50     |
+| C      | 100    |
+| D      | 500    |
+| M      | 1000   |
+
+Roman numerals appear in:
+
+- Cranial nerve designations (e.g., **CN VII** = Facial Nerve)
+- Controlled substance schedules (e.g., **Schedule II**)
+- Medical outlines, monarch names (e.g., **Henry VIII**)
+- Clocks and numbering systems in formal documents
+
+> 🛡️ Roman numerals may still appear on **older prescription labels**, **institutional records**, and **package inserts**, especially for controlled substances.
+
+### 🧮 Combining Symbols
 
 Roman numerals are typically formed by combining symbols **left to right**, adding or subtracting values based on position:
 
@@ -26,7 +61,7 @@ Roman numerals are typically formed by combining symbols **left to right**, addi
 > - 🚨 Only powers of ten (I, X, C) and V can be used to subtract.
 > - 🚨 No symbol can be repeated more than **three times** in a row.
 
-## 🔁 Converting Roman to Arabic (Integer)
+### 🔁 Converting Roman to Arabic (Integer)
 
 To convert a Roman numeral into Arabic (standard number form):
 
@@ -35,7 +70,7 @@ To convert a Roman numeral into Arabic (standard number form):
    - If the current symbol is **smaller**, subtract it.
    - If the current symbol is **equal or larger**, add it.
 
-### Example: `MCMXCIV`
+#### Example: `MCMXCIV`
 
 Breakdown:
 
@@ -49,14 +84,14 @@ Breakdown:
 
 Total: 1000 - 100 + 1000 - 10 + 100 - 1 + 5 = **1994**
 
-## 🔁 Converting Arabic (Integer) to Roman
+### 🔁 Converting Arabic (Integer) to Roman
 
 To convert an Arabic number into a Roman numeral:
 
 1. Start with the **largest possible Roman value** and work down.
 2. Subtract as you go and append the symbol(s).
 
-### Conversion Table (for constructing Roman numerals)
+#### Conversion Table (for constructing Roman numerals)
 
 | Value | Symbol |
 |--------|--------|
@@ -74,7 +109,7 @@ To convert an Arabic number into a Roman numeral:
 | 4     | IV     |
 | 1     | I      |
 
-### Example: `944`
+#### Example: `944`
 
 Start from highest value that fits:
 
@@ -84,16 +119,12 @@ Start from highest value that fits:
 
 Final Roman numeral: **CMXLIV**
 
-## ✅ Tips and Reminders
+### ✅ Tips and Reminders
 
 - Repeat only **I, X, C, M**, and only up to **3 times**.
 - Never subtract more than one order of magnitude (e.g., `IC` for 99 is invalid; use `XCIX`).
 - Roman numerals are case-insensitive but typically written **in uppercase**.
 
+---
+
 🔗 Back to [**Mathematics Concepts Directory**](./readme.md)
-
-<!-- 
-## Reference
-
-Pharmacy Calculations, 6e; Morton Publishing | Chapter 1
--->
