@@ -321,7 +321,8 @@ Community compounding pharmacies, also referred to as **hybrid pharmacies**, pro
 
 - Bioidentical hormone replacement therapy (BHRT)
 - Dermatologicals (creams, gels, ointments)
-- Iontophoresis or sonophoresis agents
+- **Iontophoresis** agents: uses a mild electrical current to deliver medications or other substances through the skin
+- **Sonophoresis** agents: utilizes ultrasound to enhance the delivery of topical medications through the skin
 - Ophthalmic preparations (eye drops, ointments)
 - Transdermal gels and patches
 - Topical pain management creams
