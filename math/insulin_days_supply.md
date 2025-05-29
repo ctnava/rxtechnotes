@@ -138,19 +138,21 @@ ${\boxed{5 \, \text{pens} \times 10 \, \text{days per pen} = 50 \, \text{days}}}
 - **Sig**: Inject 12 Units subcutaneously once daily  
   - **Total Daily Usage**: 12 U/Day
 
-${\boxed{10 \, \text{mL} \times 100 \, \frac{\text{U}}{\text{mL}} = 1000 \, \text{U per vial}}}$
+![example 5 part 1](./img/insulin_days/ex5_1.PNG)
+<!-- ${\boxed{10 \, \text{mL} \times 100 \, \frac{\text{U}}{\text{mL}} = 1000 \, \text{U per vial}}}$
 
-${\boxed{\frac{1000 \, \text{U}}{12 \, \frac{\text{U}}{\text{day}}} \approx 83.33 \, \text{days}}}$
+${\boxed{\frac{1000 \, \text{U}}{12 \, \frac{\text{U}}{\text{day}}} \approx 83.33 \, \text{days}}}$ -->
 
 🚨 **BUT**: Insulin vials must be **discarded 28 days after opening**.
 
 🛡️ This means **only 28 days of insulin can be used per vial**, regardless of remaining volume.
 
-${\boxed{12 \, \frac{\text{U}}{\text{day}} \times 28 \, \text{days} = 336 \, \text{U used per vial}}}$  
+![example 5 part 2](./img/insulin_days/ex5_2.PNG)
+<!-- ${\boxed{12 \, \frac{\text{U}}{\text{day}} \times 28 \, \text{days} = 336 \, \text{U used per vial}}}$  
 
 ${\boxed{1000 - 336 = 664 \, \text{U wasted per vial}}}$
 
-${\boxed{28 \, \text{days per vial} \times 2 \, \text{vials} = 56 \, \text{days}}}$
+${\boxed{28 \, \text{days per vial} \times 2 \, \text{vials} = 56 \, \text{days}}}$ -->
 
 📍 Even though each vial contains enough insulin for ~83 days, you can **only bill 28 days per vial** if used sequentially.
 
