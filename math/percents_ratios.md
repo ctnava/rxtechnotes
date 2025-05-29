@@ -1,17 +1,24 @@
 # Ratios & Percents in Pharmacy
 
+<!-- 
+## Reference
+
+Pharmacy Calculations, 6e; Morton Publishing | Chapter 25 & 26
+-->
+
 ## 💯 Percent Strength of Solutions
 
-**Percent strength** is a common way to express the concentration of a solution in pharmacy. Understanding how to calculate, interpret, and manipulate percentages is essential for compounding, dilutions, and preparing medications accurately.
+In pharmacy, concentration is often expressed using percent strength. This format communicates how much solute is present in a given volume or weight of solution. Understanding percent strength is essential for preparing, diluting, and interpreting compounded medications.
 
-| Term | Definition |
-|------|------------|
-| **Percent Strength (% w/v)** | Number of grams of solute in 100 mL of solution. Most common in pharmacy. |
-| **% w/v** | Weight in volume (grams per 100 mL) - used for solids dissolved in liquids. |
-| **% v/v** | Volume in volume (mL per 100 mL) - used for liquids in liquids. |
-| **% w/w** | Weight in weight (grams per 100 g) - used for ointments or creams. |
+The **solute** is the active ingredient or substance being dissolved. It is typically measured in grams or milliliters depending on its form. The **solvent** is the liquid vehicle in which the solute is dissolved, often water, alcohol, or another compatible liquid base. Together, the solute and solvent make up the **solution**.
 
-> 🚨 Unless otherwise specified, % strength refers to % w/v in pharmacy practice.
+**Percent strength** indicates the amount of solute in 100 parts of solution and is expressed using three common formats:
+
+- **% w/v (weight/volume):** grams of solute per 100 mL of solution. This is the most common format for solutions of solids in liquids.
+- **% v/v (volume/volume):** milliliters of solute per 100 mL of solution. This is used for liquid-in-liquid solutions.
+- **% w/w (weight/weight):** grams of solute per 100 grams of total product. This format is typically used for creams, ointments, and other semisolids.
+
+> 🚨 By convention, if a percent strength is listed without specifying the format, it is assumed to be **% w/v**.
 
 ### 🧪 Example 1: Determine Percent Strength from Ingredients and Volume
 
@@ -61,7 +68,17 @@ Question: How much of a 25% stock solution is required to prepare 200 mL of a 5%
 
 ## ⚖️ Ratios and Proportions for Parenteral Solutions
 
-In pharmacy, **ratio strength** expresses the concentration of a solution in the form “1 in x” (1:x). This means **1 part solute per x parts total solution** — typically **grams per milliliters (g/mL)** for liquid solutions.
+In pharmacy calculations, a **ratio** is another way of expressing concentration or proportional relationships between components of a mixture or solution. A **ratio strength** uses the format **1:x**, which means **1 part solute per x parts total solution**. These values are usually interpreted as grams per milliliters (g/mL) unless another unit is specified.
+
+The **first term of the ratio** always represents the quantity of solute. The **second term** represents the total quantity of solution, not just the solvent. For example, a 1:1000 ratio means there is 1 gram of solute dissolved in 1000 mL of solution.
+
+Ratios can be converted to percent strength by dividing the solute by the solution volume and multiplying by 100. For example:
+
+${1:1000 = \frac{1\, \text{g}}{1000\, \text{mL}} = 0.1\%}$
+
+This system is frequently used for medications that require very small amounts of drug, such as epinephrine or ophthalmic solutions. Ratio strengths are also useful in preparing dilutions and performing inverse calculations when reducing or concentrating a formulation.
+
+Understanding how to move between percent strength and ratio strength, and knowing which units apply, is a foundational skill in pharmacy practice.
 
 ### 📌 General Rules
 
@@ -152,10 +169,6 @@ Medication Order:
 | 3: Set up dose equation | ${\frac{0.1\ \text{mg}}{1\ \text{mg/mL}} = 0.1\ \text{mL}}$ |
 | ✅ Final Answer | Draw up **0.1 mL** of 1:1000 solution and add to **50 mL** of NS. |
 
+---
+
 🔗 Back to [**Mathematics Concepts Directory**](./readme.md)
-
-<!-- 
-## Reference
-
-Pharmacy Calculations, 6e; Morton Publishing | Chapter 25 & 26
--->
