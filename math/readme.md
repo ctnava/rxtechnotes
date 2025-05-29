@@ -22,7 +22,7 @@
 | 8 | [Parenteral Doses Using Ratio & Proportion Calculations](./parenteral_ratios.md) | ✅ |
 | 9 | [Powder Drug Volume & Reconstitution Calculations](./powder_volume.md) | 📸 |
 | 10 | [Ratios & Percents in Pharmacy](./percents_ratios.md) | 📸 |
-| 11 | [Dosage Calculations Based on Body Weight & Age](./body_weight_calculations.md) | 📸 |
+| 11 | [Dosage Calculations Based on Body Weight & Age](./body_weight_calculations.md) | ✅ |
 | 12 | [Temperature Scale, Density, & Specific Gravity Conversions](./temperature_scale_conversions.md) | 📸 |
 | 13 | [Dosage Calculations Based on Body Surface Area](./bsa.md) | 📸 |
 | 14 | [Infusion and Drip Rate Calculations](./flow_drip_rate.md) | 📸 |
