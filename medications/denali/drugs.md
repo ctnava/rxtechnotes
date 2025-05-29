@@ -89,30 +89,3 @@ bentyl, dicyclomine, antispasmodic (intestinal)
 ### Misc GI
 
 adipex, phentermine, appetite suppressant (c-iv)
-
-## Respiratory & Allergy
-
-### Allergy Relief
-
-xyzal, levocetirizine, antihistamine
-vistaril, hydroxyzine, antihistamine
-zyrtec, cetirizine, antihistamine (h1)
-nasacort, triamcinolone, anti-inflammatory steroid
-flonase, fluticasone, anti-inflammatory steroid
-sterapred, prednisone, anti-inflammatory steroid
-medrol, methylprednisone, anti-inflammatory steroid
-
-### Breathing
-
-proair/ ventolin/ proventil, albuterol, bronchodilator
-combivent, albuterol + ipratopium, bronchodilator/ anti-mucus
-spiriva, tiotropium, reduces mucus secretion/ bronchodilator
-advair, fluticasone + salmeterol, steroid + bronchodilator
-singulair, montelukast, anti-asthmatic
-sterapred, prednisone, anti-inflammatory steroid
-medrol, methylprednisone, anti-inflammatory steroid
-
-### Misc Respiratory
-
-tessalon perles, benzonatate, cough suppressant
-robitussin, guaifenesin, anti-mucus (expectorant)

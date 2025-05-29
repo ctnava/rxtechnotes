@@ -1,14 +1,16 @@
 # 🌬️ Respiratory & 🤧 Allergy
 
-### Allergy Relief
+## 🤧 Allergy Relief
 
-xyzal, levocetirizine, antihistamine
-vistaril, hydroxyzine, antihistamine
-zyrtec, cetirizine, antihistamine (h1)
-nasacort, triamcinolone, anti-inflammatory steroid
-flonase, fluticasone, anti-inflammatory steroid
-sterapred, prednisone, anti-inflammatory steroid
-medrol, methylprednisone, anti-inflammatory steroid
+| Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
+|------------|--------------|------------------|-------|------------|------------------|
+| Vistaril | Hydroxyzine | "Vis-taril = visibility restored" | **Antihistamine (H1)** | Allergies, anxiety, itching | "Hydroxyzine" = hydrated relief |
+| Xyzal | Levocetirizine | "XYZ = end of allergies" | **Antihistamine (H1)** | Allergies | End the allergy alphabet with XYZal |
+| Zyrtec | Cetirizine | "Zyr rhymes with clear" | **Antihistamine (H1)** | Allergies | Zyrtec = clear up allergies |
+| Flonase | Fluticasone | "Flow through nose" | **Corticosteroid** | Nasal allergies | Flo = flowy nasal relief |
+| Sterapred | Prednisone | "Steroid + pred" | **Corticosteroid** | Allergies, inflammation | Stera = steroid, pred = prednisone |
+| Medrol | Methylprednisolone | "Med = medicine, rol = roll away inflammation" | **Corticosteroid** | Allergies, inflammation | Methyl = modified prednisone |
+| Nasacort | Triamcinolone | "Nasal corticosteroid" | **Corticosteroid** | Nasal inflammation | Nasal + cort = Nasacort |
 
 ## 🌬️ Asthma / COPD
 
