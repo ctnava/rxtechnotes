@@ -19,7 +19,7 @@
 | 5 | [Dosage Calculations from Medication Labels](./medication_labels.md) | ✅ |
 | 6 | [Verifying DEA Numbers](./dea_numbers.md) | ✅ |
 | 7 | [Calculating Days Supply: Insulin](./insulin_days_supply.md) | 📸 |
-| 8 | [Parenteral Doses Using Ratio & Proportion Calculations](./parenteral_ratios.md) | 📸 |
+| 8 | [Parenteral Doses Using Ratio & Proportion Calculations](./parenteral_ratios.md) | ✅ |
 | 9 | [Powder Drug Volume & Reconstitution Calculations](./powder_volume.md) | 📸 |
 | 10 | [Ratios & Percents in Pharmacy](./percents_ratios.md) | 📸 |
 | 11 | [Dosage Calculations Based on Body Weight & Age](./body_weight_calculations.md) | 📸 |
