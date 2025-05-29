@@ -1,6 +1,6 @@
 # Denali Top 200
 
-## Psychiatric
+## Psychiatric & Neurological
 
 ### Sleep Aids
 
@@ -45,7 +45,7 @@ lexapro, escitalopram, antidepressant (ssri)
 prozac, fluoxetine, antidepressant (ssri)
 paxil, paroxetine, antidepressant (ssri)
 
-#### Anxiety Agents
+### Anxiety Agents
 
 xanax, alprazolam, antianxiety (C-IV)
 ativan, lorazepam, antianxiety (c-iv)
@@ -53,7 +53,7 @@ klonopin, clonazepam, antianxiety (c-iv)
 valium, diazepam, antianxiety (c-iv)
 buspar, buspirone, antianxiety
 
-## Hormones, Controllers, & Conditions
+## Hormones, Controllers, & Related Conditions
 
 ### Reproductive
 
@@ -210,6 +210,21 @@ zanaflex, tizanidine, muscle relaxer
 lioresal, baclofen, muscle relaxer
 soma, carisoprodol, muscle relaxer (C-IV)
 
+### Arthritis & Inflammation
+
+#### Steroids
+
+temovate, clobetasol, anti-inflammatory steroid
+sterapred, prednisone, anti-inflammatory steroid
+medrol, methylprednisone, anti-inflammatory steroid
+
+#### Rheumatic Disease
+
+rheumatrex, methotrexate, antirheumatic
+zyloprim, allopurinol, antigout
+plaquenil, hydroxychloroquine, arthritis/ lupus
+humira, adalimumab, immunosuppressive (arthritis + cohns + ulcerative colitis)
+
 ## Gastro Intestinal
 
 ### GERD Treatments
@@ -231,6 +246,37 @@ zofran, odansetron, anti-nausea
 reglan, metoclopramide, GI motility stimulant
 glycolax, polyethylene glycol, laxative
 bentyl, dicyclomine, antispasmodic (intestinal)
+
+### Misc GI
+
+adipex, phentermine, appetite suppressant (c-iv)
+
+## Respiratory & Allergy
+
+## Allergy Relief
+
+xyzal, levocetirizine, antihistamine
+vistaril, hydroxyzine, antihistamine
+zyrtec, cetirizine, antihistamine (h1)
+nasacort, triamcinolone, anti-inflammatory steroid
+flonase, fluticasone, anti-inflammatory steroid
+sterapred, prednisone, anti-inflammatory steroid
+medrol, methylprednisone, anti-inflammatory steroid
+
+### Breathing
+
+proair/ ventolin/ proventil, albuterol, bronchodilator
+combivent, albuterol + ipratopium, bronchodilator/ anti-mucus
+spiriva, tiotropium, reduces mucus secretion/ bronchodilator
+advair, fluticasone + salmeterol, steroid + bronchodilator
+singulair, montelukast, anti-asthmatic
+sterapred, prednisone, anti-inflammatory steroid
+medrol, methylprednisone, anti-inflammatory steroid
+
+### Misc Respiratory
+
+tessalon perles, benzonatate, cough suppressant
+robitussin, guaifenesin, anti-mucus (expectorant)
 
 ## Anti Infectives
 
@@ -288,3 +334,33 @@ ditropan, oxybutynin, overactive bladder
 
 detrol, tolterodine, urinary antispasmodic
 pyridium, phenazopyridine, analgesic (urinary)
+
+## Misc
+
+### Parkinsons
+
+requip, ropinirole, anti-Parkinsons
+cogentin, benztropine, anti-Parkinsons
+mirapex, pramipexole, anti-tremor (Parkinsons Disease)
+
+### Alzheimers
+
+aricept, donepezil, anti-alzheimers
+namenda, memantine, anti-alzheimers
+
+### Acetylcholine
+
+chantix, varenicline, smoking cessation
+
+### Vertigo
+
+antivert, meclizine, antivertigo
+
+### ENT
+
+xalatan, latanoprost, antiglaucoma
+
+### Supplements
+
+klor-chon, potassium chloride, electrolyte
+folvite, folic acid, mineral supplement
