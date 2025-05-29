@@ -62,12 +62,14 @@ Many injectable or biologically sensitive medications are unstable in liquid for
 
 🔢 Formula:
 
-${\boxed{\text{Powder Volume} = \text{Final Volume} - \text{Diluent Volume}}}$
+![powder volume = final volume - diluent volume](./img/powder_volume/formula1.PNG)
+<!-- ${\boxed{\text{Powder Volume} = \text{Final Volume} - \text{Diluent Volume}}}$ -->
 
 💧 **Example: Calculate Powder Volume**
 
 **Label**: Add 9.5 mL diluent to 1 g of cefazolin. Final volume: 10 mL.
 
+![PV = 10 - 9.5 = 0.5](./img/powder_volume/example1.PNG)
 $\text{Powder Volume} = 10\ \text{mL} - 9.5\ \text{mL} = \boxed{0.5\ \text{mL}}$
 
 ## 📘 Calculating Concentration After Reconstitution
@@ -76,13 +78,15 @@ Concentration is typically expressed as **amount per 1 mL**.
 
 🔢 Formula:
 
-${\boxed{\text{Concentration} = \frac{\text{Amount of Drug}}{\text{Final Volume}}}}$
+![concentration = amount of drug / final volume](./img/powder_volume/formula2.PNG)
+<!-- ${\boxed{\text{Concentration} = \frac{\text{Amount of Drug}}{\text{Final Volume}}}}$ -->
 
 💧 **Example: Calculate concentration**
 
 **Label**: 1 g cefazolin reconstituted to total volume of 4 mL.
 
-$\text{Concentration} = \frac{1000\ \text{mg}}{4\ \text{mL}} = \boxed{250\ \text{mg/mL}}$
+![concentration = 1000 mg / 4 mL = 250 mg/mL](./img/powder_volume/example2.PNG)
+<!-- $\text{Concentration} = \frac{1000\ \text{mg}}{4\ \text{mL}} = \boxed{250\ \text{mg/mL}}$ -->
 
 ## 📘 Calculating Volume to Deliver Specific Dose
 
@@ -90,13 +94,15 @@ When a drug is reconstituted, calculate the **volume** needed to give the **desi
 
 🔢 Formula:
 
-${\boxed{\text{Volume to Give} = \frac{\text{Desired Dose}}{\text{Concentration}}}}$
+![volume to give = desired dose / concentration](./img/powder_volume/formula3.PNG)
+<!-- ${\boxed{\text{Volume to Give} = \frac{\text{Desired Dose}}{\text{Concentration}}}}$ -->
 
 💧 **Example: Dose Volume Calculation**
 
 **Order**: Give 500 mg of cefazolin. Concentration = 250 mg/mL.
 
-$\text{Volume} = \frac{500\ \text{mg}}{250\ \text{mg/mL}} = \boxed{2\ \text{mL}}$
+![500 mg / 250 mg/mL = 2 mL](./img/powder_volume/example3.PNG)
+<!-- $\text{Volume} = \frac{500\ \text{mg}}{250\ \text{mg/mL}} = \boxed{2\ \text{mL}}$ -->
 
 ---
 
