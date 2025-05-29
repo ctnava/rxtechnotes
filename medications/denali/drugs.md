@@ -1,0 +1,290 @@
+# Denali Top 200
+
+## Psychiatric
+
+### Sleep Aids
+
+ambien, zolpidem, sleep aid (C-IV)
+restoril, temazepam, sleep aid (c-iv)
+catapres, clonidine, antihypertensive/ sleep aid
+
+### ADHD
+
+strattera, atomoxetine, adhd
+focalin, dexmethylphenidate, adhd (C-II)
+concerta, methylphenidate, adhd (c-ii)
+adderall, amphetamine + dextroamphetamine, adhd (c-ii)
+vyvanse, lisdexamfetamine, adhd (c-ii)
+
+### Antidepressants
+
+desyrel, trazodone, antidepressant
+elavil, amitriptyline, antidepressant
+remeron, mirtazapine, antidepressant
+wellbutrin, buproprion, antidepressant
+pamelor, nortryptyline, antidepressant
+
+### Antipsychotics
+
+seroquel, quetiapine, antipsychotic
+abilify, aripiprazole, antipsychotic
+risperdal, risperidone, antipsychotic
+zyprexa, olanzapine, antipsychotic
+
+#### SNRIs
+
+cymbalta, duloxetine, antidepressant
+effexor, venlafaxine, antidepressant
+pristiq, desvenlafaxine, antidepressant
+
+#### SSRIs
+
+zoloft, sertraline, antidepressant (SSRI)
+celexa, citalopram, antidepressant (ssri)
+lexapro, escitalopram, antidepressant (ssri)
+prozac, fluoxetine, antidepressant (ssri)
+paxil, paroxetine, antidepressant (ssri)
+
+#### Anxiety Agents
+
+xanax, alprazolam, antianxiety (C-IV)
+ativan, lorazepam, antianxiety (c-iv)
+klonopin, clonazepam, antianxiety (c-iv)
+valium, diazepam, antianxiety (c-iv)
+buspar, buspirone, antianxiety
+
+## Hormones, Controllers, & Conditions
+
+### Reproductive
+
+yaz, ethinyl estradiol + drospirenone, birth control
+ortho tri cyclen, ethinyl estradiol + norgestimate, birth control
+
+### Menopause & Osteoporosis
+
+evista, raloxifene, estrogen modulator
+fosamax, alendronate, bone strengthener
+boniva, ibandronate, bone strengthener
+actonel, risedronate, bone strengthener
+
+### Thyroid
+
+tapazole, methimazole, anti thyroid hormone
+synthroid, levothyroxine, thyroid hormone replacement
+levoxyl, levothyroxine, thyroid hormone replacement therapy
+
+### Antidiabetics
+
+glucophage, metformin, antidiabetic
+actos, pioglitazone, antidiabetic
+amaryl, glimepiride, antidiabetic
+glucotrol, glipizide, antidiabetic
+januvia, sitagliptin, antidiabetic
+jardiance, empagliflozin, antidiabetic
+trulicity, dulaglutide, antidiabetic (increases insulin secretion from pancreas)
+victoza, liraglutide, antidiabetic (increases insulin secretion from pancreas)
+janumet, metformin + sitagliptin, antidiabetic combo
+
+### Insulins
+
+lantus, insulin glargine, insulin
+novolog, insulin aspart, insulin
+levemir, insulin detemir, insulin - antidiabetic
+tresiba, insulin degludec, insulin (long acting)
+humalog, insulin lispro, insulin (short acting)
+
+## Cardiovascular
+
+### Antihypertensives
+
+#### Antihypertensives & Diuretics
+
+lopressor, metoprolol, antihypertensive
+norvasc, amlodipine, antihypertensive
+prinivil/ zestril, lisinopril, antihypertensive
+tenormin, atenolol, antihypertensive
+coreg, carvedilol, antihypertensive
+diovan, valsartan, antihypertensive
+minipress, prazosin, antihypertensive
+bystolic, nebivolol, antihypertensive
+edarbi, azilsartan, antihypertensive
+vasotech, enalapril, antihypertensive
+altace, ramipril, antihypertensive
+cozaar, losartan, antihypertensive
+trandate, labetalol, antihypertensive
+lotensin, benazepril, antihypertensive
+cardizem, diltiazem, antihypertensive
+inderal, propanolol, antihypertensive
+accupril, quinapril, antihypertensive
+avapro, irbesartan, antihypertensive
+hytrin, terazosin, antihypertensive
+tenex, guanfacine, antihypertensive
+zebeta, bisoprolol, antihypertensive
+apresoline, hydralazine, antihypertensive
+dyazide, triamterene + hctz, antihypertensive (2 diuretics)
+benicar, olmesartan, antihypertensive (ARB)
+zestoretic, lisinopril + hctz, antihypertensive diuretic combo
+hyzaar, losartan + HCTZ, antihypertensive diuretic combo
+avalide, irbesartan + hctz, antihypertensive diuretic combo
+catapres, clonidine, antihypertensive/ sleep aid
+lasix, furosemide, diuretic/ antihypertensive
+microzide, hydrochlorothiazide (hctz), diuretic/ antihypertensive
+dyrenium, triamterene, diuretic/ antihypertensive
+aldactone, spironolactone, diuretic/ antihypertensive
+
+#### Cholesterol Control
+
+lipitor, atorvastatin, cholesterol lowering
+zocor, simvastatin, cholesterol lowering
+pravachol, pravastatin, cholesterol lowering
+crestor, rosuvastatin, cholesterol lowering
+mevacor, lovastatin, cholesterol lowering
+tricor, fenofibrate, cholesterol lowering
+zetia, ezetimibe, cholesterol lowering
+lopid, gemfibrozil, cholesterol lowering
+
+#### Angina
+
+nitrostat, nitroglycerine, anti-angina
+imdur, isosorbide mononitrate, anti-angina (chest pain)
+
+#### Arrhythmia
+
+verelan, verapamil, anti-arrhythmia
+procardia, nifedipine, anti-arrhythmia
+lanoxin, digoxin, treats heart failure/ arrhythmia
+
+#### Stroke Mitigation
+
+coumadin, warfarin, anticlotting
+plavix, clopidogrel, anticlotting
+xarelto, rivaroxaban, anticoagulant
+eliquis, apixaban, anticoagulant
+
+## Pain Management
+
+### Migraine Relief
+
+fioricet, butalbital + apap + caffeine, antimigraine
+imitrex, sumatriptan, antimigraine
+
+### Opioid Recovery
+
+suboxone, buprenorphine, Opiod Recovery (C-III)
+
+### Analgesics
+
+percocet, oxycodone + APAP, analgesic (C-II)
+vicodine/ lortab, hydrocodone + APAP, analgesic (C-II)
+oxycontin, oxycodone, analgesic (C-II)
+tylenol 3, codeine + apap, analgesic (C-II)
+duragesic, fentanyl transdermal patch, analgesic (c-ii)
+ultram, tramadol, analgesic (c-iv)
+advil, ibuprofen, analgesic (nsaid)
+aleve, naproxen, analgesic (nsaid)
+mobic, meloxicam, analgesic (nsaid)
+celebrex, celecoxib, analgesic (nsaid)
+cataflam, diclofenac, analgesic (nsaid)
+relafen, nabumetone, analgesic (nsaid)
+pyridium, phenazopyridine, analgesic (urinary)
+
+### Anticonvulsants
+
+neurontin, gabapentin, anticonvulsant
+lamictal, lamotrigine, anticonvulsant
+depakote, divalproex, anticonvulsant
+topamax, topiramate, anticonvulsant
+tegratol, carbamazepine, anticonvulsant
+dilantin, phenytoin, anticonvulsant
+keppra, levetiracetam, anticonvulsant
+trileptal, oxcarbazepine, anticonvulsant
+lyrica, pregabalin, anticonvulsant/ anti nerve pain (c-v)
+detrol, tolterodine, urinary antispasmodic
+bentyl, dicyclomine, antispasmodic (intestinal)
+
+### Muscle Relaxers
+
+flexeril, cyclobenzaprine, muscle relaxer
+robaxin, methocarbamol, muscle relaxer
+zanaflex, tizanidine, muscle relaxer
+lioresal, baclofen, muscle relaxer
+soma, carisoprodol, muscle relaxer (C-IV)
+
+## Gastro Intestinal
+
+### GERD Treatments
+
+pepcid, famotidine, antacid
+nexium, esomeprazole, antacid (ppi)
+prilosec, omeprazole, antacid (ppi)
+prevacid, lansoprazole, antacid (ppi)
+aciphex, rabeprazole, antacid (ppi)
+protonix, pantoprazole, antacid (ppi)
+
+### Nausea/ Vomiting
+
+phenergan, promethazine, antinausea/ anti-emetic
+zofran, odansetron, anti-nausea
+
+### Bowel Movements
+
+reglan, metoclopramide, GI motility stimulant
+glycolax, polyethylene glycol, laxative
+bentyl, dicyclomine, antispasmodic (intestinal)
+
+## Anti Infectives
+
+### Antibiotics
+
+amoxil, amoxicillin, antibiotic
+augmentin, amoxicillin + clavulanate, antibiotic
+zithromax, azithromycin, antibiotic
+cipro, ciprofloxacin, antibiotic
+keflex, cephalexin, antibiotic
+vibramycin, doxycycline, antibiotic
+levaquin, levofloxacin, antibiotic
+omnicef, cefdinir, antibiotic
+furadantin, nitrofurantoin, antibiotic
+biaxin, clarithromycin, antibiotic
+avelox, moxifloxacin, antibiotic
+septra, sulfamethoxazole + trimethoprim, antibiotic combo
+bactroban, mupirocin, topical antibacterial
+
+### Antifungals
+
+diflucan, fluconazole, antifungal
+nizoral, ketoconazole, antifungal
+
+### Antimicrobials
+
+cleocin, clindamycin, antimicrobial
+flagyl, metronidazole, antimicrobial
+
+### Antivirals
+
+valtrex, valacyclovir, antiviral
+zovirax, acyclovir, antiviral
+tamiflu, oseltamivir, antiviral (flu)
+
+## Urinary Tract
+
+### Prostate Size Reducers
+
+flomax, tamsulosin, reduces enlarged prostate
+cardura, doxazosin, reduces enlarged prostate
+proscar, finasteride, reduces enlarged prostate
+avodart, dutasteride, reduces enlarged prostate
+
+### Erectile Dysfunction
+
+viagra, sildenafil, erectile dysfunction
+
+### Bladder Relaxers
+
+myrbetric, mirabegron, overactive bladder
+ditropan, oxybutynin, overactive bladder
+
+### Misc Urinary
+
+detrol, tolterodine, urinary antispasmodic
+pyridium, phenazopyridine, analgesic (urinary)
