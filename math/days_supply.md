@@ -24,17 +24,17 @@ The **Days Supply** refers to how long a prescription will last based on the qua
 
 🧾 **Common Billing Units by Dosage Form**
 
-| Dosage Form             | Billing Unit | Example                        |
-|--------------------------|--------------|--------------------------------|
-| Tablets / Capsules       | Each         | 30 tablets = 30 billing units  |
-| Liquids (oral)           | mL           | 120 mL bottle = 120 units      |
-| Topical creams/ointments | Grams        | 45g tube = 45 units            |
-| Inhalers (MDIs)          | Grams        | Labeled on canister (e.g., 8g) |
-| Nebulizer vials          | mL           | Box of 30; 1mL vials = 30 units|
-| Eye/Ear drops            | mL           | 5 mL bottle = 5 units          |
-| Insulin pens             | mL           | 3 mL per pen = 15 mL for box of 5 |
-| Injections (vials)       | mL           | 1 mL vial = 1 billing unit     |
-| Patches                  | Each         | Box of 15 patches = 15 units   |
+| Dosage Form | Billing Unit | Example |
+|-------------|--------------|---------|
+| Tablets / Capsules | Each | 30 tablets = 30 billing units |
+| Patches | Each | Box of 15 patches = 15 units |
+| Liquids (oral) | mL | 120 mL bottle = 120 units |
+| Topical creams/ointments | Grams | 45g tube = 45 units |
+| Inhalers (MDIs) | Grams | Labeled on canister (e.g., 8g) |
+| Nebulizer vials | mL | Box of 30; 1mL vials = 30 units|
+| Eye/Ear drops | mL | 5 mL bottle = 5 units |
+| Injector pens | mL | 3 mL per pen = 15 mL for box of 5 |
+| Injections (vials) | mL | 1 mL vial = 1 billing unit |
 
 ### Days Supply Calculations
 
