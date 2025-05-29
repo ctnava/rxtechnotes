@@ -45,10 +45,10 @@ ${\boxed{\text{Max Days Supply} = \text{Minimum of: Calculated Supply OR Expirat
 
 ## 💉 Example 1: U-100 Vial with Low Daily Use
 
-**Product**: Lantus U-100 vial (10 mL × 100 U/mL = 1000 Units total)  
-**Sig**: Inject 12 Units SC once daily #1 vial  
+- **Product**: Lantus U-100 vial (10 mL × 100 U/mL = 1000 Units total)
+- **Sig**: Inject 12 Units SC once daily #1 vial
+  - **Total Daily Usage**: 12 U/day  
 
-${\boxed{\text{Units per Day} = 12}}$  
 ${\boxed{\text{Total Units in Vial} = 10 \, \text{mL} \times 100 \, \frac{U}{\text{mL}} = 1000 \, U}}$  
 ${\boxed{\text{Theoretical Days Supply} = \frac{1000 \, U}{12 \, \frac{U}{\text{day}}} = 83.33 \Rightarrow 83 \, \text{days}}}$
 
@@ -60,9 +60,9 @@ ${\boxed{\text{Theoretical Days Supply} = \frac{1000 \, U}{12 \, \frac{U}{\text{
 
 ## 💉 Example 2: U-100 Vial with High Daily Use
 
-**Product**: Humulin N U-100 vial  
-**Sig**: Inject 50 Units SC twice daily = 100 Units/day  
-**Qty**: 1 vial (10 mL)
+- **Product**: Humulin N U-100 vial  
+- **Sig**: Inject 50 Units SC twice daily = 100 Units/day  
+- **Qty**: 1 vial (10 mL)
 
 ${\boxed{\text{Total Units} = 10 \, \text{mL} \times 100 \, \frac{U}{\text{mL}} = 1000 \, U}}$  
 ${\boxed{\text{Theoretical Days Supply} = \frac{1000 \, U}{100 \, \frac{U}{\text{day}}} = 10 \, \text{days}}}$
@@ -73,15 +73,15 @@ ${\boxed{\text{Theoretical Days Supply} = \frac{1000 \, U}{100 \, \frac{U}{\text
 
 ## 💉 Example 3: Toujeo U-300 (Concentrated)
 
-**Product**: Toujeo Solostar Pen (U-300, 1.5 mL per pen, 450 Units total per pen)  
-**Sig**: Inject 60 Units SC once daily  
-**Qty**: 3 pens dispensed
+- **Product**: Toujeo Solostar Pen (U-300, 1.5 mL per pen, 450 Units total per pen)  
+- **Sig**: Inject 60 Units SC once daily  
+  - **Qty**: 3 pens dispensed
 
 ${\boxed{\text{Total Units} = 3 \times 450 = 1350 \, U}}$  
 ${\boxed{\text{Theoretical Days Supply} = \frac{1350 \, U}{60 \, \frac{U}{\text{day}}} = 22.5 \Rightarrow 22 \, \text{days}}}$
 
-✅ Toujeo pen stable **up to 56 days at room temperature**  
-✅ Final Days Supply = **22 days**
+- ✅ Toujeo pen stable **up to 56 days at room temperature**  
+- ✅ Final Days Supply = **22 days**
 
 > 🛡️ No discard conflict; full quantity usable before expiration
 
@@ -89,15 +89,15 @@ ${\boxed{\text{Theoretical Days Supply} = \frac{1350 \, U}{60 \, \frac{U}{\text{
 
 ## 💉 Example 4: Insulin Pen Box — Sequential Pen Use
 
-**Product**: Basaglar U-100 SoloStar Pens  
-**Concentration**: 100 Units/mL  
-**Volume per Pen**: 3 mL  
-**Pens per Box**: 5 pens  
-**Total Volume Dispensed**: 5 pens × 3 mL = 15 mL  
-**Total Units Dispensed**: 15 mL × 100 Units/mL = 1500 Units
+- **Product**: Basaglar U-100 SoloStar Pens  
+  - **Concentration**: 100 Units/mL  
+  - **Volume per Pen**: 3 mL  
+    - **Pens per Box**: 5 pens  
+- **Total Volume Dispensed**: 5 pens × 3 mL = 15 mL  
+  - **Total Units Dispensed**: 15 mL × 100 Units/mL = 1500 Units
 
-**Sig**: Inject 30 Units subcutaneously once daily  
-**Units per Day**: 30 U/day  
+- **Sig**: Inject 30 Units subcutaneously once daily  
+  - **Total Daily Usage**: 30 U/day  
 
 🔢 **Step-by-Step Math**:
 
@@ -122,7 +122,9 @@ ${\boxed{5 \, \text{pens} \times 10 \, \text{days per pen} = 50 \, \text{days}}}
 - No single pen will exceed its discard limit during use
 
 ✅ **Stability-compliant**  
+
 ✅ **No adjustment needed**  
+
 ✅ **Final Days Supply = 50 days**
 
 ✅ **Final Days Supply** = **50 days**
@@ -135,16 +137,15 @@ ${\boxed{5 \, \text{pens} \times 10 \, \text{days per pen} = 50 \, \text{days}}}
 
 ### 💉 Example 5: Sequential Vial Use Limited by Discard Date
 
-**Product**: Humulin N (Insulin NPH) U-100 Vials  
-**Concentration**: 100 Units/mL  
-**Vial Volume**: 10 mL  
-**Quantity Dispensed**: 2 vials  
-**Total Volume Dispensed**: 2 × 10 mL = 20 mL  
-**Total Units Dispensed**: 2000 Units
+- **Product**: Humulin N (Insulin NPH) U-100 Vials  
+  - **Concentration**: 100 Units/mL  
+  - **Vial Volume**: 10 mL  
+- **Quantity Dispensed**: 2 vials  
+  - **Total Volume Dispensed**: 2 × 10 mL = 20 mL  
+    - **Total Units Dispensed**: 2000 Units
 
-**Sig**: Inject 12 Units subcutaneously once daily  
-**Total Daily Usage**:  
-${\boxed{12 \, \text{U/day}}}$
+- **Sig**: Inject 12 Units subcutaneously once daily  
+  - **Total Daily Usage**: 12 U/Day
 
 ### 🔢 Step-by-Step Math
 
