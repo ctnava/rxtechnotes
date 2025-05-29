@@ -260,6 +260,7 @@ Prescription counters equipped with:
   - e.g., **Kirby Lester KL1**  
     - Includes scan verification of NDC and prescription to reduce errors
     - 🔗 [Counting Technique for a Kirby Lester Device](https://www.youtube.com/watch?v=2rq3G7BEnjY)
+    - 🔗 [Kirby Lester Diagram](./ref/img/kirby_lester_diagram.jpg)
 
 ✅ All prescriptions are **checked by the pharmacist before moving to pickup** bins
 
