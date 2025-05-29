@@ -1,5 +1,11 @@
 # 💉 Parenteral Doses Using Ratio and Proportion Calculations
 
+<!-- 
+## Reference
+
+Pharmacy Calculations, 6e; Morton Publishing | 23
+-->
+
 ## 🩺 Parenteral Routes of Administration
 
 Parenteral medications are administered by injection, bypassing the digestive system. They are supplied as **liquids** or **powders for reconstitution**.
@@ -79,10 +85,6 @@ Cross-multiply and solve for **X**.
 - 📍 Always confirm the **route**, **dose**, and **form** (powder vs liquid)
 - 🛡️ Check drug labels for **concentration** and **expiration date**
 
+---
+
 🔗 Back to [**Mathematics Concepts Directory**](./readme.md)
-
-<!-- 
-## Reference
-
-Pharmacy Calculations, 6e; Morton Publishing | 23
--->
