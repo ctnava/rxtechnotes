@@ -104,11 +104,12 @@ ${\boxed{\text{Theoretical Days Supply} = \frac{1350 \, U}{60 \, \frac{U}{\text{
 - **Sig**: Inject 30 Units subcutaneously once daily  
   - **Total Daily Usage**: 30 U/day  
 
-${\boxed{3 \, \text{mL} \times 100 \, \frac{U}{\text{mL}} = 300 \, U \text{ per pen}}}$
+![example 4](./img/insulin_days/ex4.PNG)
+<!-- ${\boxed{3 \, \text{mL} \times 100 \, \frac{U}{\text{mL}} = 300 \, U \text{ per pen}}}$
 
 ${\boxed{\frac{300 \, U}{30 \, \frac{U}{\text{day}}} = 10 \, \text{days per pen}}}$
 
-${\boxed{5 \, \text{pens} \times 10 \, \text{days per pen} = 50 \, \text{days}}}$
+${\boxed{5 \, \text{pens} \times 10 \, \text{days per pen} = 50 \, \text{days}}}$ -->
 
 🛡️ **Stability Consideration: Opened Pens**
   
