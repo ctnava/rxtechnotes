@@ -15,6 +15,7 @@
 - grapefruit interactions
 - insulin content
 - mention the Poison Prevention Act somewhere
+- link in my essays
 
 ## Week 1: History of Pharmacy
 
