@@ -12,11 +12,11 @@
 
 | Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
 |------------|--------------|-----------------|-------|------------|------------------|
-| Strattera | Atomoxetine | **Non-stimulant ADHD** | SNRI | ADHD | "Strategy + attention = Strattera"; atomoxetine sounds like “atom” = brain power |
-| Focalin | Dexmethylphenidate | **C-II** | CNS stimulant | **ADHD** | “Focus” → Focalin; “dex” is the active half of racemic methylphenidate |
 | Concerta | Methylphenidate | **C-II**, extended release | CNS stimulant | **ADHD** | “Concert-a” long performance; same active ingredient as Ritalin |
+| Focalin | Dexmethylphenidate | **C-II** | CNS stimulant | **ADHD** | “Focus” → Focalin; “dex” is the active half of racemic methylphenidate |
 | Adderall | Amphetamine + Dextroamphetamine | **C-II** | CNS stimulant | **ADHD**, narcolepsy | “Add attention with Adderall”; two amphetamine salts |
 | Vyvanse | Lisdexamfetamine | **C-II**, prodrug | CNS stimulant | **ADHD**, binge eating | “Vyv = vive = life”; lis-dex is converted to dextroamphetamine in body |
+| Strattera | Atomoxetine | **Non-stimulant ADHD** | SNRI | ADHD | "Strategy + attention = Strattera"; atomoxetine sounds like “atom” = brain power |
 
 ## 🌧️ Antidepressants
 
