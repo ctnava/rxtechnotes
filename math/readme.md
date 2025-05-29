@@ -15,7 +15,7 @@ Look at this as more of a quick review resource. It's not comprehensive and does
 | 2 | [Unit Conversions for Pharmacy Technicians: Household & Metric](./unit_conversions.md) | 📸 |
 | 3 | [Calculating Days Supply](./days_supply.md) | 🚧 |
 | 4 | [Dosage Calculations from Medication Labels](./medication_labels.md) | ✅ |
-| 5 | [Verifying DEA Numbers](./dea_numbers.md) | 🚧 |
+| 5 | [Verifying DEA Numbers](./dea_numbers.md) | ✅ |
 | 6 | [Calculating Days Supply: Insulin](./insulin_days_supply.md) | 📸 |
 | 7 | [Parenteral Doses Using Ratio & Proportion Calculations](./parenteral_ratios.md) | 📸 |
 | 8 | [Powder Drug Volume & Reconstitution Calculations](./powder_volume.md) | 📸 |
