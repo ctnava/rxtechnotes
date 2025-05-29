@@ -2,19 +2,33 @@
 
 ## 💊 Analgesics
 
-percocet, oxycodone + APAP, analgesic (C-II)
-vicodine/ lortab, hydrocodone + APAP, analgesic (C-II)
-oxycontin, oxycodone, analgesic (C-II)
-tylenol 3, codeine + apap, analgesic (C-II)
-duragesic, fentanyl transdermal patch, analgesic (c-ii)
-ultram, tramadol, analgesic (c-iv)
-advil, ibuprofen, analgesic (nsaid)
-aleve, naproxen, analgesic (nsaid)
-mobic, meloxicam, analgesic (nsaid)
-celebrex, celecoxib, analgesic (nsaid)
-cataflam, diclofenac, analgesic (nsaid)
-relafen, nabumetone, analgesic (nsaid)
-pyridium, phenazopyridine, analgesic (urinary)
+### Opioids
+
+| Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
+|------------|--------------|------------------|-------|------------|------------------|
+| Percocet | Oxycodone + APAP | Strong pain reliever **combo** | **Opioid (C-II)** | Pain | PERCoCET = Oxy + Tylenol |
+| Tylenol 3 | Codeine + APAP | Mild opioid **combo** | **Opioid (C-II**; C-III in some states) | Pain | "T3" = Tylenol + Codeine |
+| Vicodin / Lortab | Hydrocodone + APAP | Common **combo** opioid | **Opioid (C-II)** | Pain | VICO = VICious pain relief |
+| Duragesic | Fentanyl (patch) | Very potent, long-acting | **Opioid (C-II)** | Chronic pain | "Dura" = long duration patch |
+| OxyContin | Oxycodone (ER) | Continuous release | **Opioid (C-II)** | Chronic pain | Oxy + Contin = continuous oxycodone |
+| Ultram | Tramadol | Weak opioid + SNRI effect | **Opioid-like (C-IV)** | Pain | "Ultra mild" opioid |
+
+### 🚬 Opioid Recovery
+
+| Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
+|------------|--------------|------------------|-------|------------|------------------|
+| Suboxone | Buprenorphine + Naloxone | Opioid partial agonist + blocker | Opioid recovery (C-III) | Opioid dependence | "Sub-ox" = sub for opioids, blocks euphoria |
+
+### NSAIDs
+
+| Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
+|------------|--------------|------------------|-------|------------|------------------|
+| Advil | Ibuprofen | OTC pain relief | **NSAID** | Pain, inflammation | Fast acting, short duration |
+| Aleve | Naproxen | Long-acting NSAID | **NSAID** | Pain, inflammation | "A-leave" = lasts all day |
+| Cataflam | Diclofenac | NSAID with multiple forms | **NSAID** | Pain, arthritis | Cat-a-flam = flame = inflammation |
+| Celebrex | Celecoxib | COX-2 selective | **NSAID** | Arthritis pain | Celebrex = celebration of less GI upset |
+| Mobic | Meloxicam | Once-daily NSAID | **NSAID** | Arthritis pain | "Mo-bic" = more big relief |
+| Relafen | Nabumetone | Non-acid NSAID | **NSAID** | Arthritis | Re-lax with Relafen |
 
 ### 🤯 Migraine Relief
 
@@ -23,11 +37,11 @@ pyridium, phenazopyridine, analgesic (urinary)
 | Fioricet | Butalbital + APAP + Caffeine | Combo pain + caffeine | **Antimigraine** | Tension or migraine headache | "Fiery-set" for multi-ingredient relief |
 | Imitrex | Sumatriptan | Triptan class | **Antimigraine** | Migraine | "-triptan" = triptan for migraine |
 
-### 🚬 Opioid Recovery
+### Urinary
 
 | Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
 |------------|--------------|------------------|-------|------------|------------------|
-| Suboxone | Buprenorphine + Naloxone | Opioid partial agonist + blocker | Opioid recovery (C-III) | Opioid dependence | "Sub-ox" = sub for opioids, blocks euphoria |
+| Pyridium | Phenazopyridine | Colors urine orange | **Urinary analgesic** | Urinary pain | "Pyr" = burning, urinary fire quencher |
 
 ## Musculoskeletal
 
