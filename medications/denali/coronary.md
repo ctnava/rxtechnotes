@@ -1,5 +1,14 @@
 # ❤️ Cardiovascular Medications
 
+## 🧠 Stroke Mitigation / Blood Thinners
+
+| Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
+|------------|--------------|------------------|-------|------------|------------------|
+| Coumadin | Warfarin | **Anticlotting**; INR required | Vitamin K antagonist | Stroke prevention / AFib | COU = "coup" to clot |
+| Plavix | Clopidogrel | **Anticlotting** | Antiplatelet | Stroke / MI prevention | PLA = platelet |
+| Eliquis | Apixaban | **Anticoagulant** | Factor Xa inhibitor | Stroke / AFib | ELI = elegant Xa block |
+| Xarelto | Rivaroxaban | **Anticoagulant** | Factor Xa inhibitor | Stroke / DVT / PE | Xa = Factor X inhibition |
+
 ## 💊 Cholesterol Control
 
 | Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
