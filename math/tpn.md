@@ -91,7 +91,7 @@ This example demonstrates how to calculate the **volumes of additives** needed t
 | Dextrose 70% (D70W)     | 300 mL      | 300 mL     |
 | Sterile Water for Inj   | 200 mL      | 200 mL     |
 | Infusion Rate           | 60 mL/hr*   | -          |
-| **Total Volume**        | -           | 1000 mL |
+| **Table Volume**        | -           | 1000 mL |
 
 ### 💊 Additive Components
 
@@ -110,7 +110,7 @@ This example demonstrates how to calculate the **volumes of additives** needed t
 | Sodium Acetate          | 10 mEq      | 5 mL |
 | Potassium Acetate       | 25 mEq      | 12.5 mL |
 | Sodium Phosphates       | 8 mEq       | 2 mL |
-| **Total Volume**        | -           | 72.55 mL |
+| **Table Volume**        | -           | 72.55 mL |
 
 **Total Volume** = 1000 mL + 72.55 mL = 1072.55 mL
 
