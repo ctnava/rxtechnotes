@@ -45,6 +45,8 @@ Before processing, the pharmacy technician must review prescriptions for complet
 
 > ⚠️ **Controlled Substances must be transmitted electronically** unless exempt (e.g., system outages, veterinarian, terminal illness). Refer to BPC §688 and the 21st Century Cures Act.
 
+![Visual Prescription](../ref/img/rx_requirements.PNG)
+
 ## ⚠️ Pre-Entry Checklist
 
 - Patient allergies

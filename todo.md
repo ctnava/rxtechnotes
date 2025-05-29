@@ -43,8 +43,9 @@
 ## Week 3: Community RX & HIPAA
 
 - [ ] SOP: Cleaning the Hood
-- [ ] The Prescription Video
+- [x] The Prescription Video
 - [ ] Reading: Chapter 16 - Community Pharmacy
+  - ./settings_personnel_services.md
 - [x] HIPAA Survival Guide
 - [x] Math: Chapter 12 - Day Supply
 - [x] Math: Chapter 33 - Medication Labels
@@ -56,6 +57,7 @@
 - [x] SOP: Refill Request
 - [x] Gowning Video
 - [x] Reading: Chapter 18 - Other Environments
+  - ./settings_personnel_services.md
 - [ ] Reading: Chapter 8 - Routes & Formulations
 - [x] Math: DEA Numbers
 - [x] CE: Calculations for Pharmacy Technicians: Math & Measurements
@@ -129,6 +131,7 @@
 ## Week 12: Hospital Pharmacy
 
 - [ ] Reading: Chapter 17 - Hospital Pharmacy
+  - ./settings_personnel_services.md
 - [ ] CE: Safe Handling of Hazardous Drugs
 - [x] Math: Chapter 10 - Temperature Conversion & Specific Gravity
 - [x] Math: Chapter 28 - Body Surface Area
