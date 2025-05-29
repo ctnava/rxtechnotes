@@ -164,4 +164,5 @@ ${\boxed{28 \, \text{days per vial} \times 2 \, \text{vials} = 56 \, \text{days}
 
 ---
 
-🔗 Back to [Calculating Days' Supply](./days_supply.md)
+- 🔙🔗 [**Mathematics Concepts Directory**](./readme.md)
+- 🔙🔗 [Calculating Days' Supply](./days_supply.md)

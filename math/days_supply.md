@@ -455,6 +455,8 @@ Insulin is dosed in **Units**, but dispensed and billed by **volume (mL)**. Most
 
 This prevents billing beyond usable shelf-life and supports safe patient use.
 
+🔗 See [Days Supply Calculations for Insulin](./insulin_days_supply.md)
+
 ---
 
-🔗 See [Days Supply Calculations for Insulin](./insulin_days_supply.md)
+- 🔙🔗 [**Mathematics Concepts Directory**](./readme.md)
