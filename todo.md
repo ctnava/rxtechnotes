@@ -1,5 +1,21 @@
 # Topics to Cover
 
+## Todo
+
+- update gowning SOP to include descriptions of antechamber & clean rooms
+- hospital & Community pharmacies
+- Drug Endings (appendix)
+- PAP examples with links (Check CE)
+- medwatch & VAERS filing SOP (appendix)
+- compounding (sterile & nonsterile)
+- MTM (CE)
+- Common Drugs & Uses CH13
+- pharmacology & Pharmacokinetics
+- safe handling CE
+- grapefruit interactions
+- insulin content
+- mention the Poison Prevention Act somewhere
+
 ## Week 1: History of Pharmacy
 
 - [x] DenaliRx Drugs 1-20

@@ -42,24 +42,13 @@ Structured for both exam prep and on-the-job reference.
 | 5 | [Pharmacy Inventory Management](./inventory_management.md) | 🚧 WIP |
 | 6 | [Core Pharmacy Operations](./core_operations.md) | ✅ Complete |
 
-> 📁 **Math tutorials** are located in the [`./math`](./math/readme.md) directory.
+- 📁 **Math tutorials** are located in the [Mathematics Concepts Directory](./math/readme.md) directory.
+- 📁 **Legal Overviews & Breakdowns** are located in the [Federal Law Reference Directory](./law/readme.md) directory.
+
+## Progress
+
+View 🔗 [Todo Items](./todo.md)
 
 ---
 
-☕ [Show Your Appreciation Here](https://buymeacoffee.com/cat6)
-
-## Todo
-
-- update gowning SOP to include descriptions of antechamber & clean rooms
-- hospital & Community pharmacies
-- Drug Endings (appendix)
-- PAP examples with links (Check CE)
-- medwatch & VAERS filing SOP (appendix)
-- compounding (sterile & nonsterile)
-- MTM (CE)
-- Common Drugs & Uses CH13
-- pharmacology & Pharmacokinetics
-- safe handling CE
-- grapefruit interactions
-- insulin content
-- mention the Poison Prevention Act somewhere
+> ☕ [Show Your Appreciation Here](https://buymeacoffee.com/cat6)
