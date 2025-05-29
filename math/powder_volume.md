@@ -70,7 +70,7 @@ Many injectable or biologically sensitive medications are unstable in liquid for
 **Label**: Add 9.5 mL diluent to 1 g of cefazolin. Final volume: 10 mL.
 
 ![PV = 10 - 9.5 = 0.5](./img/powder_volume/example1.PNG)
-$\text{Powder Volume} = 10\ \text{mL} - 9.5\ \text{mL} = \boxed{0.5\ \text{mL}}$
+<!-- $\text{Powder Volume} = 10\ \text{mL} - 9.5\ \text{mL} = \boxed{0.5\ \text{mL}}$ -->
 
 ## 📘 Calculating Concentration After Reconstitution
 
