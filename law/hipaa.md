@@ -126,7 +126,7 @@ Pharmacies must:
 
 - 🔗 VIDEO | [How Gossip Can Cause HIPAA Violations](https://www.youtube.com/watch?v=CXGDq7IHgSQ)
 - 🔗 VIDEO | [HIPAA Training: What is Required for Compliance](https://www.youtube.com/watch?v=CXGDq7IHgSQ)
-- 🔗 HANDBOOK | [HIPAA Survival Guide](../ref/hipaa_survival_guide.pdf)
+- 🔗 HANDBOOK | [HIPAA Survival Guide](./hipaa_survival_guide.pdf)
 
 ## 🤯 Health Information Technology for Economic & Clinical Health Act (HITECH, 2009)
 
