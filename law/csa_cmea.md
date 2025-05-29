@@ -23,6 +23,8 @@ The ***Controlled Substances Act (CSA, 1970)*** classifies five levels of contro
 - **DEA Form 106** must be filed within **one business day** of discovering theft or significant loss.
   - **The California Board of Pharmacy** must also be notified within **30 days**.
 
+![Additional DEA forms from deadiversion.usdoj.gov](../ref/img/dea_forms.PNG)
+
 #### DEA Form 222
 
 DEA Form 222 is used to order, transfer, or return Schedule II controlled substances.
@@ -136,8 +138,6 @@ These ingredients are commonly found in cold and allergy medications but can als
   - Product name
   - Quantity sold
   - Date and time of the sale
-
-![Additional DEA forms from deadiversion.usdoj.gov](../ref/img/dea_forms.PNG)
   
 ---
 
