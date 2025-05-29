@@ -147,7 +147,7 @@ ${\boxed{\frac{1000 \, \text{U}}{12 \, \frac{\text{U}}{\text{day}}} \approx 83.3
 🛡️ This means **only 28 days of insulin can be used per vial**, regardless of remaining volume.
 
 ${\boxed{12 \, \frac{\text{U}}{\text{day}} \times 28 \, \text{days} = 336 \, \text{U used per vial}}}$  
-Unused insulin:  
+
 ${\boxed{1000 - 336 = 664 \, \text{U wasted per vial}}}$
 
 ${\boxed{28 \, \text{days per vial} \times 2 \, \text{vials} = 56 \, \text{days}}}$
