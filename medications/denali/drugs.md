@@ -79,12 +79,6 @@ microzide, hydrochlorothiazide (hctz), diuretic/ antihypertensive
 dyrenium, triamterene, diuretic/ antihypertensive
 aldactone, spironolactone, diuretic/ antihypertensive
 
-#### Arrhythmia
-
-verelan, verapamil, anti-arrhythmia
-procardia, nifedipine, anti-arrhythmia
-lanoxin, digoxin, treats heart failure/ arrhythmia
-
 ## Pain Management
 
 ### Migraine Relief
