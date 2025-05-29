@@ -1,5 +1,13 @@
 # ❤️ Cardiovascular Medications
 
+## ⚡ Arrhythmia
+
+| Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
+|------------|--------------|------------------|-------|------------|------------------|
+| Procardia | Nifedipine | CCB also for BP | Calcium channel blocker | **Arrhythmia** / HTN | Pro cardia = protect heart |
+| Verelan | Verapamil | CCB for rhythm | Calcium channel blocker | **Arrhythmia** | VERa = VERtical rhythm control |
+| Lanoxin | Digoxin | Narrow therapeutic index | Cardiac glycoside | **Heart failure, arrhythmia** | LAN = long action narrow window |
+
 ## 🧠 Stroke Mitigation / Blood Thinners
 
 | Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
@@ -21,3 +29,10 @@
 | Tricor | Fenofibrate | Fibrate | **Fibrate** | High cholesterol | TRI = triglycerides |
 | Lopid | Gemfibrozil | "-fibrate" relative | **Fibrate** | High cholesterol | LOPID = lipids dropped |
 | Zetia | Ezetimibe | Inhibits absorption | **Cholesterol absorption inhibitor** | High cholesterol | ZETia = Z block absorption |
+
+## 🟡 Vasodilators
+
+| Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
+|------------|--------------|------------------|-------|------------|------------------|
+| Nitrostat | Nitroglycerine | Fast acting | Nitrate | **Angina** | Nitro = vasodilation explosion |
+| Imdur | Isosorbide mononitrate | Long acting nitrate | Nitrate | **Angina** | IM = Immediate durability |

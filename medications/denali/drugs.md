@@ -79,34 +79,11 @@ microzide, hydrochlorothiazide (hctz), diuretic/ antihypertensive
 dyrenium, triamterene, diuretic/ antihypertensive
 aldactone, spironolactone, diuretic/ antihypertensive
 
-#### Cholesterol Control
-
-lipitor, atorvastatin, cholesterol lowering
-zocor, simvastatin, cholesterol lowering
-pravachol, pravastatin, cholesterol lowering
-crestor, rosuvastatin, cholesterol lowering
-mevacor, lovastatin, cholesterol lowering
-tricor, fenofibrate, cholesterol lowering
-zetia, ezetimibe, cholesterol lowering
-lopid, gemfibrozil, cholesterol lowering
-
-#### Angina
-
-nitrostat, nitroglycerine, anti-angina
-imdur, isosorbide mononitrate, anti-angina (chest pain)
-
 #### Arrhythmia
 
 verelan, verapamil, anti-arrhythmia
 procardia, nifedipine, anti-arrhythmia
 lanoxin, digoxin, treats heart failure/ arrhythmia
-
-#### Stroke Mitigation
-
-coumadin, warfarin, anticlotting
-plavix, clopidogrel, anticlotting
-xarelto, rivaroxaban, anticoagulant
-eliquis, apixaban, anticoagulant
 
 ## Pain Management
 
