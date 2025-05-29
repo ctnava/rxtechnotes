@@ -89,3 +89,7 @@
 | Plaquenil | Hydroxychloroquine | Lupus + RA | DMARD | **Lupus**, **rheumatoid arthritis** | PLAQ = anti-malarial turned DMARD |
 | Humira | Adalimumab | Biologic injection | TNF inhibitor | **Rheumatoid arthritis**, **Crohn’s**, **Ulcerative Colitis** | Human monoclonal antibody (HUMIRA) |
 | Zyloprim | Allopurinol | Prevents **gout** attacks | Xanthine oxidase inhibitor | **Gout** | Zylo = xanthine oxidase zapper |
+
+---
+
+🔙🔗 Back to [**Top 200**](../iv_top_200.md)

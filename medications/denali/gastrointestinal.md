@@ -31,3 +31,7 @@
 | Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
 |------------|--------------|------------------|-------|------------|------------------|
 | Adipex | Phentermine | "Appetite suppressor" | Stimulant, anorexiant (C-IV) | Weight loss | A-Diet-Pex = suppress appetite |
+
+---
+
+🔙🔗 Back to [**Top 200**](../iv_top_200.md)

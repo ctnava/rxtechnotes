@@ -49,3 +49,7 @@
 | Humalog | Insulin lispro | "Human logic" = quick mimic | **Rapid-acting** insulin | Diabetes | Huma = human, log = mimic spike |
 | Novolog | Insulin aspart | "New logic" = fast fix | **Rapid-acting** insulin | Diabetes | Novo = new, log = sugar log |
 | Tresiba | Insulin degludec | "Three S’s" = steady, smooth, stable | **Ultra-long-acting** insulin | Diabetes | Tresiba = triple S = ultra control |
+
+---
+
+🔙🔗 Back to [**Top 200**](../iv_top_200.md)

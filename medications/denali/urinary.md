@@ -22,3 +22,7 @@
 |------------|--------------|------------------|-------|------------|------------------|
 | Detrol | Tolterodine | **antispasmodic**; "Detour for urine" | Anticholinergic | Urinary incontinence | Detrol = detour bladder signals |
 | Pyridium | Phenazopyridine | "Pyramid red pee" | Urinary **analgesic** | Urinary pain | Pyridium = dye = orange-red urine |
+
+---
+
+🔙🔗 Back to [**Top 200**](../iv_top_200.md)

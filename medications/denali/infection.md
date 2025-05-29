@@ -39,3 +39,7 @@
 | Tamiflu    | Oseltamivir  | **Flu-specific** | Neuraminidase inhibitor | Influenza A & B | “Tame the flu”; oseltamivir = **antiviral** assault |
 | Valtrex    | Valacyclovir | Herpes, shingles | **Antiviral** (prodrug) | HSV, VZV | “Val = value add to acyclovir”; longer-lasting than Zovirax |
 | Zovirax    | Acyclovir    | OG herpes med | **Antiviral** | HSV, VZV | “Z-virus-ax”; acyclovir = active |
+
+---
+
+🔙🔗 Back to [**Top 200**](../iv_top_200.md)

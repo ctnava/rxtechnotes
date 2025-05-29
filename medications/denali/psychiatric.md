@@ -65,3 +65,7 @@
 | Risperdal  | Risperidone  | High EPS risk | Atypical **antipsychotic** | Schizophrenia, bipolar | “Risperdal = rise in EPS”; risperidone = riskier |
 | Seroquel   | Quetiapine   | Sedating | Atypical **antipsychotic** | Schizophrenia, bipolar, depression adjunct | “Serenity + quiet” = Seroquel; quetiapine = quiet time |
 | Zyprexa    | Olanzapine   | Appetite gain, sedation | Atypical **antipsychotic** | Schizophrenia, bipolar | “Zzz-prexa = sleepy + prexa for weight” |
+
+---
+
+🔙🔗 Back to [**Top 200**](../iv_top_200.md)

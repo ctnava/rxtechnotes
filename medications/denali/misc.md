@@ -45,3 +45,7 @@
 | Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
 |------------|--------------|------------------|-------|------------|------------------|
 | Xalatan | Latanoprost | "X-ray laser vision" | Prostaglandin analog | **Glaucoma** | Xalatan = lowers intraocular pressure |
+
+---
+
+🔙🔗 Back to [**Top 200**](../iv_top_200.md)

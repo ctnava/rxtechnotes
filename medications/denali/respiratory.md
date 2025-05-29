@@ -30,3 +30,7 @@
 |------------|--------------|------------------|-------|------------|------------------|
 | Robitussin | Guaifenesin | "Robs **mucus**" | Expectorant | Chest congestion | Robitussin = robs tough mucus |
 | Tessalon Perles | Benzonatate | "Tessalon pearls coat throat" | Antitussive | **Cough** | Pearlescent capsules that numb the throat |
+
+---
+
+🔙🔗 Back to [**Top 200**](../iv_top_200.md)

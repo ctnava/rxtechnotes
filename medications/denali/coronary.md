@@ -115,3 +115,7 @@
 |------------|--------------|------------------|-------|------------|------------------|
 | Nitrostat | Nitroglycerine | Fast acting | Nitrate | **Angina** | Nitro = vasodilation explosion |
 | Imdur | Isosorbide mononitrate | Long acting nitrate | Nitrate | **Angina** | IM = Immediate durability |
+
+---
+
+🔙🔗 Back to [**Top 200**](../iv_top_200.md)
