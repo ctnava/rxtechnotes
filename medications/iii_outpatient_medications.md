@@ -307,3 +307,7 @@ These drugs are used in primary care **outpatient** settings, where **volume is 
 | Glyburide                                           | Diabeta               | Sulfonylurea                   | Type 2 **Diabetes**; **Lowers Blood Sugar**                                     |
 | Calcitonin                                          | Miacalcin Nasal Spray | Calcitonin                     | **Osteoporosis** (Women at risk of fractures); 🧊 **Refrigerated** Medication; 👃 **Alternate Nostrils** |
 | Betamethasone                                       | Kenalog               | Corticosteroid                 | Inflammatory Skin Conditions; **Rashes**                      |
+
+---
+
+🔙🔗 Back to [**Home Directory**](../readme.md)

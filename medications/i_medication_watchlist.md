@@ -159,3 +159,7 @@ Used to manage diabetes.
 | **Warfarin** (Coumadin)          | Anticoagulant                  | INR monitoring; bleeding risk; avoid high-Vitamin K foods                               |
 | **Phenytoin** (Dilantin)         | Anticonvulsant                 | Narrow TI; monitor blood levels                                                        |
 | **Insulin** (All forms)          | Antidiabetic Hormone           | Refrigerate unopened; room temp 28 days; check expiration dates                         |
+
+---
+
+🔙🔗 Back to [**Home Directory**](../readme.md)

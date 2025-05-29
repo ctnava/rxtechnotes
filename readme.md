@@ -42,8 +42,15 @@ Structured for both exam prep and on-the-job reference.
 | 5 | [Pharmacy Inventory Management](./inventory_management.md) | 🚧 WIP |
 | 6 | [Core Pharmacy Operations](./core_operations.md) | ✅ Complete |
 
-- 📁 **Math tutorials** are located in the [Mathematics Concepts Directory](./math/readme.md) directory.
+- 📁 **Math Tutorials** are located in the [Mathematics Concepts Directory](./math/readme.md) directory.
 - 📁 **Legal Overviews & Breakdowns** are located in the [Federal Law Reference Directory](./law/readme.md) directory.
+
+### 🧠 Medications to Remember
+
+- 📁 **Special Medication Watchlist** are located [in this file](./medications/i_medication_watchlist.md).
+- 📁 **Top Geriatric Maintenance Medications (LTC)** are located [in this file](./medications/ii_geriatric_medications.md).
+- 📁 **Top High-Volume Outpatient Medications** are located [in this file](./medications/iii_outpatient_medications.md).
+- 📁 **Denali Top 200 Drugs** are located [in this file](./medications/iv_top_200.md).
 
 ## Progress
 

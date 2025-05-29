@@ -235,3 +235,7 @@ These medications are commonly prescribed maintenance medications for long-term 
 | Levofloxacin        | Levaquin         | Fluoroquinolone **Antibiotic**      | Pneumonia, UTI, Skin Infections          |
 | Metronidazole       | Flagyl           | Nitroimidazole **Antibiotic**       | Anaerobic Infections, C. diff            |
 | Alendrolate         | Fosamax          | Bisphosphonate                      | **Osteoporosis**                          |
+
+---
+
+🔙🔗 Back to [**Home Directory**](../readme.md)
