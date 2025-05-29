@@ -59,14 +59,8 @@
 
 | Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
 |------------|--------------|-----------------|-------|------------|------------------|
-| Xanax      | Alprazolam   | Fast-acting **(C-IV)** | Benzodiazepine | **Anxiety**, panic | “Xanax = eXit anxiety”; -zolam = benzo |
 | Ativan     | Lorazepam    | Intermediate-acting **(C-IV)** | Benzodiazepine | Anxiety, seizures | “Ativan = anti-vanic attack”; lore = calming |
 | Klonopin   | Clonazepam   | Long-acting **(C-IV)** | Benzodiazepine | **Anxiety**, seizures | “Clone peace = Klonopin”; -zepam = benzo |
 | Valium     | Diazepam     | Long-acting **(C-IV**) | Benzodiazepine | **Anxiety**, muscle relaxant | “Value of calm”; diazepam = dial it down |
+| Xanax      | Alprazolam   | Fast-acting **(C-IV)** | Benzodiazepine | **Anxiety**, panic | “Xanax = eXit anxiety”; -zolam = benzo |
 | Buspar     | Buspirone    | Non-sedating | 5-HT1A partial agonist | **Anxiety** (GAD) | “Buspar = bus to peace”; buspirone ≠ benzo |
-
-xanax, alprazolam, antianxiety (C-IV)
-ativan, lorazepam, antianxiety (c-iv)
-klonopin, clonazepam, antianxiety (c-iv)
-valium, diazepam, antianxiety (c-iv)
-buspar, buspirone, antianxiety
