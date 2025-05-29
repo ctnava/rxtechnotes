@@ -87,7 +87,56 @@ We will convert 1 gallon to milliliters by **chaining units**, canceling each on
 | 6: Convert to mL | ${768\ \text{tsp} \times \frac{5\ \text{mL}}{1\ \text{tsp}} = \boxed{3840\ \text{mL}}}$ |
 | 7: Final Answer | 1 gallon = 3840 mL |
 
-## 🧪 Example: Oral Suspension Dosage in Household Units
+## 🏷️ Inscription & Signa: Reading and Translating Prescriptions
+
+Understanding how to read prescriptions requires familiarity with the **Inscription** and **Signa** sections—two core components of written or electronic prescription orders.
+
+📃 **Prescription Structure**
+
+| Section       | Purpose                                                |
+|---------------|--------------------------------------------------------|
+| **Inscription** | Lists the **drug name**, **strength**, and **dosage form** |
+| **Signa (Sig)** | Provides **directions for the patient**              |
+
+> 🛡️ "Signa" is Latin for "let it be labeled." It tells the patient how to take the medication.
+
+### 🔄 Translating Signa Abbreviations
+
+Sig codes are often written in abbreviated Latin phrases. Pharmacy technicians must be able to **translate these into patient-friendly instructions**.
+
+| Abbreviation | Meaning | Translation Example |
+|--------------|---------|---------------------|
+| **i**, **ii**, **iii** | 1, 2, 3 (Roman numerals) | "i tab" = 1 tablet |
+| **po** | per os | by mouth |
+| **qd** | quaque die | once daily |
+| **bid** | bis in die | twice daily |
+| **tid** | ter in die | three times daily |
+| **qid** | quater in die | four times daily |
+| **q4h** | every 4 hours | every 4 hours |
+| **prn** | pro re nata | as needed |
+| **hs** | hora somni | at bedtime |
+| **ac** | ante cibum | before meals |
+| **pc** | post cibum | after meals |
+| **ung** | unguentum | ointment |
+| **gtt** | guttae | drops |
+
+Sig codes are often written in abbreviated Latin phrases. Pharmacy technicians must be able to **translate these into patient-friendly instructions**.
+
+✍️ **Example**
+
+- **Inscription**: `Amoxicillin 250 mg/5 mL suspension`
+- **Sig**: 1 tsp po tid x 10 days
+
+=> `Take 1 teaspoon by mouth three times a day for 10 days`
+
+✅ **Best Practices for Technicians**
+
+- Translate *exactly* what is written—do **not** interpret or assume changes.
+- Always double-check **units**, **frequencies**, and **durations**.
+- Know common Latin abbreviations and how to convert them to plain English.
+- Use this skill when entering directions into the pharmacy system or preparing auxiliary labels.
+
+### 🧪 Example: Oral Suspension Dosage in Household Units
 
 - **Prescription:**
   - `Cefaclor 250 mg/5 mL, dispense 150 mL`  
@@ -101,7 +150,7 @@ We will convert 1 gallon to milliliters by **chaining units**, canceling each on
 | 2 (alt): Convert mL to tsp | ${7.5\ \text{mL} \times \frac{1\ \text{tsp}}{5\ \text{mL}} = \boxed{1.5\ \text{tsp}}}$ |
 | 3: Final Answer | Take 1.5 tsp per dose |
 
-## 🧪 Example: Body Weight Dosing
+### 🧪 Example: Body Weight Dosing
 
 - **Medication Order:**
   - `Dose: 30 mg/kg/day, divided into 4 doses`
