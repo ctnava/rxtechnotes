@@ -28,12 +28,14 @@
 | Elavil     | Amitriptyline | **TCA** | Tricyclic **antidepressant** | Depression, nerve pain | “Elevate mood with Elavil”; “trip” in amitriptyline hints tricyclic |
 | Pamelor    | Nortriptyline | **TCA** | Tricyclic antidepressant** | Depression | “Pam is trippin’ again”; nortriptyline = TCA like amitriptyline |
 
-## Antipsychotics
+## 🧩 Antipsychotics
 
-seroquel, quetiapine, antipsychotic
-abilify, aripiprazole, antipsychotic
-risperdal, risperidone, antipsychotic
-zyprexa, olanzapine, antipsychotic
+| Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
+|------------|--------------|-----------------|-------|------------|------------------|
+| Seroquel   | Quetiapine   | Sedating | Atypical **antipsychotic** | Schizophrenia, bipolar, depression adjunct | “Serenity + quiet” = Seroquel; quetiapine = quiet time |
+| Abilify    | Aripiprazole | Activating, less sedating | Atypical **antipsychotic** | Schizophrenia, bipolar, MDD adjunct | “Ability + fix”; aripiprazole → “Ari is able” |
+| Risperdal  | Risperidone  | High EPS risk | Atypical **antipsychotic** | Schizophrenia, bipolar | “Risperdal = rise in EPS”; risperidone = riskier |
+| Zyprexa    | Olanzapine   | Appetite gain, sedation | Atypical **antipsychotic** | Schizophrenia, bipolar | “Zzz-prexa = sleepy + prexa for weight” |
 
 ### SNRIs
 
