@@ -56,7 +56,7 @@
 | Xanax      | Alprazolam   | Fast-acting **(C-IV)** | Benzodiazepine | **Anxiety**, panic | “Xanax = eXit anxiety”; -zolam = benzo |
 | Buspar     | Buspirone    | Non-sedating | 5-HT1A partial agonist | **Anxiety** (GAD) | “Buspar = bus to peace”; buspirone ≠ benzo |
 
-## 🧩 Antipsychotics
+## 🧩 Atypical Antidepressants/ Antipsychotics
 
 | Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
 |------------|--------------|-----------------|-------|------------|------------------|
