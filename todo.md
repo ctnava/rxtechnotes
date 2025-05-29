@@ -75,7 +75,7 @@
 - [x] Must Know Laws - National Prep
 - [x] Refill Authorization Request
 - [x] Manufacturer Drug Label Requirements
-- [ ] Manufacturer Drug Visual
+- [x] Manufacturer Drug Visual
 
 ## Week 6: Info & Financial
 

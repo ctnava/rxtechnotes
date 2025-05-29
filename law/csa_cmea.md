@@ -136,6 +136,8 @@ These ingredients are commonly found in cold and allergy medications but can als
   - Product name
   - Quantity sold
   - Date and time of the sale
+
+![Additional DEA forms from deadiversion.usdoj.gov](../ref/img/dea_forms.PNG)
   
 ---
 
