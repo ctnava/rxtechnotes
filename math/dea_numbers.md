@@ -12,9 +12,7 @@ Pharmacy technicians may assist in DEA number verification as part of controlled
 
 A valid DEA number contains **two letters followed by seven digits**:
 
-```plaintext
-AB1234563
-```
+e.g. `AB1234563`
 
 | Position | Meaning |
 |----------|---------|
