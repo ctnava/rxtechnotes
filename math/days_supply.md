@@ -36,6 +36,25 @@ The **Days Supply** refers to how long a prescription will last based on the qua
 | Injector pens | mL | 3 mL per pen = 15 mL for box of 5 |
 | Injections (vials) | mL | 1 mL vial = 1 billing unit |
 
+### 🏷️ Inscription & Signa: Reading and Translating Prescriptions
+
+Understanding how to read prescriptions requires familiarity with the **Inscription** and **Signa** sections—two core components of written or electronic prescription orders.
+
+#### 📃 Prescription Structure
+
+| Section | Purpose |
+|---------|---------|
+| **Inscription** | Lists the **drug name**, **strength**, and **dosage form** |
+| **Signa (Sig)** | Provides **directions for the patient** |
+
+> 🛡️ "Signa" is Latin for "let it be labeled." It tells the patient how to take the medication.
+
+#### 🔄 Translating Signa Abbreviations
+
+Sig codes are often written in abbreviated Latin phrases. Pharmacy technicians must be able to **translate these into patient-friendly instructions**.
+
+🔗 See [Translating the Signa](../ref/sig_translation.md)
+
 ### Days Supply Calculations
 
 ${\boxed{\text{Per Diem}} = \text{Amount per Dose} \times \text{Doses per Diem}}$

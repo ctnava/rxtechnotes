@@ -1,6 +1,7 @@
 # 📘 Translating the Signa
 
-- 🔙🔗 [Unit Conversions](../math/unit_conversions.md)
+- 🔙🔗 [Unit Conversions](../math/unit_conversions.md#-inscription--signa-reading-and-translating-prescriptions)
+- 🔙🔗 [Days' Supply Calculations](../math/days_supply.md#-inscription--signa-reading-and-translating-prescriptions)
 
 ---
 
