@@ -1,9 +1,15 @@
 # Days Supply Calculations for Insulin
 
-**Billable Quantity**: Volume (mL)  
-**Clinical Quantity**: Total Units of insulin (U)
+<!-- 
+## Reference
+
+Pharmacy Calculations, 6e; Morton Publishing | Chapter 13
+-->
 
 ## 🔑 Key Facts
+
+**Billable Quantity**: Volume (mL)  
+**Clinical Quantity**: Total Units of insulin (U)
 
 - **Insulin concentrations** vary by product:
   - **U-100** = 100 Units/mL *(standard for most insulins)*
@@ -173,9 +179,3 @@ ${\boxed{28 \, \text{days per vial} \times 2 \, \text{vials} = 56 \, \text{days}
 ---
 
 🔗 Back to [Calculating Days' Supply](./days_supply.md)
-
-<!-- 
-## Reference
-
-Pharmacy Calculations, 6e; Morton Publishing | Chapter 13
--->
