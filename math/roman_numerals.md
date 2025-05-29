@@ -59,6 +59,12 @@ Roman numerals are typically formed by combining symbols **left to right**, addi
 > - 🚨 Only powers of ten (I, X, C) and V can be used to subtract.
 > - 🚨 No symbol can be repeated more than **three times** in a row.
 
+### ✅ Tips and Reminders
+
+- Repeat only **I, X, C, M**, and only up to **3 times**.
+- Never subtract more than one order of magnitude (e.g., `IC` for 99 is invalid; use `XCIX`).
+- Roman numerals are case-insensitive but typically written **in uppercase**.
+
 ### 🔁 Converting Roman to Arabic (Integer)
 
 To convert a Roman numeral into Arabic (standard number form):
@@ -116,12 +122,6 @@ Start from highest value that fits:
 - 4 → IV
 
 Final Roman numeral: **CMXLIV**
-
-### ✅ Tips and Reminders
-
-- Repeat only **I, X, C, M**, and only up to **3 times**.
-- Never subtract more than one order of magnitude (e.g., `IC` for 99 is invalid; use `XCIX`).
-- Roman numerals are case-insensitive but typically written **in uppercase**.
 
 ---
 

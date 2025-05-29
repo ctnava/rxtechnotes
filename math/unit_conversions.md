@@ -73,6 +73,13 @@ Conversions commonly used in pharmacy can be broken down into **volume** and **w
 > - 📌 Know both household → metric and metric → household conversions.
 > - 📌 Metric conversions are base-10: just move the decimal point.
 
+### ✅ Best Practices
+
+- Write out all units and cancel as you go
+- Round **only at the end**
+- Use only verified, standard conversion values
+- Understand both directions: household → metric and metric → household
+
 ### 🧪 Example: Convert 1 gallon to mL (step-by-step)
 
 We will convert 1 gallon to milliliters by **chaining units**, canceling each one along the way.
@@ -134,13 +141,6 @@ Sig codes are often written in abbreviated Latin phrases. Pharmacy technicians m
 | 2: Calculate total daily dose | ${30\ \text{mg/kg/day} \times 93.18\ \text{kg} = 2795.45\ \text{mg/day}}$ |
 | 3: Divide into 4 doses | ${\frac{2795.45\ \text{mg/day}}{4} \approx \boxed{698.86\ \text{mg per dose}} \approx \boxed{700\ \text{mg per dose\ (rounded)}}}$ |
 | 4: Final Answer | Administer 700 mg every 6 hours |
-
-### ✅ Best Practices
-
-- Write out all units and cancel as you go
-- Round **only at the end**
-- Use only verified, standard conversion values
-- Understand both directions: household → metric and metric → household
 
 ---
 

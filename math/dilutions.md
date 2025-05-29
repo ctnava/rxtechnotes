@@ -8,6 +8,14 @@ Pharmacy Calculations, 6e; Morton Publishing | Chapter 30
 
 Dilution involves **reducing the concentration** of a solution by adding a diluent (e.g. sterile water, normal saline). The **total amount of drug stays the same**, but it's dispersed in a **larger volume**.
 
+## 🚨 Tips and Best Practices
+
+- 📍 **Always label units**; cancel to confirm your math is valid.
+- 🛡️ For safety-critical doses (e.g. neonatal), recalculate and verify final concentration.
+- 🔁 Ratios (e.g. 1:5, 1:10) = "1 part drug per total parts" → Convert to percent or mg/mL if needed.
+- 📦 Document all compounding: **lot numbers, dates, and expiration**.
+- 🔗 Save all dilution steps for pharmacist verification.
+
 ## 🔢 Dilution Proportion Formula
 
 ![V_i C_i = V_f C_f](./img/dilutions/f1.PNG)
@@ -178,16 +186,6 @@ ${\implies {V_d = 30\ mL - 15\ mL }}$
 ${\boxed{\implies V_d = 15\ mL}}$ -->
 
 ✅ **Final Answer**: Add **15 mL diluent** to **15 mL of 1:5 solution**, in order to make 30 mL of 1:10 solution.
-
----
-
-## 🚨 Tips and Best Practices
-
-- 📍 **Always label units**; cancel to confirm your math is valid.
-- 🛡️ For safety-critical doses (e.g. neonatal), recalculate and verify final concentration.
-- 🔁 Ratios (e.g. 1:5, 1:10) = "1 part drug per total parts" → Convert to percent or mg/mL if needed.
-- 📦 Document all compounding: **lot numbers, dates, and expiration**.
-- 🔗 Save all dilution steps for pharmacist verification.
 
 ---
 
