@@ -8,8 +8,6 @@ Pharmacy Calculations, 6e; Morton Publishing | Chapter 1
 
 In pharmacy calculations, two primary numeral systems may appear: **Arabic numerals** and **Roman numerals**. Understanding both is essential for interpreting medication labels, documentation, schedules, and historical references in medical texts.
 
-## 🔑 Definitions
-
 - **Numeral**: A written symbol that represents a number.
 - **Arabic numerals**: The standard, **base-10 positional** number system used in most of the world today.
 - **Roman numerals**: A **non-positional** numeral system developed in ancient Rome, still used in specialized contexts.
@@ -20,7 +18,7 @@ Arabic numerals are what we use every day in pharmacy and general arithmetic:
 
 `0, 1, 2, 3, 4, 5, 6, 7, 8, 9`
 
-### 🔗 Key Characteristics
+### 🔑 Key Characteristics
 
 - **Positional**: The value of a digit depends on its position (e.g., 3 in 300 = three hundreds).
 - **Base-10**: Each digit represents a power of ten.
