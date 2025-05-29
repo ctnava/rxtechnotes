@@ -1,45 +1,5 @@
 # Denali Top 200
 
-## Hormones, Controllers, & Related Conditions
-
-### Reproductive
-
-yaz, ethinyl estradiol + drospirenone, birth control
-ortho tri cyclen, ethinyl estradiol + norgestimate, birth control
-
-### Menopause & Osteoporosis
-
-evista, raloxifene, estrogen modulator
-fosamax, alendronate, bone strengthener
-boniva, ibandronate, bone strengthener
-actonel, risedronate, bone strengthener
-
-### Thyroid
-
-tapazole, methimazole, anti thyroid hormone
-synthroid, levothyroxine, thyroid hormone replacement
-levoxyl, levothyroxine, thyroid hormone replacement therapy
-
-### Antidiabetics
-
-glucophage, metformin, antidiabetic
-actos, pioglitazone, antidiabetic
-amaryl, glimepiride, antidiabetic
-glucotrol, glipizide, antidiabetic
-januvia, sitagliptin, antidiabetic
-jardiance, empagliflozin, antidiabetic
-trulicity, dulaglutide, antidiabetic (increases insulin secretion from pancreas)
-victoza, liraglutide, antidiabetic (increases insulin secretion from pancreas)
-janumet, metformin + sitagliptin, antidiabetic combo
-
-### Insulins
-
-lantus, insulin glargine, insulin
-novolog, insulin aspart, insulin
-levemir, insulin detemir, insulin - antidiabetic
-tresiba, insulin degludec, insulin (long acting)
-humalog, insulin lispro, insulin (short acting)
-
 ## Pain Management
 
 ### Migraine Relief
