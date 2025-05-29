@@ -1,5 +1,11 @@
 # 📐 Unit Conversions for Pharmacy Technicians
 
+<!-- 
+## Reference
+
+Pharmacy Calculations, 6e; Morton Publishing | Chapter 8
+-->
+
 Unit conversions in pharmacy are grounded in **dimensional analysis**; a technique where you multiply by conversion factors to cancel units systematically. This helps convert between any two units in a structured, error-resistant way.
 
 ## 🔄 Basic Conversion Concept: Canceling Units
@@ -116,10 +122,6 @@ We will convert 1 gallon to milliliters by **chaining units**, canceling each on
 - Use only verified, standard conversion values
 - Understand both directions: household → metric and metric → household
 
+---
+
 🔗 Back to [**Mathematics Concepts Directory**](./readme.md)
-
-<!-- 
-## Reference
-
-Pharmacy Calculations, 6e; Morton Publishing | Chapter 8
--->
