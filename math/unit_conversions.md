@@ -91,7 +91,7 @@ We will convert 1 gallon to milliliters by **chaining units**, canceling each on
 
 Understanding how to read prescriptions requires familiarity with the **Inscription** and **Signa** sections—two core components of written or electronic prescription orders.
 
-📃 **Prescription Structure**
+### 📃 Prescription Structure
 
 | Section       | Purpose                                                |
 |---------------|--------------------------------------------------------|
@@ -104,37 +104,7 @@ Understanding how to read prescriptions requires familiarity with the **Inscript
 
 Sig codes are often written in abbreviated Latin phrases. Pharmacy technicians must be able to **translate these into patient-friendly instructions**.
 
-| Abbreviation | Meaning | Translation Example |
-|--------------|---------|---------------------|
-| **i**, **ii**, **iii** | 1, 2, 3 (Roman numerals) | "i tab" = 1 tablet |
-| **po** | per os | by mouth |
-| **qd** | quaque die | once daily |
-| **bid** | bis in die | twice daily |
-| **tid** | ter in die | three times daily |
-| **qid** | quater in die | four times daily |
-| **q4h** | every 4 hours | every 4 hours |
-| **prn** | pro re nata | as needed |
-| **hs** | hora somni | at bedtime |
-| **ac** | ante cibum | before meals |
-| **pc** | post cibum | after meals |
-| **ung** | unguentum | ointment |
-| **gtt** | guttae | drops |
-
-Sig codes are often written in abbreviated Latin phrases. Pharmacy technicians must be able to **translate these into patient-friendly instructions**.
-
-✍️ **Example**
-
-- **Inscription**: `Amoxicillin 250 mg/5 mL suspension`
-- **Sig**: 1 tsp po tid x 10 days
-
-=> `Take 1 teaspoon by mouth three times a day for 10 days`
-
-✅ **Best Practices for Technicians**
-
-- Translate *exactly* what is written—do **not** interpret or assume changes.
-- Always double-check **units**, **frequencies**, and **durations**.
-- Know common Latin abbreviations and how to convert them to plain English.
-- Use this skill when entering directions into the pharmacy system or preparing auxiliary labels.
+🔗 See [Translating the Signa](../ref/sig_translation.md)
 
 ### 🧪 Example: Oral Suspension Dosage in Household Units
 
@@ -174,4 +144,4 @@ Sig codes are often written in abbreviated Latin phrases. Pharmacy technicians m
 
 ---
 
-🔗 Back to [**Mathematics Concepts Directory**](./readme.md)
+🔗 Back to [Mathematics Concepts Directory](./readme.md)

@@ -1,6 +1,17 @@
 # 📘 Translating the Signa
 
+- 🔙🔗 [Unit Conversions](../math/unit_conversions.md)
+
+---
+
 The signa (the "sig") can be best described as `instructions for use` is almost always heavily abbreviated and pharmacy techs are often required to transcribe them for computer entry.
+
+## 🛡️ Best Practices for Technicians
+
+- Translate *exactly* what is written—do **not** interpret or assume changes.
+- Always double-check **units**, **frequencies**, and **durations**.
+- Know common Latin abbreviations and how to convert them to plain English.
+- Use this skill when entering directions into the pharmacy system or preparing auxiliary labels.
 
 > ⚠️ **Errors in sig translation can cause incorrect dosing or days supply. Confirm unclear abbreviations with a pharmacist.**
 
