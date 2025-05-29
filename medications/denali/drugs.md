@@ -63,29 +63,3 @@ rheumatrex, methotrexate, antirheumatic
 zyloprim, allopurinol, antigout
 plaquenil, hydroxychloroquine, arthritis/ lupus
 humira, adalimumab, immunosuppressive (arthritis + cohns + ulcerative colitis)
-
-## Gastro Intestinal
-
-### GERD Treatments
-
-pepcid, famotidine, antacid
-nexium, esomeprazole, antacid (ppi)
-prilosec, omeprazole, antacid (ppi)
-prevacid, lansoprazole, antacid (ppi)
-aciphex, rabeprazole, antacid (ppi)
-protonix, pantoprazole, antacid (ppi)
-
-### Nausea/ Vomiting
-
-phenergan, promethazine, antinausea/ anti-emetic
-zofran, odansetron, anti-nausea
-
-### Bowel Movements
-
-reglan, metoclopramide, GI motility stimulant
-glycolax, polyethylene glycol, laxative
-bentyl, dicyclomine, antispasmodic (intestinal)
-
-### Misc GI
-
-adipex, phentermine, appetite suppressant (c-iv)
