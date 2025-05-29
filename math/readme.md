@@ -1,6 +1,8 @@
 # Mathematics Concepts Directory
 
-Look at this as more of a quick review resource. It's not comprehensive and doesn't include very deep examples. However as long as you understand these concepts to their core, you'll always come out on top.
+> 📌 Look at this as more of a quick review resource. It's not comprehensive and doesn't include very deep examples. However as long as you understand these concepts to their core, you'll always come out on top.
+
+---
 
 🔣 **Legend**
 
