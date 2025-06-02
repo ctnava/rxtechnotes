@@ -60,3 +60,7 @@ The military already suffers from significant **mental health stigma**, and redu
 
 Unknown Author. “Keeping Education Accessible and Ending Covid-19 Vaccine Mandates in Schools.” Edited by Donald J. Trump et al., *The White House, Executive Office of the President of the United States*, 13 Feb. 2025,  
 [www.whitehouse.gov/presidential-actions/2025/02/establishing-the-presidents-make-america-healthy-again-commission](https://www.whitehouse.gov/presidential-actions/2025/02/establishing-the-presidents-make-america-healthy-again-commission/)
+
+---
+
+🔗 [Original Essay](./essay_make_america_healthy_again_commission.pdf)
