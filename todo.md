@@ -10,7 +10,6 @@
 - pharmacology & Pharmacokinetics
 - insulin content
 - link in my essays
-  - port to markdown
 
 ## Week 1: History of Pharmacy
 
