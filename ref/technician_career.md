@@ -10,10 +10,6 @@ The title **"pharmacy technician"** is used in 47 states, though some states use
 - 🐴 **Registered Pharmacy Technician** – Wyoming  
 - 🌰 **Qualified Pharmacy Technician** – Ohio
 
-Pharmacy technicians exist to **free up the pharmacist’s time** for more clinical duties by taking on routine technical tasks. To meet the growing demands of pharmacy services, technician roles are being expanded to include **advanced and specialized functions**, often with **higher pay and training requirements**.
-
-> ⚖️ In **California**, pharmacists may supervise **up to two** technicians. However, if only **one pharmacist** is on duty, the ratio must be **1:1**. Limits vary from state to state.
-
 ## 🛡️ Personal Standards & Qualities
 
 Pharmacy technicians must uphold the highest ethical and professional standards due to their access to sensitive health data and controlled substances. They are entrusted with duties that, if mishandled, can jeopardize patient health and public safety.
@@ -30,6 +26,10 @@ Pharmacy technicians must always act in a way that reinforces trust; both with t
 ## 🔬 Scope of Practice
 
 `Technicians carry out tasks that do not require a pharmacist's clinical experise`
+
+Pharmacy technicians exist to **free up the pharmacist’s time** for more clinical duties by taking on routine technical tasks. To meet the growing demands of pharmacy services, technician roles are being expanded to include **advanced and specialized functions**, often with **higher pay and training requirements**.
+
+> ⚖️ In **California**, pharmacists may supervise **up to two** technicians. However, if only **one pharmacist** is on duty, the ratio must be **1:1**. Limits vary from state to state.
 
 Pharmacy technicians perform a wide range of functions critical to the safe and efficient operation of pharmacies. The scope varies from state to state but core responsibilities include:
 
