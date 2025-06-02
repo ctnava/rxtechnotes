@@ -18,7 +18,7 @@ Pharmacy technicians exist to **free up the pharmacist’s time** for more clini
 
 `Technicians carry out tasks that do not require a pharmacist's clinical experise`
 
-The scope varies from state to state but generally includes:
+Pharmacy technicians perform a wide range of functions critical to the safe and efficient operation of pharmacies. The scope varies from state to state but core responsibilities include:
 
 - 🏥 Assisting the pharmacist in labeling and filling prescriptions (in both **inpatient** and **outpatient** settings)  
 - 📦 Helping patients drop off and pick up prescriptions  
