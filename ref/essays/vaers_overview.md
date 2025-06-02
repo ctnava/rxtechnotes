@@ -58,7 +58,7 @@ VAERS is a vital component of the U.S. public health system, enabling early dete
 - Ensuring vaccine safety
 - Upholding the integrity of national surveillance data
 
-By contributing accurate and timely reports, I help safeguard both individual patients and the broader community.
+By contributing accurate and timely reports, you can help safeguard both individual patients and the broader community.
 
 ---
 
