@@ -65,6 +65,7 @@ Additional responsibilities may include:
 
 Pharmacy Technicians must be licensed and registered in most states. Licensure allows them to perform pharmacy tasks under pharmacist supervision and ensures adherence to local laws. **Requirements are state-specific**, but commonly include:
 
+- Be at least 18 years old  
 - Completion of a state-approved training program
 - Passing a national exam (PTCE or ExCPT)
 - Background checks and drug screening
