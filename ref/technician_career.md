@@ -14,19 +14,42 @@ Pharmacy technicians exist to **free up the pharmacist’s time** for more clini
 
 > ⚖️ In **California**, pharmacists may supervise **up to two** technicians. However, if only **one pharmacist** is on duty, the ratio must be **1:1**. Limits vary from state to state.
 
+## 🛡️ Personal Standards & Qualities
+
+Pharmacy technicians must uphold the highest ethical and professional standards due to their access to sensitive health data and controlled substances. They are entrusted with duties that, if mishandled, can jeopardize patient health and public safety.
+
+Essential qualities include:
+
+- **Integrity** and honesty in all tasks  
+- **Confidentiality** regarding patient health information  
+- **Accuracy** in measuring, labeling, and documenting  
+- **Accountability** for all responsibilities, with a strong sense of duty  
+
+Pharmacy technicians must always act in a way that reinforces trust; both with the patients they serve and with the pharmacists and healthcare professionals who rely on them.
+
 ## 🔬 Scope of Practice
 
 `Technicians carry out tasks that do not require a pharmacist's clinical experise`
 
 Pharmacy technicians perform a wide range of functions critical to the safe and efficient operation of pharmacies. The scope varies from state to state but core responsibilities include:
 
-- 🏥 Assisting the pharmacist in labeling and filling prescriptions (in both **inpatient** and **outpatient** settings)  
-- 📦 Helping patients drop off and pick up prescriptions  
-- 🖥️ Entering prescription and insurance information into pharmacy systems  
-- 🧪 Compounding oral solutions, ointments, creams, and sterile IV medications  
-- 💊 Prepackaging bulk medications into unit doses  
-- 🛒 Assisting with medication purchasing, billing, and inventory control; typically computerized  
-- 📞 Working with insurers to process claims and request refills  
+1. **Collecting prescription information** from patients or healthcare professionals and entering them into pharmacy systems
+2. **Measuring** and preparing exact amounts of prescribed medications  
+3. **Packaging and labeling** medications for patient use  
+   - **Prepackaging** bulk medications into unit doses
+4. **Managing inventory**, including tracking stock and reporting shortages to pharmacists  
+5. **Processing insurance claims** and handling payments  
+6. **Entering patient information** into pharmacy information systems  
+7. **Handling phone calls** and addressing routine inquiries  
+8. **Coordinating pharmacist consultations** for patients with medication concerns  
+
+Additional responsibilities may include:
+
+- **Communicating with physicians** to clarify or process refills and authorizations  
+- **Operating automated dispensing equipment**  
+- **Compounding medications** (especially in specialty or hospital settings)  
+- **Assisting with sterile and non-sterile preparations**  
+- **Administering medications** (limited to specific inpatient environments where allowed)
 
 > 🎖️ Pharmacy technicians in the armed services may dispense medications under the supervision of pharmacists.
 
