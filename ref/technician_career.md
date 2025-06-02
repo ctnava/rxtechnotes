@@ -1,6 +1,6 @@
 # Pharmacy Technician Scope of Practice, Credentials, & Career
 
-A pharmacy technician is an individual who, under the direct supervision and control of a pharmacist, performs non-discretionary tasks.
+Pharmacy technicians are the backbone of daily pharmacy operations. They work under the supervision and control of licensed pharmacists to ensure that prescriptions are accurately prepared, labeled, and dispensed. According to the **Bureau of Labor Statistics (BLS)**, pharmacy technicians “help pharmacists dispense prescription medication to customers or health professionals [by performing non-discretionary tasks]”, underscoring their essential technical and administrative responsibilities.
 
 The title **"pharmacy technician"** is used in 47 states, though some states use different terms:
 
