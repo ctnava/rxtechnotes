@@ -1,5 +1,7 @@
 # Ethics & Legal Compliance
 
+*Technicians* are individuals who are given a basic level of training designed to help them with important specific tasks. Pharmacists rely on *pharmacy technicians* as support staff to assist with essential tasks that do not require the pharmacist's skill or expertise.
+
 ## Ethics
 
 Ethics is a branch of philosophy that helps decide what should be done in a principled sense besides what must be done to comply with laws. In the medical industry, universities, colleges, hospitals, and other organizations form Ethical Review Boards (ERBs) (or Institutional Review Boards (IRBs)) to provide ethical guidance and ensure legal & ethical standards are followed. ERBs in hospitals can provide consultation for difficult ethical cases when they arise. Corporate compliance officers are responsible to investigate legal or ethical concerns identified in a business.
@@ -107,6 +109,12 @@ In civil law, there are two major subdivisions:
 - **Torts**: civil wrongs that have duties associated with them, created by law
 
 Torts are a branch of civil law in which the courts determine remedies for alleged harm suffered by people who have no formal relationship with the offender and the majority of court cases involving pharmacists are torts. These are typically **negligence lawsuits**, where a person or legal party who failed to use reasonable caution when providing care or services which resulted in damages to the victim. **Malpractice** is a type of negligence lawsuit brough against a person with a professional license.
+
+## Duties
+
+### Medication Safety
+
+Preventing medication errors is an important goal of every pharmacy and, therefore, pharmacy technicians play an important role in preventing medication errors.
 
 > **Emily's Law** refers to a piece of legislation that focused on improving the qualifications and training of pharmacy technicians after a medication error led to the death of a child, resulting from a malpractice lawsuit. The pharmacist did not catch this error and both were held liable.
 

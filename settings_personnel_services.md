@@ -2,7 +2,7 @@
 
 ## Pharmacy Personnel
 
-Pharmacists rely on pharmacy technicians as support staff to assist with essential tasks that do not require the pharmacist's skill or expertise.
+Pharmacists work with a variety of support staff. Common examples include:
 
 ### Pharmacy Clerk/ Assistant
 
