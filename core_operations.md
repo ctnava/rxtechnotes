@@ -1,9 +1,5 @@
 # Core Pharmacy Operations
 
-## Communication
-
-Communication is an important part of teamwork in any pharmacy. It can take place in written, verbal, or nonverbal forms. As a technician, you may be communicating with patients, their representatives, as well as other healthcare professionals.
-
 ## 📞 Customer Service
 
 Pharmacy technicians must answer calls promptly, communicate clearly and respectfully, gather accurate information, and route clinical inquiries appropriately to ensure professional, accurate, and HIPAA-compliant telephone communication with patients, providers, and other parties contacting the pharmacy.

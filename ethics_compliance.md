@@ -112,6 +112,10 @@ Torts are a branch of civil law in which the courts determine remedies for alleg
 
 ## Duties
 
+## Communication
+
+Communication is an important part of teamwork in any pharmacy. It can take place in written, verbal, or nonverbal forms. As a technician, you may be communicating with patients, their representatives, as well as other healthcare professionals.
+
 ### Medication Safety
 
 Preventing medication errors is an important goal of every pharmacy and, therefore, pharmacy technicians play an important role in preventing medication errors.
