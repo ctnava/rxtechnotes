@@ -69,6 +69,18 @@ A licensed prescriber (e.g., physician, nurse practitioner, dentist) selects and
 > - patient profiles be current and contain adequate clinical information for the pharmacist to assess appropriateness of orders.
 > - the pharmacist always review presciptions & orders. Any incomplete, illegible, or otherwise concerning orders should be clarified.
 
+#### 📰 ISMP & High-Alert Medications
+
+The **ISMP maintains a list of high-alert medications**, which carry a higher risk of causing serious harm if used in error. These may include:
+
+- Chemotherapy drugs (☣️)
+- Insulins
+- Anticoagulants
+- Concentrated electrolytes
+- Opioids (🔐)
+
+Pharmacy staff should exercise **extra caution** when handling these.
+
 ### 2. Product Preparation, Labeling, & Packaging
 
 If compounding is required, a medication is prepared by mixing, measuring, or reconstituting ingredients into a patient-specific formulation. Otherwise, readily available dosage forms are gathered from stock shelves.
@@ -105,6 +117,15 @@ From here, labels are printed or written for the final medication container disp
 > - a series of checks should be established to assess the accuracy of the dispensing process. Other methods of checking include automation, computers, & patient profiles.
 > - labels should be read at least 3 times, on product selection, packaging, & return.
 > - staff triple check replenishment of regular stock or automated dispencers to ensure accuracy and precision.
+
+#### ⚠️ Contributing Factors and Preventive Strategies
+
+| Factor | Description | Best Practices |
+|--------|-------------|----------------|
+| **Look-alike/Sound-alike drugs** | Drugs with similar names or packaging can be confused. | Implement **Tall Man Lettering** (e.g., **hydrOXYzine** vs. **hydrALAZINE**), separate storage, barcode scanning. |
+| **Drug name suffixes** | Time-release formulations may differ significantly in onset, duration, or dosing frequency. | Pay attention to suffixes like **XR**, **ER**, **SR**, **CR**, **LA**. Verify dosing schedule. |
+| **Dangerous abbreviations** | Misinterpreted abbreviations can cause dosing errors. | Follow the **TJC “Do Not Use” List**. Avoid things like **U** (for units), **QD** (daily), **MS** (ambiguous). [View list](https://www.jointcommission.org/-/media/tjc/documents/resources/patient-safety-topics/sentinel-event/do-not-use-list.pdf) |
+| **OTC brand name extensions** | A single brand may have multiple formulations with different active ingredients. | Always check the **Drug Facts Label** for active ingredients. Avoid assuming all versions are the same. |
 
 ### 3. Dispensing, Education, & Distribution
 
