@@ -1,4 +1,4 @@
-# Pharmacy Settings, Personnel, & Services
+# Pharmacy Personnel & Services
 
 ## Pharmacy Personnel
 
@@ -55,6 +55,20 @@ NPs and PAs are **advanced practice providers** who are licensed to diagnose, tr
 - **Collaborative Practice**: Often work under a supervising or collaborating physician
 - **Vaccinations**: Can administer and prescribe vaccines
 - **Pharmacy Role**: Pharmacy personnel often verify NP/PA credentials and DEA numbers when filling prescriptions
+
+## Shared Duties
+
+### Medication Safety
+
+Preventing medication errors is an important goal of every pharmacy and, therefore, pharmacy technicians play an important role in preventing medication errors.
+
+> **Emily's Law** refers to a piece of legislation that focused on improving the qualifications and training of pharmacy technicians after a medication error led to the death of a child, resulting from a malpractice lawsuit. The pharmacist did not catch this error and both were held liable.
+
+🔗 Further Reading on [Medication Safety Practices & Errors](./ref/basic_safety_practices.md)
+
+### Communication
+
+Communication is an important part of teamwork in any pharmacy. It can take place in written, verbal, or nonverbal forms. As a technician, you may be communicating with patients, their representatives, as well as other healthcare professionals. The clarity, tone, and professionalism of your communication can directly affect patient safety and workflow efficiency.
 
 ## Services Offered
 
