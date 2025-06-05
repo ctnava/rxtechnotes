@@ -31,6 +31,7 @@
 - 📂 Keep accurate records and update patient profiles
 - 🎓 Engage in continuous training on safety procedures
 
----
+## 🗺️🔗 Nav Links
 
-🔙🔗 Back to [**Ethics & Compliance**](../ethics_compliance.md)
+- 🏠 [Home Directory](../readme.md)
+- 🔙 [**Ethics & Compliance**](../ethics_compliance.md)
