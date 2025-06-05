@@ -1,6 +1,4 @@
-# Professional Communication in the Pharmacy
-
-Communication is an important part of teamwork in any pharmacy. It can take place in written, verbal, or nonverbal forms. As a technician, you may be communicating with patients, their representatives, as well as other healthcare professionals. The clarity, tone, and professionalism of your communication can directly affect patient safety and workflow efficiency.
+# Professional Communication Standards in the Pharmacy
 
 ## Types of Communication
 
@@ -109,3 +107,10 @@ Whoever is directly interacting with the customer (pharmacy technician or pharma
 - Insurance does not cover the drug
 
 🛡️ **Best practice:** Keep notes in the patient’s profile and notify the pharmacist promptly when issues involve legal, ethical, or clinical judgment.
+
+---
+
+## 🗺️🔗 Nav Links
+
+- 🏠 [Home Directory](../readme.md)
+- 🔙 [Pharmacy Personnel, Duties, & Services](../personnel_services.md)
