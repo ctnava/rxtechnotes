@@ -16,11 +16,33 @@ According to the **National Coordinating Council for Medication Error Reporting 
 
 Pharmacy technicians are often the final checkpoint before a medication reaches the patient. Their attention to detail and adherence to safety protocols make a significant difference in reducing preventable harm. Technicians should feel empowered to speak up if something seems wrong and to collaborate with pharmacists and prescribers to ensure patient safety.
 
+### 🔐 Error Prevention Strategies
+
+- 🔄 Double-check all prescriptions before dispensing
+- 🏷️ Use barcodes to verify medication
+- 🗣️ Maintain clear communication with pharmacists and prescribers
+- 📝 Report and document errors for quality improvement
+- ✅ Follow the Five Rights when dispensing:
+  - ✔️ Right Patient
+  - ✔️ Right Drug
+  - ✔️ Right Dose
+  - ✔️ Right Route
+  - ✔️ Right Timing
+
+### 🛡️ Best Practices for Safe Handling
+
+- 🏠 Store medications properly to maintain potency and prevent contamination
+- 🏷️ Label medications clearly and include expiration dates
+- 📚 Educate patients on proper medication use and side effects
+- 📂 Keep accurate records and update patient profiles
+- 🎓 Engage in continuous training on safety procedures & error prevention programs
+- 🛡️ Report near-misses to help identify system flaws before they cause harm
+
 ## 🔢 Steps in the Medication-Use Process
 
 Medication errors can happen at any point from prescribing to patient use. Understanding each step helps technicians identify where safeguards are needed. When similar errors appear in different settings, they often share common root causes. Identifying and addressing these shared vulnerabilities helps prevent future incidents.
 
-### Prescribing & Order Communication
+### 1. Prescribing & Order Communication
 
 A licensed prescriber (e.g., physician, nurse practitioner, dentist) selects and orders a medication based on the patient's diagnosis. Then, the prescription or medication order is transmitted from the prescriber to the pharmacy (or within a facility to the pharmacy or nursing unit).
 
@@ -45,27 +67,57 @@ A licensed prescriber (e.g., physician, nurse practitioner, dentist) selects and
 > - patient profiles be current and contain adequate clinical information for the pharmacist to assess appropriateness of orders.
 > - the pharmacist always review presciptions & orders. Any incomplete, illegible, or otherwise concerning orders should be clarified.
 
-## 🔐 Error Prevention Strategies
+### 2. Product Preparation, Labeling, & Packaging
 
-- 🔄 Double-check all prescriptions before dispensing
-- 🏷️ Use barcodes to verify medication
-- 🗣️ Maintain clear communication with pharmacists and prescribers
-- 📝 Report and document errors for quality improvement
-- ✅ Follow the Five Rights when dispensing:
-  - ✔️ Right Patient
-  - ✔️ Right Drug
-  - ✔️ Right Dose
-  - ✔️ Right Route
-  - ✔️ Right Timing
+If compounding is required, a medication is prepared by mixing, measuring, or reconstituting ingredients into a patient-specific formulation. Otherwise, readily available dosage forms are gathered from stock shelves.
 
-## 🛡️ Best Practices for Safe Handling
+From here, labels are printed or written for the final medication container dispensed to the patient or caregiver and then medications are placed into containers (e.g., vials, unit-dose packs, blister cards) for dispensing.
 
-- 🏠 Store medications properly to maintain potency and prevent contamination
-- 🏷️ Label medications clearly and include expiration dates
-- 📚 Educate patients on proper medication use and side effects
-- 📂 Keep accurate records and update patient profiles
-- 🎓 Engage in continuous training on safety procedures & error prevention programs
-- 🛡️ Report near-misses to help identify system flaws before they cause harm
+**Potential Errors**:
+
+- **Compounding**
+  - Wrong ingredients or concentrations
+  - Incorrect calculations
+  - Contamination
+  - 🛡️ Double-check calculations and measurements. Follow sterile or non-sterile compounding protocols exactly. Label everything immediately.
+- **Product Selection**
+  - Confusion between drugs with similar names (e.g., **clonidine** vs. **klonopin**)
+  - Using abbreviations or shorthand that can be misread
+  - 🛡️ Use Tall Man Lettering, barcode scanning, and avoid dangerous abbreviations. Be cautious with look-alike/sound-alike drugs.
+- **Labeling**
+  - Providing incorrect directions on the label
+  - Incorrect patient name
+  - Missing auxiliary labels
+  - Wrong drug or strength on label
+  - 🛡️ Ensure printed labels match the original prescription. Check that auxiliary labels are appropriate and included.
+- **Packaging**
+  - Placing the wrong drug in the right-labeled bottle
+  - Mixing up similar-looking tablets
+  - Reusing containers with leftover labels
+  - 🛡️ Verify drug, strength, and dosage form when filling. Do not use containers with old or partially removed labels. Double-check **National Drug Code (NDC)** during product selection.
+
+> 🛡️ **The NCCMERP Recommends that**:
+>
+> - adequate staffing and resources should be present for the workload expected.
+> - product inventory should be arranged and separated to help differentiate medications; including visual discriminators.
+> - a series of checks should be established to assess the accuracy of the dispensing process. Other methods of checking include automation, computers, & patient profiles.
+> - labels should be read at least 3 times, on product selection, packaging, & return.
+
+### 3. Dispensing
+
+The final check is performed and medication is prepared for release to the patient or caregiver.
+
+**Potential Errors**:
+
+- Dispensing the **wrong drug**
+- Dispensing the **correct drug but in the wrong strength**
+- Mismatching patient profile and prescription
+- Omission of counseling or warnings
+- 🛡️ Barcode scan the medication. Verify patient information. Ensure pharmacist verification and patient counseling, where required.
+
+> 🛡️ **The NCCMERP Recommends that**:
+>
+> - the dispensing area be properly designed to prevent errors; addressing environmental fatigue, minimize distractions, and personnel interruptions. Keep workstations **organized and distraction-free** to reduce the chance of error.
 
 ---
 
