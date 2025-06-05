@@ -118,65 +118,11 @@ Preventing medication errors is an important goal of every pharmacy and, therefo
 
 > **Emily's Law** refers to a piece of legislation that focused on improving the qualifications and training of pharmacy technicians after a medication error led to the death of a child, resulting from a malpractice lawsuit. The pharmacist did not catch this error and both were held liable.
 
-🔗 Further Reading on [Basic Medication Safety Practices & Errors](./ref/basic_safety_practices.md)
+🔗 Further Reading on [Medication Safety Practices & Errors](./ref/basic_safety_practices.md)
 
 ### Communication
 
 Communication is an important part of teamwork in any pharmacy. It can take place in written, verbal, or nonverbal forms. As a technician, you may be communicating with patients, their representatives, as well as other healthcare professionals. The clarity, tone, and professionalism of your communication can directly affect patient safety and workflow efficiency.
-
-#### Verbal
-
-**Definition**: Spoken communication using language.
-
-**Examples**:
-
-- Speaking with a patient about when their prescription will be ready.
-- Answering questions from a nurse over the phone.
-- Informing the pharmacist about a potential drug interaction or insurance rejection.
-
-**Best Practices**:
-
-- Speak clearly and professionally.
-- Use layman’s terms with patients and technical language with healthcare professionals.
-- Confirm understanding by summarizing or repeating back critical information.
-- Avoid slang, sarcasm, or jokes that could be misunderstood.
-- Remain calm and courteous under pressure.
-
-#### Nonverbal
-
-**Definition**: Communication through body language, facial expressions, eye contact, tone of voice, posture, and gestures.
-
-**Examples**:
-
-- Nodding to acknowledge a patient.
-- Making eye contact to show attentiveness.
-- Smiling to create a welcoming environment.
-- Crossing arms or avoiding eye contact may unintentionally convey disinterest or hostility.
-
-**Best Practices**:
-
-- Maintain open and approachable body language.
-- Use appropriate facial expressions that match your tone and message.
-- Avoid distracting habits (e.g., checking your phone, fidgeting).
-- Be mindful of your posture and proximity to patients and coworkers.
-
-#### Written
-
-**Definition**: Communication that is documented in text, whether on paper or digitally.
-
-**Examples**:
-
-- Sending a message through the pharmacy software to a prescriber.
-- Writing notes in patient profiles or logs.
-- Labeling prescriptions and auxiliary labels.
-
-**Best Practices**:
-
-- Use correct grammar, spelling, and punctuation.
-- Be concise but complete.
-- Avoid abbreviations unless they are universally accepted (e.g., BID, PRN).
-- Reread messages before sending to ensure clarity and professionalism.
-- Document objectively and factually; never include opinions or emotional language in permanent records.
 
 ## Important Legislation
 
