@@ -135,3 +135,8 @@ Preventing medication errors is an important goal of every pharmacy and, therefo
 Below are vital pieces of legislation to know as a pharmacy technician.
 
 🔗 [Federal Law Reference Directory](./law/readme.md)
+
+## 🗺️🔗 Nav Links
+
+- 🏠 [Home Directory](./readme.md)
+<!-- - ⏩ [Next Chapter](./readme.md) -->

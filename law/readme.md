@@ -66,7 +66,7 @@
 |-----------|-----------|
 | **Occupational Safety & Health Act (OSHA, 1970)** | Requires employers to provide PPE, training, and Safety Data Sheets (SDS) for hazardous substances. |
   
----
+## 🗺️🔗 Nav Links
 
-- 🔙🔗 Back to [**Ethics & Compliance**](../ethics_compliance.md)
-- 🔙🔗 Back to [**Home Directory**](../readme.md)
+- 🏠 Back to [Home Directory](../readme.md)
+- 🔙 Back to [**Ethics & Compliance**](../ethics_compliance.md)
