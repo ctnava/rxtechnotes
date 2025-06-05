@@ -112,9 +112,15 @@ Torts are a branch of civil law in which the courts determine remedies for alleg
 
 ## Duties
 
-## Communication
+### Communication
 
 Communication is an important part of teamwork in any pharmacy. It can take place in written, verbal, or nonverbal forms. As a technician, you may be communicating with patients, their representatives, as well as other healthcare professionals.
+
+#### Verbal
+
+#### Nonverbal
+
+#### Written
 
 ### Medication Safety
 
