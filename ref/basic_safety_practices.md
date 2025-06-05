@@ -130,7 +130,12 @@ The final check is performed and medication is prepared for release to the patie
 > 🛡️ **The NCCMERP Recommends that**:
 >
 > - the dispensing area be properly designed to prevent errors; addressing environmental fatigue, minimize distractions, and personnel interruptions. Keep workstations **organized and distraction-free** to reduce the chance of error.
-> - pharmacists counsel patients at time of dispensing to verify accuracy & patient understanding.
+> - pharmacists counsel patients at time of dispensing to verify accuracy & patient understanding. Counseling should include explanations of:
+>   - indications for use, precautions, and warnings
+>   - expected outcome from use
+>   - potential adverse reactions, as well as interactions from food and other medications
+>   - steps to take when adverse reactions or interactions occur
+>   - storage requirements
 
 ---
 
