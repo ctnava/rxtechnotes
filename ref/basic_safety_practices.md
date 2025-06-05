@@ -137,6 +137,28 @@ The final check is performed and medication is prepared for release to the patie
 >   - steps to take when adverse reactions or interactions occur
 >   - storage requirements
 
+### 4. Administration, Use, & Monitoring
+
+Afterwards, the medication is actually given to the patient by a healthcare professional. Alternatively, the patient takes the medication as intended (or not).
+
+The patient’s response to therapy is also assessed to determine if adjustments are needed.
+
+- **Administration**
+  - Wrong patient, drug, time, route, or dose
+  - Omission of required dose
+  - Giving medication despite contraindications
+  - 🛡️ In outpatient settings, confirm patient understanding during pick-up. In institutional settings, support administration by restocking and flagging issues.
+- **Use**
+  - Non-adherence or incorrect use
+  - Sharing medications
+  - Taking expired or improperly stored medications
+  - 🛡️ Help patients understand timing, storage, and use. Encourage compliance and refer to pharmacist when issues arise.
+- **Monitoring**
+  - Overlooking adverse reactions
+  - Failing to detect lack of effectiveness
+  - Ignoring lab results
+  - 🛡️ Assist with refill histories, note adverse event reports, and flag refills that may indicate inappropriate or ineffective therapy.
+
 ---
 
 ## 🗺️🔗 Nav Links
