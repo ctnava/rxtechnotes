@@ -102,22 +102,35 @@ From here, labels are printed or written for the final medication container disp
 > - product inventory should be arranged and separated to help differentiate medications; including visual discriminators.
 > - a series of checks should be established to assess the accuracy of the dispensing process. Other methods of checking include automation, computers, & patient profiles.
 > - labels should be read at least 3 times, on product selection, packaging, & return.
+> - staff triple check replenishment of regular stock or automated dispencers to ensure accuracy and precision.
 
-### 3. Dispensing
+### 3. Dispensing, Education, & Distribution
 
-The final check is performed and medication is prepared for release to the patient or caregiver.
+The final check is performed and medication is prepared for release to the patient or caregiver and they are informed about how to take their medication safely and what to expect. Alternatively, medication is transferred from the pharmacy to the patient or, in institutions, to the correct nursing unit or automated dispensing cabinet.
 
 **Potential Errors**:
 
-- Dispensing the **wrong drug**
-- Dispensing the **correct drug but in the wrong strength**
-- Mismatching patient profile and prescription
-- Omission of counseling or warnings
-- 🛡️ Barcode scan the medication. Verify patient information. Ensure pharmacist verification and patient counseling, where required.
+- **Dispensing**
+  - Dispensing the **wrong drug**
+  - Dispensing the **correct drug but in the wrong strength**
+  - Mismatching patient profile and prescription
+  - Omission of counseling or warnings
+  - 🛡️ Barcode scan the medication. Verify patient information. Ensure pharmacist verification and patient counseling, where required.
+- **Education**
+  - Misunderstood directions
+  - Lack of knowledge about side effects
+  - Failure to recognize when to seek help
+  - 🛡️ Provide written materials, ensure the pharmacist is consulted when needed, and verify patient has understood any special instructions.
+- **Distribution**
+  - Sending medication to the wrong location
+  - Failure to maintain cold chain (for refrigerated meds)
+  - Missing doses in automated cabinets
+  - 🛡️ Match location/patient identifiers carefully. Monitor storage conditions. Restock automation correctly.
 
 > 🛡️ **The NCCMERP Recommends that**:
 >
 > - the dispensing area be properly designed to prevent errors; addressing environmental fatigue, minimize distractions, and personnel interruptions. Keep workstations **organized and distraction-free** to reduce the chance of error.
+> - pharmacists counsel patients at time of dispensing to verify accuracy & patient understanding.
 
 ---
 
