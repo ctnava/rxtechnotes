@@ -24,7 +24,7 @@
 
 - [x] DenaliRx Drugs 21-40
 - [x] "Medications to Know" (iii_outpatient_medications.md)
-- [ ] Reading: Chapter 2 - The Professional Pharmacy Technician
+- [x] Reading: Chapter 2 - The Professional Pharmacy Technician
 - [x] CE: OTC Analgesics
 - [x] Math: Chapter 8 - Household & Metric
 - [x] The Professional Pharmacy Tech Video
