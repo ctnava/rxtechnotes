@@ -87,7 +87,7 @@ Each state’s **Board of Pharmacy** is responsible for:
 
 While not government entities, these organizations shape pharmacy standards:
 
-- **American Society of Health-System Pharmacists (ASHP)**: Accredits pharmacy residencies and technician training programs
+- **American Society of Health-System Pharmacists (ASHP)**: Accredits pharmacy residencies and training programs; has model curriculum for technician training
 - **The Joint Commission (TJC)**: A non-profit that establishes standards & monitors compliance for healthcare programs in the US. TJC-accredited programs include hospitals, healthcare networks, HMOs, & nursing homes.
 - **Institute for Safe Medication Practices (ISMP)**: A nonprofit organization devoted to preventing medication errors. ISMP develops safety alerts, best practices, and error-prevention strategies widely adopted in pharmacy and healthcare settings.
 - **United States Pharmacopeia Convention (USP)**: Develops official drug quality standards adopted nationwide via the *USP–NF*
