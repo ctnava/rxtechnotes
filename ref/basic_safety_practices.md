@@ -20,7 +20,7 @@ Pharmacy technicians are often the final checkpoint before a medication reaches 
 
 Medication errors can happen at any point from prescribing to patient use. Understanding each step helps technicians identify where safeguards are needed. When similar errors appear in different settings, they often share common root causes. Identifying and addressing these shared vulnerabilities helps prevent future incidents.
 
-### 1. Prescribing & Order Communication
+### Prescribing & Order Communication
 
 A licensed prescriber (e.g., physician, nurse practitioner, dentist) selects and orders a medication based on the patient's diagnosis. Then, the prescription or medication order is transmitted from the prescriber to the pharmacy (or within a facility to the pharmacy or nursing unit).
 
@@ -65,6 +65,8 @@ A licensed prescriber (e.g., physician, nurse practitioner, dentist) selects and
 - 📂 Keep accurate records and update patient profiles
 - 🎓 Engage in continuous training on safety procedures & error prevention programs
 - 🛡️ Report near-misses to help identify system flaws before they cause harm
+
+---
 
 ## 🗺️🔗 Nav Links
 
