@@ -595,6 +595,7 @@ Hospitals may also have **outpatient pharmacies** or **clinic-affiliated pharmac
 - 🧑‍💼 **Pharmacy Technician Supervisor**
   - Manages workflow and technician schedules
   - Trains and evaluates technician staff
+    - **Performance Reviews** are regularly scheduled events to monitor and document technician competency.
   - Coordinates operations with pharmacists and hospital leadership
 - 🧾 **Front Counter/Main Pharmacy Technician**
   - Answers phones and triages calls
