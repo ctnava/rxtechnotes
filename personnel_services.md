@@ -70,7 +70,7 @@ Preventing medication errors is an important goal of every pharmacy and, therefo
 
 Communication is an important part of teamwork in any pharmacy. It can take place in written, verbal, or nonverbal forms. As a technician, you may be communicating with patients, their representatives, as well as other healthcare professionals. The clarity, tone, and professionalism of your communication can directly affect patient safety and workflow efficiency.
 
-🔗 Further Reading on [Professional Communication Standards in the Pharmacy](./ref/pharmacy_communication.md)
+🔗 Further Reading on [Professional Communication Standards](./ref/pharmacy_communication.md)
 
 ## Services Offered
 

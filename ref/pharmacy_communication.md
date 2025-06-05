@@ -1,4 +1,4 @@
-# Professional Communication Standards in the Pharmacy
+# Professional Communication Standards
 
 ## Types of Communication
 
