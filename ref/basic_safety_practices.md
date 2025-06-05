@@ -32,7 +32,7 @@ A licensed prescriber (e.g., physician, nurse practitioner, dentist) selects and
   - Omitting necessary details (e.g., route, frequency)
   - Illegible handwriting (on written scripts)
   - Prescribing despite known drug interactions
-  - 🛡️ Technicians do not prescribe but may help identify potential allergies or duplicate therapies by reviewing patient profiles or alerting pharmacists. Educate yourself on **high-alert medications** and those with narrow therapeutic indexes.
+  - 🛡️ Technicians do not prescribe but may help identify potential allergies or duplicate therapies by reviewing patient profiles or alerting pharmacists. Educate yourself on high-alert medications and those with narrow therapeutic indexes.
 - **Transcription**
   - Verbal orders misunderstood or misheard
   - Faxed or electronic orders routed incorrectly
@@ -40,9 +40,10 @@ A licensed prescriber (e.g., physician, nurse practitioner, dentist) selects and
   - Errors in transcription or data entry
   - 🛡️ Technicians must verify and enter data accurately. Always clarify unclear orders with a pharmacist. Ask clarifying questions when a prescription seems unusual. Be especially careful when entering verbal or handwritten prescriptions.
 
-> 🛡️ **The NCCMERP Recommends**:
+> 🛡️ **The NCCMERP Recommends that**:
 >
-> - that patient profiles be current and contain adequate clinical information for the pharmacist to assess appropriateness of orders.
+> - patient profiles be current and contain adequate clinical information for the pharmacist to assess appropriateness of orders.
+> - the pharmacist always review presciptions & orders. Any incomplete, illegible, or otherwise concerning orders should be clarified.
 
 ## 🔐 Error Prevention Strategies
 
