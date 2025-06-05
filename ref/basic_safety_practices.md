@@ -159,6 +159,12 @@ The patient’s response to therapy is also assessed to determine if adjustments
   - Ignoring lab results
   - 🛡️ Assist with refill histories, note adverse event reports, and flag refills that may indicate inappropriate or ineffective therapy.
 
+> 🛡️ **The NCCMERP Recommends that**:
+>
+> - pharmacies collect and analysze data regarding actual and potential errors for continuous quality improvement
+> - initial and ongoing training of staff must be provided
+> - each pharmacy establish policies and procedures for the dispensing process
+
 ---
 
 ## 🗺️🔗 Nav Links
