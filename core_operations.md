@@ -1,4 +1,4 @@
-# Core Pharmacy Operations
+# Core Pharmacy Operations & Standard Operating Procedures (SOP)
 
 ## 📞 Customer Service
 
