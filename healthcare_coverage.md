@@ -4,7 +4,7 @@
 
 The following are required reading for this chapter:
 
-- 🔗 **Healthcare Policy** (🔗 [Link](./law/healthcare.md))
+- 🔗 **Healthcare Policy** (🔗 [Link To](./law/healthcare.md))
 
 ## 😷 Healthcare Coverage
 
