@@ -6,6 +6,8 @@
 Pharmacy Calculations, 6e; Morton Publishing | Chapter 1
 -->
 
+`The amount of a drug in its manufactured or prescribed form is always stated numerically; that is with numbers.`
+
 In pharmacy calculations, two primary numeral systems may appear: **Arabic numerals** and **Roman numerals**. Understanding both is essential for interpreting medication labels, documentation, schedules, and historical references in medical texts.
 
 - **Numeral**: A written symbol that represents a number.
