@@ -112,7 +112,7 @@ Pharmacy Technicians must be licensed and registered in most states. Licensure a
 California State Licensure Requirements:
 
 - **Proof of Education**: transcript or notarized copy of diploma OR GED / HiSET/ TASC + CHSPE
-- **Proof of Training**: affidavit of ASHP-accredited coursework, associates degree in Pharmacy Technology, or graduation from a ACPE-accredited school of pharmacy
+- **Proof of Training**: affidavit of [ASHP-accredited coursework](https://www.ashp.org), associates degree in Pharmacy Technology, or graduation from a ACPE-accredited school of pharmacy
 - **Supporting Documents (optional; skips training)**: PTCB Certification or DD-214
 - **CE Requirements**: 20 hours every 2 years, including **1 hour in cultural competency**
 - **Renewals**: Notices mailed 90 days before expiration; licenses are canceled if not renewed within 90 days post-expiration
@@ -125,7 +125,7 @@ California State Licensure Requirements:
 A **Certified Pharmacy Technician (CPhT)** is credentialed by organizations such as the ***Pharmacy Technician Certification Board (PTCB)*** or ***National Healthcareer Association (NHA)***. Both are computer-based and assess knowledge essential for safe and effective pharmacy practice. Certification demonstrates advanced competency and may qualify technicians for expanded duties, such as medication reconciliation or billing.
 
 - **Benefits**: National recognition, greater job opportunities, higher wages, enhanced credibility
-- **Recertification**: Every 2 years, requiring 20 hours of ASHP-accredited **Continuing Education (CE)**, including:
+- **Recertification**: Every 2 years, requiring 20 hours of ASHP-accredited **Continuing Education (CE)** Credits, including:
   - 1 hour in **Pharmacy Law**
   - 1 hour in **Patient Safety**
 
@@ -161,35 +161,63 @@ To take the ExCPT, candidates must:
 
 ### Pharmacy Technician Certification Examination (PTCE)
 
-**Administered by**: Pharmacy Technician Certification Board (PTCB)
-**Length**: 2 hours
-**Format**: 90 multiple-choice questions (80 scored, 10 unscored)
-**Passing Score**: Scaled score of 1,400 out of a range of 1,000–1,600
-**Fee per Attempt**: $129 each time
+The **Pharmacy Technician Certification Examination (PTCE)** is a national certification exam administered by the **Pharmacy Technician Certification Board (PTCB)**. Passing this exam earns the designation **CPhT** (Certified Pharmacy Technician), which is recognized in most U.S. states and by many employers as the baseline credential for pharmacy technicians.
 
-🧩 **Content Domains**
+📋 **Exam Overview**
 
-- **Medications** (40%): Covers generic and brand names, classifications, therapeutic equivalence, and drug interactions
-- **Patient Safety & Quality Assurance** (26.25%): Covers high-alert medications, error prevention strategies, and quality assurance measures
-- **Order Entry & Processing** (21.25%): Focuses on medication order entry, prescription filling, and related processes
-- **Federal Requirements** (12.5%): Focuses on handling and disposal of pharmaceutical substances, controlled substance regulations (DEA), and federal agency requirements (DEA, FDA)
+- **Administered by**: Pharmacy Technician Certification Board (PTCB)
+- **Exam Length**: 2 hours
+- **Format**: 90 multiple-choice questions
+  - 80 are scored
+  - 10 are unscored pretest items (used for future exam validation)
+- **Passing Score**: Scaled score of **1,400**  
+  - Score range: 1,000–1,600
+  - The exam uses statistical scaling, so raw scores are converted to scaled scores
+- **Fee per Attempt**: **$129**
 
-🔞 **Eligibility**
+🧩 **Content Domains** (as of 2020 blueprint)
 
-To take the PTCE, candidates must:
+Each domain represents a percentage of the scored questions and evaluates critical knowledge areas:
 
-- Be at least 18 years old
-- Have a high school diploma or equivalent
-- Have a clean criminal record and no drug or pharmacy-related violations
-- Comply with all PTCB certification policies
+| Domain | Weight | Description |
+|--------|--------|-------------|
+| **Medication Order Entry & Fill Process** | 17.5% | Covers data entry, labeling, prescription processing, handling refills, interpreting sig codes, and ensuring accuracy in medication selection. |
+| **Pharmacology for Technicians** | 13.75% | Includes drug classifications, brand/generic names, indications, mechanisms of action, dosage forms, therapeutic equivalence, and common drug interactions. |
+| **Pharmacy Law & Regulations** | 12.5% | Focuses on federal pharmacy law (DEA, FDA), controlled substance schedules, prescription validity, recordkeeping, and disposal requirements. |
+| **Medication Safety** | 12.5% | Emphasizes error prevention, look-alike/sound-alike drugs, medication use evaluation, and safe handling techniques. Includes risk mitigation strategies and error reporting systems. |
+| **Pharmacy Information System Usage & Application** | 10% | Tests knowledge of pharmacy software systems, data input, system alerts, patient profiles, prescription tracking, and resolving software-related issues. |
+| **Sterile & Non-Sterile Compounding** | 8.75% | Covers compounding procedures, ingredient measurement, labeling, USP guidelines (USP <795> and <797>), and cleanroom procedures. |
+| **Pharmacy Inventory Management** | 8.75% | Includes procurement, ordering, storage conditions, expiration tracking, recalls, and reverse distribution procedures. |
+| **Pharmacy Billing & Reimbursement** | 8.75% | Tests understanding of third-party billing, claim rejection codes, copays, prior authorizations, and coordination of benefits. |
+| **Pharmacy Quality Assurance** | 7.5% | Focuses on continuous quality improvement, error detection, workflow optimization, and standard operating procedures. |
+
+> 🚨 These percentages are subject to change if the exam blueprint is updated.
+
+🔞 **Eligibility Requirements**
+
+To be eligible for the PTCE, applicants must:
+
+- Be **at least 18 years old**
+- Possess a **high school diploma or equivalent (e.g., GED)**
+- Have **no felony convictions**, drug or pharmacy-related convictions, or actions involving pharmacy or drug laws
+- **Comply with all PTCB policies**, including Code of Conduct and Candidate Attestation
+
+> 📍 Eligibility is verified during the application process. Providing false information may result in disqualification or revocation of certification.
 
 🔃 **Retake Policy**
 
-- **Wait Time**: 60 days between first two retakes
-- **Attempts per Year**: Up to 4 attempts total (lifetime)
-  - **After 4 failures**: Must appeal to take again
+- **First and second retakes**: Must wait **60 days** between attempts
+- **Third retake**: Must wait **6 months**
+- **Maximum attempts**: **4 lifetime attempts**
+  - After the fourth failure, the candidate must **submit an appeal** to PTCB for additional consideration.
 
-🌐 [Application Link](https://www.ptcb.org/ptce)
+> 📍 Each attempt requires a new $129 exam fee. There is no discount for retakes.
+
+🖱️ **Application Process**
+
+Candidates must apply online through the PTCB website. Once approved, they can schedule the exam through Pearson VUE at a location and time of their choosing.
+
+🌐 [Apply Online](https://www.ptcb.org/ptce)
 
 ### Additional Certifications
 
