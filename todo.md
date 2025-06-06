@@ -51,7 +51,7 @@
 - [x] Gowning Video
 - [x] Reading: Chapter 18 - Other Environments
   - ./settings_personnel_services.md
-- [ ] Reading: Chapter 8 - Routes & Formulations
+- [x] Reading: Chapter 8 - Routes & Formulations
 - [x] Math: DEA Numbers
 - [x] CE: Calculations for Pharmacy Technicians: Math & Measurements
 
