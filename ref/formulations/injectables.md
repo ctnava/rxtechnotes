@@ -11,25 +11,6 @@ Injection Dependent Routes involves delivering drugs directly into the body thro
 
 ## Injectable Formulations & Administration
 
-### 🧰 Injection Devices & Performance
-
-- **Syringe**: consists of plunger, barrel, and needle. Used for injections under 2 minutes
-  - Some products come preassembled and prefilled reduce contamination and improve convenience!
-- **Syringeability**: ease of drawing fluid from container
-- **Injectability**: ease of injecting fluid through needle
-
-📏 **Needle Gauge & Length by Route**
-
-| Route | Gauge; Length |
-|-------|---------------|
-| IV | 16–20G; 1–1.5" |
-| IM | 19–22G; 1–1.5" |
-| Subcutaneous | 24–27G; 3/8–1" |
-| Intradermal | 25–26G; 3/8" |
-
->- 🚨 Smaller gauge = larger diameter.  
->- 🛡️ Use **aseptic technique** to reduce infection risk.
-
 ### ⚗️ Injectable Formulations
 
 | Type | Description |
@@ -50,8 +31,28 @@ To protect sensitive and vital organs, parenteral formulations must:
 - Be packaged in **sterile, sealed containers** (vials, ampules, prefilled syringes)
 - Preservative-free unless labeled for **multi-dose** use
 - Have limited volume due to pain & increased cell death (**necrosis**)
+- Be designed with appropriate thickness (**viscosity**); affecting syringeability & injectability
 
 > ☣️ Injection-dependent parenteral routes **bypass all natural protective barriers**, increasing risk of systemic toxicity and infection. Caution is essential.
+
+### 🧰 Injection Devices & Performance
+
+- **Syringe**: consists of plunger, barrel, and needle. Used for injections under 2 minutes
+  - Some products come preassembled and prefilled reduce contamination and improve convenience!
+- **Syringeability**: ease of drawing fluid from container
+- **Injectability**: ease of injecting fluid through needle
+
+📏 **Needle Gauge & Length by Route**
+
+| Route | Gauge; Length |
+|-------|---------------|
+| IV | 16–20G; 1–1.5" |
+| IM | 19–22G; 1–1.5" |
+| Subcutaneous | 24–27G; 3/8–1" |
+| Intradermal | 25–26G; 3/8" |
+
+>- 🚨 Smaller gauge = larger diameter.  
+>- 🛡️ Use **aseptic technique** to reduce infection risk.
 
 ## Intravenous Route
 
