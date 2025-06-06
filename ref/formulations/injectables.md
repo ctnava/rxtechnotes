@@ -49,6 +49,7 @@ To protect sensitive and vital organs, parenteral formulations must:
 - Use **non-toxic excipients**
 - Be packaged in **sterile, sealed containers** (vials, ampules, prefilled syringes)
 - Preservative-free unless labeled for **multi-dose** use
+- Have limited volume due to pain & increased cell death (**necrosis**)
 
 > ☣️ Injection-dependent parenteral routes **bypass all natural protective barriers**, increasing risk of systemic toxicity and infection. Caution is essential.
 
