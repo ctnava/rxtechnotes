@@ -58,8 +58,9 @@ To succeed in pharmacy practice, technicians must be competent in multiple domai
   - Track inventory
   - Maintain patient records  
   - 📌 You must be fast and accurate with data entry, and know how to navigate error messages, claim rejections, and drug interaction warnings.
+  - 🛡️ Never "click through" alerts without reading. Many systems flag errors, but it's up to you to understand them and alert the pharmacist.
 
-> 🛡️ Never "click through" alerts without reading. Many systems flag errors, but it's up to you to understand them and alert the pharmacist.
+> 📌 Employers monitor and document performance throughout employment. This includes performance reviews, complaints, and comments by your supervisor or other appropriate personnel. Most jobs have a probation period during which time the technician is expected to learn certain skill sets. if competency is not met, the technician may receive an extended probabtion period or face dismissal.
 
 ## 🔬 Scope of Practice
 
