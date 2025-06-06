@@ -119,9 +119,9 @@ The CMEA was enacted to combat the illegal production of methamphetamine by crea
 
 | Time Period | Maximum Amount | Notes |
 | ------------|----------------|-------|
-| **Per Day**              | **3.6 grams**  | Applies to **all sources** (combined)    |
-| **30 Days (in-person)**  | **9 grams**    | Applies to retail pharmacy purchases     |
-| **30 Days (mail-order)** | **7.5 grams**  | Stricter limit for mobile/online vendors |
+| **Per Day**              | **3.6 grams** per purchaser | Applies to **all sources** (combined)    |
+| **30 Days (in-person)**  | **9 grams** per purchaser | Applies to retail pharmacy purchases     |
+| **30 Days (mail-order)** | **7.5 grams** per purchaser | Stricter limit for mobile/online vendors |
 
 These ingredients are commonly found in cold and allergy medications but can also be used in the **illicit manufacture of methamphetamine**.
 
