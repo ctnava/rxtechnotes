@@ -6,6 +6,10 @@
 Pharmacy Calculations, 6e; Morton Publishing | Chapter 25 & 26
 -->
 
+`A ratio states the relationship between two quantities, while a proportion can be used when there are two equal ratios.`
+
+They are often used to determine a quantity needed to fill or prepare a prescription, especially for compounded medications.
+
 ## 💯 Percent Strength of Solutions
 
 In pharmacy, concentration is often expressed using percent strength. This format communicates how much solute is present in a given volume or weight of solution. Understanding percent strength is essential for preparing, diluting, and interpreting compounded medications.
