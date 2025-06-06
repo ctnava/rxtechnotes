@@ -28,6 +28,8 @@
 
 ## Durham-Humphrey Amendment (1951)
 
+`defined what drugs require a prescription`
+
 - **Restrictions on Access**: explicitly defined prescription (Rx) and over-the-counter (OTC) drugs, separating them based on safety and the need for medical supervision.
   - **OTC Drugs**: Medications that may be sold without a prescription as long as they are appropriately labeled for home use.
   - **Rx Drugs**: Medications that may not be dispensed to the public except on the order or *prescription* of a licensed prescriber.
