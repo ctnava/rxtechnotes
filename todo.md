@@ -152,7 +152,7 @@
 ## Week 16: National Prep
 
 - [x] Math: Chapter 32 - TPN
-- [ ] Reading: Chapter 6 - Calculation Review
+- [x] Reading: Chapter 6 - Calculation Review
 
 ## Week 17: Final
 
