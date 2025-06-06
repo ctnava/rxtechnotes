@@ -22,7 +22,7 @@ Some basic values in ethical considerations include:
 
 - **Autonomy** of the patient to choose their treatment
   - 🦅 *Federal law protects the patient's right to refuse treatment*
-- **Beneficence** when treating patients
+- **Beneficence** when treating patients; having their best interests at heart
 - **Dignification** of the patient
 - **Non-Maleficence** when providing care
 - **Justice** in healthcare
@@ -101,6 +101,8 @@ While not government entities, these organizations shape pharmacy standards:
 - **Accreditation Commission for Health Care(ACHC)**: Sets standards for pharmacies that provide services in the realm of: infusion, community retail, long-term care, & specialty pharmacy. They also administer the *Pharmacy Compounding Accreditation Board (PCAB)* accreditation.
 
 ### ⚖️ Court of Law
+
+`Being liable means you can be prosecuted for misconduct.`
 
 Judicial law has two main divisions:
 
