@@ -48,4 +48,3 @@ Routes of administration are classified into two broad categories:
 ## 🗺️🔗 Nav Links
 
 - 🏠 [Home Directory](./readme.md)
-
