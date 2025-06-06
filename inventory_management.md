@@ -161,7 +161,7 @@ Proper storage of medications ensures **potency, safety, and compliance** with f
 
 - 📚 Organized shelving, cabinets, or drawers
 - 🔐 C-II controlled substances must be kept in **locked storage**
-- 💊 C-III through C-V medications may be kept on open shelves
+- 💊 C-III through C-V medications may be kept on **open shelves** in hospital & retail
 - ❄️ Pharmacy refrigerators must be **drug-only** (no food or drink allowed)
 
 ### 🛡️ Best Practices
