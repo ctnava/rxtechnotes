@@ -196,7 +196,7 @@ Key characteristics:
 
 > 📍 Avoid using gelling agents not labeled for oral use. Some are only appropriate for topical or ophthalmic formulations.
 
-### 👅 Sublingual & Buccal Routes
+## 👅 Sublingual & Buccal Routes
 
 **Sublingual (SL)** and **buccal (Bucc)** formulations are designed for **rapid systemic absorption** via the **oral mucosa**. These dosage forms bypass the gastrointestinal tract and **first-pass hepatic metabolism**, delivering the drug **directly into the bloodstream** through **capillaries under or along the tongue and inner cheek**.
 
@@ -207,20 +207,20 @@ They are *useful* when **swallowing is impaired** or GI route is contraindicated
 
 > 📌 These formulations are typically **solid** (e.g. tablets, films, wafers) or **liquid drops** (usually <1 mL per dose) containing **water-soluble drugs**.
 
-#### ⚙️ Administration Guidelines
+### ⚙️ Administration Guidelines
 
 - If the mouth is **dry**, moisten it before administration to improve dissolution and absorption.
 - **Do not chew or swallow** the dosage form; allow it to fully dissolve.
 - **Avoid eating, drinking, or talking** until the drug is fully absorbed.
 - Buccal forms with **mucoadhesives** can improve residence time and absorption but may feel bulky or uncomfortable.
 
-#### 📉 Disadvantages
+### 📉 Disadvantages
 
 - **Unpleasant or bitter taste** is common.
 - **Mucosal irritation** may occur.
 - May be **inconvenient** for patients who cannot remain still or refrain from eating/drinking during administration.
 
-### 🍑 Rectal Route
+## 🍑 Rectal Route
 
 Drugs administered via the **rectal route** can provide **rapid, local or systemic,** effects. This route is used when:
 
@@ -240,7 +240,7 @@ Drugs administered via the **rectal route** can provide **rapid, local or system
 
 > 🚨 **Frequent enema use is discouraged** due to potential for dependence and disruption of normal bowel function.
 
-#### ⚠️ Disadvantages
+### ⚠️ Disadvantages
 
 - **Inconvenient and uncomfortable**
 - **Erratic and unpredictable absorption**

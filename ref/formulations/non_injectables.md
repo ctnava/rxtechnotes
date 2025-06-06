@@ -120,7 +120,7 @@ These **injection-independent parenteral routes** include delivery to the **eyes
 | **Solutions** | Drops or fine mist | Simple; but drops often drain (post nasal drip) and are swallowed |
 | **Suspensions** | Spray or aerosol | Longer contact time on mucosa |
 | **Sprays** | Metered spray | Preferred over drops; minimizes drainage and swallowing |
-| **Metered-Dose Inhalers (MDI)** | Actuator device | More accurate dosing than squeeze bottles |
+| **Metered-Dose Inhalers (MDI)** | Actuator device with special metering valves | More accurate dosing than squeeze bottles |
 | **Aerosols** | Pressurized canister | Used when **particle size** matters for deposition |
 | **Inhalers** | Volatile drug systems | Contain fibrous matrix saturated with volatile agents |
 | **Ointments / Gels** | Direct application | Longer residence time; less drainage risk |
@@ -172,7 +172,7 @@ Inhaled medications deliver drugs to the **pulmonary system** via the lungs, whi
 💊 **Dosage Forms**
 
 - **Aerosols** (Most Common)
-  - **Metered Dose Inhalers (MDIs)**: pressurized canisters; standard for many pulmonary drugs.
+  - **Metered Dose Inhalers (MDIs)**: pressurized canisters with metering valves; standard for many pulmonary drugs.
   - **Spacers and Adapters**: attach to MDI mouthpiece; improve delivery by separating actuation from inhalation by 3–5 seconds.
 - **Solutions**
   - **Atomizers**: spray-generating devices; may use manual squeeze bulbs or automated systems.
