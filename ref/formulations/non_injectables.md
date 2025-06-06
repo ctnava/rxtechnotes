@@ -106,7 +106,7 @@ These **injection-independent parenteral routes** include delivery to the **eyes
 ### 🔑 Intranasal Overview
 
 - The **nasal cavity** has a total volume of ~20 mL and a **large surface area** lined with **rich capillary beds**, making it highly suitable for both **local** and **systemic** drug delivery.
-- Absorption through the nasal mucosa can produce **plasma drug concentrations comparable to intravenous (IV)** administration for certain drugs.
+- Absorption through the nasal **mucosa** can produce **plasma drug concentrations comparable to intravenous (IV)** administration for certain drugs.
 
 🩺 **Common Uses**
 
