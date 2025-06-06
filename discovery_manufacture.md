@@ -58,6 +58,8 @@ Step 2: **Preclinical Testing** (1 Year)
 
 Step 3: **Clinical Trials** (4-7 Years)
 
+`Only about 25% of drugs tested on humans are approved for use by the FDA.`
+
 Clinical trials involve **human research** subjects and are conducted in three phases. Participants must give informed consent and the information necessary to provide it (per Kefauver-Harris Amendment). They are free to leave as they wish.
 
 - **Phase 1 (20 - 80 People)**: Determine ***safety*** first by collecting a profile of side effects in a small group of healthy volunteers over ***several months***.
