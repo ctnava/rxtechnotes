@@ -22,6 +22,8 @@ The **solute** is the active ingredient or substance being dissolved. It is typi
 
 > 🚨 By convention, if a percent strength is listed without specifying the format, it is assumed to be **% w/v**.
 
+`Milliequivalents (meq) are sometimes used for expressing the concentration in electrolyte solutions`
+
 ### 🧪 Example 1: Determine Percent Strength from Ingredients and Volume
 
 **Question**: What is the % strength of a solution made by dissolving 12 g of NaCl in enough water to make 400 mL of solution?
