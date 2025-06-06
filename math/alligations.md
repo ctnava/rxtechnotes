@@ -6,7 +6,7 @@
 Pharmacy Calculations, 6e; Morton Publishing | Chapter 31
 -->
 
-**Alligation** is a method used to determine how to combine **two strengths** (concentrations) of the **same ingredient** to achieve a **desired strength** (concentration) that falls **between** the two.
+**Alligation** is a method used to determine how to combine **two different strengths** (concentrations) of the **same ingredient** to achieve a **desired strength** (concentration) that falls **between** the two.
 
 It is a shortcut technique (often visualized like a tic-tac-toe grid) to avoid solving with full algebra.
 
