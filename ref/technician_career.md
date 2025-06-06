@@ -131,33 +131,61 @@ A **Certified Pharmacy Technician (CPhT)** is credentialed by organizations such
 
 ### Exam for the Certification of Pharmacy Technicians (ExCPT)
 
-**Administered by**: National Healthcareer Association (NHA)
-**Length**: 2 hours 10 minutes
-**Format**: 100 multiple-choice questions + 20 unscored pretest questions
-**Passing Score**: 390 out of 500
-**Fee per Attempt**: $125 each time
+The **Exam for the Certification of Pharmacy Technicians (ExCPT)** is a national certification exam administered by the **National Healthcareer Association (NHA)**. Passing this exam grants the **CPhT** credential, which is recognized in most U.S. states and by many employers.
 
-🧩 **Content Domains**
+Although less widely recognized than the PTCB's PTCE, the ExCPT is accepted in California and by many national retail pharmacy chains, making it a valid path to licensure and employment.
 
-- **The Dispensing Process** (55%): Covers all aspects of dispensing medications, from receiving and processing orders to preparing and dispensing prescriptions, as well as calculations, compounding, and sterile & nonsterile products
-- **Laws & Regulations** (25%): Covers the role, scope of practice, and general duties of a pharmacy technician, as well as relevant laws and regulations, including those related to controlled substances
-- **Drugs and Drug Therapy** (20%): Tests knowledge of drug classifications, frequently prescribed medications, and their mechanisms of action
+📋 **Exam Overview**
 
-🔞 **Eligibility**
+- **Administered by**: National Healthcareer Association (NHA)
+- **Exam Length**: 2 hours 10 minutes (130 minutes)
+- **Format**: 120 multiple-choice questions  
+  - 100 are scored  
+  - 20 are unscored pretest items (used to evaluate future test questions)
+- **Passing Score**: **390 out of 500**
+  - Raw scores are scaled to ensure consistency between exam versions
+- **Fee per Attempt**: **$125**
 
-To take the ExCPT, candidates must:
+> 📍 You will receive your pass/fail status immediately after testing. Official results are typically posted to your NHA account within 1 to 2 business days.
 
-- Be at least 18 years old
-- Have a high school diploma or equivalent
-- Have completed a pharmacy technician training program OR have 1 year of pharmacy-related work experience
+🧩 **Content Domains** (as of 2020 blueprint)
+
+The ExCPT is divided into four domains, each with its own percentage of the scored questions:
+
+| Domain | Weight | Description |
+|--------|--------|-------------|
+| **The Dispensing Process** | 45% | Covers all tasks related to filling prescriptions: receiving medication orders, verifying patient information, calculating dosages, preparing medications, compounding, labeling, final checks, and proper storage. Includes both sterile and nonsterile compounding topics. |
+| **Overview & Laws** | 25% | Focuses on the technician's scope of practice, role in the pharmacy workflow, and understanding of federal laws and regulations. This includes the Controlled Substances Act (CSA), DEA scheduling, labeling rules, and documentation requirements. |
+| **Drugs & Drug Therapy** | 15% | Tests knowledge of drug classes, commonly prescribed medications, therapeutic uses, dosage forms, side effects, and mechanisms of action. |
+| **Medication Safety & Quality Assurance** | 15% | Emphasizes best practices in preventing medication errors, detecting drug interactions, using barcode and labeling systems, and applying continuous quality improvement methods in pharmacy operations. |
+
+> 🚨 These categories and their weightings are based on the 2020 blueprint and are subject to revision.
+
+🔞 **Eligibility Requirements**
+
+To sit for the ExCPT, applicants must:
+
+- Be **at least 18 years old**
+- Possess a **high school diploma or equivalent (e.g., GED)**
+- Have **completed one of the following**:
+  - A **pharmacy technician training program** (accredited, employer-based, military, or formal school)
+  - **At least 1 year of supervised, pharmacy-related work experience** (must be within the past 3 years)
+
+> 📍 You may be asked to provide documentation verifying training or work experience. Applications may be audited.
 
 🔃 **Retake Policy**
 
-- **Wait Time**: 30 days between attempts
-- **Attempts per Year**: Up to 3 times per year
-  - **After 3 failures**: Must wait 1 year before reapplying
+- **Wait Time**: **30 days** between exam attempts
+- **Max Attempts per Year**: **3 times per calendar year**
+- **After 3 Failures**: Must wait **1 full year** before reapplying
 
-🌐 [Application Link](https://www.nhanow.com/certifications/pharmacy-technician)
+Each attempt requires a separate $125 payment. There is no waiting period between registration and scheduling the exam (once eligibility is confirmed).
+
+🖱️ **Application Process**
+
+Applications must be submitted through the **NHA website**. Once approved, candidates can schedule the exam online at an approved testing center or via **live remote proctoring** from home.
+
+🌐 [Apply Online](https://www.nhanow.com/certifications/pharmacy-technician)
 
 ### Pharmacy Technician Certification Examination (PTCE)
 
@@ -174,6 +202,8 @@ The **Pharmacy Technician Certification Examination (PTCE)** is a national certi
   - Score range: 1,000–1,600
   - The exam uses statistical scaling, so raw scores are converted to scaled scores
 - **Fee per Attempt**: **$129**
+
+> 📍 You are notified of your **pass/fail status immediately** after testing. Official results and digital certificates are typically available within 1–3 weeks.
 
 🧩 **Content Domains** (as of 2020 blueprint)
 
