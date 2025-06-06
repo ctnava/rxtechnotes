@@ -49,7 +49,7 @@
   - Patient name
   - Medication name and strength
   - Directions for use
-  - Prescriber name
+  - **Prescriber name**
   - Quantity and refill count
   - Prescription number and pharmacy details
 
