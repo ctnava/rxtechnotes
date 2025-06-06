@@ -130,7 +130,7 @@ Pharmacies must:
 
 ## 🤯 Health Information Technology for Economic & Clinical Health Act (HITECH, 2009)
 
-<!-- Amends HIPAA -->
+`Amends HIPAA`
 
 - Expands HIPAA by extending accountability to **Business Associates**
 - Promotes **Electronic Health Records (EHR)** and defines **Meaningful Use** standards
