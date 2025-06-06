@@ -32,6 +32,8 @@ Parenteral medications are administered by injection, bypassing the digestive sy
 
 ## 📘 Ratio and Proportion Review
 
+`Equations (math statements in which two terms are equal) are used to calculate unknown amounts needed to fill prescriptions or calculate dosages.`
+
 Set up two equivalent ratios:
 
 ![strength / volume = strength / volume](./img/parenteral_ratios/formula.PNG)
