@@ -148,6 +148,8 @@ Wholesalers create regional and national distribution networks, storing bulk pur
 
 ## Public Safety & Recalls
 
+**Adverse effects** are unintended side affects of a medication that is negative or in some way injurious to a patient's health.
+
 `Not removing harmful or ineffective products from the market (i.e. recalling bad products) leaves the manufacturer vulnerable to legal action.`
 
 While drug approval processes are thorough, it is impossible to account for everything. The FDA maintains reporting programs called **MedWatch** and the **Vaccine Adverse Event Reporting System (VAERS)** that allow anyone to report adverse effects that occur from the use of approved drugs or vaccines. If the FDA determines that any drug or vaccine poses a public health risk, then they may file an injunction to prevent distribution; seize the drug from the manufacturer; or issue a recall of the drug.
