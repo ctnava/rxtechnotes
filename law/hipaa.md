@@ -138,7 +138,10 @@ Pharmacies must:
 - Increases penalties for non-compliance
 
 > 🤯 HITECH ties HIPAA compliance to federal incentive programs for technology adoption and mandates stricter breach reporting.
-  
+
 ---
 
-🔙🔗 Back to [**Federal Law Reference Directory**](./readme.md)
+## 🗺️🔗 Nav Links
+
+- 🦅 [Federal Law Reference Directory](../readme.md)
+- 🔙 [Professional Communication Standards](../ref/pharmacy_communication.md#types-of-communication)

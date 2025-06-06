@@ -5,6 +5,7 @@
 Effective communication is essential to patient safety and pharmacy operations. Communication in a pharmacy is governed by 🦅 **HIPAA** (Health Insurance Portability and Accountability Act), which protects the privacy and security of patient information.
 
 - 🔐 **Maintain confidentiality:** Always follow HIPAA rules. Do not discuss patient information with unauthorized individuals.
+  - 🔗 [Further Information on HIPAA Compliance (required)](../law/hipaa.md)
 - 🚫 **Minimize distractions:** Avoid multitasking or interrupting conversations, especially when discussing medications or instructions.
 - 🕒 **Respect time constraints:** Recognize that patients may be in a hurry, frustrated, or distracted. Speak clearly and respectfully.
 - ⚠️ **De-escalate during delays:** If a prescription is delayed, explain what’s happening and why, and give a realistic timeframe.
