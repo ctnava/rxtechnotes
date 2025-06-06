@@ -118,6 +118,8 @@ Below are vital pieces of legislation to know as a pharmacy technician.
 
 🔗 [Federal Law Reference Directory](./law/readme.md)
 
+---
+
 ## 🗺️🔗 Nav Links
 
 - 🏠 [Home Directory](./readme.md)

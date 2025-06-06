@@ -2,17 +2,6 @@
 
 The absorption, distribution, and overall effect of a drug in the body depend on both the **route of administration** and the **formulation** used. Drugs are delivered in specific units called **dosage forms**, each tailored to optimize efficacy, stability, and patient compliance.
 
-## 🛤️ Routes of Administration
-
-Routes of administration are classified into two broad categories:
-
-- **Enteral**: Administration involving the **alimentary canal**
-  - 🔗 See [Formulations & Dosage Forms](./ref/formulations/enteral_routes.md)
-- **Parenteral**: Administration **bypassing** the gastrointestinal tract
-  - 🔗 See [Formulations & Dosage Forms](./ref/formulations/parenteral_routes.md)
-
-> 📌 Each route affects **onset**, **bioavailability**, and **duration of action**.
-
 ## 💊 Dosage Forms
 
 A **dosage form** refers to the physical form of a drug product suitable for administration. A single drug may be available in multiple dosage forms, each designed to modify how the drug is delivered and absorbed. Selection depends on patient needs, target effect location, and pharmacokinetics.
@@ -42,3 +31,21 @@ Dosage forms consist of:
 | **Coating Agents** | Mask taste or control release | Enteric-coated, Extended-release tabs|
 
 📍 *Note: Not all excipients are inert for all patients. Some may cause allergies or intolerances.*
+
+## 🛤️ Routes of Administration
+
+Routes of administration are classified into two broad categories:
+
+- **Enteral**: Administration involving the **alimentary canal**
+  - 🔗 See [Formulations & Dosage Forms](./ref/formulations/enteral_routes.md)
+- **Parenteral**: Administration **bypassing** the gastrointestinal tract
+  - 🔗 See [Formulations & Dosage Forms](./ref/formulations/parenteral_routes.md)
+
+> 📌 Each route affects **onset**, **bioavailability**, and **duration of action**.
+
+---
+
+## 🗺️🔗 Nav Links
+
+- 🏠 [Home Directory](./readme.md)
+
