@@ -6,7 +6,7 @@ Injection Dependent Routes involves delivering drugs directly into the body thro
 |-------|-------------|--------------------|
 | 🔗 [Intravenous (IV)](#intravenous-route) | Injected **directly into the vein**. Provides **immediate systemic effect**. Ideal for **large volumes**, **continuous infusion**, or **small volumes** of drugs with **narrow therapeutic windows** | Fluids (e.g. D5W, NS), blood products, fat emulsions, Patient Controlled Analgesia(PCA) |
 | 🔗 [Intramuscular (IM)](#intramuscular-route) | Injected **deep into muscle tissue**. Slower onset than IV, but longer duration. | haloperidol, prochlorperazine, **iron dextran**, olanzapine, ziprasidone, metoclopramide |
-| 🔗 [Subcutaneous (SC or SubQ)](#subcutaneous-route) | Injected or **implanted** into the **fatty tissue** just under the skin. Slower absorption than IM. | **insulin**, enoxaparin, heparin, vaccines |
+| 🔗 [Subcutaneous (SC or SubQ)](#subcutaneous-route) | Injected or **implanted** into the **fatty tissue** just under the skin. Slower absorption than IM. | **insulin (most common route)**, enoxaparin, heparin, vaccines |
 | 🔗 [Intradermal (ID)](#intradermal-route) | Injected into the **dermal layer** of skin at an angle. | immunization, desensitization, **allergy testing**, & **diagnostics**  (e.g. tuberculin tests) |
 
 ## Injectable Formulations & Administration
@@ -17,7 +17,6 @@ Injection Dependent Routes involves delivering drugs directly into the body thro
   - Some products come preassembled and prefilled reduce contamination and improve convenience!
 - **Syringeability**: ease of drawing fluid from container
 - **Injectability**: ease of injecting fluid through needle
-Administered by needle
 
 📏 **Needle Gauge & Length by Route**
 

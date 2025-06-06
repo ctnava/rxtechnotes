@@ -4,6 +4,12 @@
 
 Some enteral routes are designed to deliver medication **systemically**, while others act **locally** within the GI tract. Understanding the differences is critical for determining the appropriate route and formulation for a given drug or patient condition.
 
+The primary advantages of enteral dosage forms are:
+
+- Low cost
+- Easy to discontinue
+- The least likely to result in infection
+
 | Route | Associated Dosage Forms |
 |-------|-------------------------|
 | **Oral (PO)** | Tablets, Capsules, Bulk Powders, Solutions, Suspensions, Elixirs, Syrups, Emulsions |

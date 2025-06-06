@@ -175,7 +175,7 @@ Inhaled medications deliver drugs to the **pulmonary system** via the lungs, whi
   - **Metered Dose Inhalers (MDIs)**: pressurized canisters with metering valves; standard for many pulmonary drugs.
   - **Spacers and Adapters**: attach to MDI mouthpiece; improve delivery by separating actuation from inhalation by 3–5 seconds.
 - **Solutions**
-  - **Atomizers**: spray-generating devices; may use manual squeeze bulbs or automated systems.
+  - **Atomizers**: devices that convert liquids into sprays; may use manual squeeze bulbs or automated systems.
   - **Nebulizers**: vaporize solution using air or ultrasonic energy inside a chamber for direct inhalation.
 - **Dry Powder Inhalers (DPIs)**
   - Drug is preloaded into the device and automatically released upon patient inhalation.
