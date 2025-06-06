@@ -37,7 +37,7 @@
   - **Prescriptions**: medication order on a prescription blank to be filled in an *outpatient/ ambulatory* setting.
 - **Verbal Prescriptions**: Legalized the transmission of prescriptions via telephone.
 - **Refills**: Allows pharmacists to refill prescriptions as indicated by the prescribing physician.
-- **Legend Label**: Rx drugs were required to carry a label stating, "Caution: Federal law prohibits dispensing without a prescription" or "RX Only".
+- **Legend Label**: Rx drugs were required to carry a label stating `RX Only` & "Caution: Federal law prohibits dispensing without a prescription".
 
 ## Kefauver-Harris Amendment (1962)
 
