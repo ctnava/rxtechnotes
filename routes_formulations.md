@@ -32,6 +32,19 @@ Dosage forms consist of:
 
 📍 *Note: Not all excipients are inert for all patients. Some may cause allergies or intolerances.*
 
+## 🧫 Solubility and Absorption
+
+A drug's **solubility** is its ability to dissolve in a solvent, typically water or biological fluids. This property directly influences **absorption**, especially for **enteral** and **parenteral** routes.
+
+> 🔑 A drug must be **dissolved** before it can be **absorbed** into the bloodstream. Poor solubility often leads to poor bioavailability.
+
+| Property            | Effect on Drug Performance        |
+| ------------------- | --------------------------------- |
+| **High Solubility** | Faster dissolution, quicker onset |
+| **Low Solubility**  | Slower or incomplete absorption   |
+
+> 📍 Solubility can be modified using salts, particle size reduction, or formulation with solubilizing agents.
+
 ## 🛤️ Routes of Administration
 
 Routes of administration are classified into two broad categories:
