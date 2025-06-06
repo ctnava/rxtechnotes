@@ -10,18 +10,56 @@ The title **"pharmacy technician"** is used in 47 states, though some states use
 - 🐴 **Registered Pharmacy Technician** – Wyoming  
 - 🌰 **Qualified Pharmacy Technician** – Ohio
 
-## 🛡️ Personal Standards & Qualities
+## 🛡️ Personal Qualities
 
-Pharmacy technicians must uphold the highest ethical and professional standards due to their access to sensitive health data and controlled substances. They are entrusted with duties that, if mishandled, can jeopardize patient health and public safety.
+Pharmacy technicians must uphold the highest ethical and professional standards due to their access to sensitive health data, scheduled substances, and prescription drug inventories. They work in high-stakes environments where even a small error or lapse in judgment can jeopardize patient safety, break the law, or harm the public trust in healthcare.
 
 Essential qualities include:
 
-- **Integrity** and honesty in all tasks  
-- **Confidentiality** regarding patient health information  
-- **Accuracy** in measuring, labeling, and documenting  
-- **Accountability** for all responsibilities, with a strong sense of duty  
+- 🔐 **Integrity & Honesty**: A technician must be considered **trustworthy** enough to do the right thing even when no one is watching. Theft, deception, or carelessness are grounds for termination and can result in permanent exclusion from the profession. You will be entrusted with:  
+  - Confidential patient information (protected under HIPAA)  
+  - Controlled substances and drugs with street value  
+  - Refrigerated and perishable medications  
+  - High-cost specialty medications
+- 🔍 **Accuracy & Attention to Detail**: Pharmacy is a **detail-oriented** field. Milligrams, milliliters, expiration dates, and NDC numbers must be handled with care. A misplaced decimal or labeling mistake can result in overdose, underdose, or dangerous interactions. Precision in measuring, labeling, documenting, and communicating is non-negotiable.
+- 📅 **Accountability & Dependability**: Every technician is part of a larger workflow. If you fail to show up, make a serious error, or neglect your responsibilities, the impact ripples across the pharmacy and to the patients waiting for care. Others depend on you to follow through reliably, especially under pressure.
+- 💬 **Professional communication**: You are the first point of contact for patients, insurance reps, delivery drivers, and other healthcare providers. You must communicate clearly, respectfully, and professionally; even when the other party is rude, confused, or upset.
 
-Pharmacy technicians must always act in a way that reinforces trust; both with the patients they serve and with the pharmacists and healthcare professionals who rely on them.
+Pharmacy technicians must always behave in a way that reinforces trust from both patients and the healthcare team. Being consistently ethical, dependable, and composed is part of your professional identity.
+
+### Personal Guidelines
+
+Pharmacy technicians are expected to maintain personal standards that align with the clinical and public-facing nature of the job.
+
+- 🩺 **Health**: You must be physically and mentally fit to work. Fatigue, illness, and emotional stress increase the risk of errors. If you are impaired, whether due to illness, substances, or burnout, you are a danger to the patient. Technicians should take care of their own health and know when to ask for time off or seek help.
+- 🧼 **Hygiene**: Personal hygiene directly affects infection control and professional appearance. You will work near patients, sterile products, and food-grade substances. Poor hygiene (e.g., unwashed hands, unclean uniforms, body odor) is both unprofessional and hazardous.
+- 👔 **Appearance and attire**: Your uniform or scrubs must be clean, well-fitted, and functional. Avoid excessive jewelry, strong fragrances, or anything that interferes with safe movement or sterile technique. Visible tattoos or piercings should comply with workplace policy. A professional appearance promotes patient trust and workplace respect.
+
+> 🛡️ Dress and act as if every patient interaction could be reviewed by the state board. It may be.
+
+## Core Competencies
+
+To succeed in pharmacy practice, technicians must be competent in multiple domains. These core competencies go beyond basic job functions; they are part of your professional toolkit.
+
+- ➗ **Math and problem-solving**: You will routinely calculate dosages, concentrations, days' supply, quantities to dispense, and inventory levels. You must understand how to:
+  - Convert between units (e.g., mg to g, mL to L)
+  - Interpret sig codes and day supply limits
+  - Use formulas to reconstitute powders or mix IVs  
+  - 📌 Mistakes in pharmacy math can kill. There is no tolerance for guessing.
+- 🧾 **Medical language and terminology**: You must read and write using standard pharmaceutical terminology, including Latin abbreviations, dosage forms, and route indicators. This includes being able to distinguish:
+  - QD vs QID  
+  - PRN vs scheduled doses  
+  - PO, IV, IM, SL, etc.  
+  - 📌 Misreading or mislabeling directions is a serious liability.
+- 🖥️ **Computer and information systems**: Most pharmacies use integrated software systems to:
+  - Enter prescriptions
+  - Check insurance coverage
+  - Label bottles
+  - Track inventory
+  - Maintain patient records  
+  - 📌 You must be fast and accurate with data entry, and know how to navigate error messages, claim rejections, and drug interaction warnings.
+
+> 🛡️ Never "click through" alerts without reading. Many systems flag errors, but it's up to you to understand them and alert the pharmacist.
 
 ## 🔬 Scope of Practice
 
