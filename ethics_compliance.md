@@ -116,7 +116,7 @@ In civil law, there are two major subdivisions:
 
 Torts are a branch of civil law in which the courts determine remedies for alleged harm suffered by people who have no formal relationship with the offender and the majority of court cases involving pharmacists are torts. These are typically **negligence lawsuits**, where a person or legal party who failed to use reasonable caution when providing care or services which resulted in damages to the victim. **Malpractice** is a type of negligence lawsuit brough against a person with a professional license.
 
-`Negligence can result in serious patient harm.`
+`Negligence is a failure to exercise a reasonably prudent level of care and it can result in serious patient harm.`
 
 ## Important Legislation
 
