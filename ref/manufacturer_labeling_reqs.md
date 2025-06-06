@@ -4,9 +4,9 @@ This document synthesizes key federal statutes and regulations governing how dru
 
 🦅 **Federal Law Overview**:
 
-- 🔗 **FDC, FDCA, & Amendments** (🔗 [Link](../law/fda_fdca.md))
-- 🔗 **Extended Packaging & Labeling Policy** (🔗 [Link](../law/packaging_labeling.md))
-- 🔗 **Controlled Substance Policy** (🔗 [Link](../law/csa_cmea.md))
+- 🔗 **FDC, FDCA, & Amendments** (🔗 [Link To](../law/fda_fdca.md))
+- 🔗 **Extended Packaging & Labeling Policy** (🔗 [Link To](../law/packaging_labeling.md))
+- 🔗 **Controlled Substance Policy** (🔗 [Link To](../law/csa_cmea.md))
 
 🏷️ **Labeling Requirements**
 
