@@ -58,7 +58,7 @@ Step 2: **Preclinical Testing** (1 Year)
 
 Step 3: **Clinical Trials** (4-7 Years)
 
-Clinical trials involve human research subjects and are conducted in three phases. Participants must give informed consent and the information necessary to provide it (per Kefauver-Harris Amendment). They are free to leave as they wish.
+Clinical trials involve **human research** subjects and are conducted in three phases. Participants must give informed consent and the information necessary to provide it (per Kefauver-Harris Amendment). They are free to leave as they wish.
 
 - **Phase 1 (20 - 80 People)**: Determine ***safety*** first by collecting a profile of side effects in a small group of healthy volunteers over ***several months***.
 - **Phase 2 (100-300 People)**: Determine ***efficacy*** by testing it on a group of patients with the condition that the drug is trying to treat while also staying on the look out for side effects for ***several months to 2 years***. Controlled trials are also used to compare the drug's activity against a placebo. This test is double-blind, meaning that neither the patients nor the prescribers are aware that the drug is a placebo.
@@ -145,6 +145,8 @@ There are 3 main types of supplier: drug manufacturers, specialty pharmacies, an
 Wholesalers create regional and national distribution networks, storing bulk purchases in strategically placed warehouses to enable 24–48 hour delivery. They also drop ship lower-volume, high-cost medications on an as-needed basis.
 
 ## Public Safety & Recalls
+
+`The action taken to remove a drug from the market and have it returned to the manufacturer.`
 
 While drug approval processes are thorough, it is impossible to account for everything. The FDA maintains reporting programs called **MedWatch** and the **Vaccine Adverse Event Reporting System (VAERS)** that allow anyone to report adverse effects that occur from the use of approved drugs or vaccines. If the FDA determines that any drug or vaccine poses a public health risk, then they may file an injunction to prevent distribution; seize the drug from the manufacturer; or issue a recall of the drug.
 

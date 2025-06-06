@@ -112,7 +112,7 @@ Pharmacies provision stock from state-licensed:
 - **Suppliers**: produce, label, and package drugs
 - **Wholesalers**: purchase drugs in bulk and then sell them to medical facilities
 
-> 🔐 `DEA Form 222` is required for ordering Schedule II drugs via CSOS.
+> 🔐 `DEA Form 222` is required for ordering **only** Schedule II drugs via CSOS.
 > 🦅x🔐 FDA and DEA registration is also required for controlled substances.
 > 🦅 See the 🔗 [PDMA](./law/fda_fdca.md#prescription-drug-marketing-act-pdma-1987) for regulations on manufacturer & wholesaler activities.
 

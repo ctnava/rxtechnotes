@@ -18,7 +18,7 @@ The ***Controlled Substances Act (CSA, 1970)*** classifies five levels of contro
 
 ### 📝 DEA Forms & Compliance
 
-- **DEA Form 222** is required for ordering Schedule II drugs via CSOS.
+- **DEA Form 222** is required for ordering **only** Schedule II drugs via CSOS.
 - **DEA Form 41** is used for returning drugs to suppliers or for reverse distribution (destruction).
 - **DEA Form 106** must be filed within **one business day** of discovering theft or significant loss.
   - **The California Board of Pharmacy** must also be notified within **30 days**.
@@ -27,7 +27,7 @@ The ***Controlled Substances Act (CSA, 1970)*** classifies five levels of contro
 
 #### DEA Form 222
 
-DEA Form 222 is used to order, transfer, or return Schedule II controlled substances.
+DEA Form 222 is used to order, transfer, or return **only** Schedule II controlled substances.
 
 It is a *triplicate form* (in traditional paper format), though many pharmacies now use the ***Controlled Substance Ordering System (CSOS)*** for digital ordering.
 
