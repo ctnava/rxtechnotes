@@ -8,6 +8,8 @@ Pharmacy Calculations, 6e; Morton Publishing | Chapter 8
 
 ## 🔄 Basic Conversion Concept: Canceling Units
 
+`Also called the factor/label method`
+
 Unit conversions in pharmacy are grounded in **dimensional analysis**; a technique where you multiply by conversion factors to cancel units systematically. This helps convert between any two units in a structured, error-resistant way.
 
 🔑 **Key Ideas**:
