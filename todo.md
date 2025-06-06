@@ -37,7 +37,7 @@
 
 - [ ] SOP: Cleaning the Hood
 - [x] The Prescription Video
-- [ ] Reading: Chapter 16 - Community Pharmacy
+- [ ] Reading: Chapter 16 - Community Pharmacy (QUICK)
   - ./settings_personnel_services.md
 - [x] HIPAA Survival Guide
 - [x] Math: Chapter 12 - Day Supply
@@ -59,9 +59,9 @@
 
 - [x] Externship Study Guide
 - [x] DenaliRx Drugs 61-80
-- [ ] Reading: Chapter 7 - Prescriptions
+- [ ] Reading: Chapter 7 - Prescriptions (QUICK)
   - [ ] import checklists
-- [ ] Reading: Chapter 3 - Pharmacy Law, Regulations, & Ethics
+- [ ] Reading: Chapter 3 - Pharmacy Law, Regulations, & Ethics (QUICK)
 - [x] Prescription Intake Video & Quiz
 - [x] Drug Package Inserts
 - [x] Math: Chapter 13 - Insulin Math
@@ -75,7 +75,7 @@
 - [ ] Gowning SOP
 - [x] Math: Chapter 23 - Parenteral Ratios & Proportions
 - [ ] Reading: Chapter 4 - Information Sources
-- [ ] Reading: Chapter 15 - Financial Issues
+- [ ] Reading: Chapter 15 - Financial Issues (QUICK)
 - [ ] [Syringes Video](https://www.youtube.com/watch?v=b4Y2qE4ZgvE)
 - [x] IV Solutions
 
@@ -84,7 +84,7 @@
 - [x] DenaliRx Drugs 81-100
 - [x] Kirby Lester Counting Machine Video
 - [ ] CVS Insurance Training Packet
-- [ ] Reading: Chapter 14 - Inventory
+- [ ] Reading: Chapter 14 - Inventory (QUICK)
 - [ ] CE: Medication Reconciliation
 - [x] Math: Chapter 24 - Powder Drugs
 - [x] Drug Regulation & Control Video
@@ -124,7 +124,7 @@
 
 ## Week 12: Hospital Pharmacy
 
-- [ ] Reading: Chapter 17 - Hospital Pharmacy
+- [ ] Reading: Chapter 17 - Hospital Pharmacy (QUICK)
   - ./settings_personnel_services.md
 - [ ] CE: Safe Handling of Hazardous Drugs
 - [x] Math: Chapter 10 - Temperature Conversion & Specific Gravity
