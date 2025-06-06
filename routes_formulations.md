@@ -32,7 +32,7 @@ Dosage forms consist of:
 
 📍 *Note: Not all excipients are inert for all patients. Some may cause allergies or intolerances.*
 
-## 🧫 Solubility and Absorption
+## 🧫 Solubility & Absorption
 
 A drug's **solubility** is its ability to dissolve in a solvent, typically water or biological fluids. This property directly influences **absorption**, especially for **enteral** and **parenteral** routes.
 
