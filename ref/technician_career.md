@@ -120,14 +120,39 @@ California State Licensure Requirements:
 
 > ✅ Good Key Words for Your Resume: `Dependable, Detail Oriented, Trustworthy`
 
-## 🚀 Career Advancement
+## National Certification
 
-A **Certified Pharmacy Technician (CPhT)** is credentialed by organizations such as the ***Pharmacy Technician Certification Board (PTCB)*** or ***National Healthcareer Association (NHA)***. Both are computer-based and assess knowledge essential for safe and effective pharmacy practice. Certification demonstrates advanced competency and may qualify technicians for expanded duties, such as medication reconciliation or billing.
+A **Certified Pharmacy Technician (CPhT)** is a credential granted by national organizations such as the **Pharmacy Technician Certification Board (PTCB)** or the **National Healthcareer Association (NHA)**. These credentials are awarded upon passing a standardized exam that assesses essential knowledge and skills for safe, accurate, and ethical pharmacy practice.
 
-- **Benefits**: National recognition, greater job opportunities, higher wages, enhanced credibility
-- **Recertification**: Every 2 years, requiring 20 hours of ASHP-accredited **Continuing Education (CE)** Credits, including:
+Certification validates a technician's competency and may open the door to expanded responsibilities, such as **medication reconciliation**, **inventory audits**, **third-party billing**, or **supervised training roles**.
+
+- 🔑 **Key Benefits**
+  - **National recognition** across most states
+  - **Increased job opportunities** in hospital, retail, and specialty pharmacy settings
+  - **Higher earning potential**
+  - **Greater professional credibility**
+- 🔄 **Recertification Requirements**: National certification must be renewed **every 2 years**. Both certifying bodies require **20 hours of Continuing Education (CE)** per cycle, indluding:
   - 1 hour in **Pharmacy Law**
   - 1 hour in **Patient Safety**
+  - 📌 All CE must be **ASHP-accredited** or otherwise accepted by the certifying body. CE providers typically include pharmacy boards, accredited colleges, or employers offering in-service training.
+- 🎓 **Alternative CE Credit Sources**: Some CE hours may be earned through formal education or work-related projects
+  - **College Coursework** for passing a relevant college coursework (with a grade "C" or better):
+    - **PTCB**: Up to **10 CE hours** may be earned
+    - **NHA**: Up to **15 CE hours** may be earned
+  - **In-Service Training (ExCPT only)**: The **NHA** allows up to **10 CE hours** for documented, supervised in-service projects or training activities conducted in a pharmacy workplace.
+  - 📌 These alternatives **do not apply to the law or patient safety CE requirements**. Those must still be fulfilled through formal CE programs.
+
+> 🛡️ **Best Practice**: Keep a CE log and obtain completion certificates for all credit hours earned. Submit renewal applications on time to avoid lapses in certification.
+
+| Factor | PTCE (PTCB) | ExCPT (NHA) |
+|--------|-------------|-------------|
+| National Recognition | Widely accepted | Accepted in most states |
+| Cost | $129 | $125 |
+| Max Attempts | 4 total (lifetime, appeal after) | 3 per year (retry annually) |
+| Employer Preference | Some prefer PTCB | Some accept either |
+| Retake Wait | 60+ days | 30 days |
+
+> 📍 California accepts **both** the PTCE and the ExCPT for licensure as a pharmacy technician.
 
 ### Exam for the Certification of Pharmacy Technicians (ExCPT)
 
@@ -248,6 +273,8 @@ To be eligible for the PTCE, applicants must:
 Candidates must apply online through the PTCB website. Once approved, they can schedule the exam through Pearson VUE at a location and time of their choosing.
 
 🌐 [Apply Online](https://www.ptcb.org/ptce)
+
+## 🚀 Additional Career Advancement
 
 ### Additional Certifications
 
