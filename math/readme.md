@@ -4,9 +4,7 @@
 
 ---
 
-🔣 **Legend**
-
-- 🚨 Disclaimer: I haven't had a chance to double-check the math. I'm just sort of blowing through it. I'm more worried about covering law & SOPs. I'll come back to this afterwards.
+> 🚨 Disclaimer: I haven't had a chance to double-check the math. I'm just sort of blowing through it. I'm more worried about covering law & SOPs. I'll come back to this afterwards.
 
 | Chapter | Title | Rework Status |
 |---------|-------|---------------|
