@@ -381,6 +381,8 @@ The vaginal route allows for **local or systemic drug delivery**. Dosage forms a
 
 #### 🔹 Intrauterine Devices (IUDs)
 
+`device that is placed in the uterus for a prolonged period of time`
+
 - Used for **long-term contraception**
 - Made of **plastic or copper**, shaped like a "T"
 - Lifespan: **up to 10 years**

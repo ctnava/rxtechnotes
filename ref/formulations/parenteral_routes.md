@@ -5,7 +5,10 @@
 🔑 Used when:
 
 - Oral absorption is poor or unreliable
+  - The presence of food may affect absorption
 - The drug is degraded by the GI tract
+  - First-Pass Metabolism in the Liver
+  - Acidity or enzymes may degrade or destroy the medicine
 - A **rapid or controlled** response is needed
 - The patient is **unconscious, uncooperative, vomiting**, or **unable to swallow**
 

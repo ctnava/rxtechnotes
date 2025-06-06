@@ -22,7 +22,7 @@ Use the table below to jump directly to a specific section.
 
 ## 👄 Oral Route
 
-Per os (`PO`), Latin for "by mouth", is the most frequently used route of drug administration.
+Per os (`PO`), Latin for "by mouth", is the **most frequently used** route of drug administration.
 
 Drugs administered orally pass through the stomach, which has a very **acidic pH (1–2)**. Some drugs **cannot** be administered orally because they are **degraded or inactivated** by gastric acid or enzymes.
 
