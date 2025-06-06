@@ -6,6 +6,8 @@
 The Pharmacy Technician, 7e; APhA | Chapter 6
 -->
 
+`When working with measured amounts, significant figures provide us with information about the sensitivity of equipment used.`
+
 ## 🔑 Key Concepts
 
 Significant figures (**'sig figs'**) are the essential digits in a number that contribute to its **accuracy** & **precision**. The idea behind this is the fact that the precision of your *final answer*, during **multiplication & division**, is bound by the precision of the **limiting factor** (i.e. *least precise data point*).
