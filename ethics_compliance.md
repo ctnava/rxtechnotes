@@ -102,7 +102,9 @@ While not government entities, these organizations shape pharmacy standards:
 
 ### ⚖️ Court of Law
 
-`Being liable means you can be prosecuted for misconduct.`
+`Being liable means you are responsible and can be prosecuted for misconduct.`
+
+Pharmacy technicians work under the direct supervision of pharmacists, but **liability is shared**. While pharmacists have the final authority, technicians are **not shielded** from responsibility. A technician can still be held liable for **negligence**, **misconduct**, or **violating regulations**; even if acting under a pharmacist's direction.
 
 Judicial law has two main divisions:
 
