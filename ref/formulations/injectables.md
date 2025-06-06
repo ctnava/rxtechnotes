@@ -45,6 +45,7 @@ To protect sensitive and vital organs, parenteral formulations must:
 
 - **Sterile** and **particulate-free**
 - Have **controlled pH and osmolality**
+  - usually by adding ingredients to create a **buffer system**
 - Use **non-toxic excipients**
 - Be packaged in **sterile, sealed containers** (vials, ampules, prefilled syringes)
 - Preservative-free unless labeled for **multi-dose** use
