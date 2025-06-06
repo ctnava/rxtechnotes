@@ -30,6 +30,8 @@ Unit conversions in pharmacy are grounded in **dimensional analysis**; a techniq
 
 ## 🥄 Household and Metric Conversions
 
+`While the metric, English, apothecary, & avoirdupois systems are used in pharmacy, METRIC IS PRIMARY.`
+
 Conversions commonly used in pharmacy can be broken down into **volume** and **weight**.
 
 ### 🧪 Volume Conversions
@@ -103,6 +105,8 @@ We will convert 1 gallon to milliliters by **chaining units**, canceling each on
 Understanding how to read prescriptions requires familiarity with the **Inscription** and **Signa** sections—two core components of written or electronic prescription orders.
 
 ### 📃 Prescription Structure
+
+`Dosing schedules provide instructions for what quantity of a drug should be taken, how it is to be administered, and how often.`
 
 | Section | Purpose |
 |---------|---------|
