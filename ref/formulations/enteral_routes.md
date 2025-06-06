@@ -111,7 +111,7 @@ Oral **liquid formulations** deliver the drug in a pre-dissolved or suspended fo
 
 Types of oral solutions:
 
-- **Aqueous solutions**: Water is the solvent. Most common type.
+- **Aqueous solutions**: Water is the solvent. **Most common** type.
   - **Syrups**:
     - Aqueous solutions saturated with **sucrose** or other sugars
     - Viscous, sweet, and flavored
@@ -127,7 +127,7 @@ Types of oral solutions:
 - **Spirits / Essences**:
   - Alcoholic or hydroalcoholic solutions of **volatile substances** (e.g., essential oils)
   - Alcohol content: **62–85%**
-  - Used for flavoring or mild medicinal effects
+  - Used for **flavoring agents** or mild medicinal effects
 
 - **Tinctures**:
   - Alcoholic or hydroalcoholic solutions of **nonvolatile substances**

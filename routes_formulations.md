@@ -34,7 +34,7 @@ Dosage forms consist of:
 | **Binders** | Hold ingredients together in a cohesive unit | Tablets |
 | **Lubricants** | Prevent sticking to manufacturing equipment | Tablets, Capsules |
 | **Disintegrants** | Promote breakup of the dosage form after intake  | Tablets, Capsules |
-| **Diluents** | Add bulk to formulations for proper dosing | Tablets, Capsules, Powders |
+| **Diluents** | Add bulk to formulations for proper dosing | Tablets, Capsules, Lyophilized Powders |
 | **Preservatives** | Prevent microbial growth | Liquids, Ophthalmics, Topicals |
 | **Flavoring Agents** | Improve palatability | Oral Liquids, Chewable Tablets |
 | **Colorants** | Aid in product identification | Tablets, Capsules |
