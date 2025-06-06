@@ -66,7 +66,7 @@ Clinical trials involve **human research** subjects and are conducted in three p
 - **Phase 2 (100-300 People)**: Determine ***efficacy*** by testing it on a group of patients with the condition that the drug is trying to treat while also staying on the look out for side effects for ***several months to 2 years***. Controlled trials are also used to compare the drug's activity against a placebo (i.e. fake or inactive). This test is double-blind, meaning that neither the patients nor the prescribers are aware that the drug is a placebo.
 - **Phase 3 (1,000 - 3,000 People)**: Confirm ***efficacy*** while collecting ***additional safety*** data in a larger population. Also gathering data on interactions and effects at different ***dosages*** for ***1 to 4 years***.
 
-> 📌 Pediatric clinical trials can take place after Phase 2 or 3 Adult trials if the company is trying to get the drug approved for use in children.
+> 📌 Pediatric (i.e. targeting children) clinical trials can take place after Phase 2 or 3 Adult trials if the company is trying to get the drug approved for use in children.
 
 Step 4: **Review & Approval** (1-2 Years)
 
