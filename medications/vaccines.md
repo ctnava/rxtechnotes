@@ -153,3 +153,10 @@ Proper storage and handling of vaccines is **essential** to maintaining their sa
 - Rotate stock: **"First In, First Out" (FIFO)** method.
 - Post a **vaccine storage chart** (e.g., CDC Vaccine Storage and Handling Toolkit) near the fridge.
 - Maintain an **emergency plan** for power outages or equipment failure.
+
+---
+
+## 🗺️🔗 Nav Links
+
+- 🏠 [Home Directory](../readme.md)
+- 🔙 [Pharmacy Personnel, Duties, & Services](../personnel_services.md#-vaccines)

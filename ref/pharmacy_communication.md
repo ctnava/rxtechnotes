@@ -113,4 +113,4 @@ Whoever is directly interacting with the customer (pharmacy technician or pharma
 ## 🗺️🔗 Nav Links
 
 - 🏠 [Home Directory](../readme.md)
-- 🔙 [Pharmacy Personnel, Duties, & Services](../personnel_services.md)
+- 🔙 [Pharmacy Personnel, Duties, & Services](../personnel_services.md#communication)

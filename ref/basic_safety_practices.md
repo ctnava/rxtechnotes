@@ -193,4 +193,4 @@ The patient’s response to therapy is also assessed to determine if adjustments
 ## 🗺️🔗 Nav Links
 
 - 🏠 [Home Directory](../readme.md)
-- 🔙 [Pharmacy Personnel, Duties, & Services](../personnel_services.md)
+- 🔙 [Pharmacy Personnel, Duties, & Services](../personnel_services.md#medication-safety)

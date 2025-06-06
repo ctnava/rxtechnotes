@@ -225,3 +225,10 @@ These initiatives can make becoming a pharmacist more accessible for long-term e
 - Program Specialist
 
 > 📌 these are key words to search for on hiring websites
+
+---
+
+## 🗺️🔗 Nav Links
+
+- 🏠 [Home Directory](../readme.md)
+- 🔙 [Pharmacy Personnel, Duties, & Services](../personnel_services.md#pharmacy-technicians-pht)

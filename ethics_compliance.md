@@ -119,4 +119,3 @@ Below are vital pieces of legislation to know as a pharmacy technician.
 ## 🗺️🔗 Nav Links
 
 - 🏠 [Home Directory](./readme.md)
-<!-- - ⏩ [Next Chapter](./readme.md) -->
