@@ -57,7 +57,9 @@ Medications that may be sold without a prescription as long as they are:
 
 Examples: `Acetaminophen, ibuprofen, diphenhydramine, loratadine`
 
-**Over-the-counter (OTC) drugs are not inherently safe** just because they don’t require a prescription. Many OTC medications can cause significant drug interactions, adverse effects, or even life-threatening complications; especially when combined with prescription drugs or taken incorrectly.
+**OTC drugs are not inherently safe** just because they don’t require a prescription. Many OTC medications can cause significant drug interactions, adverse effects, or even life-threatening complications; especially when combined with prescription drugs or taken incorrectly.
+
+> 📌 OTC medications do not require a prescription but sometimes they are written for them.
 
 When performing **medication reconciliation** (the process of gathering a patient’s full medication history), pharmacy technicians must:
 
