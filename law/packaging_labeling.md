@@ -14,19 +14,19 @@ These requirements complement the FDA’s misbranding and labeling rules under t
 
 > 📌 The FPLA helps prevent misbranding by requiring clarity and standardization in labeling. Technicians must ensure that OTC products and bulk containers are correctly labeled before stocking shelves or filling orders.
 
-### Poison Prevention Packaging Act (PPPA, 1970)
+## Poison Prevention Packaging Act (PPPA, 1970)
 
 The PPPA was enacted to reduce the risk of accidental poisoning in children under five years of age by requiring **child-resistant (CR) packaging** for hazardous household substances, including many prescription and over-the-counter (OTC) medications.
 
 > 🔑 **Enforced by** the Consumer Product Safety Commission (CPSC), not the FDA.
 
-#### Requirements
+### Requirements
 
 - **Child-resistant packaging** must be used for most prescription drugs dispensed to patients.
 - CR packaging must be designed so that at least **85% of children under five cannot open it**, while **90% of adults can**.
 - **Reversible (dual-purpose)** caps are allowed but must default to the child-resistant mode unless otherwise requested.
 
-#### Exceptions (Exemptions from CR packaging)
+### Exceptions (Exemptions from CR packaging)
 
 CR packaging is *not required* in the following cases:
 
@@ -41,7 +41,7 @@ CR packaging is *not required* in the following cases:
   - **Oral contraceptives** in mnemonic blister packs
   - **Inhalers** (e.g., albuterol)
 
-#### Technician Responsibilities
+### Technician Responsibilities
 
 - Ensure that dispensed containers use CR packaging by default.
 - If a **non-CR container** is requested:
@@ -53,7 +53,7 @@ CR packaging is *not required* in the following cases:
 > - 🛡️ Failing to use child-resistant packaging without proper documentation may result in **liability** for preventable harm.
 > - 🚨 CR requirements apply at the **point of dispensing**, not necessarily at the manufacturer level. A product may arrive in CR packaging and still require repackaging at the pharmacy.
 
-### Drug Listing Act (1972)
+## Drug Listing Act (1972)
 
 The Drug Listing Act of 1972 mandates that all drug establishments provide a complete list of drugs manufactured, prepared, propagated, compounded, or processed for distribution, and these drugs must have a ***11-digit National Drug Code (NDC)***; a 3-segmented universal identifier.
 
@@ -67,7 +67,7 @@ The Drug Listing Act of 1972 mandates that all drug establishments provide a com
 > .
 > 🤯 NATO Stock Number (NSN) is the military analog to the NDC.
 
-### 🤯 Drug Supply Chain Security Act (DSCSA, 2013)
+## 🤯 Drug Supply Chain Security Act (DSCSA, 2013)
 
 The DSCSA aims to improve the security and traceability of prescription drugs in the supply chain by facilitating a more seamless flow of data between supply chain partners. This protects patients from harmful drugs, including counterfeit, stolen, or contaminated medications.
 
