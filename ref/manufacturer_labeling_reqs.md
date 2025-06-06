@@ -47,8 +47,8 @@ The NDC is a unique 10- or 11-digit, 3-segment number that identifies all FDA-ap
 | Segment | Digits | Description |
 |---------|--------|-------------|
 | **Labeler Code** | 5 | Identifies the manufacturer or repackager (FDA-assigned) |
-| **Product Code** | 3–4 | Identifies the specific strength, dosage form, and formulation |
-| **Package Code** | 1–2 | Identifies package type and size |
+| **Product Code** | 3–4 | Identifies the specific strength, dosage form, and formulation (Manufacturer-assigned) |
+| **Package Code** | 1–2 | Identifies package type and size (Manufacturer-assigned) |
 
 > 📍 **Normalize to 11 digits** by adding leading zeroes to any segment that does not meet its maximum length. Required for claims submission and electronic records.
 
