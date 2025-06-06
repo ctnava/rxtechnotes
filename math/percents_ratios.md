@@ -6,11 +6,9 @@
 Pharmacy Calculations, 6e; Morton Publishing | Chapter 25 & 26
 -->
 
-`A ratio states the relationship between two quantities, while a proportion can be used when there are two equal ratios.`
-
-They are often used to determine a quantity needed to fill or prepare a prescription, especially for compounded medications.
-
 ## 💯 Percent Strength of Solutions
+
+`Percents can be usedxc to indicate the amount or concentration of something in solution.`
 
 In pharmacy, concentration is often expressed using percent strength. This format communicates how much solute is present in a given volume or weight of solution. Understanding percent strength is essential for preparing, diluting, and interpreting compounded medications.
 
@@ -18,9 +16,9 @@ The **solute** is the active ingredient or substance being dissolved. It is typi
 
 **Percent strength** indicates the amount of solute in 100 parts of solution and is expressed using three common formats:
 
-- **% w/v (weight/volume):** grams of solute per 100 mL of solution. This is the most common format for solutions of solids in liquids.
-- **% v/v (volume/volume):** milliliters of solute per 100 mL of solution. This is used for liquid-in-liquid solutions.
-- **% w/w (weight/weight):** grams of solute per 100 grams of total product. This format is typically used for creams, ointments, and other semisolids.
+- **% w/v (weight/volume):** grams of solute per 100 mL of solution. This is the most common format for solutions of solids in liquids. `(g/ 100 mL)`
+- **% v/v (volume/volume):** milliliters of solute per 100 mL of solution. This is used for liquid-in-liquid solutions. `(mL/ 100 mL)`
+- **% w/w (weight/weight):** grams of solute per 100 grams of total product. This format is typically used for creams, ointments, and other semisolids. `(g/ 100 g)`
 
 > 🚨 By convention, if a percent strength is listed without specifying the format, it is assumed to be **% w/v**.
 
@@ -75,6 +73,8 @@ Question: How much of a 25% stock solution is required to prepare 200 mL of a 5%
 | ✅ Final Answer | Use **40 mL** of 25% stock solution and add **160 mL** of diluent to make 200 mL of 5% solution. | -->
 
 ## ⚖️ Ratios and Proportions for Parenteral Solutions
+
+`A ratio states the relationship between two quantities, while a proportion can be used when there are two equal ratios. They are often used to determine a quantity needed to fill or prepare a prescription, especially for compounded medications.`
 
 In pharmacy calculations, a **ratio** is another way of expressing concentration or proportional relationships between components of a mixture or solution. A **ratio strength** uses the format **1:x**, which means **1 part solute per x parts total solution**. These values are usually interpreted as grams per milliliters (g/mL) unless another unit is specified.
 
