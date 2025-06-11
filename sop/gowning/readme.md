@@ -73,7 +73,7 @@ Before entering the antechamber:
 
 ![Surgical Scrub Brush with Nail Cleaner](./nail_brush.PNG)
 
-- Use **surgical scrub brush** with nail cleaner and antimicrobial soap.
+- Use **surgical scrub brush/ sponge** with nail cleaner and antimicrobial soap.
 - Clean all nail beds, palms, fingers, **and forearms up to elbows**.
 - Rinse thoroughly with **sterile water**, not tap water.
 - Use a disposable towel to dry hands completely.
@@ -119,15 +119,6 @@ Before entering the antechamber:
 
 - Remove **face mask, beard cover, hair cover**, and **shoe covers**.
 - Discard all items unless facility policy requires reuse of specific PPE (e.g., reusable gowns in segregated compounding areas).
-
-## 🧴 Aseptic Hand Washing Reference
-
-Refer to **Section 1.3** of this SOP for detailed instructions on:
-
-- Standard six-step scrubbing technique
-- Use of nail picks and surgical brushes
-- Minimum scrub duration (≥30 seconds)
-- Skin care and aftercare recommendations
 
 ## 🛡️ Notes & Best Practices
 
