@@ -35,7 +35,7 @@
 
 ## Week 3: Community RX & HIPAA
 
-- [ ] SOP: Cleaning the Hood
+- [x] SOP: Cleaning the Hood
 - [x] The Prescription Video
 - [ ] Reading: Chapter 16 - Community Pharmacy (QUICK)
   - ./settings_personnel_services.md
