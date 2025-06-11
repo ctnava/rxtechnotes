@@ -27,6 +27,8 @@ Community retail pharmacies provide direct patient access to prescription medica
   - May integrate with store loyalty programs  
   - Emphasis on convenience and walk-in services
 
+> 📌 The community pharmacist's role in counseling and educating patients has been steadily increasing.
+
 #### 🏥 Walk-In Clinics (Retail Health Clinics)
 
 Some retail locations operate **on-site clinics** under models like **CVS MinuteClinic** or **Walgreens Healthcare Clinic**. These clinics provide minor acute care, for **acute** conditions** (i.e. sudden conditions requiring immediate treatment), and preventative services.
