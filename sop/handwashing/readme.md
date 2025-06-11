@@ -48,4 +48,5 @@ This SOP outlines the required procedure for aseptic hand hygiene in environment
 
 ## 🗺️🔗 Nav Links
 
+- 🔙 [Aseptic Gowning](../gowning/readme.md#-pre-gowning-requirements)
 - 🥚 [Original WHO Document](./who_guidelines.pdf)

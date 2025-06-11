@@ -35,6 +35,7 @@ Includes the following components used to maintain air quality:
 
 Before entering the antechamber:
 
+- Familiarize yourself with 🔗 [Aseptic Handwashing](../handwashing/readme.md)
 - Remove **jewelry, makeup, and watches**
 - Keep **fingernails short**; no fake nails or extensions
 - Tie back long hair and secure loose clothing
