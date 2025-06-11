@@ -38,7 +38,7 @@ Applies to all personnel responsible for sterile product preparation in a cleanr
 
 ### Step 2: Clean Surfaces Using Sterile Water
 
-Clean **from cleanest to dirtiest** and **with the direction of airflow**.
+Clean **from cleanest to dirtiest** and **with the direction of airflow**. Toss the wipes between each step!
 
 ➡️ **Horizontal Flow (back-to-front airflow)**:
 
@@ -48,31 +48,27 @@ Clean **from cleanest to dirtiest** and **with the direction of airflow**.
 
 - Wipe **top to bottom**, then **side to side**, working **back to front**
 
+> 🚨 Do not use circular motions. Use straight, overlapping strokes to avoid recontaminating cleaned areas.
+
 ![expanded diagram](./flow_hoods.jpg)
 
 Clean in this exact order:
 
 1. **Hang Bar and Hooks** (if present)
   A **stainless steel bar** near the top interior used to hang IV bags and tubing. Hooks are movable attachments. These must be cleaned first since they are high-touch but out of the direct airflow.
-
-<!-- 2. **Ceiling Panel / HEPA Prefilter Area** -->
-1. **Ceiling Panel**  
+2. **Ceiling Panel**  
+  <!-- **Ceiling Panel / HEPA Prefilter Area** -->
   Includes the ceiling (vertical hood) or top panel (horizontal hood) and surrounding areas near the HEPA filter. **Do not touch or wipe the filter itself.** This is the source of ISO Class 5 air.
-
-1. **Back Wall**  
+3. **Back Wall**  
   For horizontal hoods, this wall contains the HEPA filter. For vertical hoods, it is a flat surface. Clean vertically, from top to bottom.
-
-1. **Side Walls**  
+4. **Side Walls**  
   Wipe each side from top to bottom. These areas are less contaminated than the work surface but more exposed than upper areas.
-
-1. **Work Surface**  
+5. **Work Surface**  
   This is the flat **stainless steel base** of the hood where compounding takes place. Clean last. Wipe from **back to front**.
   
-  Include **Outer Edges and Corners**! The front lip and outer edges are high-contact zones. These are commonly touched and can collect particles. Clean thoroughly.
+> 🚨 Include **Outer Edges & Corners**! The front lip and outer edges are high-contact zones. These are commonly touched and can collect particles. Clean thoroughly.
 
-> 🚨 Do not use circular motions. Use straight, overlapping strokes to avoid recontaminating cleaned areas.
-
-### Step 3: Repeat with 70% Isopropyl Alcohol
+### Step 3: Repeat with 70% Isopropyl Alcohol (IPA)
 
 1. Place a fresh stack of sterile wipes under the hood.
 2. Pour 70% IPA onto the wipes until saturated.
@@ -91,3 +87,7 @@ Clean in this exact order:
 - Keep all parts of your body outside of the critical airflow zone during operation.
 
 ---
+
+## 🗺️🔗 Nav Links
+
+<!-- - 🥚 [Original SOP](./hood_cleaning.jpg) -->
