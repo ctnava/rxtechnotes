@@ -1,5 +1,7 @@
 # Professional Communication Standards
 
+`Technicians should always respond in a positive and courteous way.`
+
 ## Types of Communication
 
 Effective communication is essential to patient safety and pharmacy operations. Communication in a pharmacy is governed by 🦅 **HIPAA** (Health Insurance Portability and Accountability Act), which protects the privacy and security of patient information.
