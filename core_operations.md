@@ -67,6 +67,8 @@ When performing **medication reconciliation** (the process of gathering a patien
 - **Document** them in the patient’s profile
 - **Refer patients to the pharmacist** for counseling if any concerns arise
 
+> 📌 Technicians may direct customers to a product but should involve the pharmacist when making recommendations
+
 🔗 [Considerations for OTC Analgesics](./medications/otc_analgesics.md)
 
 #### ⚠️ Subcategories and Exceptions
