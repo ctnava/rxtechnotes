@@ -3,8 +3,6 @@
 ## Todo
 
 - GO THROUGH READING WORKBOOK
-- update gowning SOP to include descriptions of antechamber & clean rooms
-  - port markdown
 - Drug Endings (appendix)
 - medwatch & VAERS filing SOP (appendix)
 - pharmacology & Pharmacokinetics
@@ -72,7 +70,7 @@
 
 ## Week 6: Info & Financial
 
-- [ ] Gowning SOP
+- [x] Gowning SOP
 - [x] Math: Chapter 23 - Parenteral Ratios & Proportions
 - [ ] Reading: Chapter 4 - Information Sources
 - [ ] Reading: Chapter 15 - Financial Issues (QUICK)
