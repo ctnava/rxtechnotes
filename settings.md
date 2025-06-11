@@ -6,7 +6,7 @@ In healthcare, outpatient refers to a patient who receives medical care without 
 
 ### Community Retail Pharmacies
 
-Community retail pharmacies provide direct patient access to prescription medications, health consultations, and over-the-counter (OTC) products. These pharmacies dispense nearly **two-thirds of all prescriptions nationwide**, making them central to public health delivery. They serve as both **medication access points** and **healthcare hubs** within the community.
+Community retail pharmacies provide direct patient access to prescription medications, health consultations, over-the-counter (OTC) products, and various beauty products. These pharmacies dispense nearly **two-thirds of all prescriptions nationwide**, making them central to public health delivery. They serve as both **medication access points** and **healthcare hubs** within the community.
 
 📦 **Types of Retail Pharmacies**:
 
