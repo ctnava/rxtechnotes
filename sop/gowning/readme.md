@@ -35,7 +35,6 @@ Includes the following components used to maintain air quality:
 
 Before entering the antechamber:
 
-- Familiarize yourself with 🔗 [Aseptic Handwashing](../handwashing/readme.md)
 - Remove **jewelry, makeup, and watches**
 - Keep **fingernails short**; no fake nails or extensions
 - Tie back long hair and secure loose clothing
@@ -47,17 +46,23 @@ Before entering the antechamber:
 
 ### Step 1: Initial Hand Hygiene
 
-- Perform a quick aseptic hand rub down to the wrists with 70% IPA.
+![standard motions](../handwashing/motions.png)
+
+- Perform a 🔗 [quick aseptic hand rub](../handwashing/readme.md) down to the wrists with 70% IPA.
 - Dry with a clean disposable towel.
 - This step reduces initial microbial burden before donning PPE.
 
 ### Step 2: Shoe Covers
 
+![Shoe Covers](./shoe_covers.PNG)
+
 - Don **shoe covers** over both feet.
-- Avoid stepping on exposed flooring with uncovered feet.
 - Use antechamber bench or dedicated hands-free shoe cover dispenser.
+- Avoid stepping on exposed flooring with uncovered feet.
 
 ### Step 3: Hair Cover and Face Mask
+
+![Hair Cover and Face Mask](./head_cover.PNG)
 
 - Cover entire head and ears with a **bouffant cap**.
 - Use a separate **beard cover** if needed.
@@ -66,14 +71,18 @@ Before entering the antechamber:
 
 ### Step 4: Full Aseptic Hand Washing
 
+![Surgical Scrub Brush with Nail Cleaner](./nail_brush.PNG)
+
 - Use **surgical scrub brush** with nail cleaner and antimicrobial soap.
-- Clean all nail beds, palms, fingers, and forearms up to elbows.
+- Clean all nail beds, palms, fingers, **and forearms up to elbows**.
 - Rinse thoroughly with **sterile water**, not tap water.
 - Use a disposable towel to dry hands completely.
 
 > 🛡️ Aseptic handwashing prevents contamination of sterile gloves and garments.
 
 ### Step 5: Aseptic Gowning
+
+![Putting on the Gown](./gown.PNG)
 
 - Open sterile gown packaging without contaminating the interior.
 - Insert arms and secure ties at the **back**.
@@ -82,6 +91,8 @@ Before entering the antechamber:
 > 📍 Gown should fully cover all street clothing and arms down to the wrists.
 
 ### Step 6: Sterile Gloves
+
+![Glove over cuff](./glove.PNG)
 
 - Open sterile glove packaging using aseptic technique.
 - Don gloves carefully, ensuring they cover gown cuffs completely.
