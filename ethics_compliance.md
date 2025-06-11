@@ -30,6 +30,8 @@ Some basic values in ethical considerations include:
 
 ## Compliance with the Law
 
+`Pharmacists and technicians must be knowledgeable regarding the many federal and state regulations that affect the practice of pharmacy.`
+
 *Technicians* are individuals who are given a basic level of training designed to help them with important specific tasks. Pharmacists rely on *pharmacy technicians* as support staff to assist with essential tasks that do not require the pharmacist's skill or expertise.
 
 All pharmacy personnel must comply with **federal and state laws**, under the supervision of a licensed pharmacist. Violations by technicians can also result in disciplinary actions for the supervising pharmacist.
