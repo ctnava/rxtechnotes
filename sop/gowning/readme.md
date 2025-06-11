@@ -4,6 +4,8 @@
 
 To prevent contamination of sterile compounding environments by establishing a standardized gowning process, which is critical to ensuring product safety. Contaminants such as microorganisms, particles, and chemicals from the environment or personnel can compromise compounded medications, posing serious risks to patient health. Adhering to strict gowning procedures helps maintain sterility, comply with regulatory standards (e.g., USP <797>), and uphold the integrity of pharmaceutical preparations.
 
+![Before and After](./before_after.PNG)
+
 ## 🔗 Scope
 
 This SOP applies to all personnel entering an ISO-classified cleanroom for sterile compounding. Gowning must be performed **before** entering the buffer area and **after** performing aseptic handwashing.
@@ -40,7 +42,7 @@ Before entering the antechamber:
 - Tie back long hair and secure loose clothing
 - Store personal items in designated lockers
 
-## ✅ Gowning Procedure
+## ✅ Donning Procedure
 
 **⚠️ NOTICE**: Perform hand sanitization with 70% isopropyl alcohol **before applying any garment**, unless otherwise indicated.
 
@@ -62,7 +64,9 @@ Before entering the antechamber:
 
 ### Step 3: Hair Cover and Face Mask
 
-![Hair Cover and Face Mask](./head_cover.PNG)
+![Hair Cover and Face Mask](./mask.PNG)
+
+![Beard Cover](./beard_cover.PNG)
 
 - Cover entire head and ears with a **bouffant cap**.
 - Use a separate **beard cover** if needed.
@@ -100,16 +104,20 @@ Before entering the antechamber:
 
 > 🛡️ Sterile gloves protect the critical zone during compounding.
 
-## 🔁 Degowning Procedure
+## 🔁 Doffing Procedure
 
-**Treat PPE as contaminated. Remove in this exact order to minimize exposure risk:**
+Personal Protective Equipment **(PPE) must be treated as a potential biohazard**. When removing each item, avoid touching external surfaces. Fold garments inward so the internal surfaces remain exposed during disposal. Perform hand hygiene after removing each item to maintain aseptic conditions.
 
 ### Step 1: Gloves
+
+![Glove Removal](./doffing_gloves.PNG)
 
 - Peel off one glove inside-out.
 - Use the gloved hand to remove the other glove without touching the outside.
 
 ### Step 2: Gown
+
+![Gown Removal](./degown.jpg)
 
 - Untie gown from the back.
 - Fold inward so the **clean side faces out**.
@@ -117,8 +125,12 @@ Before entering the antechamber:
 
 ### Step 3: Remaining PPE
 
+![Mask Removal](./doffing_mask.png)
+
 - Remove **face mask, beard cover, hair cover**, and **shoe covers**.
 - Discard all items unless facility policy requires reuse of specific PPE (e.g., reusable gowns in segregated compounding areas).
+
+---
 
 ## 🛡️ Notes & Best Practices
 
