@@ -121,6 +121,8 @@ Refills can be requested:
 - 🤝 In person  
 - ☎️ Over the phone
 
+> 📌 Involve the pharmacist immediately if the patient is requesting an early refill for controlled substances.
+
 When a prescription has no refills or is expired, the technician is requesting a new prescription, not a ‘refill’ in the legal sense. **Pharmacy technicians** may be authorized to contact the prescriber **on behalf of the patient** to request a new prescription.
 
 🔗 [Prescription Intake & Order Entry SOP](./sop/refill_renewal_request.md)
