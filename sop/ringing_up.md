@@ -77,3 +77,5 @@ Recommended questions:
    - Required for **new medications**
    - Advised if the patient appears confused or has clinical questions
    - 🩺 Document refusal or completion of counseling
+
+> 📌 Signatures are rquired for Medicaid and most third-party insurers or HMO presciptions, along with Schedule V controlled substances, poisons, and certain other prescriptions (depending on state).
