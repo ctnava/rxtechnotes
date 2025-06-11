@@ -13,7 +13,7 @@ This SOP outlines the required procedure for aseptic hand hygiene in environment
   - Do **not** wear fake nails or extensions.
   - Avoid chipped nail polish or nail art.
 
-## Step 2a: Alcohol-Based Handrub (Preferred Method Unless Soiled)
+## Step 2a: Alcohol-Based Handrub
 
 - Apply **a generous amount** of alcohol-based handrub.
 - Perform all **6 standard hand hygiene motions** for **40 to 60 seconds**, or until hands are dry.
@@ -23,7 +23,7 @@ This SOP outlines the required procedure for aseptic hand hygiene in environment
   
 ![6 standard motions during handwashing](./motions.png)
 
-## Step 2b: Soap and Water (Use ONLY When Visibly Soiled)
+## Step 2b: Soap and Water
 
 - Wet hands with **warm** (not hot) water.
 - Dispense ~1 teaspoon of liquid soap.
