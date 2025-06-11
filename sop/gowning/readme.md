@@ -190,3 +190,7 @@ Personal Protective Equipment **(PPE) must be treated as a potential biohazard**
 - Gowning must occur in the antechamber or designated ISO-classified area.
 
 ---
+
+## 🗺️🔗 Nav Links
+
+- 🥚 [Original SOP](./aseptic_gowning.pdf)
