@@ -14,24 +14,74 @@ This SOP applies to all personnel entering an ISO-classified cleanroom for steri
 
 ![Clean Room Design by Dekker](./clean_room_design.png)
 
-### ➕ Antechamber / Gowning Room
+### 🟢 Unrestricted Zone (Workspace)
 
-A **segregated space between the cleanroom and uncontrolled areas** used for:
+The outermost area where personnel and materials enter before gowning. Not subject to air quality classification. General public and pharmacy workflow intersect here.
 
-- Gowning and degowning procedures
+- **Key Function**: Staging and administrative work
+- **Engineering Controls**: None required
+- **Examples**: Office, receiving, general storage
+
+### ➕ Antechamber / Gowning Room / Transition Zone
+
+A **segregated space between the cleanroom (buffer rooms) and uncontrolled areas** used for:
+
+- Gowning and hand hygiene
 - Staging of materials entering the cleanroom
 - Pressure control between cleanroom zones
 
-Maintains positive pressure toward the buffer area to reduce contamination inflow. Classified as an **ISO 7 or ISO 8 environment**, depending on cleanroom design.
+🧪 **Typical Classification**: ISO Class 7 (if leading to hazardous compounding) or ISO Class 8 (for non-hazardous)
 
-### 🔧 Engineering Controls
+🔧 **Engineering Controls (Secondary)**:
 
-Includes the following components used to maintain air quality:
+- **Pressure gradients**  
+  - Positive toward USP <797> buffer room  
+  - Negative or neutral toward USP <800> buffer room  
+- **HEPA-filtered HVAC supply**  
+- **Sealed ceilings, walls, and floors**  
+- **Hands-free sinks** (outside the buffer zone)
 
-- **HEPA filters**: Remove ≥99.97% of 0.3 μm particles
-- **Laminar airflow workbenches (LAFWs)**: Maintain unidirectional airflow in compounding areas
-- **Positive pressure differentials**: Prevent entry of lower-class air
-- **Airlocks or pass-throughs**: Used for material transfers without disturbing pressure zones
+### 🧪 USP <797> Restricted Zone (Non-Hazardous Sterile Compounding)
+
+Sterile compounding area for non-hazardous drugs. Must meet **ISO Class 7** conditions.
+
+🔹 **Primary Engineering Controls (PECs)**:
+
+- **Laminar Airflow Workbenches (LAFWs)**  
+- **Compounding Aseptic Isolators (CAIs)**  
+- Provide ISO 5 environment where sterile work occurs
+
+🔸 **Secondary Engineering Controls (SECs)**:
+
+- **Positive pressure** buffer room  
+- **HEPA-filtered air from ceiling with low-wall returns**  
+- **Continuous or logged differential pressure monitors**  
+- **Impervious, seamless surfaces**
+
+### ☣️ USP <800> Restricted Zone (Hazardous Drug Buffer Room)
+
+Dedicated for sterile compounding of hazardous drugs under **negative pressure** and **ISO Class 7**.
+
+🔹 **Primary Engineering Controls**:
+
+- **Biological Safety Cabinets (BSCs)** – Class II, Type B2 preferred  
+- **Compounding Aseptic Containment Isolators (CACIs)**  
+- Maintain ISO 5 conditions internally
+
+🔸 **Secondary Engineering Controls**:
+
+- **Negative pressure** relative to the ante-room  
+  - Minimum: −0.01 inch water column  
+- **Externally vented exhaust**  
+- **Sealed, chemical-resistant surfaces**  
+- **HEPA-filtered ISO 7 environment**
+
+### 🔑 Summary of Engineering Control Roles
+
+| Control Type | Description | Examples | Purpose |
+|--------------|-------------|----------|---------|
+| **Primary (PEC)**| Direct compounding environment (ISO 5) | LAFW, BSC, CAI, CACI | Protect product sterility |
+| **Secondary (SEC)**| Architectural/airflow support systems | Buffer room HVAC, HEPA, pressure diffs| Maintain classified environment|
 
 ## 🧼 Pre-Gowning Requirements
 
