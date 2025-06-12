@@ -24,9 +24,15 @@ Once privacy documentation is complete, create the patient profile in the **phar
   - Health conditions (e.g. diabetes, asthma)  
   - Medication history
 - 📦 **Service Preferences**
+  - Automatic Refills
   - Child-resistant packaging waiver  
-  - Mail delivery preference  
+  - Mail Delivery
   - Manufacturer/formulation preferences  
+  - Messaging (SMS/ Phone/ e-mail)
+    - prescription ready notice
+    - refill reminders/ confirmation
+    - insurance dispute notifications
+    - other important alerts
 - 🏥 **(Institutional Only)**
   - Principal Diagnosis
   - Room/bed assignment
