@@ -113,7 +113,7 @@ It is the pharmacy staff’s responsibility to:
 
 The CMEA was enacted to combat the illegal production of methamphetamine by creating a list of monitored drugs, equipment, and chemicals while also placing ***strict, time based controls on over-the-counter (OTC)*** sales of:
 
-- **Pseudoephedrine**
+- **Pseudoephedrine (PSE)**
 - **Ephedrine**
 - **Phenylpropanolamine**
 
@@ -127,17 +127,17 @@ These ingredients are commonly found in cold and allergy medications but can als
 
 🔐 **Storage & Access Requirements**:
 
-- Must be kept Behind-the-Counter or in a locked cabinet.
-- not available for self-service.
+- Must be kept Behind-the-Counter or in a locked display case.
+  - not available for self-service.
+  - Retailers must give product directly to purchaser
 
 🧾 **Sales & Logbook Requirements**:
 
 - Purchasers must be 18 years or older and present a valid photo ID.
-- A logbook must be maintained that records:
-  - Purchaser’s name and address
-  - Product name
-  - Quantity sold
+- For purchases involving > 60 mg, a logbook must be maintained that records:
+  - Purchaser’s name, adress, & signature
   - Date and time of the sale
+  - Product name & Quantity sold
   
 ## 🗺️🔗 Nav Links
 
