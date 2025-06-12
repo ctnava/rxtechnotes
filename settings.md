@@ -149,11 +149,6 @@ The **Kirby Lester KL1** includes scan verification of NDC and prescription to r
 
 ✅ All prescriptions are **checked by the pharmacist before moving to pickup** bins
 
-> ⚖️ **Poison Prevention Packaging Act (PPPA, 1970)**  
-> Requires most prescriptions to be dispensed in child-resistant packaging to reduce accidental poisoning.  
-> Patients may request **easy-open caps**, but this must be documented.  
-> Exemptions apply for certain medications (e.g., emergency meds, topical ointments, dose packs).
-
 ###### 🤖 Automated Filling Machines
 
 Primarily found in mail-order or high-volume community pharmacies.
