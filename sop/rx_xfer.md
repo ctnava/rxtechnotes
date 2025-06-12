@@ -4,6 +4,8 @@ Prescriptions may be transferred between pharmacies at the **request of the pati
 
 Pharmacy technicians **may not** perform the actual transfer of the prescription. However, they **assist** by preparing the necessary information and coordinating communication.
 
+> 🩺 Both pharmacists will record each other's information during the transfer.
+
 ## 🦅 Federal & 🐻 California Rules
 
 - **Non-controlled (Legend) Drugs**:  
