@@ -1,6 +1,11 @@
 # Introduction to Pharmacy
 
-**Pharmacology** is the study of **pharmaceutics** (drug products), specifically their properties, uses, applications, and effects on the body.
+**Pharmacology** is the study of how drugs interact with biological systems, including their effects, mechanisms of action, metabolism, and excretion.
+
+It differs from:
+
+- **Pharmacognosy**, which focuses on drugs from natural sources, and
+- **Pharmaceutics**, which focuses on formulation and delivery of drug products.
 
 ## Timeline of Notable advancements
 
@@ -24,7 +29,7 @@ People have used drugs derived from plants to treat illness and manage physical 
 - **~100 BCE**:  
   - **King Mithridates VI of Pontus** practices early **immunization** by ingesting sub-lethal doses of poisons, leading to the concept of "mithridatism"
 - **77 BCE**:  
-  - **Dioscorides**, a Greek physician, writes **"De Materia Medica"**, an authoritative pharmacopoeia used in Europe for over 1,500 years. It describes hundreds of medicinal substances, including **willow bark**.
+  - 🔑 **Dioscorides**, a Greek physician, writes **"De Materia Medica"**, an authoritative pharmacopoeia used in Europe for over 1,500 years. It describes hundreds of medicinal substances, including **willow bark**.
 - **~100 CE**:  
   - **Charaka**, an Indian physician, compiles the **Charaka Samhita**, one of the foundational texts of Ayurvedic medicine.
 - **162 CE**:  
@@ -38,6 +43,10 @@ People have used drugs derived from plants to treat illness and manage physical 
   - In **Mesoamerica**, Aztec civilizations were found to have already developed extensive herbal pharmacopeias. **Sarsaparilla** becomes a known treatment for urinary tract issues in Europe.
 - **1580**:  
   - **Li Shi Zhen**, a Chinese physician, completes the **Pen Tsao Kang Mu**, an encyclopedic pharmacopoeia with 1,800 drugs and 11,000 prescriptions.
+- **1630**:
+  - 🔑 Jesuits send **quinine** (Jesuit's Powder) back to Europe as a treatment for **malaria**.
+- **1721**:
+  - Dr. Zabdiel Boylston administers the first smallpox vaccine.
 - **1785**:  
   - 🔑 **Digitalis** is isolated from **foxglove** by William Withering. It is used to treat **congestive heart failure** and arrhythmias.
 - **1796**:  
@@ -49,7 +58,7 @@ People have used drugs derived from plants to treat illness and manage physical 
 - **1864**:
   - 🔑 **Louis Pasteur** establishes the **Germ Theory of Disease**, proving that microorganisms cause food spoilage and infection. He also develops **pasteurization**, laying the foundation for **modern microbiology**.
 - **1884**:
-  - 🔑 **Carl Koller** introduces **cocaine** (from coca leaves) as the first effective **local anesthetic**, enabling painless eye surgeries.
+  - 🔑 **Carl Koller** introduces **cocaine** (from coca leaves) as the first effective **local anesthetic**, enabling painless **eye** surgeries.
 - **1890**:
   - Effective **antitoxins** for **diphtheria** and **tetanus** are developed, introducing passive immunity.
 - **1899**:
@@ -96,6 +105,7 @@ People have used drugs derived from plants to treat illness and manage physical 
 - Since 1900, the average U.S. lifespan has increased by over **30 years**, largely due to advancements in medicine, public health, and hygiene.
 - Between **1970 and 2000**, U.S. healthcare costs rose by over **1500%**.
 - Most drugs used today are **synthetic**; chemically manufactured rather than derived from natural sources.
+  - Provides better cost, effect, & availability
 
 ### The Practice of Pharmacy
 
@@ -105,6 +115,7 @@ People have used drugs derived from plants to treat illness and manage physical 
   - Perform a supervised **internship**
 - Pharmacists must complete **continuing education (CE)** to maintain licensure.
 - **Medication Therapy Management (MTM)** services allow pharmacists to evaluate **all medications** a patient is taking, not just the one being dispensed.
+  - Pharmacists are paid approximately $1-$3 per minute
 - **Computerized Pharmacy Management Systems (PMS)**:
   - Maintain patient profiles, inventory, pricing, and product data
   - Increase prescription volume capacity and accuracy
