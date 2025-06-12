@@ -46,7 +46,8 @@
 
 - Generate and print:
   - Prescription label
-  - Required auxiliary labels (per system prompts)
+  - **Auxiliary labels** (per system prompts)
+    - 📍 these identify important usage information; including specific warnings or alerts on administration, storage, side effects, and food or drug interactions
 - Ensure label includes:
   - Patient name
   - Medication name and strength
