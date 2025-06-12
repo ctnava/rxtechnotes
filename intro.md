@@ -176,6 +176,14 @@ Pharmacists must complete **Continuing Education (CE)** regularly to maintain li
   - Inventory tracking (especially for controlled substances)
   - Reporting requirements (e.g., to prescription drug monitoring programs or insurers)
 
+### Bonus Reading: Make America Healthy Again
+
+This essay exposes a disturbing executive order masquerading as a public health initiative. Beneath its patriotic language lies a fascist-adjacent agenda: reshape psychiatric standards to boost military enlistment by limiting diagnoses and cutting access to care.
+
+It’s not about making Americans healthier. It’s about making more of them deployable.
+
+🔗 [Continued](./ref/essays/maha.md)
+
 ---
 
 ## 🗺️🔗 Nav Links

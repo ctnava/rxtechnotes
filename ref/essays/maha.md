@@ -65,5 +65,5 @@ Unknown Author. “Keeping Education Accessible and Ending Covid-19 Vaccine Mand
 
 ## 🗺️🔗 Nav Links
 
-- 🏠 [Home Directory](../readme.md)
-<!-- - 🥚 [Original Essay](./essay_make_america_healthy_again_commission.pdf) -->
+- 🔙 [Introduction to Pharmacy](../../intro.md#bonus-reading-make-america-healthy-again)
+- 🥚 [Original Essay](./essay_make_america_healthy_again_commission.pdf)
