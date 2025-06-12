@@ -74,7 +74,9 @@ Manufacturers participating in the Medicaid program are required to offer discou
 
 ## Medicare Modernization Act (MMA, 2003)
 
-The MMA established Part D of the program to provide prescription drug coverage and requires pharmacists to provide **Medication Therapy Management (MTM)** services to optimize therapeutic outcomes while minimizing adverse events. These include:
+The MMA established Medicare Part D, a drug benefit program. It sets guidelines for, and relies on, private **Prescription Drug Plans** (PDP) companies to provide prescription drug coverage for eligible individuals, which each have their own formularies.
+
+It also requires pharmacists to provide **Medication Therapy Management (MTM)** services to optimize therapeutic outcomes while minimizing adverse events. MTM is usually targeted toward patients taking multiple chronic medications, especially those with multiple conditions or high drug costs. These include:
 
 - **Comprehensive medication reviews (CMRs)**: Reviewing all medications a patient is taking
 - Identifying duplications or interactions
@@ -83,7 +85,7 @@ The MMA established Part D of the program to provide prescription drug coverage 
 - Monitoring side effects and adherence
 - Coordinating care with prescribers
 
-> 📌 MTM is usually targeted toward patients taking multiple chronic medications, especially those with multiple conditions or high drug costs.
+> 📌 MTM is commonly delivered through [OutcomesMTM](https://www.outcomesmtm.com).
 
 Technicians assist by preparing medication histories, documentation, and assisting with insurance or billing tasks.
 
