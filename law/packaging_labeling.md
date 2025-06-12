@@ -40,6 +40,7 @@ CR packaging is *not required* in the following cases:
   - **Emergency Medication** (e.g. Sublingual nitroglycerin)
   - **Oral contraceptives** in mnemonic blister packs
   - **Inhalers** (e.g., albuterol)
+  - **Prepackaged Medications**
 
 ### Technician Responsibilities
 

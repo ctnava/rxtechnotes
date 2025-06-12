@@ -74,7 +74,7 @@
   - All auxiliary and warning stickers
 - Affix a **child-resistant cap** unless:
   - an easy-open cap is requested & documented
-  - it is an inhaler, emergency medication, oral contraceptive, or other medication exempt from child-resistant packaging
+  - it is a child-resistant packaging exempt medication
   - 🔗 see [PPPA (1970)](../law/packaging_labeling.md#poison-prevention-packaging-act-pppa-1970) for more details
 - Return surplus medication to the original stock bottle immediately
 
