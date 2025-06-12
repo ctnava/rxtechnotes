@@ -23,7 +23,10 @@ Essential qualities include:
   - High-cost specialty medications
 - 🔍 **Accuracy & Attention to Detail**: Pharmacy is a **detail-oriented** field. Milligrams, milliliters, expiration dates, and NDC numbers must be handled with care. A misplaced decimal or labeling mistake can result in overdose, underdose, or dangerous interactions. Precision in measuring, labeling, documenting, and communicating is non-negotiable.
 - 📅 **Accountability & Dependability**: Every technician is part of a larger workflow. If you fail to show up, make a serious error, or neglect your responsibilities, the impact ripples across the pharmacy and to the patients waiting for care. Others depend on you to follow through reliably, especially under pressure.
-- 💬 **Professional communication**: You are the first point of contact for patients, insurance reps, delivery drivers, and other healthcare providers. You must communicate clearly, respectfully, and professionally; even when the other party is rude, confused, or upset.
+- 💬 **Professional communication**: You are the first point of contact for patients, insurance reps, delivery drivers, and other healthcare providers. You must communicate clearly, respectfully, and professionally; even when the other party is rude, confused, or upset. Therefore, they must:
+  - be calm and courteous when interacting with customers
+  - know when to refer a customer complaint or question to the pharmacist
+  - be familiar with the layout of the store (in community pharmacy)
 
 Pharmacy technicians must always behave in a way that reinforces trust from both patients and the healthcare team. Being consistently ethical, dependable, and composed is part of your professional identity.
 
