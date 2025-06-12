@@ -18,7 +18,7 @@ These requirements complement the FDA’s misbranding and labeling rules under t
 
 ## Poison Prevention Packaging Act (PPPA, 1970)
 
-The PPPA was enacted to reduce the risk of accidental poisoning in children under five years of age by requiring **child-resistant (CR) packaging** for hazardous household substances, including many prescription and over-the-counter (OTC) medications.
+The PPPA was enacted to reduce the risk of accidental poisoning in children under five years of age by requiring **child-resistant (CR) packaging** (e.g. safety caps) for hazardous household substances, including many prescription and over-the-counter (OTC) medications.
 
 > 🔑 **Enforced by** the Consumer Product Safety Commission (CPSC), not the FDA.
 

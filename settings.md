@@ -130,7 +130,7 @@ Prescription counters equipped with:
     - Potential side effects  
     - Food and drug interactions  
   - May be pre-printed or printed with the label
-- 🍶 Vials and child-resistant lids  
+- 🍶 Vials and child-resistant safety cap  
   - 🔗 See: [PPPA (1970)](./law/packaging_labeling.md#poison-prevention-packaging-act-pppa-1970)
 - 🧪 Counting trays and spatulas  
   - Technicians typically count by 5s

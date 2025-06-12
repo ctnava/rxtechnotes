@@ -89,7 +89,7 @@ Most bulk medications must be counted or measured and **repackaged** from stock 
 
 📦 **Bottling & Sealing**:
 
-- Use a **child-resistant cap** unless:
+- Use a **child-resistant safety cap** unless:
   - An easy-open cap is **requested and documented**
   - The drug is **exempt from child-resistant packaging**
   - 🔗 See [PPPA (1970)](../law/packaging_labeling.md#poison-prevention-packaging-act-pppa-1970) for details
