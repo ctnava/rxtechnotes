@@ -14,6 +14,8 @@ These requirements complement the FDA’s misbranding and labeling rules under t
 
 > 📌 The FPLA helps prevent misbranding by requiring clarity and standardization in labeling. Technicians must ensure that OTC products and bulk containers are correctly labeled before stocking shelves or filling orders.
 
+---
+
 ## Poison Prevention Packaging Act (PPPA, 1970)
 
 The PPPA was enacted to reduce the risk of accidental poisoning in children under five years of age by requiring **child-resistant (CR) packaging** for hazardous household substances, including many prescription and over-the-counter (OTC) medications.
@@ -54,6 +56,13 @@ CR packaging is *not required* in the following cases:
 > - 🛡️ Failing to use child-resistant packaging without proper documentation may result in **liability** for preventable harm.
 > - 🚨 CR requirements apply at the **point of dispensing**, not necessarily at the manufacturer level. A product may arrive in CR packaging and still require repackaging at the pharmacy.
 
+### Return Links (PPPA)
+
+- 🔙 [Pharmacy Settings](../settings.md#-non-compounded-prescription-area)
+- 🛠️ [SOP - Filling Prescriptions (Retail)](../sop/rx_fill.md#32-bottling-and-sealing)
+
+---
+
 ## Drug Listing Act (1972)
 
 The Drug Listing Act of 1972 mandates that all drug establishments provide a complete list of drugs manufactured, prepared, propagated, compounded, or processed for distribution, and these drugs must have a ***11-digit National Drug Code (NDC)***; a 3-segmented universal identifier.
@@ -67,6 +76,8 @@ The Drug Listing Act of 1972 mandates that all drug establishments provide a com
 > 📌 NDCs can appear as 10-digit variations on packaging. For databases and claims, they are normalized to **11-digit** format with leading zeros (e.g. `0517-0420-01` ➡ `00517-0420-01`).
 > .
 > 🤯 NATO Stock Number (NSN) is the military analog to the NDC.
+
+---
 
 ## 🤯 Drug Supply Chain Security Act (DSCSA, 2013)
 
@@ -85,4 +96,3 @@ The DSCSA aims to improve the security and traceability of prescription drugs in
 ## 🗺️🔗 Nav Links
 
 - 🦅 [Federal Law Reference Directory](./readme.md)
-- 🛠️ [SOP - Filling Prescriptions (Retail)](../sop/rx_fill.md#32-bottling-and-sealing)
