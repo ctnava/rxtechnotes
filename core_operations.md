@@ -107,7 +107,7 @@ When a patient shows up to the pharmacy for the first time, they usually bring a
 
 🛠️ **Standard Operating Procedures**
 
-- 🔗 [New Patient Intake](./sop/new_patient_intake.md)
+- 🔗 [New Patient Intake](./sop/pt_intake.md)
 - 🔗 [Prescription Intake & Order Entry](./sop/rx_intake.md)
 
 ### 🔄 Refills & Renewal Requests

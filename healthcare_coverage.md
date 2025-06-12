@@ -269,7 +269,7 @@ Before a prescription can be processed or billed, a patient profile must be crea
 
 > 🛡️ Incorrect COB setup leads to claim denials or full patient cost. Watch for Third Party Rejections like “other coverage primary”. Verify COB at patient intake and refer unclear COB issues to pharmacist or billing staff.
 
-🔗 See: [New Patient Intake & Coordination of Benefits SOP](./sop/new_patient_intake.md)
+🔗 See: [New Patient Intake & Coordination of Benefits SOP](./sop/pt_intake.md)
 
 #### 🛠️ Workers’ Compensation (Workers’ Comp)
 
