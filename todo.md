@@ -35,7 +35,7 @@
 
 - [x] SOP: Cleaning the Hood
 - [x] The Prescription Video
-- [ ] Reading: Chapter 16 - Community Pharmacy (QUICK)
+- [x] Reading: Chapter 16 - Community Pharmacy (QUICK)
   - ./settings_personnel_services.md
 - [x] HIPAA Survival Guide
 - [x] Math: Chapter 12 - Day Supply
