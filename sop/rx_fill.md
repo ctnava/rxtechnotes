@@ -81,12 +81,13 @@
 
 #### 4.1 Pharmacist Verification
 
-- Place filled prescription and pamphlet in the **verification queue**
-- Pharmacist verifies:
+- Place prepared prescription and pamphlet in the **verification queue**
+- Pharmacist verifies the final product & paperwork:
+  - original prescription
+  - No potential interactions or contraindications on patient profile
   - Product matches the label and NDC
   - Proper quantity and packaging
   - Clarity and correctness of directions
-  - No potential interactions or contraindications on patient profile
 
 #### 4.2 REMS Compliance
 

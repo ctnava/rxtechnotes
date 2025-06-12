@@ -81,4 +81,7 @@ The DSCSA aims to improve the security and traceability of prescription drugs in
   
 ---
 
-🔙🔗 Back to [**Federal Law Reference Directory**](./readme.md)
+## 🗺️🔗 Nav Links
+
+- 🦅 [Federal Law Reference Directory](./readme.md)
+- 🛠️ [SOP - Filling Prescriptions (Retail)](../sop/rx_fill.md#32-bottling-and-sealing)
