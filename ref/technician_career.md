@@ -76,7 +76,7 @@ Pharmacy technicians perform a wide range of functions critical to the safe and 
 2. **Measuring** and preparing exact amounts of prescribed medications  
 3. **Packaging and labeling** medications for patient use  
    - **Prepackaging** bulk medications into unit doses
-4. **Managing inventory**, including tracking stock and reporting shortages to pharmacists  
+4. **Managing inventory**, including tracking stock, ordering medication, reporting shortages to pharmacists, and other product stock duties
 5. **Processing insurance claims** and handling payments  
 6. **Entering patient information** into pharmacy information systems  
 7. **Handling phone calls** and addressing routine inquiries  
