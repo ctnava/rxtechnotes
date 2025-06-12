@@ -151,22 +151,35 @@ The **Kirby Lester KL1** is an **automated pill counter** that includes scan ver
 
 ###### 🤖 Automated Filling Machines
 
-Primarily found in mail-order or high-volume community pharmacies.
+Automated filling machines handle high-volume dispensing of fast-moving **tablet** and **capsule** medications. These systems are common in **mail-order** and **high-volume community** pharmacies.
 
-Common systems include:
+🔧 **Common Systems**
 
-- Kirby Lester **KL60** or **KL100**
+- Kirby Lester: **KL60**, **KL100**
 - **Parata Max**
 - **ScriptPro**
 - **RxMedic**
 
-📦 Features:
+🛠️ **Core Functionality**
 
-- Integrate with inventory management systems  
-- Record each fill for auditing and verification  
-- Increase efficiency for repetitive or high-volume tasks  
-- ⚠️ Final product must still be **verified by the pharmacist**
-Automated Filling Machines
+- Use individual **cassettes** to hold and dispense medications  
+- Equipped with:
+  - Built-in label printer and blank label roll
+  - Storage bins for vials and caps
+- Operate by:
+  - Receiving or scanning prescription orders
+  - Selecting the correct vial size
+  - Printing and applying the prescription label
+  - Counting and dispensing the required quantity
+  - Presenting the completed prescription to the technician
+
+📦 **Additional Features**
+
+- Integrate with pharmacy inventory systems  
+- Log dispensing activity for **auditing and traceability**  
+- Streamline repetitive tasks to improve **workflow efficiency**
+
+> 🩺 Final products must still be **verified by the pharmacist** before dispensing.
 
 ###### 🧪 Compounding Area
 
