@@ -9,10 +9,10 @@ New prescriptions may be submitted by:
 
 - 📝 Handwritten forms (often for controlled substances)  
 - 📠 Faxed prescriptions  
-- ☎️ Verbal orders (received directly by the pharmacist; entered by technicians)  
-- 🧾 E-scripts through HIPAA-compliant Electronic Data Interchange (EDI)
+- ☎️ Verbal orders (received directly by the pharmacist; entered by technicians after being transcribed into hard copy)  
+- 🧾 E-scripts through HIPAA-compliant Electronic Data Interchange (EDI); must be printed
 
-> 📠 For accuracy and improved record keeping, many pharmacies scan the prescription into the pharmacy dispensing system.
+> 📠 For accuracy and improved record keeping, many pharmacies scan the hard copy of prescriptions into the pharmacy dispensing system on top of filing them.
 
 ## 🗂️ Step 1: Check for Required Elements
 
