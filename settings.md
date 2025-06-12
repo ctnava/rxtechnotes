@@ -82,7 +82,7 @@ The front-end is where patients interact directly with pharmacy staff.
 **Key Features:**
 
 - **Transaction Windows**: Designated areas for drop-off and pickup of prescriptions.
-  - transaction windows must be positioned to ensure patient privacy.
+  - must be positioned to ensure patient privacy.
 - **Prescription Pickup Bins/Shelves**: Storage for prescriptions awaiting pickup; alphabetized by last name.
 - **Point-of-Sale (POS)**: Technicians ring up prescriptions and over-the-counter items.
 
