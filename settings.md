@@ -131,14 +131,21 @@ Prescription counters equipped with:
     - Food and drug interactions  
   - May be pre-printed or printed with the label
 - 🍶 Vials and child-resistant lids  
+  - 🔗 See: [PPPA (1970)](./law/packaging_labeling.md#poison-prevention-packaging-act-pppa-1970)
 - 🧪 Counting trays and spatulas  
   - Technicians typically count by 5s
 - ⚖️ Pill counting scales  
 - 🤖 Automated pill counters  
-  - e.g., **Kirby Lester KL1**  
-    - Includes scan verification of NDC and prescription to reduce errors
-    - 🔗 [Counting Technique for a Kirby Lester Device](https://www.youtube.com/watch?v=2rq3G7BEnjY)
-    - 🔗 [Kirby Lester Diagram](./ref/img/kirby_lester_diagram.jpg)
+
+---
+
+The **Kirby Lester KL1** includes scan verification of NDC and prescription to reduce errors.
+
+![Kirby Lester Diagram](./ref/img/kirby_lester_diagram.jpg)
+
+🌐 [Kirby Lester Operation Guide](https://www.youtube.com/watch?v=2rq3G7BEnjY)
+
+---
 
 ✅ All prescriptions are **checked by the pharmacist before moving to pickup** bins
 

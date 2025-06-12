@@ -71,9 +71,12 @@ Most bulk medications must be counted or measured and **repackaged** from stock 
 🔢 **Counting Solid Dosage Forms**:
 
 - Identify and retrieve an **appropriately sized vial**
-- Pour medication onto a **clean counting tray**
-- Use **count-by-5** unless the quantity is small or requires verification
-- Match the count precisely to the prescription
+- Match the count precisely to the prescription via:
+  - ⚖️ Pill counting scales  
+  - 🤖 Automated pill counters
+  - ✋ Manual counting
+    - Pour medication onto a **clean counting tray**
+    - Use **count-by-5** unless the quantity is small or requires verification
 
 🔢 **Measuring Liquid Dosage Forms**:
 
