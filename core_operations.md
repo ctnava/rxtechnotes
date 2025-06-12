@@ -125,7 +125,7 @@ Refills can be requested:
 
 When a prescription has no refills or is expired, the technician is requesting a new prescription, not a ‘refill’ in the legal sense. **Pharmacy technicians** may be authorized to contact the prescriber **on behalf of the patient** to request a new prescription.
 
-🔗 [Prescription Intake & Order Entry SOP](./sop/refill_renewal_request.md)
+🔗 [Prescription Renewals SOP](./sop/refill_renewal_request.md)
 
 ### Prescription Transfers
 
@@ -133,7 +133,7 @@ Prescriptions may be transferred to another pharmacy at the request of a patient
 
 🔗 [Prescription Transfer SOP](./sop/rx_xfer.md)
 
-## Filling Prescriptions
+## Filling or Preparing Prescriptions
 
 After prescriptions are accurately entered and verified in the system, technicians must follow standardized protocols to ensure safe, legal, and efficient dispensing of medications.
 
