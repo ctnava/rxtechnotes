@@ -14,7 +14,7 @@ Pharmacy clerks (also called assistants) are **unlicensed personnel** who suppor
 - **Payment Processing**: Handling customer payments and receipts
 - **Clerical Work**: Filing records, organizing paperwork
 
-> 📍 In some states, clerks may not be permitted to enter or access prescription data.
+> 📌 In some states, clerks may not be permitted to enter or access prescription data.
 
 ### Pharmacy Technicians (PhT)
 
@@ -112,7 +112,7 @@ The **Medicare Modernization Act (MMA, 2003)** established Part D of the program
 - Monitoring side effects and adherence
 - Coordinating care with prescribers
 
-> 📍 MTM is usually targeted toward patients taking multiple chronic medications, especially those with multiple conditions or high drug costs.
+> 📌 MTM is usually targeted toward patients taking multiple chronic medications, especially those with multiple conditions or high drug costs.
 
 Technicians assist by preparing medication histories, documentation, and assisting with insurance or billing tasks.
 

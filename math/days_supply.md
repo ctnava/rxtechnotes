@@ -110,7 +110,7 @@ ${\boxed{\Rightarrow \text{Tablets Per Diem} = 1 \, \text{tab/dose} \times 3 \, 
 
 ${\boxed{\Rightarrow \text{Days Supply} = \frac{90 \, \text{tabs}}{3 \, \text{tabs/day}} = 30 \, \text{days}}}$ -->
 
-> 📍 Divide 24 hours by the interval to determine frequency.
+> 📌 Divide 24 hours by the interval to determine frequency.
 
 📘 **Example**: As Needed
 
@@ -245,8 +245,8 @@ ${\boxed{\Rightarrow \text{Days Supply} = \text{4 Days (Rounded Down)}}}$ -->
 
 ${\boxed{\text{Days Supply} = \frac{\text{Grams Dispensed}}{{\text{Grams per Application} \times \text{Applications Per Diem}}}}}$
 
->- 📍 Estimate **1 gram/ 1mL per application**, unless prescriber or labeling indicates otherwise  
->- 📍 1 gram typically covers a **10 cm × 10 cm** area of skin   -->
+>- 📌 Estimate **1 gram/ 1mL per application**, unless prescriber or labeling indicates otherwise  
+>- 📌 1 gram typically covers a **10 cm × 10 cm** area of skin   -->
 
 🧴 **Example**:
 
@@ -285,7 +285,7 @@ ${\boxed{\text{Drops per Diem} = \text{Drops per Dose} \times \text{Doses per Di
 
 ${\boxed{\text{Days Supply} = \frac{\text{Total Drops Available}}{\text{Drops per Diem}}}}$ -->
 
-> 📍 Estimate **20 drops per mL** unless otherwise specified by package insert  
+> 📌 Estimate **20 drops per mL** unless otherwise specified by package insert  
 > 🛡️ Always check if treatment is **unilateral or bilateral**
 
 📘 **Example**
@@ -332,8 +332,8 @@ ${\boxed{\Rightarrow \text{Days Supply} = \frac{100 \, \text{gtt}}{4 \, \text{gt
 
 ${\boxed{\text{Days Supply} = \frac{\text{Vials Dispensed}}{\text{Vials Per Diem}}}}$ -->
 
->- 📍 Each nebulizer vial is unit-dose (e.g., 2.5 mL each)  
->- 📍 Do **not** assume volume-use fractions; vials are **not** split
+>- 📌 Each nebulizer vial is unit-dose (e.g., 2.5 mL each)  
+>- 📌 Do **not** assume volume-use fractions; vials are **not** split
 
 📘 **Example**:
 
@@ -374,7 +374,7 @@ ${\boxed{\Rightarrow \text{Days Supply} = \frac{25 \, \text{vials}}{1 \, \text{v
 
 ${\boxed{\text{Days Supply} = \frac{\text{Total Metered Doses}}{{\text{Puffs per Dose} \times \text{Doses per Diem}}}}}$ -->
 
-> 📍 MDI canisters are labeled with **number of actuations (puffs)**
+> 📌 MDI canisters are labeled with **number of actuations (puffs)**
 
 📘 **Example**:
 
@@ -459,7 +459,7 @@ Insulin is dosed in **Units**, but dispensed and billed by **volume (mL)**. Most
 - **Vial**: 10 mL (1,000 Units for U-100)
 - **Pen**: 3 mL (300 Units for U-100)
 
-📍 **Opened insulin products expire 28 days after first use**, even if medication remains. Days’ supply is limited by:
+📌 **Opened insulin products expire 28 days after first use**, even if medication remains. Days’ supply is limited by:
 
 - **Daily usage** (Units/day)
 - **Package volume** (Units total)

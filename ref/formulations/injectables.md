@@ -104,7 +104,7 @@ IV administration delivers drug **directly into the vein**, bypassing all absorp
 
 > ☣️ Central lines are **high-risk** access points requiring **strict sterile technique** and **skilled insertion**. Central access is often needed for TPN, chemo, or prolonged antibiotic therapy.
 
-📍 **Documentation Reminder**  
+📌 **Documentation Reminder**  
 
 Always document:
 
@@ -164,7 +164,7 @@ Always document:
   - Infection
   - Dislodgement or occlusion
 
-> 📍 For high-alert medications, double-check pump settings and line compatibility before administration.
+> 📌 For high-alert medications, double-check pump settings and line compatibility before administration.
 
 ---
 
@@ -216,8 +216,8 @@ Intramuscular administration involves injecting a drug **deep into the skeletal 
 | **Vastus lateralis**| Thigh | Preferred in infants and small children; moderate volume (~2 mL) |
 | **Ventrogluteal**   | Hip | Safe site; away from major nerves and blood vessels |
 
->- 📍 IM sites should be chosen to avoid proximity to **major nerves and blood vessels**.
->- 📍 Doses >3 mL should be split between two sites unless specifically indicated otherwise.
+>- 📌 IM sites should be chosen to avoid proximity to **major nerves and blood vessels**.
+>- 📌 Doses >3 mL should be split between two sites unless specifically indicated otherwise.
 >- 🛡️ Always rotate injection sites to prevent muscle fibrosis, local irritation, scar & abscess formation
 
 🎯 **Z-Track Technique**
@@ -250,7 +250,7 @@ Subcutaneous administration involves injecting medication into the **fatty tissu
 - **Duration**: Can support short-term or **very long-term** therapies
 - **Volume Limit**: Typically **0.5–1.5 mL** per injection
 
-> 📍 Useful for self-administration due to ease of access and minimal training requirements.
+> 📌 Useful for self-administration due to ease of access and minimal training requirements.
 
 ⚗️ **Absorption Influencers**
 
@@ -329,9 +329,9 @@ Intradermal administration delivers **small volumes (0.1 mL or less)** directly 
 - **Effect**: Can be **local** (skin reaction) or **systemic**
 - **Depot effect**: Drug forms a **wheal** (small, raised blister) from which it is gradually absorbed
 
-> 📍 The **wheal** is a visible sign of correct administration.
+> 📌 The **wheal** is a visible sign of correct administration.
 
-📍 **Common Injection Site**
+📌 **Common Injection Site**
 
 - **Anterior forearm**: Most common and accessible site for intradermal administration
 
@@ -348,7 +348,7 @@ Intradermal administration delivers **small volumes (0.1 mL or less)** directly 
   - Inject slowly to form a **wheal**
 - **Do not massage** the site afterward; may affect drug absorption or test interpretation
 
-> 📍 The dermis contains **more blood vessels than the epidermis**, but **fewer than IM or SC tissues**, accounting for the very slow absorption rate.
+> 📌 The dermis contains **more blood vessels than the epidermis**, but **fewer than IM or SC tissues**, accounting for the very slow absorption rate.
 
 ---
 

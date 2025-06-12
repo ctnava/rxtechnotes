@@ -10,7 +10,7 @@ Pharmacy Calculations, 6e; Morton Publishing | Chapter 28
 
 **Body Surface Area (BSA)** is a measurement of the total surface of a patient’s body. It is used in drug dosing because it provides a more accurate estimation of metabolic mass than weight alone.
 
-> 📍 BSA is measured in **square meters (m²)**.
+> 📌 BSA is measured in **square meters (m²)**.
 
 ## 📏 Drugs Dosed by BSA
 
@@ -82,9 +82,9 @@ ${\Rightarrow \text{Total Dose} = 640 \times 5 = \boxed{3200\ \text{mg}}}$ -->
 ## 🚨 Tips and Best Practices
 
 - 🛡️ **Always confirm height and weight** with the most recent values
-- 📍 Use **metric units** when applying BSA formulas (cm, kg)
+- 📌 Use **metric units** when applying BSA formulas (cm, kg)
 - 🛡️ BSA calculations are **critical for chemo**; double-check math
-- 📍 Pediatric patients are especially sensitive to **BSA-based dosing**
+- 📌 Pediatric patients are especially sensitive to **BSA-based dosing**
 - 🛡️ Round final doses **per pharmacy protocol** or **physician instruction**
 
 ---

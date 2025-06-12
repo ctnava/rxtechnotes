@@ -16,7 +16,7 @@ Parenteral medications are administered by injection, bypassing the digestive sy
 | **IM (Intramuscular)** | Injected into a muscle | Vaccines, pain meds, some antibiotics | Moderate |
 | **SC (Subcutaneous)** | Injected under the skin into fat tissue | Insulin, heparin | Slower |
 
-📍 Concentration is typically expressed as:
+📌 Concentration is typically expressed as:
 
 - **mg/mL**
 - **g/mL**
@@ -26,8 +26,8 @@ Parenteral medications are administered by injection, bypassing the digestive sy
 ## 🚨 Tips and Best Practices
 
 - 🛡️ Use **unit conversions** carefully (e.g. 1 g = 1000 mg)
-- 📍 Round final answers **per facility guidelines**
-- 📍 Always confirm the **route**, **dose**, and **form** (powder vs liquid)
+- 📌 Round final answers **per facility guidelines**
+- 📌 Always confirm the **route**, **dose**, and **form** (powder vs liquid)
 - 🛡️ Check drug labels for **concentration** and **expiration date**
 
 ## 📘 Ratio and Proportion Review

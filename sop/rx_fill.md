@@ -20,7 +20,7 @@
   - Reviewed for legibility, completeness, and legal validity
 - Print the **prescription pamphlet** containing patient and drug details
 
-> 📍 Whenever the system flags drug interactions or allergy conflicts, alert the pharmacist so that they may make a clinical decision on it.
+> 📌 Whenever the system flags drug interactions or allergy conflicts, alert the pharmacist so that they may make a clinical decision on it.
 
 #### 1.2 Product Retrieval
 
@@ -31,7 +31,7 @@
   3. ✅ **Unopened** stock bottles closest to expiration
 - Mark newly opened stock containers appropriately (e.g. stickered as "OPENED")
 
-> 📍 Double-check the NDC, strength, and dosage form during selection. Mistakes here cascade forward.
+> 📌 Double-check the NDC, strength, and dosage form during selection. Mistakes here cascade forward.
 
 ### 2. 🧪 Verification and Labeling
 
@@ -47,7 +47,7 @@
 - Generate and print:
   - Prescription label
   - **Auxiliary labels** (per system prompts)
-    - 📍 these identify important usage information; including specific warnings or alerts on administration, storage, side effects, and food or drug interactions
+    - 📌 these identify important usage information; including specific warnings or alerts on administration, storage, side effects, and food or drug interactions
 - Ensure label includes:
   - Patient name
   - Medication name and strength
@@ -56,7 +56,7 @@
   - Quantity and refill count
   - Prescription number and pharmacy details
 
-> 📍 If the patient’s language preference is on file, ensure language-appropriate labeling where available.
+> 📌 If the patient’s language preference is on file, ensure language-appropriate labeling where available.
 
 ### 3. ⚖️ Portioning & Packaging
 

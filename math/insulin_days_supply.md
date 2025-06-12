@@ -31,7 +31,7 @@ Pharmacy Calculations, 6e; Morton Publishing | Chapter 13
 - 🛡️ Document **discard after X days** when calculating Days Supply for insulin
 - 🚨 Do **not** issue 90-day supply on insulin vials unless **daily dose** is high enough to use entire volume before expiration
 - 🛡️ Always check **U-100 vs U-300 vs U-500** labeling
-- 📍 Include discard date on patient label or counseling documentation per best practice and institutional SOPs
+- 📌 Include discard date on patient label or counseling documentation per best practice and institutional SOPs
 
 ## 🔢 Formulas
 
@@ -61,7 +61,7 @@ ${\boxed{\text{Theoretical Days Supply} = \frac{1000 \, U}{12 \, \frac{U}{\text{
 
 ✅ **Final Days Supply** = **28 days**
 
-> 📍 Documented because room temperature stability is limiting factor
+> 📌 Documented because room temperature stability is limiting factor
 
 ## 💉 Example 2: U-100 Vial with High Daily Use
 
@@ -124,7 +124,7 @@ ${\boxed{5 \, \text{pens} \times 10 \, \text{days per pen} = 50 \, \text{days}}}
 
 **Final Days Supply** = `50 days`
 
-> 📍 **Labeling Note**: Include counseling or auxiliary label: "Each pen good for 28 days after first use. Store unopened pens in refrigerator. Use opened pen within 28 days."
+> 📌 **Labeling Note**: Include counseling or auxiliary label: "Each pen good for 28 days after first use. Store unopened pens in refrigerator. Use opened pen within 28 days."
 
 ---
 
@@ -156,11 +156,11 @@ ${\boxed{1000 - 336 = 664 \, \text{U wasted per vial}}}$
 
 ${\boxed{28 \, \text{days per vial} \times 2 \, \text{vials} = 56 \, \text{days}}}$ -->
 
-📍 Even though each vial contains enough insulin for ~83 days, you can **only bill 28 days per vial** if used sequentially.
+📌 Even though each vial contains enough insulin for ~83 days, you can **only bill 28 days per vial** if used sequentially.
 
 ✅ **Final Days Supply = 56 days**
 
-📍 **Labeling Note**: “Each vial is stable for 28 days after opening. Discard remaining insulin after that period. Store unopened vials in the refrigerator. Opened vials may be stored at room temperature for up to 28 days.”
+📌 **Labeling Note**: “Each vial is stable for 28 days after opening. Discard remaining insulin after that period. Store unopened vials in the refrigerator. Opened vials may be stored at room temperature for up to 28 days.”
 
 ---
 

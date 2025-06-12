@@ -298,7 +298,7 @@ Mail order pharmacies maintain **dedicated call centers** for patient support:
 - Convenient delivery with refill reminders
 - High throughput capacity and centralized quality control
 
-📍 Pharmacy technicians in mail order settings must be comfortable with task specialization, automation, and maintaining high levels of productivity under strict SOPs.
+📌 Pharmacy technicians in mail order settings must be comfortable with task specialization, automation, and maintaining high levels of productivity under strict SOPs.
 
 ### Home Health Care
 
@@ -368,7 +368,7 @@ Chemotherapy and certain antiviral or investigational therapies require safe han
 - Ensure cold chain and hazardous material protocols during delivery  
 - Maintain logs and documentation for QA and compliance audits
 
-> 📍 Pharmacy technicians in home infusion settings must be thoroughly trained in aseptic technique, hazardous drug handling, and delivery chain-of-custody protocols.
+> 📌 Pharmacy technicians in home infusion settings must be thoroughly trained in aseptic technique, hazardous drug handling, and delivery chain-of-custody protocols.
 
 ## Inpatient
 
@@ -438,7 +438,7 @@ The central pharmacy is the main hub of medication operations within a hospital.
   - Conducts **restocking of crash carts**, Automated Dispensing Cabinets (ADCs), and floor stock
   - Oversees **sterile compounding (IV room)** including chemotherapy, parenteral nutrition, and emergency meds
 
-> 📍 If any **pharmacy satellite is closed**, the central pharmacy assumes coverage responsibilities.
+> 📌 If any **pharmacy satellite is closed**, the central pharmacy assumes coverage responsibilities.
 
 🛰️ **Pharmacy Satellites**
 
@@ -454,7 +454,7 @@ Pharmacy satellites are smaller, strategically located pharmacies within the hos
   - Replace **lost or missing doses**
   - Maintain **limited, specialized inventory** tailored to the needs of the serviced unit
 
-> 📍 Satellites are typically **open 24 hours**. When closed, central pharmacy assumes their duties.
+> 📌 Satellites are typically **open 24 hours**. When closed, central pharmacy assumes their duties.
 
 🏪 **Outpatient & Clinic Pharmacies**
 
@@ -484,7 +484,7 @@ Hospitals may also have **outpatient pharmacies** or **clinic-affiliated pharmac
   - Maintains security, documentation, and logs for scheduled drugs
   - Reviews inventory and discrepancy reports; performs audits
   - Ensures compliance with 🦅 DEA and 🐻 California BOP regulations
-  - 📍 Must maintain exact counts and chain-of-custody procedures
+  - 📌 Must maintain exact counts and chain-of-custody procedures
 - 📦 **Delivery Technician**
   - Transports medications to nursing units and outpatient clinics
   - Retrieves stat orders and new prescriptions
@@ -556,7 +556,7 @@ Per **42 CFR § 483.60**, all LTC facilities that accept **Medicare or Medicaid*
 - Drug regimen reviews
 - Drug storage and labeling
 
-> 📍 Most LTC facilities **contract with third-parties** to meet these federal requirements.
+> 📌 Most LTC facilities **contract with third-parties** to meet these federal requirements.
 
 🧓 **LTC Pharmacy Organizations**
 
@@ -596,7 +596,7 @@ Pharmacy technicians in LTC pharmacy settings often take on responsibilities sim
   - Quality improvement reporting
   - Maintaining shared databases and documentation
 
-> 📍 Some LTC facilities allow techs to access limited on-site inventory under secure conditions. Tracking and logging of **controlled substances** is often part of the technician’s role.
+> 📌 Some LTC facilities allow techs to access limited on-site inventory under secure conditions. Tracking and logging of **controlled substances** is often part of the technician’s role.
 
 🤖 **Automated Dispensing Systems in LTC**
 
@@ -607,7 +607,7 @@ To reduce delays in medication access, LTC facilities increasingly use **point-o
 3. Remote unit at the LTC site receives order confirmation
 4. Authorized staff retrieves medication from the unit
 
-> 📍 These systems function like a vending machine, increasing responsiveness for urgent needs.
+> 📌 These systems function like a vending machine, increasing responsiveness for urgent needs.
 
 ## Hybrid
 
@@ -654,7 +654,7 @@ Hybrid settings include inpatient & outpatient services.
   - Maintain inventory of radioactive and non-radioactive materials
   - Handle packaging, labeling, and radiation shielding
 
-> 📍 All personnel must complete radiation safety training before handling radioactive materials.
+> 📌 All personnel must complete radiation safety training before handling radioactive materials.
 
 🧑‍🔬 **Safety & Personal Monitoring**
 
@@ -674,7 +674,7 @@ All personnel working with radioactive materials must wear **dosimetry devices**
   - Order entry
   - Compounding and preparation
   - Dispensing and storage of radioactive materials  
-  - 📍 Access limited to trained personnel only
+  - 📌 Access limited to trained personnel only
 
 - **Unrestricted Areas**:
   - Administrative spaces and break rooms

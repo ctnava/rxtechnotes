@@ -24,7 +24,7 @@ OBRA-90 was a major federal law affecting Medicaid prescription drug programs. I
   - What to do in case of a missed dose
   - 📁 **Document Counseling Offers**: While OBRA-90 requires the offer, specific documentation requirements (such as signed refusals) vary by state.
 
-> 📍 Some states have extended OBRA-90 requirements to all patients, not just Medicaid recipients.
+> 📌 Some states have extended OBRA-90 requirements to all patients, not just Medicaid recipients.
 
 A process to ensure the most accurate, complete list of all medications a patient is taking—name, dose, route, and frequency—by comparing current medical records with patient and provider sources.  
 
@@ -75,7 +75,7 @@ The MMA established Part D of the program to provide prescription drug coverage 
 - Monitoring side effects and adherence
 - Coordinating care with prescribers
 
-> 📍 MTM is usually targeted toward patients taking multiple chronic medications, especially those with multiple conditions or high drug costs.
+> 📌 MTM is usually targeted toward patients taking multiple chronic medications, especially those with multiple conditions or high drug costs.
 
 Technicians assist by preparing medication histories, documentation, and assisting with insurance or billing tasks.
 

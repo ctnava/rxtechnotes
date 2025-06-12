@@ -15,7 +15,7 @@ An **IV set** is the tubing used to administer fluids and medications intravenou
 
 ## 🕰️ Military Time
 
-📍 Military time is a **24-hour clock system** used in clinical settings to avoid AM/PM confusion.
+📌 Military time is a **24-hour clock system** used in clinical settings to avoid AM/PM confusion.
 
 | Standard Time | Military Time |
 |---------------|----------------|
@@ -101,8 +101,8 @@ Used when the total volume and rate are known. Often needed to project when a ba
 
 - 🛡️ **Always double-check the IV set's drop factor.**
 - 🛡️ **Label IV bags and tubing clearly with start time and rate.**
-- 📍 Microdrip sets (60 gtt/mL) make drop rate equal to mL/hr, simplifying math.
-- 📍 Use **military time** on all IV documentation to avoid time-related errors.
+- 📌 Microdrip sets (60 gtt/mL) make drop rate equal to mL/hr, simplifying math.
+- 📌 Use **military time** on all IV documentation to avoid time-related errors.
 - 🚨 Rounding: For gtt/min, round **to the nearest whole number**. For mL/hr, round **per facility protocol**.
 
 ## Advanced Examples

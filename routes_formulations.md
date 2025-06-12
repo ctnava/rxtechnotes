@@ -30,7 +30,7 @@ Dosage forms consist of:
 | **Solvents** | Dissolve active ingredients | Solutions, Injectables |
 | **Coating Agents** | Mask taste or control release | Enteric-coated, Extended-release tabs|
 
-📍 *Note: Not all excipients are inert for all patients. Some may cause allergies or intolerances.*
+📌 *Note: Not all excipients are inert for all patients. Some may cause allergies or intolerances.*
 
 ## 🧫 Solubility & Absorption
 
@@ -43,7 +43,7 @@ A drug's **solubility** is its ability to dissolve in a solvent, typically water
 | **High Solubility** | Faster dissolution, quicker onset |
 | **Low Solubility**  | Slower or incomplete absorption   |
 
-> 📍 Solubility can be modified using salts, particle size reduction, or formulation with solubilizing agents.
+> 📌 Solubility can be modified using salts, particle size reduction, or formulation with solubilizing agents.
 
 ## 🛤️ Routes of Administration
 

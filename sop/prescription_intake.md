@@ -184,13 +184,13 @@ A Third-Party Rejection (TPR) occurs when a prescription claim is denied by the 
 | 26 | Invalid Person Code | Confirm relationship to cardholder |
 | 41 | Invalid Cardholder ID | Verify and update insurance information  |
 
-> 📍 **Tech Tip**: Always verify **BIN/PCN/ID** against the latest insurance card. Incorrect values will route claims to the wrong PBM, resulting in instant rejections.
+> 📌 **Tech Tip**: Always verify **BIN/PCN/ID** against the latest insurance card. Incorrect values will route claims to the wrong PBM, resulting in instant rejections.
 
 #### 📝 Prior Authorization (PA)
 
 A **Prior Authorization (PA)** is a formal approval process required by insurance companies or PBMs before they will pay for certain prescriptions. A PA TPR is triggered when the insurer needs clinical justification for covering a drug that falls outside standard coverage rules.
 
-> 📍 Some prescription drugs can still be purchased without insurance if the patient pays out-of-pocket.
+> 📌 Some prescription drugs can still be purchased without insurance if the patient pays out-of-pocket.
 
 🔑 **Common Reasons a PA Is Required**:
 
@@ -245,7 +245,7 @@ Pharmacy technicians commonly access PBM portals to:
 - View or download PA forms and status updates
 - Troubleshoot error messages or incomplete PA submissions
 
-> 📍 Portals may vary by PBM. Examples include CoverMyMeds, SureScripts, OptumRx, Express Scripts, CVS Caremark, and Medi-Cal Rx.
+> 📌 Portals may vary by PBM. Examples include CoverMyMeds, SureScripts, OptumRx, Express Scripts, CVS Caremark, and Medi-Cal Rx.
 
 ---
 

@@ -16,7 +16,7 @@ Most weight-based dosages are expressed in:
 - **mcg/kg** (micrograms per kilogram)
 - Less commonly: **mg/lb** (milligrams per pound)
 
-📍 1 kilogram = **2.2 pounds** is a clinical estimate used for simplicity.
+📌 1 kilogram = **2.2 pounds** is a clinical estimate used for simplicity.
 
 🧪 **Example**
 
@@ -45,7 +45,7 @@ To account for this, specific formulas were developed:
 ![clarks_rule](./img/body_weight/formula_clark.PNG)
 <!-- $\text{Child's Dose} = \left( \frac{\text{Weight in lbs}}{150} \right) \times \text{Adult Dose}$ -->
 
-> 📍 **Why 150 lbs?** 150 pounds was considered the **average adult weight** in the early 20th century when the rule was developed. While outdated by modern standards, the rule remains a **useful estimation method** in teaching and simple calculations.
+> 📌 **Why 150 lbs?** 150 pounds was considered the **average adult weight** in the early 20th century when the rule was developed. While outdated by modern standards, the rule remains a **useful estimation method** in teaching and simple calculations.
 
 🧪 **Example**
 
@@ -67,7 +67,7 @@ To account for this, specific formulas were developed:
 ![youngs_rule](./img/body_weight/formula_young.PNG)
 <!-- $\text{Child's Dose} = \left( \frac{\text{Age}}{\text{Age} + 12} \right) \times \text{Adult Dose}$ -->
 
-> 📍 **Why "+12"?** The assumption was that **adult dosing capacity** is reached at **age 12**. This is a historical generalization reflecting an age when most children were thought to have similar metabolic capacity to adults.
+> 📌 **Why "+12"?** The assumption was that **adult dosing capacity** is reached at **age 12**. This is a historical generalization reflecting an age when most children were thought to have similar metabolic capacity to adults.
 
 🧪 **Example**
 

@@ -153,7 +153,7 @@ Certification validates a technician's competency and may open the door to expan
 | Employer Preference | Some prefer PTCB | Some accept either |
 | Retake Wait | 60+ days | 30 days |
 
-> 📍 California accepts **both** the PTCE and the ExCPT for licensure as a pharmacy technician.
+> 📌 California accepts **both** the PTCE and the ExCPT for licensure as a pharmacy technician.
 
 ### Exam for the Certification of Pharmacy Technicians (ExCPT)
 
@@ -172,7 +172,7 @@ Although less widely recognized than the PTCB's PTCE, the ExCPT is accepted in C
   - Raw scores are scaled to ensure consistency between exam versions
 - **Fee per Attempt**: **$125**
 
-> 📍 You will receive your pass/fail status immediately after testing. Official results are typically posted to your NHA account within 1 to 2 business days.
+> 📌 You will receive your pass/fail status immediately after testing. Official results are typically posted to your NHA account within 1 to 2 business days.
 
 🧩 **Content Domains** (as of 2020 blueprint)
 
@@ -197,7 +197,7 @@ To sit for the ExCPT, applicants must:
   - A **pharmacy technician training program** (accredited, employer-based, military, or formal school)
   - **At least 1 year of supervised, pharmacy-related work experience** (must be within the past 3 years)
 
-> 📍 You may be asked to provide documentation verifying training or work experience. Applications may be audited.
+> 📌 You may be asked to provide documentation verifying training or work experience. Applications may be audited.
 
 🔃 **Retake Policy**
 
@@ -229,7 +229,7 @@ The **Pharmacy Technician Certification Examination (PTCE)** is a national certi
   - The exam uses statistical scaling, so raw scores are converted to scaled scores
 - **Fee per Attempt**: **$129**
 
-> 📍 You are notified of your **pass/fail status immediately** after testing. Official results and digital certificates are typically available within 1–3 weeks.
+> 📌 You are notified of your **pass/fail status immediately** after testing. Official results and digital certificates are typically available within 1–3 weeks.
 
 🧩 **Content Domains** (as of 2020 blueprint)
 
@@ -258,7 +258,7 @@ To be eligible for the PTCE, applicants must:
 - Have **no felony convictions**, drug or pharmacy-related convictions, or actions involving pharmacy or drug laws
 - **Comply with all PTCB policies**, including Code of Conduct and Candidate Attestation
 
-> 📍 Eligibility is verified during the application process. Providing false information may result in disqualification or revocation of certification.
+> 📌 Eligibility is verified during the application process. Providing false information may result in disqualification or revocation of certification.
 
 🔃 **Retake Policy**
 
@@ -267,7 +267,7 @@ To be eligible for the PTCE, applicants must:
 - **Maximum attempts**: **4 lifetime attempts**
   - After the fourth failure, the candidate must **submit an appeal** to PTCB for additional consideration.
 
-> 📍 Each attempt requires a new $129 exam fee. There is no discount for retakes.
+> 📌 Each attempt requires a new $129 exam fee. There is no discount for retakes.
 
 🖱️ **Application Process**
 

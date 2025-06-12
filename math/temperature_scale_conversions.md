@@ -26,7 +26,7 @@ These fundamental concepts are frequently used in both sterile and non-sterile c
 | Fahrenheit (°F) to Celsius (°C) | ${C = \frac{5}{9}(F - 32)}$ |
 | Celsius (°C) to Fahrenheit (°F) | ${F = \frac{9}{5}C + 32}$ | -->
 
-> 📍 Tip: Subtract/add 32, then scale by 5/9 or 9/5 depending on direction.
+> 📌 Tip: Subtract/add 32, then scale by 5/9 or 9/5 depending on direction.
 
 🔁 **Practice Conversions**
 
@@ -51,7 +51,7 @@ These fundamental concepts are frequently used in both sterile and non-sterile c
 | **Controlled Room Temp** | 20°C to 25°C (68°F to 77°F) |
 | **Excessive Heat** | > 40°C (> 104°F) |
 
-> 📍 Pharmacy refrigerators are typically set between **2°C and 8°C** (36°F–46°F)
+> 📌 Pharmacy refrigerators are typically set between **2°C and 8°C** (36°F–46°F)
 
 ### 🛡️ Best Practices
 
@@ -91,7 +91,7 @@ Understanding **density** and **specific gravity (SG)** is essential for pharmac
 | **Density** | Mass per unit volume. | Commonly expressed as **g/mL** in pharmacy. |
 | **Specific Gravity (SG)** | Ratio of a substance’s density to the density of water. | **No units** (it's a ratio). |
 
-📍 **Used when**:
+📌 **Used when**:
 
 - Measuring solvents in compounding
 - Calculating dosages from weight-based orders

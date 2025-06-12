@@ -53,10 +53,10 @@ Many injectable or biologically sensitive medications are unstable in liquid for
 ## 🚨 Tips and Best Practices
 
 - 🛡️ **Read vial label and package insert carefully** before preparing.
-- 📍 Use a **prescribed diluent only** (e.g. Sterile Water, NS, Bacteriostatic Water).
+- 📌 Use a **prescribed diluent only** (e.g. Sterile Water, NS, Bacteriostatic Water).
 - ☣️ **Do not shake** protein-based powders (e.g. biologics); swirl gently.
 - 🛡️ **Label vial** with date/time of reconstitution and initials.
-- 📍 Concentration may vary depending on **volume of diluent added**—follow exact instructions.
+- 📌 Concentration may vary depending on **volume of diluent added**—follow exact instructions.
 
 ## 📘 Calculations
 

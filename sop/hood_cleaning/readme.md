@@ -17,7 +17,7 @@ Applies to all personnel responsible for sterile product preparation in a cleanr
 | **Critical zone** | Directly under the top HEPA panel | In front of the rear HEPA panel |
 | **User position** | Work below airflow | Work beside airflow |
 
-> 📍 Airflow must not be obstructed by hands, supplies, or body parts. Filters must remain visible and unobstructed at all times.
+> 📌 Airflow must not be obstructed by hands, supplies, or body parts. Filters must remain visible and unobstructed at all times.
 
 ![vertical vs horizontal hoods](./vertical_horizontal.jpg)
 

@@ -12,7 +12,7 @@ Effective communication is essential to patient safety and pharmacy operations. 
 - 🕒 **Respect time constraints:** Recognize that patients may be in a hurry, frustrated, or distracted. Speak clearly and respectfully.
 - ⚠️ **De-escalate during delays:** If a prescription is delayed, explain what’s happening and why, and give a realistic timeframe.
 - 🛡️ **Best practice:** Use calm, professional language. Let patients know their concerns are valid and that you are actively working on a solution.
-- 📍 Tone of voice and body language matter just as much as words. Stay polite and attentive, especially in high-stress moments.
+- 📌 Tone of voice and body language matter just as much as words. Stay polite and attentive, especially in high-stress moments.
 
 ### Verbal
 

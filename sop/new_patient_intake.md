@@ -75,7 +75,7 @@ The correct order of insurance coverage is based on **standard coordination rule
 2. **Dependent Children: The Birthday Rule**
    - The parent whose **birth month and day (MM/DD)** occurs first in the calendar year has the **primary plan**.
      - Example: Parent A (March 10) vs. Parent B (July 5) → Parent A’s plan is primary.
-     - 📍 The year of birth is *not* considered—only month and day.
+     - 📌 The year of birth is *not* considered—only month and day.
    - If both parents share the same birthday, the plan that has **covered the parent longer** becomes primary.
 3. **Children with Divorced or Separated Parents**
    - If a court order specifies which parent is financially responsible for healthcare, **follow that order**.

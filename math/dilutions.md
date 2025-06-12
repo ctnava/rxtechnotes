@@ -10,7 +10,7 @@ Dilution involves **reducing the concentration** of a solution by adding a dilue
 
 ## 🚨 Tips and Best Practices
 
-- 📍 **Always label units**; cancel to confirm your math is valid.
+- 📌 **Always label units**; cancel to confirm your math is valid.
 - 🛡️ For safety-critical doses (e.g. neonatal), recalculate and verify final concentration.
 - 🔁 Ratios (e.g. 1:5, 1:10) = "1 part drug per total parts" → Convert to percent or mg/mL if needed.
 - 📦 Document all compounding: **lot numbers, dates, and expiration**.

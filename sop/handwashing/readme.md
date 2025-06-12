@@ -30,7 +30,7 @@ This SOP outlines the required procedure for aseptic hand hygiene in environment
 - Perform all **6 standard hand hygiene motions** for **40 to 60 seconds**.
 - Rinse thoroughly and dry with disposable paper towels.
 
-> 📍 **Note**: Avoid recontaminating hands after washing by touching surfaces. Always use barriers like paper towels where needed (e.g. turning off faucets or opening doors).
+> 📌 **Note**: Avoid recontaminating hands after washing by touching surfaces. Always use barriers like paper towels where needed (e.g. turning off faucets or opening doors).
 
 ## Step 3: Gloving
 

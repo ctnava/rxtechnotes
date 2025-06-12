@@ -7,7 +7,7 @@ This guide uses a visual and categorical approach to simplify pharmacological cl
 ## 🔑 Key Features
 
 - **🔗 Internal Cross-Referencing**: Common multi-system medications appear in more than one category.
-- **📍 Mnemonic Tags**: Each drug includes a "Memorable Trait" to simplify studying and test preparation.
+- **📌 Mnemonic Tags**: Each drug includes a "Memorable Trait" to simplify studying and test preparation.
 - **🛡️ Technician-Safe Scope**: Entries are filtered for relevance to pharmacy technician certification exams and practical duties.
 - **📚 Use Case**: Designed for CA State Board licensure study, PTCB/ExCPT prep, and pharmacy intern cross-training.
 

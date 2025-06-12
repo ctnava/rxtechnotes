@@ -132,7 +132,7 @@ This is the **most common billing model** for retail, chain, and outpatient phar
   - Patient copay or coinsurance
   - Reimbursement to the pharmacy
 
-> 📍 Rejections are issued instantly with reject codes (e.g., PA required, refill too soon, NDC not covered).
+> 📌 Rejections are issued instantly with reject codes (e.g., PA required, refill too soon, NDC not covered).
 
 #### 🏢 In-House Billing (Medical Claims)
 
@@ -156,7 +156,7 @@ Requires:
 - ICD-10 diagnosis codes
 - Rendering provider and facility NPI numbers
 
-> 📍 Medical claims adjudication is slower and often requires documentation (e.g., physician orders, treatment plans).
+> 📌 Medical claims adjudication is slower and often requires documentation (e.g., physician orders, treatment plans).
 
 #### 🛠️ Third-Party Network Billing (e.g., Workers’ Comp, TPA)
 
@@ -197,7 +197,7 @@ PAPs are typically funded by **drug manufacturers**, **nonprofits**, or **charit
 - Some offer **temporary coverage** while insurance is pending or under appeal
 - Most require application with **prescriber signature**, **proof of income**, and **insurance status**
 
-> 📍 PAPs bypass insurance billing. Approved drugs often come through separate distribution channels. Follow all handling and documentation instructions carefully.
+> 📌 PAPs bypass insurance billing. Approved drugs often come through separate distribution channels. Follow all handling and documentation instructions carefully.
 
 #### 💳 Copay Cards & Manufacturer Coupons
 
@@ -223,7 +223,7 @@ Assistance may include:
 - Help with **copays**, **premiums**, or **transportation**
 - Reimbursement for already purchased meds (in some cases)
 
-> 📍 These programs may be used by **Medicare** or **Medi-Cal** patients when manufacturer copay cards are not allowed.
+> 📌 These programs may be used by **Medicare** or **Medi-Cal** patients when manufacturer copay cards are not allowed.
 
 #### 🧾 Cash Discounts or Sliding Scale Pricing
 
@@ -233,7 +233,7 @@ Some pharmacies, especially **independent** or **clinic-affiliated**, offer cash
 - Often used when no other assistance is available or during insurance gaps
 - Requires **internal authorization** or enrollment in discount program
 
-> 📍 Always document when a patient receives discounted pricing. It may affect future eligibility for other assistance programs.
+> 📌 Always document when a patient receives discounted pricing. It may affect future eligibility for other assistance programs.
 
 #### Providing Assistance
 
@@ -284,9 +284,9 @@ Workers’ compensation is a specialized form of legally-mandated, private insur
   - Insurance carrier or TPA (Third Party Administrator)
 - **Follow billing instructions** provided by the workers’ comp network or adjuster.
 - Do **not** bill the patient’s regular insurance.
-  - 📍 Incorrect billing to a PBM can delay medication access and violate payer agreements.
+  - 📌 Incorrect billing to a PBM can delay medication access and violate payer agreements.
 - Do **not** collect copays unless specifically instructed by the workers’ comp payer.
-  - 📍 Patients typically pay **$0 out of pocket**, but **only for medications authorized by the claims adjuster**.
+  - 📌 Patients typically pay **$0 out of pocket**, but **only for medications authorized by the claims adjuster**.
 - If a medication is **denied or not listed**, refer to the pharmacist or contact the claims adjuster.
 
 ##### 🐻 California-Specific Requirements
@@ -327,7 +327,7 @@ A **7-day supply** of a drug may be dispensed **without prior authorization** if
 - The provider documents medical necessity,
 - The prescription is for a **new work-related injury**.
 
-> 📍 Always check for California-specific reject messages or override codes when submitting workers’ comp claims.
+> 📌 Always check for California-specific reject messages or override codes when submitting workers’ comp claims.
 
 ### Filing Claims
 
@@ -449,13 +449,13 @@ A Third-Party Rejection (TPR) occurs when a prescription claim is denied by the 
 | 26 | Invalid Person Code | Confirm patient relationship |
 | 41 | Invalid Cardholder ID | Correct insurance info |
 
-> 📍 Always confirm the BIN/PCN/ID from the most recent insurance card. These fields determine where the claim is sent.
+> 📌 Always confirm the BIN/PCN/ID from the most recent insurance card. These fields determine where the claim is sent.
 
 ##### 📝 Prior Authorization (PA)
 
 A **Prior Authorization (PA)** is a formal approval process required by insurance companies or PBMs before they will pay for certain prescriptions. A PA TPR is triggered when the insurer needs clinical justification for covering a drug that falls outside standard coverage rules.
 
-> 📍 Some prescription drugs can still be purchased without insurance if the patient pays out-of-pocket.
+> 📌 Some prescription drugs can still be purchased without insurance if the patient pays out-of-pocket.
 
 🔑 **Common Reasons a PA Is Required**:
 
@@ -510,4 +510,4 @@ Pharmacy technicians commonly access PBM portals to:
 - View or download PA forms and status updates
 - Troubleshoot error messages or incomplete PA submissions
 
-> 📍 Portals may vary by PBM. Examples include CoverMyMeds, SureScripts, OptumRx, Express Scripts, CVS Caremark, and Medi-Cal Rx.
+> 📌 Portals may vary by PBM. Examples include CoverMyMeds, SureScripts, OptumRx, Express Scripts, CVS Caremark, and Medi-Cal Rx.

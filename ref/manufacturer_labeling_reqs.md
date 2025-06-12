@@ -50,7 +50,7 @@ The NDC is a unique 10- or 11-digit, 3-segment number that identifies all FDA-ap
 | **Product Code** | 3–4 | Identifies the specific strength, dosage form, and formulation (Manufacturer-assigned) |
 | **Package Code** | 1–2 | Identifies package type and size (Manufacturer-assigned) |
 
-> 📍 **Normalize to 11 digits** by adding leading zeroes to any segment that does not meet its maximum length. Required for claims submission and electronic records.
+> 📌 **Normalize to 11 digits** by adding leading zeroes to any segment that does not meet its maximum length. Required for claims submission and electronic records.
 
 **NDC Format Example**  
 
@@ -73,7 +73,7 @@ Barcoding and serialization are mandated under the **Drug Supply Chain Security 
 
 > - 🔑 **GTIN = Global Trade Item Number**, a globally unique product identifier that incorporates the NDC and labeler code.
 > - 🛡️ Pharmacists and technicians must **scan and verify 2D barcodes** during prescription processing, especially for controlled substances and REMS drugs.
-> - 📍 Always inspect labels for **tampering or misprints**, especially if barcodes do not resolve in your system.
+> - 📌 Always inspect labels for **tampering or misprints**, especially if barcodes do not resolve in your system.
 
 ## Patient Information
 
@@ -109,7 +109,7 @@ PPIs are FDA-regulated documents that must accompany specific drug classes. They
 | **Abuse Potential & Dependence** | Details on the drug’s potential for **abuse, tolerance, or dependence** (especially important for controlled substances). |
 | **How Supplied / Storage**  | Describes the drug’s appearance (shape, color, imprint) and **storage conditions** (e.g., keep refrigerated, protect from light). |
 
-> 📍 Many PPIs contain diagrams or step-by-step **patient instructions**, especially for complex dosage forms (e.g., vaginal rings, inhalers, patches).
+> 📌 Many PPIs contain diagrams or step-by-step **patient instructions**, especially for complex dosage forms (e.g., vaginal rings, inhalers, patches).
 
 ### 📋 Medication Guides (MedGuides)
 
@@ -121,7 +121,7 @@ MedGuides are **FDA-required patient labeling** for outpatient prescription drug
 | **Serious risks that could affect decision to use** | The drug has known dangers that might change a patient's willingness to begin or continue therapy |
 | **Adherence is crucial to effectiveness** | Incorrect use of the medication would result in ineffective treatment or increased risk |
 
-> - 📍 If a MedGuide is required for a product, it must be dispensed **with each fill and refill** in the **outpatient setting**. They are not required for **inpatient settings** unless patient requests or drug is part of a REMS program.
+> - 📌 If a MedGuide is required for a product, it must be dispensed **with each fill and refill** in the **outpatient setting**. They are not required for **inpatient settings** unless patient requests or drug is part of a REMS program.
 > - 🚨 Failure to provide a required MedGuide renders the drug **misbranded under federal law**, even if all other labeling is correct.
 
 📂 **Content Breakdown**

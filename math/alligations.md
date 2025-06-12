@@ -202,7 +202,7 @@ $\implies V_l = R_l \times V_t = 0.75 \times 120 = \boxed{90\ \text{mL}}$
 
 ---
 
-## 📍 Tips and Best Practices
+## 📌 Tips and Best Practices
 
 - 🛡️ Always check that the desired concentration/ strength is **between** the two available.
 - 📏 Keep units consistent: mL with mL, g with g.

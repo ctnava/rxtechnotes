@@ -142,7 +142,7 @@ Before entering the antechamber:
 - Insert arms and secure ties at the **back**.
 - Avoid touching the exterior surface of the gown.
 
-> 📍 Gown should fully cover all street clothing and arms down to the wrists.
+> 📌 Gown should fully cover all street clothing and arms down to the wrists.
 
 ### Step 6: Sterile Gloves
 

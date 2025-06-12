@@ -29,7 +29,7 @@ e.g. `AB1234563`
 | M       | Mid-level practitioners (NPs, PAs, optometrists) |
 | X       | Buprenorphine prescribers (DATA-waived providers for opioid use disorder) |
 
-> 📍 X may precede or replace the first letter depending on transition status under the SUPPORT Act.
+> 📌 X may precede or replace the first letter depending on transition status under the SUPPORT Act.
 
 ### 🔢 DEA Number Validation Formula
 
@@ -77,7 +77,7 @@ DEA number verification can also be conducted using **online resources**, though
 ## Best Practices for Technicians
 
 - 🔐 Use only **verified systems** or **pharmacist-approved methods**
-- 📍 Cross-check the **last name initial** and **check digit math**
+- 📌 Cross-check the **last name initial** and **check digit math**
 - 🛡️ Document any **manual verification** done outside normal software
 - 🚨 Report **suspicious** or **unverifiable DEA numbers** immediately
 - 🩺 When in doubt, **consult the pharmacist**

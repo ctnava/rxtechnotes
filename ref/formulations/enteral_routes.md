@@ -32,7 +32,7 @@ Per os (`PO`), Latin for "by mouth", is the **most frequently used** route of dr
 
 Drugs administered orally pass through the stomach, which has a very **acidic pH (1–2)**. Some drugs **cannot** be administered orally because they are **degraded or inactivated** by gastric acid or enzymes.
 
-> 📍 **Food Intake Warning**: The presence of food can **delay, reduce, or enhance** drug absorption depending on the formulation and the drug's properties.
+> 📌 **Food Intake Warning**: The presence of food can **delay, reduce, or enhance** drug absorption depending on the formulation and the drug's properties.
 
 ### 💊 Oral Solid Formulations
 
@@ -85,7 +85,7 @@ Key features:
 - **Softgels**: Contain **predissolved drugs in a liquid base**
 - **Gelatin dissolves**, releasing the contents, which must then dissolve into solution for absorption
 
-> 📍 Capsule size depends on the volume of contents. Smaller numbers indicate **larger** capsule sizes (i.e. 000 to 5).
+> 📌 Capsule size depends on the volume of contents. Smaller numbers indicate **larger** capsule sizes (i.e. 000 to 5).
 
 #### 📨 Bulk Powders
 
@@ -99,7 +99,7 @@ Usage:
 - Poured onto the back of the tongue and swallowed
 - Or dissolved in water or a flavored beverage before ingestion
 
-> 📍 Bulk powders bypass the **disintegration** step and dissolve directly, potentially leading to **faster onset** than tablets or capsules.
+> 📌 Bulk powders bypass the **disintegration** step and dissolve directly, potentially leading to **faster onset** than tablets or capsules.
 
 ### 🥤 Oral Liquid Formulations
 
@@ -200,7 +200,7 @@ Key characteristics:
   - **Hydroxypropyl methylcellulose (HPMC)**
   - **Sodium carboxymethylcellulose (NaCMC)**
 
-> 📍 Avoid using gelling agents not labeled for oral use. Some are only appropriate for topical or ophthalmic formulations.
+> 📌 Avoid using gelling agents not labeled for oral use. Some are only appropriate for topical or ophthalmic formulations.
 
 ## 👅 Sublingual & Buccal Routes
 

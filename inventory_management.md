@@ -10,7 +10,7 @@ Pharmacy inventory includes:
 - 💸 Over-the-counter (OTC) products
 - 🔐 Controlled substances
 - General pharmacy supplies (e.g., vials, labels, PPE)
-- 📍 Durable and nondurable medical equipment dispensed with prescriptions
+- 📌 Durable and nondurable medical equipment dispensed with prescriptions
 
 ## 👤 Personnel Involved
 
@@ -146,7 +146,7 @@ Pharmacy technicians must:
 - ✅ **Enter received stock into the inventory system**, including lot numbers and expiration dates if required.
 - ✅ **Store medications according to manufacturer specifications**, including immediate refrigeration or freezing when required.
 
-> 📍x🔐 **Schedule II controlled substances (C-II)** are shipped **separately** from all other medications and must be:
+> 📌x🔐 **Schedule II controlled substances (C-II)** are shipped **separately** from all other medications and must be:
 >
 > - **Checked in** by authorized personnel only  
 > - **Logged** into the perpetual inventory system immediately  
@@ -193,7 +193,7 @@ Proper storage of medications ensures **potency, safety, and compliance** with f
 | **Controlled Room Temp** | 20°C to 25°C (68°F to 77°F) |
 | **Excessive Heat** | > 40°C (> 104°F) |
 
-> 📍 *Temperatures must be checked and logged **daily**. Any out-of-range readings should be reported to the pharmacist-in-charge immediately and documented according to facility SOP.*
+> 📌 *Temperatures must be checked and logged **daily**. Any out-of-range readings should be reported to the pharmacist-in-charge immediately and documented according to facility SOP.*
 
 ### 🏥 Floor Stock (Hospitals)
 
@@ -236,7 +236,7 @@ Medications ineligible for dispensing or distribution include:
   - **Class II**: Temporary or reversible medical harm (e.g., potency variations).
   - **Class III**: Not likely to cause harm but violates FDA labeling or manufacturing standards.
 
-> 📍 All ineligible medications must be stored in a **clearly marked, visually distinct, physically separated area** (e.g., “Do Not Dispense,” “Quarantine Bin”) and recorded in inventory logs.
+> 📌 All ineligible medications must be stored in a **clearly marked, visually distinct, physically separated area** (e.g., “Do Not Dispense,” “Quarantine Bin”) and recorded in inventory logs.
 > 🔐 Controlled substances must be **tracked, segregated, and secured** under DEA regulations when awaiting return or destruction.
 
 ### 🚮 Waste Management

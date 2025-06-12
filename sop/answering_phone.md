@@ -66,7 +66,7 @@ Pharmacy technicians may:
 - Speak discreetly to avoid disclosing private health data
 - Do not leave protected health information (PHI) in voicemails unless explicitly authorized
 
-📍 Many pharmacies use automated systems or smartphone apps to notify patients about:
+📌 Many pharmacies use automated systems or smartphone apps to notify patients about:
 
 - Prescription status
 - Delays or insurance issues

@@ -52,7 +52,7 @@ These **injection-independent parenteral routes** include delivery to the **eyes
 - **Canalicula**: Small ducts that drain tears into the nose
 - **Lacrimal Sac**: Collects tears from canaliculi; drains into nasal cavity
 
-> 📍 Drugs entering the lacrimal drainage system may be **absorbed systemically**, bypassing first-pass metabolism.
+> 📌 Drugs entering the lacrimal drainage system may be **absorbed systemically**, bypassing first-pass metabolism.
 
 📊 **Challenges in Ocular Drug Delivery**
 
@@ -65,7 +65,7 @@ These **injection-independent parenteral routes** include delivery to the **eyes
 | **Conjunctival Absorption** | Drug may be absorbed by **conjunctiva** (lining of the eyelid) |
 | **Ideal Dose Volume** | **5–10 µL**, but most patients have access to droppers that are not that precise |
 
-> 📍 1mL = 20 gtt
+> 📌 1mL = 20 gtt
 
 ### 🔢 How to Use Opthalmic Drops
 
@@ -90,7 +90,7 @@ These **injection-independent parenteral routes** include delivery to the **eyes
    - **Gently press the inner corner** of the eye (nasolacrimal duct) with a fingertip for **1 full minute** to prevent drainage and systemic absorption.
 8. **Recap the bottle** tightly to maintain sterility.
 
->📍 **Ophthalmic Ointments** are supplied in **3.5 g tubes** with **narrow-gauge tips**. Administer by applying a thin **ribbon** inside the lower eyelid.
+>📌 **Ophthalmic Ointments** are supplied in **3.5 g tubes** with **narrow-gauge tips**. Administer by applying a thin **ribbon** inside the lower eyelid.
 
 ⚠️ **Important Warnings**
 
@@ -137,7 +137,7 @@ These **injection-independent parenteral routes** include delivery to the **eyes
 - Should not be used **continuously** for more than **3–5 days** unless directed by a physician.
 - Chronic misuse can lead to **rhinitis medicamentosa** (drug-induced chronic nasal inflammation).
 
-> 📍 Nasal sprays and aerosols are engineered for **precise particle size** and **targeted deposition**. Use only as directed to avoid mucosal damage or systemic overdose.
+> 📌 Nasal sprays and aerosols are engineered for **precise particle size** and **targeted deposition**. Use only as directed to avoid mucosal damage or systemic overdose.
 
 ### 🔢 How to Use Nasal Sprays
 
