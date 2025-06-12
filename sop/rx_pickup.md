@@ -70,7 +70,7 @@ Recommended questions:
 
 ### 4. ✍️ Signature Collection & Counseling Offer
 
-1. Ask the patient to **sign the pickup log** (electronic or physical).
+1. Ask the patient to sign for pickup on the **signature log** (electronic or physical).
    - Required for **insurance reimbursement**
    - Used during **pharmacy audits**
 2. Offer the patient the opportunity to speak with a **pharmacist**:
