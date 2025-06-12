@@ -4,7 +4,7 @@
 
 Pharmacy technicians must answer calls promptly, communicate clearly and respectfully, gather accurate information, and route clinical inquiries appropriately to ensure professional, accurate, and HIPAA-compliant telephone communication with patients, providers, and other parties contacting the pharmacy.
 
-🔗 [Answering Pharmacy Phone Calls SOP](./sop/answering_phone.md)
+🔗 [Answering Pharmacy Phone Calls SOP](./sop/phone_calls.md)
 
 **Retail technicians are the first point of contact for most patients**. Professional demeanor, clear communication, and operational efficiency are critical for ensuring medication safety and customer satisfaction.
 
