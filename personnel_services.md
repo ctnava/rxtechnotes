@@ -26,7 +26,7 @@ Pharmacy technicians are **healthcare professionals** who assist pharmacists wit
 - **Compounding**: Preparing sterile and non-sterile medications under pharmacist supervision
 - **Patient Records**: Collecting and entering patient data into pharmacy systems
 - **Inventory Management**: Monitoring stock, ordering medications, & notifying pharmacists of shortages
-- **Maintenance**: Keeping the pharmacy in clean, neat, and in proper working order
+- **Maintenance**: Keeping the pharmacy in **clean, neat, and in proper working order**
 
 🔗 Continued Notes on [Pharmacy Technician Scope of Practice, Credentials, & Career](./ref/technician_career.md)
 
