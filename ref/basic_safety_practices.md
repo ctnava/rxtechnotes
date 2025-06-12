@@ -129,7 +129,7 @@ From here, labels are printed or written for the final medication container disp
 
 ### 3. Dispensing, Education, & Distribution
 
-The final check is performed and medication is prepared for release to the patient or caregiver and they are informed about how to take their medication safely and what to expect. Alternatively, medication is transferred from the pharmacy to the patient or, in institutions, to the correct nursing unit or automated dispensing cabinet.
+The **final check** is performed and medication is prepared for release to the patient or caregiver and they are informed about how to take their medication safely and what to expect. Alternatively, medication is transferred from the pharmacy to the patient or, in institutions, to the correct nursing unit or automated dispensing cabinet.
 
 **Potential Errors**:
 

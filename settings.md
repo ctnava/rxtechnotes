@@ -179,7 +179,7 @@ Automated filling machines handle high-volume dispensing of fast-moving **tablet
 - Log dispensing activity for **auditing and traceability**  
 - Streamline repetitive tasks to improve **workflow efficiency**
 
-> 🩺 Final products must still be **verified by the pharmacist** before dispensing.
+> 🩺 **Final** products must still be **verified by the pharmacist** before dispensing.
 
 ###### 🧪 Compounding Area
 
@@ -288,7 +288,7 @@ Mail order pharmacies rely heavily on **automation and workflow segmentation**. 
 - 📦 **Packaging Technicians**: Label, assemble, and seal orders for shipment
 - 🔍 **Pharmacists**:
   - Perform prospective DUR (Drug Utilization Review)
-  - Conduct final verification and quality assurance checks before shipping
+  - Conduct verification and quality assurance checks (i.e. "the **final check**") before shipping
 
 📑 **Tracking & Quality Control**:
 
