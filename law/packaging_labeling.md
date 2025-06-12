@@ -37,7 +37,7 @@ CR packaging is *not required* in the following cases:
   - Powdered iron or acetaminophen formulations with ≤0.324 g per unit dose
 - Institutional settings where medications are administered by professionals (e.g. nursing homes, hospitals)
 - Specific medications by regulation, such as:
-  - **Sublingual nitroglycerin**
+  - **Emergency Medication** (e.g. Sublingual nitroglycerin)
   - **Oral contraceptives** in mnemonic blister packs
   - **Inhalers** (e.g., albuterol)
 
