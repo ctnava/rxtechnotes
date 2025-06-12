@@ -12,7 +12,7 @@ It differs from:
 People have used drugs derived from plants to treat illness and manage physical conditions for thousands of years. Below are selected milestones:
 
 - **~3000 BCE**:  
-  - **Imhotep**, an Egyptian priest and architect, is recognized as the first physician known by name. He was later deified as the god of medicine.  
+  - 🔑 **Imhotep**, an Egyptian priest and architect, is recognized as the first physician known by name. He was later deified as the god of medicine.  
   - In China, **Emperor Shen Nung** compiled an early catalog of beneficial and poisonous natural substances, forming the basis for Traditional Chinese Medicine.
 - **~1500 BCE**:  
   - The **Ebers Papyrus** is written in ancient Egypt—one of the oldest and most complete medical documents. It includes over 700 remedies.  
@@ -22,7 +22,7 @@ People have used drugs derived from plants to treat illness and manage physical 
 - **~500 BCE**:  
   - **Alcmaeon** of Croton proposes that disease results from a disruption of natural body equilibrium, not supernatural causes.
 - **~400 BCE**:  
-  - **Hippocrates**, often called the "Father of Medicine," promotes observation-based medicine. His writings emphasize natural causes and include the **Hippocratic Oath**.
+  - 🔑 **Hippocrates**, often called the "Father of Medicine," promotes observation-based medicine (scientific). His writings emphasize natural causes and include the **Hippocratic Oath**.
 - **~200 BCE**:  
   - **Shen Nung’s "Pen Tsao"** is formalized into China's first **national pharmacopoeia**.  
   - **Zhang Zhongjing** writes the **Shanghan Zabing Lun**, a clinical compendium of traditional Chinese medicine.
@@ -92,7 +92,7 @@ People have used drugs derived from plants to treat illness and manage physical 
   - Introduction of **HAART (Highly Active Antiretroviral Therapy)** for HIV/AIDS transforms the disease from fatal to manageable.  
   - **Dolly the sheep**, the first **cloned mammal**, is successfully created in Scotland, advancing genetic engineering.
 - **2003**:
-  - 🔑Completion of the **Human Genome Project**, mapping the full human DNA sequence. This **biotech milestone** accelerates development of **targeted gene therapies** and **personalized medicine**.
+  - 🔑 Completion of the **Human Genome Project**, mapping the full human DNA sequence. This **biotech milestone** accelerates development of **targeted gene therapies** and **personalized medicine**.
 - **2006**:
   - **Gardasil**, the first vaccine for **HPV** (Human Papillomavirus), is approved, reducing the risk of cervical and other cancers.
 - **2008**:
@@ -102,21 +102,76 @@ People have used drugs derived from plants to treat illness and manage physical 
 
 ## The State of Modern Medicine
 
-- Since 1900, the average U.S. lifespan has increased by over **30 years**, largely due to advancements in medicine, public health, and hygiene.
-- Between **1970 and 2000**, U.S. healthcare costs rose by over **1500%**.
-- Most drugs used today are **synthetic**; chemically manufactured rather than derived from natural sources.
-  - Provides better cost, effect, & availability
+Since **1900**, the average lifespan in the United States has increased by over **30 years**. This improvement is largely due to:
+
+- Advancements in pharmaceuticals and vaccines
+- Widespread use of antibiotics
+- Improved public health infrastructure
+- Better hygiene, sanitation, and nutrition
+
+Between **1970 and 2000**, healthcare spending in the U.S. increased by more than **1500%**, driven by:
+
+- More advanced diagnostic tools and treatments
+- Greater use of prescription drugs
+- Expanded access to medical services
+- Longer life expectancy with more chronic disease management
+
+Most drugs used in modern medicine are **synthetic**, meaning they are chemically manufactured rather than directly derived from natural sources.
+
+- Synthetic drugs are generally more consistent, cost-effective, scalable, and easier to modify for improved performance.
+- Advances in biotechnology, medicinal chemistry, and computational modeling enable precise design and testing of these compounds.
+
+🦅 **FDA Oversight**
+
+- All prescription and OTC drugs in the U.S. are regulated by the **Food and Drug Administration (FDA)**.
+- The FDA is responsible for:
+  - Ensuring drugs are **safe**, **effective**, and **labeled properly**
+  - Monitoring for **adverse drug reactions**
+  - **Recalling** dangerous or defective products
+  - Reviewing **clinical trial data** before approving new drugs
+
+🧠 **Intellectual Property & R&D**
+
+- Pharmaceutical companies receive **patents** for new drug discoveries, which typically last **20 years** from the date of filing.
+- Patents give manufacturers exclusive rights to sell the drug, preventing generic competition and allowing recovery of **research and development (R&D)** costs due to **10–12 years due to development time**.
+- On average, companies invest around **1/6 of their revenue** into R&D, funding the discovery of future treatments and innovations.
 
 ### The Practice of Pharmacy
 
-- To become a **pharmacist** in the U.S., one must:
-  - Graduate from an **accredited PharmD program**
-  - Complete **state licensing requirements**
-  - Perform a supervised **internship**
-- Pharmacists must complete **continuing education (CE)** to maintain licensure.
-- **Medication Therapy Management (MTM)** services allow pharmacists to evaluate **all medications** a patient is taking, not just the one being dispensed.
-  - Pharmacists are paid approximately $1-$3 per minute
-- **Computerized Pharmacy Management Systems (PMS)**:
-  - Maintain patient profiles, inventory, pricing, and product data
-  - Increase prescription volume capacity and accuracy
-  - Enable more efficient pharmacy operations
+To become a **pharmacist** in the United States, an individual must:
+
+- Graduate from an **ACPE-accredited Doctor of Pharmacy (PharmD) program**
+- Complete a **supervised internship** or **experiential rotations** (Introductory and Advanced Pharmacy Practice Experiences, or IPPEs and APPEs)
+- Pass national and state-level **licensing exams**, including:
+  - The **NAPLEX** (North American Pharmacist Licensure Examination)
+  - The **MPJE** (Multistate Pharmacy Jurisprudence Examination), or a state-specific law exam
+
+Pharmacists must complete **Continuing Education (CE)** regularly to maintain licensure.
+
+- CE requirements vary by state, but typically include a mix of clinical, legal, and safety topics.
+- Some states require CE on specific topics like opioid safety or immunizations.
+
+💊 **Medication Therapy Management (MTM)**
+
+- MTM services involve a comprehensive review of **all medications** a patient is taking, including prescriptions, OTCs, supplements, and herbals.
+- Pharmacists identify **interactions**, **duplications**, **adherence issues**, and **cost-saving opportunities**.
+- MTM is especially beneficial for patients with chronic illnesses, polypharmacy, or high medication costs.
+- Pharmacists are reimbursed for MTM at rates averaging **$1–$3 per minute** of consultation.
+
+🖥️ **Computerized Pharmacy Management Systems (PMS)**
+
+- Store and manage key pharmacy data:
+  - Patient profiles
+  - Drug information
+  - Inventory and ordering
+  - Pricing and insurance processing
+- Automate tasks such as:
+  - Drug interaction checks
+  - Label printing
+  - Refill reminders
+  - Claim submission
+- Improve accuracy, efficiency, and throughput—allowing pharmacies to **dispense more prescriptions** with fewer errors.
+- 🛡️ Support compliance with state and federal laws regarding:
+  - Recordkeeping
+  - Inventory tracking (especially for controlled substances)
+  - Reporting requirements (e.g., to prescription drug monitoring programs or insurers)
