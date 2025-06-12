@@ -150,7 +150,7 @@ A **partial fill** occurs when a pharmacy dispenses **less than the total prescr
 > ✅ Documentation of quantity dispensed, quantity remaining, and follow-up date is required  
 > 🧑‍⚕️ Controlled partial fills may have stricter limits and expiration windows depending on the schedule
 
-🔗 [Partial Filling SOP](./sop/partial_fills.md)
+🔗 [Partial Fills of Prescriptions SOP](./sop/rx_pfl.md)
 
 ## 🔔 Prescription Pickup & Handoff
 
