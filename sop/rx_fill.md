@@ -58,6 +58,8 @@
 
 > 📌 If the patient’s language preference is on file, ensure language-appropriate labeling where available.
 
+![Prescription Label Requirements](../ref/img/rx_label_requirements.PNG)
+
 ### 3. ⚖️ Portioning & Packaging
 
 Medications must be dispensed in patient-ready form. The exact procedure depends on the product type.
