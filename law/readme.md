@@ -65,6 +65,7 @@
 | **Title** | **Notes** |
 |-----------|-----------|
 | **Occupational Safety & Health Act (OSHA, 1970)** | Requires employers to provide PPE, training, and Safety Data Sheets (SDS) for hazardous substances. |
+| **Red Flag Rule (2007)** | Requires pharmacies that bill insurance or offer credit to implement identity theft prevention programs, detect red flags, and train employees accordingly. |
   
 ## 🗺️🔗 Nav Links
 
