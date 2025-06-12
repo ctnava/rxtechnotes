@@ -60,25 +60,52 @@
 
 ### 3. ⚖️ Portioning & Packaging
 
-#### 3.1 Counting
+#### 3.A Repackaged Medications
+
+Most medications from wholesalers arrive in bulk and must be repackaged into patient-ready vials.
+
+🔢 **Counting**:
 
 - Pour medication onto a **clean counting tray**
 - Use **count-by-5** unless the quantity is small or requires verification
-- Match count precisely to what was prescribed
+- Match the count precisely to the prescription
 
-#### 3.2 Bottling and Sealing
+📦 **Bottling & Sealing**:
 
-- Place tablets or capsules into the appropriate vial size
-- Apply:
+- Use an appropriately sized vial for packaging
+- Use a **child-resistant cap** unless:
+  - An easy-open cap is requested **and documented**
+  - The drug is **exempt from child-resistant packaging**
+  - 🔗 See [PPPA (1970)](../law/packaging_labeling.md#poison-prevention-packaging-act-pppa-1970) for details
+- Return any surplus to the **original stock bottle** immediately
+- 📎 **Apply to Packaging**
   - Prescription label
-  - All auxiliary and warning stickers
-- Affix a **child-resistant cap** unless:
-  - an easy-open cap is requested & documented
-  - it is a child-resistant packaging exempt medication
-  - 🔗 see [PPPA (1970)](../law/packaging_labeling.md#poison-prevention-packaging-act-pppa-1970) for more details
-- Return surplus medication to the original stock bottle immediately
+  - All required auxiliary and warning stickers
 
-> 🛡️ Never combine stock from different manufacturers or lots in a single bottle.
+> 🛡️ **Never mix** medications from different manufacturers or lot numbers in a single stock bottle.
+
+#### 3.B Prepackaged Medications
+
+**Unit dose** and other prepackaged products must often be dispensed in their **original packaging**.
+
+🏷️ **Labeling Guidelines**
+
+- Identify a sticker zone that does **not obscure**:
+  - QR codes
+  - NDC
+  - Lot number
+  - Expiration date
+  - 📌 Boxes may have designated sticker zones
+- Prepare the label:
+  - **Fold the sticker** at ~2/3 its length to create a pull tab in case it needs to return to stock  
+  - If folding is not feasible (package too small):
+    - Place the item in a **labelled bag**
+    - The bag may be discarded if returned to stock
+- 📎 **Apply to Packaging**
+  - Prescription label
+  - All required auxiliary and warning stickers
+
+> 🛡️ If multiple packages or pill bottles are used to fill a prescription, make sure to mark the quantity per bottle and the amount of bottles per set (e.g. #90 2/3).
 
 ### 4. 🧑‍⚕️ Final Review & Documentation
 
