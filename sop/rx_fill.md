@@ -97,7 +97,21 @@ Most bulk medications must be counted or measured and **repackaged** from stock 
 
 > 🛡️ **Never combine** medications from different lots or manufacturers in one container.
 
-#### 3.B Prepackaged Medications
+#### 3.B Automated Filling Machines
+
+Some prescriptions are filled and packaged automatically using high-speed dispensing machines.
+
+⚙️ **Operation & Maintenance**
+
+- Technicians are responsible for:
+  - Restocking inventory into machine cells
+  - Refilling vials, caps, and labels
+  - Cleaning and maintaining the machine regularly
+- Machines typically count and label medications into patient-ready vials
+
+> 📌 All machine-filled prescriptions must still be **checked by the pharmacist** before moving to the pickup bin.
+
+#### 3.C Prepackaged Medications
 
 Prepackaged items such as **unit doses** or **dry suspensions** must typically be dispensed in their **original containers**.
 
