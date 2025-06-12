@@ -175,3 +175,9 @@ Pharmacists must complete **Continuing Education (CE)** regularly to maintain li
   - Recordkeeping
   - Inventory tracking (especially for controlled substances)
   - Reporting requirements (e.g., to prescription drug monitoring programs or insurers)
+
+---
+
+## 🗺️🔗 Nav Links
+
+- 🏠 [Home Directory](./readme.md)

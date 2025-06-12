@@ -13,7 +13,7 @@
 
 - [x] DenaliRx Drugs 1-20
 - [x] Common Pharmacy Abbreviations
-- [ ] Reading: Chapter 1 - History of Pharmacy
+- [x] Reading: Chapter 1 - History of Pharmacy
 - [x] CE: Wheel of Pharmacy Technician Career Opportunities
 - [x] SOP: Aseptic Handwashing
 - [x] Math: Chapter 1 - Roman Numerals

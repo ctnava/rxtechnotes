@@ -35,13 +35,14 @@ Structured for both exam prep and on-the-job reference.
 
 | Chapter | Title | Rework Status |
 |---------|-------|---------------|
-| 1 | [Ethics & Compliance](./ethics_compliance.md) | ✅ Complete |
-| 2 | [Pharmacy Personnel, Duties, & Services](./personnel_services.md) | ✅ Complete |
-| 2 | [Pharmacy Settings](./settings.md) | ✅ Complete |
-| 3 | [Healthcare Coverage](./healthcare_coverage.md) | 🚧 WIP |
-| 4 | [Drug Discovery, Manufacturing, & Logistics](./discovery_manufacture.md) | 🚧 WIP |
-| 5 | [Pharmacy Inventory Management](./inventory_management.md) | 🚧 WIP |
-| 6 | [Core Pharmacy Operations](./core_operations.md) | ✅ Complete |
+| 1 | [Introduction to Pharmacy](./intro.md) | ✅ Complete |
+| 2 | [Ethics & Compliance](./ethics_compliance.md) | ✅ Complete |
+| 3 | [Pharmacy Personnel, Duties, & Services](./personnel_services.md) | ✅ Complete |
+| 4 | [Pharmacy Settings](./settings.md) | ✅ Complete |
+| 5 | [Healthcare Coverage](./healthcare_coverage.md) | 🚧 WIP |
+| 6 | [Drug Discovery, Manufacturing, & Logistics](./discovery_manufacture.md) | 🚧 WIP |
+| 7 | [Pharmacy Inventory Management](./inventory_management.md) | 🚧 WIP |
+| 8 | [Core Pharmacy Operations](./core_operations.md) | ✅ Complete |
 
 - 📁 **Math Tutorials** are located in the [Mathematics Concepts Directory](./math/readme.md) directory.
 - 📁 **Legal Overviews & Breakdowns** are located in the [Federal Law Reference Directory](./law/readme.md) directory.
