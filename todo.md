@@ -4,10 +4,9 @@
 
 - GO THROUGH READING WORKBOOK
 - Drug Endings (appendix)
-- medwatch & VAERS filing SOP (appendix)
+- medwatch filing SOP (appendix)
 - pharmacology & Pharmacokinetics
 - insulin content
-- link in my essays
 
 ## Week 1: History of Pharmacy
 
