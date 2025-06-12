@@ -60,37 +60,47 @@
 
 ### 3. ⚖️ Portioning & Packaging
 
+Medications must be dispensed in patient-ready form. The exact procedure depends on the product type.
+
+> 🛡️ If multiple packages or pill bottles are used to fill a prescription, make sure to mark the quantity per bottle and the amount of bottles per set (e.g. #90 2/3).
+
 #### 3.A Repackaged Medications
 
-Most medications from wholesalers arrive in bulk and must be repackaged into patient-ready vials.
+Most bulk medications must be counted or measured and **repackaged** from stock bottles into labeled vials or bottles.
 
-🔢 **Counting**:
+🔢 **Counting Solid Dosage Forms**:
 
+- Identify and retrieve an **appropriately sized vial**
 - Pour medication onto a **clean counting tray**
 - Use **count-by-5** unless the quantity is small or requires verification
 - Match the count precisely to the prescription
 
+🔢 **Measuring Liquid Dosage Forms**:
+
+- Use a bottle **larger than the volume to be dispensed**
+- Pour an accurate volume from the stock container  
+  - 📌 Slight overfill is acceptable but should not be wasteful
+
 📦 **Bottling & Sealing**:
 
-- Use an appropriately sized vial for packaging
 - Use a **child-resistant cap** unless:
-  - An easy-open cap is requested **and documented**
+  - An easy-open cap is **requested and documented**
   - The drug is **exempt from child-resistant packaging**
   - 🔗 See [PPPA (1970)](../law/packaging_labeling.md#poison-prevention-packaging-act-pppa-1970) for details
-- Return any surplus to the **original stock bottle** immediately
-- 📎 **Apply to Packaging**
+- Immediately return surplus to the **original stock container**
+- 📎 Affix:
   - Prescription label
-  - All required auxiliary and warning stickers
+  - Auxiliary & warning stickers
 
-> 🛡️ **Never mix** medications from different manufacturers or lot numbers in a single stock bottle.
+> 🛡️ **Never combine** medications from different lots or manufacturers in one container.
 
 #### 3.B Prepackaged Medications
 
-**Unit dose** and other prepackaged products (e.g. **suspensions**) must often be dispensed in their **original packaging**.
+Prepackaged items such as **unit doses** or **dry suspensions** must typically be dispensed in their **original containers**.
 
 🏷️ **Labeling Guidelines**
 
-- Identify a sticker zone that does **not obscure**:
+- Do **not obstruct** critical identifiers:
   - QR codes
   - NDC
   - Lot number
@@ -105,7 +115,17 @@ Most medications from wholesalers arrive in bulk and must be repackaged into pat
   - Prescription label
   - All required auxiliary and warning stickers
 
-> 🛡️ If multiple packages or pill bottles are used to fill a prescription, make sure to mark the quantity per bottle and the amount of bottles per set (e.g. #90 2/3).
+🥤 **For Suspensions**
+
+<!-- - Place labeled bottle into a "Mix" bag -->
+- Use the volume of distilled water indicated on the stock bottle
+  - Measure using a **graduated cylinder**
+  - Pour into the bottle and **shake well**
+- Delay reconstitution until **pickup**, when possible
+  - 📌 Water shortens the product's shelf life
+- Some pharmacies use automated units (e.g. **Fillmaster**) to:
+  - Dispense exact water volume
+  - Add flavoring if desired
 
 ### 4. 🧑‍⚕️ Final Review & Documentation
 
