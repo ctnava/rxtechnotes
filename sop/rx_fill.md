@@ -25,6 +25,7 @@
 #### 1.2 Product Retrieval
 
 - Match the medication by **NDC** as listed in the software
+  - 🔗 [Further Explanation of NDC system](../law/packaging_labeling.md#drug-listing-act-1972)
 - Follow this inventory prioritization sequence:
   1. ✅ **Returned-to-stock** vials (oldest first)
   2. ✅ **Opened** stock bottles that are unexpired

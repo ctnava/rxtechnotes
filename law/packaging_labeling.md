@@ -77,6 +77,10 @@ The Drug Listing Act of 1972 mandates that all drug establishments provide a com
 > .
 > 🤯 NATO Stock Number (NSN) is the military analog to the NDC.
 
+### Return Links (Drug Listing Act)
+
+- 🛠️ [SOP - Filling Prescriptions (Retail)](../sop/rx_fill.md#12-product-retrieval)
+
 ---
 
 ## 🤯 Drug Supply Chain Security Act (DSCSA, 2013)
