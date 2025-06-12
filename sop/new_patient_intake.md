@@ -23,7 +23,7 @@ Once privacy documentation is complete, create the patient profile in the **phar
   - Allergies (or "NKA" if none)  
   - Health conditions (e.g. diabetes, asthma)  
   - Medication history
-- 📦 **Patient Preferences**
+- 📦 **Service Preferences**
   - Child-resistant packaging waiver  
   - Mail delivery preference  
   - Manufacturer/formulation preferences  
