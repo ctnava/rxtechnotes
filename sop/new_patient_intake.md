@@ -14,7 +14,7 @@ Once privacy documentation is complete, create the patient profile in the **phar
   - Full legal name  
   - Date of birth  
   - Legal sex  
-  - Address and contact information (from government-issued ID)
+  - Address (from government-issued ID) and contact information (e.g. phone number)
   - (If system allows) **Preferred name** for respectful communication
 - 💳 **Insurance & Billing Information**
   - Use current insurance card  
