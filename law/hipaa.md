@@ -2,6 +2,8 @@
 
 ## Health Information Portability & Accountability Act (HIPAA, 1996)
 
+`requires all health-care professionals to protect patients' privacy`
+
 <!-- Regulating how Covered Entities handle Protected Health Information (PHI) -->
 
 HIPAA was originally enacted to protect individuals' access to health insurance when changing jobs or living with pre-existing conditions. It has since evolved into a broad federal standard for the protection of **Protected Health Information (PHI)** and governs how healthcare providers, insurers, and other entities handle patient information.
@@ -80,8 +82,9 @@ Pharmacies must:
 - Post and offer patients a Notice of Privacy Practices
 - Provide access to PHI upon patient request (within 30 days)
 - Appoint a **Privacy Officer** and maintain written policies
-- Shred, de-identify, or securely dispose of all PHI
+- Shred, de-identify, or securely dispose of all PHI **separately from other trash**
 - Prevent unauthorized verbal disclosure (including casual conversations)
+- have conversations about PHI in private areas
 
 > 🚨 HIPAA prohibits disclosure of PHI to family or spouses without patient authorization. Exception: if the patient is present and does not object, or if professional judgment determines it is in the patient's best interest.
 
