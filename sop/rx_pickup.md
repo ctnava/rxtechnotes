@@ -1,4 +1,4 @@
-# 🛠️ SOP - 🔔 Ringing Up Prescriptions
+# 🛠️ SOP - 🔔 Prescription Pickup & Handoff
 
 ## Purpose
 

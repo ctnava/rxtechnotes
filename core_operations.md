@@ -108,7 +108,7 @@ When a patient shows up to the pharmacy for the first time, they usually bring a
 🛠️ **Standard Operating Procedures**
 
 - 🔗 [New Patient Intake](./sop/new_patient_intake.md)
-- 🔗 [Prescription Intake & Order Entry](./sop/prescription_intake.md)
+- 🔗 [Prescription Intake & Order Entry](./sop/rx_intake.md)
 
 ### 🔄 Refills & Renewal Requests
 
@@ -125,7 +125,7 @@ Refills can be requested:
 
 When a prescription has no refills or is expired, the technician is requesting a new prescription, not a ‘refill’ in the legal sense. **Pharmacy technicians** may be authorized to contact the prescriber **on behalf of the patient** to request a new prescription.
 
-🔗 [Prescription Renewals SOP](./sop/refill_renewal_request.md)
+🔗 [Prescription Renewals SOP](./sop/rx_renewal.md)
 
 ### Prescription Transfers
 
@@ -164,7 +164,7 @@ Pharmacy technicians play a key role at the final stage of the dispensing proces
 
 > 🧾 Pickup is a regulated point-of-contact and must be handled with accuracy and professionalism
 
-🔗 [Prescription Handoff SOP](./sop/ringing_up.md)
+🔗 [Prescription Pickup & Handoff SOP](./sop/rx_pickup.md)
 
 ---
 
