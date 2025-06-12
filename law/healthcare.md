@@ -19,9 +19,17 @@ OBRA-90 was a major federal law affecting Medicaid prescription drug programs. I
 - 📋 **Conduct DURs**: Evaluate prescriptions to identify adverse effects, therapeutic duplication, drug–disease contraindications, incorrect dosage or duration, allergies, and drug–drug interactions.
 - 💬 **Offer Counseling to Medicaid Patients**: Pharmacists must “offer to counsel” Medicaid patients on:
   - Proper use of the medication
-  - Potential side effects or adverse reactions
+    - Dosage Amounts
+    - Route of Administration
+    - Duration of Administration
+    - Special Directions
+    - What to do in case of a missed dose
+  - Precautions
+    - Potential side effects
+    - Adverse reactions
+    - Drug Interactions
   - Storage instructions
-  - What to do in case of a missed dose
+  - Refill Directions
   - 📁 **Document Counseling Offers**: While OBRA-90 requires the offer, specific documentation requirements (such as signed refusals) vary by state.
 
 > 📌 Some states have extended OBRA-90 requirements to all patients, not just Medicaid recipients.
