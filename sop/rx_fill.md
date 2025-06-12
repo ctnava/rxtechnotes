@@ -20,6 +20,8 @@
   - Reviewed for legibility, completeness, and legal validity
 - Print the **prescription pamphlet** containing patient and drug details
 
+> 📍 Whenever the system flags drug interactions or allergy conflicts, alert the pharmacist so that they may make a clinical decision on it.
+
 #### 1.2 Product Retrieval
 
 - Match the medication by **NDC** as listed in the software
