@@ -112,9 +112,11 @@ Pharmacies provision stock from state-licensed:
 - **Suppliers**: produce, label, and package drugs
 - **Wholesalers**: purchase drugs in bulk and then sell them to medical facilities
 
-> 🔐 `DEA Form 222` is required for ordering **only** Schedule II drugs via CSOS.
-> 🦅x🔐 FDA and DEA registration is also required for controlled substances.
-> 🦅 See the 🔗 [PDMA](./law/fda_fdca.md#prescription-drug-marketing-act-pdma-1987) for regulations on manufacturer & wholesaler activities.
+### 🦅 Legal Considerations
+
+- 🔐 `DEA Form 222` is required for ordering **only** Schedule II drugs via CSOS.
+- 🦅x🔐 FDA and DEA registration is also required for controlled substances.
+- 🦅 See the 🔗 [PDMA](./law/fda_fdca.md#prescription-drug-marketing-act-pdma-1987) for regulations on manufacturer & wholesaler activities.
 
 ### 🏭 Suppliers
 
@@ -146,13 +148,16 @@ Pharmacy technicians must:
 - ✅ **Enter received stock into the inventory system**, including lot numbers and expiration dates if required.
 - ✅ **Store medications according to manufacturer specifications**, including immediate refrigeration or freezing when required.
 
-> 📌x🔐 **Schedule II controlled substances (C-II)** are shipped **separately** from all other medications and must be:
->
-> - **Checked in** by authorized personnel only  
-> - **Logged** into the perpetual inventory system immediately  
-> - **Stored** in a DEA-compliant secured location  
-> - Documented per federal and state requirements
->
+#### 🔐 Receiving C-II Subtances
+
+**Schedule II controlled substances (C-II)** are shipped **separately** from all other medications and must be:
+
+- **Checked in** by authorized personnel only  
+- **Signed for** by the pharmacist
+- **Logged** into the perpetual inventory system immediately  
+- **Stored** in a DEA-compliant secured location  
+- Documented per federal and state requirements
+
 > 🛡️ Retain all receiving documents for recordkeeping and future audits. Ensure chain-of-custody documentation is maintained, especially for controlled substances.
 
 ## 📁 Storage
