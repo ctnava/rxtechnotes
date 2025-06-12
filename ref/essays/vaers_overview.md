@@ -72,4 +72,7 @@ By contributing accurate and timely reports, you can help safeguard both individ
 
 ---
 
-🔗 [Original Essay](./essay_understanding_vaers.pdf)
+## 🗺️🔗 Nav Links
+
+- 🏠 [Home Directory](../readme.md)
+<!-- - 🥚 [Original Essay](./essay_understanding_vaers.pdf) -->
