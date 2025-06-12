@@ -78,4 +78,4 @@ Recommended questions:
    - Advised if the patient appears confused or has clinical questions
    - 🩺 Document refusal or completion of counseling
 
-> 📌 Signatures are rquired for Medicaid and most third-party insurers or HMO presciptions, along with Schedule V controlled substances, poisons, and certain other prescriptions (depending on state).
+> 📌 **Signatures are rquired** for Medicaid and most third-party insurers or HMO presciptions, along with Schedule V controlled substances, poisons, and certain other prescriptions (depending on state) because they serve as proof that it was dispensed.
