@@ -20,7 +20,7 @@
   - Reviewed for legibility, completeness, and legal validity
 - Print the **prescription pamphlet** containing patient and drug details
 
-#### 1.2 Medication Selection
+#### 1.2 Product Retrieval
 
 - Match the medication by **NDC** as listed in the software
 - Follow this inventory prioritization sequence:
