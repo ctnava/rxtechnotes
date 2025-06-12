@@ -21,7 +21,7 @@ This document synthesizes key federal statutes and regulations governing how dru
 | **Quantity Statement** | Net contents by weight, volume, or count | 🦅 FDCA §502(b)(2); 21 CFR §201.51 |
 | **Batch/ Lot Number** | A unique identifier for the production batch to facilitate tracking and recalls if necessary | 🦅 21 CFR §211.130(e); §211.137 |
 | **Manufacture & Expiration Dates** | date of manufacture and the expiration or “use by” date to ensure drug potency and safety | 🦅 21 CFR §211.130(e); §211.137 |
-| **National Drug Code (NDC)** | FDA-assigned 11-digit code identifying manufacturer, drug, and package | 🦅 FDCA §510; 21 CFR §207.35 |
+| **National Drug Code (NDC)** | FDA-assigned **11-digit** code identifying manufacturer, drug, and package | 🦅 FDCA §510; 21 CFR §207.35 |
 | **Barcoding & Serialization Requirements** | Serial Numbers; Linear (1D) and 2D barcodes per DSCSA, encoding NDC, lot, and expiration | 🦅 DSCSA (FDCA §582); 21 CFR §201.25 |
 | 🔐 **Controlled Substance Schedule** | If applicable, DEA Schedule I–V must be shown | 🦅 21 CFR §1302.04; CSA (21 USC §825) |
 | **Tamper-Evident Packaging** | Required for most OTC drugs to demonstrate integrity | 🦅 21 CFR §211.132; 21 CFR §211.125 |
@@ -42,7 +42,7 @@ Manufacturer Stock Label
 
 ### National Drug Code (NDC) Format
 
-The NDC is a unique 10- or 11-digit, 3-segment number that identifies all FDA-approved drug products. It is required on prescription drug labels and often found on OTC products as well.
+The NDC is a unique 10- or **11-digit**, 3-segment number that identifies all FDA-approved drug products. It is required on prescription drug labels and often found on OTC products as well.
 
 | Segment | Digits | Description |
 |---------|--------|-------------|

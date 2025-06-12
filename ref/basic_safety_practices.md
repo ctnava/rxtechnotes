@@ -108,7 +108,7 @@ From here, labels are printed or written for the final medication container disp
   - Placing the wrong drug in the right-labeled bottle
   - Mixing up similar-looking tablets
   - Reusing containers with leftover labels
-  - 🛡️ Verify drug, strength, and dosage form when filling. Do not use containers with old or partially removed labels. Double-check **National Drug Code (NDC)** during product selection.
+  - 🛡️ Verify drug, strength, and dosage form when filling. Do not use containers with old or partially removed labels. Double-check **11-Digit National Drug Code (NDC)** during product selection.
 
 > 🛡️ **The NCCMERP Recommends that**:
 >

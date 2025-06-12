@@ -28,7 +28,7 @@ Use this checklist to confirm mastery of essential skills and knowledge before b
 
 ## 🏷️ 6. Reading Drug Manufacturer Labels  
 
-- [ ] Can identify the NDC number  
+- [ ] Can identify the 11-Digit NDC number  
 - [ ] Understands the 3-segment structure of NDCs
 
 ## 🧑‍⚕️ 7. Pharmacy Team Roles  

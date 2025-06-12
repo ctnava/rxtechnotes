@@ -156,7 +156,7 @@ After prescription entry, claims must be submitted accurately to insurance.
 - **Pharmacy ID/ NPI**: Unique pharmacy identifier or National Provider Identifier (NPI) for the dispensing pharmacy.
 - **Date Dispensed**: The date when the prescription was dispensed to the patient.
 - **Quantity Dispensed**: The amount or quantity of the medication dispensed to the patient.
-- **NDC**: National Drug Code identifying the medication dispensed.
+- **11-Digit NDC**: National Drug Code identifying the medication dispensed.
 
 ### Pricing Information
 

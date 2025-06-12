@@ -24,7 +24,7 @@
 
 #### 1.2 Product Retrieval
 
-- Match the medication by **NDC** as listed in the software
+- Match the medication by the **11-Digit NDC** as listed in the software
   - 🔗 [Further Explanation of NDC system](../law/packaging_labeling.md#drug-listing-act-1972)
 - Follow this inventory prioritization sequence:
   1. ✅ **Returned-to-stock** vials (oldest first)
@@ -32,7 +32,7 @@
   3. ✅ **Unopened** stock bottles closest to expiration
 - Mark newly opened stock containers appropriately (e.g. stickered as "OPENED")
 
-> 📌 Double-check the NDC, strength, and dosage form during selection. Mistakes here cascade forward.
+> 📌 Double-check the 11-Digit NDC, strength, and dosage form during selection. Mistakes here cascade forward.
 
 ### 2. 🧪 Verification and Labeling
 
@@ -41,7 +41,7 @@
 - Scan the barcode on:
   - The **prescription pamphlet**
   - The **stock bottle** (2D barcode) or **vial** (1D barcode)
-- Confirm that the scanned item matches the system’s selected NDC
+- Confirm that the scanned item matches the system’s selected 11-Digit NDC
 
 #### 2.2 Label Printing
 
@@ -122,7 +122,7 @@ Prepackaged items such as **unit doses** or **dry suspensions** must typically b
 
 - Do **not obstruct** critical identifiers:
   - QR codes
-  - NDC
+  - 11-Digit NDC
   - Lot number
   - Expiration date
   - 📌 Boxes may have designated sticker zones
@@ -155,7 +155,7 @@ Prepackaged items such as **unit doses** or **dry suspensions** must typically b
 - Pharmacist verifies the final product & paperwork:
   - original prescription
   - No potential interactions or contraindications on patient profile
-  - Product matches the label and NDC
+  - Product matches the label and 11-Digit NDC
   - Proper quantity and packaging
   - Clarity and correctness of directions
 
