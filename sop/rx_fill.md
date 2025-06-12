@@ -86,7 +86,7 @@ Most medications from wholesalers arrive in bulk and must be repackaged into pat
 
 #### 3.B Prepackaged Medications
 
-**Unit dose** and other prepackaged products must often be dispensed in their **original packaging**.
+**Unit dose** and other prepackaged products (e.g. **suspensions**) must often be dispensed in their **original packaging**.
 
 🏷️ **Labeling Guidelines**
 
