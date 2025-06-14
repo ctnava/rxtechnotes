@@ -31,14 +31,59 @@ HIPAA was originally enacted to protect individuals' access to health insurance 
 
 ### 🕵️‍♀️ Protected Health Information (PHI)
 
-PHI refers to any information, in any form, that can identify a patient and relates to their health status (*past, present, or future*), healthcare services, or payment. This includes:
+**Protected Health Information (PHI)** refers to **any individually identifiable health information**, in **any form**, that relates to a patient's:
+
+- Past, present, or future physical or mental health condition
+- Healthcare services provided
+- Payment for healthcare services
+
+> 🚨 PHI remains protected **50 years after death** unless an exception applies.
+
+PHI may exist in several formats:
 
 - **Verbal**: oral communications or information (e.g. conversations about care or billing)
 - **Paper Documents**: written communications or information (e.g. Charts, faxes, prescriptions, printouts)
 - **Electronic (ePHI)**: digital communications or information (e.g. Emails, EHRs, cloud storage, mobile devices)
 - **Identifiers**: in any form (e.g. Name, DOB, address, SSN, MRN, phone number, photographs)
 
-> 🚨 PHI remains protected **50 years after death** unless an exception applies.
+> 🚨 Always **handle PHI securely**, regardless of format.
+
+#### Medical Records
+
+**Medical records** (also referred to as **health records**) are chronological, detailed accounts of a patient’s medical history, diagnoses, treatments, and clinical encounters. These records are critical to ensuring **continuity of care**, allowing providers to make well-informed and personalized medical decisions.
+
+##### Commonly Recorded Contents
+
+- Patient demographics
+- Chief complaints and medical history (past and present)
+- History of present illness (HPI)
+- Physical examination findings
+- Medication lists (current and prior)
+- Allergies and adverse reactions
+- Laboratory test results and diagnostic imaging
+- Clinical notes and consultations
+- Treatment plans and progress notes
+- Surgical and procedure records
+- Discharge summaries (for inpatient settings)
+
+In hospital or inpatient settings, medical records may also include:
+
+- **Daily progress notes**
+- **Vital sign flow sheets**
+- **Nursing care documentation**
+- **Medication administration records (MARs)**
+
+##### 💻 Electronic Health Records (EHRs) and EMRs
+
+Historically, records were maintained in **paper charts and folders**. Today, most healthcare systems use **Electronic Medical Records (EMRs)** or **Electronic Health Records (EHRs)**.
+
+- **EMRs** are digital versions of paper charts in a single provider's office.
+- **EHRs** are more comprehensive systems that can:
+  - Integrate medical records with billing and scheduling
+  - Allow secure access across departments and facilities
+  - Enable information sharing with external hospitals and specialists
+
+> 📍 Some healthcare settings still use **hybrid systems**, where part of the record exists in physical form (e.g., consent forms, older files) and the rest is stored electronically.
 
 ### 🔓 HIPAA Privacy Rule
 
