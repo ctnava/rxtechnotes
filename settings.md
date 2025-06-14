@@ -393,7 +393,26 @@ Inpatient care refers to medical treatment that requires a patient to stay at an
 
 Hospitals are healthcare institutions that provide medical treatment, surgical services, and nursing care for patients suffering from acute illness, injury, or disease. Certified pharmacy technicians are commonly preferred in these settings due to the complexity and high standards of institutional operations.
 
-🏥 **Layout**
+#### 🧑‍⚕️ Hospital Staff Overview
+
+- **Physicians**
+  - **MD (Medical Doctor)**: Diagnoses, treats, and prescribes; writes the majority of medication orders.
+  - **DO (Doctor of Osteopathy)**: Similar to MD with emphasis on holistic care.
+- **Nursing Staff**
+  - **NP (Nurse Practitioner)**: provide advanced care & may specialize; can prescribe in most states
+  - **APN (Advanced Practice Nurse)**: Similar to NP; cannot prescribe
+  - **RN (Registered Nurse)**: Administers meds, assists procedures, performs assessments.
+  - **LPN (Licensed Practical Nurse)** & **LVN (Licensed Vocational Nurse)**: Provide bedside care under RN supervision; med administration scope varies by state.
+- **Other Healthcare Professionals**
+  - **PA (Physician Assistant)**: Can prescribe, performs exams, and treatment under supervision of MD or DO
+  - **RT (Respiratory Therapist)**: Manages respiratory treatments; may administer meds.
+  - **PCT (Patient Care Technician)**: Assists nursing; often sent to retrieve medications between deliveries.
+  - **MSW (Master of Social Work)**: Addresses social, legal, or financial patient issues.
+- **Pharmacy Staff**
+  - **RPh (Registered Pharmacist)**: Reviews orders, dispenses medications, consults on therapy.
+  - **Clinical Pharmacist**: Advanced training; participates in patient care rounds, optimizes therapy & monitoring. May or may not dispense.
+
+#### 🏥 Hospital Pharmacy Layout
 
 - **Auxiliary Units** are clinical patient care areas where medications are stored and administered. The **nurses' station** is the unit hub for communications and stores meds, charts, and supplies.
 - **Ancillary Departments** such as radiology, respiratory therapy, dialysis, and central supply also receive support from the pharmacy.
@@ -416,27 +435,6 @@ Hospitals are healthcare institutions that provide medical treatment, surgical s
 | PAR | Post-Anesthesia Recovery | Immediate post-op care |
 | PACU | Post-Anesthesia Care Unit | Same as PAR |
 | PEDS | Pediatrics | Inpatient care for children |
-
-🧑‍⚕️ **Hospital Staff Overview**
-
-- **Physicians**
-  - **MD (Medical Doctor)**: Diagnoses, treats, and prescribes; writes the majority of medication orders.
-  - **DO (Doctor of Osteopathy)**: Similar to MD with emphasis on holistic care.
-- **Nursing Staff**
-  - **NP (Nurse Practitioner)**: provide advanced care & may specialize; can prescribe in most states
-  - **APN (Advanced Practice Nurse)**: Similar to NP; cannot prescribe
-  - **RN (Registered Nurse)**: Administers meds, assists procedures, performs assessments.
-  - **LPN (Licensed Practical Nurse)** & **LVN (Licensed Vocational Nurse)**: Provide bedside care under RN supervision; med administration scope varies by state.
-- **Other Healthcare Professionals**
-  - **PA (Physician Assistant)**: Can prescribe, performs exams, and treatment under supervision of MD or DO
-  - **RT (Respiratory Therapist)**: Manages respiratory treatments; may administer meds.
-  - **PCT (Patient Care Technician)**: Assists nursing; often sent to retrieve medications between deliveries.
-  - **MSW (Master of Social Work)**: Addresses social, legal, or financial patient issues.
-- **Pharmacy Staff**
-  - **RPh (Registered Pharmacist)**: Reviews orders, dispenses medications, consults on therapy.
-  - **Clinical Pharmacist**: Advanced training; participates in patient care rounds, optimizes therapy & monitoring. May or may not dispense.
-
-🏥 **Hospital Pharmacy Areas**
 
 Hospital pharmacies are compartmentalized into specialized areas that support inpatient, outpatient, and ancillary medical services. These areas include the Central Pharmacy and its Satellites.
 
@@ -483,7 +481,7 @@ Hospitals may also have **outpatient pharmacies** or **clinic-affiliated pharmac
 - 🛑 They **do not dispense medications** for **inpatient use**
 - 📃 Process outpatient prescriptions under the supervision of hospital pharmacists
 
-🔑 **Hospital Pharmacy Technician Roles**
+#### 🔑 Hospital Pharmacy Technician Roles
 
 - 🧑‍💼 **Pharmacy Technician Supervisor**
   - Manages workflow and technician schedules
