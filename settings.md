@@ -414,6 +414,8 @@ Hospitals are healthcare institutions that provide medical treatment, surgical s
 
 #### 🏥 Hospital Pharmacy Layout
 
+Hospital pharmacies must coordinate with multiple departments across the facility to ensure timely and accurate medication distribution. Understanding the layout and terminology used for different clinical units helps pharmacy technicians navigate workflow efficiently.
+
 - **Auxiliary Units** are clinical patient care areas where medications are stored and administered. The **nurses' station** is the unit hub for communications and stores meds, charts, and supplies.
 - **Ancillary Departments** such as radiology, respiratory therapy, dialysis, and central supply also receive support from the pharmacy.
 - **Central Supply** stocks items not provided by the pharmacy (e.g. lotions, mouthwash, pill cutters) and sometimes IV solutions.
@@ -550,6 +552,111 @@ Hospitals may also have **outpatient pharmacies** or **clinic-affiliated pharmac
   - Aims to reduce 30-day readmission rates (typically around 20%)
 
 > 🛡️ All pharmacy technicians must document their actions in the pharmacy system in real-time to ensure traceability and compliance.
+
+#### Hospital Communication
+
+Effective communication between hospital departments is essential to ensure timely, accurate, and coordinated patient care. Pharmacy technicians are frequently involved in both direct and indirect communication related to medication management.
+
+##### ☎️ Phone Calls
+
+Pharmacy technicians are often the first point of contact for incoming calls to the pharmacy. It is essential to:
+
+- Answer promptly using professional **telephone etiquette**
+- **Identify yourself** and the department ("Pharmacy, this is [name], how can I help you?")
+- Triage the nature of the call:
+  - **Forward clinical or drug information questions** to a pharmacist
+  - Handle routine requests such as **medication status**, **delivery confirmation**, or **stock availability**
+
+> 🚨 Calls from critical care units or the Emergency Department (ED) may involve urgent needs. Always prioritize according to urgency and policy.
+
+##### 📧 Email & SMS Communication
+
+Many hospitals use **secure communication platforms** that include:
+
+- **Hospital-issued smartphones or pagers** assigned at the start of a shift and returned at the end
+- **Internal email and secure messaging apps** (e.g., TigerConnect, Vocera, or Epic Secure Chat)
+- These tools are used for:
+  - Direct messaging between staff
+  - Reporting missing doses or requesting restocks
+  - Notifying pharmacy of urgent needs
+
+> 📌 These devices are **for hospital use only** and must comply with HIPAA regulations.
+
+##### 📝 Handwritten Requests
+
+Though less common in fully electronic facilities, handwritten communication may still be used in:
+
+- **Ancillary departments** (e.g., radiology, respiratory therapy) for **medication requests**
+- **Physician orders** in settings without full Computerized Physician Order Entry (CPOE)
+- Notes left at the **nurses' station** or in medication rooms
+
+> 🛡️ Pharmacy technicians must check these locations frequently and follow up on any incomplete, unclear, or outdated requests.
+
+##### 📦 Pneumatic Tube Systems
+
+Pneumatic tube systems are used to **rapidly transport medications, lab samples, and documents** between the pharmacy and various departments.
+
+- Medications are placed in **sealed plastic canisters**
+- Tube stations are usually located at:
+  - Nursing stations
+  - Lab departments
+  - Pharmacy
+- ⚠️ **Do not use pneumatic tubes for:**
+  - **Unstable or light-sensitive medications**
+  - **Refrigerated drugs**, **controlled substances**, or **hazardous medications**
+  - **IV bags that exceed size or weight limits**
+  - Items restricted by **hospital policy**
+
+> 📌 Always follow proper **labeling and tracking procedures** when sending items.
+
+##### 💻 Computers & Informatics Systems
+
+Hospital pharmacies rely on **integrated electronic health records (EHRs)** and **order entry systems** to manage medication processes. Technicians should be proficient with:
+
+- **CPOE (Computerized Provider Order Entry):** Allows prescribers to directly enter orders into the system
+- **Electronic Messaging:** Used by staff to report missing medications, request restocks, or clarify orders
+- **Automated Dispensing Cabinets (ADCs):** Interfaced with the pharmacy system to track inventory and medication use
+
+Hospital IT systems often include:
+
+- Patient medication history
+- Laboratory data
+- Allergies and contraindications
+- Billing and insurance
+- Reports for drug usage and compliance
+
+Pharmacy technicians may be tasked with:
+
+- **Monitoring alerts and refill requests**
+- **Processing incoming orders**
+- **Reconciling inventory electronically**
+- **Escalating clinical issues to the pharmacist**
+
+###### 🧠 Pharmacy Informatics
+
+In advanced settings, pharmacy technicians may work on the **pharmacy informatics team**, assisting with:
+
+- **Programming, testing, and maintaining order entry systems**
+- **Troubleshooting communication issues** between EHR and ADCs (e.g., Pyxis, Omnicell)
+- **Running reports** on drug utilization, inventory, or compliance
+- **Improving workflow efficiency** through system customization
+
+##### 📚 Access to Drug Information
+
+Pharmacists are responsible for **providing accurate drug information** to other healthcare professionals and patients. Most hospitals subscribe to **clinical reference databases**, which may include:
+
+- **Lexicomp**
+- **Micromedex**
+- **Clinical Pharmacology**
+- **UpToDate**
+
+These references can be accessed through:
+
+- The hospital’s EHR or intranet
+- Mobile devices
+- Dedicated workstations
+
+> 🛡️ Pharmacy technicians must know which resources are available and how to assist in retrieving non-clinical information when requested.
 
 ### Long-Term Care (LTC)
 
