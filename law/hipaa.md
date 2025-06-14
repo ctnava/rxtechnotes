@@ -66,13 +66,59 @@ Patient authorization for PHI disclosure must be documented via a **valid ROI fo
 
 ### 🛡️ HIPAA Security Rule
 
-Applies specifically to **ePHI** and mandates layered safeguards:
+The **HIPAA Security Rule** specifically governs **electronic Protected Health Information (ePHI)**. It requires covered entities to implement **administrative, technical, and physical safeguards** to ensure the confidentiality, integrity, and availability of patient data.
 
-- **Administrative**: Employ written policies, SOPs, training, & security officers.
-- **Technical**: Includes cybersecurity protocols & digital hygiene; access controls, audit logs, encryption.
-- **Physical**: Know “who belongs where and when” and keeping PHI in locked file cabinets. Access is gatekept by badges and keeping workstations secure.
+#### 🔧 Administrative Safeguards
 
-> 📌 HIPAA requires **role-based access** to PHI. Personnel must have access only to what they need to do their job.
+- Implement **written policies**, **procedures**, and **standard operating protocols (SOPs)**
+- Conduct **employee training** on HIPAA and data security best practices
+- Designate a **Security Officer** responsible for oversight and compliance
+- Perform **risk assessments** to identify vulnerabilities in data protection
+- Apply **role-based access controls** that define who can see or alter what data
+
+#### 💻 Technical Safeguards
+
+These apply to any electronic system that stores or transmits PHI:
+
+- **Access Controls**:  
+  - Systems must limit access to authorized personnel only  
+  - Each user is given **unique login credentials** (username and password)  
+  - Access is limited based on the user’s job function (e.g. technician vs pharmacist)  
+    - 📌 **Role-Based Access** is mandatory under HIPAA: Staff should only have access to the **minimum necessary** PHI required to perform their assigned duties.
+
+- **Encryption**:  
+  - Data is transformed into an unreadable format using a digital key  
+  - Only users with the correct decryption credentials can access the information  
+  - Encryption is especially important during **data transmission** over networks (e.g. emails, uploads)
+
+- **Audit Logs**:  
+  - Systems must keep **timestamped records of all user activity**  
+  - This includes logins, logouts, system changes, medication orders, and patient record access  
+  - Audit logs are used for **security audits**, **breach investigations**, and **accountability tracking**
+  - **Do not share your login credentials** because all actions taken under your login are legally attributed to *you*
+
+- **Automatic Logoff and Timeout Settings**:  
+  - Systems should log off users automatically after a period of inactivity  
+  - Prevents unauthorized access when a workstation is left unattended
+
+#### 🏥 Physical Safeguards
+
+Physical security protocols protect the hardware and locations where ePHI is accessed or stored:
+
+- **Workstation Security**:  
+  - Log out or lock the screen when stepping away from a computer  
+  - Position screens away from public view (use privacy filters if needed)  
+  - Never leave printed PHI unattended in public or shared spaces
+
+- **Access Control to Facilities**:  
+  - Use **ID badges**, **key cards**, or **biometrics** to restrict entry  
+  - Only authorized personnel are allowed in medication rooms, server areas, or data storage locations
+
+- **Secure Storage of Paper Records**:  
+  - Even though the Security Rule applies to *ePHI*, paper documents often contain the same information  
+  - Store printed records in **locked cabinets** and **shred** when no longer needed
+
+> 🛡️ Pharmacy technicians are expected to follow all access control policies, maintain credential security, and report any suspected HIPAA violations immediately.
 
 ### 💊 Pharmacy-Specific HIPAA Requirements
 
