@@ -93,15 +93,15 @@ In retail, formularies are managed by PBMs and can be **open** or **closed**. Th
 
 Hospitals maintain **closed formularies** due to cost, storage, and formulary oversight. Only drugs on the approved list are routinely stocked and dispensed.
 
+##### Non-Formulary Drugs
+
 **Non-formulary** medications may still be ordered, but only under specific circumstances:
 
 - A **Non-Formulary Exception Request** must be submitted, often including clinical justification
 - Approval is typically required from a **pharmacist or P&T designee**
 - If approved, the **inventory technician** must order the medication from a wholesaler or manufacturer
 
-##### Provisioning Non-Formulary Drugs
-
-Because non-formulary drugs are not stocked, **there may be significant delays** in delivery (i.e. days). Pharmacy technicians should:
+Because these drugs are not stocked, **there may be significant delays** in delivery (i.e. days). Pharmacy technicians should:
 
 - **Notify the pharmacist** immediately once the delivery schedule is available
 - **Track the shipment** and ensure it arrives in time for the patient’s therapy
