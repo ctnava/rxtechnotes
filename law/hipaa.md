@@ -62,8 +62,6 @@ Patient authorization for PHI disclosure must be documented via a **valid ROI fo
 - Expiration date or event
 - Signature and date
 
-> 📌 Generally speaking, do not provide information to anyone unless specifically directed by the pharmacist
-
 ### 🛡️ HIPAA Security Rule
 
 The **HIPAA Security Rule** specifically governs **electronic Protected Health Information (ePHI)**. It requires covered entities to implement **administrative, technical, and physical safeguards** to ensure the confidentiality, integrity, and availability of patient data.
@@ -132,7 +130,7 @@ Pharmacies must:
 - Prevent unauthorized verbal disclosure (including casual conversations)
 - have conversations about PHI in private areas
 
-> 🚨 HIPAA prohibits disclosure of PHI to family or spouses without patient authorization. Exception: if the patient is present and does not object, or if professional judgment determines it is in the patient's best interest.
+> 🚨 HIPAA prohibits disclosure of PHI to family or spouses without patient authorization. Generally speaking, do not provide information to anyone unless specifically directed by the pharmacist. Exception: if the patient is present and does not object, or if professional judgment determines it is in the patient's best interest.
 
 ### ⚠️ Violations & Penalties
 
