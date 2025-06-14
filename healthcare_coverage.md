@@ -93,6 +93,28 @@ In retail, formularies are managed by PBMs and can be **open** or **closed**. Th
 
 Hospitals maintain **closed formularies** due to cost, storage, and formulary oversight. Only drugs on the approved list are routinely stocked and dispensed.
 
+##### Therapeutic Interchange Protocol
+
+Because most hospital formularies include **only a limited number of medications within each therapeutic class**, it is common for an admitted patient to be using an **outpatient medication that is not on the hospital's formulary**.
+
+In such cases, a **therapeutically equivalent medication** that is on the formulary may be substituted. This process is known as **therapeutic interchange**, and it is guided by protocols developed and approved by the facility’s **P&T Committee**. These are documented in the hospital’s **medication policy manual**.
+
+There are two types of therapeutic interchange processes:
+
+- **Prescriber-Initiated Substitution**
+  - A pharmacist may **recommend** a formulary alternative.
+  - The substitution requires the **provider’s approval and a new order**.
+- **Protocol-Driven Interchange (Automatic Substitution)**
+  - Some hospitals have **pre-approved therapeutic interchange protocols** that allow the pharmacist to substitute specific medications **without prior approval** from the physician.
+  - These protocols apply only under **clearly defined conditions** (e.g., specific drug pairs, dose equivalency tables, patient population restrictions).
+  - The pharmacist must document the substitution and **notify the provider**, usually within a designated time frame.
+
+📍 Pharmacy technicians do **not make interchange decisions**, but they should:
+
+- **Be aware of common formulary substitutions** (e.g., pantoprazole for omeprazole)
+- **Recognize therapeutic interchange orders**
+- Ensure that the correct product and dose are selected and labeled appropriately
+
 ##### Non-Formulary Drugs
 
 **Non-formulary** medications may still be ordered, but only under specific circumstances:
