@@ -43,28 +43,42 @@ Under these **Managed Care Plans**, drug benefits are managed by PBMs. These are
 
 ### 💊 Formularies
 
-A **formulary** is a list of prescription drugs that are approved for use and **covered by an insurer, pharmacy benefit manager (PBM), or healthcare institution**. Formularies determine which medications are preferred, **substitutable**, or **reimbursable**, helping control costs and ensure safe, effective therapy.
+A **formulary** is an official list of prescription medications that are **approved for use and covered** by an insurer, pharmacy benefit manager (PBM), or healthcare institution. Formularies guide drug selection by identifying which medications are **preferred, reimbursable, or substitutable**, and are designed to balance **clinical efficacy, patient safety, and cost control**.
 
-- **Open Formulary**  
-  - Offers **broad coverage** with few restrictions  
-  - **Most medications are covered**, including non-preferred drugs  
-  - Allows greater flexibility but can result in higher overall costs
+#### 👩‍⚕️ Pharmacy and Therapeutics (P&T) Committees
 
-- **Closed Formulary**  
-  - **Strictly limits** coverage to a specific list of medications  
-  - **Non-formulary drugs are not reimbursed** without prior authorization  
-  - Helps control spending and standardize treatment
+Formularies are maintained by a **Pharmacy and Therapeutics (P&T) Committee**, a multidisciplinary panel that includes **physicians, pharmacists, nurses, and other healthcare professionals**. The committee's primary role is to ensure that the formulary supports **safe, effective, and cost-conscious medication use**.
 
-🏥 **Institutional Settings**:
+P&T Committees are responsible for:
 
-- Controlled by the **Pharmacy & Therapeutics (P&T) Committee**.
-- Only stocked medications are dispensed.
-- Non-formulary requests or therapeutic substitutions may be required.
+- **Evaluating drugs** for inclusion based on **clinical evidence**, **therapeutic value**, **comparative effectiveness**, and **financial impact**
+- Reviewing **new drug approvals**, **updated guidelines**, and **post-market safety data**
+- Developing or endorsing **institution-wide medication use policies**, **clinical guidelines**, and **treatment protocols**
+- Monitoring **formulary compliance** and **drug utilization trends**
 
-🛍️ **In Retail/Insurance Settings**:
+In **managed care and PBM settings**, P&T Committees also exist, but the focus includes **tier placement**, **rebate structures**, and **coverage restrictions** for broader patient populations. These committees must include **independent voting members** to comply with federal regulations.
 
-- Managed by PBMs (in retail/insurance settings).
-- Drugs are divided into **tiers** that affect patient cost:
+In **institutional** settings (e.g., hospitals, integrated health systems), P&T Committees guide the **standardization of therapy** within the facility.
+
+#### 🗂️ Open vs Closed Formularies
+
+There are two primary types of formularies:
+
+- **Open Formulary**
+  - Provides **broad drug coverage** with minimal restrictions
+  - Includes **most available medications**, even non-preferred ones
+  - Allows prescribers greater flexibility in treatment decisions
+  - Can result in **higher overall costs** due to fewer limitations on expensive therapies
+
+- **Closed Formulary**
+  - Covers **only a specific, limited list** of medications
+  - **Non-formulary drugs require prior authorization** or are not reimbursed
+  - Encourages use of **preferred or cost-effective alternatives**
+  - Helps reduce expenditures and **promote standardized care protocols**
+
+#### 🛍️ Managed Care & PBM Settings
+
+In retail, formularies are managed by PBMs and can be **open** or **closed**. These drugs are divided into **tiers** that affect patient cost:
 
 | Tier | Description |
 |------|-------------|
@@ -72,6 +86,28 @@ A **formulary** is a list of prescription drugs that are approved for use and **
 | Tier 2 | Preferred brand-name drugs |
 | Tier 3 | Non-preferred brands |
 | Tier 4+ | High-cost or specialty medications |
+
+> 📌 Be familiar with the formulary tiers for each PBM your pharmacy contracts with. This helps explain patient copays, process prior authorizations, and suggest alternatives.
+
+#### 🏥 Institutional Settings
+
+Hospitals maintain **closed formularies** due to cost, storage, and formulary oversight. Only drugs on the approved list are routinely stocked and dispensed.
+
+**Non-formulary** medications may still be ordered, but only under specific circumstances:
+
+- A **Non-Formulary Exception Request** must be submitted, often including clinical justification
+- Approval is typically required from a **pharmacist or P&T designee**
+- If approved, the **inventory technician** must order the medication from a wholesaler or manufacturer
+
+##### Provisioning Non-Formulary Drugs
+
+Because non-formulary drugs are not stocked, **there may be significant delays** in delivery (i.e. days). Pharmacy technicians should:
+
+- **Notify the pharmacist** immediately once the delivery schedule is available
+- **Track the shipment** and ensure it arrives in time for the patient’s therapy
+- **Label and store appropriately** upon receipt
+
+> 🛡️ Always document communication and approval steps when handling non-formulary requests. Delays in treatment can result in safety risks or regulatory flags.
 
 ### 🏥 Managed Care Programs
 
