@@ -131,7 +131,7 @@ Because these drugs are not stocked, **there may be significant delays** in deli
 
 > 🛡️ Always document communication and approval steps when handling non-formulary requests. Delays in treatment can result in safety risks or regulatory flags.
 
-### 🏥 Managed Care Programs
+### 🤺 Managed Care Programs
 
 Managed care plans are offered by insurers (public and private); structured to control healthcare costs and improve care coordination.
 
