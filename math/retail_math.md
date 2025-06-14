@@ -1,5 +1,29 @@
 # Retail Calculations
 
+## 🏪 Retail Concepts
+
+Retail pharmacies **purchase products at wholesale prices** and resell them at **higher retail prices** to generate profit. This price difference is known as a **markup**.
+
+### 🔑 Key Definitions
+
+| Term | Definition |
+|------|------------|
+| **Markup** | The amount added to the cost of a product to determine the selling price. |
+| **Acquisition Cost** | What the pharmacy actually pays to obtain a product. |
+| **Selling Price** | The price at which the pharmacy sells the product to the patient. |
+| **Unit Price** | The price per measurable unit (e.g., per ounce or tablet), not the total package price. |
+
+### 📋 Shelf Stickers
+
+Shelf stickers in the pharmacy display:
+
+- **Barcode** for inventory identification and scanning
+- **Reorder numbers** for restocking
+- **Unit price** so customers can compare product cost per unit
+- **Retail (selling) price**, determined by markup formulas in the pharmacy system
+
+> 📍 Markups are often automatically calculated by pharmacy software based on business strategy and cost structure.
+
 ## 💸 Usual and Customary (U&C) Pricing
 
 **Usual and Customary (U&C) Price** is the **standard cash price** a pharmacy charges **when the patient is not using insurance or any third-party coverage**.
@@ -153,7 +177,7 @@ Final price = **$175.68**
 
 Calculating profits helps determine whether the **pharmacy is losing money** on a prescription. Even if a third-party reimburses according to contract, the **actual profit could be negative** if operational costs exceed revenue.
 
-### 🔑 Key Definitions
+### 🔑 Key Definitions (discounts)
 
 | Term | Definition |
 |------|------------|
