@@ -55,14 +55,14 @@ PHI refers to any information, in any form, that can identify a patient and rela
 
 #### 🧾 Release of Information (ROI)
 
-Patient authorization for PHI disclosure must be documented via a **valid ROI form**. Valid authorization includes:
+Patient authorization for PHI disclosure must be documented via a **valid ROI form**. These are typically used to transfer PHI to another healthcare facility or patient personal use. Valid authorization requests include:
 
 - Specific description of the information
 - Name of recipient
 - Expiration date or event
 - Signature and date
 
-> 📌 Typically used to transfer PHI to another healthcare facility or patient personal use
+> 📌 Generally speaking, do not provide information to anyone unless specifically directed by the pharmacist
 
 ### 🛡️ HIPAA Security Rule
 
