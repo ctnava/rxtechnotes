@@ -2,6 +2,8 @@
 
 ## Todo
 
+- refine [inpatient medication list](./medications/v_inpatient_medications.md)
+
 - GO THROUGH READING WORKBOOK
 - Drug Endings (appendix)
 - medwatch filing SOP (appendix)
