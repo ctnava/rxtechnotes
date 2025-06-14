@@ -123,8 +123,9 @@
 
 ## Week 12: Hospital Pharmacy
 
-- [ ] Reading: Chapter 17 - Hospital Pharmacy (QUICK)
-  - ./settings_personnel_services.md
+- [x] Reading: Chapter 17 - Hospital Pharmacy (pp 559 - 570)
+- [ ] Reading: Chapter 17 - Hospital Pharmacy(pp 570 - 596)
+  - ./settings.md
 - [ ] CE: Safe Handling of Hazardous Drugs
 - [x] Math: Chapter 10 - Temperature Conversion & Specific Gravity
 - [x] Math: Chapter 28 - Body Surface Area
