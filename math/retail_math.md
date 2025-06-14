@@ -241,3 +241,7 @@ Calculating profits helps determine whether the **pharmacy is losing money** on 
 `Net Profit = 92.99 - (77.20 + 6.00) = 92.99 - 83.20 = 9.79`
 
 `Net Profit % = (9.79/92.99) x 100 = 10.5%`
+
+---
+
+🔗 Back to [**Mathematics Concepts Directory**](./readme.md)

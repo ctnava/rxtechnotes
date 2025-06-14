@@ -9,22 +9,23 @@
 | Chapter | Title | Rework Status |
 |---------|-------|---------------|
 | 1 | [Roman Numeral System](./roman_numerals.md) | ✅ |
-| 1 | [Significant Figures](./sig_figs.md) | ✅ |
-| 3 | [Unit Conversions for Pharmacy Technicians: Household & Metric](./unit_conversions.md) | ✅ |
-| 4 | [Calculating Days Supply](./days_supply.md) | ✅ |
-| 5 | [Dosage Calculations from Medication Labels](./medication_labels.md) | ✅ |
-| 6 | [Verifying DEA Numbers](./dea_numbers.md) | ✅ |
-| 7 | [Calculating Days Supply: Insulin](./insulin_days_supply.md) | ✅ |
-| 8 | [Parenteral Doses Using Ratio & Proportion Calculations](./parenteral_ratios.md) | ✅ |
-| 9 | [Powder Drug Volume & Reconstitution Calculations](./powder_volume.md) | ✅ |
-| 10 | [Ratios & Percents in Pharmacy](./percents_ratios.md) | ✅ |
-| 11 | [Dosage Calculations Based on Body Weight & Age](./body_weight_calculations.md) | ✅ |
-| 12 | [Temperature Scale, Density, & Specific Gravity Conversions](./temperature_scale_conversions.md) | ✅ |
-| 13 | [Dosage Calculations Based on Body Surface Area](./bsa.md) | ✅ |
-| 14 | [Infusion and Drip Rate Calculations](./flow_drip_rate.md) | ✅ |
-| 15 | [Alligation Calculations](./alligations.md) | ✅ |
-| 16 | [Dilution Calculations](./dilutions.md) | ✅ |
-| 17 | [Parenteral Nutrition (PN) Calculations](./tpn.md) | ✅ |
+| 2 | [Retail Calculations](./retail_math.md) | ✅ |
+| 3 | [Significant Figures](./sig_figs.md) | ✅ |
+| 4 | [Unit Conversions for Pharmacy Technicians: Household & Metric](./unit_conversions.md) | ✅ |
+| 5 | [Calculating Days Supply](./days_supply.md) | ✅ |
+| 6 | [Dosage Calculations from Medication Labels](./medication_labels.md) | ✅ |
+| 7 | [Verifying DEA Numbers](./dea_numbers.md) | ✅ |
+| 8 | [Calculating Days Supply: Insulin](./insulin_days_supply.md) | ✅ |
+| 9 | [Parenteral Doses Using Ratio & Proportion Calculations](./parenteral_ratios.md) | ✅ |
+| 10 | [Powder Drug Volume & Reconstitution Calculations](./powder_volume.md) | ✅ |
+| 11 | [Ratios & Percents in Pharmacy](./percents_ratios.md) | ✅ |
+| 12 | [Dosage Calculations Based on Body Weight & Age](./body_weight_calculations.md) | ✅ |
+| 13 | [Temperature Scale, Density, & Specific Gravity Conversions](./temperature_scale_conversions.md) | ✅ |
+| 14 | [Dosage Calculations Based on Body Surface Area](./bsa.md) | ✅ |
+| 15 | [Infusion and Drip Rate Calculations](./flow_drip_rate.md) | ✅ |
+| 16 | [Alligation Calculations](./alligations.md) | ✅ |
+| 17 | [Dilution Calculations](./dilutions.md) | ✅ |
+| 18 | [Parenteral Nutrition (PN) Calculations](./tpn.md) | ✅ |
   
 ---
 
