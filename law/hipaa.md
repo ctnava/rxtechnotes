@@ -54,24 +54,84 @@ PHI may exist in several formats:
 
 ##### Commonly Recorded Contents
 
-- Patient demographics
-- Chief complaints and medical history (past and present)
-- History of present illness (HPI)
-- Physical examination findings
-- Medication lists (current and prior)
-- Allergies and adverse reactions
-- Laboratory test results and diagnostic imaging
-- Clinical notes and consultations
-- Treatment plans and progress notes
-- Surgical and procedure records
-- Discharge summaries (for inpatient settings)
+Medical records are structured to document a patient’s care, treatment, and history in a consistent and accessible manner. The following components are commonly included across various healthcare settings:
 
-In hospital or inpatient settings, medical records may also include:
+🔑 **Patient Demographics**
+Non-clinical identifiers used for administrative and care coordination purposes. Includes:
 
-- **Daily progress notes**
-- **Vital sign flow sheets**
-- **Nursing care documentation**
-- **Medication administration records (MARs)**
+- Full name, date of birth, sex assigned at birth
+- Address and contact information (phone, email)
+- Emergency contact(s)
+- Marital status
+- Occupation and employer
+- Race, ethnicity, and primary language
+- Religion (optional, may inform care decisions)
+- Insurance provider and policy details
+- Medical record number (MRN)
+
+🤧 **Allergies**  
+
+List of known allergies or intolerances to drugs, food, or environmental substances.
+
+- Includes the type of reaction experienced (e.g., rash, anaphylaxis, nausea)  
+- Common notations:
+  - **NKA**: No Known Allergies  
+  - **NKDA**: No Known Drug Allergies  
+
+🩺 **Medical and Social History**
+
+Comprehensive record of past and ongoing health concerns, both patient-reported and provider-documented. Includes:
+
+- **Chief Complaint (CC)**:  
+  - Brief statement of the patient’s main concern in their own words  
+- **History of Present Illness (HPI)**:  
+  - Narrative of the current issue including onset, duration, severity, modifying factors, and context  
+- **Medication History**:  
+  - Prescription, OTC, and herbal supplements currently or previously used  
+  - May appear as a separate section or under history
+- **Past Medical History (PMH)**:  
+  - Previous diagnoses, chronic illnesses, childhood illnesses
+- **Surgical and Procedural History**  
+- **Family History**:  
+  - Hereditary conditions, cause of death in immediate relatives  
+- **Social History**:  
+  - Tobacco, alcohol, recreational drug use, living situation, occupation, sexual history, diet, exercise  
+- **Immunizations and Vaccination Status**
+
+🧾 **Treatment Plans and Progress Notes**
+
+Ongoing clinical documentation by physicians, nurses, and allied professionals.
+
+- Assessment and plan entries from each visit
+- Goals of care, treatment objectives, and response to interventions
+- Notes from specialty consultations
+- Updates to diagnosis and therapeutic approach  
+
+💊 **Medication Orders**  
+
+Prescribed therapies documented with:
+
+- Drug name, strength, dosage form, route of administration
+- Frequency and duration
+- Start and stop dates
+- Prescriber information
+
+###### 🏥 Inpatient-Specific Additions  
+
+Additional documentation commonly found in hospital or long-term care settings:
+
+- **Medication Administration Records (MARs)**  
+  - Chronological documentation of each dose administered and by whom
+- **Vital Sign Flow Sheets**  
+  - Trends in blood pressure, pulse, respiratory rate, temperature, oxygen saturation
+- **Nursing Notes**  
+  - Shift-based observations, interventions, and patient responses
+- **Laboratory and Diagnostic Reports**  
+  - Blood tests, urine analysis, radiology (X-ray, CT, MRI), ECG results, microbiology
+- **Daily Progress Notes**  
+  - Multidisciplinary team entries monitoring day-to-day changes
+- **Discharge Summary**  
+  - Summary of hospitalization, treatments provided, patient status on discharge, and follow-up instructions
 
 ##### 💻 Electronic Health Records (EHRs) and EMRs
 
