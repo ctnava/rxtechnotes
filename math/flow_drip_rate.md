@@ -15,7 +15,7 @@ An **IV set** is the tubing used to administer fluids and medications intravenou
 
 ## 🕰️ Military Time
 
-📌 Military time is a **24-hour clock system** used in clinical settings to avoid AM/PM confusion.
+Military time is a **24-hour clock system** used, in **most hospital settings**, to avoid AM/PM confusion.
 
 | Standard Time | Military Time |
 |---------------|----------------|
