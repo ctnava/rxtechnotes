@@ -6,7 +6,7 @@
 
 - GO THROUGH READING WORKBOOK
 - Drug Endings (appendix)
-- medwatch filing SOP (appendix)
+- MedWatch filing SOP (appendix)
 - pharmacology & Pharmacokinetics
 - insulin content
 - [ ] link iv fluid reference (./ref/common_iv_solutions.md)
@@ -101,7 +101,7 @@
 - [x] Math: Chapter 25 - Percents
 - [x] MedWatch Videos
 
-## Week 9: Biopharm & Customer Service
+## Week 9: Biopharmaceutics & Customer Service
 
 - [x] DenaliRx Drugs 101-120
 - [ ] Reading: Chapter 11 - Biopharmaceutics
