@@ -1,5 +1,11 @@
 # Common IV Solutions
 
+Intravenous (IV) fluids are a cornerstone of hospital and emergency medicine. They restore or maintain fluid balance, deliver electrolytes, and serve as vehicles for medications. Choosing the correct solution requires an understanding of each fluid’s composition, tonicity, and clinical effects. Using the wrong solution can worsen underlying conditions such as heart failure, renal disease, liver dysfunction, diabetes, or increased intracranial pressure.  
+
+This reference summarizes the most common IV solutions, their key components, typical uses, and critical cautions for safe clinical practice.
+
+## Quick Reference Chart
+
 | IV Solution | Composition | Tonicity | Clinical Uses & Indications | Special Considerations |
 |---|---|---|---|---|
 | **Sterile Water for Injection (SW/SWFI)** | Pure water, no electrolytes | Hypotonic (extremely) | Diluent for reconstitution of medications; irrigation; wound flushing | ❗ **Never infuse alone** → causes hemolysis. Only for dilution or irrigation. |
@@ -47,4 +53,3 @@
 - 🧍 **Maintenance fluids:** ½NS ± dextrose depending on calorie needs.  
 - ⚡ **Acidosis correction:** LR (lactate → bicarbonate).  
 - 🛑 **Do not use:** SWFI IV push/infusion; hypotonic fluids in neuro patients.
-
