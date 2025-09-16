@@ -1,24 +1,50 @@
 # Common IV Solutions
 
-| IV Solution | Composition | Clinical Uses & Indications | Concentrations Available | Special Considerations |
+| IV Solution | Composition | Tonicity | Clinical Uses & Indications | Special Considerations |
 |---|---|---|---|---|
-| Sterile Water for Injection (SW/ SWFI) | Pure Water | Used for dilution of drugs, irrigation or flushing wounds | Sterile Water (no electrolytes) | Can cause hemolysis if infused directly into bloodstream, must be used with caution, typically as a diluent or for irrigation purposes only |
-| Normal Saline (NS) | Sodium Chloride (0.9%) in Sterile Water | Hydration for fluid loss or dehydration, Vehicle for drug administration or irrigation | 0.9% NaCl in water (isotonic) | Commonly used in surgery, trauma, & emergency medicine, not ideal for patients with conditions like heart failure due to sodium content |
-| Half Normal Saline (1/2 NS) | Sodium Chloride (0.45%) in Sterile Water | Used for hydration when less sodium is needed, used in patients with chronic dehydration | 0.45% NaCl in Water (Hypotonic) | Not suitable for resuscitation, caution in patients with liver disease as it can exacerbate fluid shifts |
-| Lactated Ringer's (LR) | Sodium Chloride (0.9%), Potassium Chloride, Calcium Chloride, Sodium Lactate | Hydration & electrolyte replacement, used in surgery, trauma or burn recovery, correcting metabolic acidosis | isotonic with electrolytes as described | Preferred for blood loss, burns or surgical recovery, caution in patients with liver dysfunction (as lactate is metabolized in the liver) |
-| Dextrose 5% (D5W) | Dextrose (5%) in Sterile Water | Hydration, mild calorie source for intubated patients, diluent for certain medications | 5% Dextrose in Water (isotonic initially, hypotonic after metabolism) | Not a source of electrolytes, caution in diabetic patients, as it can raise blood sugar |
-| Dextrose 5% Normal Saline (D5NS) | Dextrose (5%) + Sodium Chloride (0.9%) in Sterile Water | Hydration & Glucose Replacement, provides calories & electrolytes, used in patients with mild dehydration & low blood sugar | 5% dextrose, 0.9% Sodium Chloride (isotonic) | Provides both fluid & glucose, caution in patients with renal or cardiac disease due to sodium load |
+| **Sterile Water for Injection (SW/SWFI)** | Pure water, no electrolytes | Hypotonic (extremely) | Diluent for reconstitution of medications; irrigation; wound flushing | ❗ **Never infuse alone** → causes hemolysis. Only for dilution or irrigation. |
+| **Normal Saline (NS)** | Sodium chloride (NaCl) 0.9% in water | Isotonic | Hydration; fluid resuscitation; drug vehicle; irrigation | Widely used in trauma, surgery, emergencies. ⚠️ May worsen fluid overload/Chronic Heart Failure(CHF)/renal disease due to sodium load. |
+| **Half Normal Saline (½NS)** | Sodium chloride (NaCl) 0.45% in water | Hypotonic | Maintenance fluid when lower sodium is required; chronic dehydration | Not for acute resuscitation. ⚠️ Caution in liver disease, risk of hyponatremia and fluid shifts. |
+| **Lactated Ringer’s (LR)** | 0.9% NaCl, KCl, CaCl₂, sodium lactate in water | Isotonic with electrolytes | Volume replacement in trauma, burns, perioperative care; corrects metabolic acidosis | Mimics plasma electrolyte composition. ⚠️ Avoid in severe liver disease (cannot metabolize lactate), hyperkalemia, or hypercalcemia. |
+| **Dextrose 5% in Water (D5W)** | 5% dextrose in sterile water | Isotonic → becomes hypotonic after metabolism | Provides free water; hydration; mild calorie source; diluent for meds | No electrolytes. ⚠️ Increases blood glucose; avoid in uncontrolled diabetes or cerebral edema (worsens ICP). |
+| **Dextrose 5% in Normal Saline (D5NS)** | 5% dextrose + 0.9% NaCl | Isotonic | Hydration with calories & electrolytes; mild hypoglycemia with concurrent sodium needs | Useful for combined energy + sodium support. ⚠️ Avoid in renal/cardiac impairment due to sodium + glucose load. |
 
-## Components
+---
 
-- **Sodium Chloride (NaCl)**: Provides sodium & chloride ions, important for maintaining blood pressure as well as fluid and electrolyte balance.
-- **Potassium Chloride (KCl)**: Used to supplement potassium, which is essential for proper muscle & nerve function
-- **Calcium Chloride (CaCl2)**: Provides calcium, which is vital for muscle function, nerve transmission, and blood clotting.
-- **Lactate**: Metabolized by the liver into bicarbonate, helping to counteract acidosis (a common side effect of severe dehydration & trauma)
-- **Dextrose**: A sugar that provides quick energy in the form of glucose. It is used for patients who need both hydration & calorie support, such as those who are fasting or cannot eat
+## Key Components
 
-## Concepts
+- **Sodium Chloride (NaCl):** Maintains extracellular fluid (ECF) volume, osmotic balance, and blood pressure.  
+- **Potassium Chloride (KCl):** Replaces potassium, critical for cardiac, muscle, and nerve function.  
+- **Calcium Chloride (CaCl₂):** Required for neuromuscular transmission, muscle contraction, and blood clotting.  
+- **Sodium Lactate:** Metabolized in the liver to bicarbonate → buffers metabolic acidosis. (a common side effect of severe dehydration & trauma)
+- **Dextrose (Glucose):** Provides energy; prevents ketosis in fasting patients; useful in hypoglycemia.  
 
-- **Electrolyte Content**: Some IV solutions, like LR & NS, contain electrolytes that are crucial for restoring balance in the body, especially after surgery, trauma, or severe dehydration. Others, like D5W or SWFI, do not contain electrolytes and are typically used for hydration or dilution purposes.
-- **Compatibility**: Certain Medications may not be compatible with specific IV solutions (e.g. D5W is not suitable for certain drugs that precipitate in glucose solutions)
-- **Specific Patient Conditions**: Special care must be taken in patients with kidney disease, liver dysfunction, or heart conditions, as some solutions (like those with high sodium) may exacerbate these conditions.
+---
+
+## Clinical Concepts
+
+- **Tonicity vs. Osmolality:**  
+  - *Isotonic*: NS, LR, D5W (before metabolism) → expand extracellular volume without major fluid shifts.  
+  - *Hypotonic*: ½NS, D5W (after metabolism) → water shifts into cells, risk of cerebral edema.  
+  - *Hypertonic*: Variants (e.g., 3% NaCl, D10W) not listed here but critical in neuro or severe hyponatremia care.  
+
+- **Compatibility:** Not all medications are compatible with a given solution.
+  - Some drugs precipitate in glucose-containing solutions (e.g., phenytoin, amphotericin B).  
+  - Lactated Ringer's Solution is incompatible with citrate-anticoagulated blood (because of risk for calcium-induced coagulation).
+
+- **Patient-Specific Risks:** Special care must be taken in patients with certin health conditions as some solutions may exacerbate them.
+  - **Heart failure/renal disease** → avoid sodium-heavy fluids (NS, D5NS, LR).  
+  - **Liver failure** → avoid LR (cannot metabolize lactate).  
+  - **Diabetes** → caution with dextrose solutions.  
+  - **Increased intracranial pressure (ICP)** → avoid hypotonic solutions (½NS, D5W).  
+
+---
+
+## Quick Pearls
+
+- 🚑 **Resuscitation:** NS or LR (preferred in trauma/burns/dehydration).  
+- 🧪 **Medication dilution:** SWFI (never IV alone), D5W, NS.  
+- 🧍 **Maintenance fluids:** ½NS ± dextrose depending on calorie needs.  
+- ⚡ **Acidosis correction:** LR (lactate → bicarbonate).  
+- 🛑 **Do not use:** SWFI IV push/infusion; hypotonic fluids in neuro patients.
+
