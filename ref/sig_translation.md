@@ -211,7 +211,7 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 | FLC | To be administered by pharmacist for immunization. |
 | MEDROL | Take 6 tablets on day 1 as directed on package and decrease by 1 tablet daily for a total of 6 days. |
 | NUVARING | Insert 1 ring vaginally as directed. Remove after 3 weeks & wait 7 days before inserting new one. |
-| PERI, PERIDEX| Rinse ½ ounce twice a day after breakfast and at bedtime after brushing and flossing. |
+| PERI, PERIDEX| Rinse ½ ounce twice a day after breakfast and at bedtime after brushing and flossing. (Spit Don't Swallow) |
 | SPIRIVA | Inhale 1 capsule via HandiHaler once daily at the same time every day. |
 | ZPAK | Take 2 tablets by mouth today, then take 1 tablet daily for 4 days. |
 
