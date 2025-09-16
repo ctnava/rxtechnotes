@@ -11,6 +11,7 @@
 - insulin content
 - [ ] link iv fluid reference (./ref/common_iv_solutions.md)
 - [ ] link rx connect sig codes (./ref/rx_connect_sig_codes.md)
+- [ ] link syringe diagram (./ref/equipment/syringes/readme.md)
 
 ## Week 1: History of Pharmacy
 
