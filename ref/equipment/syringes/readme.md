@@ -32,6 +32,8 @@ A common example is the **U-100 insulin syringe**, a low-volume, single-use syri
 - **Plunger:** Moves the stopper to draw or expel medication; includes a thumb rest.  
 - **Flanges:** Finger rests that provide stability during injection.
 
+![[Reading with Conical Stoppers](https://www.registerednursern.com/how-to-read-a-syringe/)](./conical.jpg)
+
 ## Needle Tip Attachments
 
 ![[Diagram of Needle Anatomy](https://www.vitalitymedical.com/blog/selecting-syringes-and-needles.html)](./needle.png)
