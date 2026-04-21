@@ -14,7 +14,7 @@ The Advisory Committee on Immunization Practices is responsible for:
 ## 📋 Common Vaccines
 
 | Vaccine | Pathogen(s) | Frequency | Indications | Required in Healthcare? |
-|---------|-------------|-----------|-------------|-------------------------|
+| --------- | ------------- | ----------- | ------------- | ------------------------- |
 | **Flu** | Influenza (Multiple Strains) | Annual | All patients over 6 months or status unknown (regardless of health) | ✅ Yes (required during flu season) |
 | **COVID-19** | SARS-CoV-2 | Annual or updated booster as recommended | Adults & Children | ✅ Yes (often required) |
 | **MMR** | Measles, Mumps, Rubella | 2 doses (childhood); 1 booster for travel | Required for school; travel to endemic areas | ✅ Yes (2 documented doses or positive titer) |
@@ -51,7 +51,7 @@ As the first point of contact in a pharmacy, technicians should be alert for opp
 Use patient cues to suggest vaccine needs:
 
 | Cue | Suggestion |
-|-----|------------|
+| ----- | ------------ |
 | 🍼 Buying baby supplies or mentions of pregnancy | Recommend **Tdap** and **flu** for pregnant individuals and close contacts. Pertussis and flu can be dangerous to newborns. |
 | ✈️ Travel plans or purchase of motion sickness meds (e.g., Dramamine) | Suggest **Hepatitis A** vaccine—second only to travelers’ diarrhea for travel-related illness. |
 | 🤧 Persistent cough or "whooping" sound | Raise the possibility of **pertussis** exposure; refer to pharmacist for evaluation. |

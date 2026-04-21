@@ -175,7 +175,7 @@ A Third-Party Rejection (TPR) occurs when a prescription claim is denied by the 
 > ⚠️ **Important**: Never override rejection codes or make clinical decisions. Always escalate unresolved issues or unclear messages to the pharmacist.
 
 | Reject Code | Reason | Resolution |
-|-------------|--------|------------|
+| ------------- | -------- | ------------ |
 | 70 | NDC Not Covered | Use formulary alternative or request PA |
 | 75 | Prior Authorization Required | Start PA process per plan requirements |
 | 76 | Plan Limitations Exceeded | Verify day supply, quantity, duration |

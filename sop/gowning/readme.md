@@ -79,7 +79,7 @@ Dedicated for sterile compounding of hazardous drugs under **negative pressure**
 ### 🔑 Summary of Engineering Control Roles
 
 | Control Type | Description | Examples | Purpose |
-|--------------|-------------|----------|---------|
+| -------------- | ------------- | ---------- | --------- |
 | **Primary (PEC)**| Direct compounding environment (ISO 5) | LAFW, BSC, CAI, CACI | Protect product sterility |
 | **Secondary (SEC)**| Architectural/airflow support systems | Buffer room HVAC, HEPA, pressure diffs| Maintain classified environment|
 

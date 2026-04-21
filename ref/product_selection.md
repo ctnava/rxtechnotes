@@ -7,7 +7,7 @@ Pharmacy technicians are generally expected to dispense generics unless the pres
 ## 🧾 DAW Reference Table
 
 | **DAW Code** | **Meaning** | **When It’s Used** |
-|--------------|-------------|--------------------|
+| -------------- | ------------- | -------------------- |
 | **0** | No product selection indicated | Default; generic substitution is allowed and expected. |
 | **1** | Substitution not allowed by prescriber | Prescriber wants **brand only** (e.g., writes “Brand Medically Necessary”). |
 | **2** | Substitution allowed—patient requested brand | Patient insists on brand-name product. |

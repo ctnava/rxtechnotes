@@ -7,7 +7,7 @@ This reference summarizes the most common IV solutions, their key components, ty
 ## Quick Reference Chart
 
 | IV Solution | Composition | Tonicity | Clinical Uses & Indications | Special Considerations |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | **Sterile Water for Injection (SW/SWFI)** | Pure water, no electrolytes | Hypotonic (extremely) | Diluent for reconstitution of medications; irrigation; wound flushing | ❗ **Never infuse alone** → causes hemolysis. Only for dilution or irrigation. |
 | **Normal Saline (NS)** | Sodium chloride (NaCl) 0.9% in water | Isotonic | Hydration; fluid resuscitation; drug vehicle; irrigation | Widely used in trauma, surgery, emergencies. ⚠️ May worsen fluid overload/Chronic Heart Failure(CHF)/renal disease due to sodium load. |
 | **Half Normal Saline (½NS)** | Sodium chloride (NaCl) 0.45% in water | Hypotonic | Maintenance fluid when lower sodium is required; chronic dehydration | Not for acute resuscitation. ⚠️ Caution in liver disease, risk of hyponatremia and fluid shifts. |

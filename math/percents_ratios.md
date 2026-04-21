@@ -30,7 +30,7 @@ The **solute** is the active ingredient or substance being dissolved. It is typi
 
 ![percents example 1](./img/percents_ratios/per_ex1.PNG)
 <!-- | Step | Math |
-|------|------|
+| ------ | ------ |
 | 1: Use formula | % ${\text{w/v} = \frac{\text{g of solute}}{\text{mL of solution}} \times 100}$ |
 | 2: Plug in values | ${\frac{\text{12 g}}{\text{400 mL}} \times 100 =}$ **3%** |
 | ✅ Final Answer | The solution is **3% NaCl**. | -->
@@ -41,7 +41,7 @@ The **solute** is the active ingredient or substance being dissolved. It is typi
 
 ![percents example 2](./img/percents_ratios/per_ex2.PNG)
 <!-- | Step | Math |
-|------|------|
+| ------ | ------ |
 | 1: Use the formula | % ${\text{w/v} = \frac{\text{g of solute}}{100\ \text{mL}}}$ |
 | 2: Use the definition | 2% ${= \frac{\text{2 grams}}{\text{100 mL}}}$ |
 | 3: Set up proportion | ${\frac{\text{2 grams}}{\text{100 mL}} = \frac{\text{10 grams}}{\text{x mL}}}$ |
@@ -54,7 +54,7 @@ The **solute** is the active ingredient or substance being dissolved. It is typi
 
 ![percents example 3](./img/percents_ratios/per_ex3.PNG)
 <!-- | Step | Math |
-|------|------|
+| ------ | ------ |
 | 1: Use the formula | % ${\text{w/v} = \frac{\text{g of solute}}{100\ \text{mL}}}$ |
 | 2: Use the definition | 4% ${= \frac{\text{4 grams}}{\text{100 mL}}}$ |
 | 3: Set up proportion | ${\frac{\text{4 grams}}{\text{100 mL}} = \frac{\text{x grams}}{\text{180 mL}}}$ |
@@ -67,7 +67,7 @@ Question: How much of a 25% stock solution is required to prepare 200 mL of a 5%
 
 ![percents example 4](./img/percents_ratios/per_ex4.PNG)
 <!-- | Step | Math |
-|------|------|
+| ------ | ------ |
 | 1: Interpret 5% target | 5% ${= \frac{\text{5 grams}}{\text{100 mL}}}$ |
 | 2: Determine how much drug is found in 200 mL | ${\frac{\text{5 grams}}{\text{100 mL}} = \frac{x\ \text{g}}{200\ \text{mL}} \Rightarrow \text{x grams} = \frac{\text{5 grams} \times \text{200 mL}}{\text{100 mL}} = \boxed{10\ \text{g}}}$  |
 | 3: Interpret 25% stock | 25% ${= \frac{\text{25 grams}}{\text{100 mL}}}$ |
@@ -104,7 +104,7 @@ Understanding how to move between percent strength and ratio strength, and knowi
 <!-- % $\text{w/v} = \left(\frac{\text{g}}{\text{mL}}\right) \times 100$
 
 | Ratio Strength | Equivalent Percent (w/v) |
-|----------------|--------------------------|
+| ---------------- | -------------------------- |
 | 1:1000         | ${\frac{1\ \text{g}}{1000\ \text{mL}} =}$ 0.1% |
 | 1:500          | ${\frac{1\ \text{g}}{500\ \text{mL}} =}$ 0.2% |
 | 1:250          | ${\frac{1\ \text{g}}{250\ \text{mL}} =}$ 0.4% |
@@ -118,7 +118,7 @@ Understanding how to move between percent strength and ratio strength, and knowi
 
 ![ratio example 1](./img/percents_ratios/rat_ex1.PNG)
 <!-- | Step | Math |
-|------|------|
+| ------ | ------ |
 | 1: Interpret the ratio | ${1:250 = \frac{1\ \text{g}}{250\ \text{mL}}}$ |
 | 2: Apply formula | ${\frac{1\ \text{g}}{250\ \text{mL}} \times 100 =}$ **0.4%** |
 | ✅ Final Answer | A 1:250 ratio = **0.4% w/v** | -->
@@ -129,7 +129,7 @@ Understanding how to move between percent strength and ratio strength, and knowi
 
 ![ratio example 2](./img/percents_ratios/rat_ex2.PNG)
 <!-- | Step | Math |
-|------|------|
+| ------ | ------ |
 | 1: Use percent definition | 0.9% ${= \frac{0.9\ \text{g}}{100\ \text{mL}}}$ |
 | 2: Set up proportion to scale to 1 g | ${\frac{0.9\ \text{g}}{100\ \text{mL}} = \frac{1\ \text{g}}{x\ \text{mL}}}$ |
 | 3: Solve for x | ${x = \frac{100\ \text{mL}}{0.9} = \boxed{111.1\ \text{mL}}}$ |
@@ -141,7 +141,7 @@ Understanding how to move between percent strength and ratio strength, and knowi
 
 ![ratio example 3](./img/percents_ratios/rat_ex3.PNG)
 <!-- | Step | Math |
-|------|------|
+| ------ | ------ |
 | 1: Use ratio definition | ${1:1000 = \frac{1\ \text{g}}{1000\ \text{mL}}}$ |
 | 2: Set up proportion | ${\frac{1\ \text{g}}{1000\ \text{mL}} = \frac{x\ \text{g}}{120\ \text{mL}}}$ |
 | 3: Solve | ${x = \frac{1 \times 120}{1000} = \boxed{0.12\ \text{g}}}$ |
@@ -153,7 +153,7 @@ Understanding how to move between percent strength and ratio strength, and knowi
 
 ![ratio example 4](./img/percents_ratios/rat_ex4.PNG)
 <!-- | Step | Math |
-|------|------|
+| ------ | ------ |
 | 1: Use ratio definition | ${1:500 = \frac{1\ \text{g}}{500\ \text{mL}}}$ |
 | 2: Set up proportion | ${\frac{1\ \text{g}}{500\ \text{mL}} = \frac{0.5\ \text{g}}{x\ \text{mL}}}$ |
 | 3: Solve | ${x = \frac{0.5 \times 500}{1} = \boxed{250\ \text{mL}}}$ |
@@ -165,7 +165,7 @@ Understanding how to move between percent strength and ratio strength, and knowi
 
 ![ratio example 5](./img/percents_ratios/rat_ex5.PNG)
 <!-- | Step | Math |
-|------|------|
+| ------ | ------ |
 | 1: Write as a fraction | ${\frac{150}{600}}$ |
 | 2: Find greatest common factor (GCF) | GCF of 150 and 600 = 150 |
 | 3: Divide both terms by 150 | ${\frac{150 \div 150}{600 \div 150} = \frac{1}{4}}$ |
@@ -182,7 +182,7 @@ Medication Order:
 
 ![advanced example](./img/percents_ratios/adv_ex.PNG)
 <!-- | Step | Math |
-|------|------|
+| ------ | ------ |
 | 1: Convert ratio strength to mg/mL | ${\frac{1\ \text{g}}{1000\ \text{mL}} = \frac{1000\ \text{mg}}{1000\ \text{mL}} = 1\ \text{mg/mL}}$ |
 | 2: Convert 100 mcg to mg | ${100\ \mu\text{g} = \frac{100}{1000} = 0.1\ \text{mg}}$ |
 | 3: Set up dose equation | ${\frac{0.1\ \text{mg}}{1\ \text{mg/mL}} = 0.1\ \text{mL}}$ |

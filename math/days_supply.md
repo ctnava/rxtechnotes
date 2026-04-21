@@ -25,7 +25,7 @@ The **Days Supply** refers to how long a prescription will last based on the qua
 🧾 **Common Billing Units by Dosage Form**
 
 | Dosage Form | Billing Unit | Example |
-|-------------|--------------|---------|
+| ------------- | -------------- | --------- |
 | Tablets / Capsules | Each | 30 tablets = 30 billing units |
 | Patches | Each | Box of 15 patches = 15 units |
 | Liquids (oral) | mL | 120 mL bottle = 120 units |
@@ -43,7 +43,7 @@ Understanding how to read prescriptions requires familiarity with the **Inscript
 #### 📃 Prescription Structure
 
 | Section | Purpose |
-|---------|---------|
+| --------- | --------- |
 | **Inscription** | Lists the **drug name**, **strength**, and **dosage form** |
 | **Signa (Sig)** | Provides **directions for the patient** |
 

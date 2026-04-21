@@ -11,7 +11,7 @@ Applies to all personnel responsible for sterile product preparation in a cleanr
 ## 🧾 Vertical vs Horizontal Hoods
 
 | Feature | Vertical Laminar Hood | Horizontal Laminar Hood |
-|---------|-----------------------|-------------------------|
+| --------- | ----------------------- | ------------------------- |
 | **Airflow direction** | Top to bottom | Back to front |
 | **HEPA filter location** | Ceiling (top interior panel) | Rear wall |
 | **Critical zone** | Directly under the top HEPA panel | In front of the rear HEPA panel |

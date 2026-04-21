@@ -22,7 +22,7 @@ Many injectable or biologically sensitive medications are unstable in liquid for
 📦 **Common Examples**
 
 | Drug | Reason for Powder Form |
-|------|------------------------|
+| ------ | ------------------------ |
 | 💉 **Cefazolin** | Unstable in solution; short shelf life |
 | 🧬 **Biologics (e.g. monoclonal antibodies)** | Protein structure sensitive to agitation or heat |
 | 💊 **Chemotherapy agents** | Hazardous in liquid form; requires controlled handling |
@@ -30,7 +30,7 @@ Many injectable or biologically sensitive medications are unstable in liquid for
 ## 📘 Definitions
 
 | Term | Definition |
-|------|------------|
+| ------ | ------------ |
 | **Powdered Drug** | A solid form of a medication supplied in a vial or container. Not ready for use until reconstituted. |
 | **Reconstitution** | The process of dissolving a powder into an appropriate diluent to create a liquid medication. |
 | **Diluent** | The liquid (e.g. Sterile Water for Injection, Normal Saline) used to dissolve the powdered drug. |
@@ -40,7 +40,7 @@ Many injectable or biologically sensitive medications are unstable in liquid for
 ## 📘 Sources for Reconstitution Instructions
 
 | Source | Details |
-|--------|---------|
+| -------- | --------- |
 | 📦 **Package Insert** | Lists type and amount of diluent, final concentration, and storage info |
 | 💉 **Vial Label** | Often includes amount of drug and reconstitution instructions |
 

@@ -146,7 +146,7 @@ Used to manage diabetes.
 ## 💡 Quick Reference Table — Special Medication Watchlist
 
 | Medication           | Use / Class                         | Key Concerns / Notes                                                                 |
-|----------------------|--------------------------------------|----------------------------------------------------------------------------------------|
+| ---------------------- | -------------------------------------- | ---------------------------------------------------------------------------------------- |
 | **Acetaminophen** (Tylenol / APAP) | Analgesic / Antipyretic        | Hepatotoxicity risk; max 3000 mg/day; check combo meds (e.g., Norco, Nyquil)           |
 | **Digoxin** (Lanoxin)             | Cardiac Glycoside               | Narrow TI; monitor serum levels; toxicity signs (visual, GI, arrhythmia); renally cleared |
 | **Nitroglycerin** (NTG)          | Vasodilator (Angina)           | Emergency med; expires 6 mo after opening; no child-proof cap; dispense in glass bottle |

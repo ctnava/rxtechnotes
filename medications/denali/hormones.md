@@ -3,14 +3,14 @@
 ## 🔻 Reproductive Hormones (Contraceptives)
 
 | Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
-|------------|--------------|------------------|-------|------------|------------------|
+| ------------ | -------------- | ------------------ | ------- | ------------ | ------------------ |
 | Yaz | Ethinyl estradiol + Drospirenone | Yaz sounds trendy | Combined oral **contraceptive** | Birth control | Yaz = youth appeal |
 | Ortho Tri-Cyclen | Ethinyl estradiol + Norgestimate | "Tri" = triphasic | Combined oral **contraceptive** | Birth control | Ortho = straight, Tri = 3 phases |
 
 ## 🌡️ Menopause & Osteoporosis
 
 | Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
-|------------|--------------|------------------|-------|------------|------------------|
+| ------------ | -------------- | ------------------ | ------- | ------------ | ------------------ |
 | Evista | Raloxifene | E = estrogen **modulator** | SERM | Menopause / Osteoporosis | Evista = estrogen view |
 | Actonel | Risedronate | "Action on **bone**" | Bisphosphonate | Osteoporosis | Act = activate bone |
 | Boniva | Ibandronate | "Bon" = **bone** | Bisphosphonate | Osteoporosis | Boniva = bone viva |
@@ -19,7 +19,7 @@
 ## 🦋 Thyroid
 
 | Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
-|------------|--------------|------------------|-------|------------|------------------|
+| ------------ | -------------- | ------------------ | ------- | ------------ | ------------------ |
 | Levoxyl | Levothyroxine | "Levo" = left-handed thyroid | **Thyroid hormone** | Hypothyroidism | Levoxyl = left/right balance |
 | Synthroid | Levothyroxine | "Synth" = synthetic thyroid | **Thyroid hormone** | Hypothyroidism | Synth = synthetic hormone |
 | Tapazole | Methimazole | "Tap out" thyroid | **Antithyroid** hormone | Hyperthyroidism | Tap = stop excess thyroid |
@@ -29,7 +29,7 @@
 ### 🍬 Antidiabetics (Non-Insulin)
 
 | Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
-|------------|--------------|------------------|-------|------------|------------------|
+| ------------ | -------------- | ------------------ | ------- | ------------ | ------------------ |
 | Actos | Pioglitazone | "Active toes" = energy use | TZD | Type 2 Diabetes | Act = activate insulin use |
 | Amaryl | Glimepiride | "A merry ride" into insulin | Sulfonylurea | Type 2 Diabetes | Amaryl = cheerful insulin |
 | Glucophage | Metformin | "Glucose + phage" = glucose eater | Biguanide | Type 2 Diabetes | Glucophage devours glucose |
@@ -43,7 +43,7 @@
 ### 💉 Insulins
 
 | Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
-|------------|--------------|------------------|-------|------------|------------------|
+| ------------ | -------------- | ------------------ | ------- | ------------ | ------------------ |
 | Lantus | Insulin glargine | "Lantern light" = long-lasting | **Long-acting** insulin | Diabetes | Lantus = lantern = long-lasting |
 | Aprida | Insulin glulisine | TBA | **Long-acting** insulin | Diabetes | TBA |
 | Humalog | Insulin lispro | "Human logic" = quick mimic | **Rapid-acting** insulin | Diabetes | Huma = human, log = mimic spike |

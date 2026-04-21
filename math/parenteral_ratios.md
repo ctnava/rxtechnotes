@@ -11,7 +11,7 @@ Pharmacy Calculations, 6e; Morton Publishing | 23
 Parenteral medications are administered by injection, bypassing the digestive system. They are supplied as **liquids** or **powders for reconstitution**.
 
 | Route | Definition | Common Use | Absorption Speed |
-|-------|------------|------------|------------------|
+| ------- | ------------ | ------------ | ------------------ |
 | **IV (Intravenous)** | Injected directly into a vein | Fluids, antibiotics, emergency meds | Immediate |
 | **IM (Intramuscular)** | Injected into a muscle | Vaccines, pain meds, some antibiotics | Moderate |
 | **SC (Subcutaneous)** | Injected under the skin into fat tissue | Insulin, heparin | Slower |
@@ -48,7 +48,7 @@ Cross-multiply and solve for **X**.
 
 ![example1](./img/parenteral_ratios/ex1.PNG)
 <!-- | Step | Math |
-|------|------|
+| ------ | ------ |
 | 1: Convert grams to milligrams | ${1\ \text{g} = 1000\ \text{mg}}$ |
 | 2: Set up ratio for volume | ${\frac{1000\ \text{mg}}{2\ \text{mL}} = \frac{500\ \text{mg}}{x\ \text{mL}}}$ |
 | 3: Solve for x | ${x = \frac{500 \times 2}{1000} = 1\ \text{mL}}$ |
@@ -61,7 +61,7 @@ Cross-multiply and solve for **X**.
 
 ![example2](./img/parenteral_ratios/ex2.PNG)
 <!-- | Step | Math |
-|------|------|
+| ------ | ------ |
 | 1: Set up ratio for grams in volume | ${\frac{50\ \text{g}}{100\ \text{mL}} = \frac{x\ \text{g}}{20\ \text{mL}}}$ |
 | 2: Solve for x | ${x = \frac{50 \times 20}{100} = 10\ \text{g}}$ |
 | 3: Final Answer | **10 g** of dextrose in 20 mL | -->
@@ -74,7 +74,7 @@ Cross-multiply and solve for **X**.
 
 ![example3](./img/parenteral_ratios/ex3.PNG)
 <!-- | Step | Math |
-|------|------|
+| ------ | ------ |
 | 1: Calculate volume per dose | ${\frac{367.5\ \text{mg}}{35\ \text{mg/mL}} = 10.5\ \text{mL}}$ |
 | 2: Calculate total daily volume | ${10.5\ \text{mL} \times 3 = 31.5\ \text{mL}}$ |
 | 3: Final Answer | The patient receives **31.5 mL per day** | -->
@@ -87,7 +87,7 @@ Cross-multiply and solve for **X**.
 
 ![example4](./img/parenteral_ratios/ex4.PNG)
 <!-- | Step | Math |
-|------|------|
+| ------ | ------ |
 | 1: Set up ratio for units per volume | ${\frac{1000\ \text{units}}{10\ \text{mL}} = \frac{x\ \text{units}}{0.5\ \text{mL}}}$ |
 | 2: Solve for x | ${x = \frac{1000 \times 0.5}{10} = 50\ \text{units}}$ |
 | 3: Final Answer | **50 units** of insulin administered | -->

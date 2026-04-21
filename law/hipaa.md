@@ -258,7 +258,7 @@ Pharmacies must:
 #### 💸 Civil & Criminal Penalties
 
 | Violation Type | Penalty |
-|----------------|---------|
+| ---------------- | --------- |
 | Unknowing | $100 to $50,000 per violation |
 | Reasonable Cause | $1,000 to $50,000 |
 | Willful Neglect (Corrected) | $10,000 to $50,000 |

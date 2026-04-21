@@ -15,7 +15,7 @@ Significant figures (**'sig figs'**) are the essential digits in a number that c
 These rules determine which digits in a number contribute to its measured precision.
 
 | Rule # | Description | Example | Sig Figs Count |
-|--------|-------------|---------|----------------|
+| -------- | ------------- | --------- | ---------------- |
 | 1️⃣ | **Nonzero digits are always significant.** | `123` | 3 |
 | 2️⃣ | **Zeros between nonzero digits are always significant.** | `101`, `1.008` | 3, 4 |
 | 3️⃣ | **Trailing zeros *after* the decimal are always significant.** | `2.300`, `0.450` | 4, 3 |

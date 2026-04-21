@@ -421,7 +421,7 @@ Hospital pharmacies must coordinate with multiple departments across the facilit
 - **Central Supply** stocks items not provided by the pharmacy (e.g. lotions, mouthwash, pill cutters) and sometimes IV solutions.
 
 | Abbreviation | Auxiliary Unit Name | Description |
-|--------------|---------------------|-------------|
+| -------------- | --------------------- | ------------- |
 | ASC | Ambulatory Surgery Center | Outpatient surgical procedures |
 | BMTU | Bone Marrow Transplant Unit | Specialized oncology care |
 | CCU | Cardiac/ Coronary Care Unit | Intensive cardiac care |
@@ -781,7 +781,7 @@ Hybrid settings include inpatient & outpatient services.
 All personnel working with radioactive materials must wear **dosimetry devices** to monitor exposure:
 
 | Device | Placement | Purpose | Frequency |
-|--------|-----------|---------|-----------|
+| -------- | ----------- | --------- | ----------- |
 | **Ring Badge** | On dominant hand | Monitors extremity exposure | Weekly |
 | **Body Badge** | Shirt collar or chest  | Monitors whole-body exposure | Monthly |
 | **Fetal Badge**| Near abdomen | Required for pregnant personnel | Monthly |

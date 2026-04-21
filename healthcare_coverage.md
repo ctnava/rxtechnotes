@@ -17,7 +17,7 @@ Once **enrolled** in a **managed care plan**, patients are typically responsible
 - Until they reach the **out-of-pocket maximum (OOP Max)**, after which covered services are paid 100% by the plan for the rest of the benefit year.
 
 | Term | Meaning | Key Info |
-|------|---------|----------|
+| ------ | --------- | ---------- |
 | 📅 **Enrollment** | The period when a patient can **sign up for or change** a plan. | Typically during **open enrollment** (fall) or due to a **qualifying life event** (e.g., marriage, birth, job change). |
 | 💵 **Premium** | The **monthly payment** for health insurance, paid **regardless of use**. | Higher premium plans usually have lower deductibles or copays. |
 | 💳 **Deductible** | The amount a patient pays **out of pocket** before coverage begins. | May be waived for preventive services or some generic drugs. |
@@ -31,7 +31,7 @@ Once **enrolled** in a **managed care plan**, patients are typically responsible
 Under these **Managed Care Plans**, drug benefits are managed by PBMs. These are *distinct* entities; meaning that they are third-party companies contracted to service plans on behalf of payers (e.g.insurers, employers, Medicare).
 
 | Function | Description |
-|----------|-------------|
+| ---------- | ------------- |
 | 🛍️ **Claims Processing** | Handle real-time claim adjudication. |
 | 💲 **Reimbursement Rates** | Set copays and pharmacy payouts. |
 | 📋 **Formulary Management** | Create and manage drug tiers. |
@@ -81,7 +81,7 @@ There are two primary types of formularies:
 In retail, formularies are managed by PBMs and can be **open** or **closed**. These drugs are divided into **tiers** that affect patient cost:
 
 | Tier | Description |
-|------|-------------|
+| ------ | ------------- |
 | Tier 1 | Preferred generics (lowest cost) |
 | Tier 2 | Preferred brand-name drugs |
 | Tier 3 | Non-preferred brands |
@@ -136,7 +136,7 @@ Because these drugs are not stocked, **there may be significant delays** in deli
 Managed care plans are offered by insurers (public and private); structured to control healthcare costs and improve care coordination.
 
 | Plan Type | Description | Referrals Needed? | Out-of-Network Coverage? |
-|-----------|-------------|-------------------|-------------------------|
+| ----------- | ------------- | ------------------- | ------------------------- |
 | 🟦 **HMO** (Health Maintenance Organization) | Most restrictive. Requires you to choose a **Primary Care Provider (PCP)** who coordinates all care. | ✅ Yes, for specialists | ❌ No (life-threatening emergencies only) |
 | 🟧 **PPO** (Preferred Provider Organization) | Flexible. No need for referrals. Higher cost for out-of-network care. | ❌ No | ✅ Yes (higher cost) |
 | 🟨 **POS** (Point of Service) | Hybrid of HMO & PPO. Requires in-network PCP and referrals, but offers some out-of-network coverage. | ✅ Yes | ✅ Yes (with extra cost) |
@@ -320,7 +320,7 @@ Technicians can help by:
 Before a prescription can be processed or billed, a patient profile must be created in the pharmacy management system. This includes entering key information that ensures accuracy during claim adjudication and compliance with regulations.
 
 | Term | Meaning |
-|------|---------|
+| ------ | --------- |
 | **Primary Insurance** | Pays first up to its coverage limits. |
 | **Secondary Insurance** | Pays some or all of what the primary didn’t cover. |
 | **Tertiary Insurance**  | Rare third plan that covers remaining costs. |
@@ -498,7 +498,7 @@ The billing cycle is a real-time loop that occurs every time a prescription is s
 A Third-Party Rejection (TPR) occurs when a prescription claim is denied by the PBM or insurance. These denials are flagged with a reject code and message explaining the issue.
 
 | Reject Code | Reason | Resolution |
-|-------------|--------|------------|
+| ------------- | -------- | ------------ |
 | 70 | NDC Not Covered | Use formulary drug or request PA |
 | 75 | Prior Authorization Required | Start PA process |
 | 76 | Plan Limitations Exceeded | Check days’ supply, quantity |

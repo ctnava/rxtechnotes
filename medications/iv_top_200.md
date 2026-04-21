@@ -21,7 +21,7 @@ This guide uses a visual and categorical approach to simplify pharmacological cl
 ## 📂 Directory
 
 | File | Title |
-|------|-------|
+| ------ | ------- |
 | ❤️ **Cardiovascular Medications** | 🔗 [link to](./denali/coronary.md) |
 | 💢 **Pain Management** | 🔗 [link to](./denali/pain.md) |
 | 🧬 **Hormones, Controllers, & Related Conditions** | 🔗 [link to](./denali/hormones.md) |

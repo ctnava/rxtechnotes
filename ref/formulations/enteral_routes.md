@@ -11,7 +11,7 @@ The primary advantages of enteral dosage forms are:
 - The least likely to result in infection
 
 | Route | Associated Dosage Forms |
-|-------|-------------------------|
+| ------- | ------------------------- |
 | **Oral (PO)** | Tablets, Capsules, Bulk Powders, Solutions, Suspensions, Elixirs, Syrups, Emulsions |
 | **Sublingual (SL)** | Tablets, Solutions, Lozenges |
 | **Buccal (Bucc)** | Tablets, Lozenges, Solutions |
@@ -20,7 +20,7 @@ The primary advantages of enteral dosage forms are:
 Use the table below to jump directly to a specific section.
 
 | Route | Description | Link |
-|-------|-------------|------|
+| ------- | ------------- | ------ |
 | **👄 Oral** | Swallowed, absorbed via stomach or intestines | [Oral Route](#-oral-route) |
 | **👅 Sublingual** | Placed under the tongue, absorbed via mucosa | [Sublingual & Buccal Routes](#-sublingual--buccal-routes) |
 | **👅 Buccal** | Placed between cheek and gum, absorbed via mucosa | [Sublingual & Buccal Routes](#-sublingual--buccal-routes) |
@@ -50,7 +50,7 @@ Only dissolved drug molecules can cross gastrointestinal membranes and enter sys
 Common terms include:
 
 | Abbreviation | Meaning              |
-|--------------|----------------------|
+| -------------- | ---------------------- |
 | SR           | Sustained Release     |
 | SA           | Sustained Action      |
 | ER / XR      | Extended Release      |
@@ -137,7 +137,7 @@ Types of oral solutions:
 📌 **Considerations**
 
 | Advantages | Disadvantages |
-|------------|---------------|
+| ------------ | --------------- |
 | Homogeneous doses | Shorter shelf life (less chemically stable) |
 | Faster absorption | Poor taste may require masking |
 | Suitable for patients unable to swallow solids | Bulky and heavy to store/transport |
@@ -158,7 +158,7 @@ Types of oral solutions:
 - Common in pediatric antibiotics
 
 | Advantages | Disadvantages |
-|------------|---------------|
+| ------------ | --------------- |
 | Allows administration of **insoluble drugs** | Particles **settle over time** |
 | Chemically **more stable** than in solution | Texture may be gritty or unpleasant |
 | Masks taste |  |
@@ -239,7 +239,7 @@ Drugs administered via the **rectal route** can provide **rapid, local or system
 💊 **Common Rectal Formulations**
 
 | Dosage Form | Description | Notes |
-|-------------|-------------|-------|
+| ------------- | ------------- | ------- |
 | **Suppositories** | Semisolid dosage forms that **melt or dissolve** at body temperature after insertion | Must be inserted past the anal sphincter for effectiveness |
 | **Solutions (Enemas)** | Liquids administered rectally, used for **cleansing** or **retention** | Cleansing enemas (water-based) stimulate defecation; retention enemas (oil-based) soften stool |
 | **Ointments** | Topical semisolids applied around the anus | Used for inflammation or irritation, often with local anesthetics or steroids |

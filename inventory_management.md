@@ -192,7 +192,7 @@ Proper storage of medications ensures **potency, safety, and compliance** with f
 ### 🌡️ USP Storage Temperature Guidelines
 
 | Storage Type           | Temperature Range                   |
-|------------------------|-------------------------------------|
+| ------------------------ | ------------------------------------- |
 | **Freezer** | –25°C to –10°C (–13°F to 14°F) |
 | **Refrigerated** | 2°C to 8°C (36°F to 46°F) |
 | **Controlled Room Temp** | 20°C to 25°C (68°F to 77°F) |

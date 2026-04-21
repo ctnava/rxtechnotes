@@ -149,7 +149,7 @@ Certification validates a technician's competency and may open the door to expan
 > 🛡️ **Best Practice**: Keep a CE log and obtain completion certificates for all credit hours earned. Submit renewal applications on time to avoid lapses in certification.
 
 | Factor | PTCE (PTCB) | ExCPT (NHA) |
-|--------|-------------|-------------|
+| -------- | ------------- | ------------- |
 | National Recognition | Widely accepted | Accepted in most states |
 | Cost | $129 | $125 |
 | Max Attempts | 4 total (lifetime, appeal after) | 3 per year (retry annually) |
@@ -182,7 +182,7 @@ Although less widely recognized than the PTCB's PTCE, the ExCPT is accepted in C
 The ExCPT is divided into four domains, each with its own percentage of the scored questions:
 
 | Domain | Weight | Description |
-|--------|--------|-------------|
+| -------- | -------- | ------------- |
 | **The Dispensing Process** | 45% | Covers all tasks related to filling prescriptions: receiving medication orders, verifying patient information, calculating dosages, preparing medications, compounding, labeling, final checks, and proper storage. Includes both sterile and nonsterile compounding topics. |
 | **Overview & Laws** | 25% | Focuses on the technician's scope of practice, role in the pharmacy workflow, and understanding of federal laws and regulations. This includes the Controlled Substances Act (CSA), DEA scheduling, labeling rules, and documentation requirements. |
 | **Drugs & Drug Therapy** | 15% | Tests knowledge of drug classes, commonly prescribed medications, therapeutic uses, dosage forms, side effects, and mechanisms of action. |
@@ -239,7 +239,7 @@ The **Pharmacy Technician Certification Examination (PTCE)** is a national certi
 Each domain represents a percentage of the scored questions and evaluates critical knowledge areas:
 
 | Domain | Weight | Description |
-|--------|--------|-------------|
+| -------- | -------- | ------------- |
 | **Medication Order Entry & Fill Process** | 17.5% | Covers data entry, labeling, prescription processing, handling refills, interpreting sig codes, and ensuring accuracy in medication selection. |
 | **Pharmacology for Technicians** | 13.75% | Includes drug classifications, brand/generic names, indications, mechanisms of action, dosage forms, therapeutic equivalence, and common drug interactions. |
 | **Pharmacy Law & Regulations** | 12.5% | Focuses on federal pharmacy law (DEA, FDA), controlled substance schedules, prescription validity, recordkeeping, and disposal requirements. |
@@ -285,7 +285,7 @@ Candidates must apply online through the PTCB website. Once approved, they can s
 Pharmacy technicians can pursue additional certifications and training to move into more advanced or specialized roles.
 
 | 🏅 Certification/Training | 📘 Description | ⚙️ Common Setting |
-|---------------------------|----------------|-------------------|
+| --------------------------- | ---------------- | ------------------- |
 | Sterile & Non-Sterile Compounding | USP <797>/<800> training for IV and hazardous drug handling | 🏥 Hospital, 🧪 Compounding |
 | Six Sigma / Lean Training | Process improvement and error reduction methods | 🏥 Hospital, 🛒 Retail |
 | Basic Life Support (BLS) Certification | CPR/AED training for emergency readiness | 🏥 Hospital |

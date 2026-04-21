@@ -31,7 +31,7 @@ Arabic numerals are what we use every day in pharmacy and general arithmetic:
 Roman numerals use letters from the Latin alphabet to represent values:
 
 | Roman | Arabic |
-|--------|--------|
+| -------- | -------- |
 | I      | 1      |
 | V      | 5      |
 | X      | 10     |
@@ -100,7 +100,7 @@ To convert an Arabic number into a Roman numeral:
 #### Conversion Table (for constructing Roman numerals)
 
 | Value | Symbol |
-|--------|--------|
+| -------- | -------- |
 | 1000  | M      |
 | 900   | CM     |
 | 500   | D      |

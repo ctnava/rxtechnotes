@@ -3,7 +3,7 @@
 Injection Dependent Routes involves delivering drugs directly into the body through **injection or infusion**.
 
 | Route | Description | Common Uses/ Drugs |
-|-------|-------------|--------------------|
+| ------- | ------------- | -------------------- |
 | 🔗 [Intravenous (IV)](#intravenous-route) | Injected **directly into the vein**. Provides **immediate systemic effect**. Ideal for **large volumes**, **continuous infusion**, or **small volumes** of drugs with **narrow therapeutic windows** | Fluids (e.g. D5W, NS), blood products, fat emulsions, Patient Controlled Analgesia(PCA) |
 | 🔗 [Intramuscular (IM)](#intramuscular-route) | Injected **deep into muscle tissue**. Slower onset than IV, but longer duration. | haloperidol, prochlorperazine, **iron dextran**, olanzapine, ziprasidone, metoclopramide |
 | 🔗 [Subcutaneous (SC or SubQ)](#subcutaneous-route) | Injected or **implanted** into the **fatty tissue** just under the skin. Slower absorption than IM. | **insulin (most common route)**, enoxaparin, heparin, vaccines |
@@ -14,7 +14,7 @@ Injection Dependent Routes involves delivering drugs directly into the body thro
 ### ⚗️ Injectable Formulations
 
 | Type | Description |
-|------|-------------|
+| ------ | ------------- |
 | **Solutions** | Most common. May be aqueous (e.g. SWFI, Bacteriostatic Water, NS) or nonaqueous (e.g. glycols, alcohols) |
 | **Suspensions** | Difficult to formulate; require careful attention to syringeability and injectability |
 | **Emulsions** | Typically oil-in-water, sometimes water-in-oil; used for nutrition (TPN), lipophilic drugs |
@@ -45,7 +45,7 @@ To protect sensitive and vital organs, parenteral formulations must:
 📏 **Needle Gauge & Length by Route**
 
 | Route | Gauge; Length |
-|-------|---------------|
+| ------- | --------------- |
 | IV | 16–20G; 1–1.5" |
 | IM | 19–22G; 1–1.5" |
 | Subcutaneous | 24–27G; 3/8–1" |
@@ -67,7 +67,7 @@ IV administration delivers drug **directly into the vein**, bypassing all absorp
 ⚗️ **Dosage Forms Suitable for IV Use**
 
 | Formulation Type | Notes |
-|------------------|-------|
+| ------------------ | ------- |
 | **Solutions** | Most common; primarily aqueous (SWFI, NS, D5W). May include co-solvents like alcohols, glycols, or polysorbates for solubilization |
 | **Suspensions** | Rarely used; risk of emboli and poor syringeability/injectability |
 | **Emulsions** | e.g. **Total Parenteral Nutrition (TPN)**; lipid-based for caloric support |
@@ -96,7 +96,7 @@ IV administration delivers drug **directly into the vein**, bypassing all absorp
 🧭 **Common IV Access Sites**
 
 | Region    | Access Veins | Clinical Notes |
-|-----------|--------------|----------------|
+| ----------- | -------------- | ---------------- |
 | **Hand**  | Dorsal metacarpal veins, dorsal venous arch | Easy to access; small gauge only |
 | **Arm**   | Cephalic, basilic, and median cubital veins | Most common; good for short- and mid-term infusions |
 | **Foot**  | Dorsalis pedis vein | Used when upper extremity access is unavailable; avoid in diabetic patients |
@@ -119,7 +119,7 @@ Always document:
 **Infusion** refers to the **gradual intravenous (IV) administration** of fluid over a set period. This method ensures steady-state drug levels and is often used for hydration, nutritional support, or continuous drug delivery.
 
 | Type               | Volume           | Common Uses                                     |
-|--------------------|------------------|--------------------------------------------------|
+| -------------------- | ------------------ | -------------------------------------------------- |
 | **Large Volume (LVP)**  | 500 mL – 1,000 mL  | Hydration, electrolyte replacement, parenteral nutrition |
 | **Small Volume (SVP)**  | <100 mL           | Drug administration via **IV piggyback** or **IV push**  |
 
@@ -188,7 +188,7 @@ Intramuscular administration involves injecting a drug **deep into the skeletal 
 ⚗️ **Acceptable IM Formulations**
 
 | Type         | Notes |
-|--------------|-------|
+| -------------- | ------- |
 | **Aqueous Solutions** | Fastest absorption |
 | **Oleaginous Solutions** | Slower, prolonged release; increased irritation risk |
 | **Suspensions** | Require shaking; slow, sustained release |
@@ -199,7 +199,7 @@ Intramuscular administration involves injecting a drug **deep into the skeletal 
 🚨 **Risks & Complications**
 
 | Complication      | Description |
-|-------------------|-------------|
+| ------------------- | ------------- |
 | **Abscess**       | Sterile or infected localized collection of pus |
 | **Cysts**         | Form due to poor technique or poor drug absorption |
 | **Embolism**      | From accidental injection into blood vessel |
@@ -210,7 +210,7 @@ Intramuscular administration involves injecting a drug **deep into the skeletal 
 🧭 **Common IM Injection Sites**
 
 | Site | Region | Notes |
-|------|--------|-------|
+| ------ | -------- | ------- |
 | **Gluteus maximus** | Buttocks | Large volume tolerance (up to 5 mL); avoid sciatic nerve |
 | **Deltoid muscle**  | Upper arm | Convenient for small-volume injections (≤ 2 mL); risk of hitting radial nerve if poorly placed |
 | **Vastus lateralis**| Thigh | Preferred in infants and small children; moderate volume (~2 mL) |
@@ -257,7 +257,7 @@ Subcutaneous administration involves injecting medication into the **fatty tissu
 Absorption from subcutaneous tissue is largely influenced by same factors as intramuscular injections.
 
 | Factor | Effect |
-|--------|--------|
+| -------- | -------- |
 | **Blood supply** | Fewer vessels = slower uptake |
 | **Heat or Massage** | Increases absorption rate |
 | **Co-administered Drugs** | Vasodilators may speed up absorption; vasoconstrictors slow it down |
@@ -266,7 +266,7 @@ Absorption from subcutaneous tissue is largely influenced by same factors as int
 🚨 **Risks & Complications**
 
 | Risk | Notes |
-|------|-------|
+| ------ | ------- |
 | **Abscess** | May occur with improper aseptic technique |
 | **Tissue Necrosis** | Often linked to irritant drugs or repeated injections |
 | **Pain** | Dependent on needle size, volume, and formulation |
@@ -274,7 +274,7 @@ Absorption from subcutaneous tissue is largely influenced by same factors as int
 🧭 **Common Injection Sites**
 
 | Site | Notes |
-|------|-------|
+| ------ | ------- |
 | **Lower abdomen** | Avoid 2-inch radius around navel |
 | **Anterior thigh** | Easy self-access |
 | **Upper back** | Less common, used in clinical settings |

@@ -8,7 +8,7 @@ These **injection-independent parenteral routes** include delivery to the **eyes
 > 🛡️ Sterility, formulation, and proper administration technique remain critical for efficacy and safety.
 
 | Route | Description | Common Uses / Drugs |
-|-------|-------------|---------------------|
+| ------- | ------------- | --------------------- |
 | 🔗 [Intraocular (Ophthalmic)](#intraocular-route) | Drug delivered to the **eye** via drops, ointments, inserts, or implants. | Antibiotics, anti-inflammatories, glaucoma agents |
 | 🔗 [Intranasal](#intranasal-route) | Drug sprayed or instilled into the **nasal cavity** for local or systemic effect. | Corticosteroids, desmopressin, naloxone, vaccines |
 | 🔗 [Oral Inhalation (Pulmonary)](#oral-inhalation-route) | Drug inhaled into the **lungs** via MDI, DPI, or nebulizer. | Albuterol, fluticasone, anesthetic gases |
@@ -39,7 +39,7 @@ These **injection-independent parenteral routes** include delivery to the **eyes
 ⚗️ **Formulation Types**
 
 | Type | Description | Notes |
-|------|-------------|-------|
+| ------ | ------------- | ------- |
 | **Aqueous Solutions** | Sterile water-based drops | 💧 Most common. Easy to use. **Fast washout** from eye. **~80% dose lost** due to overflow and drainage. |
 | **Aqueous Suspensions** | Contain suspended drug particles | 🕒 Longer contact than solutions. **Shake well** before use. |
 | **Ointments** | Semi-solid base (mineral oil, petrolatum; melting point close to body temperature) | 🌙 Used at night due to **blurred vision**. **Prolonged contact time**. Difficult to wash out. |
@@ -57,7 +57,7 @@ These **injection-independent parenteral routes** include delivery to the **eyes
 📊 **Challenges in Ocular Drug Delivery**
 
 | Factor | Explanation |
-|--------|-------------|
+| -------- | ------------- |
 | **Overflow** | Eyedroppers deliver **~50 µL**, but the eye holds only **~10 µL**; resulting in **>80% loss** |
 | **Tear Drainage** | Tears flow from the **lacrimal gland** across the eye and drain into the **canalicula**, flushing the drug |
 | **Tear Turnover** | Natural tear rate is **2 µL/min**, replacing entire tear volume every **2–3 minutes** |
@@ -116,7 +116,7 @@ These **injection-independent parenteral routes** include delivery to the **eyes
 ⚗️ **Dosage Forms**
 
 | Formulation Type | Delivery Mode | Notes |
-|------------------|----------------|-------|
+| ------------------ | ---------------- | ------- |
 | **Solutions** | Drops or fine mist | Simple; but drops often drain (post nasal drip) and are swallowed |
 | **Suspensions** | Spray or aerosol | Longer contact time on mucosa |
 | **Sprays** | Metered spray | Preferred over drops; minimizes drainage and swallowing |

@@ -169,7 +169,7 @@ MedWatch Videos
 There are 3 numerical classes of recalls.
 
 | Class                 | Description|
-|-----------------------|------------|
+| ----------------------- | ------------ |
 |1 (Highest Urgency)    | Likely to cause serious harm or death |
 |2 (Moderate Urgency)   | May cause reversible harm; serious effects are unlikely |
 |3 (Lowest Urgency)     | Not likely to cause harm; violates labeling or manufacturing standards |
@@ -201,7 +201,7 @@ Recalls are generally handled in 4 steps.
 Technicians must stay up to date with recalls posted online. When a recall is brought to their attention, they must alert the pharmacist and store management; providing information for patient outreach. Recalls are generally handled in the pharmacy with the following methodology:
 
 | Step      | Description |
-|-----------|-------------|
+| ----------- | ------------- |
 | Verify    | Verify the recall details (lot number, expiration date, affected batches) to see if affected lot numbers are present on shelves.  |
 | Remove    | Remove affected products from inventory and quarantine them. |
 | Notify    | Notify affected patients and healthcare providers (with online alerts, telephone calls, and physical notices) to instruct them to discontinue use. Additionally, arrange for refunds & exchanges. |

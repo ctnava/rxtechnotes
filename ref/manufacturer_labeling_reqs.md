@@ -11,7 +11,7 @@ This document synthesizes key federal statutes and regulations governing how dru
 🏷️ **Labeling Requirements**
 
 | Requirement | Description | Legal Basis |
-|-------------|-------------|-------------|
+| ------------- | ------------- | ------------- |
 | **Drug Identity** | Brand and generic name clearly stated | 🦅 21 CFR §201.10; FDCA §502(e) |
 | **Strength** | Quantity of active ingredient per unit (e.g. mg per tablet) | 🦅 21 CFR §201.10(b); FDCA §502(a) |
 | **Dosage Form** | Physical form (e.g. capsule, solution) and route (oral, topical, etc.) | 🦅 21 CFR §201.100(b); USP standards |
@@ -45,7 +45,7 @@ Manufacturer Stock Label
 The NDC is a unique 10- or **11-digit**, 3-segment number that identifies all FDA-approved drug products. It is required on prescription drug labels and often found on OTC products as well.
 
 | Segment | Digits | Description |
-|---------|--------|-------------|
+| --------- | -------- | ------------- |
 | **Labeler Code** | 5 | Identifies the manufacturer or repackager (FDA-assigned) |
 | **Product Code** | 3–4 | Identifies the specific strength, dosage form, and formulation (Manufacturer-assigned) |
 | **Package Code** | 1–2 | Identifies package type and size (Manufacturer-assigned) |
@@ -67,7 +67,7 @@ The NDC is a unique 10- or **11-digit**, 3-segment number that identifies all FD
 Barcoding and serialization are mandated under the **Drug Supply Chain Security Act (DSCSA)** to prevent counterfeit drugs and support recalls. Manufacturers must affix machine-readable codes to **each smallest saleable unit**.
 
 | Barcode Type         | Appearance | Contents | Use Case |
-|----------------------|------------|----------|----------|
+| ---------------------- | ------------ | ---------- | ---------- |
 | **Linear (1D)**      | Horizontal bars | NDC only | Used in shelf stock scanning or inventory |
 | **GS1 DataMatrix (2D)** | Square pixel grid | GTIN + Expiration + Lot + Serial Number | Used in Rx filling & verification |
 
@@ -87,7 +87,7 @@ PPIs are FDA-regulated documents that must accompany specific drug classes. They
 ☣️ **Common Drug Classes Requiring PPIs**
 
 | Class                | Examples |
-|----------------------|----------|
+| ---------------------- | ---------- |
 | Estrogens            | Conjugated estrogens (Premarin), Estradiol |
 | Oral Contraceptives  | Combined hormonal products, Progestin-only pills |
 | REMS-designated drugs| Isotretinoin, Mifepristone, etc |
@@ -97,7 +97,7 @@ PPIs are FDA-regulated documents that must accompany specific drug classes. They
 📂 **Content Breakdown**
 
 | Section | What It Covers |
-|---------|----------------|
+| --------- | ---------------- |
 | **Clinical Pharmacology** | How the drug works in the body, including: Mechanism of action, Pharmacokinetics (absorption, distribution, metabolism, excretion), Demographic considerations (e.g., effects in children, pregnancy) |
 | **Approved Indications** | Lists the **FDA-approved uses** of the drug (*Note:* Drugs are sometimes used “off-label” for other conditions, based on provider discretion.) |
 | **Contraindications** | Situations where the drug **should not be used**, such as certain medical conditions, allergies, or interactions. |
@@ -116,7 +116,7 @@ PPIs are FDA-regulated documents that must accompany specific drug classes. They
 MedGuides are **FDA-required patient labeling** for outpatient prescription drugs that present serious and specific public health concerns. These are distinct from PPIs and are **drug-specific**, not class-based. A MedGuide **must be dispensed** if any of the following conditions apply:
 
 | Trigger | Description |
-|--------|-------------|
+| -------- | ------------- |
 | **Patient labeling could prevent serious adverse effects** | The drug has significant risks that could be avoided or reduced by patient understanding |
 | **Serious risks that could affect decision to use** | The drug has known dangers that might change a patient's willingness to begin or continue therapy |
 | **Adherence is crucial to effectiveness** | Incorrect use of the medication would result in ineffective treatment or increased risk |
@@ -127,7 +127,7 @@ MedGuides are **FDA-required patient labeling** for outpatient prescription drug
 📂 **Content Breakdown**
 
 | Section | What It Explains |
-|---------|------------------|
+| --------- | ------------------ |
 | **What is the most important information I should know?** | Key risks and dangers |
 | **What is [Drug Name]?** | Description and indication |
 | **Who should not take [Drug]?** | Contraindications |

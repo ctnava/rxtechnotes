@@ -20,7 +20,7 @@ Pharmacy Calculations, 6e; Morton Publishing | Chapter 32
 - Cancer with GI involvement
 
 | Characteristic | TPN (Total PN) | PPN (Partial PN) |
-|----------------|----------------|------------------|
+| ---------------- | ---------------- | ------------------ |
 | 🧠 Purpose | Complete nutrition | Supplement oral/enteral intake |
 | 💉 Route | Central venous catheter | Peripheral IV line |
 | 🧪 Osmolarity | > 900 mOsm/L | < 900 mOsm/L |
@@ -38,7 +38,7 @@ Parenteral nutrition consists of a **base solution** and a **set of additives**.
 ### 🧱 Base Solutions (Macronutrients)
 
 | Component | Function | Typical Concentration | Caloric Yield | Notes |
-|-----------|----------|-----------------------|---------------|-------|
+| ----------- | ---------- | ----------------------- | --------------- | ------- |
 | Dextrose | Carbohydrate | 10%–70% | 3.4 kcal/g | Major energy source |
 | Amino Acids | Protein | 3.5%–15% | 4 kcal/g | Products: Aminosyn, Travasol |
 | Lipid Emulsion | Fat | 10% & 20% | 1.1–2 kcal/mL | Optional; not always admixed |
@@ -48,7 +48,7 @@ Parenteral nutrition consists of a **base solution** and a **set of additives**.
 ### 💊 Additives (Micronutrients)
 
 | Type | Examples | Notes |
-|------|----------|-------|
+| ------ | ---------- | ------- |
 | Electrolytes | Na⁺, K⁺, Cl⁻, Mg²⁺, PO₄³⁻, Ca²⁺ | Must monitor serum levels and renal function |
 | Vitamins | MVI (multi-vitamin infusion) | Added daily to support metabolic function |
 | Trace Elements | Zinc, Copper, Chromium, Manganese, Selenium | Typically added as a multi-trace element formulation |
@@ -70,7 +70,7 @@ This example demonstrates how to calculate the **volumes of additives** needed t
 ### 📦 Reference Table
 
 | **Item**              | **Available Concentrations**               |
-|-----------------------|--------------------------------------------|
+| ----------------------- | -------------------------------------------- |
 | Potassium Chloride    | 2 mEq/mL                                   |
 | Sodium Chloride       | 14.6%; 2.5 mEq/mL                          |
 | Calcium Gluconate     | 10%; 4.65 mEq/10 mL                        |
@@ -86,7 +86,7 @@ This example demonstrates how to calculate the **volumes of additives** needed t
 ### 🧱 Base Solution Components
 
 | **Component**           | **Ordered** | **To Add** |
-|-------------------------|-------------|------------|
+| ------------------------- | ------------- | ------------ |
 | Travasol 7.5% w/ lytes  | 500 mL      | 500 mL     |
 | Dextrose 70% (D70W)     | 300 mL      | 300 mL     |
 | Sterile Water for Inj   | 200 mL      | 200 mL     |
@@ -96,7 +96,7 @@ This example demonstrates how to calculate the **volumes of additives** needed t
 ### 💊 Additive Components
 
 | **Additive**            | **Ordered** | **To Add** |
-|-------------------------|-------------|------------|
+| ------------------------- | ------------- | ------------ |
 | Sodium Chloride         | 15 mEq      | 6 mL |
 | Potassium Chloride      | 10 mEq      | 5 mL |
 | Magnesium Sulfate       | 500 mg      | 1 mL |

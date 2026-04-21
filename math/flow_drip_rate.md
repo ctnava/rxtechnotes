@@ -18,7 +18,7 @@ An **IV set** is the tubing used to administer fluids and medications intravenou
 Military time is a **24-hour clock system** used, in **most hospital settings**, to avoid AM/PM confusion.
 
 | Standard Time | Military Time |
-|---------------|----------------|
+| --------------- | ---------------- |
 | 1:00 AM       | 0100           |
 | 7:00 AM       | 0700           |
 | 12:00 PM      | 1200           |
@@ -33,7 +33,7 @@ Military time is a **24-hour clock system** used, in **most hospital settings**,
 
 ![key formulas](./img/flow_drip/key_formulas.PNG)
 <!-- | Task | Formula |
-|------|---------|
+| ------ | --------- |
 | mL/hr (infusion pump) | ${\text{Rate} = \frac{\text{Total Volume (mL)}}{\text{Time (hr)}} }$ |
 | gtt/min (manual IV set) | ${\text{Flow Rate} = \frac{\text{Volume (mL)} \times \text{Drop Factor (gtt/mL)}}{\text{Time (min)}} }$ |
 | Time (hr) | ${\text{Time} = \frac{\text{Total Volume (mL)}}{\text{Rate (mL/hr)}} }$ | -->
@@ -67,7 +67,7 @@ Used for **gravity IV sets**. Requires knowing the **drop factor** (calibration)
 The **drop factor** is the number of drops (gtt) that make up 1 mL of fluid for a given IV set. It determines how fast the fluid drips into the patient when gravity is used.
 
 | Tubing Type | Drop Factor |
-|-------------|-------------|
+| ------------- | ------------- |
 | Macrodrip   | 10, 15, or 20 gtt/mL |
 | Microdrip   | 60 gtt/mL            |
 
@@ -81,7 +81,7 @@ Step-by-step:
 
 ![drip rate example](./img/flow_drip/drip_example.PNG)
 <!-- | Step | Math |
-|------|------|
+| ------ | ------ |
 | 1: Convert time to minutes | ${4\ \text{hr} = 4 \times 60 = 240\ \text{min}}$ |
 | 2: Use formula | ${\text{Flow Rate} = \frac{500\ \text{mL} \times 15\ \text{gtt/mL}}{240\ \text{min}} = \frac{7500}{240} \approx 31.25}$ |
 | 3: Round | ${\text{Flow Rate} = \boxed{31\ \text{gtt/min}}}$ | -->
@@ -113,7 +113,7 @@ Used when the total volume and rate are known. Often needed to project when a ba
 
 ![example 1](./img/flow_drip/ex1.PNG)
 <!-- | Step | Math |
-|------|------|
+| ------ | ------ |
 | 1: Convert 5 g to mcg | ${\text{5 g} = 5,000,000\ \text{mcg}}$ |
 | 2: Determine drug concentration | ${\frac{5,000,000\ \text{mcg}}{500\ \text{mL}} = 10,000\ \text{mcg/mL}}$ |
 | 3: Apply weight-based formula | ${\text{Rate} = \frac{25\ \text{mcg/kg/min} \times 112\ \text{kg} \times 60\ \text{min/hr}}{10,000\ \text{mcg/mL}}}$ |
@@ -125,7 +125,7 @@ Used when the total volume and rate are known. Often needed to project when a ba
 
 ![example 2](./img/flow_drip/ex2.PNG)
 <!-- | Step | Math |
-|------|------|
+| ------ | ------ |
 | 1: Time in minutes | 1 hr = 60 min |
 | 2: Apply formula | $\frac{250\ \text{mL} \times 10\ \text{gtt/mL}}{60\ \text{min}} = \frac{2500}{60} \approx 41.67$ |
 | 3: Round | $\boxed{42\ \text{gtt/min}}$ | -->
@@ -136,7 +136,7 @@ Used when the total volume and rate are known. Often needed to project when a ba
 
 ![example 3](./img/flow_drip/ex3.PNG)
 <!-- | Step | Math |
-|------|------|
+| ------ | ------ |
 | 1: Total infusion time | ${\frac{1000\ \text{mL}}{200\ \text{mL/hr}} = 5\ \text{hr}}$ |
 | 2: Start time | 1400 hrs (Tuesday) |
 | 3: Add 5 hours | 1400 + 5 hr = 1900 hrs |

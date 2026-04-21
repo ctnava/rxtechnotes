@@ -22,7 +22,7 @@ These fundamental concepts are frequently used in both sterile and non-sterile c
 
 ![conversion formulas](./img/temperature_scale/formula_1.PNG)
 <!-- | Conversion | Formula |
-|------------|---------|
+| ------------ | --------- |
 | Fahrenheit (°F) to Celsius (°C) | ${C = \frac{5}{9}(F - 32)}$ |
 | Celsius (°C) to Fahrenheit (°F) | ${F = \frac{9}{5}C + 32}$ | -->
 
@@ -32,20 +32,20 @@ These fundamental concepts are frequently used in both sterile and non-sterile c
 
 ![practice](./img/temperature_scale/practice.PNG)
 <!-- | Example | Math |
-|---------|------|
+| --------- | ------ |
 | Convert 100°F to °C | ${C = \frac{5}{9}(100 - 32) = \frac{5}{9}(68) = 37.8^\circ C}$ |
 | Convert 4°C to °F | ${F = \frac{9}{5}(4) + 32 = 7.2 + 32 = 39.2^\circ F}$ | -->
 
 ✅ **Common Benchmarks to Memorize**
 
 | °C | Description              | °F   |
-|----|--------------------------|------|
+| ---- | -------------------------- | ------ |
 | 0  | Freezing point of water  | 32   |
 | 37 | Human body temperature   | 98.6 |
 | 100| Boiling point of water   | 212  |
 
 | Storage Type           | Temperature Range                   |
-|------------------------|-------------------------------------|
+| ------------------------ | ------------------------------------- |
 | **Freezer** | –25°C to –10°C (–13°F to 14°F) |
 | **Refrigerated** | 2°C to 8°C (36°F to 46°F) |
 | **Controlled Room Temp** | 20°C to 25°C (68°F to 77°F) |
@@ -68,7 +68,7 @@ These fundamental concepts are frequently used in both sterile and non-sterile c
 
 ![estimation formulas](./img/temperature_scale/estimate.PNG)
 <!-- | Conversion | Formula |
-|------------|---------|
+| ------------ | --------- |
 | °F → °C | ${(F - 30) \div 2}$ |
 | °C → °F | ${(C \times 2) + 30}$ | -->
 
@@ -87,7 +87,7 @@ Understanding **density** and **specific gravity (SG)** is essential for pharmac
 - Knowing the **density** or **SG** allows accurate conversions between **g ↔ mL**
 
 | Term | Definition | Units |
-|------|------------|-------|
+| ------ | ------------ | ------- |
 | **Density** | Mass per unit volume. | Commonly expressed as **g/mL** in pharmacy. |
 | **Specific Gravity (SG)** | Ratio of a substance’s density to the density of water. | **No units** (it's a ratio). |
 
@@ -102,7 +102,7 @@ Understanding **density** and **specific gravity (SG)** is essential for pharmac
 ⚓ **Common Liquid Densities and Specific Gravities**
 
 | Substance | Density (g/mL) | Specific Gravity (SG) |
-|-----------|----------------|------------------------|
+| ----------- | ---------------- | ------------------------ |
 | **Water** | 1.00           | 1.00                   |
 | **Ethanol** | 0.79         | 0.79                   |
 | **Glycerin** | 1.26        | 1.26                   |
@@ -113,7 +113,7 @@ Understanding **density** and **specific gravity (SG)** is essential for pharmac
 🧪 **Example: What is the weight in grams of 15 mL of ethanol?**
 
 | Step | Value |
-|------|-------|
+| ------ | ------- |
 | Given volume | 15 mL |
 | Density of ethanol | 0.79 g/mL |
 | Multiply | 15 × 0.79 = 11.85 g |
@@ -121,7 +121,7 @@ Understanding **density** and **specific gravity (SG)** is essential for pharmac
 🧪 **Example: What volume in mL is 5 g of glycerin?**
 
 | Step | Value |
-|------|-------|
+| ------ | ------- |
 | Given mass | 5 g |
 | Density of glycerin | 1.26 g/mL |
 | Divide | 5 ÷ 1.26 ≈ 3.97 mL |

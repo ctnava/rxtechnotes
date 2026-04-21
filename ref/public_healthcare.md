@@ -10,7 +10,7 @@ The ***Social Security Act Amendments (1965)*** created the Medicare and Medicai
 These programs laid the foundation for future pharmacy regulations that affect how medications are dispensed and monitored, especially for public health insurance recipients.
 
 | Part | Nickname | 📝 What It Covers | 💰 Costs | 💊 Notes |
-|------|----------|-------------------|----------|----------|
+| ------ | ---------- | ------------------- | ---------- | ---------- |
 | 🅰️   | Hospital Insurance | Inpatient hospital care, skilled nursing, hospice, home health | Usually "free" if worked 10+ years (payroll taxes) | Deductibles & coinsurance apply |
 | 🅱️   | Medical Insurance  | Doctor visits, outpatient services, preventive care, DME | Monthly premium, deductible,  20% coinsurance after deductible, unless supplemental coverage (e.g., Medigap) applies | Optional; Penalty applies if not enrolled when first eligible and not covered by other creditable drug coverage. |
 | 🅲   | Medicare Advantage | Combines A & B (and usually D), run by private insurers | Varies by plan | May offer dental, vision, hearing, gym |
@@ -23,7 +23,7 @@ These programs laid the foundation for future pharmacy regulations that affect h
 The “donut hole” is a temporary limit on what Medicare Part D will pay for prescription drugs.
 
 | Phase | Description |
-|-------|-------------|
+| ------- | ------------- |
 | ✅ **Deductible Phase** | You pay 100% until your deductible is met (if plan has one).                                                                    |
 | 💸 **Initial Coverage** | You pay a **copay/coinsurance**; plan pays the rest. Ends when total drug costs (you + plan) hit a threshold (e.g., \~\$5,030). |
 | 🍩 **Coverage Gap ("Donut Hole")** | You pay no more than 25% of the cost for brand-name and generic drugs during the gap (discounts are applied due to manufacturer contributions). |

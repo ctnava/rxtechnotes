@@ -85,7 +85,7 @@ Topical analgesics are applied directly to the skin to relieve minor aches and p
 These products are commonly used for short-term relief of localized pain and are for external use only.
 
 | Ingredient | Notes |
-|------------|-------|
+| ------------ | ------- |
 | **Camphor** | Cooling effect; can be toxic if ingested (especially to children) |
 | **Menthol** | Provides a cooling sensation and mild pain relief |
 | **Methyl Nicotinate** | Increases blood flow to area; warming effect |

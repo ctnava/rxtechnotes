@@ -9,7 +9,7 @@ Welcome to *Rx Tech Notes*, a curated study resource for pharmacy technician can
 The following emoji system is used to quickly identify important categories of information. Some symbols may be combined with an `x` to indicate overlapping relevance (e.g., both state and federal law).
 
 | Emoji | Classification |
-|-------|----------------|
+| ------- | ---------------- |
 | 🐻 | California state law |
 | 🦅 | Federal law |
 | 🦅x🐻 | Intersection of federal and California law |
@@ -34,7 +34,7 @@ Structured for both exam prep and on-the-job reference.
 ### 📖 Chapters
 
 | Chapter | Title | Rework Status |
-|---------|-------|---------------|
+| --------- | ------- | --------------- |
 | 1 | [Introduction to Pharmacy](./intro.md) | ✅ Complete |
 | 2 | [Ethics & Compliance](./ethics_compliance.md) | ✅ Complete |
 | 3 | [Pharmacy Personnel, Duties, & Services](./personnel_services.md) | ✅ Complete |

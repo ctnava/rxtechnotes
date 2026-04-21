@@ -15,7 +15,7 @@ A valid DEA number contains **two letters followed by seven digits**:
 e.g. `AB1234563`
 
 | Position | Meaning |
-|----------|---------|
+| ---------- | --------- |
 | **1st letter** | Registrant type (see below) |
 | **2nd letter** | Usually the **first letter of the prescriber’s last name** |
 | **7th digit** | **Check digit**, used for mathematical validation |
@@ -23,7 +23,7 @@ e.g. `AB1234563`
 ### 📁 First Letter: Registrant Type
 
 | Letter  | Registrant Type |
-|---------|-----------------|
+| --------- | ----------------- |
 | A, B, F | Physicians, hospitals, clinics, pharmacies |
 | G       | Department of Defense Contractors |
 | M       | Mid-level practitioners (NPs, PAs, optometrists) |
@@ -40,7 +40,7 @@ To verify the DEA number’s **check digit**, apply this 4-step calculation.
 🔢 Steps:
 
 | Step | Operation | Example |
-|------|-----------|---------|
+| ------ | ----------- | --------- |
 | 1    | Add the 1st, 3rd, and 5th digits | 1 + 3 + 5 = **9** |
 | 2    | Add the 2nd, 4th, and 6th digits, then multiply by 2 | (2 + 4 + 6) × 2 = 12 × 2 = **24** |
 | 3    | Add the results from step 1 and 2 | 9 + 24 = **33** |
@@ -59,7 +59,7 @@ To verify the DEA number’s **check digit**, apply this 4-step calculation.
 DEA number verification can also be conducted using **online resources**, though **only authorized parties** such as pharmacies, law enforcement, and healthcare institutions may access official DEA registrant databases.
 
 | Source | Use |
-|--------|-----|
+| -------- | ----- |
 | ✅ [DEA Diversion Control Division](https://www.deadiversion.usdoj.gov) | Official DEA registrant data |
 | ✅ NABP PMP InterConnect | Indirect verification via multi-state monitoring |
 | ✅ State Medical Boards | Often include DEA registration status |

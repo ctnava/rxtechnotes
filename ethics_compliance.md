@@ -61,7 +61,7 @@ Each state’s **Board of Pharmacy** is responsible for:
 ##### 🩺 Physician Specialists (Prescribers)
 
 | 🆎     | 🧑‍⚕️ Title | 💊 Prescriptive Authority |
-|--------|------------|----------------------------|
+| -------- | ------------ | ---------------------------- |
 | DC     | Doctor of Chiropractic | ⚠️ Limited prescribing (mostly OTC, topical; varies by state) |
 | DDS    | Doctor of Dental Surgery | 🦷 Dental meds, antibiotics, anesthetics, pain relief |
 | DMD    | Doctor of Dental Medicine | 🦷 Equivalent to DDS; same authority |
@@ -80,7 +80,7 @@ Each state’s **Board of Pharmacy** is responsible for:
 ##### 👩‍🔬 Non-Physician Prescribers
 
 | 🆎     | 🧑‍⚕️ Title/Role | 💊 Prescriptive Authority |
-|--------|-----------------|----------------------------|
+| -------- | ----------------- | ---------------------------- |
 | NP     | Nurse Practitioner | ✅ Prescribes meds incl. controlled substances (varies by state) |
 | PA     | Physician Assistant | ✅ Prescribes meds under physician collaboration (state-dependent) |
 | CNM    | Certified Nurse Midwife | 👶 Women’s health, pregnancy, labor-related meds |

@@ -49,7 +49,7 @@ Enter all pharmacy benefit data **exactly as it appears** on the insurance card.
 ✅ **Required Insurance Fields**
 
 | Information | Category | Description |
-|-------------|----------|-------------|
+| ------------- | ---------- | ------------- |
 | **Card Issuer Name/Logo** | Insurer Identifier | Name or logo of the insurance company issuing the card. |
 | **Card Issuer ID** | Insurer Identifier | If Applicable; Unique ID for the insurance company that issued the card. |
 | **Member Name** | Patient Identifier | As Printed on card; Full name of the patient as listed on the insurance card. |
@@ -105,7 +105,7 @@ The correct order of insurance coverage is based on **standard coordination rule
 > 🛡️ Choose the **correct rule** based on the **patient's situation**.
 
 | Rule Type | Use When | Overrides Other Rules? |
-|-----------|----------|------------------------|
+| ----------- | ---------- | ------------------------ |
 | **Subscriber vs. Dependent** | Two private insurances on an adult | Applies only to adults |
 | **Birthday Rule** | Two parents insuring a child, no divorce | Yes, takes precedence over subscriber rule for children |
 | **Divorce Rule** | Child of divorced or separated parents | Yes, overrides the birthday rule |

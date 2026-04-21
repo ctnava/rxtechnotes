@@ -214,7 +214,7 @@ These medications are commonly prescribed maintenance medications for long-term 
 ## 📋 Geriatric Medication Quick Reference Table
 
 | Generic Name        | Brand Name       | Class                              | Indication                              |
-|---------------------|------------------|------------------------------------|------------------------------------------|
+| --------------------- | ------------------ | ------------------------------------ | ------------------------------------------ |
 | Furosemide          | Lasix            | Loop **Diuretic**                  | **Hypertension**, Edema, CHF                 |
 | Losartan            | Cozaar           | ARB                                | **Hypertension**, Diabetic Nephropathy       |
 | Benazepril          | Lotensin         | ACE Inhibitor                      | **Hypertension**                              |

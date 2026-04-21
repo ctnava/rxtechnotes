@@ -34,7 +34,7 @@ The signa (the "sig") can be best described as `instructions for use` is almost 
 Directions for use must be specific as the patient does not know what to do with strange medications. Some dosage forms are more toxic when taken the wrong way (e.g. Sulfanilimide).
 
 | Verb | Route | Dosage Form |
-|-------------|-------|-------|
+| ------------- | ------- | ------- |
 | Take | 👄 Oral | Oral Solid (Tablets & Capsules) or Liquids |
 | Chew | 🦷 Oral | Chewable Tablets & Gum |
 | Place | 👅🩹 Sublingual/Buccal/Topical | Sublingual (under tongue), Buccal (on gums), or Transdermal Patch |
@@ -63,7 +63,7 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 ### 🧭 Route of Administration
 
 | Emoji | Abbreviation | Meaning                | ⚠️ |
-|-------|--------------|------------------------|----|
+| ------- | -------------- | ------------------------ | ---- |
 | 👄    | PO           | By mouth (per os)      |    |
 | 💉    | IV           | Intravenous            |    |
 | 💪    | IM           | Intramuscular          |    |
@@ -89,7 +89,7 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 ### 💊 Dosage Form
 
 | Emoji | Abbreviation | Meaning          | ⚠️ |
-|-------|--------------|------------------|----|
+| ------- | -------------- | ------------------ | ---- |
 | ⚪    | tab, T          | Tablet           |    |
 | ⏳    | EC          | Enteric Coated           |    |
 | 💊    | cap, C          | Capsule          |    |
@@ -107,7 +107,7 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 ### ⏰ Timing & Frequency
 
 | Emoji | Abbreviation | Meaning                    | ⚠️ |
-|-------|--------------|----------------------------|----|
+| ------- | -------------- | ---------------------------- | ---- |
 | 🔁    | QOD          | Every other day            | ⚠️ |
 | 📅    | QD           | Every day                  | ⚠️ (use “daily”) |
 | ⏰    | Q1H          | Every hours                | ⚠️ |
@@ -128,7 +128,7 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 ### 📏 Measurement
 
 | Emoji | Abbreviation | Meaning                | ⚠️ |
-|-------|--------------|------------------------|----|
+| ------- | -------------- | ------------------------ | ---- |
 | ⚖️⚖️  | kg           | Kilograms (2.2 lbs)    |    |
 | ⚖️    | g, G, GM     | Grams                  |    |
 | 💊    | mg           | Milligrams             |    |
@@ -149,7 +149,7 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 ### 👩‍💻 Patient Information
 
 | Emoji | Abbreviation | Meaning                    | ⚠️ |
-|-------|--------------|----------------------------|----|
+| ------- | -------------- | ---------------------------- | ---- |
 | 📝📝  | Tx            | Treatment              |    |
 | 🤮  | Sx            | Symptoms              |    |
 | 📚  | Hx            | History              |    |
@@ -164,7 +164,7 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 ### 🧩 Miscellaneous
 
 | Emoji | Abbreviation | Meaning                    | ⚠️ |
-|-------|--------------|----------------------------|----|
+| ------- | -------------- | ---------------------------- | ---- |
 | 💊📜  | Rx            | Prescription              |    |
 | ⛔    | NR            | No refills                |    |
 | ✍️    | DAW           | Dispense as written       |    |
@@ -187,7 +187,7 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 ### 🧾 PRN or Indications (RxConnect)
 
 | Emoji | Abbreviation | Meaning                 |
-|-------|--------------|-------------------------|
+| ------- | -------------- | ------------------------- |
 | 🤕    | PPA          | For pain                |
 | 😖    | PSP          | For severe pain         |
 | 😰    | PAN          | For anxiety             |
@@ -206,7 +206,7 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 ### 💼 Common Medication-Specific SIG Codes (RxConnect)
 
 | Medication | SIG Instruction |
-|------------|-----------------|
+| ------------ | ----------------- |
 | ADVAIR | Inhale 1 dose by mouth twice daily. Rinse mouth after use. |
 | FLC | To be administered by pharmacist for immunization. |
 | MEDROL | Take 6 tablets on day 1 as directed on package and decrease by 1 tablet daily for a total of 6 days. |
@@ -218,7 +218,7 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 ## 🔣 Common Symbols in Medicine
 
 | Symbol | Meaning              |
-|--------|----------------------|
+| -------- | ---------------------- |
 | #️⃣ / # | Number (e.g., #30 tablets) |
 | ♀️ / ♀ | Female |
 | ♂️ / ♂ | Male |

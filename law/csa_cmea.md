@@ -7,7 +7,7 @@ The ***Controlled Substances Act (CSA, 1970)*** classifies five levels of contro
 > **TRIVIA**: The Anabolic Steroids Control Act of 1990 added anabolic steroids (like testosterone) to Schedule III of the CSA.
 
 | Schedule | Mark | 🧾 Description | 💊 Examples | 🔁 Prescribing Restrictions |
-|----------|------|----------------|-------------|------------------------|
+| ---------- | ------ | ---------------- | ------------- | ------------------------ |
 | 🟥 I      | C-I  | 🚫 No accepted medical use, 🆙 high abuse potential | Heroin, LSD, Ecstasy (MDMA), Cannabis* | ❌ **Not allowed** — Cannot be prescribed |
 | 🟥 II     | C-II | ✅ Accepted medical use, 🆙 high abuse risk, severe dependence | Oxycodone (opioid), Methadone (opioid), Fentanyl (opioid), Adderall (most stimulants) | ⛔ **No refills allowed** — New Rx required each time; prescriptions valid for 30 days; prescriptions valid for 30 days to 6 months |
 | 🟧 III    | C-III| ⚠️ Moderate to low physical/psychological dependence potential | Tylenol with Codeine (opioid combo), Ketamine (anesthetic), Testosterone (anabolic steroid) | 🔁 Up to **5 refills** in **6 months**; prescriptions valid for 6 months |
@@ -81,7 +81,7 @@ It is the pharmacy staff’s responsibility to:
 ### 🩺 Controlled Subtances Commonly Prescribed by Physician Specialists
 
 | 🆎     | 🧑‍⚕️ Title | 💊 Common Controlled Medications |
-|--------|------------|-----------------------------------|
+| -------- | ------------ | ----------------------------------- |
 | DC     | Doctor of Chiropractic |  🚫 None or muscle relaxants (rare, varies by state)  |
 | DDS    | Doctor of Dental Surgery | 💉 Hydrocodone, oxycodone, benzodiazepines |
 | DEM    | Doctor of Emergency Medicine | 💊 Morphine, fentanyl, ketamine, benzodiazepines |
@@ -98,7 +98,7 @@ It is the pharmacy staff’s responsibility to:
 ### 👩‍🔬 Controlled Subtances Commonly Prescribed by Non-Physician Specialists
 
 | 🆎     | 🧑‍⚕️ Title/Role | 💊 Common Controlled Medications |
-|--------|------------------|---------------------------------|
+| -------- | ------------------ | --------------------------------- |
 | NP     | Nurse Practitioner | 💊 Hydrocodone, Adderall, alprazolam |
 | PA     | Physician Assistant | 💊 Oxycodone, clonazepam, lorazepam |
 | CNM    | Certified Nurse Midwife | 💊 Codeine, opioids for labor, benzodiazepines |
@@ -118,7 +118,7 @@ The CMEA was enacted to combat the illegal production of methamphetamine by crea
 - **Phenylpropanolamine**
 
 | Time Period | Maximum Amount | Notes |
-| ------------|----------------|-------|
+| ------------ | ---------------- | ------- |
 | **Per Day**              | **3.6 grams** per purchaser | Applies to **all sources** (combined)    |
 | **30 Days (in-person)**  | **9 grams** per purchaser | Applies to retail pharmacy purchases     |
 | **30 Days (mail-order)** | **7.5 grams** per purchaser | Stricter limit for mobile/online vendors |

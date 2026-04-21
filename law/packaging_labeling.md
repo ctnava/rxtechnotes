@@ -68,7 +68,7 @@ CR packaging is *not required* in the following cases:
 The Drug Listing Act of 1972 mandates that all drug establishments provide a complete list of drugs manufactured, prepared, propagated, compounded, or processed for distribution, and these drugs must have a ***11-digit National Drug Code (NDC)***; a 3-segmented universal identifier.
 
 | Segment | Digits | Description |
-|---------|--------|-------------|
+| --------- | -------- | ------------- |
 | Labeler Code | 5 | Identifies the manufacturer or distributor (FDA-assigned) |
 | Product Code | 4 | Identifies drug, strength, and dosage form (Manufacturer-assigned) |
 | Package Code | 2 | Identifies package size and type (Manufacturer-assigned) |

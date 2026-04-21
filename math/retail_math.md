@@ -7,7 +7,7 @@ Retail pharmacies **purchase products at wholesale prices** and resell them at *
 ### 🔑 Key Definitions
 
 | Term | Definition |
-|------|------------|
+| ------ | ------------ |
 | **Markup** | The amount added to the cost of a product to determine the selling price. |
 | **Acquisition Cost** | What the pharmacy actually pays to obtain a product. |
 | **Selling Price** | The price at which the pharmacy sells the product to the patient. |
@@ -37,7 +37,7 @@ Shelf stickers in the pharmacy display:
 The U&C price is determined by the **pharmacy**, not by manufacturers or insurers, and is based on a combination of the following elements:
 
 | Term | Definition |
-|------|------------|
+| ------ | ------------ |
 | **AWP** | 🦅 Average Wholesale Price. A benchmark price published by commercial compendia. |
 | **Acquisition Cost** | What the pharmacy actually paid to obtain the medication. |
 | **Professional Fee** | A set amount added to cover dispensing, labor, and business costs. |
@@ -63,7 +63,7 @@ Insurance plans and third-party payers often reimburse based on the lowest of:
 Use the following table to determine the **professional fee** based on the AWP:
 
 | **AWP Range**       | **Professional Fee** |
-|---------------------|----------------------|
+| --------------------- | ---------------------- |
 | Less than $20       | $4.00                |
 | $20.01 – $50.00     | $10.00               |
 | More than $50.00    | $15.00               |
@@ -180,7 +180,7 @@ Calculating profits helps determine whether the **pharmacy is losing money** on 
 ### 🔑 Key Definitions (discounts)
 
 | Term | Definition |
-|------|------------|
+| ------ | ------------ |
 | **Acquisition Cost** | The amount the **pharmacy pays** to purchase a drug. |
 | **Selling Price** | The amount the **pharmacy charges** for the prescription. |
 | **Gross Profit** | The difference between **selling price and acquisition cost**. No other costs are considered. |

@@ -19,7 +19,7 @@ Dosage forms consist of:
 - **Inactive Ingredients** (Excipients): Substances included to aid manufacturing, stability, delivery, or absorption.
 
 | Excipient Type | Purpose | Common Dosage Forms |
-|----------------|---------|---------------------|
+| ---------------- | --------- | --------------------- |
 | **Binders** | Hold ingredients together in a cohesive unit | Tablets |
 | **Lubricants** | Prevent sticking to manufacturing equipment | Tablets, Capsules |
 | **Disintegrants** | Promote breakup of the dosage form after intake  | Tablets, Capsules |

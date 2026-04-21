@@ -3,7 +3,7 @@
 Each prescription is assigned a **prescription number**, which stays the same for all refills. The number of authorized refills is written by the prescriber and usually printed on the **prescription label**. If a doctor authorizes multiple refills (often written as ‘Refills: 3’ or ‘Refills: PRN’), they are valid for **up to 1 year** from the date the prescription was written, **except for controlled substances**, which have stricter limits.
 
 | Drug Type | Refill Limit | Validity |
-|-----------|---------------|----------|
+| ----------- | --------------- | ---------- |
 | 🧪 **Non-controlled substances** | As prescribed | Up to 1 year |
 | 💊 **Schedule III–V controlled substances** | Max **5 refills** | Within **6 months** of issue date |
 | 🚫 **Schedule II controlled substances** | **Not refillable** under any circumstance. | New Rx required each time |
