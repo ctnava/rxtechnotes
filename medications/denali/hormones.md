@@ -45,7 +45,7 @@
 | Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
 |------------|--------------|------------------|-------|------------|------------------|
 | Lantus | Insulin glargine | "Lantern light" = long-lasting | **Long-acting** insulin | Diabetes | Lantus = lantern = long-lasting |
-| Levemir | Insulin detemir | "Leave it steady" | **Long-acting** insulin | Diabetes | Levemir = leave insulin here |
+| Aprida | Insulin glulisine | TBA | **Long-acting** insulin | Diabetes | TBA |
 | Humalog | Insulin lispro | "Human logic" = quick mimic | **Rapid-acting** insulin | Diabetes | Huma = human, log = mimic spike |
 | Novolog | Insulin aspart | "New logic" = fast fix | **Rapid-acting** insulin | Diabetes | Novo = new, log = sugar log |
 | Tresiba | Insulin degludec | "Three S’s" = steady, smooth, stable | **Ultra-long-acting** insulin | Diabetes | Tresiba = triple S = ultra control |
