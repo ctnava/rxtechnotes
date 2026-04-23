@@ -177,7 +177,16 @@ If a dose falls between two lines:
 - Never estimate beyond the syringe’s precision  
 - Select a smaller syringe if accuracy is critical (e.g., pediatric doses)
 
-[cover the topic of uncertainty here]
+#### Understanding Uncertainty
+
+Every measurement has an inherent uncertainty equal to **± half of the smallest increment**.
+
+Examples:
+
+- A 3 mL syringe with 0.1 mL increments has an uncertainty of **±0.05 mL**  
+- A 1 mL TB syringe with 0.01 mL increments has an uncertainty of **±0.005 mL**
+
+This is why **smaller syringes are preferred** for precise dosing.
 
 ### 5. Dead Space Considerations
 
@@ -187,3 +196,7 @@ In practice:
 
 - Do **not** adjust for dead space unless required by SOP  
 - Oncology and pediatric compounding may have exceptions
+
+---
+
+[document navigation placeholders]
