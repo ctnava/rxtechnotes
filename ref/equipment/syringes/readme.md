@@ -70,7 +70,7 @@ A needle consists of a **hub**, **shaft**, and **tip**.
 
 Needle **gauge** indicates diameter.
 
-![[Needle Gauge Selection Chart](https://www.vitalitymedical.com/blog/selecting-syringes-and-needles.html)](./NeedleGaugeSelection.png)
+![[Needle Gauge Selection Chart](https://www.vitalitymedical.com/blog/selecting-syringes-and-needles.html)](./needleGaugeSelectionChart.png)
 
 - **18G–22G:** Drawing from vials, reconstitution, viscous solutions  
 - **25G–30G:** Subcutaneous or intramuscular administration  
@@ -87,7 +87,7 @@ Needle **gauge** indicates diameter.
 
 Needle **length** indicates the length of the shaft.
 
-![[Needle Length Selection Chart](https://www.vitalitymedical.com/blog/selecting-syringes-and-needles.html)](./needleLengthSelectionGuide.png)
+![[Needle Length Selection Chart](https://www.vitalitymedical.com/blog/selecting-syringes-and-needles.html)](./needleLengthSelectionChart.png)
 
 - **
 
