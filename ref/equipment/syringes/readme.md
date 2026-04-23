@@ -1,58 +1,92 @@
-# Syringes & Needles
+# Pharmacy Equipment Manual: Syringes & Needles
 
-![[Diagram of Syringe with Parts Labeled](https://www.kmedhealth.com/what-is-a-3-part-syringe/)](./syringe_anatomy.png)
+This guide provides pharmacy technicians with a clear understanding of syringe and needle components, selection criteria, and accurate medication measurement techniques. Mastery of these fundamentals supports safe compounding, reconstitution, and medication.
 
-Most syringes are packaged in two main components:  
+---
 
-1. **Barrel assembly** (the syringe body and plunger)  
-2. **Needle tip attachment** (the needle and hub)  
+## Syringe Overview
 
-## The Barrel Assembly
+Most syringes are packaged in two main components:
 
-The barrel assembly is the main body of the syringe. Syringes are selected based on:  
+- **Needle Tip Attachment**: the needle, hub, and protective cap (left)
+- **Barrel Assembly**: the syringe body, plunger, and stopper (right)
+
+![[Point style 4 needles and luer slip syringe tip](https://chemyx.com/resources/knowledge-base/general-syringe-pump-info/guide-syringe-tip-types/)](./needleNextToSyringe.png)
+
+Syringes are selected based on:
 
 - **Medication volume** required  
-- **Pressure flow needs** (larger syringes reduce pressure)  
-- **Intended use** (injection, irrigation, tubing connection)  
+- **Pressure needs** (larger syringes generate less pressure)  
+- **Intended use** (injection, compounding, irrigation, tubing connection)  
+- **Accuracy requirements** (smaller syringes allow finer measurement)
 
-Syringe volumes are marked in **milliliters (mL)** or **cubic centimeters (cc)**. These are equivalent (1 mL = 1 cc).  
+Common syringe units include **mL**, **cc** (equivalent to mL), and **units (U)** for insulin syringes.
 
-A common example is the **U-100 insulin syringe**, a low-volume, single-use syringe designed for diabetic medications.
+---
 
-![[Diagram of Barrel Assembly](https://www.vitalitymedical.com/blog/selecting-syringes-and-needles.html)](./barrel_assembly.png)
+## Barrel Assembly
 
-**Key parts of the barrel assembly:**  
+The barrel assembly is the main body of the syringe and contains the medication.
 
-- **Needle Hub (Tip):** Connection point for the needle; may be threaded (Luer-lock) or smooth (slip-tip).  
-- **Barrel:** Hollow chamber that holds medication.  
-- **Graduation (or "Volume") Marks:** Measurement scale; accuracy depends on syringe size.  
-- **Rubber Stopper:** Prevents leakage and provides a seal inside the barrel.
-  - **Top Ring:** Aligns with graduation marks for accurate measurement. (may be flat or conical)
-  - **Bottom Ring:** Connects to the plunger.  
-- **Plunger:** Moves the stopper to draw or expel medication; includes a thumb rest.  
-- **Flanges:** Finger rests that provide stability during injection.
+![[Diagram of Barrel Assembly](https://www.vitalitymedical.com/blog/selecting-syringes-and-needles.html)](./barrelAssemblyDiagram.png)
 
-![[Reading with Conical Stoppers](https://www.registerednursern.com/how-to-read-a-syringe/)](./conical.jpg)
+### Key Components
+
+- **Syringe Tip (Needle Hub Connection Point)**  
+  - **Luer-Lock:** Threaded; prevents accidental disconnection. Standard in sterile compounding and hazardous drug preparation.  
+  - **Slip-Tip:** Smooth push‑fit; used for oral syringes or low‑pressure
+- **Barrel**: Clear plastic reservoir with printed *graduation marks*.
+  - **Graduation (or "Volume") Marks**  
+    - The **first printed line** (closest to the tip) represents **zero**.  
+    - The **last printed line** represents the syringe’s **maximum capacity**.  
+    - Accuracy depends on syringe size (smaller syringes = finer increments).
+- **Rubber Stopper:** Creates a seal inside the barrel.  
+  - **Top Ring (Leading Edge):** Used for measurement.  
+  - **Bottom Ring:** Connects to the plunger.
+- **Plunger:** Moves the stopper to draw or expel medication; includes a thumb rest.
+- **Flanges:** Finger rests that provide stability during aspiration or injection.
+
+---
 
 ## Needle Tip Attachments
 
-![[Diagram of Needle Anatomy](https://www.vitalitymedical.com/blog/selecting-syringes-and-needles.html)](./needle.png)
+A needle consists of a **hub**, **shaft**, and **tip**.
 
-Needles consist of a **hub**, **shaft**, and **tip**.  
+![[Diagram of Needle Anatomy](https://www.vitalitymedical.com/blog/selecting-syringes-and-needles.html)](./needleDiagram.png)
+
+### Components
 
 - **Hub:** Connects to the syringe tip.  
-- **Shaft:** Hollow metal tube, available in various lengths (inches).  
-- **Tip:** Usually beveled to reduce puncture resistance.  
-  - **Bevel:** The angled surface at the needle tip. A longer bevel provides a sharper, finer point that reduces pain and tissue damage. Shorter bevels are used for intradermal or specialized injections where control is more important than penetration ease.
-  - **Lumen:** The hollow inner space of the needle shaft through which medication flows. A wider lumen (lower gauge number) allows faster fluid transfer, while a narrower lumen (higher gauge number) slows flow and reduces patient discomfort.
+- **Shaft:** Hollow metal tube; length measured in inches.
+- **Tip / Bevel**  
+  - **Bevel:** Angled surface that creates the needle point.  
+    - Long bevel: sharper, less painful; used for SC/IM injections.  
+    - Short bevel: used for intradermal or controlled‑depth injections.  
+  - **Lumen:** Hollow interior through which medication flows.  
+    - Larger wider lumen = lower gauge number = faster flow.  
+    - Smaller lumen = higher gauge number = less discomfort.
 
-Needle **gauge** indicates diameter. The higher the gauge number, the **thinner** the needle. For example, a 25-gauge needle is thinner than an 18-gauge.  
+### Gauge Selection
 
-Most disposable needles are capped for safety until use.  
+Needle **gauge** indicates diameter.
 
-![[Diagram of Needle Gauges for Injection](https://www.vitalitymedical.com/blog/selecting-syringes-and-needles.html)](./gauges.png)
+![[Needle Gauge Selection Chart](https://www.vitalitymedical.com/blog/selecting-syringes-and-needles.html)](./NeedleGaugeSelection.png)
 
-**Common practice:**  
+- **18G–22G:** Drawing from vials, reconstitution, viscous solutions  
+- **25G–30G:** Subcutaneous or intramuscular administration  
+- **Filter Needles:** Required when withdrawing from **ampules** to prevent glass contamination
 
-- Use a **larger gauge (thicker) needle** to draw medication from a vial.  
-- Switch to a **smaller gauge (thinner) needle** for patient administration to minimize discomfort.  
+![[ISO Color Standard](https://www.vitalitymedical.com/blog/selecting-syringes-and-needles.html)](./isoNeedleColorStandard.png)
+
+### Best Practices
+
+- Use a **larger gauge (thicker)** needle to draw medication.  
+- Switch to a **smaller gauge (thinner)** needle for patient administration.  
+- Never recap needles after use.  
+- Dispose of all needles in an approved sharps container.
+
+---
+
+<!-- ![[Diagram of Syringe with Parts Labeled](https://www.kmedhealth.com/what-is-a-3-part-syringe/)](./syringe_anatomy.png) -->
+
+<!-- ![[Reading with Conical Stoppers](https://www.registerednursern.com/how-to-read-a-syringe/)](./conical.jpg) -->
