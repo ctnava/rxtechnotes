@@ -70,22 +70,36 @@ A needle consists of a **hub**, **shaft**, and **tip**.
 
 Needle **gauge** indicates diameter.
 
-![[Needle Gauge Selection Chart](https://www.vitalitymedical.com/blog/selecting-syringes-and-needles.html)](./NeedleGaugeSelection.png)
+![[Needle Gauge Selection Chart](https://www.vitalitymedical.com/blog/selecting-syringes-and-needles.html)](./needleGaugeSelection.png)
 
 - **18G–22G:** Drawing from vials, reconstitution, viscous solutions  
 - **25G–30G:** Subcutaneous or intramuscular administration  
 - **Filter Needles:** Required when withdrawing from **ampules** to prevent glass contamination
 
-![[ISO Color Standard](https://www.vitalitymedical.com/blog/selecting-syringes-and-needles.html)](./isoNeedleColorStandard.png)
+#### Best Practices
 
-### Best Practices
+![[ISO Color Standard](https://www.vitalitymedical.com/blog/selecting-syringes-and-needles.html)](./isoNeedleColorStandard.png)
 
 - Use a **larger gauge (thicker)** needle to draw medication.  
 - Switch to a **smaller gauge (thinner)** needle for patient administration.  
-- Never recap needles after use.  
-- Dispose of all needles in an approved sharps container.
+
+### Length Selection
+
+Needle **length** indicates the length of the shaft.
+
+![[Needle Length Selection Chart](https://www.vitalitymedical.com/blog/selecting-syringes-and-needles.html)](./needleLengthSelectionGuide.png)
+
+- **
 
 ---
+
+## Safety & Handling
+
+- Always use a **filter needle** when withdrawing from ampules.  
+- Avoid coring by inserting the needle bevel‑up into vial stoppers.  
+- Use Luer‑lock syringes for hazardous drugs or high‑pressure applications.  
+- Follow USP <797>/<800> requirements for sterile and hazardous compounding.  
+- Dispose of all sharps immediately after use. **NEVER RECAP**
 
 <!-- ![[Diagram of Syringe with Parts Labeled](https://www.kmedhealth.com/what-is-a-3-part-syringe/)](./syringe_anatomy.png) -->
 
