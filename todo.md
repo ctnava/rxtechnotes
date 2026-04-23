@@ -78,14 +78,14 @@
 - [x] Math: Chapter 23 - Parenteral Ratios & Proportions
 - [ ] Reading: Chapter 4 - Information Sources
 - [ ] Reading: Chapter 15 - Financial Issues (QUICK)
-- [ ] [Syringes Video](https://www.youtube.com/watch?v=b4Y2qE4ZgvE)
+- [x] [Syringes Video](https://www.youtube.com/watch?v=b4Y2qE4ZgvE)
 - [x] IV Solutions
 
 ## Week 7: Inventory & Medication Histories
 
 - [x] DenaliRx Drugs 81-100
 - [x] Kirby Lester Counting Machine Video
-- [ ] CVS Insurance Training Packet
+- [x] CVS Insurance Training Packet (unnecessary)
 - [ ] Reading: Chapter 14 - Inventory (QUICK)
 - [ ] CE: Medication Reconciliation
 - [x] Math: Chapter 24 - Powder Drugs
