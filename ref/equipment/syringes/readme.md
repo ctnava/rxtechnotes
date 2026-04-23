@@ -66,30 +66,34 @@ A needle consists of a **hub**, **shaft**, and **tip**.
     - Larger wider lumen = lower gauge number = faster flow.  
     - Smaller lumen = higher gauge number = less discomfort.
 
+### Filter Needles
+
+Filter needles are specialized tips with a built-in, membrane filter (typically 5-micron).
+
+![[Filter Needle Example](https://mms.mckesson.com/product/1153370/ICU-Medical-FKA-Smiths-Medical-BN1815F)](./filterNeedle.jpg)
+
+These are required when withdrawing from **ampules** to prevent glass contamination and are also used to catch undissolved medication particles.
+
 ### Gauge Selection
 
-Needle **gauge** indicates diameter.
+**Gauge** indicates shaft diameter.
 
 ![[Needle Gauge Selection Chart](https://www.vitalitymedical.com/blog/selecting-syringes-and-needles.html)](./needleGaugeSelectionChart.png)
 
-- **18G–22G:** Drawing from vials, reconstitution, viscous solutions  
-- **25G–30G:** Subcutaneous or intramuscular administration  
-- **Filter Needles:** Required when withdrawing from **ampules** to prevent glass contamination
-
-#### Best Practices
+- **18G–22G:** Larger gauge for drawing from vials, reconstitution, viscous solutions; thicker
+- **25G–30G:** Smaller gauge for subcutaneous or intramuscular administration; thinner
 
 ![[ISO Color Standard](https://www.vitalitymedical.com/blog/selecting-syringes-and-needles.html)](./isoNeedleColorStandard.png)
 
-- Use a **larger gauge (thicker)** needle to draw medication.  
-- Switch to a **smaller gauge (thinner)** needle for patient administration.  
-
 ### Length Selection
 
-Needle **length** indicates the length of the shaft.
+**Length** indicates insertable shaft length.
 
 ![[Needle Length Selection Chart](https://www.vitalitymedical.com/blog/selecting-syringes-and-needles.html)](./needleLengthSelectionChart.png)
 
-- **
+- **3/8":** Intradermal Injections
+- **5/8":** Subcutaneous Injections
+- **1"-1.5":** Intramuscular Injections
 
 ---
 
