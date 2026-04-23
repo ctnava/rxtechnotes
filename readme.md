@@ -19,7 +19,7 @@ The following emoji system is used to quickly identify important categories of i
 | 🤧 | Known allergens |
 | 💸 | Over-the-Counter (OTC) medications |
 | 🚨 | Clarifying notes or notes on common misconceptions |
-| 📌  | Notes on things that are good to remember |
+| 📌 | Notes on things that are good to remember |
 | 🤯 | Trivial notes & fun facts |
 | 🩺 | Notes about pharmacist involvement |
 | 🛡️ | Best practices |
