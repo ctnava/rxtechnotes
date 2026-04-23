@@ -95,11 +95,11 @@ IV administration delivers drug **directly into the vein**, bypassing all absorp
 
 🧭 **Common IV Access Sites**
 
-| Region    | Access Veins | Clinical Notes |
+| Region | Access Veins | Clinical Notes |
 | ----------- | -------------- | ---------------- |
-| **Hand**  | Dorsal metacarpal veins, dorsal venous arch | Easy to access; small gauge only |
-| **Arm**   | Cephalic, basilic, and median cubital veins | Most common; good for short- and mid-term infusions |
-| **Foot**  | Dorsalis pedis vein | Used when upper extremity access is unavailable; avoid in diabetic patients |
+| **Hand** | Dorsal metacarpal veins, dorsal venous arch | Easy to access; small gauge only |
+| **Arm** | Cephalic, basilic, and median cubital veins | Most common; good for short- and mid-term infusions |
+| **Foot** | Dorsalis pedis vein | Used when upper extremity access is unavailable; avoid in diabetic patients |
 | **Central/Surgical** | Internal jugular, subclavian, femoral | For central lines (PICC, tunneled, or implanted ports); used for long-term, high-osmolarity, or irritant drugs |
 
 > ☣️ Central lines are **high-risk** access points requiring **strict sterile technique** and **skilled insertion**. Central access is often needed for TPN, chemo, or prolonged antibiotic therapy.
@@ -118,10 +118,10 @@ Always document:
 
 **Infusion** refers to the **gradual intravenous (IV) administration** of fluid over a set period. This method ensures steady-state drug levels and is often used for hydration, nutritional support, or continuous drug delivery.
 
-| Type               | Volume           | Common Uses                                     |
-| -------------------- | ------------------ | -------------------------------------------------- |
-| **Large Volume (LVP)**  | 500 mL – 1,000 mL  | Hydration, electrolyte replacement, parenteral nutrition |
-| **Small Volume (SVP)**  | <100 mL           | Drug administration via **IV piggyback** or **IV push**  |
+| Type | Volume | Common Uses |
+| --- | --- | --- |
+| **Large Volume (LVP)** | 500 mL – 1,000 mL | Hydration, electrolyte replacement, parenteral nutrition |
+| **Small Volume (SVP)** | <100 mL | Drug administration via **IV piggyback** or **IV push** |
 
 🛠 **IV Infusion Equipment**
 
@@ -187,8 +187,8 @@ Intramuscular administration involves injecting a drug **deep into the skeletal 
 
 ⚗️ **Acceptable IM Formulations**
 
-| Type         | Notes |
-| -------------- | ------- |
+| Type | Notes |
+| --- | --- |
 | **Aqueous Solutions** | Fastest absorption |
 | **Oleaginous Solutions** | Slower, prolonged release; increased irritation risk |
 | **Suspensions** | Require shaking; slow, sustained release |
@@ -198,23 +198,23 @@ Intramuscular administration involves injecting a drug **deep into the skeletal 
 
 🚨 **Risks & Complications**
 
-| Complication      | Description |
-| ------------------- | ------------- |
-| **Abscess**       | Sterile or infected localized collection of pus |
-| **Cysts**         | Form due to poor technique or poor drug absorption |
-| **Embolism**      | From accidental injection into blood vessel |
-| **Hematoma**      | Accumulation of blood from punctured vessels |
-| **Skin Sloughing**| Necrosis or peeling of skin layers |
-| **Scar Formation**| Repeated trauma to tissue |
+| Complication | Description |
+| --- | --- |
+| **Abscess** | Sterile or infected localized collection of pus |
+| **Cysts** | Form due to poor technique or poor drug absorption |
+| **Embolism** | From accidental injection into blood vessel |
+| **Hematoma** | Accumulation of blood from punctured vessels |
+| **Skin Sloughing** | Necrosis or peeling of skin layers |
+| **Scar Formation** | Repeated trauma to tissue |
 
 🧭 **Common IM Injection Sites**
 
 | Site | Region | Notes |
 | ------ | -------- | ------- |
 | **Gluteus maximus** | Buttocks | Large volume tolerance (up to 5 mL); avoid sciatic nerve |
-| **Deltoid muscle**  | Upper arm | Convenient for small-volume injections (≤ 2 mL); risk of hitting radial nerve if poorly placed |
-| **Vastus lateralis**| Thigh | Preferred in infants and small children; moderate volume (~2 mL) |
-| **Ventrogluteal**   | Hip | Safe site; away from major nerves and blood vessels |
+| **Deltoid muscle** | Upper arm | Convenient for small-volume injections (≤ 2 mL); risk of hitting radial nerve if poorly placed |
+| **Vastus lateralis** | Thigh | Preferred in infants and small children; moderate volume (~2 mL) |
+| **Ventrogluteal** | Hip | Safe site; away from major nerves and blood vessels |
 
 >- 📌 IM sites should be chosen to avoid proximity to **major nerves and blood vessels**.
 >- 📌 Doses >3 mL should be split between two sites unless specifically indicated otherwise.

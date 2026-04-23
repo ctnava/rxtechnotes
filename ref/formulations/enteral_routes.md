@@ -50,14 +50,14 @@ Only dissolved drug molecules can cross gastrointestinal membranes and enter sys
 Common terms include:
 
 | Abbreviation | Meaning              |
-| -------------- | ---------------------- |
-| SR           | Sustained Release     |
-| SA           | Sustained Action      |
-| ER / XR      | Extended Release      |
-| PA           | Prolonged Action      |
-| CR           | Controlled Release    |
-| TR           | Time Release          |
-| LA           | Long Acting           |
+| ------------ | -------------------- |
+| SR           | Sustained Release    |
+| SA           | Sustained Action     |
+| ER / XR      | Extended Release     |
+| PA           | Prolonged Action     |
+| CR           | Controlled Release   |
+| TR           | Time Release         |
+| LA           | Long Acting          |
 
 > 🛡️ **Do NOT crush, split, or chew** modified-release, layered, or coated formulations unless specifically labeled as safe to do so.
 
@@ -142,7 +142,7 @@ Types of oral solutions:
 | Faster absorption | Poor taste may require masking |
 | Suitable for patients unable to swallow solids | Bulky and heavy to store/transport |
 | Easy to adjust doses | May require dosing tools (oral syringes, cups) |
-|  | Some drugs are not soluble in acceptable solvents |
+| | Some drugs are not soluble in acceptable solvents |
 
 #### 🌫️ Suspensions
 
@@ -161,8 +161,8 @@ Types of oral solutions:
 | ------------ | --------------- |
 | Allows administration of **insoluble drugs** | Particles **settle over time** |
 | Chemically **more stable** than in solution | Texture may be gritty or unpleasant |
-| Masks taste |  |
-| Suitable for patients who can't take solids |  |
+| Masks taste | |
+| Suitable for patients who can't take solids | |
 
 #### Colloidal Dispersions
 
