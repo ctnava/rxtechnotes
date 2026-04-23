@@ -2,6 +2,8 @@
 
 This guide provides pharmacy technicians with a clear understanding of syringe and needle components, selection criteria, and accurate medication measurement techniques. Mastery of these fundamentals supports safe compounding, reconstitution, and medication.
 
+Understanding syringe and needle components, selecting the correct equipment, and accurately reading graduation marks are essential skills for safe pharmacy practice. Proper technique ensures medication accuracy, reduces waste, and protects both patients and staff.
+
 ---
 
 ## Syringe Overview
@@ -126,9 +128,20 @@ Syringe barrels are selected based on:
 
 Accurate measurement is essential for safe medication preparation. Syringe markings vary by size, so technicians must understand how to interpret graduation lines and calculate exact volumes.
 
-### 1. Identify the Syringe Size and Increment Pattern
+### 1. Identify the Graduation Lines
 
-Each syringe size has a standard graduation scale:
+Syringe barrels are essentially modified, graduated cylinders and can be read the same way.
+
+![[Graduation Lines](https://www.youtube.com/watch?v=ZnJAjBs8koc)](./graduationLines.jpg)
+
+There exist two types of markings:
+
+- **Major Line Increments:** Prominent, thick, and typically labeled lines used for primary reference
+- **Minor Line Increments:** Thinner, intermediate lines filling the space between major lines to provide higher resolution detail
+
+### 2. Identify the Syringe Size & Increment Pattern
+
+While each syringe size has a standard graduation scale, it's important to understand how to calculate these things on our own.
 
 | Syringe Size | Typical Increment |
 | ------------ | ----------------- |
@@ -138,23 +151,39 @@ Each syringe size has a standard graduation scale:
 | 10 mL        | 0.2–0.5 mL        |
 | 20–60 mL     | 1 mL              |
 
-**Rule:** Use the smallest syringe that can accurately measure the dose.
+![[Counted Graduation Lines](https://knowledge.carolina.com/discipline/physical-science/chemistry/how-to-use-a-graduated-cylinder/)](./countedLines.jpg)
 
-### 2. Use the Correct Part of the Stopper
+- This cylinder has major lines every 5mL and has 10 spaces between each increment.
+- 5mL divided by 10 spaces = 0.5mL per increment
+- ==> each minor graduation is 0.5mL
 
-Always measure using the **top ring (leading edge)** of the rubber stopper.
+### 3. Use the Correct Part of the Stopper
 
-For conical stoppers, the measurement point is the **narrowest edge** of the cone.
+Syringes are different from graduated cylinders because it is an enclosed system. Therefore, the rubber stopper is used to identify the volume within, instead.
 
 ![[Reading with Conical Stoppers](https://www.registerednursern.com/how-to-read-a-syringe/)](./conical.jpg)
 
-### 3. Determine the Value of Each Graduation Line
+Always measure using the **top ring (leading edge)** of the rubber stopper, even if the stopper is conical.
 
-Example (3 mL syringe):
+![[Example Measurement](https://www.theinnercompass.org/taper/using-syringes)](./exampleMeasurement.jpg)
 
-- Major lines = 1 mL  
-- Minor lines = 0.1 mL  
+This syringe contains 1.7mL of liquid.
 
-If the stopper aligns with the third minor line after 1 mL:
+### 4. Measuring Partial Volumes
 
-1.0 mL + (3 × 0.1 mL) = 1.3 mL
+If a dose falls between two lines:
+
+- Round **to the nearest measurable increment**  
+- Never estimate beyond the syringe’s precision  
+- Select a smaller syringe if accuracy is critical (e.g., pediatric doses)
+
+[cover the topic of uncertainty here]
+
+### 5. Dead Space Considerations
+
+Most modern syringes are **low‑dead‑space**, but Luer‑lock syringes & needle tips may retain small residual volumes.
+
+In practice:
+
+- Do **not** adjust for dead space unless required by SOP  
+- Oncology and pediatric compounding may have exceptions
