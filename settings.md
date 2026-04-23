@@ -428,7 +428,7 @@ Hospital pharmacies must coordinate with multiple departments across the facilit
 | ED | Emergency Department | Emergency and trauma services |
 | ER | Emergency Room | Synonym for ED |
 | ICU | Intensive Care Unit | Critical care for unstable patients |
-| CT ICU | Cardiothoracic Intensive Care Unit  | Cardiac and thoracic post-op care |
+| CT ICU | Cardiothoracic Intensive Care Unit | Cardiac and thoracic post-op care |
 | NICU | Neonatal/ Neurological Intensive Care Unit | Critical care for newborns or neurology patients |
 | PICU | Pediatric Intensive Care Unit | Critical care for children |
 | SICU | Surgical Intensive Care Unit | Post-surgical intensive care |
@@ -783,8 +783,8 @@ All personnel working with radioactive materials must wear **dosimetry devices**
 | Device | Placement | Purpose | Frequency |
 | -------- | ----------- | --------- | ----------- |
 | **Ring Badge** | On dominant hand | Monitors extremity exposure | Weekly |
-| **Body Badge** | Shirt collar or chest  | Monitors whole-body exposure | Monthly |
-| **Fetal Badge**| Near abdomen | Required for pregnant personnel | Monthly |
+| **Body Badge** | Shirt collar or chest | Monitors whole-body exposure | Monthly |
+| **Fetal Badge** | Near abdomen | Required for pregnant personnel | Monthly |
 
 > ☣️ Dosimetry results are reviewed regularly to ensure exposure stays below federal and institutional limits.
 
