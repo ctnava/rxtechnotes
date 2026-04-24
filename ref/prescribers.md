@@ -25,7 +25,7 @@ Each type of physician has a general range of medications they typically prescri
 
 ## 👩‍🔬 Non-Physician Prescribers (Varies by State)
 
-Often must be co-signed by the prescriber over the Computerized Physician Order Entry system for inpatient settings.
+A **Collaborative Practice Agreement** (CPA) is a formal, written contract between pharmacists or advanced practice providers (NPs, PAs) and physicians, establishing a legal framework for the provider to manage patient care, including prescribing medications and ordering labs. CPAs improve efficiency by allowing providers to manage chronic conditions within defined protocols, reducing the need for direct, case-by-case authorization from the collaborating physician. Without them, prescriptions must often be co-signed by the physicians via CPOE.
 
 | 🆎 | 🧑‍⚕️ Title/Role | 💊 Prescriptive Authority |
 | --- | --- | --- |
@@ -38,10 +38,6 @@ Often must be co-signed by the prescriber over the Computerized Physician Order 
 | PharmD (RPh) | Pharmacist under protocol | 💊 Vaccines, birth control, naloxone, tobacco cessation (state rules) |
 
 > 🚨 Each state’s **Board of Pharmacy** is responsible for granting limited prescribing rights to certain non-physician healthcare providers (e.g., NPs, PAs, pharmacists). Make sure to check local laws.
-
-## Collaborative Practice Agreements
-
-[todo]
 
 ---
 
