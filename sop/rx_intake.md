@@ -103,11 +103,9 @@ In hospital settings, medication orders require additional fields:
    - Alert pharmacist to any red flags, allergies, or discrepancies.
 3. Only proceed with entry **after pharmacist review and approval**, unless using **automated medication systems** with pre-approved protocols. Verify system scope and tech privileges per facility policy.
 
-## 🕵️‍♀️ Step 2: Detecting Forgery & Tampering
+### Detecting Forgery & Tampering
 
-Technicians are responsible for flagging suspicious prescriptions before processing, especially for controlled substances.
-
-### Common Signs of Forgery
+Technicians are responsible for flagging suspicious prescriptions before processing, especially for controlled substances. Common signs of forgery include:
 
 - **Tampering**: Erasure, overwriting, or altered quantities/directions
 - **Theft**: Use of stolen preprinted prescription pads
@@ -120,19 +118,27 @@ Technicians are responsible for flagging suspicious prescriptions before process
 
 🔗 ([DEA Number Verification](../math/dea_numbers.md))
 
-## ✍️ Step 3: Translating the Signa (Sig)
+### Inpatient Prescriber Authority
+
+In addition to doctors and nurses, pharmacists may also write orders if directly, verbally instructed by a doctor.
+
+- must be co-signed by the prescriber over the computer system
+
+PA, APN, NP, and RPh (if allowed by hospital protocol) can order medications without co-signature
+
+## ✍️ Step 2: Translating the Signa (Sig)
 
 The signa (the "sig") can be best described as `instructions for use` is almost always heavily abbreviated and pharmacy techs are often required to transcribe them for computer entry.
 
 🔗 ([Sig Translation Guide](../ref/sig_translation.md))
 
-## 📱 Step 4: Calculating Days Supply
+## 📱 Step 3: Calculating Days Supply
 
 The Days Supply refers to how long a prescription will last based on the quantity dispensed and the prescribed dosing instructions. This is used by insurers to determine refill eligibility during adjudication.
 
 🔗 ([Days Supply Calculation Guide](../math/days_supply.md))
 
-## 💻 Step 5: Claim Submission & Adjudication
+## 💻 Step 4: Claim Submission & Adjudication
 
 After prescription entry, claims must be submitted accurately to insurance.
 
