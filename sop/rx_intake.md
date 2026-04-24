@@ -190,7 +190,7 @@ A Third-Party Rejection (TPR) occurs when a prescription claim is denied by the 
 | 79 | Refill Too Soon | Confirm last fill date; resubmit later |
 | 25 | Invalid Birth Date | Recheck DOB with patient or insurer |
 | 26 | Invalid Person Code | Confirm relationship to cardholder |
-| 41 | Invalid Cardholder ID | Verify and update insurance information  |
+| 41 | Invalid Cardholder ID | Verify and update insurance information |
 
 > 📌 **Tech Tip**: Always verify **BIN/PCN/ID** against the latest insurance card. Incorrect values will route claims to the wrong PBM, resulting in instant rejections.
 
