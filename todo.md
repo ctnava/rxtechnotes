@@ -1,5 +1,10 @@
 # Topics to Cover
 
+## ACTIVE WIP
+
+./ref/prescribers.md
+./sop/rx_intake.md
+
 ## Todo
 
 - refine [inpatient medication list](./medications/v_inpatient_medications.md)

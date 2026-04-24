@@ -48,4 +48,4 @@ Often must be co-signed by the prescriber over the Computerized Physician Order 
 ## 🗺️🔗 Nav Links
 
 - 🔙🔗 Back to [Ethics & Compliance: State Agencies](../ethics_compliance.md#state-agencies)
-- 🔙🔗 Back to [SOP - Prescription Intake & Order Entry](../sop/rx_intake.md#inpatient-prescriber-authority)
+- 🔙🔗 Back to [SOP - Prescription Intake & Order Entry](../sop/rx_intake.md#detecting-forgery--tampering)

@@ -126,22 +126,12 @@ Technicians are responsible for flagging suspicious prescriptions before process
 - **Theft**: Use of stolen preprinted prescription pads
 - **Mismatch**: Inconsistent handwriting or ink color, unusual instructions
 - **Discretion**: Quantities unusually high for diagnosis
+- **DEA Numbers for Controlled Substances**
+  - ⚠️ Always ensure valid DEA numbers on prescriptions for controlled substances
+  - 🔗 Validation is usually automated, alternatively use a ([manual checksum method](../math/dea_numbers.md))
+- **Inappropriate Scope**: Prescription for medication outside of authority ([🔗 Prescriptive Authority Quick Reference](../ref/prescribers.md))
 - 🐻 **California Law**
   - Lack of CA-required security features (e.g., watermark, checkboxes, thermochromatic ink)
-
-> ⚠️ **Always validate DEA numbers for controlled substances**. Use automated tools or manual checksum methods.
-
-🔗 ([DEA Number Verification](../math/dea_numbers.md))
-
-### Inpatient Prescriber Authority
-
-<!-- TODO improve this section -->
-
-In addition to doctors and nurses, pharmacists may also write orders if directly, verbally instructed by a doctor.
-
-[🔗 Prescriptive Authority Quick Reference](../ref/prescribers.md)
-
-- must be co-signed by the prescriber over the computer system
 
 ## ✍️ Step 2: Translating the Signa (Sig)
 
