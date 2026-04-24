@@ -18,8 +18,8 @@ Hospitals are healthcare institutions that provide medical treatment, surgical s
   - **PCT (Patient Care Technician)**: Assists nursing; often sent to retrieve medications between deliveries.
   - **MSW (Master of Social Work)**: Addresses social, legal, or financial patient issues.
 - **Pharmacy Staff**
-  - **RPh (Registered Pharmacist)**: Reviews orders, dispenses medications, consults on therapy.
-  - **Clinical Pharmacist**: Advanced training; participates in patient care rounds, optimizes therapy & monitoring. May or may not dispense.
+  - **RPh (Registered Pharmacist)**: Reviews orders, dispenses medications, consults on therapy. Can order medications if allowed by hospital protocol.
+  - **Clinical Pharmacist**: Advanced training; participates in patient care rounds, optimizes therapy & monitoring. May or may not dispense. Can order medications if allowed by hospital protocol.
 
 ## 🏥 Hospital Pharmacy Layout
 

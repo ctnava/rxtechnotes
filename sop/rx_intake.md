@@ -14,7 +14,20 @@ New prescriptions may be submitted by:
 
 > 📠 For accuracy and improved record keeping, many pharmacies scan the hard copy of prescriptions into the pharmacy dispensing system on top of filing them.
 
-## ⚠️ Pre-Entry Checklist
+## ⚠️ Step 0: Triage
+
+### Medication Order Identification & Prioritization
+
+<!-- TODO: improve this section -->
+
+There are multiple types of medication order in inpatient settings. However, they should be prioritized in the following way.
+
+- STAT orders: for medications needed right away
+- Admission Orders: initial orders provided when a patient is admitted to the hospital. (includes all or some of the patient's outpatient medications along with medications needed to treat their current illness.)
+- PRN orders: for medications administered on an as-needed basis
+- standing (or scheduled) orders: standard orders for medications administered at scheduled intervals thorughout the day
+
+### Pre-Entry Checklist
 
 Ensure the following are present and updated prior to entering prescriptions:
 
@@ -122,11 +135,13 @@ Technicians are responsible for flagging suspicious prescriptions before process
 
 ### Inpatient Prescriber Authority
 
+<!-- TODO improve this section -->
+
 In addition to doctors and nurses, pharmacists may also write orders if directly, verbally instructed by a doctor.
 
-- must be co-signed by the prescriber over the computer system
+<!-- TODO link table that shows who can and cannot prescribe -->
 
-PA, APN, NP, and RPh (if allowed by hospital protocol) can order medications without co-signature
+- must be co-signed by the prescriber over the computer system
 
 ## ✍️ Step 2: Translating the Signa (Sig)
 
