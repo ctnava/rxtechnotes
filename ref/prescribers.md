@@ -1,31 +1,33 @@
 # Prescriptive Authority Quick Reference
 
-[description of this document]
+A practical guide for pharmacy technicians to quickly identify which healthcare providers can legally prescribe medications. Use this chart to verify unusual or suspicious prescriptions and to understand scope-of-practice boundaries across common provider types.
+
+> 📌 **Always verify state-specific rules.** Prescriptive authority varies widely by state, especially for non‑physician providers.
 
 ## 🩺 Physician Specialists (Prescribers)
 
-Each type of physician has a general range of medications they typically prescribe. Medication orders or prescriptions outside of this may have been forged or tampered with. Consult with the pharmacist if you encounter suspicious prescriptions or orders.
+Physicians (MD/DO) have broad prescriptive authority. Their specialties influence the *types* of medications they commonly prescribe. Prescriptions far outside a provider’s specialty may indicate an error, fraud, or tampering.
 
 | 🆎 | 🧑‍⚕️ Title | 💊 Prescriptive Authority |
 | --- | --- | --- |
-| DC | Doctor of Chiropractic | ⚠️ Limited prescribing (mostly OTC, topical; varies by state) |
-| DDS | Doctor of Dental Surgery | 🦷 Dental meds, antibiotics, anesthetics, pain relief |
-| DMD | Doctor of Dental Medicine | 🦷 Equivalent to DDS; same authority |
-| DEM | Doctor of Emergency Medicine | ✅ Full authority for emergency/acute meds |
-| DO | Doctor of Osteopathic Medicine | ✅ Full authority (includes holistic training) |
-| DPH | Doctor of Public Health | 🚫 Usually non-prescribing (unless MD/DO/PharmD also) |
-| DPM | Doctor of Podiatric Medicine | 🦶 Foot/ankle meds; antifungals, antibiotics, NSAIDs |
-| DTM | Diploma in Tropical Medicine | 🧪 Not a standalone prescriber; usually MD/DO specialization |
-| DVM/DVS | Doctor of Veterinary Medicine/Surgery | 🐾 Full authority for animal prescriptions |
-| MD | Doctor of Medicine | ✅ Full authority |
-| OphD | Doctor of Ophthalmology (MD/DO) | 👁️ Eye-related meds: antiglaucoma, corticosteroids, antibiotics |
-| PharmD | Doctor of Pharmacy | 💉 Limited authority under protocol (e.g., vaccines, contraceptives) |
+| **MD** | Doctor of Medicine | ✅ Full authority |
+| **DO** | Doctor of Osteopathic Medicine | ✅ Full authority (includes holistic training) |
+| **DEM** | Diploma in Emergency Medicine (MD/DO) | ✅ Full authority; focus on acute/emergency meds. *(specialty, not a degree.)* |
+| **OphD** | Doctor of Ophthalmology (MD/DO) | 👁️ Eye meds: antiglaucoma agents, corticosteroids, antibiotics. |
+| **DTM** | Diploma in Tropical Medicine | 🧪 Not a standalone prescriber; indicates MD/DO specialization. |
+| **DC** | Doctor of Chiropractic | ⚠️ Very limited; typically OTC/topicals only (state‑dependent). |
+| **DDS** | Doctor of Dental Surgery | 🦷 Dental-related meds: antibiotics, anesthetics, analgesics. |
+| **DMD** | Doctor of Dental Medicine | 🦷 Same authority as DDS. |
+| **DPH** | Doctor of Public Health | 🚫 Not a prescriber unless also MD/DO/PharmD. |
+| **DPM** | Doctor of Podiatric Medicine | 🦶 Foot/ankle meds: antifungals, antibiotics, NSAIDs, local anesthetics. |
+| **DVM/DVS** | Veterinary Medicine/Surgery | 🐾 Full authority for animal prescriptions only. |
+| **PharmD** | Doctor of Pharmacy | 💉 Limited authority under protocol (vaccines, contraception, naloxone, tobacco cessation; varies HEAVILY by state). |
 
-> 🤯 MDs can be fellows of American Academy of Pediatrics (FAAP), fellows of the American College of Obstetricians & Gynecologists (FACOG), or fellows of the American College of Surgery (FACS)
+> 🤯 MDs may list credentials such as Fellows of American Academy of Pediatrics (**FAAP**), Fellows of the American College of Obstetricians & Gynecologists (**FACOG**), or Fellows of the American College of Surgery (**FACS**). These indicate specialty fellowship, not prescriptive limitations.  
 
-## 👩‍🔬 Non-Physician Prescribers (Varies by State)
+## 👩‍🔬 Non-Physician Prescribers (State‑Dependent)
 
-A **Collaborative Practice Agreement** (CPA) is a formal, written contract between pharmacists or advanced practice providers (NPs, PAs) and physicians, establishing a legal framework for the provider to manage patient care, including prescribing medications and ordering labs. CPAs improve efficiency by allowing providers to manage chronic conditions within defined protocols, reducing the need for direct, case-by-case authorization from the collaborating physician. Without them, prescriptions must often be co-signed by the physicians via CPOE.
+A **Collaborative Practice Agreement (CPA)** is a formal contract allowing pharmacists, NPs, and PAs to manage patient care under defined protocols. Without a CPA, some prescriptions must be co‑signed or entered by a supervising physician via CPOE.
 
 | 🆎 | 🧑‍⚕️ Title/Role | 💊 Prescriptive Authority |
 | --- | --- | --- |
@@ -37,7 +39,7 @@ A **Collaborative Practice Agreement** (CPA) is a formal, written contract betwe
 | CRNA | Certified Registered Nurse Anesthetist | 🛌 Anesthetics & perioperative drugs |
 | PharmD (RPh) | Pharmacist under protocol | 💊 Vaccines, birth control, naloxone, tobacco cessation (state rules) |
 
-> 🚨 Each state’s **Board of Pharmacy** is responsible for granting limited prescribing rights to certain non-physician healthcare providers (e.g., NPs, PAs, pharmacists). Make sure to check local laws.
+> 🚨 Each state’s **Board of Pharmacy** defines prescriptive authority for non-physician healthcare providers.
 
 ---
 
