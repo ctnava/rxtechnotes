@@ -14,6 +14,18 @@ New prescriptions may be submitted by:
 
 > 📠 For accuracy and improved record keeping, many pharmacies scan the hard copy of prescriptions into the pharmacy dispensing system on top of filing them.
 
+## ⚠️ Pre-Entry Checklist
+
+Ensure the following are present and updated prior to entering prescriptions:
+
+- Patient allergies
+- Current medications
+- Insurance changes or eligibility issues
+- Clinical red flags
+- Prescription legibility and security features (for written Rxs)
+
+> ⚠️ **Technicians must not take verbal prescriptions or clarify orders.** Always refer unclear or incomplete orders to the pharmacist.
+
 ## 🗂️ Step 1: Check for Required Elements
 
 Before processing, the pharmacy technician must review prescriptions for completeness and authenticity.
@@ -46,16 +58,6 @@ Before processing, the pharmacy technician must review prescriptions for complet
 > ⚠️ **Controlled Substances must be transmitted electronically** unless exempt (e.g., system outages, veterinarian, terminal illness). Refer to BPC §688 and the 21st Century Cures Act.
 
 ![Visual Prescription](../ref/img/rx_requirements.PNG)
-
-## ⚠️ Pre-Entry Checklist
-
-- Patient allergies
-- Current medications
-- Insurance changes or eligibility issues
-- Clinical red flags
-- Prescription legibility and security features (for written Rxs)
-
-> ⚠️ **Technicians must not take verbal prescriptions or clarify orders.** Always refer unclear or incomplete orders to the pharmacist.
 
 ### 🏥 Inpatient Medication Orders
 
