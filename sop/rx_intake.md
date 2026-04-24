@@ -139,7 +139,7 @@ Technicians are responsible for flagging suspicious prescriptions before process
 
 In addition to doctors and nurses, pharmacists may also write orders if directly, verbally instructed by a doctor.
 
-<!-- TODO link table that shows who can and cannot prescribe -->
+[🔗 Prescriptive Authority Quick Reference](../ref/prescribers.md)
 
 - must be co-signed by the prescriber over the computer system
 
