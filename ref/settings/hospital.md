@@ -202,6 +202,20 @@ Though less common in fully electronic facilities, handwritten communication may
 
 > 🛡️ Pharmacy technicians must check these locations frequently and follow up on any incomplete, unclear, or outdated requests.
 
+```mermaid
+graph TD;
+  A(["`Order written in pt chart`"]);
+  A-->B["`Copy of order removed from chart`"];
+  B-->C["`Order picked up at nursing station by technician or faxed/ tubed to pharmacy`"];
+  C-->D["`Order entered into pharmacy computer system`"];
+  D-->E["`Pharmacist reviews and verifies medication order`"];
+  D--"`Bypass During Emergencies`"-->F;
+  E-->F["`Order filled by technician & checked by pharmacist`"];
+  F-->G(["`Medication is manually delivered or tubed to nursing unit`"]);
+```
+
+> 📌 Verification by pharmacist may be skipped if delay in administration would harm the patient.
+
 ### 📦 Pneumatic Tube Systems
 
 Pneumatic tube systems are used to **rapidly transport medications, lab samples, and documents** between the pharmacy and various departments.
@@ -219,14 +233,14 @@ Pneumatic tube systems are used to **rapidly transport medications, lab samples,
 
 > 📌 Always follow proper **labeling and tracking procedures** when sending items.
 
-### 💻 Computers & Informatics Systems
+### 💻 Informatics Systems
 
 Hospital pharmacies rely on **integrated electronic health records (EHRs)** and **order entry systems** to manage medication processes. Technicians should be proficient with:
 
 - **CPOE (Computerized Provider Order Entry):** Allows prescribers to directly enter orders into the system prior to pharmacist review; prevents errors due to illegible handwriting
-- **Electronic Messaging:** Used by staff to report missing medications, request restocks, or clarify orders
 - **Automated Dispensing Cabinets (ADCs):** Interfaced with the pharmacy system to track inventory and medication use
 - **Medication Administration Records (MARs):** a form that tracks what medications were administered to a patient, when, and by whom
+- **Electronic Messaging:** Used by staff to report missing medications, request restocks, or clarify orders
 
 Hospital IT systems often include:
 

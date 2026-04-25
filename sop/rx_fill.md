@@ -13,11 +13,14 @@
 
 ### 1. 📋 Pre-Fill Preparation
 
+<!-- todo add triage step from rx_intake.md-->
+
 #### 1.1 Prescription Intake
 
 - Verify that the prescription has been:
   - Entered correctly into the dispensing software
   - Reviewed for legibility, completeness, and legal validity
+  - 📌 Intake verification by pharmacist may be skipped if delay in administration would harm the patient (i.e. emergency STAT orders).
 - Print the **prescription pamphlet** containing patient and drug details
 
 > 📌 Whenever the system flags drug interactions or allergy conflicts, alert the pharmacist so that they may make a clinical decision on it.

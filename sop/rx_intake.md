@@ -28,54 +28,95 @@ Ensure the following are present and updated prior to entering prescriptions:
 
 > ⚠️ **Technicians must not take verbal prescriptions or clarify orders.** Always refer unclear or incomplete orders to the pharmacist.
 
-### Medication Order Identification & Prioritization
+## 🏥 Medication Order Identification & Prioritization (Inpatient)
 
-<!-- TODO: improve this section -->
+Medication orders in hospitals vary by urgency and purpose. Prioritize them as follows:
 
-There are multiple types of medication order in inpatient settings. However, they should be prioritized in the following way.
+### 🚑 **STAT Orders**
 
-- 🚑 **STAT orders:** for medications needed right away
-  - 📌 Verification by pharmacist may be skipped if delay in administration would harm the patient.
-  - To save time, techs may be tasked with retrieving information such as weight, allergies, or home medications from the patient, their nurse, or their chart prior to dispensing.
-- 🛑 **Stop Orders:** a command from the prescriber or inpatient facility to invalidate an order to prevent it from being dispensed; 🚨 not a prescription, but still a high priority order
-  - 🤖 **Automatic Stop Orders:** Procedural blocks on medication orders that restrict certain medications; ensure the patient's therapy is continually reassessed and monitored.
-    - **Temporary:** require evaluation and approval by facility services (e.g. Infectious Disease Service required to approve the use of anti-infective agents, especially broad spectrum ones). New medication orders are required to proceed with treatment.
-    - **Permanent:** prevent medicine from being prescribed outside the scope of prescribing authority per facility policy (e.g. chemotherapy being restricted to oncologists).
-- 🎟️ **Admission Orders:** initial orders provided when a patient is admitted to the hospital. (includes all or some of the patient's outpatient medications along with medications needed to treat their current illness.)
-- 😵‍💫 **PRN Orders:** for medications administered on an as-needed basis
-  - 📌 check for a "max dose per day" & target symptom
-- ⏰ **Standing (or Scheduled) Orders:** standard orders for medications administered at scheduled intervals thorughout the day
+For medications needed **immediately**.
+
+- 📌 Pharmacist verification may be bypassed if delay would harm the patient **PER HOSPITAL PROTOCOL**.
+- Technicians may be asked to quickly gather weight, allergies, or home meds.
+
+### 🛑 **Stop Orders**
+
+A command to discontinue an active order.
+
+- 🚨 **Not a prescription**, but high priority.
+- Prevents further dispensing until reviewed.
+
+#### 🤖 Automatic Stop Orders
+
+System‑generated restrictions on specific medications requiring reassessment & situation monitoring
+
+- **Temporary**: Require approval by designated services (e.g., Infectious Disease approval for broad‑spectrum antibiotics)
+  - 🚨 New medication order required to proceed with treatment
+- **Permanent**: Prevent prescribing outside scope (e.g., chemotherapy restricted to oncology)
+
+### 🎟️ **Admission Orders**
+
+Initial orders upon hospital admission.
+
+- Include some or all home meds + new meds for current illness.
+
+### 😵‍💫 **PRN Orders**
+
+“As needed” medications.
+
+- Must include **indication** and **maximum daily dose**.
+
+### ⏰ **Standing (Scheduled) Orders**
+
+Medications administered at fixed intervals.
+
+- Example: “Metoprolol 50 mg PO BID”
+
+<!-- ### ➕ Additional Common Order Types
+
+- **One‑Time Orders**: Single administration only.
+- **Taper Orders**: Gradual dose reduction (e.g., steroid tapers).
+- **Titration Orders**: Dose adjusted based on parameters (e.g., pain scale).
+- **Range Orders**: Dose range allowed; requires pharmacist review for safety. -->
 
 ## 🗂️ Step 1: Check for Required Elements
 
-Before processing, the pharmacy technician must review prescriptions for completeness and authenticity.
+Before processing, verify that the prescription is complete and authentic.
 
 ### ✅ Required Elements for Prescriptions
 
-- **Prescriber Information**
-  - Full name, title, office address, phone number
-  - **Prescriber NPI**: National Provider Identifier (HIPAA-mandated; managed by NPPES)
-  - **DEA Number** *(Controlled Substances Only)*: Valid and required on any controlled drug prescription
-  - 🐻 **California Law**
-    - **Prescriber License Type** *(Controlled Substances Only)*: (e.g., MD, DO, DDS)
-- **Patient Identifiers**
-  - **Required**: Full name and address
-  - **Optional**: Date of birth and weight (especially for pediatrics)
-- **Order Details**
-  - **Date Written**: The date the prescriber issued the prescription (e.g., MM/DD/YYYY)
-    - 🐻 **California Law**: *must be filled within 6 months*
-  - **Inscription** (drug name, strength, dosage form, quantity)
-  - **Signa (Sig)**: Complete instructions for use
-  - **Refill Instructions**: Number of refills permitted
-  - **Product Selection Code (Optional)**: Product selection code to indicate if substitution is allowed; default 0 (generic substitution allowed)
-    - 🔗 [Further Explanation](../ref/product_selection.md)
-    - 🐻 **California Law**: Prescriber must write “Do Not Substitute” in their own handwriting to prohibit substitution (per BPC §4073)
-- **Prescriber Signature**
-  - Must be **manual (wet ink)** for paper prescriptions.
-  - Must be **digitally signed and transmitted through a certified e-prescribing system** for electronic prescriptions.
-    - 🐻 **California Law**: Prescriptions for controlled substances must be issued on a **California Security Prescription Form** if not e-prescribed.
+#### **Prescriber Information**
 
-> ⚠️ **Controlled Substances must be transmitted electronically** unless exempt (e.g., system outages, veterinarian, terminal illness). Refer to BPC §688 and the 21st Century Cures Act.
+- Full name, title, office address, phone number
+- **NPI** (HIPAA-Mandated National Provider Identifier; managed by NPPES)
+- **DEA Number** *(Controlled Substances Only)*: Valid and required on any controlled drug prescription
+  - 🐻 CA: Prescriber license type (e.g., MD, DO, DDS) must appear on controlled substance prescriptions.
+
+#### **Patient Identifiers**
+
+- **Required**: Full name and address  
+- **Optional**: DOB, weight (important for pediatrics)
+
+#### **Order Details**
+
+- **Date Written**  
+  - 🐻 CA: Must be filled within **6 months**
+- **Inscription**: Drug name, strength, dosage form, quantity
+- **Signa (Sig)**: Complete directions for use
+- **Refills**: Number authorized
+- **Product Selection Code** (optional)  
+  - Default = 0 (generic substitution allowed)  
+  - 🐻 CA: “Do Not Substitute” must be handwritten (BPC §4073)
+  - 🔗 [Additional Codes](../ref/product_selection.md)
+
+#### **Prescriber Signature**
+
+- **Paper**: Manual (wet ink)
+- **Electronic**: Digitally signed via certified e‑prescribing system
+- 🐻 CA: Prescriptions for controlled substances must be issued on a **California Security Prescription Form** if not e-prescribed.
+
+> ⚠️ Controlled substances must be transmitted electronically unless exempt (system outage, veterinarian, terminal illness).  
+> Refer to 🐻 BPC §688 and the 🦅 21st Century Cures Act.
 
 ![Visual Prescription](../ref/img/rx_requirements.PNG)
 
