@@ -36,7 +36,7 @@ Structured for both exam prep and on-the-job reference.
 | Chapter | Title | Rework Status |
 | --- | --- | --- |
 | 1 | [Introduction to Pharmacy](./intro.md) | ✅ Complete |
-| 2 | [Career Overview](./ref/technician_career.md) | ✅ Complete |
+| 2 | [Career Overview](./technician_career.md) | ✅ Complete |
 | 3 | [Ethics & Compliance](./ethics_compliance.md) | ✅ Complete |
 | 4 | [Pharmacy Personnel, Duties, & Services](./personnel_services.md) | ✅ Complete |
 | 5 | [Pharmacy Settings](./settings.md) | ✅ Complete |
