@@ -143,4 +143,4 @@ To support public health through vaccine efforts, pharmacies offer immunization 
 
 ## 🗺️🔗 Nav Links
 
-- 🏠 [Home Directory](../readme.md)
+- 🏠 [Home Directory](./readme.md)
