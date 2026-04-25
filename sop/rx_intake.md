@@ -16,17 +16,6 @@ New prescriptions may be submitted by:
 
 ## ⚠️ Step 0: Triage
 
-### Medication Order Identification & Prioritization
-
-<!-- TODO: improve this section -->
-
-There are multiple types of medication order in inpatient settings. However, they should be prioritized in the following way.
-
-- STAT orders: for medications needed right away
-- Admission Orders: initial orders provided when a patient is admitted to the hospital. (includes all or some of the patient's outpatient medications along with medications needed to treat their current illness.)
-- PRN orders: for medications administered on an as-needed basis
-- standing (or scheduled) orders: standard orders for medications administered at scheduled intervals thorughout the day
-
 ### Pre-Entry Checklist
 
 Ensure the following are present and updated prior to entering prescriptions:
@@ -38,6 +27,21 @@ Ensure the following are present and updated prior to entering prescriptions:
 - Prescription legibility and security features (for written Rxs)
 
 > ⚠️ **Technicians must not take verbal prescriptions or clarify orders.** Always refer unclear or incomplete orders to the pharmacist.
+
+### Medication Order Identification & Prioritization
+
+<!-- TODO: improve this section -->
+
+There are multiple types of medication order in inpatient settings. However, they should be prioritized in the following way.
+
+- STAT orders: for medications needed right away
+  - 📌 To save time, you may be tasked with retrieving information such as weight, allergies, or home medications from the patient, their nurse, or their chart prior to dispensing.
+- Admission Orders: initial orders provided when a patient is admitted to the hospital. (includes all or some of the patient's outpatient medications along with medications needed to treat their current illness.)
+- PRN orders: for medications administered on an as-needed basis
+  - 📌 check for a "max dose per day"
+- standing (or scheduled) orders: standard orders for medications administered at scheduled intervals thorughout the day
+
+> 📌 Some medications can be delayed because they are restricted and require approval from specific hospital personnel before they can be dispensed from the pharmacy. (e.g. The need for broad spectrum antibiotics are evaluated by an anti-infectives steward.)
 
 ## 🗂️ Step 1: Check for Required Elements
 
