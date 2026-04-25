@@ -5,6 +5,8 @@ Prescriptions and medication orders are instructions from a licensed medical pra
 - **Medication Order**: A written or transcribed (verbal/telephone) order issued in an **inpatient** setting (e.g., hospital).
 - **Prescription**: A medication order written on a prescription blank to be filled in an **outpatient/ambulatory** setting.
 
+> 📠 For accuracy and improved record keeping, many pharmacies scan the hard copy of prescriptions into the pharmacy dispensing system on top of filing them.
+
 New prescriptions may be submitted by:
 
 - 📝 Handwritten forms (often for controlled substances)  
@@ -12,7 +14,27 @@ New prescriptions may be submitted by:
 - ☎️ Verbal orders (received directly by the pharmacist; entered by technicians after being transcribed into hard copy)  
 - 🧾 E-scripts through HIPAA-compliant Electronic Data Interchange (EDI); must be printed
 
-> 📠 For accuracy and improved record keeping, many pharmacies scan the hard copy of prescriptions into the pharmacy dispensing system on top of filing them.
+> 🔐 Schedule II prescriptions generally require a written or e-prescription, except in emergencies. A verbal or faxed order may be accepted temporarily, but **a written/electronic Rx must follow within 7 days**.
+
+## 🐻 California Requirements for Receiving
+
+### Verbal Orders
+
+- **Non‑Controlled Verbal Orders**: Must be signed by the prescriber within **48 hours** (Title 22, §70747)
+- 🔐 **Schedule II Emergency Verbal Orders**:
+  - Allowed only in **bona fide emergencies**
+  - Follow‑up written & signed prescription must include:
+    - The phrase **“Authorization for Emergency Dispensing”**
+    - The **date** of the oral order
+  - Must be received within **7 days** of oral authorization
+  - Failure to receive requires pharmacist to **notify the DEA**  
+    (21 CFR §1306.11(d); CCR §1745)
+
+### 🔐 Faxed Schedule II Prescriptions (Valid as Original Only If…)
+
+- Patient is in a **Long‑Term Care Facility (LTCF)**
+- Patient is in **hospice** (must be noted on Rx)
+- Prescription is for a **compounded product** for direct administration (e.g., IV infusion)
 
 ## ⚠️ Step 0: Triage
 
@@ -119,34 +141,6 @@ Before processing, verify that the prescription is complete and authentic.
 > Refer to 🐻 BPC §688 and the 🦅 21st Century Cures Act.
 
 ![Visual Prescription](../ref/img/rx_requirements.PNG)
-
-### 🐻 California Requirements for
-<!-- todo check csa_cmea.md -->
-
-#### 🐻 Verbal Orders
-
-- **Non‑Controlled Verbal Orders**: Must be signed by the prescriber within **48 hours** (Title 22, §70747)
-- **Schedule II Emergency Verbal Orders**:
-  - Allowed only in **bona fide emergencies**
-  - Follow‑up written & signed prescription must include:
-    - The phrase **“Authorization for Emergency Dispensing”**
-    - The **date** of the oral order
-  - Must be received within **7 days** of oral authorization
-  - Failure to receive requires pharmacist to **notify the DEA**  
-    (21 CFR §1306.11(d); CCR §1745)
-
-#### 🐻 Faxed Schedule II Prescriptions (Valid as Original Only If…)
-
-- Patient is in a **Long‑Term Care Facility (LTCF)**
-- Patient is in **hospice** (must be noted on Rx)
-- Prescription is for a **compounded product** for direct administration (e.g., IV infusion)
-
-#### 🐻 Partial Fills of Schedule II Drugs
-
-<!-- todo maybe move this to sop/rx_pfl -->
-- Allowed at patient or prescriber request
-- Remaining quantity must be filled within **30 days** of original date  
-  (21 CFR §1306.13)
 
 ### 🏥 Inpatient Medication Orders – Additional Requirements
 

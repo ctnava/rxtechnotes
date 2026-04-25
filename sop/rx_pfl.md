@@ -46,6 +46,10 @@ Partial fills are allowed **only** under specific conditions:
 #### 1. Out-of-Stock Scenario
 
 - Allowed to dispense a partial amount if full quantity is unavailable.
+  - Remaining quantity must be filled within **30 days** of original date
+
+##### Emergency Oral Prescriptions
+
 - **Remainder must be filled within 72 hours** of initial dispensing.
 - If not completed in 72 hours:
   - Pharmacists will **notify the prescriber** and **void the remainder.**
@@ -53,10 +57,10 @@ Partial fills are allowed **only** under specific conditions:
 
 #### 2. Patient or Prescriber Request
 
-Allowed under the Federal **Comprehensive Addiction and Recovery Act (CARA, 2016)** and California State law:
+Partial fills are permitted, **at the request** of the patient or prescriber, under the Federal **Comprehensive Addiction and Recovery Act (CARA, 2016)** and California State law (21 CFR §1306.13):
 
-- Partial fills permitted **at the request** of the patient or prescriber.
-- **Remainder must be filled within 30 days** of the original written date.
+- The initial partial fill **must occur within 30 days of the issue date**.
+- The **remainder must be filled within that same 30-day window**; otherwise, the prescription expires.
 - Applies to:
   - General outpatient prescriptions (if requested)
   - **LTCF (Long-Term Care Facility)** residents
