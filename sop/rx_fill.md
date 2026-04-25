@@ -1,4 +1,4 @@
-# 🛠️ SOP - Filling Prescriptions (Retail)
+# 🛠️ SOP - Filling Prescriptions & Orders
 
 ## 🔑 Objectives
 
