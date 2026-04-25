@@ -35,7 +35,8 @@ Ensure the following are present and updated prior to entering prescriptions:
 There are multiple types of medication order in inpatient settings. However, they should be prioritized in the following way.
 
 - 🚑 **STAT orders:** for medications needed right away
-  - 📌 To save time, you may be tasked with retrieving information such as weight, allergies, or home medications from the patient, their nurse, or their chart prior to dispensing.
+  - 📌 Verification by pharmacist may be skipped if delay in administration would harm the patient.
+  - To save time, techs may be tasked with retrieving information such as weight, allergies, or home medications from the patient, their nurse, or their chart prior to dispensing.
 - 🛑 **Stop Orders:** a command from the prescriber or inpatient facility to invalidate an order to prevent it from being dispensed; 🚨 not a prescription, but still a high priority order
   - 🤖 **Automatic Stop Orders:** Procedural blocks on medication orders that restrict certain medications; ensure the patient's therapy is continually reassessed and monitored.
     - **Temporary:** require evaluation and approval by facility services (e.g. Infectious Disease Service required to approve the use of anti-infective agents, especially broad spectrum ones). New medication orders are required to proceed with treatment.
