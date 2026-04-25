@@ -137,7 +137,7 @@ Prescription counters equipped with:
 
 The **Kirby Lester KL1** is an **automated pill counter** that includes scan verification of NDC and prescription to reduce errors.
 
-![Kirby Lester Diagram](./ref/img/kirby_lester_diagram.jpg)
+![Kirby Lester Diagram](../img/kirby_lester_diagram.jpg)
 
 🌐 [Kirby Lester Operation Guide](https://www.youtube.com/watch?v=2rq3G7BEnjY)
 
