@@ -103,6 +103,8 @@ Additional responsibilities may include:
 - ❌ Act as the final authority on verifying dosage or directions  
 - ❌ Provide patient counseling (this is strictly a pharmacist role)
 
+🔗🔙 Back to [Pharmacy Personnel, Duties, & Services](./personnel_services.md#pharmacy-technicians-pht)
+
 ## 💳 Credentialing
 
 Pharmacy Technicians must be licensed and registered in most states. Licensure allows them to perform pharmacy tasks under pharmacist supervision and ensures adherence to local laws. **Requirements are state-specific**, but commonly include:
@@ -319,5 +321,4 @@ These initiatives can make becoming a pharmacist more accessible for long-term e
 
 ## 🗺️🔗 Nav Links
 
-- 🏠 [Home Directory](../readme.md)
-- 🔙 [Pharmacy Personnel, Duties, & Services](../personnel_services.md#pharmacy-technicians-pht)
+- 🏠 [Home Directory](./readme.md)

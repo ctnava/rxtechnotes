@@ -9,7 +9,7 @@ Welcome to *Rx Tech Notes*, a curated study resource for pharmacy technician can
 The following emoji system is used to quickly identify important categories of information. Some symbols may be combined with an `x` to indicate overlapping relevance (e.g., both state and federal law).
 
 | Emoji | Classification |
-| ------- | ---------------- |
+| --- | --- |
 | 🐻 | California state law |
 | 🦅 | Federal law |
 | 🦅x🐻 | Intersection of federal and California law |
@@ -34,15 +34,16 @@ Structured for both exam prep and on-the-job reference.
 ### 📖 Chapters
 
 | Chapter | Title | Rework Status |
-| --------- | ------- | --------------- |
+| --- | --- | --- |
 | 1 | [Introduction to Pharmacy](./intro.md) | ✅ Complete |
-| 2 | [Ethics & Compliance](./ethics_compliance.md) | ✅ Complete |
-| 3 | [Pharmacy Personnel, Duties, & Services](./personnel_services.md) | ✅ Complete |
-| 4 | [Pharmacy Settings](./settings.md) | ✅ Complete |
-| 5 | [Healthcare Coverage](./healthcare_coverage.md) | 🚧 WIP |
-| 6 | [Drug Discovery, Manufacturing, & Logistics](./discovery_manufacture.md) | 🚧 WIP |
-| 7 | [Pharmacy Inventory Management](./inventory_management.md) | 🚧 WIP |
-| 8 | [Core Pharmacy Operations](./core_operations.md) | ✅ Complete |
+| 2 | [Career Overview](./ref/technician_career.md) | ✅ Complete |
+| 3 | [Ethics & Compliance](./ethics_compliance.md) | ✅ Complete |
+| 4 | [Pharmacy Personnel, Duties, & Services](./personnel_services.md) | ✅ Complete |
+| 5 | [Pharmacy Settings](./settings.md) | ✅ Complete |
+| 6 | [Healthcare Coverage](./healthcare_coverage.md) | 🚧 WIP |
+| 7 | [Drug Discovery, Manufacturing, & Logistics](./discovery_manufacture.md) | 🚧 WIP |
+| 8 | [Pharmacy Inventory Management](./inventory_management.md) | 🚧 WIP |
+| 9 | [Core Pharmacy Operations](./core_operations.md) | ✅ Complete |
 
 - 📁 **Math Tutorials** are located in the [Mathematics Concepts Directory](./math/readme.md) directory.
 - 📁 **Legal Overviews & Breakdowns** are located in the [Federal Law Reference Directory](./law/readme.md) directory.
