@@ -8,8 +8,8 @@ Hospitals are healthcare institutions that provide medical treatment, surgical s
   - **MD (Medical Doctor)**: Diagnoses, treats, and prescribes; writes the majority of medication orders.
   - **DO (Doctor of Osteopathy)**: Similar to MD with emphasis on holistic care.
 - **Nursing Staff**
-  - **NP (Nurse Practitioner)**: provide advanced care & may specialize; can prescribe in most states
-  - **APN (Advanced Practice Nurse)**: Similar to NP; cannot prescribe
+  - **APN (Advanced Practice Nurse)**: provide advanced care & may specialize
+    - **NP (Nurse Practitioner)**: A type of APN that can prescribe in most states
   - **RN (Registered Nurse)**: Administers meds, assists procedures, performs assessments.
   - **LPN (Licensed Practical Nurse)** & **LVN (Licensed Vocational Nurse)**: Provide bedside care under RN supervision; med administration scope varies by state.
 - **Other Healthcare Professionals**
