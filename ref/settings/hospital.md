@@ -226,6 +226,7 @@ Hospital pharmacies rely on **integrated electronic health records (EHRs)** and 
 - **CPOE (Computerized Provider Order Entry):** Allows prescribers to directly enter orders into the system prior to pharmacist review; prevents errors due to illegible handwriting
 - **Electronic Messaging:** Used by staff to report missing medications, request restocks, or clarify orders
 - **Automated Dispensing Cabinets (ADCs):** Interfaced with the pharmacy system to track inventory and medication use
+- **Medication Administration Records (MARs):** a form that tracks what medications were administered to a patient, when, and by whom
 
 Hospital IT systems often include:
 

@@ -78,6 +78,8 @@ Before processing, the pharmacy technician must review prescriptions for complet
 
 ![Visual Prescription](../ref/img/rx_requirements.PNG)
 
+> 📌 Technicians may also screen medication orders for any that seem inappropriate by flagging orders with potential problems.
+
 ### 🏥 Inpatient Medication Orders
 
 ![sample medication order](../ref/img/sample_medication_order.PNG)
