@@ -120,68 +120,77 @@ Before processing, verify that the prescription is complete and authentic.
 
 ![Visual Prescription](../ref/img/rx_requirements.PNG)
 
-> 📌 Technicians may also screen medication orders for any that seem inappropriate by flagging orders with potential problems.
+### 🐻 California Requirements for
+<!-- todo check csa_cmea.md -->
 
-### 🏥 Inpatient Medication Orders
+#### 🐻 Verbal Orders
+
+- **Non‑Controlled Verbal Orders**: Must be signed by the prescriber within **48 hours** (Title 22, §70747)
+- **Schedule II Emergency Verbal Orders**:
+  - Allowed only in **bona fide emergencies**
+  - Follow‑up written & signed prescription must include:
+    - The phrase **“Authorization for Emergency Dispensing”**
+    - The **date** of the oral order
+  - Must be received within **7 days** of oral authorization
+  - Failure to receive requires pharmacist to **notify the DEA**  
+    (21 CFR §1306.11(d); CCR §1745)
+
+#### 🐻 Faxed Schedule II Prescriptions (Valid as Original Only If…)
+
+- Patient is in a **Long‑Term Care Facility (LTCF)**
+- Patient is in **hospice** (must be noted on Rx)
+- Prescription is for a **compounded product** for direct administration (e.g., IV infusion)
+
+#### 🐻 Partial Fills of Schedule II Drugs
+
+<!-- todo maybe move this to sop/rx_pfl -->
+- Allowed at patient or prescriber request
+- Remaining quantity must be filled within **30 days** of original date  
+  (21 CFR §1306.13)
+
+### 🏥 Inpatient Medication Orders – Additional Requirements
 
 ![sample medication order](../ref/img/sample_medication_order.PNG)
 
-In hospital settings, medication orders require additional fields:
+In hospitals, medication orders must also include:
 
-- **Patient Hospital ID** & Room/Bed number
-- **Indication for Use**: Diagnosis or symptom
-- 🐻 **California Law**
-  - **Prescriber Signature**
-    - **Non-Controlled Verbal Orders**: Must be signed by the prescriber within **48 hours** (Title 22, §70747)
-    - **Controlled Substances (CII Emergency)**: See emergency protocol below
+- Patient hospital ID and room/bed number
+- Indication for use (diagnosis or symptom)
 
-> ⚠️ **Schedule II Controlled Substances cannot be ordered verbally**, except in **bona fide emergencies** and **only by a prescriber**. In such cases, a **follow-up prescription** must be:
->
-> - **Written**
-> - **Dated**
-> - **Counter-signed by the prescriber**
->
-> and must include:
->
-> - the ***EXACT*** phrase: **"Authorization for Emergency Dispensing"**
-> - the **date of the oral order**
->
-> This written prescription must be received by the pharmacy **within 7 days** of the oral authorization.
->
-> If the prescriber fails to provide the written prescription within this timeframe, the pharmacist must **notify the DEA** (21 CFR §1306.11(d); CCR §1745).
->
-> 🐻 **Faxed Schedule II Prescriptions**: May serve as the original prescription **only if**:
->
-> - The patient is a resident of a **Long-Term Care Facility (LTCF)**
-> - The prescription is for a **hospice patient** (must be noted on the face of the Rx)
-> - The prescription is for a **compounded product** for direct administration (e.g., IV infusion)
->
-> 🐻 **Partial Fills of Schedule II Drugs**:
->
-> - Permitted if requested by patient or prescriber
-> - The remaining portion must be filled within **30 days** of the original prescription date (21 CFR §1306.13)
+#### 🔍 Verification Process
 
-### Verification Process
+Technicians may also screen medication orders for any that seem inappropriate by flagging orders with potential problems.
 
-1. **Positive ID**: Confirm patient identity using hospital ID and wristband.
-2. **Cross-Reference**: Scan the patient’s EMR for contraindications or duplication.
+1. **Positive ID**: Confirm patient identity (hospital ID, wristband).
+2. **Cross‑Reference**: Review EMR for allergies, duplications, interactions, or contraindications.
    - Alert pharmacist to any red flags, allergies, or discrepancies.
-3. Only proceed with entry **after pharmacist review and approval**, unless using **automated medication systems** with pre-approved protocols. Verify system scope and tech privileges per facility policy.
+3. **Pharmacist Review**:  
+   - Required unless using automated dispensing systems under approved protocols.
+   - Verify technician privileges per facility policy.
 
-### Detecting Forgery & Tampering
+### 🕵️ Detecting Forgery & Tampering
 
-Technicians are responsible for flagging suspicious prescriptions before processing, especially for controlled substances. Common signs of forgery include:
+Technicians are responsible for flagging suspicious prescriptions before processing, especially for controlled substances.
 
-- **Tampering**: Erasure, overwriting, or altered quantities/directions
-- **Theft**: Use of stolen preprinted prescription pads
-- **Mismatch**: Inconsistent handwriting or ink color, unusual instructions
-- **Discretion**: Quantities unusually high for diagnosis
-- **DEA Numbers for Controlled Substances**
+#### Common Signs of Forgery
+
+- **Tampering**: Erasures, overwriting, altered or unusual quantities/directions/ combinations
+- **Theft**: Stolen or mismatched prescription pads
+- **Mismatch**: Inconsistent handwriting or ink color
+- **Inappropriate Scope**: Prescriptions outside prescriber’s scope  
+  - 🔗 See **Prescriptive Authority Quick Reference** (`../ref/prescribers.md`)
+- 🔐 Missing or invalid DEA number
   - ⚠️ Always ensure valid DEA numbers on prescriptions for controlled substances
-  - 🔗 Validation is usually automated, alternatively use a ([manual checksum method](../math/dea_numbers.md))
-- **Inappropriate Scope**: Prescription for medication outside of authority ([🔗 Prescriptive Authority Quick Reference](../ref/prescribers.md))
-- 🐻 **California Law**
-  - Lack of CA-required security features (e.g., watermark, checkboxes, thermochromatic ink)
+  - 🔗 Manual checksum validation method: `../math/dea_numbers.md`
+
+#### 🐻 x 🔐 California Security Features
+
+Required for Written Controlled Rxs:
+
+- Watermark
+- Thermochromic ink
+- Checkboxes for quantity
+- Unique serial number
 
 ## ✍️ Step 2: Translating the Signa (Sig)
 
