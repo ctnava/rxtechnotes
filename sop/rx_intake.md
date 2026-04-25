@@ -16,26 +16,6 @@ New prescriptions may be submitted by:
 
 > 🔐 Schedule II prescriptions generally require a written or e-prescription, except in emergencies. A verbal or faxed order may be accepted temporarily, but **a written/electronic Rx must follow within 7 days**.
 
-## 🐻 California Requirements for Receiving
-
-### Verbal Orders
-
-- **Non‑Controlled Verbal Orders**: Must be signed by the prescriber within **48 hours** (Title 22, §70747)
-- 🔐 **Schedule II Emergency Verbal Orders**:
-  - Allowed only in **bona fide emergencies**
-  - Follow‑up written & signed prescription must include:
-    - The phrase **“Authorization for Emergency Dispensing”**
-    - The **date** of the oral order
-  - Must be received within **7 days** of oral authorization
-  - Failure to receive requires pharmacist to **notify the DEA**  
-    (21 CFR §1306.11(d); CCR §1745)
-
-### 🔐 Faxed Schedule II Prescriptions (Valid as Original Only If…)
-
-- Patient is in a **Long‑Term Care Facility (LTCF)**
-- Patient is in **hospice** (must be noted on Rx)
-- Prescription is for a **compounded product** for direct administration (e.g., IV infusion)
-
 ## ⚠️ Step 0: Triage
 
 ### Pre-Entry Checklist
@@ -342,6 +322,24 @@ Technicians **may**:
 - Notify pharmacists of issues or red flags
 
 > ⚠️ When in doubt, stop and escalate to the pharmacist.
+
+### Verbal Orders
+
+- **Non‑Controlled Verbal Orders**: Must be signed by the prescriber within **48 hours** (Title 22, §70747)
+- 🔐 **Schedule II Emergency Verbal Orders**:
+  - Allowed only in **bona fide emergencies**
+  - Follow‑up written & signed prescription must include:
+    - The phrase **“Authorization for Emergency Dispensing”**
+    - The **date** of the oral order
+  - Must be received within **7 days** of oral authorization
+  - Failure to receive requires pharmacist to **notify the DEA**  
+    (21 CFR §1306.11(d); CCR §1745)
+
+### 🔐 Faxed Schedule II Prescriptions (Valid as Original Only If…)
+
+- Patient is in a **Long‑Term Care Facility (LTCF)**
+- Patient is in **hospice** (must be noted on Rx)
+- Prescription is for a **compounded product** for direct administration (e.g., IV infusion)
 
 ## ✅ Technician Field Readiness Checklist
 
