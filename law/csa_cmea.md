@@ -74,40 +74,10 @@ It is a *triplicate form* (in traditional paper format), though many pharmacies 
 
 It is the pharmacy staff’s responsibility to:
 
-- Verify and log all controlled substance prescriptions
-- Monitor for abuse or diversion
 - Ensure compliance with all state and federal regulations
-
-### 🩺 Controlled Subtances Commonly Prescribed by Physician Specialists
-
-| 🆎     | 🧑‍⚕️ Title | 💊 Common Controlled Medications |
-| -------- | ------------ | ----------------------------------- |
-| DC     | Doctor of Chiropractic |  🚫 None or muscle relaxants (rare, varies by state)  |
-| DDS    | Doctor of Dental Surgery | 💉 Hydrocodone, oxycodone, benzodiazepines |
-| DEM    | Doctor of Emergency Medicine | 💊 Morphine, fentanyl, ketamine, benzodiazepines |
-| DMD    | Doctor of Dental Medicine | 💉 Hydrocodone, oxycodone, local anesthetics |
-| DO     | Doctor of Osteopathic Medicine | 💊 Full scope: opioids, ADHD meds, sedatives |
-| DPH    | Doctor of Public Health | 🚫 None unless dual-licensed |
-| DPM    | Doctor of Podiatric Medicine | 💊 Tramadol, hydrocodone, anxiolytics (if authorized)|
-| DTM    | Diploma in Tropical Medicine | (Depends on medical license) |
-| DVM/DVS| Doctor of Veterinary Medicine/Surgery | 💊 Ketamine, opioids, tranquilizers for animals |
-| MD     | Doctor of Medicine | 💊 Full scope: opioids, benzos, ADHD meds, etc. |
-| OphD   | Doctor of Ophthalmology (MD/DO) | 💊 Tramadol, hydrocodone (post-surgery), benzos |
-| PharmD | Doctor of Pharmacy | 💊 testosterone (some states) |
-
-### 👩‍🔬 Controlled Subtances Commonly Prescribed by Non-Physician Specialists
-
-| 🆎     | 🧑‍⚕️ Title/Role | 💊 Common Controlled Medications |
-| -------- | ------------------ | --------------------------------- |
-| NP     | Nurse Practitioner | 💊 Hydrocodone, Adderall, alprazolam |
-| PA     | Physician Assistant | 💊 Oxycodone, clonazepam, lorazepam |
-| CNM    | Certified Nurse Midwife | 💊 Codeine, opioids for labor, benzodiazepines |
-| CRNA   | Certified Registered Nurse Anesthetist | 💊 Fentanyl, midazolam, ketamine |
-| RN/BSN | Registered Nurse | 🚫 None |
-| LPN/LVN| Licensed Practical/Vocational Nurse | 🚫 None |
-| Psych NP | Psychiatric Nurse Practitioner | 💊 Clonazepam, lorazepam, Adderall, antidepressants |
-| OD     | Doctor of Optometry | 💊 Hydrocodone (post-op), low-dose benzos (rare) |
-| PharmD (RPh) | Pharmacist under protocol | 💊 testosterone |
+- Verify and log all controlled substance prescriptions
+- Monitor for abuse, diversion, or fraud
+  - Prescriptions for medication outside of typical prescribing authority may point be evidence of fraud. See the ([🔗 Prescriptive Authority Quick Reference](../ref/prescribers.md)) for more details.
 
 ## 🧪 Combat Methamphetamine Epidemic Act (CMEA, 2005)
 

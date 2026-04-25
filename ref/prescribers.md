@@ -53,3 +53,4 @@ A **Collaborative Practice Agreement (CPA)** is a formal contract allowing pharm
 
 - 🔙🔗 Back to [Ethics & Compliance: State Agencies](../ethics_compliance.md#state-agencies)
 - 🔙🔗 Back to [SOP - Prescription Intake & Order Entry](../sop/rx_intake.md#detecting-forgery--tampering)
+- 🔙🔗 Back to [DEA Policy: Dispensing & Monitoring Duties](../law/csa_cmea.md#️-dispensing--monitoring-duties)
