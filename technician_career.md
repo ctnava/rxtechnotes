@@ -103,7 +103,7 @@ Additional responsibilities may include:
 - ❌ Act as the final authority on verifying dosage or directions  
 - ❌ Provide patient counseling (this is strictly a pharmacist role)
 
-🔗🔙 Back to [Pharmacy Personnel, Duties, & Services](./personnel_services.md#pharmacy-technicians-pht)
+> 🔗🔙 Back to [Pharmacy Personnel, Duties, & Services](./personnel_services.md#pharmacy-technicians-pht). Do not click if you came here from the table of contents.
 
 ## 💳 Credentialing
 
