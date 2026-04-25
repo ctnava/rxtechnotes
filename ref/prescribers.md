@@ -31,15 +31,21 @@ A **Collaborative Practice Agreement (CPA)** is a formal contract allowing pharm
 
 | 🆎 | 🧑‍⚕️ Title/Role | 💊 Prescriptive Authority |
 | --- | --- | --- |
-| PA | Physician Assistant | ✅ Prescribes meds under physician collaboration (state-dependent) |
-| NP | Nurse Practitioner | ✅ Prescribes meds incl. controlled substances (varies by state) |
-| Psych NP | Psychiatric Nurse Practitioner | 🧠 Prescribes psychiatric drugs and controlled substances (varies) |
-| OD | Doctor of Optometry | 👓 Eye meds; some controlled substances depending on state |
-| CNM | Certified Nurse Midwife | 👶 Women’s health, pregnancy, labor-related meds |
-| CRNA | Certified Registered Nurse Anesthetist | 🛌 Anesthetics & perioperative drugs |
-| PharmD (RPh) | Pharmacist under protocol | 💊 Vaccines, birth control, naloxone, tobacco cessation (state rules) |
+| **PA** | Physician Assistant | ✅ Prescribes under physician collaboration; scope varies by state. |
+| **NP** | Nurse Practitioner | ✅ Independent or supervised prescribing depending on state; may prescribe controls. |
+| **Psych NP** | Psychiatric Nurse Practitioner | 🧠 Psychiatric meds + controlled substances (state‑dependent). |
+| **OD** | Doctor of Optometry | 👓 Eye meds; limited controlled substances in some states. |
+| **CNM** | Certified Nurse Midwife | 👶 Women’s health, prenatal, labor‑related meds. |
+| **CRNA** | Certified Registered Nurse Anesthetist | 🛌 Anesthetics and perioperative drugs. |
+| **PharmD (RPh)** | Pharmacist under protocol | 💊 Vaccines, contraception, naloxone, tobacco cessation; additional authority varies by state. |
 
 > 🚨 Each state’s **Board of Pharmacy** defines prescriptive authority for non-physician healthcare providers.
+
+### Quick Reference Legend
+
+- **Full authority** = May prescribe all legend drugs + controlled substances  
+- **Limited authority** = Restricted to specialty, formulary, or protocol  
+- **No authority** = Cannot prescribe any legend drugs
 
 ---
 
