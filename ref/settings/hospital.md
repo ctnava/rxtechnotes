@@ -196,8 +196,9 @@ Many hospitals use **secure communication platforms** that include:
 Though less common in fully electronic facilities, handwritten communication may still be used in:
 
 - **Ancillary departments** (e.g., radiology, respiratory therapy) for **medication requests**
-- **Physician orders** in settings without full Computerized Physician Order Entry (CPOE)
 - Notes left at the **nurses' station** or in medication rooms
+- **Physician orders** in settings without full Computerized Physician Order Entry (CPOE)
+  - transcribed by unit clerk, pharmacy tech, rph, or nurse
 
 > 🛡️ Pharmacy technicians must check these locations frequently and follow up on any incomplete, unclear, or outdated requests.
 
