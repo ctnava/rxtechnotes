@@ -34,14 +34,16 @@ Ensure the following are present and updated prior to entering prescriptions:
 
 There are multiple types of medication order in inpatient settings. However, they should be prioritized in the following way.
 
-- STAT orders: for medications needed right away
+- 🚑 STAT orders: for medications needed right away
   - 📌 To save time, you may be tasked with retrieving information such as weight, allergies, or home medications from the patient, their nurse, or their chart prior to dispensing.
-- Admission Orders: initial orders provided when a patient is admitted to the hospital. (includes all or some of the patient's outpatient medications along with medications needed to treat their current illness.)
-- PRN orders: for medications administered on an as-needed basis
-  - 📌 check for a "max dose per day"
-- standing (or scheduled) orders: standard orders for medications administered at scheduled intervals thorughout the day
-
-> 📌 Some medications can be delayed because they are restricted and require approval from specific hospital personnel before they can be dispensed from the pharmacy. (e.g. The need for broad spectrum antibiotics are evaluated by an anti-infectives steward.)
+- 🛑 Stop Orders: a command from the prescriber or inpatient facility to invalidate an order to prevent it from being dispensed; 🚨 not a prescription, but still a high priority order
+  - 🤖 Automatic Stop Orders: Procedural blocks on medication orders that restrict certain medications; ensure the patient's therapy is continually reassessed and monitored.
+    - Temporary: require evaluation and approval by facility services (e.g. Infectious Disease Service required to approve the use of anti-infective agents, especially broad spectrum ones). New medication orders are required to proceed with treatment.
+    - Permanent: prevent medicine from being prescribed outside the scope of prescribing authority per facility policy (e.g. chemotherapy being restricted to oncologists).
+- 🎟️ Admission Orders: initial orders provided when a patient is admitted to the hospital. (includes all or some of the patient's outpatient medications along with medications needed to treat their current illness.)
+- 😵‍💫 PRN orders: for medications administered on an as-needed basis
+  - 📌 check for a "max dose per day" & target symptom
+- ⏰ standing (or scheduled) orders: standard orders for medications administered at scheduled intervals thorughout the day
 
 ## 🗂️ Step 1: Check for Required Elements
 
