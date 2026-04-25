@@ -2,7 +2,6 @@
 
 ## ACTIVE WIP
 
-./ref/prescribers.md
 ./sop/rx_intake.md
 
 ## Todo
