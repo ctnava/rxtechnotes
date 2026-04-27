@@ -202,6 +202,8 @@ Proper storage of medications ensures **potency, safety, and compliance** with f
 
 ### 🌡️ USP Storage Temperature Guidelines
 
+It is imperative that the technician identify items that require refrigeration or freezing so that medications retain their stability
+
 | Storage Type | Temperature Range |
 | --- | --- |
 | **Freezer** | –25°C to –10°C (–13°F to 14°F) |
