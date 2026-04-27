@@ -192,6 +192,8 @@ During these rounds, technicians may:
 - deliver prepared medications
 - pick up medication returns and credit them to a patient
 
+> 🔐 Receipt of controlled substances must be witnessed by someone on the nursing unit
+
 #### Missing Doses
 
 Missing Doses are medications that should have already been delivered to the nursing unit, but cannot be located.

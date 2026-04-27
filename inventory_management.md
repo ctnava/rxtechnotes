@@ -47,6 +47,7 @@ Pharmacy technicians help ensure the pharmacy is well-stocked without over-order
 - **Low-demand items** do not require large quantities and may be special ordered when needed
 - Many pharmacies use **automated inventory systems**, but technicians may manually place orders for out-of-stock or special items
 - Communicate **shortages or backorders** to the pharmacist or supervisor
+  - [FDA Database of Drug Shortages](https://www.fda.gov/drugs/drug-safety-and-availability/drug-shortages)
 
 > - 🛡️ Always report shortages to PIC or coordinator
 > - 🔄 Restocking should be proactive—anticipate needs based on trends and upcoming holidays or flu season.
@@ -132,7 +133,16 @@ There are 3 main types of supplier: drug manufacturers, specialty pharmacies, an
 
 Wholesalers create regional and national distribution networks, storing bulk purchases in strategically placed warehouses to enable 24–48 hour delivery. They also drop ship lower-volume, high-cost medications on an as-needed basis.
 
-### 🖐 Receiving
+### Inpatient Provisioning Practices
+
+- **Shortages:** Technicians may have to obtain product from outside their usual distributors and purchase from:
+  - a secondary distributor
+  - directly from manufacturer
+  - or a group purchasing organization
+  - **otherwise,** the pharmacist may seek non-formulary alternatives  that will be unrestricted until the formulary product is available
+- **Emergency Drug Procurement:** technicians may call other local hospitals to borrow a short-term supply or be asked to order an emergency shipment from wholesalers or manufacturers
+
+## 🖐 Receiving
 
 When receiving a shipment, **verify contents immediately and accurately** against the **Purchase Order (PO)** and invoice to ensure the correct items, quantities, and prices have been delivered.
 
@@ -148,11 +158,12 @@ Pharmacy technicians must:
 - ✅ **Enter received stock into the inventory system**, including lot numbers and expiration dates if required.
 - ✅ **Store medications according to manufacturer specifications**, including immediate refrigeration or freezing when required.
 
-#### 🔐 Receiving C-II Subtances
+### 🔐 Receiving C-II Subtances
 
 **Schedule II controlled substances (C-II)** are shipped **separately** from all other medications and must be:
 
 - **Checked in** by authorized personnel only  
+  - Usually with a two-person system to prevent diversion
 - **Signed for** by the pharmacist
 - **Logged** into the perpetual inventory system immediately  
 - **Stored** in a DEA-compliant secured location  
@@ -277,7 +288,7 @@ Pharmacy technicians must:
   - Destruction must be documented using `DEA Form 41`
   - Reverse Distribution of Schedule II medication must be documented using `DEA Form 222`
   - Return to a reverse distributor must maintain **chain-of-custody**
-  - Disposal on-site (rare) must be **witnessed** and logged per DEA and state board requirements
+  - Disposal on-site (rare) must be **witnessed** by a second person and logged per DEA and state board requirements
 
 > 🛡️ Follow all facility SOPs, manufacturer instructions, and reverse distributor protocols.  
 > 🛡️ Always maintain complete records of returned or destroyed products in case of audit or diversion investigation.
