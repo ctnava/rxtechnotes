@@ -33,9 +33,9 @@
   1. ✅ **Returned-to-stock** vials (oldest first)
   2. ✅ **Opened** stock bottles that are unexpired
   3. ✅ **Unopened** stock bottles closest to expiration
-- Mark newly opened stock containers appropriately (e.g. stickered as "OPENED")
+- Mark newly opened stock containers appropriately (e.g. stickered as "OPENED" or crossed with a marker)
 
-> 📌 Double-check the 11-Digit NDC, strength, and dosage form during selection. Mistakes here cascade forward.
+> 📌 Double-check the 11-Digit NDC (drug name, strength, and dosage form) during selection. Mistakes here cascade forward.
 
 ### 2. 🧪 Verification and Labeling
 
@@ -45,6 +45,7 @@
   - The **prescription pamphlet**
   - The **stock bottle** (2D barcode) or **vial** (1D barcode)
 - Confirm that the scanned item matches the system’s selected 11-Digit NDC
+  - the computer system will alert you if an error has occurred
 
 #### 2.2 Label Printing
 
