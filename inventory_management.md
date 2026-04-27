@@ -216,6 +216,7 @@ Proper storage of medications ensures **potency, safety, and compliance** with f
 - Medications stored outside the central pharmacy, typically on **nursing units** for immediate patient use.
   - Not labeled for specific patients
   - Stored in Automated Dispensing Cabinets
+  - Stocked by pharmacy or central supply
 - Includes **frequently used items**, such as OTC medications, general purpose IV fluids, or emergency medications.
 - Must be **monitored, replenished, and audited regularly**.
 - Controlled substances in floor stock require **additional tracking and documentation** per DEA and institutional policies (🦅x🔐).
