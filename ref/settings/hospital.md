@@ -242,6 +242,15 @@ Hospital pharmacies rely on **integrated electronic health records (EHRs)** and 
 - **Medication Administration Records (MARs):** a form that tracks what medications were administered to a patient, when, and by whom
 - **Electronic Messaging:** Used by staff to report missing medications, request restocks, or clarify orders
 
+```mermaid
+graph TD;
+  A(["`Medication Order sent to pharmacy via CPOE`"]);
+  A-->B["`Pharmacist Reviews & Verifies Order`"];
+  A--"`Bypass During Emergencies`"-->C;
+  B-->C["`RN retrieves medication from ADC`"];
+  C-->D["`Pharmacy technician restocks ADC as needed`"];
+```
+
 Hospital IT systems often include:
 
 - Patient medication history
