@@ -155,15 +155,17 @@ Prepackaged items such as **unit doses** or **dry suspensions** must typically b
 
 ### 4. 🧑‍⚕️ Final Review & Documentation
 
-#### 4.1 Pharmacist Verification
+#### 4.1 Product Verification
 
 - Place prepared prescription and pamphlet in the **verification queue**
-- Pharmacist verifies the final product & paperwork:
+- **Typically, pharmacists** verify the final product & paperwork:
   - original prescription
   - No potential interactions or contraindications on patient profile
   - Product matches the label and 11-Digit NDC
   - Proper quantity and packaging
   - Clarity and correctness of directions
+- **Tech-Check-Tech:** At least 9 states allow specially trained pharmacy technicians to check medication prepared by another technician **in a hospital setting**
+  - Each state has specific training and auditing requirements
 
 #### 4.2 REMS Compliance
 
