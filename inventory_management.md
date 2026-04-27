@@ -205,12 +205,12 @@ Proper storage of medications ensures **potency, safety, and compliance** with f
 
 It is imperative that the technician identify items that require refrigeration or freezing so that medications retain their stability
 
-| Storage Type | Temperature Range |
-| --- | --- |
-| **Freezer** | –25°C to –10°C (–13°F to 14°F) |
-| **Refrigerated** | 2°C to 8°C (36°F to 46°F) |
-| **Controlled Room Temp** | 20°C to 25°C (68°F to 77°F) |
-| **Excessive Heat** | > 40°C (> 104°F) |
+| Storage Type | Temperature Range | Examples |
+| --- | --- | --- |
+| **Freezer** | –25°C to –10°C (–13°F to 14°F) | MMR + Varicella Vaccine (ProQuad), Varicella/ Chickenpox Vaccine (Varivax), Zoster/ Shingles Vaccine (Zostavax) |
+| **Refrigerated** | 2°C to 8°C (36°F to 46°F) | Caspofungin (Cancidas), Epoetin Alfa (Epogen, Procrit), Filgrastim (Neupogen), Fosphenytoin (Cerebyx), Tobramyxin for Oral Inhalation (Tobi), Most Vaccines |
+| **Controlled Room Temp** | 20°C to 25°C (68°F to 77°F) | Most Medications |
+| **Excessive Heat** | > 40°C (> 104°F) | No Medications |
 
 > 📌 *Temperatures must be checked and logged **daily**. Any out-of-range readings should be reported to the pharmacist-in-charge immediately and documented according to facility SOP.*
 
