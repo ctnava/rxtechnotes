@@ -251,6 +251,8 @@ graph TD;
   C-->D["`Pharmacy technician restocks ADC as needed`"];
 ```
 
+> Medication may be manually delivered or tubed to the nursing station if there isn't an ADC.
+
 Hospital IT systems often include:
 
 - Patient medication history
