@@ -214,6 +214,8 @@ Proper storage of medications ensures **potency, safety, and compliance** with f
 ### 🏥 Floor Stock (Hospitals)
 
 - Medications stored outside the central pharmacy, typically on **nursing units** for immediate patient use.
+  - Not labeled for specific patients
+  - Stored in Automated Dispensing Cabinets
 - Includes **frequently used items**, such as PRN pain relievers, antacids, or emergency medications.
 - Must be **monitored, replenished, and audited regularly**.
 - Controlled substances in floor stock require **additional tracking and documentation** per DEA and institutional policies (🦅x🔐).
