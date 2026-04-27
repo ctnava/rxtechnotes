@@ -195,6 +195,7 @@ Proper storage of medications ensures **potency, safety, and compliance** with f
 - **Fast Mover Shelf**: Roughly 20% of medications account for 80% of dispensing volume. These high-demand items are kept on a dedicated shelf for **quick access**. Always check if new stock belongs here before shelving elsewhere.
 - **Unit of Use Shelf**: Designated for **unit-dose packaging** (single doses) or **unit-of-use packs** (e.g., a 10-day antibiotic course). Keeps bulk items separated from pre-counted or therapy-based packaging.
 - **ALPHA Shelves**: Low-demand inventory (the remaining 80%) is organized **alphabetically** by generic name unless otherwise directed.
+  - 💊 **Inpatient** pharmacies may also further separate these categories into route of administration
 - **Negative Pressure Isolation Room**: Used for storage of **radioactive**, **cytotoxic**, or other **hazardous substances**. These rooms prevent hazardous vapors from escaping into surrounding areas.
 - 🔐 **CII Inventory Safe**: Schedule II medications must be stored in a **secure, locked cabinet or safe**, accessible only by authorized personnel per DEA regulations (🦅x🔐).
 
