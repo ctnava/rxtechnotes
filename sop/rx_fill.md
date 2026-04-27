@@ -87,6 +87,7 @@ Most bulk medications must be counted or measured and **repackaged** from stock 
 
 🔢 **Measuring Liquid Dosage Forms**:
 
+- oral solutions and suspensions must be shaken thoroughly before portioning
 - Use a bottle **larger than the volume to be dispensed**
 - Pour an accurate volume from the stock container  
   - 📌 Slight overfill is acceptable but should not be wasteful
@@ -141,12 +142,12 @@ Prepackaged items such as **unit doses** or **dry suspensions** must typically b
 
 🥤 **For Suspensions**
 
-<!-- - Place labeled bottle into a "Mix" bag -->
+- Delay reconstitution until **pickup**, when possible
+  - 📌 Water shortens the product's shelf life
+  - Place labeled bottle into a "Mix" bag to indicate that it needs to be reconstituted
 - Use the volume of distilled water indicated on the stock bottle
   - Measure using a **graduated cylinder**
   - Pour into the bottle and **shake well**
-- Delay reconstitution until **pickup**, when possible
-  - 📌 Water shortens the product's shelf life
 - Some pharmacies use automated units (e.g. **Fillmaster**) to:
   - Dispense exact water volume
   - Add flavoring if desired

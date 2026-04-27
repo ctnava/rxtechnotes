@@ -78,4 +78,19 @@ Recommended questions:
    - Advised if the patient appears confused or has clinical questions
    - 🩺 Document refusal or completion of counseling
 
-> 📌 **Signatures are rquired** for Medicaid and most third-party insurers or HMO presciptions, along with Schedule V controlled substances, poisons, and certain other prescriptions (depending on state) because they serve as proof that it was dispensed.
+> 📌 **Signatures are required** for Medicaid and most third-party insurers or HMO presciptions, along with Schedule V controlled substances, poisons, and certain other prescriptions (depending on state) because they serve as proof that it was dispensed.
+
+### 5. Medication Handoff
+
+Once complete, the technician hands the medication off to the patient
+
+🥤 **Dry suspensions** must be reconstituted upon pickup
+
+- Use the volume of distilled water indicated on the stock bottle
+  - Measure using a **graduated cylinder**
+  - Pour into the bottle and **shake well**
+- Delay reconstitution until **pickup**, when possible
+  - 📌 Water shortens the product's shelf life
+- Some pharmacies use automated units (e.g. **Fillmaster**) to:
+  - Dispense exact water volume
+  - Add flavoring if desired
