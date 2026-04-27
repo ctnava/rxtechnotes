@@ -151,6 +151,8 @@ Prepackaged items such as **unit doses** or **dry suspensions** must typically b
   - Dispense exact water volume
   - Add flavoring if desired
 
+> For IV medications, provide a final filter for the nursing staff to use upon administration
+
 ### 4. 🧑‍⚕️ Final Review & Documentation
 
 #### 4.1 Pharmacist Verification
