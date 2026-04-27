@@ -158,12 +158,13 @@ Prepackaged items such as **unit doses** or **dry suspensions** must typically b
 #### 4.1 Product Verification
 
 - Place prepared prescription and pamphlet in the **verification queue**
-- **Typically, pharmacists** verify the final product & paperwork:
+- **Pharmacists typically verify** the final product & paperwork:
   - original prescription
   - No potential interactions or contraindications on patient profile
   - Product matches the label and 11-Digit NDC
   - Proper quantity and packaging
   - Clarity and correctness of directions
+- **Telepharmacy:** In some states, a technician may send an image or video of the prepared medication to the pharmacist for remote verification
 - **Tech-Check-Tech:** At least 9 states allow specially trained pharmacy technicians to check medication prepared by another technician **in a hospital setting**
   - Each state has specific training and auditing requirements
 
@@ -175,12 +176,53 @@ Prepackaged items such as **unit doses** or **dry suspensions** must typically b
 
 > 🧾 These materials must be included **every time** the medication is dispensed, including refills.
 
-### 5. ✅ Stage for Pickup
+### 5. ✅ Stage for Pickup or Handoff
 
 - Bag the completed, verified prescription
 - Label the bag with patient information for easy retrieval
 - File alphabetically by **patient last name** on the pickup shelf
 - Return the prescription pamphlet to its proper storage area or filing system per site policy
+
+### 6. 📦 Making Rounds (Inpatient)
+
+Technicians make hourly roundtrips to all nursing stations
+
+During these rounds, technicians may:
+
+- deliver prepared medications
+- pick up medication returns and credit them to a patient
+
+#### Missing Doses
+
+Missing Doses are medications that should have already been delivered to the nursing unit, but cannot be located.
+
+```mermaid
+graph TD;
+  A(["`Missing Dose Reported`"]);
+  B["`Is there a current Medication Order?`"];
+  C["`Did the nurse search the correct area?`"];
+  D["`Was it marked dispensed recently?`"];
+  E["`Is it still at the pharmacy or in transit?`"];
+  F["`Was the patient transferred from a different hospital unit?`"];
+  G["`Is it at the previous unit?`"];
+  Y(["`Reprint & Dispense`"]);
+  Z(["`Dose Located`"])
+  A-->B;
+  B--Yes-->C;
+  B--No-->Z;
+  C--Yes-->D;
+  C--No-->Z;
+  D--Yes-->E;
+  D--No-->F;
+  E--No-->Y;
+  E--Yes-->Z;
+  F--No-->E;
+  F--Yes-->G;
+  G--Yes-->Z;
+  G--No-->Y;
+```
+
+> Make sure to notify the pharmacist that a dose went missing
 
 ## 🛡️ Best Practices
 
