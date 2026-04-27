@@ -64,7 +64,7 @@ Enter all pharmacy benefit data **exactly as it appears** on the insurance card.
 | **RXGROUP** | Billing & Claims | If Listed; Group Plan Identifier (Use **Group Number** if not listed). |
 | **Co-pay Info** | Billing & Claims | If Listed/ More Informative for Patients; Co-payment amounts for different services (e.g., medications). |
 | **Name and Address of Benefit Administrator** | Billing & Claims | Company or agency responsible for managing benefits. |
-| **Pharmacy Help Desk Number** | Billing & Claims  | Contact number for pharmacies to resolve claim issues. |
+| **Pharmacy Help Desk Number** | Billing & Claims | Contact number for pharmacies to resolve claim issues. |
 | **Phone Number for Member Help Desk** | Patient Use Only | Customer service phone number for patient inquiries. |
 
 > ⚠️ Always verify insurance information annually or when the patient reports a change.
