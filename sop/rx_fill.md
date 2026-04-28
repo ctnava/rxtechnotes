@@ -245,6 +245,8 @@ Water shortens the product's shelf life so they must have the following dates:
 - **Reconstitution Date:** When water was added  
 - **Beyond‑Use Date (BUD):** Typically **10–14 days** after reconstitution
 
+---
+
 ## 7. 📦 Making Rounds (Inpatient)
 
 Technicians make hourly roundtrips to all nursing stations
@@ -293,5 +295,5 @@ graph TD;
 - Always verify expiration dates and lot integrity  
 - Never substitute manufacturers without pharmacist approval  
 - Use only **current auxiliary label templates**  
-- If a mismatch or system error is suspected: **STOP** and alert the pharmacist  
 - Document anomalies or overrides thoroughly for audit readiness  
+- If a mismatch or system error is suspected: **STOP** and alert the pharmacist  
