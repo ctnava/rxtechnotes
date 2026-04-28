@@ -6,8 +6,8 @@ The **USP–NF** is an official compendium of drug standards used in the United 
 
 The USP–NF is actually two works combined into one:
 
-| Component  | Description |
-| ------------ | ------------- |
+| Component | Description |
+| --- | --- |
 | **USP (United States Pharmacopeia)** | Standards for **medicines**, **dosage forms**, **drug substances**, **excipients**, and **nutritional supplements**. |
 | **NF (National Formulary)** | Standards for **inactive ingredients** (excipients), such as binders, fillers, preservatives, and flavorings. |
 
@@ -108,8 +108,8 @@ What is a common application of IV compounding for electrolyte replenishment? Mi
 
 IV-F === IV Fluid
 
-| Abbreviation | Full Name  | Composition | Osmolarity (Relative to Blood) | Clinical Use / Indication | Special Considerations |
-| -------------- | ------------ | ------------- | -------------------------------- | -------------------------- | ------------------------ |
+| Abbreviation | Full Name | Composition | Osmolarity (Relative to Blood) | Clinical Use / Indication | Special Considerations |
+| --- | --- | --- | --- | --- | --- |
 | NS | Normal Saline | 0.9% Sodium Chloride in Water | Isotonic | Hydration, fluid resuscitation, compatible with most meds, drug administration, surgical irrigation, commonly used in surgery, trauma, and emergency situations | Can cause hyperchloremic acidosis with large volumes, not ideal for patients with conditions like heart failure due to sodium content |
 | 1/2NS | Half Normal Saline | 0.45% Sodium Chloride in Water | Hypotonic | Maintenance fluids, chronic dehydration, hypertonic dehydration, used for hydration when less sodium is needed | Avoid in head trauma or hyponatremia, not suitable for resuscitation, caution in patietnts with liver disease as it can exacerbate fluid shifts |
 | D5W | 5% Dextrose in Water | 5g Dextrose per 100mL Water | Isotonic* → Hypotonic in body | Treat hypoglycemia, provide calories for patients who cannot eat, Hydration, diluent for certain medications | Avoid in diabetics; becomes hypotonic after metabolism, not a source of electrolytes |
