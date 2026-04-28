@@ -140,19 +140,26 @@ Prepackaged items such as **unit doses** or **dry suspensions** must typically b
   - Prescription label
   - All required auxiliary and warning stickers
 
-🥤 **For Suspensions**
+##### Reconstituting Lyophilized Medication
 
-- Delay reconstitution until **pickup**, when possible
-  - 📌 Water shortens the product's shelf life
-  - Place labeled bottle into a "Mix" bag to indicate that it needs to be reconstituted
-- Use the volume of distilled water indicated on the stock bottle
-  - Measure using a **graduated cylinder**
+🥤 **Dry Suspensions & Solutions** must be reconstituted before the patient receives them
+
+- **Reconstitution:** addition of water or other dileuent to commercially made drug bottles or vials in order to make a solution or suspension from a premade powder form of the drug; may include oral or parenteral products
+  - The stock bottle has printed directions for reconstitution
+  - Use a **graduated cylinder** to measure out the volume of diluent
   - Pour into the bottle and **shake well**
 - Some pharmacies use automated units (e.g. **Fillmaster**) to:
   - Dispense exact water volume
   - Add flavoring if desired
+- 📌 Water shortens the product's shelf life so they must have the following dates:
+  - **Reconstitution Date:** Date the medication was prepared for consumption
+  - **Expiration Date:** Typically 10-14 Days after reconstitution
 
-> For IV medications, provide a final filter for the nursing staff to use upon administration
+> Reconstitution is typically delayed until **pickup**, when possible
+
+#### Parenteral Medications
+
+provide a final filter for the nursing staff to use upon administration
 
 ### 4. 🧑‍⚕️ Final Review & Documentation
 

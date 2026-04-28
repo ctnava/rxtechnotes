@@ -1,96 +1,133 @@
-# 🛠️ SOP - 🔔 Prescription Pickup & Handoff
+# 🛠️ SOP — 🔔 Prescription Pickup & Handoff
 
 ## Purpose
 
-To ensure accurate, legal, and professional handling of prescription pickups at the point of sale.
+Ensure accurate, compliant, and patient‑centered handling of prescription pickups at the point of sale.
 
 ## Scope
 
-Applies to all pharmacy technicians during patient-facing pickup interactions. Pharmacy clerks may assist within permitted duties like:
+Applies to all **pharmacy technicians** during patient‑facing pickup interactions.  
+**Pharmacy clerks** may assist with permitted non‑clinical duties, including:
 
-- Ringing up OTC and Rx items
-- Operating the register or POS
-- Checking IDs for prescription release
+- Ringing up OTC and Rx items  
+- Operating the POS/register  
+- Checking IDs for prescription release (where required)
 
 ## Responsibilities
 
-Pharmacy technicians are responsible for verifying patient identity, ensuring regulatory compliance, offering pharmacist counseling, documenting pickup, and overseeing pharmacy clerks.
+Pharmacy technicians must:
 
-## Procedure
+- Verify patient identity  
+- Ensure compliance with federal and state regulations  
+- Offer pharmacist counseling  
+- Document pickup accurately  
+- Oversee clerk activities related to prescription release
 
-### 1. 📋 Patient Verification & Prescription Retrieval
+---
 
-1. Ask the patient for:
-   - **Last name**
-   - **Date of birth**
-2. Use this information to access the patient’s profile in the pharmacy system.
-3. Retrieve the correct prescription bag from the **alphabetized pickup shelf**.
-4. Confirm:
-   - Patient’s **address** (if on file)
-   - Patient’s **phone number** (if on file)
+## 1. 📋 Patient Verification & Prescription Retrieval  
 
-#### 🔐 Controlled Substances
+1. Request the patient’s:  
+   - **Last name**  
+   - **Date of birth**  
+2. Access the patient profile in the pharmacy system.  
+3. Retrieve the correct prescription bag from the **alphabetized pickup shelf**.  
+4. Confirm secondary identifiers when available:  
+   - **Address**  
+   - **Phone number**
 
-- Request **valid government-issued ID**
-- **Verify** the ID against the prescription record
-- Record ID information as required by:
-  - 🦅 Federal law (e.g. Schedule II dispensing)
-  - 🦅x🐻 Local ordinances or pharmacy policy
-  - 🐻 California law (e.g. CURES reporting)
+### 🔐 Controlled Substances
 
-> 🚨 Do not release controlled substances without proper ID verification.
+- Request **valid government‑issued ID**.  
+- **Verify** the ID matches the patient profile and prescription record.  
+- Record ID details as required by:  
+  - 🦅 Federal law (e.g., Schedule II dispensing)  
+  - 🦅x🐻 State law (e.g., CA CURES reporting)  
+  - Local ordinances or pharmacy policy  
 
-### 2. 💬 Final Clinical Screening
+> 🚨 **Do not release controlled substances without proper ID verification.**
 
-Ask screening questions, especially for:
+---
 
-- New prescriptions
-- Changes in therapy
-- High-alert medications
+## 2. 💬 Final Clinical Screening  
 
-Recommended questions:
+Perform a brief safety check, especially for:
 
-- “Have you started taking any new **vitamins** or **supplements**?”
-- “Do you have any **new allergies**?”
-- “Have you filled prescriptions at **another pharmacy** recently?”
-- “Would you like to receive a **flu shot** or other **vaccination** today?”
+- New prescriptions  
+- Therapy changes  
+- High‑alert medications  
 
-> 🛡️ Document any relevant answers that affect safety or therapy management.
+Recommended screening questions:
 
-### 3. 💵 Copay & Payment Processing
+- “Any new **vitamins**, **supplements**, or OTC medications?”  
+- “Any **new allergies**?”  
+- “Have you filled prescriptions at **another pharmacy** recently?”  
+- “Are you interested in a **flu shot** or other **vaccination** today?”
 
-1. Inform the patient of the **copay** amount.
-2. Use a calculator or POS system as needed.
-3. For **partial fills**:
-   - ⚠️ Do **not** collect the copay until the remainder is dispensed.
-4. Accept payment via approved methods:
-   - Cash
-   - Credit/Debit
-   - Contactless payments (as available)
+> 🛡️ Document any information that may affect therapy, safety, or pharmacist review.
+
+---
+
+## 3. 💵 Copay & Payment Processing  
+
+1. Inform the patient of the **copay**.  
+2. Process payment using the POS system.  
+3. **Partial fills:**  
+   - ⚠️ Do **not** collect copay until the remaining quantity is dispensed.  
+4. Accept approved payment methods:  
+   - Cash  
+   - Credit/debit  
+   - Contactless payments (if available)
+
+---
 
 ### 4. ✍️ Signature Collection & Counseling Offer
 
-1. Ask the patient to sign for pickup on the **signature log** (electronic or physical).
-   - Required for **insurance reimbursement**
-   - Used during **pharmacy audits**
-2. Offer the patient the opportunity to speak with a **pharmacist**:
-   - Required for **new medications**
-   - Advised if the patient appears confused or has clinical questions
-   - 🩺 Document refusal or completion of counseling
+1. Obtain the patient’s signature on the **pickup log** (electronic or physical).  
+   - Required for insurance reimbursement  
+   - Used for audit verification  
+2. Offer pharmacist counseling:  
+   - Mandatory for **new prescriptions**  
+   - Recommended if the patient appears unsure or has clinical questions  
+3. Document:  
+   - Counseling provided  
+   - Counseling refusal  
 
-> 📌 **Signatures are required** for Medicaid and most third-party insurers or HMO presciptions, along with Schedule V controlled substances, poisons, and certain other prescriptions (depending on state) because they serve as proof that it was dispensed.
+> 📌 Signatures are required for Medicaid, most third‑party insurers, controlled substances, poisons, and other state‑specific categories.
 
-### 5. Medication Handoff
+---
 
-Once complete, the technician hands the medication off to the patient
+## 5. 📦 Medication Handoff  
 
-🥤 **Dry suspensions** must be reconstituted upon pickup
+Once verification, screening, and payment are complete, you may hand the medication to the patient.
 
-- Use the volume of distilled water indicated on the stock bottle
-  - Measure using a **graduated cylinder**
-  - Pour into the bottle and **shake well**
-- Delay reconstitution until **pickup**, when possible
-  - 📌 Water shortens the product's shelf life
-- Some pharmacies use automated units (e.g. **Fillmaster**) to:
-  - Dispense exact water volume
-  - Add flavoring if desired
+### Ancillary Supplies
+
+Ensure all ancillary supplies are included per pharmacy policy:
+
+- 👄 **Oral Solutions & Suspensions:** include oral syringes and tip caps (if available)
+- 💉 **Parenteral Medications:** Provide the appropriate **final filter** or administration accessory for nursing staff
+
+### 🥤 Reconstituting Lyophilized Medications  
+
+**Dry suspensions and solutions** must be reconstituted **before** dispensing.
+
+**Reconstitution** is addition of water or other dileuent to commercially made drug bottles or vials in order to make a solution or suspension from a premade powder form of the drug; may include oral or parenteral products
+
+#### Reconstitution Steps
+
+- Follow printed manufacturer instructions.  
+- Measure diluent using a **graduated cylinder**.  
+- Add diluent to the bottle and **shake well**.  
+- Automated systems (e.g., **Fillmaster**) may be used for:  
+  - Accurate water measurement  
+  - Optional flavoring  
+
+#### Dating Requirements
+
+Water shortens the product's shelf life so they must have the following dates:
+
+- **Reconstitution Date:** When water was added  
+- **Beyond‑Use Date (BUD):** Typically **10–14 days** after reconstitution  
+
+> Reconstitution should occur **at pickup** when possible to maximize product stability.
