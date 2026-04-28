@@ -90,13 +90,13 @@ Medication orders vary by urgency. Prioritize in this order:
 
 ---
 
-### 3. ⚖️ Portioning & Packaging
+## 3. ⚖️ Portioning & Packaging
 
 Medications must be dispensed in patient-ready form. The exact procedure depends on the product type.
 
 > 🛡️ If multiple packages or pill bottles are used to fill a prescription, make sure to mark the quantity per bottle and the amount of bottles per set (e.g. #90 2/3).
 
-#### 3.A Repackaged Medications
+### 3.A Repackaged Medications
 
 Most bulk medications must be counted or measured and **repackaged** from stock bottles into labeled vials or bottles.
 
@@ -124,13 +124,13 @@ Most bulk medications must be counted or measured and **repackaged** from stock 
   - The drug is **exempt from child-resistant packaging**
   - 🔗 See [PPPA (1970)](../law/packaging_labeling.md#poison-prevention-packaging-act-pppa-1970) for details
 - Immediately return surplus to the **original stock container**
-- 📎 Affix:
+- Affix:
   - Prescription label
   - Auxiliary & warning stickers
 
 > 🛡️ **Never combine** medications from different lots or manufacturers in one container.
 
-#### 3.B Automated Filling Machines
+### 3.B Automated Filling Machines
 
 Some prescriptions are filled and packaged automatically using high-speed dispensing machines.
 
@@ -142,9 +142,9 @@ Some prescriptions are filled and packaged automatically using high-speed dispen
   - Cleaning and maintaining the machine regularly
 - Machines typically count and label medications into patient-ready vials
 
-> 📌 All machine-filled prescriptions must still be **checked by the pharmacist** before moving to the pickup bin.
+> 🩺 All machine-filled prescriptions must still be **checked by the pharmacist** before moving to the pickup bin.
 
-#### 3.C Prepackaged Medications
+### 3.C Prepackaged Medications
 
 Prepackaged items such as **unit doses** or **dry suspensions** must typically be dispensed in their **original containers**.
 
@@ -161,13 +161,15 @@ Prepackaged items such as **unit doses** or **dry suspensions** must typically b
   - If folding is not feasible (package too small):
     - Place the item in a **labelled bag**
     - The bag may be discarded if returned to stock
-- 📎 **Apply to Packaging**
+- **Apply to Packaging**
   - Prescription label
   - All required auxiliary and warning stickers
 
-### 4. 📎 Bundled Items
+---
 
-#### 4.1 Ancillary Supplies
+## 4. 📎 Bundled Items
+
+### 4.1 Ancillary Supplies
 
 Ensure all required ancillary supplies are included per pharmacy policy and based on medication type:
 
@@ -182,7 +184,9 @@ Ensure all required ancillary supplies are included per pharmacy policy and base
 
 > 📌 **Intravenous Medications**: Make sure to include a **final filter** for nursing staff to use during administration
 
-### 5. 🧑‍⚕️ Product Verification
+---
+
+## 5. 🧑‍⚕️ Product Verification
 
 - Place prepared prescription and pamphlet in the **verification queue**
 - **Pharmacists typically verify** the final product & paperwork:
@@ -195,7 +199,7 @@ Ensure all required ancillary supplies are included per pharmacy policy and base
 - **Tech-Check-Tech:** At least 9 states allow specially trained pharmacy technicians to check medication prepared by another technician **in a hospital setting**
   - Each state has specific training and auditing requirements
 
-#### REMS Compliance
+### REMS Compliance
 
 These materials must be included **every time** the medication is dispensed, including refills
 
@@ -203,20 +207,20 @@ These materials must be included **every time** the medication is dispensed, inc
   - Pharmacist prints the PPI/ MedGuide and attaches it to the bag
   - Document compliance with REMS (e.g. isotretinoin, mifepristone)
 
-### 6. ✅ Stage for Pickup or Handoff
+## 6. ✅ Stage for Pickup or Handoff
 
 - Bag the completed, verified prescription
 - Label the bag with patient information for easy retrieval
 - File alphabetically by **patient last name** on the pickup shelf
 - Return the prescription pamphlet to its proper storage area or filing system per site policy
 
-#### 6.1 Reconstituting Lyophilized Medication (Inpatient)
+### 6.1 Reconstituting Lyophilized Medication (Inpatient)
 
 🥤 **Dry Suspensions & Solutions** must be reconstituted before the nursing unit receives them.
 
 **Reconstitution** is addition of water or other dileuent to commercially made drug bottles or vials in order to make a solution or suspension from a premade powder form of the drug; may include oral or parenteral products
 
-##### Reconstitution Steps
+#### Reconstitution Steps
 
 - Follow printed manufacturer instructions.  
 - Measure diluent using a **graduated cylinder**.  
@@ -225,14 +229,14 @@ These materials must be included **every time** the medication is dispensed, inc
   - Accurate water measurement  
   - Optional flavoring  
 
-##### Dating Requirements
+#### Dating Requirements
 
 Water shortens the product's shelf life so they must have the following dates:
 
 - **Reconstitution Date:** When water was added  
 - **Beyond‑Use Date (BUD):** Typically **10–14 days** after reconstitution
 
-### 7. 📦 Making Rounds (Inpatient)
+## 7. 📦 Making Rounds (Inpatient)
 
 Technicians make hourly roundtrips to all nursing stations
 
@@ -243,7 +247,7 @@ During these rounds, technicians may:
 
 > 🔐 Receipt of controlled substances must be witnessed by someone on the nursing unit
 
-#### Missing Doses
+### Missing Doses
 
 Missing Doses are medications that should have already been delivered to the nursing unit, but cannot be located.
 
