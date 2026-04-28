@@ -12,51 +12,52 @@
 
 ---
 
-## 🛠️ Procedure
+## 1. 📋 Pre‑Fill Preparation
 
-### 1. 📋 Pre-Fill Preparation
+### 1.1 Prioritization
 
-#### 1.1 Prioritization
+#### 🏥 Outpatient Prescriptions
 
-##### Outpatient Prescriptions
+- **Waiters:** Patient is present in the pharmacy.  
+  - Advise a **15‑minute wait** unless otherwise directed.  
+- **Scheduled Deliveries:** Prioritize based on **cutoff times** and **route schedules**.  
+  - Ask supervisor for daily high‑priority items.  
+- **Pickup Queue:** Standard priority; process in order received unless safety concerns arise.
 
-<!-- needs improvement -->
+#### 🏨 Inpatient Medication Orders
 
-- "Waiters": Patient is in the lobby, waiting to get their prescription (advise a 15 minute wait)
-- Scheduled Deliveries: Varying priority, generally separated into 2 buckets for high and low priority. Ask your supervisor for pickup times
-- Pickup: Patients coming to pick up medications
+Medication orders vary by urgency. Prioritize in this order:
 
-##### Inpatient Medication Orders
+1. 🛑 **Stop Orders**: Discontinue active therapy immediately.  
+2. 🚑 **STAT Orders**: Medications needed **right now**.  
+3. 🎟️ **Admission Orders**: Initial orders for new admissions.  
+4. 😵‍💫 **PRN Orders**: “As needed” medications.  
+5. ⏰ **Standing Orders**: Scheduled, routine doses.
 
-Medication orders in hospitals vary by urgency and purpose. Prioritize them as follows:
+### 1.2 Prescription Intake
 
-- 🛑 **Stop Orders**: A command to discontinue an active order.
-- 🚑 **STAT Orders**: For medications needed **immediately**.
-- 🎟️ **Admission Orders**: Initial orders upon hospital admission.
-- 😵‍💫 **PRN Orders**: “As needed” medications.
-- ⏰ **Standing (Scheduled) Orders**: Medications administered at fixed intervals.
+- Confirm the prescription is:
+  - Entered correctly in the dispensing system  
+  - Legible, complete, and legally valid  
+  - Reviewed for clinical flags  
+- 📄 Print the **prescription pamphlet** with patient and drug details  
+- 📌 If the system flags **interactions or allergies**, notify the pharmacist immediately  
 
-#### 1.2 Prescription Intake
+> 🩺 Pharmacist intake may be skipped **only** when delay would harm the patient (e.g., emergency STAT orders).
 
-- Verify that the prescription has been:
-  - Entered correctly into the dispensing software
-  - Reviewed for legibility, completeness, and legal validity
-  - 📌 Intake verification by pharmacist may be skipped if delay in administration would harm the patient (i.e. emergency STAT orders).
-- Print the **prescription pamphlet** containing patient and drug details
+### 1.3 Product Retrieval
 
-> 📌 Whenever the system flags drug interactions or allergy conflicts, alert the pharmacist so that they may make a clinical decision on it.
-
-#### 1.3 Product Retrieval
-
-- Match the medication by the **11-Digit NDC** as listed in the software
+- Match the medication using the **11‑Digit NDC** in the system  
   - 🔗 [Further Explanation of NDC system](../law/packaging_labeling.md#drug-listing-act-1972)
-- Follow this inventory prioritization sequence:
-  1. ✅ **Returned-to-stock** vials (oldest first)
-  2. ✅ **Opened** stock bottles that are unexpired
-  3. ✅ **Unopened** stock bottles closest to expiration
-- Mark newly opened stock containers appropriately (e.g. stickered as "OPENED" or crossed with a marker)
+- Follow inventory priority:
+  1. **Returned‑to‑stock** vials (oldest first)  
+  2. **Opened** stock bottles (unexpired)  
+  3. **Unopened** bottles closest to expiration  
+- Mark newly opened bottles (“OPENED” sticker or marker slash)
 
-> 📌 Double-check the 11-Digit NDC (drug name, strength, and dosage form) during selection. Mistakes here cascade forward.
+> 📌 Double‑check NDC, strength, and dosage form. Errors here cascade forward.
+
+---
 
 ### 2. 🧪 Verification and Labeling
 
