@@ -1,13 +1,16 @@
-# 🛠️ SOP - Filling Prescriptions & Orders
+# 🛠️ SOP — Filling Prescriptions & Medication Orders
 
 ## 🔑 Objectives
 
-- Ensure accuracy of medication selection, labeling, and documentation  
-- Minimize waste by prioritizing inventory with the shortest remaining shelf life  
-- Maintain compliance with labeling and packaging standards  
-- Support safe dispensing through barcode scanning and pharmacist oversight
+- Ensure **accurate** medication selection, labeling, and documentation  
+- Minimize **waste** by prioritizing inventory with the shortest remaining shelf life  
+- Maintain compliance with **state, federal, and internal labeling standards**  
+- Support safe dispensing through **barcode scanning** and **pharmacist oversight**  
+- Standardize workflow for **retail outpatient** and **inpatient** settings  
 
-> 🧑‍⚕️ All prescriptions must undergo a **final verification by a licensed pharmacist** prior to being released to the patient. This SOP applies to routine prescription fills in a **retail setting**, excluding compounding, liquids, unit-dose packaging, and hazardous drug handling.
+> 🩺 All prescriptions must undergo **final pharmacist verification** before release to the patient. This SOP excludes compounding, hazardous drugs, and unit‑dose packaging.
+
+---
 
 ## 🛠️ Procedure
 
