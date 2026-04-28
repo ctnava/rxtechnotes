@@ -290,6 +290,8 @@ graph TD;
 
 > Make sure to notify the pharmacist that a dose went missing
 
+---
+
 ## 🛡️ Best Practices
 
 - Always verify expiration dates and lot integrity  
