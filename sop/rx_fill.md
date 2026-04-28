@@ -15,6 +15,14 @@
 
 #### 1.1 Prioritization
 
+##### Outpatient Prescriptions
+
+<!-- needs improvement -->
+
+- "Waiters": Patient is in the lobby, waiting to get their prescription (advise a 15 minute wait)
+- Scheduled Deliveries: Varying priority, generally separated into 2 buckets for high and low priority. Ask your supervisor for pickup times
+- Pickup: Patients coming to pick up medications
+
 ##### Inpatient Medication Orders
 
 Medication orders in hospitals vary by urgency and purpose. Prioritize them as follows:
