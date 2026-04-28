@@ -34,18 +34,11 @@ Ensure the following are present and updated prior to entering prescriptions:
 
 Medication orders in hospitals vary by urgency and purpose. Prioritize them as follows:
 
-### 🚑 **STAT Orders**
-
-For medications needed **immediately**.
-
-- 📌 Pharmacist verification may be bypassed if delay would harm the patient **PER HOSPITAL PROTOCOL**.
-- Technicians may be asked to quickly gather weight, allergies, or home meds.
-
 ### 🛑 **Stop Orders**
 
 A command to discontinue an active order.
 
-- 🚨 **Not a prescription**, but high priority.
+- 🚨 **Not a prescription**, but highest priority.
 - Prevents further dispensing until reviewed.
 
 #### 🤖 Automatic Stop Orders
@@ -55,6 +48,13 @@ System‑generated restrictions on specific medications requiring reassessment &
 - **Temporary**: Require approval by designated services (e.g., Infectious Disease approval for broad‑spectrum antibiotics)
   - 🚨 New medication order required to proceed with treatment
 - **Permanent**: Prevent prescribing outside scope (e.g., chemotherapy restricted to oncology)
+
+### 🚑 **STAT Orders**
+
+For medications needed **immediately**.
+
+- 📌 Pharmacist verification may be bypassed if delay would harm the patient **PER HOSPITAL PROTOCOL**.
+- Technicians may be asked to quickly gather weight, allergies, or home meds.
 
 ### 🎟️ **Admission Orders**
 
