@@ -154,24 +154,8 @@ Ensure all required ancillary supplies are included per pharmacy policy and base
 - **Temperature‑Sensitive Medications:** insulated bags, ice packs, storage instructions  
 - **Wound Care Adjuncts:** non‑stick pads, medical tape, antiseptic wipes  
 - **Injectable/Parenteral:** alcohol pads, gauze, bandages, sharps containers, syringe caps
-- 📌 **Intravenous:** final filter for nursing staff
 
-##### Reconstituting Lyophilized Medication
-
-🥤 **Dry Suspensions & Solutions** must be reconstituted before the patient receives them
-
-- **Reconstitution:** addition of water or other dileuent to commercially made drug bottles or vials in order to make a solution or suspension from a premade powder form of the drug; may include oral or parenteral products
-  - The stock bottle has printed directions for reconstitution
-  - Use a **graduated cylinder** to measure out the volume of diluent
-  - Pour into the bottle and **shake well**
-- Some pharmacies use automated units (e.g. **Fillmaster**) to:
-  - Dispense exact water volume
-  - Add flavoring if desired
-- 📌 Water shortens the product's shelf life so they must have the following dates:
-  - **Reconstitution Date:** Date the medication was prepared for consumption
-  - **Expiration Date:** Typically 10-14 Days after reconstitution
-
-> Reconstitution is typically delayed until **pickup**, when possible
+> 📌 **Intravenous Medications**: Make sure to include a **final filter** for nursing staff to use during administration
 
 ### 5. 🧑‍⚕️ Product Verification
 
@@ -211,6 +195,28 @@ During these rounds, technicians may:
 - pick up medication returns and credit them to a patient
 
 > 🔐 Receipt of controlled substances must be witnessed by someone on the nursing unit
+
+#### Reconstituting Lyophilized Medication
+
+🥤 **Dry Suspensions & Solutions** must be reconstituted before the nursing unit receives them.
+
+**Reconstitution** is addition of water or other dileuent to commercially made drug bottles or vials in order to make a solution or suspension from a premade powder form of the drug; may include oral or parenteral products
+
+##### Reconstitution Steps
+
+- Follow printed manufacturer instructions.  
+- Measure diluent using a **graduated cylinder**.  
+- Add diluent to the bottle and **shake well**.  
+- Automated systems (e.g., **Fillmaster**) may be used for:  
+  - Accurate water measurement  
+  - Optional flavoring  
+
+##### Dating Requirements
+
+Water shortens the product's shelf life so they must have the following dates:
+
+- **Reconstitution Date:** When water was added  
+- **Beyond‑Use Date (BUD):** Typically **10–14 days** after reconstitution
 
 #### Missing Doses
 

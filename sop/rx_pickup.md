@@ -103,7 +103,7 @@ Once verification, screening, and payment are complete, you may hand the medicat
 
 ### 📎 Ancillary Supplies
 
-Ensure all required ancillary supplies are included per pharmacy policy and based on medication type:
+These are typically bundled at the fill station before pharmacist verification, but it's good to ensure all required ancillary supplies are included per pharmacy policy and based on medication type:
 
 - **Education Materials:** medication guides, VIS sheets, device quick‑start instructions
 - **Oral Medications:** dosing cups, oral syringes, adapter caps, child‑resistant or non‑CR caps  
@@ -112,9 +112,8 @@ Ensure all required ancillary supplies are included per pharmacy policy and base
 - **Temperature‑Sensitive Medications:** insulated bags, ice packs, storage instructions  
 - **Wound Care Adjuncts:** non‑stick pads, medical tape, antiseptic wipes  
 - **Injectable/Parenteral:** alcohol pads, gauze, bandages, sharps containers, syringe caps
-- 📌 **Intravenous:** final filter for nursing staff
 
-> These are typically bundled at the fill station before pharmacist verification, but it's good to double-check
+> 📌 **Intravenous Medications**: Make sure to include a **final filter** for nursing staff to use during administration
 
 ### 🥤 Reconstituting Lyophilized Medications  
 
