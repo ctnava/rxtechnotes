@@ -101,12 +101,18 @@ Recommended screening questions:
 
 Once verification, screening, and payment are complete, you may hand the medication to the patient.
 
-### Ancillary Supplies
+### 📎 Ancillary Supplies
 
-Ensure all ancillary supplies are included per pharmacy policy:
+Ensure all required ancillary supplies are included per pharmacy policy and based on medication type:
 
-- 👄 **Oral Solutions & Suspensions:** include oral syringes and tip caps (if available)
-- 💉 **Parenteral Medications:** Provide the appropriate **final filter** or administration accessory for nursing staff
+- **Education Materials:** medication guides, VIS sheets, device quick‑start instructions
+- **Oral Medications:** dosing cups, oral syringes, adapter caps, child‑resistant or non‑CR caps  
+- **Topical/Otic/Ophthalmic:** applicator tips, cotton pads, dropper guides
+- **Respiratory:** spacers, pediatric mask attachments, inhaler instruction cards  
+- **Temperature‑Sensitive Medications:** insulated bags, ice packs, storage instructions  
+- **Wound Care Adjuncts:** non‑stick pads, medical tape, antiseptic wipes  
+- **Injectable/Parenteral:** alcohol pads, gauze, bandages, sharps containers, syringe caps
+- 📌 **Intravenous:** final filter for nursing staff
 
 ### 🥤 Reconstituting Lyophilized Medications  
 
