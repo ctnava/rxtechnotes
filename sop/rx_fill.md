@@ -59,7 +59,7 @@ Medication orders vary by urgency. Prioritize in this order:
 
 ---
 
-## 2. 🧪 Verification and Labeling
+## 2. 🧪 Selection and Labeling
 
 ### 2.1 System Scanning
 
