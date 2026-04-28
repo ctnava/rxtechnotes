@@ -13,9 +13,19 @@
 
 ### 1. 📋 Pre-Fill Preparation
 
-<!-- todo add triage step from rx_intake.md-->
+#### 1.1 Prioritization
 
-#### 1.1 Prescription Intake
+##### Inpatient Medication Orders
+
+Medication orders in hospitals vary by urgency and purpose. Prioritize them as follows:
+
+- 🛑 **Stop Orders**: A command to discontinue an active order.
+- 🚑 **STAT Orders**: For medications needed **immediately**.
+- 🎟️ **Admission Orders**: Initial orders upon hospital admission.
+- 😵‍💫 **PRN Orders**: “As needed” medications.
+- ⏰ **Standing (Scheduled) Orders**: Medications administered at fixed intervals.
+
+#### 1.2 Prescription Intake
 
 - Verify that the prescription has been:
   - Entered correctly into the dispensing software
@@ -25,7 +35,7 @@
 
 > 📌 Whenever the system flags drug interactions or allergy conflicts, alert the pharmacist so that they may make a clinical decision on it.
 
-#### 1.2 Product Retrieval
+#### 1.3 Product Retrieval
 
 - Match the medication by the **11-Digit NDC** as listed in the software
   - 🔗 [Further Explanation of NDC system](../law/packaging_labeling.md#drug-listing-act-1972)
