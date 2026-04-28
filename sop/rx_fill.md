@@ -140,6 +140,22 @@ Prepackaged items such as **unit doses** or **dry suspensions** must typically b
   - Prescription label
   - All required auxiliary and warning stickers
 
+### 4. 📎 Bundled Items
+
+#### 4.1 Ancillary Supplies
+
+Ensure all required ancillary supplies are included per pharmacy policy and based on medication type:
+
+- **Education Materials:** medication guides, VIS sheets, device quick‑start instructions
+  - 📌 usually printed **automatically** along side patient prescription labels
+- **Oral Medications:** dosing cups, oral syringes, adapter caps, child‑resistant or non‑CR caps  
+- **Topical/Otic/Ophthalmic:** applicator tips, cotton pads, dropper guides
+- **Respiratory:** spacers, pediatric mask attachments, inhaler instruction cards  
+- **Temperature‑Sensitive Medications:** insulated bags, ice packs, storage instructions  
+- **Wound Care Adjuncts:** non‑stick pads, medical tape, antiseptic wipes  
+- **Injectable/Parenteral:** alcohol pads, gauze, bandages, sharps containers, syringe caps
+- 📌 **Intravenous:** final filter for nursing staff
+
 ##### Reconstituting Lyophilized Medication
 
 🥤 **Dry Suspensions & Solutions** must be reconstituted before the patient receives them
@@ -157,13 +173,7 @@ Prepackaged items such as **unit doses** or **dry suspensions** must typically b
 
 > Reconstitution is typically delayed until **pickup**, when possible
 
-#### Parenteral Medications
-
-provide a final filter for the nursing staff to use upon administration
-
-### 4. 🧑‍⚕️ Final Review & Documentation
-
-#### 4.1 Product Verification
+### 5. 🧑‍⚕️ Product Verification
 
 - Place prepared prescription and pamphlet in the **verification queue**
 - **Pharmacists typically verify** the final product & paperwork:
@@ -176,22 +186,22 @@ provide a final filter for the nursing staff to use upon administration
 - **Tech-Check-Tech:** At least 9 states allow specially trained pharmacy technicians to check medication prepared by another technician **in a hospital setting**
   - Each state has specific training and auditing requirements
 
-#### 4.2 REMS Compliance
+#### REMS Compliance
+
+These materials must be included **every time** the medication is dispensed, including refills
 
 - 📰 If the drug requires a **Patient Package Insert (PPI)**, requires a **MedGuide**, or is subject to a **REMS program**:
   - Pharmacist prints the PPI/ MedGuide and attaches it to the bag
   - Document compliance with REMS (e.g. isotretinoin, mifepristone)
 
-> 🧾 These materials must be included **every time** the medication is dispensed, including refills.
-
-### 5. ✅ Stage for Pickup or Handoff
+### 6. ✅ Stage for Pickup or Handoff
 
 - Bag the completed, verified prescription
 - Label the bag with patient information for easy retrieval
 - File alphabetically by **patient last name** on the pickup shelf
 - Return the prescription pamphlet to its proper storage area or filing system per site policy
 
-### 6. 📦 Making Rounds (Inpatient)
+### 7. 📦 Making Rounds (Inpatient)
 
 Technicians make hourly roundtrips to all nursing stations
 
