@@ -114,6 +114,8 @@ Ensure all required ancillary supplies are included per pharmacy policy and base
 - **Injectable/Parenteral:** alcohol pads, gauze, bandages, sharps containers, syringe caps
 - 📌 **Intravenous:** final filter for nursing staff
 
+> These are typically bundled at the fill station before pharmacist verification, but it's good to double-check
+
 ### 🥤 Reconstituting Lyophilized Medications  
 
 **Dry suspensions and solutions** must be reconstituted **before** dispensing.
