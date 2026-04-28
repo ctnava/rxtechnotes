@@ -41,6 +41,8 @@ A command to discontinue an active order.
 - 🚨 **Not a prescription**, but highest priority.
 - Prevents further dispensing until reviewed.
 
+`first, do no harm`
+
 #### 🤖 Automatic Stop Orders
 
 System‑generated restrictions on specific medications requiring reassessment & situation monitoring
