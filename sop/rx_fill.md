@@ -185,18 +185,7 @@ These materials must be included **every time** the medication is dispensed, inc
 - File alphabetically by **patient last name** on the pickup shelf
 - Return the prescription pamphlet to its proper storage area or filing system per site policy
 
-### 7. 📦 Making Rounds (Inpatient)
-
-Technicians make hourly roundtrips to all nursing stations
-
-During these rounds, technicians may:
-
-- deliver prepared medications
-- pick up medication returns and credit them to a patient
-
-> 🔐 Receipt of controlled substances must be witnessed by someone on the nursing unit
-
-#### Reconstituting Lyophilized Medication
+#### 6.1 Reconstituting Lyophilized Medication (Inpatient)
 
 🥤 **Dry Suspensions & Solutions** must be reconstituted before the nursing unit receives them.
 
@@ -217,6 +206,17 @@ Water shortens the product's shelf life so they must have the following dates:
 
 - **Reconstitution Date:** When water was added  
 - **Beyond‑Use Date (BUD):** Typically **10–14 days** after reconstitution
+
+### 7. 📦 Making Rounds (Inpatient)
+
+Technicians make hourly roundtrips to all nursing stations
+
+During these rounds, technicians may:
+
+- deliver prepared medications
+- pick up medication returns and credit them to a patient
+
+> 🔐 Receipt of controlled substances must be witnessed by someone on the nursing unit
 
 #### Missing Doses
 
