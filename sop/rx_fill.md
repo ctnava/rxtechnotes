@@ -195,9 +195,16 @@ Ensure all required ancillary supplies are included per pharmacy policy and base
   - Product matches the label and 11-Digit NDC
   - Proper quantity and packaging
   - Clarity and correctness of directions
-- **Telepharmacy:** In some states, a technician may send an image or video of the prepared medication to the pharmacist for remote verification
-- **Tech-Check-Tech:** At least 9 states allow specially trained pharmacy technicians to check medication prepared by another technician **in a hospital setting**
-  - Each state has specific training and auditing requirements
+
+### Telepharmacy
+
+In some states, a technician may send an image or video of the prepared medication to the pharmacist for remote verification
+
+### Tech-Check-Tech
+
+At least 9 states allow specially trained pharmacy technicians to check medication prepared by another technician **in a hospital setting**
+
+> Each state has specific training and auditing requirements
 
 ### REMS Compliance
 
@@ -206,6 +213,8 @@ These materials must be included **every time** the medication is dispensed, inc
 - 📰 If the drug requires a **Patient Package Insert (PPI)**, requires a **MedGuide**, or is subject to a **REMS program**:
   - Pharmacist prints the PPI/ MedGuide and attaches it to the bag
   - Document compliance with REMS (e.g. isotretinoin, mifepristone)
+
+---
 
 ## 6. ✅ Stage for Pickup or Handoff
 
