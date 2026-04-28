@@ -59,33 +59,36 @@ Medication orders vary by urgency. Prioritize in this order:
 
 ---
 
-### 2. 🧪 Verification and Labeling
+## 2. 🧪 Verification and Labeling
 
-#### 2.1 System Scanning
+### 2.1 System Scanning
 
-- Scan the barcode on:
-  - The **prescription pamphlet**
-  - The **stock bottle** (2D barcode) or **vial** (1D barcode)
-- Confirm that the scanned item matches the system’s selected 11-Digit NDC
+- Scan:
+  - Prescription pamphlet  
+  - Stock bottle (2D barcode) or vial (1D barcode)  
+- Confirm the scanned NDC matches the system selection
   - the computer system will alert you if an error has occurred
 
-#### 2.2 Label Printing
+### 2.2 Label Printing
 
-- Generate and print:
-  - Prescription label
-  - **Auxiliary labels** (per system prompts)
-    - 📌 these identify important usage information; including specific warnings or alerts on administration, storage, side effects, and food or drug interactions
+- Print:
+  - Prescription label  
+    - 📌 Use language‑appropriate labels when patient profile indicates preference.
+  - Required **auxiliary labels**  
+    - these identify important usage information; including specific warnings or alerts on administration, storage, side effects, and food or drug interactions
 - Ensure label includes:
-  - Patient name
-  - Medication name and strength
-  - Directions for use
-  - **Prescriber name**
-  - Quantity and refill count
-  - Prescription number and pharmacy details
+  - Patient name  
+  - Drug name & strength  
+  - Directions  
+  - **Prescriber name**  
+  - Quantity & refills  
+  - Prescription number & pharmacy details
 
-> 📌 If the patient’s language preference is on file, ensure language-appropriate labeling where available.
+> 📌 Medication Guides are usually printed **automatically** along side patient prescription labels. Make sure to keep them bundled with corresponding labels.
 
 ![Prescription Label Requirements](../ref/img/rx_label_requirements.PNG)
+
+---
 
 ### 3. ⚖️ Portioning & Packaging
 
