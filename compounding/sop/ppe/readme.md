@@ -1,4 +1,4 @@
-# 🛠️ SOP – Aseptic Gowning
+# 🛠️ SOP – PPE Doffing & Donning
 
 ## 🔑 Purpose
 
@@ -80,8 +80,8 @@ Dedicated for sterile compounding of hazardous drugs under **negative pressure**
 
 | Control Type | Description | Examples | Purpose |
 | -------------- | ------------- | ---------- | --------- |
-| **Primary (PEC)**| Direct compounding environment (ISO 5) | LAFW, BSC, CAI, CACI | Protect product sterility |
-| **Secondary (SEC)**| Architectural/airflow support systems | Buffer room HVAC, HEPA, pressure diffs| Maintain classified environment|
+| **Primary (PEC)** | Direct compounding environment (ISO 5) | LAFW, BSC, CAI, CACI | Protect product sterility |
+| **Secondary (SEC)** | Architectural/airflow support systems | Buffer room HVAC, HEPA, pressure diffs | Maintain classified environment |
 
 ## 🧼 Pre-Gowning Requirements
 
@@ -194,3 +194,4 @@ Personal Protective Equipment **(PPE) must be treated as a potential biohazard**
 ## 🗺️🔗 Nav Links
 
 - 🥚 [Original SOP](./aseptic_gowning.pdf)
+- 🔙🔗 Back to [Infection Control](../../infection_control.md#-basic-personal-protective-equipment-ppe)
