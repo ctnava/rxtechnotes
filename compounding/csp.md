@@ -70,9 +70,7 @@ Sterile compounding must take place in a **cleanroom suite** or **segregated com
 
 ## Types of Preparations
 
-<!-- todo: rename "bulk preparations" with actual industry lingo since I literally made that one up -->
-
-### Bulk Preparations  
+🧰 **Batch‑Prepared CSPs**
 
 CSPs with standardized formulas, prepared in advance for multiple patients; economically viable to prepare in bulk
 Includes:  
@@ -80,13 +78,28 @@ Includes:
 - **SVPs** — Small Volume Parenterals  
 - **LVPs** — Large Volume Parenterals  
 
-### Admixtures  
+🧪 **Admixtures**
 
 Customized CSPs prepared for individual patient clinical need; extemporaneously compounded for economic practicality
 Includes:  
 
 - Modified SVPs/LVPs  
 - **Total Parenteral Nutrition (TPN)** 🛡️
+
+⏳ **Unstable or Short‑Stability Preparations**
+
+Some CSPs require **immediate use** due to chemical instability, lack of preservatives, or strict sterility requirements. These preparations often have **very short BUDs** and must be administered soon after compounding.
+
+> 🚨 *Technicians may be required to consult with the patient's nurse to find out exactly when the dose will be administered in order to schedule the medication for compounding.*
+
+Characteristics:  
+
+- **Chemically unstable** after reconstitution or dilution  
+  - Examples: **sulfamethoxazole/trimethoprim**, **phenytoin**  
+- **Preservative‑free formulations** required for sensitive administration routes  
+  - Example: **epidural preparations** (must be preservative‑free to avoid neurotoxicity)  
+
+> 🚨 *Unstable CSPs must never be stored beyond their assigned BUD and often require immediate pharmacist verification.*
 
 ---
 
