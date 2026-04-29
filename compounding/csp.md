@@ -143,6 +143,42 @@ Dosing considerations include:
 
 > 🧠 *Example: A medication is injected into a minibag (e.g., 50 mL NS), then gently inverted to mix.*
 
+```mermaid
+graph TD;
+  A([Extemporaneous Request Received]);
+  B[Identify Equipment and Calculate Amounts Required for Compounding];
+  A-->B;
+  C{Pharmacist Review};
+  B-->C;
+  C--Rejected-->B;
+  D[Gather Required Materials];
+  C--Accepted-->D;
+  E[Aseptic Handwashing & Gowning Followed by Workstation Preparation];
+  D-->E;
+  F["`
+  IV Bag Prepared with Aseptic Technique
+  
+  Prepare for Inspection by:
+
+  - double-checking correct drug, dose, concentration, volume, base solution, and calculations
+  - writing initials and BUD on label
+  - placing vials and syringes used next to CSP
+  `"];
+  E-->F;
+  G{Pharmacist Inspection & Verification};
+  F-->G;
+  G--Rejected-->F;
+  H[Compound Ready];
+  G--Accepted-->H;
+  X([Sample Sent to Quality Assurance Lab]);
+  H-->X;
+  Y([CSP Delivered to Nursing Unit]);
+  H-->Y;
+  Z([Dispose of Waste & Standby for Next Order]);
+  H-->Z;
+  Z-->A;
+```
+
 #### 🧪 Additive Vials
 
 Additives used in IV admixtures typically come in **vials**, which must be handled according to their labeling and USP <797> requirements.
@@ -153,6 +189,7 @@ Additives used in IV admixtures typically come in **vials**, which must be handl
 - **No preservatives**  
 - Must be discarded immediately after first puncture  
 - BUD after opening: **6 hours** (if opened in ISO 5 environment), unless manufacturer specifies otherwise
+  <!-- todo fact check this one -->
 
 **Multi‑Dose Vials (MDVs)**:
 
