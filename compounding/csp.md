@@ -2,8 +2,6 @@
 
 **CSPs**, regulated under **USP <797>**, are medications mixed or prepared in a **sterile environment**. These are most often administered via **injection, infusion, or irrigation**, making sterility critical.
 
-## 🔍 Technician Responsibilities
-
 Pharmacy technicians involved in sterile compounding must:
 
 - Complete **initial and annual training/competency evaluations** in aseptic technique (written and practical)
@@ -12,6 +10,8 @@ Pharmacy technicians involved in sterile compounding must:
 - Prepare products under pharmacist supervision using **cleanroom protocol**
 - Maintain proper **hand hygiene, garbing, and environmental cleaning**
 
+> All hospitals accredited by The Joint Commission must be compliant with USP <797> standards
+
 ## 🏷️ Key Requirements
 
 CSPs must be prepared using strict, **aseptic techniques** and must be free of the following key contaminants:
@@ -19,6 +19,8 @@ CSPs must be prepared using strict, **aseptic techniques** and must be free of t
 - **Pyrogens:** fever-inducing substances, primarily toxic waste produced by microorganisms
 - **Microorganisms:** organisms invisible to the naked eye; including bacteria, viruses, fungi, archaea, protozoa, and some algae
 - **Particulate Matter:** organic and inorganic impurities that are not included in the formula that can introduce health complications
+
+> CSPs are often sampled and tested in laboratories for quality assurance
 
 ### Labeling
 
@@ -39,6 +41,7 @@ Every CSP must be verified by a pharmacist before dispensing. Checks include:
 
 - Correct **drug and dose**
 - Compatibility and **physical stability** (e.g., absence of precipitation)
+  - ex: Amphotericin B (Antifungal) is not compatible with NaCl and will precipitate
 - Proper **labeling** and documentation
 - Compliance with BUD and storage requirements
 
