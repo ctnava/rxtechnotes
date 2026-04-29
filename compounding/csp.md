@@ -59,13 +59,14 @@ Before dispensing, a pharmacist must verify:
 
 Sterile compounding must take place in a **cleanroom suite** or **segregated compounding area (SCA)** using:
 
-- **Laminar airflow workbenches (LAFW)**
-- **Biological safety cabinets (BSC) and Ventilated Glove Boxes:** for hazardous or cytotoxic substances
-- Controlled **ISO-classified environments** (ISO 5 or better for critical areas)
+- **Laminar Airflow Workbenches (LAFWs)**  
+- **Biological Safety Cabinets (BSCs)** ☣️ (for hazardous drugs)  
+- **Compounding Aseptic Isolators (CAIs)** — sealed systems that may replace full cleanrooms  
+- **ISO‑classified rooms** (ISO 5 for critical areas)  
 
-**Negative Pressure Isolation rooms** = rooms used to store radioactive materials and other hazardous substances  
+**Negative‑pressure rooms** are used for hazardous or radioactive materials ☣️.
 
-> **Compounding Aseptic Isolators (CAIs)** are specialized, sealed containment systems that replaces clean rooms
+---
 
 ## Types of Preparations
 
