@@ -1,4 +1,6 @@
-# Chapter 7: Compounded Medications
+# Compounding
+
+**Extemporaneous Compounding** is the on-demand formulation of a prescribed drug preparation to meet the unique needs of an individual patient.
 
 ## 📚 United States Pharmacopeia–National Formulary (USP–NF)
 
