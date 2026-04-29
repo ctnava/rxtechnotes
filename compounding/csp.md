@@ -71,26 +71,38 @@ Sterile compounding must take place in a **cleanroom suite** or **segregated com
 ## Types of Preparations
 
 <!-- todo: rename "bulk preparations" with actual industry lingo since I literally made that one up -->
-- **Bulk Preparations:** CSPs that are not unique to individual patients can be made in bulk.
-  - Comes in two form factors:
-    - Small Volume Parenterals (SVPs)
-    - Large Volume Parenterals (LVPs)
-- **Admixtures:** CSPs customized for clinical need and extemporaneously compounded for economic practicality
-  - Modified SVPs & LVPs
-  - **Total Parenteral Nutrition (TPN)**
 
-### 🩸 IV Solutions
+### Bulk Preparations  
 
-**Intravenous (IV) solutions** are a common type of CSP, used to:
+CSPs with standardized formulas, prepared in advance for multiple patients; economically viable to prepare in bulk
+Includes:  
 
-- Hydrate patients
-- Deliver medications (e.g., antibiotics, pain meds, chemotherapy)
-- Provide nutrition (**TPN** for NPO or critically ill patients)
-- Replace or balance electrolytes (e.g., sodium chloride, potassium chloride)
+- **SVPs** — Small Volume Parenterals  
+- **LVPs** — Large Volume Parenterals  
 
-> IV Fluid is commonly abbreviated as **IV-F**
+### Admixtures  
 
-#### Common IV Formulations
+Customized CSPs prepared for individual patient clinical need; extemporaneously compounded for economic practicality
+Includes:  
+
+- Modified SVPs/LVPs  
+- **Total Parenteral Nutrition (TPN)** 🛡️
+
+---
+
+## 🩸 Intravenous (IV) Solutions Overview
+
+IV solutions are used for:
+
+- Hydration  
+- Medication delivery (e.g., antibiotics, pain meds, chemotherapy)
+- Electrolyte replacement and rebalancing (e.g., sodium chloride, potassium chloride)
+- Nutrition (**TPN**)  
+- Emergency resuscitation  
+
+> 📌 *IV Fluid is abbreviated as **IV‑F**.*
+
+### Common IV Solutions
 
 The following is a table of pre-made IV solutions that can be found as floor stock in nursing units.
 
@@ -103,35 +115,30 @@ The following is a table of pre-made IV solutions that can be found as floor sto
 | LR (RL) | Lactated Ringer’s Solution | NaCl, KCl, CaCl₂, Sodium Lactate in Water | Isotonic | fluid replacement with hydration and glucose, acute blood loss, used in surgery, trauma, & burn recovery, corrects metabolic acidosis | Contains potassium—use cautiously in renal failure |
 | SW or SWFI | Sterile Water for Injection | Sterile Water (no solutes) | Hypotonic | Used to dilute or reconstitute medications, irrigation of wounds | NEVER give IV push—risk of hemolysis |
 
-> *D5W is isotonic in the bag but becomes hypotonic once glucose is metabolized.
+> 📌 *D5W is isotonic in the bag but becomes hypotonic once glucose is metabolized.*
 
-#### IV Admixtures
+### 🧴 IV Admixtures
 
-IV Admixtures are the result of introducing additives to bulk formulations.
+IV admixtures are created by adding medications or electrolytes to base solutions.  
+Dosing may depend on:
 
-These are prepared for specific patients based on:
+- Patient weight or BSA  
+- Fluid restrictions  
+- Lab values (Na⁺, K⁺, Cr, glucose)  
 
-- Weight or body surface area (BSA)
-- Fluid restrictions
-- Lab values (e.g., sodium, creatinine, glucose)
+> 🧠 *Example: Injecting a medication into a minibag and gently mixing.*
 
-> 🧠 *For example, a patient's medication may be injected into an IV minibag and shaken to mix.*
+#### 🍽️ Total Parenteral Nutrition (TPN)
 
-##### TPN Therapy
+TPN provides complete nutrition intravenously for patients who:
 
-Total Parenteral Nutrition contains essential nutrients to be provided to a patient through an IV line
+- Are critically ill  
+- Are marked "Nothing by Mouth" (**NPO**)
+- Cannot tolerate enteral feeding  
+- Have GI dysfunction  
 
-This therapy is typically used for patients who:
+**Preparation Notes**:
 
-- are critically ill
-- marked "Nothing by Mouth" (**NPO**)
-- cannot eat by normal means
-- cannot receive enteral feeds
-
-###### Preparation
-
-May contain fat emulsion (3 in 1) or given separately (2 in 1)
-
-Can be prepared on the spot or outsourced
-
-Technicians are often responsible for setting up the TPN compounder
+- May be **2‑in‑1** (AA + dextrose) or **3‑in‑1** (AA + dextrose + lipids)  
+- Prepared in‑house or outsourced  
+- Technicians often set up the **TPN compounder**
