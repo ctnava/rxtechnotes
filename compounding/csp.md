@@ -70,7 +70,7 @@ Sterile compounding must take place in a **cleanroom suite** or **segregated com
 
 ## Types of Preparations
 
-🧰 **Batch‑Prepared CSPs**
+### Batch‑Prepared CSPs
 
 CSPs with standardized formulas, prepared in advance for multiple patients; economically viable to prepare in bulk
 Includes:  
@@ -78,7 +78,7 @@ Includes:
 - **SVPs** — Small Volume Parenterals  
 - **LVPs** — Large Volume Parenterals  
 
-🧪 **Admixtures**
+### Admixtures
 
 Customized CSPs prepared for individual patient clinical need; extemporaneously compounded for economic practicality
 Includes:  
@@ -86,7 +86,7 @@ Includes:
 - Modified SVPs/LVPs  
 - **Total Parenteral Nutrition (TPN)** 🛡️
 
-⏳ **Unstable or Short‑Stability Preparations**
+### ⏳ Unstable or Short‑Stability Preparations
 
 Some CSPs require **immediate use** due to chemical instability, lack of preservatives, or strict sterility requirements. These preparations often have **very short BUDs** and must be administered soon after compounding.
 
@@ -132,14 +132,48 @@ The following is a table of pre-made IV solutions that can be found as floor sto
 
 ### 🧴 IV Admixtures
 
-IV admixtures are created by adding medications or electrolytes to base solutions.  
-Dosing may depend on:
+IV admixtures are CSPs created by **adding medications, electrolytes, or nutrients** to a sterile base solution (e.g., NS, D5W, LR). These preparations are individualized and must be compounded using aseptic technique.
 
-- Patient weight or BSA  
-- Fluid restrictions  
-- Lab values (Na⁺, K⁺, Cr, glucose)  
+Dosing considerations include:  
 
-> 🧠 *Example: Injecting a medication into a minibag and gently mixing.*
+- **Patient weight** or **BSA**  
+- **Fluid restrictions**  
+- **Renal/hepatic function**  
+- **Key lab values** (Na⁺, K⁺, Cr, glucose)  
+
+> 🧠 *Example: A medication is injected into a minibag (e.g., 50 mL NS), then gently inverted to mix.*
+
+#### 🧪 Additive Vials
+
+Additives used in IV admixtures typically come in **vials**, which must be handled according to their labeling and USP <797> requirements.
+
+**Single‑Dose Vials (SDVs)**:
+
+- Intended for **one‑time use only**  
+- **No preservatives**  
+- Must be discarded immediately after first puncture  
+- BUD after opening: **6 hours** (if opened in ISO 5 environment), unless manufacturer specifies otherwise
+
+**Multi‑Dose Vials (MDVs)**:
+
+- Intended for **multiple uses**  
+- Contain **antimicrobial preservatives**
+  - 📌 Preservatives in MDVs make them unsafe for certain routes (e.g., intrathecal, epidural).
+- Must be **relabeled with a new BUD** after first puncture  
+  - Typical BUD: **28 days**, unless manufacturer specifies a shorter period  
+- Still require aseptic technique for each access  
+
+🔍 **Visual Inspection**
+
+Before each use, **all vials must be visually inspected** for:
+
+- Particulate matter
+- Cloudiness  
+- Crystals or precipitate  
+- Color changes  
+- Cracked or compromised containers  
+
+> 🚨 *Any vial showing contamination or instability must be discarded immediately.*
 
 #### 🍽️ Total Parenteral Nutrition (TPN)
 
