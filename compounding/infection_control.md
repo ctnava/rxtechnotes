@@ -25,9 +25,7 @@ The committee is multidisciplinary, typically including nurses, pharmacists, phy
 
 ---
 
-## 🔐 Core Infection Control Policies  
-
-### 🧤 Standard (Contact) Precautions  
+## 🧤 Standard (Contact) Precautions  
 
 Standard precautions apply to **all patients**, regardless of diagnosis. They are designed to prevent exposure to:
 
@@ -44,7 +42,7 @@ If exposure occurs:
 - Perform **immediate handwashing**  
 - Report the incident to a supervisor
 
-#### ✋ Hand Hygiene  
+### ✋ Hand Hygiene  
 
 Handwashing is the **single most effective method** of preventing nosocomial infections.
 
@@ -59,7 +57,7 @@ Healthcare workers must wash hands:
 
 🔗 [Aseptic Handwashing Protocol](./sop/handwashing/readme.md)
 
-#### 🥼 Basic Personal Protective Equipment (PPE)
+### 🥼 Basic Personal Protective Equipment (PPE)
 
 PPE includes:  
 
@@ -71,6 +69,10 @@ PPE includes:
 These barriers protect against **splashes** and **short‑term exposure**, but prolonged use can turn PPE into a contamination risk. PPE must be changed frequently and removed using proper technique.
 
 🔗 [PPE Doffing & Donning Protocols](./sop/ppe/readme.md)
+
+---
+
+## Advanced Precautions
 
 ### 🌬️ Airborne & Droplet Precautions  
 
