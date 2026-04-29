@@ -41,17 +41,19 @@ All compounded sterile products must include:
 
 ---
 
-## Final Product Checks
+## 🛡️ Final Product Verification
 
-Every CSP must be verified by a pharmacist before dispensing. Checks include:
+Before dispensing, a pharmacist must verify:
 
-- Correct **drug and dose**
-- Compatibility and **physical stability** (e.g., absence of precipitation)
-  - ex: Amphotericin B (Antifungal) is not compatible with NaCl and will precipitate
+- Correct **drug, dose, and diluent**
+- **Compatibility + physical stability**  
+  - Example: *Amphotericin B is incompatible with NaCl and will precipitate.*
 - Proper **labeling** and documentation
 - Compliance with BUD and storage requirements
 
-> 🚨 *Any visible contamination, cloudiness, or color change renders the product unfit for use.*
+> 🚨 *Any cloudiness, particulates, or unexpected color change = DO NOT USE.*
+
+---
 
 ## 🧪 Sterile Compounding Environment
 
