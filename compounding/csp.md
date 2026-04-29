@@ -226,3 +226,7 @@ TPN provides complete nutrition intravenously for patients who:
 - May be **2‑in‑1** (AA + dextrose) or **3‑in‑1** (AA + dextrose + lipids)  
 - Prepared in‑house or outsourced  
 - Technicians often set up the **TPN compounder**
+
+---
+
+<!-- todo navlink -->

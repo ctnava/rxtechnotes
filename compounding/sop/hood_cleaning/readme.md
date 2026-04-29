@@ -90,4 +90,6 @@ Clean in this exact order:
 
 ## 🗺️🔗 Nav Links
 
+<!-- todo navlink -->
+
 <!-- - 🥚 [Original SOP](./hood_cleaning.jpg) -->

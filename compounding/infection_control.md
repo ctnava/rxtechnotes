@@ -97,3 +97,7 @@ HIV Exposure Protocols:
 
 - **Post‑Exposure Prophylaxis (PEP)** — taken after potential HIV exposure; time‑sensitive and less effective, but standard in healthcare
 - **Pre‑Exposure Prophylaxis (PrEP)** — taken preventively; widely covered by insurance for people who have engage in sexual intercourse with males who have sex with other males
+
+---
+
+<!-- todo navlink -->
