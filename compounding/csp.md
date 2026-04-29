@@ -1,16 +1,18 @@
 # 💉 Compounded Sterile Preparations (CSPs)
 
-**CSPs**, regulated under **USP <797>**, are medications mixed or prepared in a **sterile environment**. These are most often administered via **injection, infusion, or irrigation**, making sterility critical.
+Compounded Sterile Preparations (**CSPs**) are medications prepared in a **sterile environment** according to **USP <797>** 🦅. These preparations are typically administered via **injection, infusion, or irrigation**, making sterility essential for patient safety.
 
-Pharmacy technicians involved in sterile compounding must:
+Pharmacy technicians who participate in sterile compounding must demonstrate competency in:
 
-- Complete **initial and annual training/competency evaluations** in aseptic technique (written and practical)
-- Pass **media fill tests** and **gloved fingertip testing**
-- Perform accurate calculations and measurements
-- Prepare products under pharmacist supervision using **cleanroom protocol**
-- Maintain proper **hand hygiene, garbing, and environmental cleaning**
+- Initial + annual **aseptic technique training** (written + practical) 🛡️
+- *Media-fill testing** and **gloved fingertip sampling**
+- Accurate pharmaceutical calculations
+- Proper cleanroom workflow under pharmacist supervision 🩺
+- **Hand hygiene, garbing, and environmental cleaning** per USP <797> standards
 
-> All hospitals accredited by The Joint Commission must be compliant with USP <797> standards
+> 🦅 *All Joint Commission–accredited hospitals must comply with USP <797>.*
+
+---
 
 ## 🏷️ Key Requirements
 
