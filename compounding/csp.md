@@ -26,20 +26,22 @@ CSPs must be prepared using strict, **aseptic techniques** and must be free of t
 
 ---
 
-### Labeling
+## 🏷️ Labeling Requirements
 
 All compounded sterile products must include:
 
-- ✅ Generic drug name, concentration, strength, & dosage form
-- ✅ Total volume and base solution
-- ✅ Route and rate of administration (e.g., IVPB over 30 mins)
-- ✅ **Beyond-use date (BUD)** and time (not the manufacturer’s expiration date)
-- ✅ Storage requirements (e.g., refrigerate, room temp)
-- ✅ Initials of compounding and verifying personnel
+- Generic drug name, strength, concentration, dosage form  
+- Total volume + base solution  
+- Route + rate of administration  
+- **Beyond‑Use Date (BUD)** and time (not the manufacturer’s expiration date)
+- Storage requirements (e.g., refrigerate, room temp)
+- Initials of compounder + verifying pharmacist 🩺
 
-> 📌 *CSPs use a BUD assigned based on stability and USP <797> risk level (e.g., Low, Medium, High risk).*
+> 📌 *BUDs are assigned based on stability and USP <797> risk level (Low, Medium, High).*
 
-### Final Product Checks
+---
+
+## Final Product Checks
 
 Every CSP must be verified by a pharmacist before dispensing. Checks include:
 
