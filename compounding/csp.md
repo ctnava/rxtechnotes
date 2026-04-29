@@ -59,7 +59,16 @@ Sterile compounding must take place in a **cleanroom suite** or **segregated com
 
 > **Compounding Aseptic Isolators (CAIs)** are specialized, sealed containment systems that replaces clean rooms
 
-## Parenterals
+## Types of Preparations
+
+<!-- todo: rename "bulk preparations" with actual industry lingo since I literally made that one up -->
+- **Bulk Preparations:** CSPs that are not unique to individual patients can be made in bulk.
+  - Comes in two form factors:
+    - Small Volume Parenterals (SVPs)
+    - Large Volume Parenterals (LVPs)
+- **Admixtures:** CSPs customized for clinical need and extemporaneously compounded for economic practicality
+  - Modified SVPs & LVPs
+  - **Total Parenteral Nutrition (TPN)**
 
 ### 🩸 IV Solutions
 
@@ -74,7 +83,7 @@ Sterile compounding must take place in a **cleanroom suite** or **segregated com
 
 #### Common IV Formulations
 
-The following is a table of pre-made IV solutions that can be found as floor stock in nursing units. Since they are not unique to individual patients, they **can be made in bulk**.
+The following is a table of pre-made IV solutions that can be found as floor stock in nursing units.
 
 | Abbreviation | Full Name | Composition | Osmolarity (Relative to Blood) | Clinical Use / Indication | Special Considerations |
 | --- | --- | --- | --- | --- | --- |
@@ -89,7 +98,7 @@ The following is a table of pre-made IV solutions that can be found as floor sto
 
 #### IV Admixtures
 
-IV Admixtures are the result of introducing additives to bulk formulations. These are customized for clinical need and economic practicality. Bulk production is not feasible.
+IV Admixtures are the result of introducing additives to bulk formulations.
 
 These are prepared for specific patients based on:
 
@@ -99,8 +108,21 @@ These are prepared for specific patients based on:
 
 > 🧠 *For example, a patient's medication may be injected into an IV minibag and shaken to mix.*
 
-Admixtures come in a variety of form factors:
+##### TPN Therapy
 
-- Small Volume Parenterals (SVPs)
-- Large Volume Parenterals (LVPs)
-- Parenteral Nutrition Therapy
+Total Parenteral Nutrition contains essential nutrients to be provided to a patient through an IV line
+
+This therapy is typically used for patients who:
+
+- are critically ill
+- marked "Nothing by Mouth" (**NPO**)
+- cannot eat by normal means
+- cannot receive enteral feeds
+
+###### Preparation
+
+May contain fat emulsion (3 in 1) or given separately (2 in 1)
+
+Can be prepared on the spot or outsourced
+
+Technicians are often responsible for setting up the TPN compounder
