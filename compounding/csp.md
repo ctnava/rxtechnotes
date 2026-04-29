@@ -14,15 +14,17 @@ Pharmacy technicians who participate in sterile compounding must demonstrate com
 
 ---
 
-## 🏷️ Key Requirements
+## 🔑 Key Contamination Risks
 
 CSPs must be prepared using strict, **aseptic techniques** and must be free of the following key contaminants:
 
-- **Pyrogens:** fever-inducing substances, primarily toxic waste produced by microorganisms
+- **Pyrogens:** fever‑inducing microbial byproducts
 - **Microorganisms:** organisms invisible to the naked eye; including bacteria, viruses, fungi, archaea, protozoa, and some algae
 - **Particulate Matter:** organic and inorganic impurities that are not included in the formula that can introduce health complications
 
-> CSPs are often sampled and tested in laboratories for quality assurance
+> 🛡️ *CSPs are routinely sampled and tested in quality‑assurance labs.*
+
+---
 
 ### Labeling
 
