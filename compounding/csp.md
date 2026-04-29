@@ -59,7 +59,9 @@ Sterile compounding must take place in a **cleanroom suite** or **segregated com
 
 > **Compounding Aseptic Isolators (CAIs)** are specialized, sealed containment systems that replaces clean rooms
 
-## 🩸 IV Solutions
+## Parenterals
+
+### 🩸 IV Solutions
 
 **Intravenous (IV) solutions** are a common type of CSP, used to:
 
@@ -70,7 +72,7 @@ Sterile compounding must take place in a **cleanroom suite** or **segregated com
 
 > IV Fluid is commonly abbreviated as **IV-F**
 
-## 💧 Common IV Formulations
+#### Common IV Formulations
 
 The following is a table of pre-made IV solutions that can be found as floor stock in nursing units. Since they are not unique to individual patients, they **can be made in bulk**.
 
@@ -85,7 +87,7 @@ The following is a table of pre-made IV solutions that can be found as floor sto
 
 > *D5W is isotonic in the bag but becomes hypotonic once glucose is metabolized.
 
-### IV Admixtures
+#### IV Admixtures
 
 IV Admixtures are the result of introducing additives to bulk formulations. These are customized for clinical need and economic practicality. Bulk production is not feasible.
 
@@ -102,5 +104,3 @@ Admixtures come in a variety of form factors:
 - Small Volume Parenterals (SVPs)
 - Large Volume Parenterals (LVPs)
 - Parenteral Nutrition Therapy
-
-> While these are generally prepared in a laminar airflow station, chemotherapy and cytotoxic drugs are preapared in a biological safety cabinet or ventilated glove box.
