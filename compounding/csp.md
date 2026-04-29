@@ -1,26 +1,26 @@
 # 💉 Compounded Sterile Preparations (CSPs)
 
-**CSPs**, regulated under **USP <797>**, are medications mixed or prepared in a **sterile environment** using strict, **aseptic techniques**. These are most often administered via **injection, infusion, or irrigation**, making sterility critical.
+**CSPs**, regulated under **USP <797>**, are medications mixed or prepared in a **sterile environment**. These are most often administered via **injection, infusion, or irrigation**, making sterility critical.
 
-Key Contaminants Include:
+## 🔍 Technician Responsibilities
+
+Pharmacy technicians involved in sterile compounding must:
+
+- Complete **initial and annual training/competency evaluations** in aseptic technique (written and practical)
+- Pass **media fill tests** and **gloved fingertip testing**
+- Perform accurate calculations and measurements
+- Prepare products under pharmacist supervision using **cleanroom protocol**
+- Maintain proper **hand hygiene, garbing, and environmental cleaning**
+
+## 🏷️ Key Requirements
+
+CSPs must be prepared using strict, **aseptic techniques** and must be free of the following key contaminants:
 
 - **Pyrogens:** fever-inducing substances, primarily toxic waste produced by microorganisms
 - **Microorganisms:** organisms invisible to the naked eye; including bacteria, viruses, fungi, archaea, protozoa, and some algae
 - **Particulate Matter:** organic and inorganic impurities that are not included in the formula that can introduce health complications
 
-## 🧪 Sterile Compounding Environment
-
-Sterile compounding must take place in a **cleanroom suite** or **segregated compounding area (SCA)** using:
-
-- **Laminar airflow workbenches (LAFW)**
-- **Biological safety cabinets (BSC) and Ventilated Glove Boxes:** for hazardous or cytotoxic substances
-- Controlled **ISO-classified environments** (ISO 5 or better for critical areas)
-
-**Negative Pressure Isolation rooms** = rooms used to store radioactive materials and other hazardous substances  
-
-> **Compounding Aseptic Isolators (CAIs)** are specialized, sealed containment systems that replaces clean rooms
-
-## 🏷️ CSP Labeling Requirements
+### Labeling
 
 All compounded sterile products must include:
 
@@ -33,7 +33,28 @@ All compounded sterile products must include:
 
 > 📌 *CSPs use a BUD assigned based on stability and USP <797> risk level (e.g., Low, Medium, High risk).*
 
-- prescriptions must include patient name, age, weight + prescriber name & contact information
+### Final Product Checks
+
+Every CSP must be verified by a pharmacist before dispensing. Checks include:
+
+- Correct **drug and dose**
+- Compatibility and **physical stability** (e.g., absence of precipitation)
+- Proper **labeling** and documentation
+- Compliance with BUD and storage requirements
+
+> 🚨 *Any visible contamination, cloudiness, or color change renders the product unfit for use.*
+
+## 🧪 Sterile Compounding Environment
+
+Sterile compounding must take place in a **cleanroom suite** or **segregated compounding area (SCA)** using:
+
+- **Laminar airflow workbenches (LAFW)**
+- **Biological safety cabinets (BSC) and Ventilated Glove Boxes:** for hazardous or cytotoxic substances
+- Controlled **ISO-classified environments** (ISO 5 or better for critical areas)
+
+**Negative Pressure Isolation rooms** = rooms used to store radioactive materials and other hazardous substances  
+
+> **Compounding Aseptic Isolators (CAIs)** are specialized, sealed containment systems that replaces clean rooms
 
 ## 🩸 IV Solutions
 
@@ -80,24 +101,3 @@ Admixtures come in a variety of form factors:
 - Parenteral Nutrition Therapy
 
 > While these are generally prepared in a laminar airflow station, chemotherapy and cytotoxic drugs are preapared in a biological safety cabinet or ventilated glove box.
-
-🔍 **Technician Responsibilities**
-
-Pharmacy technicians involved in sterile compounding must:
-
-- Complete **initial and annual training/competency evaluations** in aseptic technique (written and practical)
-- Pass **media fill tests** and **gloved fingertip testing**
-- Perform accurate calculations and measurements
-- Prepare products under pharmacist supervision using **cleanroom protocol**
-- Maintain proper **hand hygiene, garbing, and environmental cleaning**
-
-🛡️ **Final Product Checks**
-
-Every CSP must be verified by a pharmacist before dispensing. Checks include:
-
-- Correct **drug and dose**
-- Compatibility and **physical stability** (e.g., absence of precipitation)
-- Proper **labeling** and documentation
-- Compliance with BUD and storage requirements
-
-> 🚨 *Any visible contamination, cloudiness, or color change renders the product unfit for use.*
