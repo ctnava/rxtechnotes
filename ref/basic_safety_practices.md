@@ -65,24 +65,72 @@ Pharmacy technicians are often the final checkpoint before a medication reaches 
 
 ---
 
-## Reporting & Monitoring
+## 📝 Reporting & Monitoring
 
-Hospitals have an internal **Medication Safety Committee** that reviews medication errors, establishes preventative policies & procedures, and maintains an anonymous incident reporting system.
+Medication safety depends on **system‑level reporting**, national surveillance programs, and internal hospital review processes. These structures help identify trends, prevent repeat errors, and strengthen patient safety protocols.
 
-**Incident Reports* are statements of facts surrounding medical errors.
+The **Joint Commission (TJC / J‑Co)** and the **Institute for Safe Medication Practices (ISMP)** are two major organizations that analyze medication‑related harm and publish guidance used across the healthcare system.
 
-- **close call:** medication safety event that had the potential to cause harm but did not reach the patient
-- **sentinel event**: patient safety event that results in death, permanent harm, or severe temporary harm
-  - hospitals have to perform Root Cause Analysis for future incident prevention
-  - depending on severity, the Safety Committee may have to report to The Joint Commission.
+### National Programs
+
+<!-- Todo: 🔗 Filing MedWatch SOP Document Link -->
+- 🔗 **MedWatch:** FDA program for reporting adverse drug events, product defects, and safety concerns.  
+  - Voluntary  
+  - Publicly accessible  
+  - Used to identify national safety trends  
+
+- **Medication Error Reporting Program (MERP):** ISMP’s national reporting system.  
+  - Reports are analyzed by ISMP  
+  - Shared with **NCCMERP**, which publishes recommendations and newsletters to prevent similar events across facilities  
+
+- 🔗 **[Vaccine Adverse Event Reporting System (VAERS):](./essays/vaers_overview.md)** FDA & CDC joint program for monitoring vaccine safety.  
+  - Used to track post‑vaccination adverse events  
+  - Supports ongoing vaccine safety surveillance
+
+### Internal Hospital Reporting
+
+Most hospitals maintain a **Medication Safety Committee** responsible for:
+
+- Reviewing medication errors and near‑misses  
+- Creating and updating safety policies & procedures  
+- Conducting staff education  
+- Maintaining an **anonymous incident reporting system**  
+
+### MedMarx  
+
+A subscription‑based reporting platform provided by **USP** that allows hospitals to:
+
+- Collect internal medication error data  
+- Analyze trends  
+- Benchmark against national data  
+- Report to regulatory bodies when required  
+
+### Incident Reports  
+
+Incident reports are **factual, objective statements** documenting medication errors or safety events.  
+They are **not** used for punishment—they are used for **quality improvement**.
+
+### Types of Reportable Events
+
+- **Close Call (Near Miss)**  
+  - A medication safety event that *could* have caused harm but **did not reach the patient**.  
+  - Example: Wrong medication caught during pharmacist check.
+
+- **Sentinel Event**  
+  - A patient safety event resulting in:  
+    - Death  
+    - Permanent harm  
+    - Severe temporary harm requiring intervention  
+  - Hospitals must perform a **Root Cause Analysis (RCA)** to identify system failures and prevent recurrence.  
+  - Depending on severity, the event may need to be reported to **The Joint Commission**.
+
+> 🚨 *A commonly reported sentinel event is the intrathecal administration of **vincristine**, which must **only** be given IV. This error is catastrophic and repeatedly cited in national safety alerts. Commit this to memory.*
 
 ---
 
 ## 🔢 Steps in the Medication-Use Process
 
 Medication errors can happen at any point from prescribing to patient use. Understanding each step helps technicians identify where safeguards are needed. When similar errors appear in different settings, they often share common root causes. Identifying and addressing these shared vulnerabilities helps prevent future incidents.
-
-The **Joint Commission (TJC)** and **Institute for Safe Medication Practices (ISMP)** are two organizations that work to analyze and reduce medication-related harm. Their guidance informs safety protocols used across the healthcare system.
 
 > 🛡️ *Most medication errors are preventable with proper workflow, communication, and verification. They are are system‑based, not individual failures.*
 
@@ -154,7 +202,7 @@ From here, labels are printed or written for the final medication container disp
   - Reusing containers with leftover labels
   - 🛡️ Verify drug, strength, and dosage form when filling. Do not use containers with old or partially removed labels. Double-check **11-Digit National Drug Code (NDC)** during product selection.
 
-> 🛡️ **The NCCMERP Recommends that**:
+> 🛡️ **The NCC Recommends that**:
 >
 > - adequate staffing and resources should be present for the workload expected.
 > - product inventory should be arranged and separated to help differentiate medications; including visual discriminators.
