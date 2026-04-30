@@ -1,10 +1,35 @@
 # 💊 Medication Safety Practices & Errors
 
-**Medication safety** is crucial to reducing errors and ensuring optimal patient outcomes. Preventing medication errors is a core responsibility of every pharmacy team. Pharmacy technicians play a critical frontline role in identifying, preventing, and reporting potential errors before they reach the patient by ✅*adhering to proper procedures* and 👩‍⚕️*collaborating with pharmacists*.
+Medication safety focuses on preventing **Adverse Drug Events (ADEs)**, reducing the risk of **medication errors**, and ensuring optimal patient outcomes; three of the most important responsibilities in any pharmacy setting.
+
+Pharmacy technicians play a critical frontline role in identifying, preventing, and reporting potential errors before they reach the patient by ✅*adhering to proper procedures* and 👩‍⚕️*collaborating with pharmacists*.
+
+---
+
+## ⚠️ Adverse Drug Events (ADEs)
+
+An **Adverse Drug Event (ADE)** is any injury or harm resulting from medication use.  
+Severity can range from mild to life‑threatening, including:
+
+- Allergic reactions  
+- Organ toxicity (e.g., kidney failure)  
+- Life‑threatening complications or death  
+
+> 🩺 *Not all ADEs are caused by errors. Some are unavoidable due to patient‑specific factors.*
+
+Many ADEs **can** be prevented through proper monitoring, communication, and adherence to safety protocols.
+
+---
 
 ## 🛡️ Medication Errors
 
+Medication errors are a **major preventable cause** of ADEs.
+
 According to the **National Coordinating Council for Medication Error Reporting & Prevention (NCC MERP)**, **Medication Errors** are any preventable event that may cause or lead to inappropriate medication use or patient harm while the medication is in the control of the healthcare professional, patient, or consumer.
+
+They can occur at **any stage** of the medication‑use process: prescribing, transcribing, dispensing, compounding, administration, or monitoring.
+
+> 🤧 *Age‑related errors are especially problematic: older adults often take many medications, and pediatric patients are highly vulnerable to dosing mistakes.*
 
 **Medication errors** can result from breakdowns at multiple points in the medication-use system. Patient safety depends on accurate prescription processing and dispensing, for which the FDA, ISMP, and USP provide safety guidelines. Common medication errors include:
 
@@ -37,6 +62,8 @@ Pharmacy technicians are often the final checkpoint before a medication reaches 
 - 📂 Keep accurate records and update patient profiles
 - 🎓 Engage in continuous training on safety procedures & error prevention programs
 - 🛡️ Report near-misses to help identify system flaws before they cause harm
+
+---
 
 ## 🔢 Steps in the Medication-Use Process
 

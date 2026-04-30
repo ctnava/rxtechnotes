@@ -1,30 +1,7 @@
 # 💊 Medication Safety  
 
-Medication safety focuses on preventing **Adverse Drug Events (ADEs)** and reducing the risk of **medication errors**, two of the most important responsibilities in any pharmacy setting.
-
----
-
-## ⚠️ Adverse Drug Events (ADEs)
-
-An **Adverse Drug Event (ADE)** is any injury or harm resulting from medication use.  
-Severity can range from mild to life‑threatening, including:
-
-- Allergic reactions  
-- Organ toxicity (e.g., kidney failure)  
-- Life‑threatening complications or death  
-
-> 🩺 *Not all ADEs are caused by errors. Some are unavoidable due to patient‑specific factors.*
-
-Many ADEs **can** be prevented through proper monitoring, communication, and adherence to safety protocols.
-
----
 
 ## 🚨 Medication Errors  
-
-Medication errors are a **major preventable cause** of ADEs.  
-They can occur at **any stage** of the medication‑use process: prescribing, transcribing, dispensing, compounding, administration, or monitoring.
-
-> 🤧 *Age‑related errors are especially common: older adults often take many medications, and pediatric patients are highly vulnerable to dosing mistakes.*
 
 ### Common Causes of Medication Errors
 
