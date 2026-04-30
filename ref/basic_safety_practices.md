@@ -1,5 +1,7 @@
 # 💊 Medication Safety Practices & Errors
 
+Each year, The Joint Commission publishes a list of National Patient Safety Goals, which includes hospital practices that have been shown to prevent patient harm.
+
 Medication safety focuses on preventing **Adverse Drug Events (ADEs)**, reducing the risk of **medication errors**, and ensuring optimal patient outcomes; three of the most important responsibilities in any pharmacy setting.
 
 Pharmacy technicians play a critical frontline role in identifying, preventing, and reporting potential errors before they reach the patient by ✅*adhering to proper procedures* and 👩‍⚕️*collaborating with pharmacists*.
