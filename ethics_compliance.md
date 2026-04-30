@@ -67,9 +67,10 @@ While not government entities, these organizations shape pharmacy standards:
 - **American Society of Health-System Pharmacists (ASHP)**: Accredits pharmacy residencies and training programs; has model curriculum for technician training
 - **The Joint Commission (TJC or J-Co)**: A non-profit that establishes standards & monitors compliance for healthcare programs in the US. TJC-accredited programs include hospitals, healthcare networks, HMOs, & nursing homes.
 - **Institute for Safe Medication Practices (ISMP)**: A nonprofit organization devoted to preventing medication errors. ISMP develops safety alerts, best practices, and error-prevention strategies widely adopted in pharmacy and healthcare settings.
+  - **National Coordinating Council for Medication Error Reporting & Prevention (NCCMERP)**: Analyzes errors voluntarily reported to the ISMP, through the Medication Error Reporting Program (MERP), and publishes a newsletter to help hospitals prevent similar errors
 - **United States Pharmacopeia Convention (USP)**: Develops official drug quality standards adopted nationwide via the *USP–NF*
 - **American Society for Consultant Pharmacists (ASCP)**: Sets standards for the practice of pharmacy who provide medication distribution and consultation for nursing homes.
-- **Accreditation Commission for Health Care(ACHC)**: Sets standards for pharmacies that provide services in the realm of: infusion, community retail, long-term care, & specialty pharmacy. They also administer the *Pharmacy Compounding Accreditation Board (PCAB)* accreditation.
+- **Accreditation Commission for Health Care (ACHC)**: Sets standards for pharmacies that provide services in the realm of: infusion, community retail, long-term care, & specialty pharmacy. They also administer the *Pharmacy Compounding Accreditation Board (PCAB)* accreditation.
 
 ### ⚖️ Court of Law
 
