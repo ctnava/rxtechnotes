@@ -71,6 +71,8 @@ Medication errors can happen at any point from prescribing to patient use. Under
 
 The **Joint Commission (TJC)** and **Institute for Safe Medication Practices (ISMP)** are two organizations that work to analyze and reduce medication-related harm. Their guidance informs safety protocols used across the healthcare system.
 
+> 🛡️ *Most medication errors are preventable with proper workflow, communication, and verification. They are are system‑based, not individual failures.*
+
 ### 1. Prescribing & Order Communication
 
 A licensed prescriber (e.g., physician, nurse practitioner, dentist) selects and orders a medication based on the patient's diagnosis. Then, the prescription or medication order is transmitted from the prescriber to the pharmacy (or within a facility to the pharmacy or nursing unit).
@@ -78,9 +80,11 @@ A licensed prescriber (e.g., physician, nurse practitioner, dentist) selects and
 **Potential Errors**:
 
 - **Prescribing**
-  - Wrong drug or dose chosen
+  - Multiple prescribers and pharmacies for same therapy
+  - Wrong drug, dose, frequency, or route chosen
   - Prescribing a drug the patient is allergic to
   - Omitting necessary details (e.g., route, frequency)
+  - Omitting entire prescriptions
   - Illegible handwriting (on written scripts)
   - Prescribing despite known drug interactions
   - 🛡️ Technicians do not prescribe but may help identify potential allergies or duplicate therapies by reviewing patient profiles or alerting pharmacists. Educate yourself on high-alert medications and those with narrow therapeutic indexes.
@@ -153,6 +157,7 @@ From here, labels are printed or written for the final medication container disp
 | **Drug name suffixes** | Time-release formulations may differ significantly in onset, duration, or dosing frequency. | Pay attention to suffixes like **XR**, **ER**, **SR**, **CR**, **LA**. Verify dosing schedule. |
 | **Dangerous abbreviations** | Misinterpreted abbreviations can cause dosing errors. | Follow the **TJC “Do Not Use” List**. Avoid things like **U** (for units), **QD** (daily), **MS** (ambiguous). [View list](https://www.jointcommission.org/-/media/tjc/documents/resources/patient-safety-topics/sentinel-event/do-not-use-list.pdf) |
 | **OTC brand name extensions** | A single brand may have multiple formulations with different active ingredients. | Always check the **Drug Facts Label** for active ingredients. Avoid assuming all versions are the same. |
+| **Interruptions & Distractions** | Disruptions in workflow and division of attention during preparation | Keep to one task at a time and make sure to leave notes if you need to interrupt your task |
 
 ### 3. Dispensing, Education, & Distribution
 
@@ -163,6 +168,7 @@ The **final check** is performed and medication is prepared for release to the p
 - **Dispensing**
   - Dispensing the **wrong drug**
   - Dispensing the **correct drug but in the wrong strength**
+  - Dispensing **expired drugs**
   - Mismatching patient profile and prescription
   - Omission of counseling or warnings
   - 🛡️ Barcode scan the medication. Verify patient information. Ensure pharmacist verification and patient counseling, where required.
@@ -196,6 +202,7 @@ The patient’s response to therapy is also assessed to determine if adjustments
 - **Administration**
   - Wrong patient, drug, time, route, or dose
   - Omission of required dose
+  - Erroneous entry into Medication Administration Record
   - Giving medication despite contraindications
   - 🛡️ In outpatient settings, confirm patient understanding during pick-up. In institutional settings, support administration by restocking and flagging issues.
 - **Use**
