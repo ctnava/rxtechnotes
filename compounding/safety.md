@@ -1,74 +1,113 @@
 # Employee Safety & Risk Management
 
-## Materials Safety & Disposal
+Healthcare environments contain a wide range of chemical, biological, and physical hazards. Pharmacy technicians must understand not only **what** these hazards are, but **why** they matter, **how** they are regulated, and **what procedures** ensure a safe workplace. This chapter provides a foundational overview of hazardous materials management, waste segregation, and infection control practices used across hospital and outpatient pharmacy settings.
 
-Some medications or chemicals found in compounding areas are hazardous to personnel.
+---
 
-Special procedures are required for **IDENTIFYING** the hazardous substance, **CONTAINING** spills, and **DISPOSING** of waste.
+## ☣️ Materials Safety & Hazardous Waste Management
 
-**Safety Data Sheets (SDS)** contain information regarding safe handling procedures, signs and symptoms of exposure, and exposure limits. **REVIEW before handling.**
+Modern pharmacies handle substances that can cause acute or chronic harm if mishandled. These include corrosive chemicals, cytotoxic medications, volatile solvents, and biological contaminants. Because of this, federal and state regulations require structured systems for identifying hazards, training employees, and ensuring safe disposal.
 
-**RIGHT TO KNOW** is a mandated OSHA standard requiring employees to be knowledgeable about hazardous substances in their work environment.
+### 🦅 OSHA Hazard Communication Standard (“Right to Know”)
 
-Hospitals must:
+Under the OSHA Hazard Communication Standard, employees have a legally protected **Right to Know** about hazardous chemicals in their workplace. This includes:
 
-- Train employees about hazardous chemicals  
-- Maintain a list of hazardous chemicals and substances  
-- Label chemicals with proper warnings  
-- Keep SDS available to employees  
+- The identity and classification of hazardous substances  
+- The risks associated with exposure  
+- Required PPE and engineering controls  
+- Emergency procedures for spills or accidental contact  
 
-hospitals must
+Hospitals and pharmacies must therefore:
 
-- train employees about hazardous mchemicals
-- maintain a list of hazardous chemicals and substances
-- label the chemicals with proper warnings
-- and have SDS available to employees
+- Maintain an updated inventory of hazardous chemicals  
+- Provide initial and ongoing employee training  
+- Ensure all containers are properly labeled with hazard warnings  
+- Keep **Safety Data Sheets (SDS)** accessible at all times  
 
-Proper waste disposal is important to keep workers, the community, and the environment safe.
+An ***SDS*** is a standardized document that outlines:
 
-**UNLESS OTHERWISE INDICATED, waste can be disposed of normally - except for the following:**
+- Physical and chemical properties  
+- Routes of exposure and symptoms  
+- First‑aid measures  
+- Safe handling and storage requirements  
+- Spill containment procedures  
+- Disposal considerations  
 
-### RED Bins — Infectious Materials
+### Waste Segregation & Disposal Systems
 
-RED BAGS are used for items containing blood or infectious waste.
+Waste disposal in healthcare is governed by environmental, occupational, and public health regulations. Improper disposal can harm workers, contaminate groundwater, or violate federal law. Pharmacies use color‑coded waste streams to ensure compliance.
 
-Needles or other items that may cut or puncture must always be thrown in **RED sharps containers**.
+#### 🟥 Red Bins — Infectious & Biohazardous Waste
 
-Soiled linen, scrubs, and reusable items such as cleaning rags are **sanitized**, not disposed.
+Red bags and red sharps containers are used for materials contaminated with **blood, bodily fluids, or infectious agents**.
 
-### BLACK Bins — Hazardous Waste
+Examples include:
 
-**USP <800>** sets quality standards and procedures for managing drugs defined by **NIOSH** as hazardous. Its purpose is to increase safety for patients, workers, and the environment, and to establish requirements for receiving, storing, compounding, dispensing, and administering hazardous medications.
+- **SHARPS**: items that may cut or puncture (Used needles, lancets, and syringes)
+- Blood‑soaked gauze or dressings  
+- Contaminated gloves or PPE  
 
-NIOSH identifies hazardous drugs including:
+Reusable items such as scrubs or linens are **sanitized**, not discarded.
 
-- Cytotoxic/antineoplastic drugs  
-- Hormonal agonists and antagonists  
-- Medications that cause harm upon physical contact  
+### ⬛ Black Bins — Hazardous Pharmaceutical Waste
 
-Drugs harmful to the environment or groundwater must be disposed of in **designated black hazardous waste bins**.
+Black bins are reserved for medications classified as hazardous by **NIOSH**, **EPA**, **DEA**, or **DOT**. These substances pose risks such as carcinogenicity, reproductive toxicity, organ damage, or environmental contamination.
 
-The **EPA**, **DEA**, and **DOT** provide regulatory lists of hazardous drugs and chemicals.
+#### ☣️ USP <800> Overview  
 
-#### Eyewash Stations
+USP <800> establishes national standards for:
 
-Eyewash stations are used when a hazardous substance splashes into an employee’s eye. They may be:
+- Receiving and unpacking hazardous drugs  
+- Storage requirements (e.g., negative pressure rooms)  
+- Compounding and manipulation  
+- PPE requirements  
+- Decontamination and cleaning  
+- Waste disposal  
 
-- Connected to sinks  
-- Wall-mounted or standalone eyewash bottles  
-- Dual-flow systems that flush both eyes simultaneously  
+NIOSH identifies hazardous drugs based on:
 
-Employees must know the location and proper use of the nearest eyewash station.
+- **Cytotoxicity** (e.g., antineoplastic agents)  
+- **Reproductive toxicity** (e.g., hormonal therapies)  
+- **Organ toxicity at low doses**  
+- **Genotoxicity**  
+- **Drugs harmful upon skin contact**  
 
-### YELLOW Bins — Chemotherapy & Cytotoxic Medications
+Any medication meeting these criteria must be handled and discarded according to USP <800> standards.
 
-Yellow bins are used for **chemotherapy and cytotoxic waste**, including:
+### 🟨 Yellow Bins — Trace Chemotherapy & Cytotoxic Waste
 
-- Disposable gowns and gloves  
-- IV vials, bags, and tubing  
-- Any equipment that has come into contact with chemotherapy agents  
+Yellow bins are used for **trace chemotherapy waste**, meaning items contaminated with small amounts of cytotoxic drugs.
 
-**Full or partial vials or bags containing chemotherapy medications must be discarded in BLACK hazardous waste bins**, not yellow.
+Examples include:
+
+- Disposable gowns and gloves used during chemo handling  
+- Empty IV bags, tubing, and vials  
+- Wipes and absorbent pads used during compounding  
+
+🚨 **Important Distinction:**  
+
+- **Trace waste → Yellow bin**  
+- **Bulk waste (full or partially full vials/bags) → Black hazardous waste bin**  
+
+This distinction prevents environmental contamination and ensures compliance with EPA regulations.
+
+### Eyewash Stations & Emergency Response
+
+Hazardous materials can cause immediate and irreversible damage if they contact the eyes. Pharmacies must maintain accessible eyewash stations that meet ANSI standards.
+
+Types include:
+
+- Sink‑mounted units  
+- Wall‑mounted stations  
+- Standalone eyewash bottles  
+- Dual‑flow systems for simultaneous flushing  
+
+Technicians must know:
+
+- The nearest eyewash location  
+- How to activate it  
+- That flushing must continue for **at least 15 minutes**  
+- That all exposures must be reported immediately
 
 ---
 
