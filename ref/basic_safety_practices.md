@@ -170,12 +170,12 @@ The **ISMP maintains a list of high-alert medications**, which carry a higher ri
 
 - ☣️ Chemotherapy drugs (Vincristine)
 - 🔐 Opioids (Fentanyl, Morphine)
+- TPN
 - Insulin **U-500**
 - Anticoagulants (Warfarin, Heparin)
 - Concentrated electrolytes (Potassium Chloride, Sodium Chloride 3%)
 - Vecuronium
 - Epinephrine
-- TPN
 
 Pharmacy staff should exercise **extra caution** when handling these.
 
