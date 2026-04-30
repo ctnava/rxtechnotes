@@ -4,7 +4,7 @@ Healthcare environments contain a wide range of chemical, biological, and physic
 
 ---
 
-## ☣️ Materials Safety & Hazardous Waste Management
+## ☣️ Hazardous Materials
 
 Modern pharmacies handle substances that can cause acute or chronic harm if mishandled. These include corrosive chemicals, cytotoxic medications, volatile solvents, and biological contaminants. Because of this, federal and state regulations require structured systems for identifying hazards, training employees, and ensuring safe disposal.
 
