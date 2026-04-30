@@ -262,10 +262,10 @@ The patient’s response to therapy is also assessed to determine if adjustments
 
 - **Administration**
   - Wrong patient, drug, time, route, or dose
-    - IV Pumps are programmed to alert nurses when they attempt to administer outside of normal guidelines
-    - IV Pumps can also lose calibration due to improper or neglected maintenance
+    - 🤯 IV Pumps are programmed to alert nurses when they attempt to administer outside of normal guidelines
+    - 🤯 IV Pumps can also lose calibration due to improper or neglected maintenance
   - Extra Dose or Missed Dose
-    - Bar-coding is a common technology used to automatically update the Medication Administration Record (MAR)
+    - 🤯 Bar-coding is a common technology used to automatically update the Medication Administration Record (MAR)
   - Giving medication despite contraindications
   - 🛡️ In outpatient settings, confirm patient understanding during pick-up. In institutional settings, support administration by restocking and flagging issues.
 - **Use**
