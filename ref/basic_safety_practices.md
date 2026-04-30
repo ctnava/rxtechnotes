@@ -65,6 +65,19 @@ Pharmacy technicians are often the final checkpoint before a medication reaches 
 
 ---
 
+## Reporting & Monitoring
+
+Hospitals have an internal **Medication Safety Committee** that reviews medication errors, establishes preventative policies & procedures, and maintains an anonymous incident reporting system.
+
+**Incident Reports* are statements of facts surrounding medical errors.
+
+- **close call:** medication safety event that had the potential to cause harm but did not reach the patient
+- **sentinel event**: patient safety event that results in death, permanent harm, or severe temporary harm
+  - hospitals have to perform Root Cause Analysis for future incident prevention
+  - depending on severity, the Safety Committee may have to report to The Joint Commission.
+
+---
+
 ## 🔢 Steps in the Medication-Use Process
 
 Medication errors can happen at any point from prescribing to patient use. Understanding each step helps technicians identify where safeguards are needed. When similar errors appear in different settings, they often share common root causes. Identifying and addressing these shared vulnerabilities helps prevent future incidents.
