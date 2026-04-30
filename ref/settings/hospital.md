@@ -297,6 +297,24 @@ These references can be accessed through:
 
 ---
 
+## Emergency Codes
+
+Emergency codes are a critical component of hospital safety infrastructure. They allow staff to respond rapidly to life‑threatening or high‑risk situations while **preventing panic** among patients and visitors. Although historically hospitals used highly variable, facility‑specific code systems, **The Joint Commission (TJC)** now recommends a standardized, color‑based framework to improve clarity and reduce response errors.
+
+| Code | Meaning |
+| --- | --- |
+| **Blue** | Medical Emergency |
+| **Pink** | Child/Infant Abduction |
+| **Red** | Fire |
+| **Black** | Bomb Threat |
+| **Orange** | Hazardous Material Incident |
+| **White** | Hostage Situation |
+| **Green** | Disaster Plan Activation |
+| **Gray** | Need for Security |
+| **Silver** | Active Shooter |
+
+---
+
 ## 🗺️🔗 Nav Links
 
 🔙🔗 Back to [Pharmacy Settings](../../settings.md)
