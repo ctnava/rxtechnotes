@@ -168,11 +168,14 @@ A licensed prescriber (e.g., physician, nurse practitioner, dentist) selects and
 
 The **ISMP maintains a list of high-alert medications**, which carry a higher risk of causing serious harm if used in error. These may include:
 
-- Chemotherapy drugs (☣️)
-- Insulins
-- Anticoagulants
-- Concentrated electrolytes
-- Opioids (🔐)
+- ☣️ Chemotherapy drugs (Vincristine)
+- 🔐 Opioids (Fentanyl, Morphine)
+- Insulin **U-500**
+- Anticoagulants (Warfarin, Heparin)
+- Concentrated electrolytes (Potassium Chloride, Sodium Chloride 3%)
+- Vecuronium
+- Epinephrine
+- TPN
 
 Pharmacy staff should exercise **extra caution** when handling these.
 
