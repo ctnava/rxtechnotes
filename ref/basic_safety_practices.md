@@ -142,15 +142,18 @@ A licensed prescriber (e.g., physician, nurse practitioner, dentist) selects and
 
 - **Prescribing**
   - Multiple prescribers and pharmacies for same therapy
+    - 🛡️ Use medication reconciliation to obtain a current list of medication during admission and discharge
   - Wrong drug, dose, frequency, or route chosen
   - Prescribing a drug the patient is allergic to
   - Omitting necessary details (e.g., route, frequency)
   - Omitting entire prescriptions
   - Illegible handwriting (on written scripts)
+    - 🛡️ Use of CPOE systems is encouraged
   - Prescribing despite known drug interactions
   - 🛡️ Technicians do not prescribe but may help identify potential allergies or duplicate therapies by reviewing patient profiles or alerting pharmacists. Educate yourself on high-alert medications and those with narrow therapeutic indexes.
 - **Transcription**
   - Verbal orders misunderstood or misheard
+    - 🛡️ Do only when necessary
   - Faxed or electronic orders routed incorrectly
   - Incomplete or ambiguous instructions
   - Errors in transcription or data entry
