@@ -199,7 +199,7 @@ Some pathogens spread through **respiratory droplets** or **airborne particles**
 
 Common immunizations for healthcare workers include:  
 
-- Hepatitis B  
+- Hepatitis B: Due to close contact with bodily fluid
 - MMR  
 - Influenza  
 - COVID‑19  
