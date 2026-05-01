@@ -49,16 +49,18 @@ All pharmacy personnel must comply with **federal and state laws**, under the su
 - **Food and Drug Administration (FDA)**: Established by the *Federal Food, Drug, and Cosmetic Act (1938)*. Oversees safety and regulation of drugs, devices, cosmetics, supplements, and radiation-emitting products.
 - **Drug Enforcement Administration (DEA)**: Enforces the *Controlled Substances Act (1970)* and regulates controlled substances.
 - **Department of Health and Human Services (HHS)**: The primary federal agency responsible for protecting the health of all Americans. Oversees public health programs and agencies including the CDC, FDA, CMS, and NIH. During public health emergencies, HHS can expand access to care through guidance and waivers (e.g., authorizing technicians to administer vaccines).
+- **Centers for Medicare and Medicaid Services (CMS)**: Surveys and approves hospitals to provide care for Medicare and Medicaid patients. CMS approval is required to receive reimbursement.
 
 #### State Agencies
 
-Each state’s **Board of Pharmacy** is responsible for:
-
-- Licensing pharmacists and pharmacy technicians
-- Enforcing state-specific pharmacy regulations
-- Granting limited prescribing rights to certain non-physician healthcare providers (e.g., NPs, PAs, pharmacists)
-
-[🔗 Prescriptive Authority Quick Reference](./ref/prescribers.md)
+- **Department of Public Health (DPH)**
+  - oversees hospitals (including the pharmacy department)
+  - assures compliance with hospital practice standards
+- **Board of Pharmacy (BOP)**
+  - Licensing pharmacists and pharmacy technicians
+  - Enforcing state-specific pharmacy regulations
+  - Granting limited prescribing rights to certain non-physician healthcare providers (e.g., NPs, PAs, pharmacists)
+  - [🔗 Prescriptive Authority Quick Reference](./ref/prescribers.md)
 
 #### Non-Government Organizations (NGOs)
 
@@ -66,9 +68,10 @@ While not government entities, these organizations shape pharmacy standards:
 
 - **American Society of Health-System Pharmacists (ASHP)**: Accredits pharmacy residencies and training programs; has model curriculum for technician training
 - **The Joint Commission (TJC or J-Co)**: A non-profit that establishes standards & monitors compliance for healthcare programs in the US. TJC-accredited programs include hospitals, healthcare networks, HMOs, & nursing homes.
+  - accreditation typically required for reimbursement by CMS and several insurances
 - **Institute for Safe Medication Practices (ISMP)**: A nonprofit organization devoted to preventing medication errors. ISMP develops safety alerts, best practices, and error-prevention strategies widely adopted in pharmacy and healthcare settings.
   - **National Coordinating Council for Medication Error Reporting & Prevention (NCCMERP)**: Analyzes errors voluntarily reported to the ISMP, through the Medication Error Reporting Program (MERP), and publishes a newsletter to help hospitals prevent similar errors
-- **United States Pharmacopeia Convention (USP)**: Develops official drug quality standards adopted nationwide via the *USP–NF*
+- **United States Pharmacopeia Convention (USP)**: Creates standards to assure the quality of medicines, dietary supplements, and related products adopted nationwide via the *USP–NF*
 - **American Society for Consultant Pharmacists (ASCP)**: Sets standards for the practice of pharmacy who provide medication distribution and consultation for nursing homes.
 - **Accreditation Commission for Health Care (ACHC)**: Sets standards for pharmacies that provide services in the realm of: infusion, community retail, long-term care, & specialty pharmacy. They also administer the *Pharmacy Compounding Accreditation Board (PCAB)* accreditation.
 
