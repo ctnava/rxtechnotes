@@ -282,6 +282,43 @@ Candidates must apply online through the PTCB website. Once approved, they can s
 
 ## 🚀 Additional Career Advancement
 
+### Hospital Careers
+
+Hospital pharmacy is a **high‑acuity, protocol‑driven environment** where technicians support inpatient care, sterile compounding, and medication distribution systems that operate 24/7. Unlike retail settings, hospital roles require **additional onboarding, training, and compliance steps** to ensure safety in a clinical environment.
+
+#### 🔑 What to Expect When Applying
+
+- HR interview and background check  
+- Physical exam + immunization verification  
+- Drug screening  
+- New‑hire orientation covering:
+  - emergency color codes (Code Blue, Code Red)
+  - workplace safety
+  - HIPAA and compliance policies
+
+#### 🧪 Department Training
+
+Once hired, technicians complete pharmacy‑specific training, which may include:
+
+- Sterile compounding (USP <797>)  
+- Hazardous drug handling ☣️ (USP <800>)
+- Automated dispensing cabinets (Pyxis/Omnicell)  
+- Unit‑dose packaging and barcoding  
+- Medication delivery systems (tube station, cart fill)
+
+> 📌 Even experienced techs must complete hospital‑specific competencies.
+
+#### 📅 Probation Period
+
+Most hospitals use a **90‑day probation period**. Performance is evaluated on:
+
+- accuracy and workflow  
+- sterile technique  
+- communication with nurses and pharmacists  
+- professionalism and reliability  
+
+Outcomes may include successful completion, extension, or termination
+
 ### Additional Certifications
 
 Pharmacy technicians can pursue additional certifications and training to move into more advanced or specialized roles.
