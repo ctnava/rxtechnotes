@@ -296,6 +296,9 @@ Hospital pharmacy is a **high‑acuity, protocol‑driven environment** where te
   - workplace safety
   - HIPAA and compliance policies
 
+> 🩺 Personnel who respond to emergency codes are certified in **Basic Life Support (BLS)** and **Advanced Cardiac Life Support (ACLS)** so they can perform CPR and use an Automated External Defibrillator (AED).  
+> 📌 **Including BLS on your resume is a bonus**, especially for hospital roles.
+
 #### 🧪 Department Training
 
 Once hired, technicians complete pharmacy‑specific training, which may include:
