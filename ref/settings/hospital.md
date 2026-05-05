@@ -30,7 +30,9 @@ An **Inpatient Pharmacy** is a pharmacy located in a hospital that services only
 Hospital pharmacies must coordinate with multiple departments across the facility to ensure timely and accurate medication distribution. Understanding the layout and terminology used for different clinical units helps pharmacy technicians navigate workflow efficiently.
 
 - **Auxiliary Units** are clinical patient care areas where medications are stored and administered.
-  - **Nurses' stations**: primary workstation for medical personnel & the **unit hub** for communications; stores meds, charts, and supplies.
+  - **Nurses' stations**: primary workstation for medical personnel & the **unit hub** for communications
+    - stores meds, charts, and supplies
+    - **Unit Inspections** are performed by Pharmacy Technicians to ensure nursing units are compliant with hospital medication policies
 - **Ancillary Departments** such as radiology, respiratory therapy, dialysis, and central supply also receive support from the pharmacy.
 - **Central Supply** stocks items not provided by the pharmacy (e.g. lotions, mouthwash, pill cutters) and sometimes IV solutions.
 
