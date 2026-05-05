@@ -39,7 +39,7 @@ Hospital pharmacies must coordinate with many areas across the facility. Underst
 
 Hospital pharmacies are organized into specialized areas such as the **Central Pharmacy** and **satellite pharmacies**, that support both auxiliary units and ancillary departments throughout the hospital.
 
-All inpatient phamracies are responsible for medication preparation and distribution.
+All inpatient pharmacies are responsible for medication preparation and distribution.
 
 🧭 **Central Pharmacy**
 
