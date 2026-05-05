@@ -40,7 +40,7 @@ Unit dosing is standard in hospitals because it:
 
 #### Automated Dispensing Cabinets (ADCs)
 
-Automated dispensing cabinets (e.g., Pyxis, Omnicell) store the most commonly used unit dose medications for each care area.
+Automated dispensing cabinets (e.g., Pyxis, Omnicell) store the most commonly used unit dose medications for each care area **at the point of use**.
 
 - 🩺 A pharmacist must **review and verify** orders before removal  
 - 🚨 A limited number of emergency medications may be removed without prior pharmacist review (per hospital policy)  
