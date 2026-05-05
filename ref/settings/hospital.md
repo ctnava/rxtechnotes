@@ -21,40 +21,23 @@ Hospitals are healthcare institutions that provide medical treatment, surgical s
   - **RPh (Registered Pharmacist)**: Reviews orders, dispenses medications, consults on therapy. Can order medications if allowed by hospital protocol.
   - **Clinical Pharmacist**: Advanced training; participates in patient care rounds, optimizes therapy & monitoring. May or may not dispense. Can order medications if allowed by hospital protocol.
 
-## 🏥 Hospital Pharmacy Layout
+## 🏥 Hospital Layout
+
+### Central Supply
+
+Central Supply is a **non‑pharmacy department** responsible for stocking and distributing general medical supplies used throughout the hospital.
+
+- Provides non‑pharmacy items such as lotions, mouthwash, pill cutters, gloves, and basic medical equipment  
+- May store IV solutions depending on hospital policy  
+- Works closely with the pharmacy but operates independently  
 
 ### Inpatient Pharmacies
 
-An **Inpatient Pharmacy** is a pharmacy located in a hospital that services only those patients in the hospital and its ancillary areas.
+An **Inpatient Pharmacy** is a pharmacy located inside a hospital that provides medications exclusively for **admitted patients** and the hospital’s clinical departments.
 
-Hospital pharmacies must coordinate with multiple departments across the facility to ensure timely and accurate medication distribution. Understanding the layout and terminology used for different clinical units helps pharmacy technicians navigate workflow efficiently.
+Hospital pharmacies must coordinate with many areas across the facility. Understanding the difference between **auxiliary units** and **ancillary departments** is essential for navigating workflow, deliveries, and communication.
 
-- **Auxiliary Units** are clinical patient care areas where medications are stored and administered.
-  - **Nurses' stations**: primary workstation for medical personnel & the **unit hub** for communications
-    - stores meds, charts, and supplies
-    - **Unit Inspections** are performed by Pharmacy Technicians to ensure nursing units are compliant with hospital medication policies
-- **Ancillary Departments** such as radiology, respiratory therapy, dialysis, and central supply also receive support from the pharmacy.
-- **Central Supply** stocks items not provided by the pharmacy (e.g. lotions, mouthwash, pill cutters) and sometimes IV solutions.
-
-| Abbreviation | Auxiliary Unit Name | Description |
-| -------------- | --------------------- | ------------- |
-| ASC | Ambulatory Surgery Center | Outpatient surgical procedures |
-| BMTU | Bone Marrow Transplant Unit | Specialized oncology care |
-| CCU | Cardiac/ Coronary Care Unit | Intensive cardiac care |
-| ED | Emergency Department | Emergency and trauma services |
-| ER | Emergency Room | Synonym for ED |
-| ICU | Intensive Care Unit | Critical care for unstable patients |
-| CT ICU | Cardiothoracic Intensive Care Unit | Cardiac and thoracic post-op care |
-| NICU | Neonatal/ Neurological Intensive Care Unit | Critical care for newborns or neurology patients |
-| PICU | Pediatric Intensive Care Unit | Critical care for children |
-| SICU | Surgical Intensive Care Unit | Post-surgical intensive care |
-| OB | Obstetrics | Maternal care and delivery |
-| OR | Operating Room | Surgical procedures |
-| PAR | Post-Anesthesia Recovery | Immediate post-op care |
-| PACU | Post-Anesthesia Care Unit | Same as PAR |
-| PEDS | Pediatrics | Inpatient care for children |
-
-Hospital pharmacies are compartmentalized into specialized areas that support inpatient, outpatient, and ancillary medical services. These areas include the Central Pharmacy and its Satellites.
+Hospital pharmacies are organized into specialized areas such as the **Central Pharmacy** and **satellite pharmacies**, that support both auxiliary units and ancillary departments throughout the hospital.
 
 🧭 **Central Pharmacy**
 
@@ -86,6 +69,58 @@ Pharmacy satellites are smaller pharmacies that are responsible for preparing, d
   - Maintain **limited, specialized inventory** tailored to the needs of the serviced unit
 
 > 📌 Satellites are typically **open 24 hours**. When closed, central pharmacy assumes their duties.
+
+### 🏥 Auxiliary Units (Patient Care Areas)
+
+**Auxiliary Units** are **direct patient‑care units** where nurses administer medications.  
+These areas store unit‑dose medications, IV fluids, emergency drugs, and supplies needed for bedside care.
+
+Examples of auxiliary units include:
+
+| Abbreviation | Auxiliary Unit Name | Description |
+| --- | --- | --- |
+| ASC | Ambulatory Surgery Center | Outpatient surgical procedures |
+| BMTU | Bone Marrow Transplant Unit | Specialized oncology care |
+| CCU | Cardiac/Coronary Care Unit | Intensive cardiac care |
+| ED | Emergency Department | Emergency and trauma services |
+| ER | Emergency Room | Synonym for ED |
+| ICU | Intensive Care Unit | Critical care for unstable patients |
+| CT ICU | Cardiothoracic ICU | Post‑op cardiac/thoracic care |
+| NICU | Neonatal/Neurological ICU | Critical care for newborns or neuro patients |
+| PICU | Pediatric ICU | Critical care for children |
+| SICU | Surgical ICU | Post‑surgical intensive care |
+| OB | Obstetrics | Maternal care and delivery |
+| OR | Operating Room | Surgical procedures |
+| PAR | Post‑Anesthesia Recovery | Immediate post‑op care |
+| PACU | Post‑Anesthesia Care Unit | Same as PAR |
+| PEDS | Pediatrics | Inpatient care for children |
+
+The **nurses’ station** is the central hub of each auxiliary unit.
+
+- Primary communication center for the unit  
+- Stores medication bins, charts, and supplies  
+- Houses the Automated Dispensing Cabinet (ADC)  
+- Location where **unit inspections** are performed by pharmacy technicians  
+  - checking for expired meds  
+  - verifying proper storage  
+  - ensuring compliance with hospital medication policies  
+
+Auxiliary units are the **primary destinations** for medication deliveries, ADC restocking, and STAT requests.
+
+### 🧪 Ancillary Departments (Diagnostic & Support Services)
+
+**Ancillary Departments** are **non‑patient‑care departments** that support diagnosis, treatment, or hospital operations.  
+They do not administer medications routinely, but they often require pharmacy support.
+
+Common ancillary departments include:
+
+- **Radiology / Imaging** (contrast agents, sedation meds)  
+- **Respiratory Therapy** (nebulizers, inhalation meds)  
+- **Dialysis** (heparin, electrolytes)  
+- **Endoscopy** (procedure sedation, emergency meds)  
+- **Laboratory** (reagents, anticoagulants for procedures)
+
+Ancillary departments receive medications **as needed** for procedures, diagnostics, or departmental stock.
 
 ### 🏪 **Outpatient Pharmacies**
 
