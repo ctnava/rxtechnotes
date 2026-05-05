@@ -297,7 +297,43 @@ These references can be accessed through:
 
 ---
 
-## Emergency Codes
+## Policy & Procedure
+
+Every hospital department is required to maintain an up‑to‑date **Policy & Procedure (P&P) Manual**.  
+
+This document outlines:
+
+- Regulatory requirements  
+- Department‑specific workflows  
+- Safety protocols  
+- Documentation standards  
+- Dress codes, conduct expectations, and disciplinary processes  
+- Step‑by‑step instructions for all routine and specialized tasks
+
+Pharmacy technicians must know **what they are permitted to do**, **what requires pharmacist involvement**, and **what is prohibited**.  
+
+Failure to follow P&P can result in medication errors, compliance violations, or disciplinary action.
+
+### Emergencies
+
+In some hospitals, pharmacy technicians respond to **medical emergencies (codes)** alongside a pharmacist.
+
+Responsibilities may include:
+
+- Bringing the code cart or emergency medications  
+- Assisting with opening trays and preparing medications  
+- Retrieving additional supplies from the pharmacy  
+- Documenting medication usage for pharmacist verification  
+
+> ⚠️ Technicians **never** administer medications during a code but play a critical support role.
+
+<!-- TODO: Insert code cart SOP here -->
+
+### Emergency Codes
+
+Emergency codes allow staff to respond quickly to critical events while minimizing panic among patients and visitors.  
+
+Although code systems once varied widely, **The Joint Commission (TJC)** now recommends a standardized color‑based system.
 
 Emergency codes are a critical component of hospital safety infrastructure. They allow staff to respond rapidly to life‑threatening or high‑risk situations while **preventing panic** among patients and visitors. Although historically hospitals used highly variable, facility‑specific code systems, **The Joint Commission (TJC)** now recommends a standardized, color‑based framework to improve clarity and reduce response errors.
 
@@ -312,6 +348,8 @@ Emergency codes are a critical component of hospital safety infrastructure. They
 | **Green** | Disaster Plan Activation |
 | **Gray** | Need for Security |
 | **Silver** | Active Shooter |
+
+> 📌 Staff must know their hospital’s exact code definitions and response expectations.
 
 ---
 
