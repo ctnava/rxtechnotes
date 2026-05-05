@@ -36,7 +36,7 @@ Unit dosing is standard in hospitals because it:
 
 - 🛡️ Reduces medication errors, especially during emergencies  
 - 🛡️ Supports barcode medication administration (BCMA)  
-- 🩺 Ensures pharmacist verification before administration  
+- 🩺 Ensures pharmacist verification before administration
 
 #### Automated Dispensing Cabinets (ADCs)
 
@@ -48,7 +48,7 @@ Automated dispensing cabinets (e.g., Pyxis, Omnicell) store the most commonly us
 
 #### Automated Packaging Machines
 
-Many hospital pharmacies use machines to **repackage oral solid medications** into unit dose packets.
+Many hospital pharmacies use machines to **repackage oral solid medications** into unit dose packets in bulk.
 
 Each unit dose label must include:
 
@@ -81,6 +81,29 @@ Technician responsibilities include:
 - Labeling each syringe with drug, strength, volume, lot, and expiration  
 - Ensuring pharmacist verification before distribution  
 - Following beyond‑use dating (BUD) policies for repackaged liquids
+
+#### Batching
+
+Batching is the process of preparing **large quantities of unit‑dose medications in advance** for future use.  
+Hospitals batch medications to ensure consistent availability, reduce turnaround time, and support high‑volume inpatient workflows.
+
+> 🛡️ Batching must follow USP standards, hospital policy, and pharmacist verification requirements.
+
+Commonly Batched Items:
+
+- **Oral Tablets & Capsules**
+  - High‑use medications (e.g., acetaminophen, metoprolol, furosemide)  
+  - Typically packaged using automated machines or manual heat‑seal cards  
+- **Oral Solutions & Suspensions**
+  - Pediatric doses  
+  - Concentrated solutions requiring precise measurement  
+  - Must follow **beyond‑use dating (BUD)** and storage requirements  
+- **Small Volume Parenterals (SVPs)**
+  - IV piggybacks (e.g., ceftriaxone, magnesium sulfate)  
+  - Only batched in facilities with appropriate sterile compounding capabilities  
+  - Must comply with **USP <797>** and **USP <800>** when applicable  
+
+> ⚠️ Hazardous drugs, unstable medications, and items with short BUDs may **not** be eligible for batching.
 
 ---
 
