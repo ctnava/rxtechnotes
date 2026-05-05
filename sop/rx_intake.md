@@ -83,6 +83,9 @@ Medications administered at fixed intervals.
 - **Titration Orders**: Dose adjusted based on parameters (e.g., pain scale).
 - **Range Orders**: Dose range allowed; requires pharmacist review for safety. -->
 
+> Make sure to gather relevant data for quick reference by pharmacist for verification
+> e.g. Medication orders for Magnesium should be acompanied by blood levels for Magnesium
+
 ## 🗂️ Step 1: Check for Required Elements
 
 Before processing, verify that the prescription is complete and authentic.
