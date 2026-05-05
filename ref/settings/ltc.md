@@ -7,7 +7,9 @@
 - ♿ Chronic disease hospitals
 - 🦽 Rehabilitation centers
 
-🦅 **Federal Requirement**
+---
+
+## 🦅 **Federal Requirement**
 
 Per **42 CFR § 483.60**, all LTC facilities that accept **Medicare or Medicaid** must provide **pharmacy services 24 hours a day**, including:
 
@@ -18,7 +20,9 @@ Per **42 CFR § 483.60**, all LTC facilities that accept **Medicare or Medicaid*
 
 > 📌 Most LTC facilities **contract with third-parties** to meet these federal requirements.
 
-🧓 **LTC Pharmacy Organizations**
+---
+
+## 🧓 **LTC Pharmacy Organizations**
 
 An **LTC pharmacy organization** is a licensed pharmacy or practice that provides **medication dispensing**, **consulting**, and other pharmacy services to LTC facilities.
 
@@ -58,7 +62,9 @@ Pharmacy technicians in LTC pharmacy settings often take on responsibilities sim
 
 > 📌 Some LTC facilities allow techs to access limited on-site inventory under secure conditions. Tracking and logging of **controlled substances** is often part of the technician’s role.
 
-🤖 **Automated Dispensing Systems in LTC**
+---
+
+## 🤖 **Automated Dispensing Systems in LTC**
 
 To reduce delays in medication access, LTC facilities increasingly use **point-of-care automated dispensing systems** (e.g., Omnicell, Pyxis). These work by:
 

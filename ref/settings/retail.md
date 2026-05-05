@@ -2,6 +2,8 @@
 
 Community retail pharmacies provide direct patient access to prescription medications, health consultations, over-the-counter (OTC) products, and various beauty products. These pharmacies dispense nearly **two-thirds of all prescriptions nationwide**, making them central to public health delivery. They serve as both **medication access points** and **healthcare hubs** within the community.
 
+This is the largest segment of retail pharmacy.
+
 📦 **Types of Retail Pharmacies**:
 
 - 🧾 **Independent Pharmacies**  

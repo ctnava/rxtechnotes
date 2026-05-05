@@ -1,8 +1,14 @@
 # Mail Order Pharmacies
 
-Mail order pharmacies represent the **fastest-growing segment** of the retail pharmacy industry. They offer most services provided by traditional community pharmacies, including compounding, but operate primarily through **centralized, high-volume distribution centers** that ship prescriptions directly to patients' homes.
+Mail order pharmacies represent the **fastest-growing segment** of the retail pharmacy industry.
 
-📬 **Purpose & Use Cases**:
+This growth comes at the expense of community pharmacies.
+
+They offer most services provided by traditional community pharmacies, including compounding, but operate primarily through **centralized, high-volume distribution centers** that ship prescriptions directly to patients' homes.
+
+---
+
+## 📬 **Purpose & Use Cases**
 
 - Designed for patients with **chronic conditions** (i.e. long-lasting health conditions that typically last 12 months or more and may require ongoing medical attention) such as diabetes, hypertension, or depression
 - Medications are shipped with a **delivery window of 24–48 hours or more**
@@ -10,7 +16,7 @@ Mail order pharmacies represent the **fastest-growing segment** of the retail ph
 - **Not suitable** for acute or urgent needs (e.g., antibiotics for sudden infections)  
   - 🚨 Patients with immediate medication needs must visit a local brick-and-mortar pharmacy
 
-🌎 **Licensing & Jurisdiction**:
+## 🌎 **Licensing & Jurisdiction**
 
 - Mail order pharmacies may operate **nationally**, but not required to be **licensed in every state** where they ship medications
 - 🐻 Some states (including California) **require an out-of-state mail order pharmacy** to have:
@@ -20,7 +26,9 @@ Mail order pharmacies represent the **fastest-growing segment** of the retail ph
 - Drugs from **foreign countries** (e.g., Canada) been historically pursued for cost savings  
   - 🚨 Importing prescription medications for personal use remains legally restricted by the FDA, even in small quantities
 
-⚙️ **Operations & Automation**:
+---
+
+## ⚙️ **Operations & Automation**
 
 Mail order pharmacies rely heavily on **automation and workflow segmentation**. The entire fulfillment process is broken into specialized roles:
 
@@ -31,13 +39,17 @@ Mail order pharmacies rely heavily on **automation and workflow segmentation**. 
   - Perform prospective DUR (Drug Utilization Review)
   - Conduct verification and quality assurance checks (i.e. "the **final check**") before shipping
 
-📑 **Tracking & Quality Control**:
+---
+
+## 📑 **Tracking & Quality Control**
 
 - **Barcode scanning** is used at each step of the process to ensure accuracy and traceability
 - Systems generate alerts for duplicate fills, early refills, and drug interactions
 - Orders can be tracked in real time by patients through secure portals
 
-📞 **Patient Support & Counseling**:
+---
+
+## 📞 **Patient Support & Counseling**
 
 Mail order pharmacies maintain **dedicated call centers** for patient support:
 
@@ -48,7 +60,9 @@ Mail order pharmacies maintain **dedicated call centers** for patient support:
   - Help with account setup and portal navigation
 - 🩺 **Only licensed pharmacists** may provide **clinical counseling** or medication-related guidance. Technicians must transfer counseling requests to a pharmacist without delay
 
-✅ **Key Advantages**:
+---
+
+## ✅ **Key Advantages**
 
 - 90-day supply options with potentially lower copays
 - Convenient delivery with refill reminders
