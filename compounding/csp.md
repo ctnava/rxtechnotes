@@ -70,6 +70,8 @@ Sterile compounding must take place in a **cleanroom suite** or **segregated com
 
 ## Types of Preparations
 
+Technicians may be required to prepare any of the following.
+
 ### Batch‑Prepared CSPs
 
 CSPs with standardized formulas, prepared in advance for multiple patients; economically viable to prepare in bulk
