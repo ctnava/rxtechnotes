@@ -23,6 +23,10 @@ Hospitals are healthcare institutions that provide medical treatment, surgical s
 
 ## 🏥 Hospital Pharmacy Layout
 
+### Inpatient Pharmacies
+
+An **Inpatient Pharmacy** is a pharmacy located in a hospital that services only those patients in the hospital and its ancillary areas.
+
 Hospital pharmacies must coordinate with multiple departments across the facility to ensure timely and accurate medication distribution. Understanding the layout and terminology used for different clinical units helps pharmacy technicians navigate workflow efficiently.
 
 - **Auxiliary Units** are clinical patient care areas where medications are stored and administered. The **nurses' station** is the unit hub for communications and stores meds, charts, and supplies.
@@ -80,7 +84,7 @@ Pharmacy satellites are smaller, strategically located pharmacies within the hos
 
 > 📌 Satellites are typically **open 24 hours**. When closed, central pharmacy assumes their duties.
 
-🏪 **Outpatient & Clinic Pharmacies**
+### 🏪 **Outpatient & Clinic Pharmacies**
 
 Hospitals may also have **outpatient pharmacies** or **clinic-affiliated pharmacies** within or near the main hospital campus.
 
