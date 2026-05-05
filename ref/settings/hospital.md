@@ -84,7 +84,9 @@ Pharmacy satellites are smaller, strategically located pharmacies within the hos
 
 > 📌 Satellites are typically **open 24 hours**. When closed, central pharmacy assumes their duties.
 
-### 🏪 **Outpatient & Clinic Pharmacies**
+### 🏪 **Outpatient Pharmacies**
+
+An **Outpatient Pharmacy** services patients who have left the hospital or who are visiting doctors in a hospital outpatient clinic.
 
 Hospitals may also have **outpatient pharmacies** or **clinic-affiliated pharmacies** within or near the main hospital campus.
 
