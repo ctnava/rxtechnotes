@@ -188,8 +188,7 @@ Additives used in IV admixtures typically come in **vials**, which must be handl
 - Intended for **one‑time use only**  
 - **No preservatives**  
 - Must be discarded immediately after first puncture  
-- BUD after opening: **6 hours** (if opened in ISO 5 environment), unless manufacturer specifies otherwise
-  <!-- todo fact check this one -->
+- BUD after opening: 1 to **6 hours (if opened in ISO 5 environment)**, unless manufacturer specifies otherwise
 
 **Multi‑Dose Vials (MDVs)**:
 

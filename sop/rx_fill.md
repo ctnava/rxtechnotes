@@ -249,7 +249,7 @@ Water shortens the product's shelf life so they must have the following dates:
 
 ## 7. 📦 Making Rounds (Inpatient)
 
-Technicians make hourly roundtrips to all nursing stations
+Technicians make hourly roundtrips to all nurses' stations
 
 During these rounds, technicians may:
 

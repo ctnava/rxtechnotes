@@ -29,7 +29,8 @@ An **Inpatient Pharmacy** is a pharmacy located in a hospital that services only
 
 Hospital pharmacies must coordinate with multiple departments across the facility to ensure timely and accurate medication distribution. Understanding the layout and terminology used for different clinical units helps pharmacy technicians navigate workflow efficiently.
 
-- **Auxiliary Units** are clinical patient care areas where medications are stored and administered. The **nurses' station** is the unit hub for communications and stores meds, charts, and supplies.
+- **Auxiliary Units** are clinical patient care areas where medications are stored and administered.
+  - **Nurses' stations**: primary workstation for medical personnel & the **unit hub** for communications; stores meds, charts, and supplies.
 - **Ancillary Departments** such as radiology, respiratory therapy, dialysis, and central supply also receive support from the pharmacy.
 - **Central Supply** stocks items not provided by the pharmacy (e.g. lotions, mouthwash, pill cutters) and sometimes IV solutions.
 
@@ -70,7 +71,7 @@ The central pharmacy is the main hub of medication operations within a hospital.
 
 🛰️ **Pharmacy Satellites**
 
-Pharmacy satellites are smaller, strategically located pharmacies within the hospital, often near specialized patient care units.
+Pharmacy satellites are smaller pharmacies that are responsible for preparing, dispensing, and monitoring medications for specialized patient care units; often being strategically placed nearby.
 
 - 🏥 Common examples:
   - **OR Satellite**: near surgical suites, maintains anesthetics, emergency drugs, and procedure-specific meds
@@ -212,7 +213,7 @@ Though less common in fully electronic facilities, handwritten communication may
 graph TD;
   A(["`Order written in pt chart`"]);
   A-->B["`Copy of order removed from chart`"];
-  B-->C["`Order picked up at nursing station by technician or faxed/ tubed to pharmacy`"];
+  B-->C["`Order picked up at nurses' station by technician or faxed/ tubed to pharmacy`"];
   C-->D["`Order entered into pharmacy computer system`"];
   D-->E["`Pharmacist reviews and verifies medication order`"];
   D--"`Bypass During Emergencies`"-->F;
@@ -224,11 +225,13 @@ graph TD;
 
 ### 📦 Pneumatic Tube Systems
 
-Pneumatic tube systems are used to **rapidly transport medications, lab samples, and documents** between the pharmacy and various departments.
+Pneumatic tube systems shuttle objects through a tube network using compressed air to move programmable containers.
+
+They are used to **rapidly transport medications, lab samples, and documents** between the pharmacy and various departments.
 
 - Medications are placed in **sealed plastic canisters**
 - Tube stations are usually located at:
-  - Nursing stations
+  - Nurses' stations
   - Lab departments
   - Pharmacy
 - ⚠️ **Do not use pneumatic tubes for:**
@@ -258,7 +261,7 @@ graph TD;
   C-->D["`Pharmacy technician restocks ADC as needed`"];
 ```
 
-> Medication may be manually delivered or tubed to the nursing station if there isn't an ADC.
+> Medication may be manually delivered or tubed to the nurses' station if there isn't an ADC.
 
 Hospital IT systems often include:
 

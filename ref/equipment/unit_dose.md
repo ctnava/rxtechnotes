@@ -1,4 +1,4 @@
-# Prepackaged & Unit Dose Medications
+# Prepackaged Medications
 
 ## Dosage Forms
 
