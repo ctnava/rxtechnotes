@@ -141,8 +141,8 @@ Wholesalers create regional and national distribution networks, storing bulk pur
   - a secondary distributor
   - directly from manufacturer
   - or a group purchasing organization
-  - **otherwise,** the pharmacist may seek non-formulary alternatives  that will be unrestricted until the formulary product is available
-- **Emergency Drug Procurement:** technicians may call other local hospitals to borrow a short-term supply or be asked to order an emergency shipment from wholesalers or manufacturers
+  - **otherwise,** the pharmacist may seek non-formulary alternatives that will be unrestricted until the formulary product is available
+- **Emergency Drug Procurement:** technicians may call other local hospitals to borrow a short-term supply or be asked to order an emergency shipment from wholesalers or manufacturers during shortage
 
 ## 🖐 Receiving
 

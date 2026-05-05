@@ -77,6 +77,14 @@ While not government entities, these organizations shape pharmacy standards:
 - **American Society for Consultant Pharmacists (ASCP)**: Sets standards for the practice of pharmacy who provide medication distribution and consultation for nursing homes.
 - **Accreditation Commission for Health Care (ACHC)**: Sets standards for pharmacies that provide services in the realm of: infusion, community retail, long-term care, & specialty pharmacy. They also administer the *Pharmacy Compounding Accreditation Board (PCAB)* accreditation.
 
+#### Facility Committees
+
+<!-- todo enhance -->
+
+- Internal Review Board (IRB): committee that assures hospital research complies with federal, hospital, and ethical standards
+- Infection Control Committee: committee in charge of surveillance, prevention, and control of infgection within the hospital
+- Pharmacy & Therapeutics Committee (P&T): ensure that the formulary supports **safe, effective, and cost-conscious medication use**.
+
 ### ⚖️ Court of Law
 
 `Being liable means you are responsible and can be prosecuted for misconduct.`
