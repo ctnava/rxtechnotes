@@ -14,6 +14,8 @@ This SOP applies to all personnel entering an ISO-classified cleanroom for steri
 
 ![Clean Room Design by Dekker](./clean_room_design.png)
 
+Clean rooms are areas designed for the preparation of sterile products.
+
 ### 🟢 Unrestricted Zone (Workspace)
 
 The outermost area where personnel and materials enter before gowning. Not subject to air quality classification. General public and pharmacy workflow intersect here.
