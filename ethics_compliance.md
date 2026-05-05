@@ -53,6 +53,8 @@ All pharmacy personnel must comply with **federal and state laws**, under the su
 
 #### State Agencies
 
+- **Department of Labor (DOL)**
+  - enforces OSHA
 - **Department of Public Health (DPH)**
   - oversees hospitals (including the pharmacy department)
   - assures compliance with hospital practice standards
