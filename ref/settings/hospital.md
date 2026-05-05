@@ -141,6 +141,8 @@ Hospitals may also have **outpatient pharmacies** or **clinic-affiliated pharmac
 
 ## 🔑 Hospital Pharmacy Technician Roles
 
+Hospital Pharmacy Technicians are often cross-trained to work in different areas of the pharmacy.
+
 - 🧑‍💼 **Pharmacy Technician Supervisor**
   - Manages workflow and technician schedules
   - Trains and evaluates technician staff
