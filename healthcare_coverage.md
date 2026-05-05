@@ -91,7 +91,7 @@ In retail, formularies are managed by PBMs and can be **open** or **closed**. Th
 
 #### 🏥 Institutional Settings
 
-Hospitals maintain **closed formularies** due to cost, storage, and formulary oversight. Only drugs on the approved list are routinely stocked and dispensed.
+Hospitals maintain **closed formularies** due to cost, storage, and formulary oversight. Only drugs on the approved list are routinely stocked and dispensed. Physicians generally only medication that is on-formulary unless there is a specific need.
 
 ##### Therapeutic Interchange Protocol
 

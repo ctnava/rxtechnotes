@@ -177,6 +177,7 @@ There are 3 numerical classes of recalls.
 Recalls are generally handled in 4 steps.
 
 1. **Reports of Adverse Effects** The FDA receives enough reports of adverse effects or misbranding (through MedWatch or VAERS) that it decides the product is a threat and contacts the manufacturer to recall.
+   - 🤯 Recalls may be initiated by the manufacturer voluntarily without FDA involvement
 2. **Manufacturer Notice** The manufacturer establishes a plan to recall that addresses severity, warns the public, and a means for checking the effectiveness of the recall.
 3. **Public Notice** The manufacturer contacts customers (e.g. wholesalers, pharmacies, & more) to notify them that a product of a certain name, size, lot number, serial number, or any other identifiers are being recalled. This notice includes the nature of the recall and the amount of danger involved so that they may protect their clients. They are also supplied with instructions on what to do with affected products, beginning with the cessation of distribution.
 4. **Public Listing** These recalls are listed in the weekly FDA enforcement report.

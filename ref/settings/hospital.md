@@ -237,7 +237,7 @@ Pneumatic tube systems are used to **rapidly transport medications, lab samples,
 
 Hospital pharmacies rely on **integrated electronic health records (EHRs)** and **order entry systems** to manage medication processes. Technicians should be proficient with:
 
-- **CPOE (Computerized Provider Order Entry):** Allows prescribers to directly enter orders into the system prior to pharmacist review; prevents errors due to illegible handwriting
+- **CPOE (Computerized Provider Order Entry):** Allows prescribers and their authorized agents to directly enter orders into the system prior to pharmacist review; prevents errors due to illegible handwriting
 - **Automated Dispensing Cabinets (ADCs):** Interfaced with the pharmacy system to track inventory and medication use
 - **Medication Administration Records (MARs):** a form that tracks what medications were administered to a patient, when, and by whom
   - some computer systems can track continuous infusion rates from IV pumps to report when a medication is potentially due for refill
