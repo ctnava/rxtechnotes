@@ -39,6 +39,8 @@ Hospital pharmacies must coordinate with many areas across the facility. Underst
 
 Hospital pharmacies are organized into specialized areas such as the **Central Pharmacy** and **satellite pharmacies**, that support both auxiliary units and ancillary departments throughout the hospital.
 
+All inpatient phamracies are responsible for medication preparation and distribution.
+
 🧭 **Central Pharmacy**
 
 The central pharmacy is the main hub of medication operations within a hospital.
@@ -70,10 +72,11 @@ Pharmacy satellites are smaller pharmacies that are responsible for preparing, d
 
 > 📌 Satellites are typically **open 24 hours**. When closed, central pharmacy assumes their duties.
 
-### 🏥 Auxiliary Units (Patient Care Areas)
+### 🏥 Auxiliary Units (or Patient Care Areas)
 
-**Auxiliary Units** are **direct patient‑care units** where nurses administer medications.  
+**Auxiliary Units** are **direct patient‑care units** where nurses administer medications.
 These areas store unit‑dose medications, IV fluids, emergency drugs, and supplies needed for bedside care.
+Since patients with similar problems require a lot of the same specialists and medications, they are grouped together in these units.
 
 Examples of auxiliary units include:
 
