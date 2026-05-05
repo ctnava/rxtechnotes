@@ -73,6 +73,7 @@ Some hospitals use **automated liquid‑filling machines** that draw up oral or 
 > ⚠️ **SAFETY ALERT:**  
 > Oral doses must **always** be packaged in **oral syringes**, never parenteral syringes.  
 > Oral syringes use tips that are *incompatible* with needles, preventing accidental IV administration.
+> ENFit brand syringes only allow connections between branded equipment; reducing medication errors
 
 Technician responsibilities include:
 
