@@ -21,7 +21,7 @@ Once **enrolled** in a **managed care plan**, patients are typically responsible
 | 📅 **Enrollment** | The period when a patient can **sign up for or change** a plan. | Typically during **open enrollment** (fall) or due to a **qualifying life event** (e.g., marriage, birth, job change). |
 | 💵 **Premium** | The **monthly payment** for health insurance, paid **regardless of use**. | Higher premium plans usually have lower deductibles or copays. |
 | 💳 **Deductible** | The amount a patient pays **out of pocket** before coverage begins. | May be waived for preventive services or some generic drugs. |
-| 🏥 **Managed Care Plan**  | A structured healthcare plan that limits costs by controlling how patients receive care. | Includes HMOs, PPOs, POS, and EPOs. Emphasizes coordination and efficiency. |
+| 🏥 **Managed Care Plan** | A structured healthcare plan that limits costs by controlling how patients receive care. | Includes HMOs, PPOs, POS, and EPOs. Emphasizes coordination and efficiency. |
 | 💸 **Copayment (Copay)** | A **fixed amount** (e.g., \$10 or \$50) paid for a service or medication when received. | Typically varies by drug tier or service level. |
 | 📊 **Coinsurance** | A **percentage** of the cost paid by the patient after deductible is met (e.g., 20%). | Common for expensive procedures or specialty medications. |
 | ⛔ **Out-of-Pocket Maximum (OOP Max)** | The **maximum total** a patient will pay in a year (including deductible, copays, coinsurance but not including premiums). | After this, insurance pays **100%** for covered services. |
@@ -136,7 +136,7 @@ Because these drugs are not stocked, **there may be significant delays** in deli
 Managed care plans are offered by insurers (public and private); structured to control healthcare costs and improve care coordination.
 
 | Plan Type | Description | Referrals Needed? | Out-of-Network Coverage? |
-| ----------- | ------------- | ------------------- | ------------------------- |
+| --- | --- | --- | --- |
 | 🟦 **HMO** (Health Maintenance Organization) | Most restrictive. Requires you to choose a **Primary Care Provider (PCP)** who coordinates all care. | ✅ Yes, for specialists | ❌ No (life-threatening emergencies only) |
 | 🟧 **PPO** (Preferred Provider Organization) | Flexible. No need for referrals. Higher cost for out-of-network care. | ❌ No | ✅ Yes (higher cost) |
 | 🟨 **POS** (Point of Service) | Hybrid of HMO & PPO. Requires in-network PCP and referrals, but offers some out-of-network coverage. | ✅ Yes | ✅ Yes (with extra cost) |
@@ -320,10 +320,10 @@ Technicians can help by:
 Before a prescription can be processed or billed, a patient profile must be created in the pharmacy management system. This includes entering key information that ensures accuracy during claim adjudication and compliance with regulations.
 
 | Term | Meaning |
-| ------ | --------- |
+| --- | --- |
 | **Primary Insurance** | Pays first up to its coverage limits. |
 | **Secondary Insurance** | Pays some or all of what the primary didn’t cover. |
-| **Tertiary Insurance**  | Rare third plan that covers remaining costs. |
+| **Tertiary Insurance** | Rare third plan that covers remaining costs. |
 
 > 🛡️ Incorrect COB setup leads to claim denials or full patient cost. Watch for Third Party Rejections like “other coverage primary”. Verify COB at patient intake and refer unclear COB issues to pharmacist or billing staff.
 
