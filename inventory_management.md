@@ -113,6 +113,8 @@ Pharmacies provision stock from state-licensed:
 - **Suppliers**: produce, label, and package drugs
 - **Wholesalers**: purchase drugs in bulk and then sell them to medical facilities
 
+> Usually done electronically
+
 ### 🦅 Legal Considerations
 
 - 🔐 `DEA Form 222` is required for ordering **only** Schedule II drugs via CSOS.
