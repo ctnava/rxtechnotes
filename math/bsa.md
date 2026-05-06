@@ -79,6 +79,14 @@ A **nomogram** is a visual tool used to estimate BSA by drawing a straight line 
 
 ${\Rightarrow \text{Total Dose} = 640 \times 5 = \boxed{3200\ \text{mg}}}$ -->
 
+## 👶 Pediatric Dosing Calculations
+
+<!-- todo enhance pediatric dosing section -->
+
+Pediatric calculations are relative to the average adult BSA measurement of 1.73m^2.
+
+Pediatric Dose = (Child BSA / 1.73m^2) * adult dose
+
 ## 🚨 Tips and Best Practices
 
 - 🛡️ **Always confirm height and weight** with the most recent values
