@@ -90,6 +90,7 @@ To account for this, specific formulas were developed:
   - A rough estimate is acceptable
 - Use **mg/kg/day** or **mg/kg/dose** formulas for clinical dosing whenever possible
 - Always double-check pediatric doses with a pharmacist or prescriber
+- Dosing for children based on **body weight is preferrred when mg/kg dose is known**
 
 ## Advanced Examples
 
