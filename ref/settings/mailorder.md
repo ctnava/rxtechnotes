@@ -16,6 +16,32 @@ They offer most services provided by traditional community pharmacies, including
 - **Not suitable** for acute or urgent needs (e.g., antibiotics for sudden infections)  
   - 🚨 Patients with immediate medication needs must visit a local brick-and-mortar pharmacy
 
+---
+
+## 🧑‍⚕️ **Staff**
+
+Mail order pharmacies employ a **multidisciplinary clinical and operational team** to support high‑volume, accuracy‑critical workflows:
+
+- **Pharmacists**
+  - Oversee clinical decision‑making, DUR, and final product verification  
+  - Provide patient counseling and handle escalated clinical questions  
+  - Ensure compliance with state and federal regulations
+
+- **Registered Nurses (RNs)**
+  - Commonly support specialty mail order operations (e.g., oncology, rheumatology, MS therapies)  
+  - Provide disease‑state education, adherence outreach, and coordination for complex therapies  
+  - Assist with prior authorizations and clinical triage in certain models
+
+- **Pharmacy Technicians**
+  - Perform data entry, insurance processing, and refill coordination  
+  - Operate automated dispensing systems and manage packaging/fulfillment  
+  - Support call center operations for non‑clinical patient inquiries  
+  - Maintain inventory, shipping accuracy, and workflow continuity
+
+Mail order staffing emphasizes **role specialization**, strict SOP adherence, and seamless coordination between clinical and operational teams.
+
+---
+
 ## 🌎 **Licensing & Jurisdiction**
 
 - Mail order pharmacies may operate **nationally**, but not required to be **licensed in every state** where they ship medications
