@@ -6,9 +6,6 @@ Home health care involves the delivery of clinical services in a patient’s hom
 
 - 🩺 **Physician**: Prescribes the therapy and oversees medical supervision  
 - 🧑‍⚕️ **Registered Nurse (RN)**: Coordinates the care plan, provides direct care, and educates the patient
-- 🧹 **Home Care Aide**:
-  - Provides general non-clinical support  
-  - Works under the RN; does **not** assist in medication therapy
 - 👨‍🔬 **Pharmacist**:
   - Selects the infusion device; a collaborative decision with nurses
   - Identifies potential adverse reactions  
@@ -19,22 +16,31 @@ Home health care involves the delivery of clinical services in a patient’s hom
   - Packages and prepares shipments  
   - Assists with inventory and device delivery  
   - Performs **non-consultative functions only** under pharmacist supervision
+- 🧹 **Home Care Aide**:
+  - Provides general non-clinical support  
+  - Works under the RN; does **not** assist in medication therapy
 
-🧪 **Home Infusion Therapy** is the **fastest growing segment** of home health care is **home infusion therapy**, due to advances in **infusion pump technology** that have made treatment more accurate, portable (via ambulatory pumps), & user-friendly for both patients and caregivers.
+🧪 **Home Infusion Therapy** is the **fastest growing segment** of home health care, due to advances in **infusion pump technology** that have made treatment more accurate, portable (via ambulatory pumps), & user-friendly for both patients and caregivers.
 
 > 📌 Patient education is important in home infusion because it allows the patient to have a hand in their own well-being.
+> It empowers the patient to be able to:
+>
+> - self-administer
+> - monitor their own progress
+> - report problems
 
 🏠 **Home Health and Infusion Services Providers**
 
 - 🏥 **Hospitals**: Extend post-discharge care for continuity of therapy  
-- 🏢 **Home Health Agencies**: Offer comprehensive care including nursing, infusion, and personal care services  
+- 🏢 **Home Care Agencies**: Offer comprehensive care including nursing, infusion, and personal care services  
 - 💉 **Home Infusion Pharmacies**: Specialized pharmacies accredited by **ACHC** or **URAC** that prepare parenteral admixtures, manage equipment, and collaborate with the care team
+  - The ASHP provides guidelines for these pharmacies
 
 🔑 **Primary Home Infusion Therapies**:
 
 - **Antibiotic therapy**: Common in patients with AIDS or resistant infections
 - **Parenteral nutrition (PN or TPN)**: For patients with intestinal disorders or malnutrition, especially those with AIDS
-- **Pain management**: For patients with terminal illnesses or chronic severe pain
+- **Pain management**: Narcotic infusions for patients with terminal illnesses or chronic severe pain
 - **Chemotherapy**: Coordinated with oncology programs at hospitals or outpatient clinics
 
 ## 💉 Compounding & Storage Concerns
