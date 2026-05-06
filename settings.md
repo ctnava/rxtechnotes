@@ -9,7 +9,7 @@ Pharmacy practice spans multiple environments, each with its own workflow, patie
 Outpatient care involves patients who receive medical services **without** being admitted to a hospital overnight. These settings focus on accessibility, patient counseling, and high‑volume prescription processing.
 
 - [Community Pharmacies](./ref/settings/retail.md): Serve walk‑in patients; focus on dispensing, counseling, immunizations, and insurance processing.
-- [Compounding Pharmacies](./ref/settings/compounding.md): Prepare customized medications (sterile or non‑sterile) tailored to individual patient needs.
+- [Compounding Community Pharmacies](./ref/settings/compounding.md): Prepare customized medications (sterile or non‑sterile) tailored to individual patient needs.
 - [Mail Order Pharmacies](./ref/settings/mailorder.md): High‑volume, centralized dispensing with automated systems; medications shipped directly to patients.
 - [Home Health Care](./ref/settings/homehealth.md): Provide medications, supplies, and infusion therapies for patients receiving treatment at home.
 

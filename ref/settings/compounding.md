@@ -1,6 +1,8 @@
-# Compounding Pharmacies
+# Compounding Community Pharmacies
 
 Community compounding pharmacies, also referred to as **hybrid pharmacies**, provide customized medications for patients whose therapeutic needs cannot be met by commercially manufactured products. These pharmacies may operate independently or within a broader community retail pharmacy, and typically focus on **non-sterile compounding**, though some are equipped to handle **Compounded Sterile Preparations (CSPs)**.
+
+There are approximately 7.5k pharmacies in the US that specialize in these services; only about 72% do non-sterile compounding.
 
 🧪 **Compounding Services Are Required When**:
 
