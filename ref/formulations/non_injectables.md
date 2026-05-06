@@ -149,7 +149,7 @@ These **injection-independent parenteral routes** include delivery to the **eyes
 5. **Insert the spray tip** into the open nostril.
    - Aim the nozzle slightly outward, away from the nasal septum.
 6. **Inhale deeply** through the nose **while simultaneously activating** the spray (squeeze bottle or press MDI actuator).
-7. **Hold your breath** momentarily, then **exhale through the mouth**.
+7. **Immediately exhale** through the mouth.
 8. **Repeat** for the other nostril if prescribed.
 9. **Wipe or rinse the nozzle** with hot water. Do not share spray devices.
 10. **Recap the device** and store it properly.
