@@ -24,6 +24,9 @@ These **injection-independent parenteral routes** include delivery to the **eyes
 - Treatment of **infections**, **inflammation**, **glaucoma**, **dry eye**, or **allergies**
 - Local **anesthesia** for diagnostic or surgical procedures
 - can lead to a **significant loss of dose** due to spillage and drainage
+  - The average tear is 10 microliters
+  - The average drop is 50 microliters
+  - **Only about 20% of the medication makes it to the eye**
 
 > 🛡️ All ophthalmic preparations must be **sterile**, **free of particulates**, and **preserved** when multi-use.
 
