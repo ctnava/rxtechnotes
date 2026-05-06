@@ -15,6 +15,8 @@
   - Delivered before **6:00 AM** for same-day clinical use
 - **STAT orders** are accepted and delivered **immediately** when needed
 
+> 🤯 Major nuclear pharmacy chains include Cardinal Health, GE Healthcare, PETNET Solutions, and Triad Isotopes
+
 ⚖️ **Regulatory Oversight**
 
 - 🦅 **Nuclear Regulatory Commission (NRC)**: Governs the **handling, storage, and disposal** of radioactive materials
