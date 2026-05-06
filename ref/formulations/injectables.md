@@ -172,7 +172,9 @@ Always document:
 
 ## Intramuscular Route
 
-`Less hazardous and technically simpler than IV, but more painful`
+`Lower but longer lasting blood concentrations than IV Administration`
+
+> Less hazardous and technically simpler than IV, but more painful
 
 ### 🔑 IM Overview
 
@@ -319,7 +321,7 @@ Subcutaneous tissue can serve as a **site for infusion access** via **implanted 
 
 ## Intradermal Route
 
-`Shallow injection into the top layer of skin (dermis), primarily for diagnostics and immunologic use`
+`Shallow injection into the top layer of skin (dermis), primarily for diagnostics, desensitization, and immunologic use`
 
 ### 🔑 ID Overview
 
