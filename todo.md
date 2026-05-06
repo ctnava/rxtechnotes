@@ -164,6 +164,6 @@
 - [x] Math: Chapter 32 - TPN
 - [x] Reading: Chapter 6 - Calculation Review
 
-## Week 17: Final
+## [DONE] Week 17: Final
 
 - [x] Final Content
