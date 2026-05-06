@@ -16,12 +16,12 @@ Pharmacy Calculations, 6e; Morton Publishing | Chapter 28
 
 BSA-based dosing is most often used for drugs with a **narrow therapeutic index** or those requiring **precise systemic exposure**.
 
-| Drug Class         | Example Medications          |
-| -------------------- | ------------------------------ |
-| 🧬 **Chemotherapy**     | Methotrexate, Doxorubicin     |
-| 💊 **Antivirals**       | Acyclovir (severe cases)      |
-| 🧠 **Immunosuppressants** | Cyclosporine, Tacrolimus      |
-| 👶 **Pediatric Meds**     | Specially calculated doses    |
+| Drug Class | Example Medications |
+| --- | --- |
+| 🧬 **Chemotherapy** | Methotrexate, Doxorubicin |
+| 💊 **Antivirals** | Acyclovir (severe cases) |
+| 🧠 **Immunosuppressants** | Cyclosporine, Tacrolimus |
+| 👶 **Pediatric Meds** | Specially calculated doses |
 
 ## 📐 BSA Calculation Methods
 
