@@ -159,7 +159,7 @@
 - [ ] PTCB Prep: Administration & Management
 - [x] Math: Chapter 32 - Alligations
 
-## Week 16: National Prep
+## [DONE] Week 16: National Prep
 
 - [x] Math: Chapter 32 - TPN
 - [x] Reading: Chapter 6 - Calculation Review
