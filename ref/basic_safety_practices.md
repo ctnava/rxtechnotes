@@ -215,8 +215,8 @@ From here, labels are printed or written for the final medication container disp
 > - adequate staffing and resources should be present for the workload expected.
 > - product inventory should be arranged and separated to help differentiate medications; including visual discriminators.
 > - a series of checks should be established to assess the accuracy of the dispensing process. Other methods of checking include automation, computers, & patient profiles.
-> - labels should be read at least 3 times, on product selection, packaging, & return.
-> - staff triple check replenishment of regular stock or automated dispencers to ensure accuracy and precision.
+> - **labels should be read at least 3 times**, on product selection, packaging, & return.
+> - staff **triple check** replenishment of regular stock or Automated Dispensing Cabinets (ADCs) to ensure accuracy and precision.
 
 #### ⚠️ Contributing Factors and Preventive Strategies
 
@@ -252,10 +252,10 @@ The **final check** is performed and medication is prepared for release to the p
   - Missing doses in automated cabinets
   - 🛡️ Match location/patient identifiers carefully. Monitor storage conditions. Restock automation correctly.
 
-> 🛡️ **The NCCMERP Recommends that**:
+> 🛡️ **The NCC MERP Recommends that**:
 >
-> - the dispensing area be properly designed to prevent errors; addressing environmental fatigue, minimize distractions, and personnel interruptions. Keep workstations **organized and distraction-free** to reduce the chance of error.
-> - pharmacists counsel patients at time of dispensing to verify accuracy & patient understanding. Counseling should include explanations of:
+> - the dispensing area be properly designed to prevent errors; addressing environmental fatigue, minimize distractions, and personnel interruptions. Keep workstations organized and distraction-free to reduce the chance of error.
+> - **pharmacists counsel patients** at time of dispensing to verify accuracy & patient understanding. Counseling should include explanations of:
 >   - indications for use, precautions, and warnings
 >   - expected outcome from use
 >   - potential adverse reactions, as well as interactions from food and other medications
@@ -287,9 +287,9 @@ The patient’s response to therapy is also assessed to determine if adjustments
   - Ignoring lab results
   - 🛡️ Assist with refill histories, note adverse event reports, and flag refills that may indicate inappropriate or ineffective therapy.
 
-> 🛡️ **The NCCMERP Recommends that**:
+> 🛡️ **The NCC MERP Recommends that**:
 >
-> - pharmacies collect and analysze data regarding actual and potential errors for continuous quality improvement
+> - pharmacies collect and analyze data regarding actual and potential errors for continuous quality improvement
 > - initial and ongoing training of staff must be provided
 > - each pharmacy establish policies and procedures for the dispensing process
 
