@@ -48,9 +48,9 @@ Pharmacy technicians in LTC pharmacy settings often take on responsibilities sim
   - Must be securely stored, routinely inspected, and **re-sealed after use**
   - Technicians are responsible for:
     - Refilling used or expired medications
-    - **Charging medications used to the correct resident**
     - Maintaining inventory logs, especially for **controlled substances**
     - Pharmacist performs **final verification** before resealing
+    - **Billing administered medications to the resident**
 - 💊 Packaging prescriptions in **unit-dose** or **multi-dose** systems
 - 💉 Mixing **parenteral products** (TPN, IV antibiotics)
 - 📦 Ordering, receiving, and stocking medications

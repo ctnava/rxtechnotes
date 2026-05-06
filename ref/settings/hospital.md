@@ -161,6 +161,12 @@ Hospital Pharmacy Technicians are often cross-trained to work in different areas
 - 📦 **Delivery Technician**
   - Transports medications to nursing units and outpatient clinics
   - Retrieves stat orders and new prescriptions
+  - Maintaining **Code Carts**
+    - Refilling used or expired medications
+    - Maintaining inventory logs, especially for **controlled substances**
+    - Pharmacist performs **final verification** before resealing
+    - **Billing medications used to the patient**
+- 💊 Packaging prescriptions in **unit-dose** or **multi-dose** systems
 - 🤖 **Automation Technician**
   - Manages pharmacy robotics and ADC systems
   - Troubleshoots errors and login issues

@@ -184,7 +184,9 @@ Code carts are **locked, emergency‑only** rolling cabinets containing life‑s
 
 - Securely stored  
 - Routinely inspected  
-- **Re-sealed after any use**
+- **Verified by a Pharmacist & Re-sealed after any use**
+
+> 📌 Medications used are billed to the individual patient upon use
 
 #### Sealed Trays
 
