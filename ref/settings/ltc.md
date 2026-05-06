@@ -3,6 +3,7 @@
 **Long-Term Care (LTC)** facilities serve individuals who are unable to care for themselves due to **chronic physical or mental impairment** for months or even a lifetime. These include:
 
 - 🏥 Nursing homes (majority)
+  - patients are referred to as "residents"
 - 🧠 Psychiatric institutions
 - ♿ Chronic disease hospitals
 - 🦽 Rehabilitation centers
@@ -34,7 +35,7 @@ Pharmacists in LTC take on two distinct roles:
   - typically done offsite
 - **Consultant Pharmacist**
   - Develops and maintains **individualized pharmaceutical care plans**
-  - Reviews patient charts and **monitors for drug-related problems**
+  - Performs a monthly drug regimen review to **monitor for problems**
   - Communicates with physicians, nurses, and LTC staff
   - Typically **contracted across multiple facilities**; may visit each site weekly or monthly
 
@@ -62,7 +63,7 @@ Pharmacy technicians in LTC pharmacy settings often take on responsibilities sim
   - Quality improvement reporting
   - Maintaining shared databases and documentation
 
-> 📌 Some LTC facilities allow techs to access limited on-site inventory under secure conditions. Tracking and logging of **controlled substances** is often part of the technician’s role.
+> 📌 Some LTC facilities allow techs to access limited on-site inventory under secure conditions. Tracking the receipt & disposition of **controlled substances** is often part of the technician’s role.
 
 ---
 

@@ -282,9 +282,11 @@ Candidates must apply online through the PTCB website. Once approved, they can s
 
 ## 🚀 Additional Career Advancement
 
-### Hospital Careers
+### Hospital & Long-Term Care Facility Careers
 
 Hospital pharmacy is a **high‑acuity, protocol‑driven environment** where technicians support inpatient care, sterile compounding, and medication distribution systems that operate 24/7. Unlike retail settings, hospital roles require **additional onboarding, training, and compliance steps** to ensure safety in a clinical environment.
+
+Careers in Long-Term Care are just as rigorous.
 
 #### 🔑 What to Expect When Applying
 
