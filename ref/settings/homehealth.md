@@ -33,7 +33,7 @@ Home health care involves the delivery of clinical services in a patient’s hom
 
 - 🏥 **Hospitals**: Extend post-discharge care for continuity of therapy  
 - 🏢 **Home Care Agencies**: Offer comprehensive care including nursing, infusion, and personal care services  
-- 💉 **Home Infusion Pharmacies**: Specialized pharmacies accredited by **ACHC** or **URAC** that prepare parenteral admixtures, manage equipment, and collaborate with the care team
+- 💉 **Home Infusion Pharmacies**: Specialized pharmacies accredited by **Accreditation Commission for Health Care (ACHC)** that prepare parenteral admixtures, manage equipment, and collaborate with the care team
   - The ASHP provides guidelines for these pharmacies
 
 🔑 **Primary Home Infusion Therapies**:
