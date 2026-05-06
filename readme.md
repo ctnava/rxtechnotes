@@ -39,7 +39,7 @@ Structured for both exam prep and on-the-job reference.
 | 2 | [Career Overview](./technician_career.md) | ✅ Complete |
 | 3 | [Ethics & Compliance](./ethics_compliance.md) | ✅ Complete |
 | 4 | [Pharmacy Personnel, Duties, & Services](./personnel_services.md) | ✅ Complete |
-| 5 | [Pharmacy Settings](./settings.md) | 🚧 WIP (current) |
+| 5 | [Pharmacy Settings](./settings.md) | ✅ Complete |
 | 6 | [Healthcare Coverage](./healthcare_coverage.md) | 🚧 WIP |
 | 7 | [Drug Discovery, Manufacturing, & Logistics](./discovery_manufacture.md) | 🚧 WIP |
 | 8 | [Pharmacy Inventory Management](./inventory_management.md) | 🚧 WIP |
