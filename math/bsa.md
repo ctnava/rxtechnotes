@@ -79,21 +79,37 @@ A **nomogram** is a visual tool used to estimate BSA by drawing a straight line 
 
 ${\Rightarrow \text{Total Dose} = 640 \times 5 = \boxed{3200\ \text{mg}}}$ -->
 
-## 👶 Pediatric Dosing Calculations
-
-<!-- todo enhance pediatric dosing section -->
-
-Pediatric calculations are relative to the average adult BSA measurement of 1.73m^2.
-
-Pediatric Dose = (Child BSA / 1.73m^2) * adult dose
-
-## 🚨 Tips and Best Practices
+### 🚨 Tips and Best Practices
 
 - 🛡️ **Always confirm height and weight** with the most recent values
 - 📌 Use **metric units** when applying BSA formulas (cm, kg)
 - 🛡️ BSA calculations are **critical for chemo**; double-check math
 - 📌 Pediatric patients are especially sensitive to **BSA-based dosing**
 - 🛡️ Round final doses **per pharmacy protocol** or **physician instruction**
+
+## 👶 Pediatric Dosing Calculations
+
+Pediatric medication dosing often uses **Body Surface Area (BSA)** because it more accurately reflects metabolic capacity than weight alone.  
+
+This formula scales the adult dose proportionally to the child’s BSA.
+
+The BSA for an average adult is 1.73m².
+
+${\textbf{Pediatric Dose} = \left(\frac{\text{Child BSA}}{1.73\ \text{m}^2}\right) \times \text{Adult Dose}}$
+
+### 📘 Example: Converting an Adult Dose to a Pediatric Dose
+
+**Adult dose:** 500 mg/m²  
+**Child BSA:** 0.82 m²  
+
+${\text{Pediatric Dose} = \left(\frac{0.82}{1.73}\right) \times 500 \approx 0.47 \times 500 = \boxed{235\ \text{mg/m²}}}$
+
+### ⚠️ Safety Considerations in Pediatrics
+
+- Use **recent, accurate height and weight**.  
+- Double-check units—pediatric errors often involve **mg vs. mg/kg** confusion.  
+- Round doses only according to **pharmacy protocol** or **provider instruction**.  
+- For high‑risk drugs (e.g., chemo), a second verification is mandatory.
 
 ---
 
