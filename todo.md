@@ -18,18 +18,16 @@
 - [ ] link rx connect sig codes (./ref/rx_connect_sig_codes.md)
 - [ ] link syringe diagram (./ref/equipment/syringes/readme.md)
 
-## Week 1: History of Pharmacy
+## [DONE] Week 1: History of Pharmacy
 
 - [x] DenaliRx Drugs 1-20
 - [x] Common Pharmacy Abbreviations
 - [x] Reading: Chapter 1 - History of Pharmacy
-  - [ ] Key Concepts
-  - [ ] Learning Objectives
 - [x] CE: Wheel of Pharmacy Technician Career Opportunities
 - [x] SOP: Aseptic Handwashing
 - [x] Math: Chapter 1 - Roman Numerals
 
-## Week 2: Pharmacy Tech Profession
+## [DONE] Week 2: Pharmacy Tech Profession
 
 - [x] DenaliRx Drugs 21-40
 - [x] "Medications to Know" (iii_outpatient_medications.md)
