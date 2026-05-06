@@ -46,7 +46,7 @@
 All personnel working with radioactive materials must wear **dosimetry devices** to monitor exposure:
 
 | Device | Placement | Purpose | Frequency |
-| -------- | ----------- | --------- | ----------- |
+| --- | --- | --- | --- |
 | **Ring Badge** | On dominant hand | Monitors extremity exposure | Weekly |
 | **Body Badge** | Shirt collar or chest | Monitors whole-body exposure | Monthly |
 | **Fetal Badge** | Near abdomen | Required for pregnant personnel | Monthly |
