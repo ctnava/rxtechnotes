@@ -6,6 +6,8 @@
 Pharmacy Calculations, 6e; Morton Publishing | Chapter 24
 -->
 
+Some medications are provided to the pharmacy in powder form, but are reconstituted into a liquid before dispensing to the patient.
+
 ## 🔎 What is Reconstitution?
 
 🧪 **Reconstitution** refers to the process of adding a specific diluent (liquid) to a powdered drug in order to create a usable liquid solution or suspension for administration. This is a **critical skill** in both sterile and non-sterile compounding.
