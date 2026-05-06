@@ -51,14 +51,14 @@
 - [x] Math: Chapter 33 - Medication Labels
 - [x] Key Medical Concepts (unlinked)
 
-## [DONE] Week 4: Other Environments & Routes
+## Week 4: Other Environments & Routes
 
 - [x] DenaliRx Drugs 41-60
 - [x] SOP: Refill Request
 - [x] Gowning Video
 - [x] Reading: Chapter 18 - Other Environments
   - ./settings_personnel_services.md
-- [x] Reading: Chapter 8 - Routes & Formulations
+- [ ] Reading: Chapter 8 - Routes & Formulations
 - [x] Math: DEA Numbers
 - [x] CE: Calculations for Pharmacy Technicians: Math & Measurements
 
