@@ -23,6 +23,8 @@
 - [x] DenaliRx Drugs 1-20
 - [x] Common Pharmacy Abbreviations
 - [x] Reading: Chapter 1 - History of Pharmacy
+  - [ ] Key Concepts
+  - [ ] Learning Objectives
 - [x] CE: Wheel of Pharmacy Technician Career Opportunities
 - [x] SOP: Aseptic Handwashing
 - [x] Math: Chapter 1 - Roman Numerals
@@ -40,7 +42,7 @@
 - [x] BLS Overview
 - [x] HIPAA in the Workplace
 
-## Week 3: Community RX & HIPAA
+## [DONE] Week 3: Community RX & HIPAA
 
 - [x] SOP: Cleaning the Hood
 - [x] The Prescription Video
@@ -51,7 +53,7 @@
 - [x] Math: Chapter 33 - Medication Labels
 - [x] Key Medical Concepts (unlinked)
 
-## Week 4: Other Environments & Routes
+## [DONE] Week 4: Other Environments & Routes
 
 - [x] DenaliRx Drugs 41-60
 - [x] SOP: Refill Request
