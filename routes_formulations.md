@@ -19,16 +19,16 @@ Dosage forms consist of:
 - **Inactive Ingredients** (Excipients): Substances included to aid manufacturing, stability, delivery, or absorption.
 
 | Excipient Type | Purpose | Common Dosage Forms |
-| ---------------- | --------- | --------------------- |
+| --- | --- | --- |
 | **Binders** | Hold ingredients together in a cohesive unit | Tablets |
 | **Lubricants** | Prevent sticking to manufacturing equipment | Tablets, Capsules |
-| **Disintegrants** | Promote breakup of the dosage form after intake  | Tablets, Capsules |
+| **Disintegrants** | Promote breakup of the dosage form after intake | Tablets, Capsules |
 | **Diluents** | Add bulk to formulations for proper dosing | Tablets, Capsules, Lyophilized Powders |
 | **Preservatives** | Prevent microbial growth | Liquids, Ophthalmics, Topicals |
 | **Flavoring Agents** | Improve palatability | Oral Liquids, Chewable Tablets |
 | **Colorants** | Aid in product identification | Tablets, Capsules |
 | **Solvents** | Dissolve active ingredients | Solutions, Injectables |
-| **Coating Agents** | Mask taste or control release | Enteric-coated, Extended-release tabs|
+| **Coating Agents** | Mask taste or control release | Enteric-coated, Extended-release tabs |
 
 📌 *Note: Not all excipients are inert for all patients. Some may cause allergies or intolerances.*
 
@@ -38,10 +38,10 @@ A drug's **solubility** is its ability to dissolve in a solvent, typically water
 
 > 🔑 A drug must be **dissolved** before it can be **absorbed** into the bloodstream. Poor solubility often leads to poor bioavailability.
 
-| Property            | Effect on Drug Performance        |
-| ------------------- | --------------------------------- |
+| Property | Effect on Drug Performance |
+| --- | --- |
 | **High Solubility** | Faster dissolution, quicker onset |
-| **Low Solubility**  | Slower or incomplete absorption   |
+| **Low Solubility** | Slower or incomplete absorption |
 
 > 📌 Solubility can be modified using salts, particle size reduction, or formulation with solubilizing agents.
 
