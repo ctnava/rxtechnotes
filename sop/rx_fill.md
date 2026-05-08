@@ -53,7 +53,7 @@ Medication orders vary by urgency. Prioritize in this order:
    - Check Typing & "RPh Check" Queue for any unprocessed prescriptions
    - Wait for all prescriptions to be ready before printing
    - tip: use shift+click to select multiple items
-2. Check print quality to ensure legibility of the following fields
+2. Inspect the Printed Label for the following
    - Pharmacy Contact:
      - [ ] Pharmacy Name
      - [ ] Address
@@ -81,7 +81,7 @@ Medication orders vary by urgency. Prioritize in this order:
      - [ ] Inscription
      - [ ] Signa
      - [ ] Quantity
-3. Grab a Color-Coded Bin
+3. Bundle printed materials into a color-coded bin
    - Place all printed prescriptions inside
    - Include **Auxiliary Labels** that identify important usage information; including specific warnings or alerts on administration, storage, side effects, and food or drug interactions
    - Check printer tray for, automatically printed **Medication Guides & Patient Package Inserts (PPIs)**. These always have prescription numbers attached.
