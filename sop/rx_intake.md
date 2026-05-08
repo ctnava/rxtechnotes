@@ -1,11 +1,19 @@
 # 🛠️ SOP - Prescription Intake & Order Entry
 
-Prescriptions and medication orders are instructions from a licensed medical practitioner that authorize the provision of a drug or device to a patient.
+**Prescriptions** are instructions  from a medical practitioner that authorize the provision of a drug or device to a patient.
 
-- **Medication Order**: A written or transcribed (verbal/telephone) order issued in an **inpatient** setting (e.g., hospital).
-- **Prescription**: A medication order written on a prescription blank to be filled in an **outpatient/ambulatory** setting.
+In *outpatient/ ambulatory* settings, they are written on a prescription blanks as standalone documents OR a transcribed verbal/ telephone order to be filled.
 
 > 📠 For accuracy and improved record keeping, many pharmacies scan the hard copy of prescriptions into the pharmacy dispensing system on top of filing them.
+
+**Medication orders** are a single, unified document intended for multiple departments at once. It is written as a historical document for tracking treatment through a patient's stay.
+
+- Usually contains more than one order
+- Read from the top, down (most recent order first)
+- Dated and timed
+- Contains additional requests for labwork, physical therapy, or items stocked in the nursing station; **prescriptions**
+
+> Nursing staff may compare entered information to most recent medication orders to decide how to administer
 
 New prescriptions may be submitted by:
 
@@ -129,18 +137,7 @@ Before processing, verify that the prescription is complete and authentic.
 
 ![Visual Prescription](../ref/img/rx_requirements.PNG)
 
-### 🏥 Inpatient Medication Orders
-
-Medication orders are a single, unified document intended for multiple departments at once. It is written as a historical document for tracking treatment through a patient's stay.
-
-- Usually contains more than one order
-- Read from the top, down (most recent order first)
-- Dated and timed
-- Contains additional requests for labwork, physical therapy, or items stocked in the nursing station; **not just requests for medication**
-
-> Nursing staff may compare entered information to most recent medication orders to decide how to administer
-
-#### Check for These Additional Requirements
+### 🏥 Additional Requirements for Medication Orders
 
 ![sample medication order](../ref/img/sample_medication_order.PNG)
 

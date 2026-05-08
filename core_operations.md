@@ -94,12 +94,12 @@ When performing **medication reconciliation** (the process of gathering a patien
     - 🦅 Federal control  
     - 🐻 California may impose stricter limits
 
-## Orders & Prescriptions
+## Prescriptions & Orders
 
-Instructions from a medical practictioner, that authorizes the issue of a drug or device to a patient, can come in one of two forms:
+**Prescriptions** are instructions from a medical practitioner that authorizes a patient to be issued a drug or device. They can be issued as a:
 
-- **Medication Orders**: a written request on a physician's order form OR a transcribed verbal/ telephone order in an *inpatient* setting.
-- **Prescription**: medication order on a prescription blank to be filled in an *outpatient/ ambulatory* setting.
+- **Standalone Document**: Written on a prescription blank OR a transcribed verbal/ telephone order to be filled in an *outpatient/ ambulatory* setting
+- **Medication Orders**: a historical document, in an *inpatient* setting, for tracking treatment through a patient's stay that **includes prescriptions**
 
 ### Intake & Entry
 

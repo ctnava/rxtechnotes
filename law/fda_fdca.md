@@ -32,9 +32,10 @@
 
 - **Restrictions on Access**: explicitly defined prescription (Rx) and over-the-counter (OTC) drugs, separating them based on safety and the need for medical supervision.
   - **OTC Drugs**: Medications that may be sold without a prescription as long as they are appropriately labeled for home use.
-  - **Rx Drugs**: Medications that may not be dispensed to the public except on the order or *prescription* of a licensed prescriber.
-  - **Medication Orders**: a written request on a physician's order form OR a transcribed verbal/ telephone order in an *inpatient* setting.
-  - **Prescriptions**: medication order on a prescription blank to be filled in an *outpatient/ ambulatory* setting.
+  - **Rx/ Legend Drugs**: Medications that may not be dispensed to the public except on the order or *prescription* of a licensed prescriber.
+  - **Prescription**: an instruction from a medical practitioner that authorizes a patient to be issued a drug or device
+    - Written on a prescription blank OR a transcribed verbal/ telephone order to be filled in an *outpatient/ ambulatory* setting, if a standalone document
+  - **Medication Orders**: a historical document, in an *inpatient* setting, for tracking treatment through a patient's stay that **includes prescriptions**
 - **Verbal Prescriptions**: Legalized the transmission of prescriptions via telephone.
 - **Refills**: Allows pharmacists to refill prescriptions as indicated by the prescribing physician.
 - **Legend Label**: Rx drugs were required to carry a label stating `RX Only` & "Caution: Federal law prohibits dispensing without a prescription".
