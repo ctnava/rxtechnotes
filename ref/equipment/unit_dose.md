@@ -24,6 +24,16 @@ Prepackaged medications come in a variety of dosage forms.
 
 Unit doses are **single‑use packages** containing exactly the amount of medication required for **one dose**.  
 
+Each unit dose label must include:
+
+- Medication name  
+- Strength  
+- Manufacturer  
+- Lot number  
+- Expiration date  
+- 🩺 Pharmacist initials (after final check)  
+- Barcodes for scanning
+
 > 🛡️ *Unit dosing reduces errors, improves barcode scanning accuracy, and supports safe medication administration.*
 
 ### Unit Doses in Retail Pharmacy  
@@ -49,16 +59,6 @@ Automated dispensing cabinets (e.g., Pyxis, Omnicell) store the most commonly us
 #### Automated Packaging Machines
 
 Many hospital pharmacies use machines to **repackage oral solid medications** into unit dose packets in bulk.
-
-Each unit dose label must include:
-
-- Medication name  
-- Strength  
-- Manufacturer  
-- Lot number  
-- Expiration date  
-- 🩺 Pharmacist initials (after final check)  
-- Barcodes for scanning
 
 Pharmacy technicians are responsible for:
 
