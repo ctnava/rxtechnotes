@@ -138,3 +138,16 @@ Water shortens the product's shelf life so they must have the following dates:
 - **Beyond‑Use Date (BUD):** Typically **10–14 days** after reconstitution  
 
 > Reconstitution should occur **at pickup** when possible to maximize product stability.
+
+### (Optional) Quality Check
+
+<!-- todo enhance -->
+
+Note: Technicians generally don't do this. It's technically the verifying pharmacist's responsibility at the consultation window.
+
+Check for required elements on prescription bundles
+
+- [ ] Verifying pharmacist's handwritten initials
+- [ ] Prescription origin code: written/ electronic
+- [ ] Pharmacy Benefits Manager charged for coverage
+- [ ] Copay Charged
