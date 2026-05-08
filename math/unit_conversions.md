@@ -22,7 +22,7 @@ Unit conversions in pharmacy are grounded in **dimensional analysis**; a techniq
 
 ![60 mph * 2 h = 120 miles](./img/unit_conversions/basic.PNG)
 <!-- | Example: Miles per Hour × Time = Distance |
-| --------- |
+| --- |
 | If a vehicle travels at **60 miles/hour** for **2 hours** |
 | $\frac{60\ \text{miles}}{1\ \text{hour}} \times \frac{2\ \text{hours}}{1} = \frac{60 \times 2\ \text{miles}}{1} = 120\ \text{miles}$ | -->
 
@@ -37,43 +37,43 @@ Conversions commonly used in pharmacy can be broken down into **volume** and **w
 ### 🧪 Volume Conversions
 
 | Conversion (Household) | Equals |
-| ------------------------ | -------- |
-| 1 gallon (gal)     | 4 quarts (qt) |
-| 1 quart (qt)       | 2 pints (pt) |
-| 1 pint (pt)        | 16 ounces (oz) |
-| 1 ounce (oz)       | 2 tablespoons (tbsp) |
-| 1 tablespoon (tbsp)| 3 teaspoons (tsp) |
+| --- | --- |
+| 1 gallon (gal) | 4 quarts (qt) |
+| 1 quart (qt) | 2 pints (pt) |
+| 1 pint (pt) | 16 ounces (oz) |
+| 1 ounce (oz) | 2 tablespoons (tbsp) |
+| 1 tablespoon (tbsp) | 3 teaspoons (tsp) |
 
 | Conversion (Metric) | Equals |
-| --------------------- | -------- |
-| 1 liter (L)         | 1000 milliliters (mL) |
+| --- | --- |
+| 1 liter (L) | 1000 milliliters (mL) |
 
 | Conversion (Household-Metric) | Equals |
-| ------------------------------- | -------- |
-| 1 pint (pt)                   | 480 mL |
-| 1 ounce (oz)                  | 30 mL |
-| 1 tbsp                        | 15 mL |
-| 1 tsp                         | 5 mL |
+| --- | --- |
+| 1 pint (pt) | 480 mL |
+| 1 ounce (oz) | 30 mL |
+| 1 tbsp | 15 mL |
+| 1 tsp | 5 mL |
 
 ### ⚖️ Weight Conversions
 
 | Conversion (Household) | Equals |
-| ------------------------ | -------- |
-| 1 pound (lb)           | 16 ounces (oz) |
+| --- | --- |
+| 1 pound (lb) | 16 ounces (oz) |
 
 | Conversion (Metric) | Equals |
-| --------------------- | -------- |
-| 1 kilogram (kg)     | 1000 grams (g) |
-| 1 gram (g)          | 1000 milligrams (mg) |
-| 1 milligram (mg)    | 1000 micrograms (mcg) |
-| 1 kg                | 1,000,000 mcg |
+| --- | --- |
+| 1 kilogram (kg) | 1000 grams (g) |
+| 1 gram (g) | 1000 milligrams (mg) |
+| 1 milligram (mg) | 1000 micrograms (mcg) |
+| 1 kg | 1,000,000 mcg |
 
 | Conversion (Household-Metric) | Equals |
-| ------------------------------- | -------- |
-| 1 kg                          | 2.2 lbs |
-| 1 lb                          | 0.454 kg |
-| 1 lb                          | 454 g |
-| 1 **gr**                      | 64.8 mg |
+| --- | --- |
+| 1 kg | 2.2 lbs |
+| 1 lb | 0.454 kg |
+| 1 lb | 454 g |
+| 1 **gr** | 64.8 mg |
 
 > - 📌 Know both household → metric and metric → household conversions.
 > - 📌 Metric conversions are base-10: just move the decimal point.
@@ -91,7 +91,7 @@ We will convert 1 gallon to milliliters by **chaining units**, canceling each on
 
 ![1 gal = 3840 mL](./img/unit_conversions/apothecary_example.PNG)
 <!-- | Step | Math |
-| ------ | ------ |
+| --- | --- |
 | 1: Convert to quarts | ${1\ \text{gal} \times \frac{4\ \text{qt}}{1\ \text{gal}} = 4\ \text{qt}}$ |
 | 2: Convert to pints | ${4\ \text{qt} \times \frac{2\ \text{pt}}{1\ \text{qt}} = 8\ \text{pt}}$ |
 | 3: Convert to ounces | ${8\ \text{pt} \times \frac{16\ \text{oz}}{1\ \text{pt}} = 128\ \text{oz}}$ |
@@ -111,7 +111,7 @@ Understanding how to read prescriptions requires familiarity with the **Inscript
 `Dosing schedules provide instructions for what quantity of a drug should be taken, how it is to be administered, and how often.`
 
 | Section | Purpose |
-| --------- | --------- |
+| --- | --- |
 | **Inscription** | Lists the **drug name**, **strength**, and **dosage form** |
 | **Signa (Sig)** | Provides **directions for the patient** |
 
@@ -132,7 +132,7 @@ Sig codes are often written in abbreviated Latin phrases. Pharmacy technicians m
 
 ![sig 1](./img/unit_conversions/sig1.PNG)
 <!-- | Step | Math |
-| ------ | ------ |
+| --- | --- |
 | 1: Use the concentration to convert mg to mL| ${375\ \text{mg} \times \frac{5\ \text{mL}}{250\ \text{mg}} = 7.5\ \text{mL}}$ |
 | 2 (preferred): Convert mL to tsp | ${7.5\ \text{mL} \div \frac{5\ \text{mL}}{1\ \text{tsp}} = \boxed{1.5\ \text{tsp}}}$ |
 | 2 (alt): Convert mL to tsp | ${7.5\ \text{mL} \times \frac{1\ \text{tsp}}{5\ \text{mL}} = \boxed{1.5\ \text{tsp}}}$ |
