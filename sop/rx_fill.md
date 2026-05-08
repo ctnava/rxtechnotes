@@ -28,13 +28,12 @@
 
 #### 🏨 Inpatient Medication Orders
 
-Medication orders vary by urgency. Prioritize in this order:
+Patient situations evolve rapidly in these environments. Before proceeding, check to see if any treatments have been discontinued with **STOP** orders. Otherwise, prioritize fills in this order.
 
-1. 🛑 **Stop Orders**: Discontinue active therapy immediately. (double-check chronological order)
-2. 🚑 **STAT Orders**: Medications needed **right now**.  
-3. 🎟️ **Admission Orders**: Initial orders for new admissions.  
-4. 😵‍💫 **PRN Orders**: “As needed” medications.  
-5. ⏰ **Standing Orders**: Scheduled, routine doses.
+1. 🚑 **STAT Orders**: Medications needed **right now**.  
+2. 🎟️ **Admission Orders**: Initial orders for new admissions.  
+3. 😵‍💫 **PRN Orders**: “As needed” medications.  
+4. ⏰ **Standing Orders**: Scheduled, routine doses.
 
 ### 1.2 Prescription Intake
 
