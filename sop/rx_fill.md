@@ -45,31 +45,7 @@ Medication orders vary by urgency. Prioritize in this order:
 
 > 🩺 Pharmacist intake may be skipped **only** when delay would harm the patient (e.g., emergency STAT orders).
 
-### 1.3 Product Retrieval
-
-- Match the medication using the **11‑Digit NDC** in the system  
-  - 🔗 [Further Explanation of NDC system](../law/packaging_labeling.md#drug-listing-act-1972)
-- Follow inventory priority:
-  1. **Returned‑to‑stock** vials (oldest first)  
-  2. **Opened** stock bottles (unexpired)  
-  3. **Unopened** bottles closest to expiration  
-- Mark newly opened bottles (“OPENED” sticker or marker slash)
-
-> 📌 Double‑check NDC, strength, and dosage form. Errors here cascade forward.
-
----
-
-## 2. 🧪 Selection and Labeling
-
-### 2.1 System Scanning
-
-- Scan:
-  - Prescription pamphlet  
-  - Stock bottle (2D barcode) or vial (1D barcode)  
-- Confirm the scanned NDC matches the system selection
-  - the computer system will alert you if an error has occurred
-
-### 2.2 Label Printing
+### 1.3 Label Printing
 
 - Print:
   - Prescription label  
@@ -87,6 +63,30 @@ Medication orders vary by urgency. Prioritize in this order:
 > 📌 Medication Guides are usually printed **automatically** along side patient prescription labels. Make sure to keep them bundled with corresponding labels.
 
 ![Prescription Label Requirements](../ref/img/rx_label_requirements.PNG)
+
+---
+
+## 2. 🧪 Selection and Labeling
+
+### 2.1 System Scanning
+
+- Scan:
+  - Prescription pamphlet  
+  - Stock bottle (2D barcode) or vial (1D barcode)  
+- Confirm the scanned NDC matches the system selection
+  - the computer system will alert you if an error has occurred
+
+### 2.2 Product Retrieval
+
+- Match the medication using the **11‑Digit NDC** in the system  
+  - 🔗 [Further Explanation of NDC system](../law/packaging_labeling.md#drug-listing-act-1972)
+- Follow inventory priority:
+  1. **Returned‑to‑stock** vials (oldest first)  
+  2. **Opened** stock bottles (unexpired)  
+  3. **Unopened** bottles closest to expiration  
+- Mark newly opened bottles (“OPENED” sticker or marker slash)
+
+> 📌 Double‑check NDC, strength, and dosage form. Errors here cascade forward.
 
 ---
 
