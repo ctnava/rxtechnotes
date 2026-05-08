@@ -47,14 +47,43 @@ Medication orders vary by urgency. Prioritize in this order:
 
 > 🩺 Pharmacist intake may be skipped **only** when delay would harm the patient (e.g., emergency STAT orders).
 
-### 1.3 Label Printing
+### 1.3 The Printing Process
 
-- Print:
-  - Prescription label  
-    - 📌 Use language‑appropriate labels when patient profile indicates preference.
-  - Required **auxiliary labels**  
-    - these identify important usage information; including specific warnings or alerts on administration, storage, side effects, and food or drug interactions
-- Verify the Printed Label Contains 
+1. Select **ALL** Prescriptions for the same patient
+   - Check Typing & "RPh Check" Queue for any unprocessed prescriptions
+   - Wait for all prescriptions to be ready before printing
+   - tip: use shift+click to select multiple items
+2. Check print quality to ensure legibility of the following fields
+   - Pharmacy Contact:
+     - [ ] Pharmacy Name
+     - [ ] Address
+     - [ ] Telephone Number
+   - Patient Identifiers:
+     - [ ] Patient name
+     - [ ] Address
+   - Prescriber Identifiers:
+     - [ ] **Prescriber name**
+   - Adjudication Details:
+     - [ ] Prescription Number
+       - [ ] (optional) Transaction Number
+       - note: Appears on the same line as [RxNumber]-[TxNumber]
+     - [ ] National Drug Code (NDC)/ Drug Identification Number (DIN)
+     - [ ] Refill Information
+   - Dispensing Details:
+     - [ ] Data Entry Tech Initials
+     - [ ] Filling Tech Initials
+     - [ ] Fill Date (also called "Date Dispensed")
+     - [ ] Expiration Date
+       - Date on Stock Bottle or 1 Year from Fill Date
+   - Prescription Details:
+     - [ ] Inscription
+     - [ ] Signa
+     - [ ] Quantity
+3. Grab a Color-Coded Bin
+   - Place all printed prescriptions inside
+   - Include **Auxiliary Labels** that identify important usage information; including specific warnings or alerts on administration, storage, side effects, and food or drug interactions
+   - Check printer tray for, automatically printed **Medication Guides & Patient Package Inserts (PPIs)**. These always have prescription numbers attached.
+
 - Ensure label includes:
   - Patient name  
   - Drug name & strength  
@@ -62,8 +91,6 @@ Medication orders vary by urgency. Prioritize in this order:
   - **Prescriber name**  
   - Quantity & refills  
   - Prescription number & pharmacy details
-
-> 📌 Medication Guides are usually printed **automatically** along side patient prescription labels. Make sure to keep them bundled with corresponding labels.
 
 ![Prescription Label Requirements](../ref/img/rx_label_requirements.PNG)
 

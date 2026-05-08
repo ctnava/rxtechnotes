@@ -185,6 +185,8 @@ The Days Supply refers to how long a prescription will last based on the quantit
 
 🔗 ([Days Supply Calculation Guide](../math/days_supply.md))
 
+<!-- todo: add step for patient language preferences -->
+
 ## 💻 Step 4: Claim Submission & Adjudication
 
 After prescription entry, claims must be submitted accurately to insurance.
