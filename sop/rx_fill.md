@@ -82,9 +82,10 @@ Medication orders vary by urgency. Prioritize in this order:
      - [ ] Signa
      - [ ] Quantity
 3. Bundle printed materials into a color-coded bin
-   - Place all printed prescriptions inside
-   - Include **Auxiliary Labels** that identify important usage information; including specific warnings or alerts on administration, storage, side effects, and food or drug interactions
-   - Check printer tray for, automatically printed **Medication Guides & Patient Package Inserts (PPIs)**. These always have prescription numbers attached.
+   - [ ] Place all printed prescriptions inside
+   - [ ] Check printer tray for, automatically printed **Medication Guides & Patient Package Inserts (PPIs)**. These always have prescription numbers attached.
+   - [ ] Include **Auxiliary Labels** that identify important usage information; like specific warnings or alerts on administration, storage, side effects, and food or drug interactions
+     - 🔐 **Controlled Medication** requires the label "Caution: Federal law prohibits the transfer of this drug to any person other than the patient for whom it was prescribed"
 
 ![Prescription Label Requirements](../ref/img/rx_label_requirements.PNG)
 
