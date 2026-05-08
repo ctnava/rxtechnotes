@@ -222,7 +222,7 @@ From here, labels are printed or written for the final medication container disp
 
 | Factor | Description | Best Practices |
 | -------- | ------------- | ---------------- |
-| **Look-alike/Sound-alike drugs** | Drugs with similar names or packaging can be confused. | Implement **Tall Man Lettering** (e.g., **hydrOXYzine** vs. **hydrALAZINE**), separate storage, barcode scanning. |
+| **Look-alike/Sound-alike drugs** | Drugs with similar names or packaging can be confused. | Implement **Tall Man Lettering** (e.g., **hydrOXYzine** vs. **hydrALAzine**), separate storage, barcode scanning. |
 | **Drug name suffixes** | Time-release formulations may differ significantly in onset, duration, or dosing frequency. | Pay attention to suffixes like **XR**, **ER**, **SR**, **CR**, **LA**. Verify dosing schedule. |
 | **Dangerous abbreviations** | Misinterpreted abbreviations can cause dosing errors. | Follow the **TJC “Do Not Use” List**. Avoid things like **U** (for units), **QD** (daily), **MS** (ambiguous). [View list](https://www.jointcommission.org/-/media/tjc/documents/resources/patient-safety-topics/sentinel-event/do-not-use-list.pdf) |
 | **OTC brand name extensions** | A single brand may have multiple formulations with different active ingredients. | Always check the **Drug Facts Label** for active ingredients. Avoid assuming all versions are the same. |
