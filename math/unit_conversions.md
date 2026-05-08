@@ -104,6 +104,8 @@ We will convert 1 gallon to milliliters by **chaining units**, canceling each on
 
 Understanding how to read prescriptions requires familiarity with the **Inscription** and **Signa** sections—two core components of written or electronic prescription orders.
 
+> **Rx** is the abbreviation of the Latin word for *recipe*, which means "take"
+
 ### 📃 Prescription Structure
 
 `Dosing schedules provide instructions for what quantity of a drug should be taken, how it is to be administered, and how often.`
