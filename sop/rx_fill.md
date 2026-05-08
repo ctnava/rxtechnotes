@@ -105,13 +105,14 @@ Medication orders vary by urgency. Prioritize in this order:
 
 - Match the medication using the **11‑Digit NDC** in the system  
   - 🔗 [Further Explanation of NDC system](../law/packaging_labeling.md#drug-listing-act-1972)
+  - 📌 Double‑check NDC, strength, and dosage form. Errors here cascade forward.
 - Follow inventory priority:
   1. **Returned‑to‑stock** vials (oldest first)  
   2. **Opened** stock bottles (unexpired)  
   3. **Unopened** bottles closest to expiration  
 - Mark newly opened bottles (“OPENED” sticker or marker slash)
 
-> 📌 Double‑check NDC, strength, and dosage form. Errors here cascade forward.
+> 📌 **Tall Man Lettering** is the use of uppercase letters to distinguish unique parts of a drug's name to help avoid errors due to look-alike names (e.g., hydr**OXY**zine vs. hydr**ALA**zine)
 
 ---
 
