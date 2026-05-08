@@ -6,15 +6,6 @@ In *outpatient/ ambulatory* settings, they are written on a prescription blanks 
 
 > 📠 For accuracy and improved record keeping, many pharmacies scan the hard copy of prescriptions into the pharmacy dispensing system on top of filing them.
 
-**Medication orders** are a single, unified document intended for multiple departments at once. It is written as a historical document for tracking treatment through a patient's stay.
-
-- Usually contains more than one order
-- Read from the top, down (most recent order first)
-- Dated and timed
-- Contains additional requests for labwork, physical therapy, or items stocked in the nursing station; **prescriptions**
-
-> Nursing staff may compare entered information to most recent medication orders to decide how to administer
-
 New prescriptions may be submitted by:
 
 - 📝 Handwritten forms (often for controlled substances)  
@@ -24,23 +15,18 @@ New prescriptions may be submitted by:
 
 > 🔐 Schedule II prescriptions generally require a written or e-prescription, except in emergencies. A verbal or faxed order may be accepted temporarily, but **a written/electronic Rx must follow within 7 days**.
 
-## ⚠️ Step 0: Triage
+## 🏥 Medication Orders
 
-### Pre-Entry Checklist
+**Medication orders** are a single, unified document intended for multiple departments at once. It is written as a historical document for tracking treatment through a patient's stay.
 
-Ensure the following are present and updated prior to entering prescriptions:
+- Usually contains more than one order
+- Read from the top, down (most recent order first)
+- Dated and timed
+- Contains additional requests for labwork, physical therapy, or items stocked in the nursing station; **prescriptions**
 
-- Patient allergies
-- Current medications
-- Insurance changes or eligibility issues
-- Clinical red flags
-- Prescription legibility and security features (for written Rxs)
+> Nursing staff may compare entered information to most recent medication orders to decide how to administer
 
-> ⚠️ **Technicians must not take verbal prescriptions or clarify orders.** Always refer unclear or incomplete orders to the pharmacist.
-
-## 🏥 Medication Order Identification & Prioritization (Inpatient)
-
-Medication orders in hospitals vary by urgency and purpose. Prioritize them as follows:
+Medication orders in hospitals vary by urgency and purpose.
 
 ### 🛑 **Stop Orders**
 
@@ -93,6 +79,18 @@ Medications administered at fixed intervals.
 
 > Make sure to gather relevant data for quick reference by pharmacist for verification
 > e.g. Prescriptions for Magnesium should be acompanied by blood levels for Magnesium
+
+## ⚠️ Step 0: Pre-Entry Checklist
+
+Ensure the following are present and updated prior to entering prescriptions:
+
+- Patient allergies
+- Current medications
+- Insurance changes or eligibility issues
+- Clinical red flags
+- Prescription legibility and security features (for written Rxs)
+
+> ⚠️ **Technicians must not take verbal prescriptions or clarify orders.** Always refer unclear or incomplete orders to the pharmacist.
 
 ## 🗂️ Step 1: Check for Required Elements
 
