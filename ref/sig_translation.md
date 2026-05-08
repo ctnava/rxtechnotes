@@ -58,7 +58,7 @@ Directions for use must be specific as the patient does not know what to do with
 
 ## 🔠 Abbreviations
 
-Below are a list of common abbreviations used for transcribing SIGs on prescriptions or medication orders.
+Below are a list of common abbreviations used for transcribing SIGs on prescriptions.
 
 > ⚠️ Indicates that this abbreviation is on the "Do Not Use" List.
 

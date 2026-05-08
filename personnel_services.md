@@ -20,7 +20,7 @@ Pharmacy clerks (also called assistants) are **unlicensed personnel** who suppor
 
 Pharmacy technicians are **healthcare professionals** who assist pharmacists with technical tasks. In some states, techs are only registered, not licensed. At minimum states require that technicians are **registered (and usually licensed)**, while some employers may also require **national certification**. Their scope of practice typically includes:
 
-- **Prescription Processing**: Receiving and processing medication orders, measuring and preparing dosages
+- **Prescription Processing**: Receiving and processing prescriptions, measuring and preparing dosages
 - **Labeling**: Packaging and labeling medications with usage instructions
 - **Insurance Processing**: Assisting with insurance claims and patient billing
 - **Compounding**: Preparing sterile and non-sterile medications under pharmacist supervision

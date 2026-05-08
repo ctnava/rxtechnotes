@@ -138,7 +138,7 @@ Medication errors can happen at any point from prescribing to patient use. Under
 
 ### 1. Prescribing & Order Communication
 
-A licensed prescriber (e.g., physician, nurse practitioner, dentist) selects and orders a medication based on the patient's diagnosis. Then, the prescription or medication order is transmitted from the prescriber to the pharmacy (or within a facility to the pharmacy or nursing unit).
+A licensed prescriber (e.g., physician, nurse practitioner, dentist) selects and orders a medication based on the patient's diagnosis. Then, the prescription or updated medication order is transmitted from the prescriber to the pharmacy (or within a facility to the pharmacy or nursing unit).
 
 **Potential Errors**:
 

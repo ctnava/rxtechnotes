@@ -96,7 +96,7 @@ To account for this, specific formulas were developed:
 
 ### 🧪 Example 1: Pediatric Penicillin VK Dose
 
-- **Medication Order**: 50,000 Units/kg/day, in 4 doses for 10 days
+- **Prescription**: 50,000 Units/kg/day, in 4 doses for 10 days
 - **Patient Weight**: 66 lbs
 - **Available Formulation**: 250 mg/5 mL (1,500 Units/mg)
 - **Solve**: How many mL `per dose`?
@@ -112,7 +112,7 @@ To account for this, specific formulas were developed:
 
 ### 🧪 Example 2: Dopamine Infusion
 
-- **Medication Order**: 5 mcg/kg/min
+- **Prescription**: 5 mcg/kg/min
 - **Patient Weight**: 176 lbs
 - **Solve**: How many `mg` are administered over `20 minutes`?
 

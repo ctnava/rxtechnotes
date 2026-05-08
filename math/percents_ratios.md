@@ -174,7 +174,7 @@ Understanding how to move between percent strength and ratio strength, and knowi
 
 ### 🧪 Advanced Example: Dose from a 1:1000 Solution
 
-Medication Order:
+Prescription:
 
 - **Drug concentration**: 1:1000 w/v
 - **Required dose**: 100 mcg

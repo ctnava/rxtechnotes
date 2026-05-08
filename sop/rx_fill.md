@@ -1,4 +1,4 @@
-# 🛠️ SOP — Filling Prescriptions & Medication Orders
+# 🛠️ SOP — Filling Prescriptions
 
 ## 🔑 Objectives
 
@@ -30,7 +30,7 @@
 
 Medication orders vary by urgency. Prioritize in this order:
 
-1. 🛑 **Stop Orders**: Discontinue active therapy immediately.  
+1. 🛑 **Stop Orders**: Discontinue active therapy immediately. (double-check chronological order)
 2. 🚑 **STAT Orders**: Medications needed **right now**.  
 3. 🎟️ **Admission Orders**: Initial orders for new admissions.  
 4. 😵‍💫 **PRN Orders**: “As needed” medications.  
@@ -302,7 +302,7 @@ Missing Doses are medications that should have already been delivered to the nur
 ```mermaid
 graph TD;
   A(["`Missing Dose Reported`"]);
-  B["`Is there a current Medication Order?`"];
+  B["`Is there a current prescription on the Medication Order?`"];
   C["`Did the nurse search the correct area?`"];
   D["`Was it marked dispensed recently?`"];
   E["`Is it still at the pharmacy or in transit?`"];

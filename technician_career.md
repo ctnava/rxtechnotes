@@ -185,7 +185,7 @@ The ExCPT is divided into four domains, each with its own percentage of the scor
 
 | Domain | Weight | Description |
 | -------- | -------- | ------------- |
-| **The Dispensing Process** | 45% | Covers all tasks related to filling prescriptions: receiving medication orders, verifying patient information, calculating dosages, preparing medications, compounding, labeling, final checks, and proper storage. Includes both sterile and nonsterile compounding topics. |
+| **The Dispensing Process** | 45% | Covers all tasks related to filling prescriptions: receiving prescriptions, verifying patient information, calculating dosages, preparing medications, compounding, labeling, final checks, and proper storage. Includes both sterile and nonsterile compounding topics. |
 | **Overview & Laws** | 25% | Focuses on the technician's scope of practice, role in the pharmacy workflow, and understanding of federal laws and regulations. This includes the Controlled Substances Act (CSA), DEA scheduling, labeling rules, and documentation requirements. |
 | **Drugs & Drug Therapy** | 15% | Tests knowledge of drug classes, commonly prescribed medications, therapeutic uses, dosage forms, side effects, and mechanisms of action. |
 | **Medication Safety & Quality Assurance** | 15% | Emphasizes best practices in preventing medication errors, detecting drug interactions, using barcode and labeling systems, and applying continuous quality improvement methods in pharmacy operations. |

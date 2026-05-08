@@ -71,8 +71,8 @@ Pharmacy technicians in LTC pharmacy settings often take on responsibilities sim
 
 To reduce delays in medication access, LTC facilities increasingly use **point-of-care automated dispensing systems** (e.g., Omnicell, Pyxis). These work by:
 
-1. Provider inputs a medication order
-2. Central pharmacy system verifies and approves the order
+1. Provider adds a prescription to medication order
+2. Central pharmacy system verifies and approves the prescription
 3. Remote unit at the LTC site receives order confirmation
 4. Authorized staff retrieves medication from the unit
 

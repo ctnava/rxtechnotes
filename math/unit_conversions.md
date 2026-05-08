@@ -140,7 +140,7 @@ Sig codes are often written in abbreviated Latin phrases. Pharmacy technicians m
 
 ### 🧪 Example: Body Weight Dosing
 
-- **Medication Order:**
+- **Prescription:**
   - `Dose: 30 mg/kg/day, divided into 4 doses`
   - `Patient Weight: 205 lbs`
 - **Question:** What is the patient's dosing schedule and amount?

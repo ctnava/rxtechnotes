@@ -56,7 +56,7 @@ A command to discontinue an active order.
 System‑generated restrictions on specific medications requiring reassessment & situation monitoring
 
 - **Temporary**: Require approval by designated services (e.g., Infectious Disease approval for broad‑spectrum antibiotics)
-  - 🚨 New medication order required to proceed with treatment
+  - 🚨 New prescription on medication orders required to proceed with treatment
 - **Permanent**: Prevent prescribing outside scope (e.g., chemotherapy restricted to oncology)
 
 ### 🚑 **STAT Orders**
@@ -92,7 +92,7 @@ Medications administered at fixed intervals.
 - **Range Orders**: Dose range allowed; requires pharmacist review for safety. -->
 
 > Make sure to gather relevant data for quick reference by pharmacist for verification
-> e.g. Medication orders for Magnesium should be acompanied by blood levels for Magnesium
+> e.g. Prescriptions for Magnesium should be acompanied by blood levels for Magnesium
 
 ## 🗂️ Step 1: Check for Required Elements
 
@@ -137,7 +137,7 @@ Before processing, verify that the prescription is complete and authentic.
 
 ![Visual Prescription](../ref/img/rx_requirements.PNG)
 
-### 🏥 Additional Requirements for Medication Orders
+### 🏥 Additional Requirements for Prescriptions on Medication Orders
 
 ![sample medication order](../ref/img/sample_medication_order.PNG)
 
@@ -149,7 +149,7 @@ In hospitals, medication orders must also include:
 
 #### 🔍 Verification Process
 
-Technicians may also screen medication orders for any that seem inappropriate by flagging orders with potential problems.
+Technicians may also screen prescriptions for any that seem inappropriate by flagging orders with potential problems.
 
 1. **Positive ID**: Confirm patient identity (hospital ID, wristband).
 2. **Cross‑Reference**: Review EMR for allergies, duplications, interactions, or contraindications.

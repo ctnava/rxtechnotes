@@ -263,7 +263,7 @@ graph TD;
   A-->B["`Copy of order removed from chart`"];
   B-->C["`Order picked up at nurses' station by technician or faxed/ tubed to pharmacy`"];
   C-->D["`Order entered into pharmacy computer system`"];
-  D-->E["`Pharmacist reviews and verifies medication order`"];
+  D-->E["`Pharmacist reviews and verifies prescription on medication order`"];
   D--"`Bypass During Emergencies`"-->F;
   E-->F["`Order filled by technician & checked by pharmacist`"];
   F-->G(["`Medication is manually delivered or tubed to nursing unit`"]);
@@ -302,7 +302,7 @@ Hospital pharmacies rely on **integrated electronic health records (EHRs)** and 
 
 ```mermaid
 graph TD;
-  A(["`Medication Order sent to pharmacy via CPOE`"]);
+  A(["`Updated Medication Order sent to pharmacy via CPOE`"]);
   A-->B["`Pharmacist Reviews & Verifies Order`"];
   A--"`Bypass During Emergencies`"-->C;
   B-->C["`RN retrieves medication from ADC`"];
