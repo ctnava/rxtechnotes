@@ -110,6 +110,7 @@ Before processing, verify that the prescription is complete and authentic.
   - 🐻 CA: Must be filled within **6 months**
 - **Inscription**: Drug name, strength, dosage form, quantity
 - **Signa (Sig)**: Complete directions for use
+  - if compounded, an ingredients list is also included
 - **Refills**: Number authorized
 - **Product Selection Code** (optional)  
   - Default = 0 (generic substitution allowed)  
