@@ -35,14 +35,14 @@ Patient situations evolve rapidly in these environments. Before proceeding, chec
 3. 😵‍💫 **PRN Orders**: “As needed” medications.  
 4. ⏰ **Standing Orders**: Scheduled, routine doses.
 
-### 1.2 Prescription Intake
+### 1.2 Prescription Inspection
 
 - Confirm the prescription is:
   - Entered correctly in the dispensing system  
   - Legible, complete, and legally valid  
-  - Reviewed for clinical flags  
-- 📄 Print the **prescription pamphlet** with patient and drug details  
-- 📌 If the system flags **interactions or allergies**, notify the pharmacist immediately  
+  - Reviewed for clinical flags
+    - 📌 **DUR Warnings** are an alert notifying the pharmacist of a potential drug safety (**interactions or allergies**) or billing concern
+    - Notify the pharmacist immediately and do not skip
 
 > 🩺 Pharmacist intake may be skipped **only** when delay would harm the patient (e.g., emergency STAT orders).
 
