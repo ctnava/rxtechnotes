@@ -117,7 +117,16 @@ Medication orders vary by urgency. Prioritize in this order:
 
 ## 3. ⚖️ Portioning & Packaging
 
-Medications must be dispensed in patient-ready form. The exact procedure depends on the product type.
+Medications must be dispensed in patient-ready form. The exact procedure depends on the product type. However, all labels must be:
+
+- Easily Located
+  - [ ] placed parallel to the container edges
+  - [ ] (state-dependent) placed on the actual container rather than packaging
+- Easily Read
+  - [ ] (irregular packaging) placed on vials containing small droppers or injection vials
+  - [ ] (optional) place transparent tape over label to prevent smudging or spills
+- Labeled Appropriately
+  - [ ] Including all required auxiliary labels
 
 > 🛡️ If multiple packages or pill bottles are used to fill a prescription, make sure to mark the quantity per bottle and the amount of bottles per set (e.g. #90 2/3).
 
@@ -189,6 +198,8 @@ Prepackaged items such as **unit doses** or **dry suspensions** must typically b
 - **Apply to Packaging**
   - Prescription label
   - All required auxiliary and warning stickers
+
+> 📌 Expensive, Brand Name medications should be protected with transparent tape over the sticker zone to allow it to be returned to stock
 
 ---
 
