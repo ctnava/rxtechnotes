@@ -22,7 +22,7 @@ New prescriptions may be submitted by:
 - Usually contains more than one order
 - Read from the top, down (most recent order first)
 - Dated and timed
-- Contains additional requests for labwork, physical therapy, or items stocked in the nursing station; **prescriptions**
+- Contains additional requests for labwork, physical therapy, or items stocked in the nursing station; not just **prescriptions**
 
 > Nursing staff may compare entered information to most recent medication orders to decide how to administer
 
