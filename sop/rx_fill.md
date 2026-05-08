@@ -30,7 +30,7 @@
 
 Patient situations evolve rapidly in these environments. Before proceeding, check to see if any treatments have been discontinued with **STOP** orders. Otherwise, prioritize fills in this order.
 
-1. 🚑 **STAT Orders**: Medications needed **right now**.  
+1. 🚑 **STAT Orders**: Medications needed **right now**; to be treated like waiters
 2. 🎟️ **Admission Orders**: Initial orders for new admissions.  
 3. 😵‍💫 **PRN Orders**: “As needed” medications.  
 4. ⏰ **Standing Orders**: Scheduled, routine doses.
