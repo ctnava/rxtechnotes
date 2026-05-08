@@ -12,6 +12,8 @@
 
 ---
 
+<!-- todo: go about explaining the logic of queues - typing, check, fill, verification, will call/ delivery -->
+
 ## 1. 📋 Pre‑Fill Preparation
 
 ### 1.1 Prioritization
@@ -52,6 +54,7 @@ Medication orders vary by urgency. Prioritize in this order:
     - 📌 Use language‑appropriate labels when patient profile indicates preference.
   - Required **auxiliary labels**  
     - these identify important usage information; including specific warnings or alerts on administration, storage, side effects, and food or drug interactions
+- Verify the Printed Label Contains 
 - Ensure label includes:
   - Patient name  
   - Drug name & strength  
