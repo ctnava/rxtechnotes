@@ -329,7 +329,9 @@ Technicians **must not**:
 - Take verbal orders
 - Make clinical judgments
 - Perform final prescription verification
-- Override DUR alerts or contact prescribers
+- Override **Drug Utilization Review (DUR)** alerts or warnings
+  - These are alerts notifying the pharmacist of a potential drug safety (**interactions or allergies**) or billing concern
+  - Notify the pharmacist immediately
 
 Technicians **may**:
 
