@@ -114,6 +114,7 @@ Before processing, verify that the prescription is complete and authentic.
 - **Refills**: Number authorized
 - **Product Selection Code** (optional)  
   - Default = 0 (generic substitution allowed)  
+  - Can be a number or **DAW** (Dispense as Written) for brand name only
   - 🐻 CA: “Do Not Substitute” must be handwritten (BPC §4073)
   - 🔗 [Additional Codes](../ref/product_selection.md)
 
