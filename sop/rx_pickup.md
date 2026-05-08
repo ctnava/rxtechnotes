@@ -107,6 +107,7 @@ These are typically bundled at the fill station before pharmacist verification, 
 
 - **Education Materials:** medication guides, VIS sheets, device quick‑start instructions
 - **Oral Medications:** dosing cups, oral syringes, adapter caps, child‑resistant or non‑CR caps  
+  - 📌 ensure units on equipment match those on dosing directions
 - **Topical/Otic/Ophthalmic:** applicator tips, cotton pads, dropper guides
 - **Respiratory:** spacers, pediatric mask attachments, inhaler instruction cards  
 - **Temperature‑Sensitive Medications:** insulated bags, ice packs, storage instructions  

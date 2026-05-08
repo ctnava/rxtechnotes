@@ -18,16 +18,18 @@ The signa (the "sig") can be best described as `instructions for use` is almost 
 
 ## ✅ Required Elements in Sig
 
-- Action Verb (e.g. Take, Apply, Inject)
+- Start with a Verb (e.g. Take, Apply, Inject)
 - Dose and Dosage Form
-- Route of Administration
-  - Site of Administration (for hospitals)
+- Indicate the Route of Administration
+  - (Inpatient Only) Site of Administration
 - Frequency & Duration of Use
 - Timing (e.g., with meals, at bedtime)
 
 **Example**:  
 `℞ i tab po bid pc #30` →  
 `Take 1 tablet by mouth twice daily after meals`
+
+> Use **whole words** not abbreviations
 
 ## Common Verbs & Associated Dosage Forms by Route
 
