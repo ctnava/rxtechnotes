@@ -129,7 +129,18 @@ Before processing, verify that the prescription is complete and authentic.
 
 ![Visual Prescription](../ref/img/rx_requirements.PNG)
 
-### 🏥 Inpatient Medication Orders – Additional Requirements
+### 🏥 Inpatient Medication Orders
+
+Medication orders are a single, unified document intended for multiple departments at once. It is written as a historical document for tracking treatment through a patient's stay.
+
+- Usually contains more than one order
+- Read from the top, down (most recent order first)
+- Dated and timed
+- Contains additional requests for labwork, physical therapy, or items stocked in the nursing station; **not just requests for medication**
+
+> Nursing staff may compare entered information to most recent medication orders to decide how to administer
+
+#### Check for These Additional Requirements
 
 ![sample medication order](../ref/img/sample_medication_order.PNG)
 
@@ -137,6 +148,7 @@ In hospitals, medication orders must also include:
 
 - Patient hospital ID and room/bed number
 - Indication for use (diagnosis or symptom)
+- Patient Allergies (in Red Ink)
 
 #### 🔍 Verification Process
 
