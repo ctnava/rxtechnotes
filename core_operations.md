@@ -1,5 +1,7 @@
 # Core Pharmacy Operations & Standard Operating Procedures (SOP)
 
+<!-- todo write a nice intro -->
+
 ---
 
 ## Legal Designations of Drugs
@@ -102,7 +104,7 @@ Link to 🔗 [**Standard Operating Procedure**](./sop/phone_calls.md)
 
 ### New Patient Intake
 
-When a patient shows up to the pharmacy for the first time, they usually bring a prescription with them. In order for the pharmacy to be reimbursed by insurance companies, the patient's information must be present on the pharmacy's computer system for adjudication.
+When a patient shows up to the pharmacy for the first time, they usually bring a prescription with them. In order for the pharmacy to be properly reimbursed by insurance companies, the patient's information must be present on the pharmacy's computer system for adjudication.
 
 Link to 🔗 [**Standard Operating Procedure**](./sop/pt_intake.md)
 
