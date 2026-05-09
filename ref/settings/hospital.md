@@ -219,6 +219,8 @@ Hospital Pharmacy Technicians are often cross-trained to work in different areas
 
 ## Hospital Communication
 
+Inpatient pharmacy technicians support the nursing staff directly and rarely have contact with the patient because medications are administered, not taken.
+
 Effective communication between hospital departments is essential to ensure timely, accurate, and coordinated patient care. Pharmacy technicians are frequently involved in both direct and indirect communication related to medication management.
 
 ### ☎️ Phone Calls
