@@ -82,7 +82,9 @@ Medications administered at fixed intervals.
 
 ## ⚠️ Step 0: Pre-Entry Checklist
 
-Always check to see if the patient is already in the system. If not, then you will have to perform 🔗 [New Patient Intake](./pt_intake.md).
+Always check to see if the patient is already in the system
+
+If not, then you will have to perform 🔗 [New Patient Intake](./pt_intake.md)
 
 > Check to see if the patient is using a nickname or initial
 
@@ -94,15 +96,21 @@ Ensure the following are present and updated prior to entering prescriptions:
 - Clinical red flags
 - Prescription legibility and security features (for written Rxs)
 
-> ⚠️ **Technicians must not take verbal prescriptions or clarify orders.** Always refer unclear or incomplete orders to the pharmacist.
-> 🔐 Pharmacists should inspect **all incoming** Schedule II Prescriptions.
-> ⚠️ Pharmacists are required to determine which **OTC medicine** is requested on incoming prescriptions
+### Special Considerations
+
+- ⚠️ **Technicians must not take verbal prescriptions or clarify orders**
+- 🔐 Pharmacists should inspect **all incoming** Schedule II Prescriptions
+- ⚠️ Pharmacists are required to determine which **OTC medicine** is requested on incoming prescriptions
+
+> If the drug requires compounding or is not available, inform the patient that there will be a delay in filling this prescription
 
 ## 🗂️ Step 1: Check for Required Elements
 
 Before processing, verify that the prescription is complete and authentic.
 
 ### ✅ Required Elements for Prescriptions
+
+Always refer unclear or incomplete orders to the pharmacist
 
 #### **Prescriber Information**
 
@@ -120,6 +128,7 @@ Before processing, verify that the prescription is complete and authentic.
 
 - **Date Written**  
   - 🐻 CA: Must be filled within **6 months**
+  - Check with the pharmacist to determine if the prescription can be filled if it is more than a few days old
 - **Inscription**: Drug name, strength, dosage form, quantity
 - **Signa (Sig)**: Complete directions for use
   - if compounded, an ingredients list is also included
