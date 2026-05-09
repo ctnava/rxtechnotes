@@ -198,7 +198,7 @@ The Days Supply refers to how long a prescription will last based on the quantit
 
 ## 💻 Step 4: Claim Submission & Adjudication
 
-After prescription entry, claims must be submitted accurately to insurance.
+When prescriptions are entered, they are automatically checked by pharmacy software for drug-drug, drug-disease, and drug-allergy interactions. From here, claims must be submitted accurately to insurance.
 
 ### Patient & Insurance Information
 
