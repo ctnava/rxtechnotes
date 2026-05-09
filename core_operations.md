@@ -102,7 +102,7 @@ Pharmacy technicians must answer calls promptly, communicate clearly and respect
 
 ### New Patient Intake
 
-When a patient shows up to the pharmacy for the first time, they usually bring a prescription with them.
+When a patient shows up to the pharmacy for the first time, they usually bring a prescription with them. In order for the pharmacy to be reimbursed by insurance companies, the patient's information must be present on the pharmacy's computer system for adjudication.
 
 Link to 🔗 [**Standard Operating Procedure**](./sop/pt_intake.md)
 
