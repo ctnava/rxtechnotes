@@ -1,20 +1,6 @@
 # Core Pharmacy Operations & Standard Operating Procedures (SOP)
 
-## 📞 Customer Service
-
-Pharmacy technicians must answer calls promptly, communicate clearly and respectfully, gather accurate information, and route clinical inquiries appropriately to ensure professional, accurate, and HIPAA-compliant telephone communication with patients, providers, and other parties contacting the pharmacy.
-
-🔗 [Answering Pharmacy Phone Calls SOP](./sop/phone_calls.md)
-
-**Retail technicians are the first point of contact for most patients**. Professional demeanor, clear communication, and operational efficiency are critical for ensuring medication safety and customer satisfaction.
-
-- Listen actively and make eye contact  
-- Confirm understanding by repeating concerns  
-- Use a respectful, positive tone  
-- Refer to patients by name when possible  
-- Identify the pharmacy when answering the phone  
-- Always follow facility policies and procedures  
-- Refer all clinical questions to the pharmacist
+---
 
 ## Legal Designations of Drugs
 
@@ -93,6 +79,28 @@ When performing **medication reconciliation** (the process of gathering a patien
   - Monitored under the **Combat Methamphetamine Epidemic Act (2005)**  
     - 🦅 Federal control  
     - 🐻 California may impose stricter limits
+
+---
+
+## 📞 Customer Service
+
+### Phone Calls
+
+Pharmacy technicians must answer calls promptly, communicate clearly and respectfully, gather accurate information, and route clinical inquiries appropriately to ensure professional, accurate, and HIPAA-compliant telephone communication with patients, providers, and other parties contacting the pharmacy.
+
+🔗 [Answering Pharmacy Phone Calls SOP](./sop/phone_calls.md)
+
+**Retail technicians are the first point of contact for most patients**. Professional demeanor, clear communication, and operational efficiency are critical for ensuring medication safety and customer satisfaction.
+
+- Listen actively and make eye contact  
+- Confirm understanding by repeating concerns  
+- Use a respectful, positive tone  
+- Refer to patients by name when possible  
+- Identify the pharmacy when answering the phone  
+- Always follow facility policies and procedures  
+- Refer all clinical questions to the pharmacist
+
+---
 
 ## Prescriptions & Orders
 
