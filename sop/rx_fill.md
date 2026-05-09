@@ -232,6 +232,8 @@ Ensure all required ancillary supplies are included per pharmacy policy and base
   - Proper quantity and packaging
   - Clarity and correctness of directions
 
+> while you technically *should* hand the pharmacist the stock bottle used, most places dont actually want you to do this
+
 ### Telepharmacy
 
 In some states, a technician may send an image or video of the prepared medication to the pharmacist for remote verification
