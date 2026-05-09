@@ -91,6 +91,8 @@ Ensure the following are present and updated prior to entering prescriptions:
 - Prescription legibility and security features (for written Rxs)
 
 > ⚠️ **Technicians must not take verbal prescriptions or clarify orders.** Always refer unclear or incomplete orders to the pharmacist.
+> 🔐 Pharmacists should inspect **all incoming** Schedule II Prescriptions.
+> ⚠️ Pharmacists are required to determine which **OTC medicine** is requested on incoming prescriptions
 
 ## 🗂️ Step 1: Check for Required Elements
 

@@ -87,7 +87,7 @@ Recommended screening questions:
    - Required for insurance reimbursement  
    - Used for audit verification  
 2. Offer pharmacist counseling:  
-   - Mandatory for **new prescriptions**  
+   - Mandatory for **new** prescriptions
    - Recommended if the patient appears unsure or has clinical questions  
 3. Document:  
    - Counseling provided  
