@@ -84,6 +84,7 @@ Pharmacy technicians perform a wide range of functions critical to the safe and 
 6. **Entering patient information** into pharmacy information systems  
 7. **Handling phone calls** and addressing routine inquiries  
 8. **Coordinating pharmacist consultations** for patients with medication concerns  
+   - Technicians should **ALWAYS** defer clinical judgement to pharmacists
 
 Additional responsibilities may include:
 
