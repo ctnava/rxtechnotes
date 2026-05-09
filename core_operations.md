@@ -108,7 +108,7 @@ Link to 🔗 [**Standard Operating Procedure**](./sop/pt_intake.md)
 
 ---
 
-## Processing Prescriptions
+## Prescription Processing
 
 ### Prescription Intake & Billing
 
