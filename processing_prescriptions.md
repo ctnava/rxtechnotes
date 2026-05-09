@@ -8,7 +8,7 @@ When pat
 
 ---
 
-## Prescription Workflows
+## General Prescription Workflows
 
 ### Prescription Intake & Billing
 
