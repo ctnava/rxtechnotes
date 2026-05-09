@@ -1,12 +1,20 @@
-# Prescription Workflows in Pharmacy
+# Prescription Drugs & Workflows
+
+---
+
+## Patient Intake & Data Entry
+
+When pat
+
+---
+
+## Prescription Intake & Billing
 
 **Prescriptions** are instructions from a medical practitioner that authorize the provision of a drug or device to a patient.
 
 In *outpatient/ ambulatory* settings (e.g. Community Pharmacy), medicine is dispensed directly to the patient who is expected to self-administer.
 
 In *institutional* settings (e.g. hospitals), nursing staff generally administer medications to patients.
-
-## Prescription Intake & Billing
 
 ### 🚶‍➡️ Outpatient Prescriptions
 
@@ -85,6 +93,8 @@ Medications administered at fixed intervals.
 
 > Make sure to gather relevant data for quick reference by pharmacist for verification
 > e.g. Prescriptions for Magnesium should be acompanied by blood levels for Magnesium
+
+### Standard Operating Procedure for Intake & Billing
 
 ---
 
