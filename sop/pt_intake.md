@@ -162,3 +162,9 @@ OTC medications are not automatically safe. They can cause:
 - Do not delay entry of allergy, insurance, or health condition information.
 - All **clinical questions or discrepancies** must be referred to a pharmacist.
 - Use discretion when recording sensitive information. Ensure compliance with HIPAA and company policy.
+
+---
+
+## 🗺️🔗 Nav Links
+
+- 🔙 Back to [**Prescription Intake**](./rx_intake.md#️-step-0-pre-entry-checklist)

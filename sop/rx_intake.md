@@ -82,6 +82,10 @@ Medications administered at fixed intervals.
 
 ## ⚠️ Step 0: Pre-Entry Checklist
 
+Always check to see if the patient is already in the system. If not, then you will have to perform 🔗 [New Patient Intake](./pt_intake.md).
+
+> Check to see if the patient is using a nickname or initial
+
 Ensure the following are present and updated prior to entering prescriptions:
 
 - Patient allergies
