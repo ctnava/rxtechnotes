@@ -1,6 +1,49 @@
-# Core Pharmacy Operations & Standard Operating Procedures (SOP)
+# Core Pharmacy Workflows & Standard Operating Procedures (SOP)
 
-<!-- todo write a nice intro -->
+---
+
+## Pharmacy Roles & Responsibilities
+
+A safe and efficient pharmacy depends on the coordinated work of pharmacists and pharmacy technicians. Although both roles contribute to the prescription‑filling process, each carries distinct responsibilities defined by state and federal regulations, professional standards, and the needs of patient care. Understanding these responsibilities is essential for maintaining accuracy, preventing medication errors, and ensuring that every patient receives the highest standard of service. The following section outlines the core duties of pharmacists and pharmacy technicians and clarifies the tasks that may only be performed by a licensed pharmacist.
+
+### Pharmacist Responsibilities
+
+Pharmacists use their clinical expertise to ensure that all physician orders are carried out accurately and safely. Their responsibilities include verifying that:
+
+- The **correct medication, strength, and dosage form** are dispensed to the correct patient
+- Directions for use are **clear, accurate, and unambiguous**
+- The patient understands **how to take the medication**
+- The patient knows **how and when to request refills**
+- There are no potential **drug–allergy, drug–drug, or drug–disease interactions**
+  - (Computer systems generate DUR warnings to support this review)
+- The patient understands the **expected therapeutic benefits**
+- The patient is aware of **possible side effects** and when to seek help
+- The prescriber has been contacted for clarification or intervention when necessary
+- The prescription has been **accurately billed** to the patient and/or third party
+
+#### Only Pharmacists May
+
+- Counsel patients on the use of **over‑the‑counter (OTC)** medications
+- Recommend **over‑the‑counter (OTC)** medications to patients
+- Receive **telephone requests for new prescriptions** (varies by state law)
+
+### Pharmacy Technician Responsibilities
+
+Pharmacy technicians support the pharmacist by performing routine, technical, and operational tasks that contribute to safe and efficient prescription processing. Responsibilities include:
+
+- Assisting the pharmacist in **technical aspects** of prescription filling
+- Treating each patient, their personal information, and their medications with **respect and confidentiality**
+- Accepting new prescriptions from patients, gathering all required information, and entering it into the computer system **accurately and efficiently**
+- Faxing or telephoning **refill AND clarification** requests to prescribers
+- Alerting the pharmacist whenever a **DUR warning** appears during order entry
+- Consulting formularies and responding appropriately to third‑party adjudication messages such as **non‑preferred drug**, **prior authorization**, or **step‑therapy required**
+- Quickly locating the correct medication for dispensing, calculating quantities, repackaging medication, and retrieving the appropriate **Medication Guide**
+- Compounding prescriptions **under pharmacist supervision**
+- Recording the dispensing of **controlled substances** in accordance with regulations
+- Checking the work of other technicians **when delegated by a pharmacist**
+- Assisting with **inventory management**, including removing outdated or recalled medications
+- Referring patients to a pharmacist for counseling on prescription or OTC medications, or for any question requiring **clinical judgment**
+- Ensuring **accuracy and safety** throughout the prescription‑filling process by incorporating quality‑control checks at every step
 
 ---
 
@@ -208,9 +251,11 @@ Link to 🔗 [**Standard Operating Procedure**](./sop/rx_intake.md)
 
 ### Filling & Preparing Prescriptions
 
-<!-- todo implement pg 201 + 207 -->
+<!-- todo implement pg 201 -->
 
 After prescriptions are accurately entered and verified in the system, technicians must follow standardized protocols to ensure safe, legal, and efficient dispensing of medications.
+
+#### SOP: Filling Prescriptions
 
 Link to 🔗 [**Standard Operating Procedure**](./sop/rx_fill.md)
 
