@@ -8,7 +8,9 @@ When pat
 
 ---
 
-## Prescription Intake & Billing
+## Prescription Workflows
+
+### Prescription Intake & Billing
 
 **Prescriptions** are instructions from a medical practitioner that authorize the provision of a drug or device to a patient.
 
@@ -16,7 +18,7 @@ In *outpatient/ ambulatory* settings (e.g. Community Pharmacy), medicine is disp
 
 In *institutional* settings (e.g. hospitals), nursing staff generally administer medications to patients.
 
-### 🚶‍➡️ Outpatient Prescriptions
+#### 🚶‍➡️ Outpatient Prescriptions
 
 In *outpatient/ ambulatory* settings, new prescriptions may be submitted as:
 
@@ -28,7 +30,7 @@ In *outpatient/ ambulatory* settings, new prescriptions may be submitted as:
 
 > 🔐 Schedule II prescriptions generally require a written or e-prescription, except in emergencies. A verbal or faxed order may be accepted temporarily, but **a written/electronic Rx must follow within 7 days**.
 
-### 🏥 Inpatient Medication Orders
+#### 🏥 Inpatient Medication Orders
 
 **Medication orders** are a single, unified document intended for multiple departments at once. It is written as a historical document for tracking treatment through a patient's stay.
 
@@ -41,7 +43,7 @@ In *outpatient/ ambulatory* settings, new prescriptions may be submitted as:
 
 Medication orders in hospitals vary by urgency and purpose.
 
-#### 🛑 **Stop Orders**
+##### 🛑 **Stop Orders**
 
 A command to discontinue an active order.
 
@@ -50,7 +52,7 @@ A command to discontinue an active order.
 
 `first, do no harm`
 
-##### 🤖 Automatic Stop Orders
+###### 🤖 Automatic Stop Orders
 
 System‑generated restrictions on specific medications requiring reassessment & situation monitoring
 
@@ -58,26 +60,26 @@ System‑generated restrictions on specific medications requiring reassessment &
   - 🚨 New prescription on medication orders required to proceed with treatment
 - **Permanent**: Prevent prescribing outside scope (e.g., chemotherapy restricted to oncology)
 
-#### 🚑 **STAT Orders**
+##### 🚑 **STAT Orders**
 
 For medications needed **immediately**.
 
 - 📌 Pharmacist verification may be bypassed if delay would harm the patient **PER HOSPITAL PROTOCOL**.
 - Technicians may be asked to quickly gather weight, allergies, or home meds.
 
-#### 🎟️ **Admission Orders**
+##### 🎟️ **Admission Orders**
 
 Initial orders upon hospital admission.
 
 - Include some or all home meds + new meds for current illness.
 
-#### 😵‍💫 **PRN Orders**
+##### 😵‍💫 **PRN Orders**
 
 “As needed” medications.
 
 - Must include **indication** and **maximum daily dose**.
 
-#### ⏰ **Standing (Scheduled) Orders**
+##### ⏰ **Standing (Scheduled) Orders**
 
 Medications administered at fixed intervals.
 
