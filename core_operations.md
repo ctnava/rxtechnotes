@@ -200,6 +200,26 @@ Medications administered at fixed intervals.
 
 Link to 🔗 [**Standard Operating Procedure**](./sop/rx_intake.md)
 
+## Filling or Preparing Prescriptions
+
+After prescriptions are accurately entered and verified in the system, technicians must follow standardized protocols to ensure safe, legal, and efficient dispensing of medications.
+
+🔗 [Prescription Filling SOP](./sop/rx_fill.md)
+
+## 🔔 Prescription Pickup & Handoff
+
+Pharmacy technicians play a key role at the final stage of the dispensing process. This involves:
+
+- 📇 Verifying patient identity using at least two identifiers  
+- 🔐 Complying with federal and state regulations for controlled substances  
+- 🧑‍⚕️ Offering pharmacist counseling when required or appropriate  
+- ✍️ Documenting the pickup for insurance and audit trails  
+- ✅ Ensuring the prescription is handed off to the correct individual with proper tracking
+
+> 🧾 Pickup is a regulated point-of-contact and must be handled with accuracy and professionalism
+
+🔗 [Prescription Pickup & Handoff SOP](./sop/rx_pickup.md)
+
 ### 🔄 Refills & Renewal Requests
 
 Each prescription is assigned a **prescription number**, which stays the same for all refills. The number of authorized refills is written by the prescriber and usually printed on the **prescription label**. If a doctor authorizes multiple refills (often written as ‘Refills: 3’ or ‘Refills: PRN’), they are valid for **up to 1 year** from the date the prescription was written, **except for controlled substances**, which have stricter limits.
@@ -223,12 +243,6 @@ Prescriptions may be transferred to another pharmacy at the request of a patient
 
 🔗 [Prescription Transfer SOP](./sop/rx_xfer.md)
 
-## Filling or Preparing Prescriptions
-
-After prescriptions are accurately entered and verified in the system, technicians must follow standardized protocols to ensure safe, legal, and efficient dispensing of medications.
-
-🔗 [Prescription Filling SOP](./sop/rx_fill.md)
-
 ### 🧩 Partial Fills
 
 A **partial fill** occurs when a pharmacy dispenses **less than the total prescribed quantity** of a medication. This is commonly due to:
@@ -241,20 +255,6 @@ A **partial fill** occurs when a pharmacy dispenses **less than the total prescr
 > 🧑‍⚕️ Controlled partial fills may have stricter limits and expiration windows depending on the schedule
 
 🔗 [Partial Fills of Prescriptions SOP](./sop/rx_pfl.md)
-
-## 🔔 Prescription Pickup & Handoff
-
-Pharmacy technicians play a key role at the final stage of the dispensing process. This involves:
-
-- 📇 Verifying patient identity using at least two identifiers  
-- 🔐 Complying with federal and state regulations for controlled substances  
-- 🧑‍⚕️ Offering pharmacist counseling when required or appropriate  
-- ✍️ Documenting the pickup for insurance and audit trails  
-- ✅ Ensuring the prescription is handed off to the correct individual with proper tracking
-
-> 🧾 Pickup is a regulated point-of-contact and must be handled with accuracy and professionalism
-
-🔗 [Prescription Pickup & Handoff SOP](./sop/rx_pickup.md)
 
 ---
 
