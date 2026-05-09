@@ -245,13 +245,13 @@ Refills can be requested:
 
 When a prescription has no refills or is expired, the technician is requesting a new prescription, not a ‘refill’ in the legal sense. **Pharmacy technicians** may be authorized to contact the prescriber **on behalf of the patient** to request a new prescription.
 
-🔗 [Prescription Renewals SOP](./sop/rx_renewal.md)
+Link to 🔗 [**Standard Operating Procedure**](./sop/rx_renewal.md)
 
 #### Prescription Transfers
 
 Prescriptions may be transferred to another pharmacy at the request of a patient. State laws vary when it comes to different classes of drugs. Technicians may pull up the relevant records for transfer, however the pharmacist is responsible for the actual act of sending or receiving prescriptions.
 
-🔗 [Prescription Transfer SOP](./sop/rx_xfer.md)
+Link to 🔗 [**Standard Operating Procedure**](./sop/rx_xfer.md)
 
 #### 🧩 Partial Fills
 
@@ -264,7 +264,7 @@ A **partial fill** occurs when a pharmacy dispenses **less than the total prescr
 > ✅ Documentation of quantity dispensed, quantity remaining, and follow-up date is required  
 > 🧑‍⚕️ Controlled partial fills may have stricter limits and expiration windows depending on the schedule
 
-🔗 [Partial Fills of Prescriptions SOP](./sop/rx_pfl.md)
+Link to 🔗 [**Standard Operating Procedure**](./sop/rx_pfl.md)
 
 ---
 
