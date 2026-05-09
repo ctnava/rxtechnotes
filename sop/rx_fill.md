@@ -240,7 +240,9 @@ In some states, a technician may send an image or video of the prepared medicati
 
 At least 9 states allow specially trained pharmacy technicians to check medication prepared by another technician **in a hospital setting**
 
-> Each state has specific training and auditing requirements
+Each state has specific training and auditing requirements
+
+> also called technician product verification or accuracy checking
 
 ### REMS Compliance
 
