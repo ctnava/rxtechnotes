@@ -110,7 +110,11 @@ Link to 🔗 [**Standard Operating Procedure**](./sop/pt_intake.md)
 
 ## Prescription Processing
 
+<!-- todo implement pg 201 -->
+
 ### Prescription Intake & Billing
+
+<!-- todo implement pg 201 -->
 
 **Prescriptions** are instructions from a medical practitioner that authorize the provision of a drug or device to a patient.
 
@@ -200,13 +204,17 @@ Medications administered at fixed intervals.
 
 Link to 🔗 [**Standard Operating Procedure**](./sop/rx_intake.md)
 
-## Filling or Preparing Prescriptions
+### Filling & Preparing Prescriptions
+
+<!-- todo implement pg 201 + 207 -->
 
 After prescriptions are accurately entered and verified in the system, technicians must follow standardized protocols to ensure safe, legal, and efficient dispensing of medications.
 
-🔗 [Prescription Filling SOP](./sop/rx_fill.md)
+Link to 🔗 [**Standard Operating Procedure**](./sop/rx_fill.md)
 
-## 🔔 Prescription Pickup & Handoff
+### 🔔 Prescription Pickup & Handoff
+
+<!-- todo implement pg 201 -->
 
 Pharmacy technicians play a key role at the final stage of the dispensing process. This involves:
 
@@ -218,9 +226,11 @@ Pharmacy technicians play a key role at the final stage of the dispensing proces
 
 > 🧾 Pickup is a regulated point-of-contact and must be handled with accuracy and professionalism
 
-🔗 [Prescription Pickup & Handoff SOP](./sop/rx_pickup.md)
+Link to 🔗 [**Standard Operating Procedure**](./sop/rx_pickup.md)
 
-### 🔄 Refills & Renewal Requests
+### Edge Cases
+
+#### 🔄 Refills & Renewal Requests
 
 Each prescription is assigned a **prescription number**, which stays the same for all refills. The number of authorized refills is written by the prescriber and usually printed on the **prescription label**. If a doctor authorizes multiple refills (often written as ‘Refills: 3’ or ‘Refills: PRN’), they are valid for **up to 1 year** from the date the prescription was written, **except for controlled substances**, which have stricter limits.
 
@@ -237,13 +247,13 @@ When a prescription has no refills or is expired, the technician is requesting a
 
 🔗 [Prescription Renewals SOP](./sop/rx_renewal.md)
 
-### Prescription Transfers
+#### Prescription Transfers
 
 Prescriptions may be transferred to another pharmacy at the request of a patient. State laws vary when it comes to different classes of drugs. Technicians may pull up the relevant records for transfer, however the pharmacist is responsible for the actual act of sending or receiving prescriptions.
 
 🔗 [Prescription Transfer SOP](./sop/rx_xfer.md)
 
-### 🧩 Partial Fills
+#### 🧩 Partial Fills
 
 A **partial fill** occurs when a pharmacy dispenses **less than the total prescribed quantity** of a medication. This is commonly due to:
 
@@ -255,6 +265,12 @@ A **partial fill** occurs when a pharmacy dispenses **less than the total prescr
 > 🧑‍⚕️ Controlled partial fills may have stricter limits and expiration windows depending on the schedule
 
 🔗 [Partial Fills of Prescriptions SOP](./sop/rx_pfl.md)
+
+---
+
+## Facility Maintenance
+
+<!-- todo implement inventory management here -->
 
 ---
 
