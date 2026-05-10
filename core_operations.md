@@ -447,6 +447,8 @@ N2 --> N3 --> S2
 
 ```
 
+> disclaimer: author has not worked in an institutional setting yet, only outpatient clinics
+
 #### SOP: Prescription Pickup & Handoff
 
 Link to 🔗 [**Standard Operating Procedure**](./sop/rx_pickup.md)
