@@ -183,6 +183,7 @@ flowchart TD
 %% =========================
 %% STYLE DEFINITIONS
 %% =========================
+linkStyle default stroke:#1a4fff,stroke-width:2px
 classDef lane fill:#d0d0d0,stroke:#444,stroke-width:1px,color:#111
 classDef external fill:#b7e8b7,stroke:#2d6b2d,stroke-width:1px,color:#111
 classDef tech fill:#bcd4ff,stroke:#2f5597,stroke-width:1px,color:#111
