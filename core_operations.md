@@ -161,10 +161,6 @@ Link to 🔗 [**Standard Operating Procedure**](./sop/pt_intake.md)
 
 **Prescriptions** are instructions from a medical practitioner that authorize the provision of a drug or device to a patient.
 
-In *outpatient/ ambulatory* settings (e.g. Community Pharmacy), medicine is dispensed directly to the patient who is expected to self-administer.
-
-In *institutional* settings (e.g. hospitals), nursing staff generally administer medications to patients.
-
 #### 🚶‍➡️ Outpatient Prescriptions
 
 In *outpatient/ ambulatory* settings, new prescriptions may be submitted as:
@@ -386,9 +382,13 @@ Pharmacy technicians play a key role at the final stage of the dispensing proces
 
 > 🧾 Pickup is a regulated point-of-contact and must be handled with accuracy and professionalism
 
+#### Outpatient Medication Pickup
+
+In *outpatient/ ambulatory* settings (e.g. Community Pharmacy), medicine is dispensed directly to the patient who is expected to self-administer.
+
 #### Inpatient Medication Delivery
 
-Medications are delivered to the nurses' station for administration in inpatient settings
+In *institutional* settings (e.g. hospitals), nursing staff generally administer medications to patients.
 
 ```mermaid
 flowchart TD
