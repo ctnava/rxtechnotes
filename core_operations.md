@@ -205,7 +205,8 @@ subgraph TECH["Technician"]
     T1["Enter Patient / Prescriber / Insurance Info"]:::tech
     T2["TPR Troubleshooting Workflow"]:::tech
     T3["Alert Pharmacist for DUR Review"]:::tech
-    T4["Awaiting Print & Fill"]:::terminator
+    T4["Initiate Fill"]:::tech
+    T5["Awaiting Print & Fill"]:::terminator
 end
 class TECH lane
 
@@ -217,6 +218,7 @@ class SYS lane
 
 subgraph PHARM["Pharmacist"]
     P1["Consult Prescriber for Alternative"]:::pharm
+    P2["Review Entered Prescription"]:::pharm
 end
 class PHARM lane
 
@@ -227,9 +229,11 @@ class PHARM lane
 H1 --> T1 --> S1
 
 S1 -->|DUR Triggered| T3 --> P1 --> H1
-S1 -->|No DUR| S2
+S1 -->|No DUR| P2
+P2 -->|Pass| T4 --> S2
+P2 -->|Fail| T1
 
-S2 -->|Claim Accepted| T4
+S2 -->|Claim Accepted| T5
 S2 -->|Claim Rejected| T2
 ```
 
@@ -277,12 +281,14 @@ class SYS lane
 subgraph PHARM["Pharmacist"]
     P1["Review for Contraindications"]:::pharm
     P2["Consult Prescriber for Alternative"]:::pharm
+    P3["Review Entered Prescription"]:::pharm
 end
 class PHARM lane
 
 subgraph TECH["Technician"]
     T1["Enter New Prescription"]:::tech
-    T2["Awaiting Print & Fill"]:::terminator
+    T2["Initiate Fill"]:::tech
+    T3["Awaiting Print & Fill"]:::terminator
 end
 class TECH lane
 
@@ -292,8 +298,11 @@ class TECH lane
 
 A1 --> S1 --> S2 --> P1
 
-P1 -->|Approved| T1 --> T2
+P1 -->|Approved| T1 --> P3
 P1 -->|Rejected| P2 --> A1
+
+P3 -->|Pass| T2 --> T3
+P3 -->|Fail| T1
 ```
 
 Medication orders in hospitals vary by urgency and purpose.
