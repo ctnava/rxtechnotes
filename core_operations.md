@@ -205,6 +205,7 @@ subgraph TECH["Technician"]
     T1["Enter Patient / Prescriber / Insurance Info"]:::tech
     T2["TPR Troubleshooting Workflow"]:::tech
     T3["Alert Pharmacist for DUR Review"]:::tech
+    T4["Awaiting Print & Fill"]:::terminator
 end
 class TECH lane
 
@@ -219,11 +220,6 @@ subgraph PHARM["Pharmacist"]
 end
 class PHARM lane
 
-subgraph TERM["Terminal State"]
-    Z1["Awaiting Print & Fill"]:::terminator
-end
-class TERM lane
-
 %% =========================
 %% FLOW
 %% =========================
@@ -233,7 +229,7 @@ H1 --> T1 --> S1
 S1 -->|DUR Triggered| T3 --> P1 --> H1
 S1 -->|No DUR| S2
 
-S2 -->|Claim Accepted| Z1
+S2 -->|Claim Accepted| T4
 S2 -->|Claim Rejected| T2
 ```
 
