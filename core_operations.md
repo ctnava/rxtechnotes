@@ -183,13 +183,13 @@ flowchart TD
 %% =========================
 %% STYLE DEFINITIONS
 %% =========================
-classDef lane fill:#f7f7f7,stroke:#bbb,stroke-width:1px
-classDef external fill:#d9f7d9,stroke:#3a8f3a,stroke-width:1px
-classDef tech fill:#dbe9ff,stroke:#3a6ea5,stroke-width:1px
-classDef pharm fill:#eadcff,stroke:#7a3ea5,stroke-width:1px
-classDef system fill:#e6e6e6,stroke:#666,stroke-width:1px
-classDef terminator fill:#c2f0f0,stroke:#0aa,stroke-width:1px,rx:12,ry:12
-classDef decision fill:#fff2cc,stroke:#b59b00,stroke-width:1px,rx:4,ry:4
+classDef lane fill:#f0f0f0,stroke:#444,stroke-width:1px,color:#111
+classDef external fill:#b7e8b7,stroke:#2d6b2d,stroke-width:1px,color:#111
+classDef tech fill:#bcd4ff,stroke:#2f5597,stroke-width:1px,color:#111
+classDef pharm fill:#d8c4ff,stroke:#5a2d91,stroke-width:1px,color:#111
+classDef system fill:#d0d0d0,stroke:#555,stroke-width:1px,color:#111
+classDef terminator fill:#9fe0e0,stroke:#0a7a7a,stroke-width:1px,rx:12,ry:12,color:#111
+classDef decision fill:#ffe98a,stroke:#b58a00,stroke-width:1px,rx:4,ry:4,color:#111
 
 %% =========================
 %% SWIMLANES
@@ -253,13 +253,13 @@ flowchart TD
 %% =========================
 %% STYLE DEFINITIONS
 %% =========================
-classDef lane fill:#f7f7f7,stroke:#bbb,stroke-width:1px
-classDef external fill:#d9f7d9,stroke:#3a8f3a,stroke-width:1px
-classDef tech fill:#dbe9ff,stroke:#3a6ea5,stroke-width:1px
-classDef pharm fill:#eadcff,stroke:#7a3ea5,stroke-width:1px
-classDef system fill:#e6e6e6,stroke:#666,stroke-width:1px
-classDef terminator fill:#c2f0f0,stroke:#0aa,stroke-width:1px,rx:12,ry:12
-classDef decision fill:#fff2cc,stroke:#b59b00,stroke-width:1px,rx:4,ry:4
+classDef lane fill:#f0f0f0,stroke:#444,stroke-width:1px,color:#111
+classDef external fill:#b7e8b7,stroke:#2d6b2d,stroke-width:1px,color:#111
+classDef tech fill:#bcd4ff,stroke:#2f5597,stroke-width:1px,color:#111
+classDef pharm fill:#d8c4ff,stroke:#5a2d91,stroke-width:1px,color:#111
+classDef system fill:#d0d0d0,stroke:#555,stroke-width:1px,color:#111
+classDef terminator fill:#9fe0e0,stroke:#0a7a7a,stroke-width:1px,rx:12,ry:12,color:#111
+classDef decision fill:#ffe98a,stroke:#b58a00,stroke-width:1px,rx:4,ry:4,color:#111
 
 %% =========================
 %% SWIMLANES
