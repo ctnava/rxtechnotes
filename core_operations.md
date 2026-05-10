@@ -376,8 +376,6 @@ Link to 🔗 [**Standard Operating Procedure**](./sop/rx_fill.md)
 
 ### 🔔 Prescription Pickup & Handoff
 
-<!-- todo implement pg 201 -->
-
 Pharmacy technicians play a key role at the final stage of the dispensing process. This involves:
 
 - 📇 Verifying patient identity using at least two identifiers  
@@ -387,6 +385,67 @@ Pharmacy technicians play a key role at the final stage of the dispensing proces
 - ✅ Ensuring the prescription is handed off to the correct individual with proper tracking
 
 > 🧾 Pickup is a regulated point-of-contact and must be handled with accuracy and professionalism
+
+#### Inpatient Medication Delivery
+
+Medications are delivered to the nurses' station for administration in inpatient settings
+
+```mermaid
+flowchart TD
+
+%% =========================
+%% STYLE DEFINITIONS
+%% =========================
+linkStyle default stroke:#1a4fff,stroke-width:2px
+classDef lane fill:#d0d0d0,stroke:#444,stroke-width:1px,color:#111
+classDef external fill:#b7e8b7,stroke:#2d6b2d,stroke-width:1px,color:#111
+classDef tech fill:#bcd4ff,stroke:#2f5597,stroke-width:1px,color:#111
+classDef pharm fill:#d8c4ff,stroke:#5a2d91,stroke-width:1px,color:#111
+classDef system fill:#d0d0d0,stroke:#555,stroke-width:1px,color:#111
+classDef terminator fill:#9fe0e0,stroke:#0a7a7a,stroke-width:1px,rx:12,ry:12,color:#111
+classDef decision fill:#ffe98a,stroke:#b58a00,stroke-width:1px,rx:4,ry:4,color:#111
+
+%% =========================
+%% SWIMLANES
+%% =========================
+
+subgraph TECH["Technician"]
+    T1["Retrieve Verified Medication from Will‑Call / Delivery Bin"]:::terminator
+    T2["Confirm Patient Identity (Name + DOB)"]:::tech
+    T3["Check MAR / EHR for Active Orders"]:::tech
+    T4["Reconstitute Oral Suspensions or Liquids"]:::tech
+    T5["Bundle Ancillary Supplies (e.g. final filter)"]:::tech
+    T6["Deliver Medication to Nursing Unit"]:::tech
+    T7["Obtain Nurse Signature / Handoff Confirmation"]:::tech
+    T8["Document Delivery in System"]:::terminator
+end
+class TECH lane
+
+subgraph NURSING["Nursing Staff"]
+    N1["Receive Medication"]:::external
+    N2["Verify Order Matches MAR"]:::external
+    N3["Administer Medication to Patient"]:::external
+end
+class NURSING lane
+
+subgraph SYS["System"]
+    S1["Record Delivery Timestamp"]:::system
+    S2["Update MAR"]:::system
+end
+class SYS lane
+
+%% =========================
+%% FLOW
+%% =========================
+
+T1 --> T2 --> T3 --> T4 --> T5 --> T6 --> T7
+T7 --> N1 --> N2
+N2 --> T5 --> S1 --> T8
+N2 --> N3 --> S2
+
+```
+
+#### Standard Operating Procedure: Prescription Pickup & Handoff
 
 Link to 🔗 [**Standard Operating Procedure**](./sop/rx_pickup.md)
 
