@@ -362,7 +362,7 @@ Link to 🔗 [**Standard Operating Procedure**](./sop/rx_intake.md)
 
 ### Filling & Preparing Prescriptions
 
-<!-- todo implement pg 201 -->
+<!-- todo mermaid diagram -->
 
 After prescriptions are accurately entered and verified in the system, technicians must follow standardized protocols to ensure safe, legal, and efficient dispensing of medications.
 
@@ -386,7 +386,124 @@ Pharmacy technicians play a key role at the final stage of the dispensing proces
 
 In *outpatient/ ambulatory* settings (e.g. Community Pharmacy), medicine is dispensed directly to the patient who is expected to self-administer.
 
-<!-- todo mermaid diagram -->
+```mermaid
+graph TD
+
+linkStyle default stroke:#1a4fff,stroke-width:2px
+
+classDef lane fill:#d0d0d0,stroke:#444,stroke-width:1px,color:#111
+classDef external fill:#b7e8b7,stroke:#2d6b2d,stroke-width:1px,color:#111
+classDef tech fill:#bcd4ff,stroke:#2f5597,stroke-width:1px,color:#111
+classDef pharm fill:#d8c4ff,stroke:#7a3ea5,stroke-width:1px,color:#111
+classDef system fill:#d0d0d0,stroke:#555,stroke-width:1px,color:#111
+classDef terminator fill:#9fe0e0,stroke:#0a7a7a,stroke-width:1px,rx:12,ry:12,color:#111
+classDef bar fill:#111,stroke:#111,stroke-width:2px,color:#111
+
+subgraph PATIENT["Patient or Representative"]
+    ARRIVE["Arrives at Pickup Window"]:::external
+    PROVIDEBILLING["Provide Billing Information"]:::external
+    VERIFYSITREP["Verify All is as Expected"]:::external
+    PROVIDECLINICAL["Provide Clinical Information"]:::external
+    GIVEID["Provide ID"]:::external
+    SIGNNPP["Sign NPP & Receive Copy"]:::external
+    CONSIDERCONSULT["Consider Offer"]:::external
+    SIGNPICKUP["Sign Pickup Log"]:::external
+    GIVEPAYMENT["Provide Payment"]:::external
+    RECEIVEMEDICATION["Receive Medication & Payment Receipt"]:::terminator
+end
+class PATIENT lane
+
+subgraph TECH["Technician"]
+    LOOKUP["Greet and Look Up Patient by Last Name & Date of Birth"]:::tech
+    POSITIVEID["Verify First Name & Narrow by Address if Multiple Entries"]:::tech
+    INTAKE["Patient Intake Workflow"]:::terminator
+
+    BILLING["Ask if there were any changes to Address or Insurance"]:::tech
+    ENTERBILLING["Data Entry"]:::tech
+
+    SITREP["Inform Patient of Prescriptions (Number Ready, Copay Total, & Number Pending)"]:::tech
+    CHECKINCOMING["Check 'typing' queue for incoming prescriptions"]:::tech
+    FOUNDINCOMING["Notify Patient & Give Estimated Fill Time (Begin Rx Intake & Fill)"]:::terminator
+    PROMPTCONTACT["Prompt Patient to Contact Prescriber"]:::tech
+    END["End Interaction"]:::terminator
+    EXPLAINBILLING["Double-Check Billing Information & Explain Copays + Deductibles as Needed"]:::tech
+
+    CLINICAL["Final Clinical Screening: Updates to Allergies, OTCs, Rx Changes?"]:::tech
+    ENTERCLINICAL["Data Entry"]:::tech
+
+    RETRIEVE["Retrieve Bag from Alphabetized Shelf"]:::tech
+    CTRLS["Pickup Includes Controlled Medication?"]:::tech
+    GETID["Ask Patient for Government-Issued Identification Document"]:::tech
+    CHECKID["Verify Authenticity & Log Receiver"]:::tech
+    GETRPH["Claim Something Went Wrong & Notify RPh; Await Further Instruction"]:::terminator
+
+    SEAL["Seal Prescription Pickup Bag"]:::tech
+    GETNPP["Prompt Patient to sign Notification of Privacy Practices (if new or updated) for HIPAA Compliance"]:::tech
+    GETNPPSIG["Receive Signature"]:::tech
+
+    NEWRXCHECK["Ask Medication is New to Patient"]:::tech
+    RPHCONSULT["Provide Counsel & Verify Medication is Correct; RPh Typically Finishes Checkout"]:::terminator
+    MANDATORYCONSULT["Pharmacy Protocol Mandates Consultation?"]:::tech
+    OFFERCONSULT["Offer Pharmacist Counsel"]:::tech
+    PROMPTRPH["Notify Pharmacist"]:::tech
+
+    PROMPTSIG["Have the Patient Sign for Pickup"]:::tech
+    GETSIG["Receive Signature"]:::tech
+    PROMPTPAYMENT["Prompt Patient for Payment"]:::tech
+    PROCESSPAYMENT["Process Payment"]:::tech
+    HANDOFFMEDICATION["Bundle Medication & Payment Recipt for Handoff to Patient or Representative"]:::tech
+end
+class TECH lane
+
+subgraph SYS["System"]
+    UPDATEDBILLING["Patient Billing Information Up-to-Date"]:::system
+    UPDATEDCLINICAL["Patient Clinical Information Up-to-Date"]:::system
+    LOGID["Identity Logged"]:::system
+    LOGNPP["Signature Logged"]:::system
+    LOGSIG["Signature Logged"]:::system
+    LOGPAYMENT["Payment Logged"]:::system
+end
+class SYS lane
+
+
+ARRIVE --> LOOKUP --> POSITIVEID
+POSITIVEID --> |"Patient Not Found"| INTAKE
+POSITIVEID --> |"Identity Confirmed"| BILLING
+
+BILLING --> |"No"| UPDATEDBILLING
+BILLING --> |"Yes, Ask for Details"| PROVIDEBILLING --> ENTERBILLING --> UPDATEDBILLING
+
+UPDATEDBILLING --> SITREP --> VERIFYSITREP
+VERIFYSITREP --> |"Missing Prescriptions"| CHECKINCOMING
+CHECKINCOMING --> |"Found New Rx"| FOUNDINCOMING
+CHECKINCOMING --> |"No New Rx Found"| PROMPTCONTACT
+PROMPTCONTACT --> |"No Other Rx"| END
+PROMPTCONTACT --> |"Picking Up Other Rx"| CLINICAL
+VERIFYSITREP --> |"Unexpected Copay Amount"| EXPLAINBILLING
+VERIFYSITREP --> |"Confirmed"| CLINICAL
+
+CLINICAL --> |"No"| UPDATEDCLINICAL
+CLINICAL --> |"Yes, Ask for Details"| PROVIDECLINICAL --> ENTERCLINICAL --> UPDATEDCLINICAL
+
+UPDATEDCLINICAL --> RETRIEVE --> CTRLS
+CTRLS --> |"No"| GETNPP
+CTRLS --> |"Yes"| GETID --> GIVEID --> CHECKID
+
+CHECKID --> |"Invalid"| GETRPH
+CHECKID --> |"Valid"| LOGID --> GETNPP --> SIGNNPP --> GETNPPSIG --> LOGNPP
+GETNPPSIG --> NEWRXCHECK
+
+NEWRXCHECK --> |"Yes"| RPHCONSULT
+NEWRXCHECK --> |"No"| MANDATORYCONSULT
+
+MANDATORYCONSULT --> |"Yes"| RPHCONSULT
+MANDATORYCONSULT --> |"No"| OFFERCONSULT --> CONSIDERCONSULT
+
+CONSIDERCONSULT --> |"Accepted"| PROMPTRPH --> RPHCONSULT
+CONSIDERCONSULT --> |"Declined"| PROMPTSIG --> SIGNPICKUP --> GETSIG --> LOGSIG
+GETSIG --> PROMPTPAYMENT --> GIVEPAYMENT --> PROCESSPAYMENT --> LOGPAYMENT
+PROCESSPAYMENT --> HANDOFFMEDICATION --> RECEIVEMEDICATION 
+```
 
 #### Inpatient Medication Delivery
 
