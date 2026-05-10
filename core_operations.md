@@ -441,7 +441,7 @@ subgraph TECH["Technician"]
     GETNPP["Prompt Patient to sign Notification of Privacy Practices (if new or updated) for HIPAA Compliance"]:::tech
     GETNPPSIG["Receive Signature"]:::tech
 
-    NEWRXCHECK["Ask Medication is New to Patient"]:::tech
+    NEWRXCHECK["OBRA-90 Mandate: Ask Medication is New to Patient"]:::tech
     RPHCONSULT["Provide Counsel & Verify Medication is Correct; RPh Typically Finishes Checkout"]:::terminator
     MANDATORYCONSULT["Pharmacy Protocol Mandates Consultation?"]:::tech
     OFFERCONSULT["Offer Pharmacist Counsel"]:::tech
