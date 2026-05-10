@@ -159,8 +159,6 @@ Link to 🔗 [**Standard Operating Procedure**](./sop/pt_intake.md)
 
 ### Prescription Intake & Billing
 
-<!-- todo implement pg 201 -->
-
 **Prescriptions** are instructions from a medical practitioner that authorize the provision of a drug or device to a patient.
 
 In *outpatient/ ambulatory* settings (e.g. Community Pharmacy), medicine is dispensed directly to the patient who is expected to self-administer.
@@ -179,6 +177,65 @@ In *outpatient/ ambulatory* settings, new prescriptions may be submitted as:
 
 > 🔐 Schedule II prescriptions generally require a written or e-prescription, except in emergencies. A verbal or faxed order may be accepted temporarily, but **a written/electronic Rx must follow within 7 days**.
 
+```mermaid
+flowchart TD
+
+%% =========================
+%% STYLE DEFINITIONS
+%% =========================
+classDef lane fill:#f7f7f7,stroke:#bbb,stroke-width:1px
+classDef external fill:#d9f7d9,stroke:#3a8f3a,stroke-width:1px
+classDef tech fill:#dbe9ff,stroke:#3a6ea5,stroke-width:1px
+classDef pharm fill:#eadcff,stroke:#7a3ea5,stroke-width:1px
+classDef system fill:#e6e6e6,stroke:#666,stroke-width:1px
+classDef terminator fill:#c2f0f0,stroke:#0aa,stroke-width:1px,rx:12,ry:12
+classDef decision fill:#fff2cc,stroke:#b59b00,stroke-width:1px,rx:4,ry:4
+
+%% =========================
+%% SWIMLANES
+%% =========================
+
+subgraph EXT["External (Prescriber / Patient)"]
+    H1["Prescription Sent or Brought In"]:::external
+end
+class EXT lane
+
+subgraph TECH["Technician"]
+    T1["Enter Patient / Prescriber / Insurance Info"]:::tech
+    T2["TPR Troubleshooting Workflow"]:::tech
+    T3["Alert Pharmacist for DUR Review"]:::tech
+end
+class TECH lane
+
+subgraph SYS["System"]
+    S1["Scan for Contraindications (DUR)"]:::system
+    S2["Adjudicate Claim"]:::system
+end
+class SYS lane
+
+subgraph PHARM["Pharmacist"]
+    P1["Consult Prescriber for Alternative"]:::pharm
+end
+class PHARM lane
+
+subgraph TERM["Terminal State"]
+    Z1["Awaiting Print & Fill"]:::terminator
+end
+class TERM lane
+
+%% =========================
+%% FLOW
+%% =========================
+
+H1 --> T1 --> S1
+
+S1 -->|DUR Triggered| T3 --> P1 --> H1
+S1 -->|No DUR| S2
+
+S2 -->|Claim Accepted| Z1
+S2 -->|Claim Rejected| T2
+```
+
 #### 🏥 Inpatient Medication Orders
 
 **Medication orders** are a single, unified document intended for multiple departments at once. It is written as a historical document for tracking treatment through a patient's stay.
@@ -189,6 +246,57 @@ In *outpatient/ ambulatory* settings, new prescriptions may be submitted as:
 - Contains additional requests for labwork, physical therapy, or items stocked in the nursing station; not just **prescriptions**
 
 > Nursing staff may compare entered information to most recent medication orders to decide how to administer
+
+```mermaid
+flowchart TD
+
+%% =========================
+%% STYLE DEFINITIONS
+%% =========================
+classDef lane fill:#f7f7f7,stroke:#bbb,stroke-width:1px
+classDef external fill:#d9f7d9,stroke:#3a8f3a,stroke-width:1px
+classDef tech fill:#dbe9ff,stroke:#3a6ea5,stroke-width:1px
+classDef pharm fill:#eadcff,stroke:#7a3ea5,stroke-width:1px
+classDef system fill:#e6e6e6,stroke:#666,stroke-width:1px
+classDef terminator fill:#c2f0f0,stroke:#0aa,stroke-width:1px,rx:12,ry:12
+classDef decision fill:#fff2cc,stroke:#b59b00,stroke-width:1px,rx:4,ry:4
+
+%% =========================
+%% SWIMLANES
+%% =========================
+
+subgraph EXT["External (Prescriber)"]
+    A1["Prescription Entered (CPOE / Written)"]:::external
+end
+class EXT lane
+
+subgraph SYS["System"]
+    S1["Orders Added to Queue"]:::system
+    S2["Pharmacy Notified of New Orders"]:::system
+end
+class SYS lane
+
+subgraph PHARM["Pharmacist"]
+    P1["Review for Contraindications"]:::pharm
+    P2["Consult Prescriber for Alternative"]:::pharm
+end
+class PHARM lane
+
+subgraph TECH["Technician"]
+    T1["Enter New Prescription"]:::tech
+    T2["Awaiting Print & Fill"]:::terminator
+end
+class TECH lane
+
+%% =========================
+%% FLOW
+%% =========================
+
+A1 --> S1 --> S2 --> P1
+
+P1 -->|Approved| T1 --> T2
+P1 -->|Rejected| P2 --> A1
+```
 
 Medication orders in hospitals vary by urgency and purpose.
 
