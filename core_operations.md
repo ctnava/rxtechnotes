@@ -386,6 +386,8 @@ Pharmacy technicians play a key role at the final stage of the dispensing proces
 
 In *outpatient/ ambulatory* settings (e.g. Community Pharmacy), medicine is dispensed directly to the patient who is expected to self-administer.
 
+<!-- todo mermaid diagram -->
+
 #### Inpatient Medication Delivery
 
 In *institutional* settings (e.g. hospitals), nursing staff generally administer medications to patients.
