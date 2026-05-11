@@ -12,8 +12,6 @@
 
 ---
 
-<!-- todo: go about explaining the logic of queues - typing, check, fill, verification, will call/ delivery -->
-
 ## 1. 📋 Pre‑Fill Preparation
 
 ### 1.1 Prioritization
