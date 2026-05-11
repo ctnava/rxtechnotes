@@ -2,6 +2,8 @@
 
 Prescriptions may be transferred between pharmacies at the **request of the patient**. This process ensures continuity of care and allows patients to access their medications more conveniently. The transfer of prescriptions is regulated by **federal law** and further defined by **state law**, with specific rules depending on the drug schedule and type.
 
+Prescriptions are transferred by fax, phone, or electronically.
+
 Pharmacy technicians **may not** perform the actual transfer of the prescription. However, they **assist** by preparing the necessary information and coordinating communication.
 
 > 🩺 Both pharmacists will record each other's information during the transfer.
@@ -48,6 +50,7 @@ Pharmacy technicians **may not** perform the actual transfer of the prescription
   - Transferring and receiving pharmacy information
   - Names of both transferring and receiving pharmacists
 - The prescription must be **marked as voided** at the transferring pharmacy once the transfer is completed.
+- A copy of the original prescription is kept on file, **not deleted**
 
 ## ✅ Best Practices
 
