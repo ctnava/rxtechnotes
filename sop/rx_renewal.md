@@ -14,7 +14,7 @@ Each prescription is assigned a **prescription number**, which stays the same fo
 
 Routine refills follow the **same workflow as the original fill**, but with key differences is that the prescription has already been entered, verified, and dispensed at least once.
 
-The technician’s role is to ensure the refill is **legally eligible**, **clinically appropriate**, **accurately processed** before preparing the next fill.
+The technician’s role is to ensure the refill is **legally eligible**, **appropriate**, **accurately processed** before preparing the next fill.
 
 ### ✅ 1. Verify Refill Eligibility
 
@@ -35,7 +35,7 @@ Before processing any refill request:
 Most insurance plans follow “**75–80% consumption**” rules:
 
 - A 30‑day supply is typically eligible for refill after **21–24 days**
-- Early refills may be denied for:
+- Refills may be denied for:
   - **Too soon** requests  
   - **Expired prior authorizations**  
   - **Quantity limit restrictions**  
