@@ -157,6 +157,15 @@ Link to 🔗 [**Standard Operating Procedure**](./sop/pt_intake.md)
 
 <!-- todo implement pg 201 -->
 
+> **⚠️ Pay Attention to DUR Warnings**
+>
+> If a DUR warning appears at any time, **the pharmacist must be notified immediately**.  
+>
+> - Some pharmacies allow DURs to be reviewed during the final check  
+> - Others require **immediate** pharmacist review  
+>
+> When in doubt, escalate.
+
 ### Prescription Intake & Billing
 
 **Prescriptions** are instructions from a medical practitioner that authorize the provision of a drug or device to a patient.
