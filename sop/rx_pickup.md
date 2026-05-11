@@ -36,6 +36,20 @@ Pharmacy technicians must:
    - **Address**  
    - **Phone number**
 
+> **Is this the right person?**
+>
+> Confirm identity using **two independent identifiers**, such as:
+>
+> - Date of birth  
+> - Street address  
+> - Insurance ID number  
+>
+> Ask the patient or representative **what they are picking up**, then confirm:
+>
+> - Drug name  
+> - Strength  
+> - Days’ supply  
+
 ### 🔐 Controlled Substances
 
 - Request **valid government‑issued ID**.  
@@ -83,6 +97,8 @@ Recommended screening questions:
 
 ### 4. ✍️ Signature Collection & Counseling Offer
 
+> 📌 Signatures are required for Medicaid, most third‑party insurers, controlled substances, poisons, and other state‑specific categories.
+
 1. Obtain the patient’s signature on the **pickup log** (electronic or physical).  
    - Required for insurance reimbursement  
    - Used for audit verification  
@@ -93,13 +109,28 @@ Recommended screening questions:
    - Counseling provided  
    - Counseling refusal  
 
-> 📌 Signatures are required for Medicaid, most third‑party insurers, controlled substances, poisons, and other state‑specific categories.
+> **Should the pharmacist be called for patient counseling?**
+>
+> The pharmacist must be called to counsel for:
+>
+> - **All new prescriptions**  
+> - **Dose changes**  
+> - **Any DUR alerts**  
+> - Refills requiring counseling per pharmacy protocol  
 
 ---
 
 ## 5. 📦 Medication Handoff  
 
 Once verification, screening, and payment are complete, you may hand the medication to the patient.
+
+> **Pay Attention to DUR Warnings!**
+>
+> DUR warnings can appear during adjudication or final processing.  
+>
+> **Always notify the pharmacist** if a DUR appears at this stage.  
+>
+> Pharmacy policies vary—some allow DUR review at final check, others require immediate review.
 
 ### 📎 Ancillary Supplies
 
