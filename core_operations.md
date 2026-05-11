@@ -157,6 +157,17 @@ Link to 🔗 [**Standard Operating Procedure**](./sop/pt_intake.md)
 
 <!-- todo implement pg 201 -->
 
+### Medication Safety
+
+Medication errors include, but are not limited to, dispensing:
+
+- the wrong medication
+- the wrong strength, dosage form, or quantity
+- a prescription with the wrong directions
+- the medication to the wrong patient
+
+Visit the 🔗 [ISMP's Website for General Guidance & Tools](https://home.ecri.org/blogs/ismp-resources)
+
 > **⚠️ Pay Attention to DUR Warnings**
 >
 > If a DUR warning appears at any time, **the pharmacist must be notified immediately**.  
