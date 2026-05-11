@@ -173,8 +173,6 @@ Water shortens the product's shelf life so they must have the following dates:
 
 ### (Optional) Quality Check
 
-<!-- todo enhance -->
-
 Note: Technicians generally don't do this. It's technically the verifying pharmacist's responsibility at the consultation window.
 
 Check for required elements on prescription bundles

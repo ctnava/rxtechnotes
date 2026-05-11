@@ -127,13 +127,13 @@ The signa (the "sig") can be best described as `instructions for use` is almost 
 
 🔗 ([Sig Translation Guide](../ref/sig_translation.md))
 
+> Pharmacy software has automatic translation utilities based on patient preferences
+
 ## 📱 Step 3: Calculating Days Supply
 
 The Days Supply refers to how long a prescription will last based on the quantity dispensed and the prescribed dosing instructions. This is used by insurers to determine refill eligibility during adjudication (i.e. The next fill date).
 
 🔗 ([Days Supply Calculation Guide](../math/days_supply.md))
-
-<!-- todo: add step for patient language preferences -->
 
 ## 💻 Step 4: Claim Submission & Adjudication
 
