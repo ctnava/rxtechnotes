@@ -2,6 +2,8 @@
 
 A **partial fill** occurs when the pharmacy dispenses **less than the full prescribed quantity** of a medication. This is typically due to **insufficient inventory**. The remainder is dispensed later once stock is available or as permitted by law.
 
+Other times, the prescriber may write prescriptions for days supply outside of the standard (i.e. 30 & 90 days). Insurance typically will not pay for this. The pharmacist will have to adjust it to an appropriate amount for reimbursement, leaving the prescription partially filled.
+
 ## 📦 Non-Controlled Medications
 
 ### When to Partial Fill
