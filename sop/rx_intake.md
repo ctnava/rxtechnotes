@@ -59,6 +59,12 @@ Always refer unclear or incomplete orders to the pharmacist
   - 🐻 CA: “Do Not Substitute” must be handwritten (BPC §4073)
   - 🔗 [Additional Codes](../ref/product_selection.md)
 
+> **🚫 Do NOT Add Information**
+>
+> Never add or infer information based on what you *think* the prescriber meant.  
+>
+> If anything is unclear, incomplete, or contradictory, **pause and alert the pharmacist**.
+
 #### **Prescriber Signature**
 
 - **Paper**: Manual (wet ink)
