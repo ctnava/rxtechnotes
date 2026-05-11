@@ -12,6 +12,8 @@ Pharmacy Calculations, 6e; Morton Publishing | Chapter 12 & 13
 
 The **Days Supply** refers to how long a prescription will last based on the quantity dispensed and the prescribed dosing instructions. It is a technical quantity based entirely on math; not a guess, and not just the number of pills dispensed.
 
+Calculations are relatively straightforward, except for when the stability of the medication (e.g. refrigerated or reconstituted products) becomes a factor and topical medications. Technicians should refer to pharmacy protocols for exceptions to these formulas.
+
 ### Billing Quantity
 
 **Billing Quantity** is the amount of drug product reported to insurance for payment and inventory tracking. It is not always the same as the number of doses, units taken, or total uses. Instead, it reflects the **form in which the drug is dispensed** (e.g., tablets, milliliters, grams, vials, puffs).
