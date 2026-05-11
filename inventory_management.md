@@ -107,6 +107,7 @@ Pharmacy technicians help ensure the pharmacy is well-stocked without over-order
 ## 💰 Provisioning
 
 <!-- Todo: 🔗 Ordering SOP Document Link -->
+<!-- todo: note about seasonal inventory (tamiflu during flu season) -->
 
 Pharmacies provision stock from state-licensed:
 
@@ -149,6 +150,8 @@ Wholesalers create regional and national distribution networks, storing bulk pur
 When receiving a shipment, **verify contents immediately and accurately** against the **Purchase Order (PO)** and invoice to ensure the correct items, quantities, and prices have been delivered.
 
 <!-- Todo: 🔗 Shipment Receiving SOP Document Link -->
+
+<!-- todo: add a small note about people pulling from the order for stuff that is "Fill on Arrival" -->
 
 Pharmacy technicians must:
 
