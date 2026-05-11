@@ -35,6 +35,8 @@ Patient situations evolve rapidly in these environments. Before proceeding, chec
 
 ### 1.2 Prescription Inspection
 
+> 🩺 Pharmacist intake may be skipped **only** when delay would harm the patient (e.g., emergency STAT orders).
+
 - Confirm the prescription is:
   - Entered correctly in the dispensing system  
   - Legible, complete, and legally valid  
@@ -42,7 +44,26 @@ Patient situations evolve rapidly in these environments. Before proceeding, chec
     - 📌 **DUR Warnings** are an alert notifying the pharmacist of a potential drug safety (**interactions or allergies**) or billing concern
     - Notify the pharmacist immediately and do not skip
 
-> 🩺 Pharmacist intake may be skipped **only** when delay would harm the patient (e.g., emergency STAT orders).
+> **Is the Prescription for a High-Alert Medication?**
+>
+> High‑alert medications can cause **significant patient harm** if an error occurs.  
+> Always verify whether the prescription involves one of these drugs and follow all required precautions.
+>
+> 🔗 Link to [ISMP List of High-Alert Medications in Acute Care Settings](https://home.ecri.org/blogs/ismp-resources/high-alert-medications-in-acute-care-settings)
+
+Technicians are the first line of defense when it comes to medication safety.
+
+> **Are the Instructions Clear and Logical?**
+>
+> Alert the pharmacist if the prescription contains:
+>
+> - **Atypical** directions, quantities, or strengths  
+> - **Incorrect** or impossible routes of administration  
+> - **Unclear** or confusing instructions, including:
+>   - Naked decimals (e.g., `.4` instead of `0.4`)
+>   - Trailing zeros (e.g., `5.0` instead of `5`)
+>
+> 🔗 Link to [ISMP List of Error-Prone Abbreviations](https://home.ecri.org/blogs/ismp-resources/list-of-error-prone-abbreviations)
 
 ### 1.3 The Printing Process
 
@@ -100,6 +121,8 @@ Patient situations evolve rapidly in these environments. Before proceeding, chec
 
 ### 2.2 Product Retrieval
 
+> 📌 **Tall Man Lettering** is the use of uppercase letters to distinguish unique parts of a drug's name to help avoid errors due to look-alike names (e.g., hydr**OXY**zine vs. hydr**ALA**zine)
+
 - Match the medication using the **11‑Digit NDC** in the system  
   - 🔗 [Further Explanation of NDC system](../law/packaging_labeling.md#drug-listing-act-1972)
   - 📌 Double‑check NDC, strength, and dosage form. Errors here cascade forward.
@@ -109,7 +132,17 @@ Patient situations evolve rapidly in these environments. Before proceeding, chec
   3. **Unopened** bottles closest to expiration  
 - Mark newly opened bottles (“OPENED” sticker or marker slash)
 
-> 📌 **Tall Man Lettering** is the use of uppercase letters to distinguish unique parts of a drug's name to help avoid errors due to look-alike names (e.g., hydr**OXY**zine vs. hydr**ALA**zine)
+> **Are you selecting the correct drug to fill this medication?**
+>
+> Be especially cautious with medications that have:
+>
+> - Look‑Alike / Sound‑Alike names (use **Tall Man lettering**)  
+> - Confusing or misleading brand/generic names  
+> - Multiple dosage forms  
+> - Modified‑release formulations (ER, XR, DR, CR, LA, etc.)
+>
+> 🔗 Link to [ISMP List of Confused Drug Names](https://home.ecri.org/blogs/ismp-resources/list-of-confused-drug-names)
+> 🔗 Link to [FDA & ISMP List of Look-Alike Drug Names with Recommended Tall Man (Mixed Case) Letters](https://home.ecri.org/blogs/ismp-resources/look-alike-drug-names-with-recommended-tall-man-mixed-case-letters)
 
 ---
 
@@ -141,6 +174,17 @@ Most bulk medications must be counted or measured and **repackaged** from stock 
   - ✋ Manual counting
     - Pour medication onto a **clean counting tray**
     - Use **count-by-5** unless the quantity is small or requires verification
+
+> **Is the Prescription for a Dangerous Medication?**
+>
+> Pharmacies typically maintain separate counting equipment for:
+>
+> - Standard medications  
+> - **Hazardous drugs** (must be sanitized between uses)  
+> - **Penicillin‑containing** medications  
+> - **Sulfa‑containing** medications  
+>
+> 🔗 Link to [NIOSH List of Hazardous Drugs in Healthcare Settings](https://www.cdc.gov/niosh/docs/2025-103/default.html)
 
 🔢 **Measuring Liquid Dosage Forms**:
 
