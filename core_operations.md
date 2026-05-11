@@ -362,7 +362,89 @@ Link to 🔗 [**Standard Operating Procedure**](./sop/rx_intake.md)
 
 ### Filling & Preparing Prescriptions
 
-<!-- todo mermaid diagram -->
+```mermaid
+flowchart TD
+linkStyle default stroke:#1a4fff,stroke-width:2px
+
+classDef lane fill:#d0d0d0,stroke:#444,stroke-width:1px,color:#111
+classDef external fill:#b7e8b7,stroke:#2d6b2d,stroke-width:1px,color:#111
+classDef tech fill:#bcd4ff,stroke:#2f5597,stroke-width:1px,color:#111
+classDef pharm fill:#d8c4ff,stroke:#5a2d91,stroke-width:1px,color:#111
+classDef system fill:#d0d0d0,stroke:#555,stroke-width:1px,color:#111
+classDef terminator fill:#9fe0e0,stroke:#0a7a7a,stroke-width:1px,rx:12,ry:12,color:#111
+classDef decision fill:#ffe98a,stroke:#b58a00,stroke-width:1px,rx:4,ry:4,color:#111
+
+%% ============================
+%% SWIMLANES
+%% ============================
+subgraph SYS["Pharmacy Computer System"]
+  SYS_start(["Prescription Enters RPh Check Queue"]):::system
+  SYS_PrintMats["Register Rx as Printed & Generate Labels + Educational Materials"]:::system
+  SYS_reprocess["Claim Readjudicated with New NDC<br/> Rx goes back to RPh Check"]:::system
+  SYS_ndcCheck{"Does Scanned NDC<br/>Match System Selection?"}:::decision
+end
+
+subgraph TECH["Technician"]
+  TECH_initiateFill["Fill Initiated (NDC Selected & Claim Adjudicated)"]:::terminator
+  TECH_selectPt["Sort Fill Queue by Last Name & Select Patient"]:::tech
+  TECH_checkTyping["Check Typing & RPh Check Queues<br/>for Any Pending Patient Prescriptions"]:::tech
+  TECH_wait["Select Different Patient"]:::terminator
+  TECH_selectAll["Select ALL Prescriptions<br/>for Same Patient"]:::tech
+  TECH_print["Print Labels, MedGuides, PPIs,<br/>Auxiliary Labels"]:::tech
+  TECH_inspect["Inspect Label for Print Quality, Completeness, & Errors"]:::tech
+  TECH_bundle["Bundle Printed Materials<br/>into Color‑Coded Bin"]:::tech
+  TECH_retrieve["Retrieve Product by 11‑Digit NDC & Bundle into Bin<br/>Follow Inventory Priority:<br/>RTS → Opened → Unopened (shortest exp)"]:::tech
+
+  TECH_scan["Scan Prescription Pamphlet<br/>and Stock Bottle Barcode"]:::tech
+  TECH_fixNDC{"Is the Correct Stock Bottle Available?"}:::decision
+  TECH_checkStock{"Is There an Alternative Stock Bottle Available?"}:::decision
+  TECH_changeNDC["Pause Fill for Patient, Consult with Pharmacist on Reselecting NDC, & File Request for NDC Change"]:::tech
+  TECH_notified["Technician Notified"]:::tech
+  TECH_notifyPt["Notify Patient & Pharmacist of Delay<br/>Place Order for More Inventory"]:::terminator
+
+  TECH_portion["Count / Measure Medication<br/>Tray / Scale / Automation"]:::tech
+  TECH_package["Package into Vial/Bottle<br/>Apply Label + Aux Labels<br/>Use Child‑Resistant Cap Unless Exempt"]:::tech
+
+  TECH_toVerify["Place Prepared Product, Stock Bottle (Depends On Pharmacy Policy), & Pamphlet<br/>in Verification Queue"]:::tech
+  TECH_fixIssue["Correct Issues Identified by Pharmacist<br/>Then Re‑queue for Verification"]:::tech
+
+  TECH_bag["Bag Completed, Verified Prescription<br/>Label Bag with Patient Info"]:::tech
+  TECH_file(["Prescription Filed in Alphabetized Will‑Call Bins"]):::terminator
+end
+
+subgraph RPH["Pharmacist"]
+  RPH_check["Review Prescription & Product Selection"]:::pharm
+  RPH_verify["Verify Product & Profile:<br/>Clinical Flags, NDC, Qty,<br/>Packaging, Directions"]:::pharm
+  RPH_issue{"Any Issues Found?"}:::decision
+end
+
+subgraph RPH2["Pharmacist"]
+  RPH_reviewChange["Reviews NDC Change Request in RPh Check Queue"]:::pharm
+end
+
+%% ============================
+%% SYSTEM DECISION (NDC MATCH)
+%% ============================
+
+%% ============================
+%% FLOWS ACROSS LANES
+%% ============================
+TECH_initiateFill --> SYS_start --> RPH_check --> TECH_selectPt --> TECH_checkTyping -- "Pending Rx" --> TECH_wait --> TECH_selectPt
+TECH_checkTyping --"None Pending"--> TECH_selectAll --> TECH_print
+TECH_print --> SYS_PrintMats --> TECH_inspect
+TECH_print --> TECH_inspect --> TECH_bundle --> TECH_retrieve --> TECH_scan --> SYS_ndcCheck
+
+SYS_ndcCheck -- "No" --> TECH_fixNDC
+TECH_fixNDC -- "Yes"  --> TECH_retrieve
+TECH_fixNDC -- "No" --> TECH_checkStock
+TECH_checkStock -- "No" --> TECH_notifyPt
+TECH_checkStock -- "Yes" --> TECH_changeNDC --> TECH_print
+TECH_changeNDC --> SYS_reprocess --> RPH_reviewChange --> TECH_notified --> TECH_print
+SYS_ndcCheck -- "Yes" --> TECH_portion --> TECH_package --> TECH_toVerify --> RPH_verify --> RPH_issue
+
+RPH_issue -- "Yes" --> TECH_fixIssue --> TECH_toVerify
+RPH_issue -- "No" --> TECH_bag --> TECH_file
+```
 
 After prescriptions are accurately entered and verified in the system, technicians must follow standardized protocols to ensure safe, legal, and efficient dispensing of medications.
 
