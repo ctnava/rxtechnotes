@@ -155,7 +155,128 @@ Link to 🔗 [**Standard Operating Procedure**](./sop/pt_intake.md)
 
 ## Prescription Processing
 
-<!-- todo implement pg 201 -->
+### Processing Steps & Queues
+
+Most community and outpatient pharmacies organize their workload into distinct operational queues. Each queue represents a safety checkpoint and a handoff between roles, ensuring prescriptions move efficiently while maintaining regulatory and clinical accuracy.
+
+```mermaid
+flowchart TD;
+  %% ---------------------------
+  %% STYLES
+  %% ---------------------------
+  classDef tech fill:#d0e7ff,stroke:#1b4f72,color:#000
+  classDef rph fill:#fdebd0,stroke:#7e5109,color:#000
+  classDef sys fill:#e8e8e8,stroke:#555,color:#000
+  classDef queue fill:#ffffff,stroke:#000,color:#000,stroke-width:2px
+
+  %% ---------------------------
+  %% QUEUE HEADERS
+  %% ---------------------------
+  subgraph Q1[Typing / Data Entry Queue]
+    direction TB
+    A1[Incoming Prescription Received]:::tech
+    A2[Technician Enters Rx Data]:::tech
+    A3[Selects NDC & Attempts Adjudication]:::tech
+    A4{Claim Approved?}:::sys
+  end
+
+  subgraph Q2[RPh Check]
+    direction TB
+    B1[Pharmacist Reviews Data Entry]:::rph
+    B2[Appropriate Rx? Correct NDC?]:::rph
+  end
+
+  subgraph Q3[Fill Queue]
+    direction TB
+    C1[Tech Prints Labels & Pulls Stock]:::tech
+    C2{NDC In Stock?}:::sys
+    C3[Re-Adjudicate Claim]:::tech
+    C4[Tech Packages Medication]:::tech
+  end
+
+  subgraph Q4[Verification Queue]
+    direction TB
+    D1[Pharmacist Verifies Fill]:::rph
+    D2[Checks Labels, NDC, Qty, Aux Labels]:::rph
+  end
+
+  subgraph Q5[Will-Call / Outgoing]
+    direction TB
+    E1[Tech Bags & Stores Rx]:::tech
+    E2[Patient Pickup]:::tech
+    E3[Pharmacist Counseling if Needed]:::rph
+  end
+
+  %% ---------------------------
+  %% FLOW CONNECTIONS
+  %% ---------------------------
+  A1 --> A2 --> A3 --> A4
+  A4 -- Yes --> B1
+  A4 -- No: Fix Rejection --> A2
+
+  B1 --> B2
+  B2 -->|Approved| C1
+  B2 -->|Issue Found| A2
+
+  C1 --> C2
+  C2 -- Yes --> C4
+  C2 -- No --> C3 --> B1
+
+  C4 --> D1 --> D2 --> E1 --> E2 --> E3
+```
+
+#### 1. Typing / Data Entry Queue
+
+Incoming prescriptions—electronic, written, or transferred—must be entered into the pharmacy management system.
+
+- A technician enters patient, prescriber, and medication details with high accuracy.
+- An **NDC** is selected based on inventory and contract requirements.
+- The technician attempts **real‑time adjudication** with the patient’s insurance.
+  - Successful adjudication indicates the **fill is initiated**.
+  - Rejections may require troubleshooting (e.g., PA required, refill too soon, plan limitations).
+
+#### 2. Pharmacist Data‑Entry Check (RPh Check)
+
+Before a prescription can be filled, a pharmacist verifies the technician’s work.
+
+- Confirms the prescription is **clinically appropriate** and legally valid.
+- Ensures the **NDC** selected matches the prescribed product and is safe for the patient.
+- Reviews DUR alerts, interactions, allergies, and dosing appropriateness.
+
+#### 3. Fill Queue
+
+Prescriptions that have passed pharmacist check move into the fill queue.
+
+- A technician selects a batch of approved prescriptions to fill.
+- The technician prints labels and gathers stock bottles.
+  - Some pharmacies allow **staging**, where one technician prints and pulls bottles for others.
+  - If the selected NDC is out of stock, the claim may need to be **re‑adjudicated**, requiring another pharmacist check. Depending on workflow, the technician may:
+    - Bring the stock bottle and label to the pharmacist before submitting an NDC change, or
+    - Submit the change and allow the pharmacist to review it in the system.
+- The technician counts, pours, or packages the correct quantity.
+  - Newer technicians must include the stock bottle with the filled medication for verification.
+  - Experienced technicians may only need to provide the filled container.
+
+#### 4. Verification Queue (Final Check)
+
+A pharmacist performs the final verification before the medication can be dispensed.
+
+- Confirms the medication, NDC, quantity, and labeling are correct.
+- Ensures auxiliary labels, Medication Guides, and patient education materials are included.
+- Verifies that any clinical issues identified earlier have been resolved.
+
+#### 5. Will‑Call / Outgoing
+
+Once verified, prescriptions are placed in the will‑call system for patient pickup.
+
+- A technician retrieves the correct bag using barcode scanning or manual lookup.
+- The technician completes the transaction, including:
+  - Collecting payment
+  - Reviewing basic information (e.g., storage, pickup reminders)
+- A pharmacist may need to counsel the patient, especially for:
+  - New prescriptions
+  - High‑risk medications
+  - Patient questions or concerns
 
 ### Medication Safety
 
