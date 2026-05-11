@@ -123,7 +123,7 @@ The signa (the "sig") can be best described as `instructions for use` is almost 
 
 ## 📱 Step 3: Calculating Days Supply
 
-The Days Supply refers to how long a prescription will last based on the quantity dispensed and the prescribed dosing instructions. This is used by insurers to determine refill eligibility during adjudication.
+The Days Supply refers to how long a prescription will last based on the quantity dispensed and the prescribed dosing instructions. This is used by insurers to determine refill eligibility during adjudication (i.e. The next fill date).
 
 🔗 ([Days Supply Calculation Guide](../math/days_supply.md))
 
