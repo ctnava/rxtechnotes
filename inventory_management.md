@@ -220,6 +220,8 @@ Pharmacies generate daily medication orders using several methods, depending on 
 
 Technicians select the product, enter the required quantity, and add each item to the **daily order queue**. At the end of the day, the order is transmitted to the supplier.
 
+> Good Ordering Practices separate personnel for ordering & receiving
+
 #### 📦 Purchase Orders & Confirmations
 
 Once submitted, the system creates a **purchase order (PO) number**, which:
@@ -275,6 +277,8 @@ Wholesalers maintain **regional and national distribution systems**, allowing th
 - Support emergency, overnight, and temperature‑controlled shipments  
 
 Their scale and infrastructure reduce costs for pharmacies and ensure consistent access to medications across the country.
+
+> wholesalers account for >75% of manufacturer sales
 
 #### 🦅 340B Program Impact
 
