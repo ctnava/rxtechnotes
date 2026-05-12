@@ -75,6 +75,15 @@ This is employed as a cost‑control tool, often prioritizing generics. When gen
 
 ### 🗃️ Inventory Systems
 
+Modern pharmacy inventory systems **automatically generate and maintain records** for every transaction, creating a continuous, auditable trail of stock movement and financial activity.
+
+- **Update stock levels** in real time as items are received, dispensed, or adjusted  
+- **Track turnover rates** to identify fast‑ and slow‑moving items  
+- **Generate purchase orders** automatically based on predefined reorder points  
+- **Forecast future needs** using historical data, seasonality, and usage trends  
+
+> Even with automation, many transactions still require **manual entry**, which introduces the possibility of human error.
+
 - **Perpetual Inventory System**
   - Maintains a **real-time record** of inventory by updating whenever medications are received or dispensed when automated systems are properly integrated
     - always reflects the current on‑hand quantity and supports accurate ordering
@@ -142,6 +151,19 @@ Technicians may have to obtain product from outside their usual distributors and
 **Emergency Drug Procurement:** technicians may call other local hospitals to borrow a short-term supply or be asked to order an emergency shipment from wholesalers or manufacturers during shortage
 
 ## 📅 Inventory Counting & Audits
+
+Each system can produce detailed reports covering nearly every aspect of inventory management, including:
+
+- On‑hand stock levels  
+- Turnover and usage trends  
+- Reorder alerts and pending purchase orders  
+- Expiration tracking  
+- Controlled substance logs  
+- Financial summaries related to purchasing and returns  
+
+These reports support compliance, budgeting, and operational decision‑making.
+
+> **Critical documents—especially purchase orders—should be printed and filed regularly** as hard‑copy backups to protect against data loss or system failures.
 
 <!-- Todo: 🔗 Inventory Counting & Discrepancy Reporting SOP Document Link -->
 
