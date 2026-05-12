@@ -303,21 +303,84 @@ There are 3 main types of supplier: drug manufacturers, specialty pharmacies, an
 
 ## 🖐 Receiving
 
-When receiving a shipment, **verify contents immediately and accurately** against the **Purchase Order (PO)** and invoice to ensure the correct items, quantities, and prices have been delivered.
+Most medications arrive from suppliers in **bulk stock bottles**, each with a **barcode** to support accurate scanning, tracking, and inventory control.
 
-<!-- Todo: 🔗 Shipment Receiving SOP Document Link -->
+Purchase orders may be delivered in **single or multiple shipments**, and each shipment typically includes:
+
+- An **invoice** (billing and pricing details)  
+- A **manifest** (itemized list of shipped products)
+
+Because receiving errors can lead to patient harm, financial loss, or compliance issues, **accuracy is essential** when checking medications received from suppliers.
 
 <!-- todo: add a small note about people pulling from the order for stuff that is "Fill on Arrival" -->
 
-Pharmacy technicians must:
+### 🧪 Technician Responsibilities During Receiving
 
-- ✅ **Check product name, strength, dosage form, and quantity** for each item.
-- ✅ **Compare prices** listed on the invoice with those agreed upon in the PO.
-- ✅ **Inspect for damage**, contamination, expiration, or tampering. Return unacceptable stock to the supplier or wholesaler.
-- ✅ **Report and log all discrepancies** (e.g., wrong drug, short shipment, overages) **immediately** per facility SOP.
-- ✅ **Sign and date invoices** upon receipt to confirm delivery.
-- ✅ **Enter received stock into the inventory system**, including lot numbers and expiration dates if required.
-- ✅ **Store medications according to manufacturer specifications**, including immediate refrigeration or freezing when required.
+When receiving a shipment, **verify contents immediately and accurately** against the **Purchase Order (PO)** and invoice to ensure the correct items, quantities, and prices have been delivered.
+
+#### ✅ **Reconcile the Order**
+
+Verify each item against the purchase order and manifest:
+
+- Product **name**
+- **Strength**
+- **Dosage form**
+- **Quantity**
+
+#### ✅ **Verify Pricing**
+
+Compare invoice prices with:
+
+- Contract pricing  
+- Purchase order pricing  
+- Any applicable discounts or 340B rates  
+
+#### ✅ **Inspect All Products**
+
+Check for:
+
+- Physical **damage**  
+- **Contamination** or compromised packaging  
+- **Expiration dates**  
+- **Tampering** or broken seals  
+
+> Unacceptable stock must be **isolated immediately** and returned to the supplier per facility policy.
+
+#### ✅ **Document Discrepancies**
+
+Log and report issues such as:
+
+- Wrong medication  
+- Short shipments  
+- Overages  
+- Incorrect pricing  
+- Missing documentation  
+
+Follow facility SOPs for escalation and correction.
+
+#### ✍️ **Sign & Date Invoices**
+
+This confirms:
+
+- Delivery was received  
+- Items were inspected  
+- Quantities match the manifest  
+
+#### 📥 **Enter Stock Into the Inventory System**
+
+Include:
+
+- Lot numbers  
+- Expiration dates  
+- Any required compliance fields (e.g., controlled substances)
+
+#### 🧊 **Store Medications Properly**
+
+Follow manufacturer and USP guidelines:
+
+- Refrigerated or frozen items should be **prioritized immediately**  
+- Protect light‑sensitive or hazardous medications  
+- Rotate stock using **FEFO** (First Expire, First Out)
 
 ### 🔐 Receiving C-II Subtances
 
