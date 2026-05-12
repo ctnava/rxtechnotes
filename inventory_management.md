@@ -2,17 +2,9 @@
 
 Pharmacy inventory management ensures medications and supplies are available **in the right quantities, at the right time, and in suitable conditions** to support safe, efficient patient care. Proper systems reduce waste, lower costs, prevent shortages or overstocking, and ensure **regulatory compliance** through accurate tracking and documentation.
 
-> ✅ Applies to all pharmacy personnel involved in procurement, storage, handling, and recordkeeping.
-
-Pharmacy inventory includes:
-
-- Prescription medications
-- 💸 Over-the-counter (OTC) products
-- 🔐 Controlled substances
-- General pharmacy supplies (e.g., vials, labels, PPE)
-- 📌 Durable and nondurable medical equipment dispensed with prescriptions
-
 ## 👤 Personnel Involved
+
+Purchasing is a common **specialization track** for pharmacy technicians.
 
 - **Pharmacist-in-Charge (PIC)**:
   - Oversees inventory policies and procedures
@@ -32,34 +24,60 @@ Pharmacy inventory includes:
 > 🔐 Controlled substances require additional documentation, restricted access, and secure storage per DEA and state board regulations.  
 > See: 🔗 [CSA/CMEA Broad Overview](./law/csa_cmea.md)
 
-## 🔑 Inventory Concepts
+## 🔑 Core Concepts
 
-- **Turnover Rate**  
-  - How long inventory sits on the shelf before being used or sold  
-  - 📌 **High turnover** = efficient inventory; **Low turnover** = potential waste or poor selection
-- **PAR Levels (Periodic Automatic Replenishment)**  
-  - Minimum stock thresholds that trigger reorder  
-  - Prevents stockouts and overstocking
+An **inventory** is the complete listing of goods or materials a pharmacy keeps on hand for normal
 
-Pharmacy technicians help ensure the pharmacy is well-stocked without over-ordering.
+Pharmacy inventory includes:
 
-- Be familiar with **high-demand medications** (e.g., common antihypertensives) and ensure adequate inventory
-- **Low-demand items** do not require large quantities and may be special ordered when needed
-- Many pharmacies use **automated inventory systems**, but technicians may manually place orders for out-of-stock or special items
-- Communicate **shortages or backorders** to the pharmacist or supervisor
-  - [FDA Database of Drug Shortages](https://www.fda.gov/drugs/drug-safety-and-availability/drug-shortages)
+- Prescription medications
+- 💸 Over-the-counter (OTC) products
+- 🔐 Controlled substances
+- General pharmacy supplies (e.g., vials, labels, PPE)
+- 📌 Durable and nondurable medical equipment dispensed with prescriptions
 
-> - 🛡️ Always report shortages to PIC or coordinator
-> - 🔄 Restocking should be proactive—anticipate needs based on trends and upcoming holidays or flu season.
+### 📦 Stocked Items
+
+`Community Pharmacies react to demand, Institutional Pharmacies anticipate it`
+
+A **formulary** is the list of medications approved for use within a pharmacy, health system, or insurance plan.
+
+- An **open formulary** includes all medications legally approved for use in the country; any medication may be purchased and reimbursed with a valid prescription.
+- A **closed formulary** limits the list of approved medications.
+
+#### Community Pharmacy Stock
+
+Community pharmacies have an **open formulary** to accomodate most insurance plans, meaning that inventory is shaped by incoming prescriptions.
+
+There are two main designation of prescription medications:
+
+- **"Fast Movers" or high-demand medications** (e.g., common antihypertensives)
+  - 80% of incoming prescriptions; 20% of the stock
+  - Usually has a special, designated shelf
+  - Fast procurement; Keep 1-2 weeks' worth on hand
+- **Low-demand or specialty items** do not require large quantities and may be special ordered when needed to avoid waste
+  - 20% of the incoming prescriptions; 80% of the stock
+  - Unpredictable procurement; Carry up to a month's worth at a time
+
+#### Institutional Pharmacy Stock
+
+Institutional pharmacies have their daily inventory decided by a **closed formulary**.
+
+These closed formularies are determined by committee; being **routinely reviewed** to evaluate new products, safety updates, and therapeutic alternatives.
+
+When the use of a non-formulary medication is justified, a special order is placed for provisioning.
+
+This is employed as a cost‑control tool, often prioritizing generics. When generics are expensive due to manufacturing cost, **therapeutic equivalents** (chemically different but clinically similar) may be substituted.
 
 ### 🗃️ Inventory Systems
 
 - **Perpetual Inventory System**
   - Maintains a **real-time record** of inventory by updating whenever medications are received or dispensed when automated systems are properly integrated
+    - always reflects the current on‑hand quantity and supports accurate ordering
     - Enables accurate audits at any point
   - 🔐 Required for **controlled substances (Schedules II–V)**; logging of usage and receipts
   - Generates automatic reorders based on **PAR levels**.
-    - Manual orders may be entered.
+    - technicians may manually place orders for out-of-stock or special items
 
 - **Point of Sale (POS) System**
   - Deducts items from inventory **at the time of sale or dispensing**.
@@ -69,6 +87,48 @@ Pharmacy technicians help ensure the pharmacy is well-stocked without over-order
   - Use **computerized cabinets or robotics** to manage inventory in institutional settings.
   - Improves accuracy, reduces diversion, and speeds up the dispensing process.
   - Often integrated with pharmacy inventory management software.
+
+### Ordering & Provisioning
+
+`Pharmacy technicians help ensure the pharmacy is well-stocked without over-ordering.`
+
+- **PAR Levels (Periodic Automatic Replenishment) or Reorder Points**  
+  - Minimum and maximum stock levels for each drug that trigger reorder
+  - Prevents stockouts and overstocking
+- **Payment Terms**
+  - due date for supplier payment
+  - The pharmacy sells the stock and collects revenue **before** paying the supplier, lowering the *effective* cost of holding inventory.
+- **Turnover Rate**  
+  - number of days inventory sits on the shelf before being completely used or sold  
+  - 📌 **High turnover** = efficient inventory; **Low turnover** = potential waste or poor selection
+  - Excess stock occupies shelf space, increases maintenance costs (e.g., refrigeration), and increases risk of spoilage or expiration.
+
+> 🔄 Restocking should be proactive. Anticipate needs based on trends and upcoming holidays or flu season.
+
+#### Market Availability
+
+`Always communicate **shortages or backorders** to the PIC or coordinator`
+
+Monitoring the **market availability** of medications is essential. Drug shortages may be caused by:
+
+- Manufacturing or quality‑control issues  
+- Raw material shortages  
+- Product recalls  
+- Shortages of therapeutic equivalents
+
+> [FDA Drug Shortages Database](https://www.fda.gov/drugs/drug-safety-and-availability/drug-shortages)
+> [FDA List of Extended Use Dates to Assist with Drug Shortages](https://www.fda.gov/drugs/drug-shortages/search-list-extended-use-dates-assist-drug-shortages)
+
+### Inpatient Provisioning Practices
+
+Technicians may have to obtain product from outside their usual distributors and purchase from:
+
+- a secondary distributor
+- directly from manufacturer
+- or a group purchasing organization
+- **otherwise,** the pharmacist may seek non-formulary alternatives that will be unrestricted until the formulary product is available
+
+**Emergency Drug Procurement:** technicians may call other local hospitals to borrow a short-term supply or be asked to order an emergency shipment from wholesalers or manufacturers during shortage
 
 ## 📅 Inventory Counting & Audits
 
@@ -135,15 +195,6 @@ There are 3 main types of supplier: drug manufacturers, specialty pharmacies, an
 ### 🚚 Wholesalers
 
 Wholesalers create regional and national distribution networks, storing bulk purchases in strategically placed warehouses to enable 24–48 hour delivery. They also drop ship lower-volume, high-cost medications on an as-needed basis.
-
-### Inpatient Provisioning Practices
-
-- **Shortages:** Technicians may have to obtain product from outside their usual distributors and purchase from:
-  - a secondary distributor
-  - directly from manufacturer
-  - or a group purchasing organization
-  - **otherwise,** the pharmacist may seek non-formulary alternatives that will be unrestricted until the formulary product is available
-- **Emergency Drug Procurement:** technicians may call other local hospitals to borrow a short-term supply or be asked to order an emergency shipment from wholesalers or manufacturers during shortage
 
 ## 🖐 Receiving
 
