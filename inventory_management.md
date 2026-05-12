@@ -88,9 +88,14 @@ This is employed as a cost‑control tool, often prioritizing generics. When gen
   - Helps in real-time tracking of stock levels through integration with pharmacy inventory management software.
 
 - **Automated Dispensing Systems (ADS)**
-  - Use **computerized cabinets or robotics** to manage inventory in institutional settings.
-  - Improves accuracy, reduces diversion, and speeds up the dispensing process.
-  - Often integrated with pharmacy inventory management software.
+  - Improves accuracy, reduces diversion, and speeds up the dispensing process
+  - Often integrated with pharmacy inventory management software to update counts
+  - **Retail & Institutional Settings**
+    - automated counting systems like the Parata Max automatically portion & bottle fast movers
+  - **Institutional Settings**
+    - Automated Dispensing Cabinets (ADC) that act like an supply stations for pre-stocked medications & supplies
+    - Centralized Robotic Unit Dose Dispensing Devices, like ROBOT-Rx, package and dispense unit doses from bulk containers
+    - Carousels, like the Talyst AutoCarousel, act as a storage locker for storing bulk or unit dose medications
 
 > Important reports (especially purchase orders) should be regularly printed and filed as hard copies to serve as a backup
 
