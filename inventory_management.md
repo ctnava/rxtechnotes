@@ -145,6 +145,7 @@ Technicians may have to obtain product from outside their usual distributors and
 
 - a secondary distributor
 - directly from manufacturer
+- compounding pharmacies
 - or a group purchasing organization
 - **otherwise,** the pharmacist may seek non-formulary alternatives that will be unrestricted until the formulary product is available
 
@@ -213,19 +214,19 @@ Pharmacies provision stock (usually electronic) from state-licensed:
 - 🦅x🔐 FDA and DEA registration is also required for controlled substances.
 - 🦅 See the 🔗 [PDMA](./law/fda_fdca.md#prescription-drug-marketing-act-pdma-1987) for regulations on manufacturer & wholesaler activities.
 
+### 🚚 Wholesalers
+
+Wholesalers create regional and national distribution networks, storing bulk purchases in strategically placed warehouses to enable 24–48 hour delivery. They also drop ship lower-volume, high-cost medications on an as-needed basis.
+
+> 🦅 [340B](./law/healthcare.md#-public-health-service-act-phsa-1944-340b-in-1992) limits the cost safety-net providers, like medicaid, federally qualified health centers, and qualified hospitals paid for outpatient drugs through wholesalers.
+
 ### 🏭 Suppliers
 
 There are 3 main types of supplier: drug manufacturers, specialty pharmacies, and compounding pharmacies. All of them order raw materials or finished goods (like (in)active ingredients) to produce their goods. However, each one exists for a different scale of care.
 
-- **Drug Manufacturers** package medication in standard dosage forms for mass distribution
-- **Specialty Pharmacies** focus on providing high-cost, complex medications and specialized services to patients with chronic conditions
+- **Drug Manufacturers** package medication in standard dosage forms for mass distribution; for purchasing drugs not available through wholesalers due to the expense of storage
+- **Specialty Pharmacies** focus on providing high-cost, complex medications and specialized services to patients with chronic conditions (exclusive access)
 - **Compounding Pharmacies** customize medications on a patient-specific basis, often mixing, combining, or altering existing drugs to meet individual needs
-
-> 🦅 [340B](./law/healthcare.md#-public-health-service-act-phsa-1944-340b-in-1992) limits the cost safety-net providers, like medicaid, federally qualified health centers, and qualified hospitals paid for outpatient drugs through wholesalers.
-
-### 🚚 Wholesalers
-
-Wholesalers create regional and national distribution networks, storing bulk purchases in strategically placed warehouses to enable 24–48 hour delivery. They also drop ship lower-volume, high-cost medications on an as-needed basis.
 
 ## 🖐 Receiving
 
