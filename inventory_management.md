@@ -67,7 +67,7 @@ Institutional pharmacies have their daily inventory decided by a **closed formul
 
 These closed formularies are determined by committee; being **routinely reviewed** to evaluate new products, safety updates, and therapeutic alternatives.
 
-`Fast Movers do not change without a formulary update.`
+`Fast Movers do not change in institutional settings without a formulary update.`
 
 When the use of a non-formulary medication is justified, a special order is placed for provisioning.
 
