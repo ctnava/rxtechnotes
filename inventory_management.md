@@ -218,9 +218,31 @@ They may also participate in Group Purchasing Organizations (GPOs) to negotiate 
 
 ### 🚚 Wholesalers
 
-Wholesalers create regional and national distribution networks, storing bulk purchases in strategically placed warehouses to enable 24–48 hour delivery. They also drop ship lower-volume, high-cost medications on an as-needed basis.
+Wholesalers purchase medications directly from manufacturers and **resell them to hospitals, pharmacies, clinics, and other authorized dispensers**. They serve as the logistical backbone of the pharmaceutical supply chain.
 
-> 🦅 [340B](./law/healthcare.md#-public-health-service-act-phsa-1944-340b-in-1992) limits the cost safety-net providers, like medicaid, federally qualified health centers, and qualified hospitals paid for outpatient drugs through wholesalers.
+#### 🏭 Role in the Distribution Network
+
+Wholesalers maintain **regional and national distribution systems**, allowing them to:
+
+- Store bulk medication inventory in strategically located warehouses  
+- Provide **24–48 hour delivery** to most pharmacies and healthcare facilities  
+- **Drop‑ship** low‑volume or high‑cost medications directly from the manufacturer or specialty distributor when needed  
+- Support emergency, overnight, and temperature‑controlled shipments  
+
+Their scale and infrastructure reduce costs for pharmacies and ensure consistent access to medications across the country.
+
+#### 🦅 340B Program Impact
+
+The **340B Drug Pricing Program** limits the price that safety‑net providers pay for outpatient drugs purchased through wholesalers. Eligible entities include:
+
+- Medicaid‑funded clinics  
+- Federally Qualified Health Centers (FQHCs)  
+- Ryan White clinics  
+- Certain qualifying hospitals (e.g., disproportionate share hospitals)
+
+These organizations receive **significantly discounted pricing**, enabling them to stretch federal resources and expand patient services.
+
+> The [340B](./law/healthcare.md#-public-health-service-act-phsa-1944-340b-in-1992) program ensures that vulnerable populations receive affordable access to essential medications while maintaining compliance through wholesalers and manufacturers.
 
 ### 🏭 Suppliers
 
