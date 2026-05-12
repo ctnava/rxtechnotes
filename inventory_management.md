@@ -210,7 +210,48 @@ Pharmacies provision stock (usually electronic) from state-licensed:
 
 They may also participate in Group Purchasing Organizations (GPOs) to negotiate discounts on medications purchased in bulk (i.e. like a Costco for Pharmacies)
 
-### 🦅 Legal Considerations
+## 🧾 The Ordering Process
+
+Pharmacies generate daily medication orders using several methods, depending on their workflow and vendor systems:
+
+- **Order entry devices** (handheld scanners, automated cabinets, or dedicated terminals)  
+- **Electronic wholesaler portals or websites**  
+- **Direct interfaces with the pharmacy’s inventory management system**
+
+Technicians select the product, enter the required quantity, and add each item to the **daily order queue**. At the end of the day, the order is transmitted to the supplier.
+
+### 📦 Purchase Orders & Confirmations
+
+Once submitted, the system creates a **purchase order (PO) number**, which:
+
+- Uniquely identifies the shipment  
+- Acts as a receipt for both the pharmacy and the supplier  
+- Allows tracking, reconciliation, and verification during receiving  
+
+Suppliers then send **order confirmations**, which specify:
+
+- Which items will be shipped  
+- Any items that are unavailable  
+- Updated pricing or contract costs  
+- Expected delivery timelines
+
+### 🔄 Handling Omissions & Supply Issues
+
+It is common for some items to be missing from a shipment. When this happens, technicians may need to:
+
+- Place **additional orders**  
+- Contact the supplier for clarification  
+- Use **alternative wholesalers** or specialty distributors  
+
+Typical reasons for omitted items include:
+
+- **Temporary out‑of‑stocks**  
+- **Back‑ordered medications**  
+- **Products discontinued or no longer carried**  
+
+Efficient communication and documentation ensure continuity of patient care and accurate inventory tracking.
+
+#### 🦅 Legal Considerations
 
 - 🔐 `DEA Form 222` is required for ordering **only** Schedule II drugs via CSOS.
 - 🦅x🔐 FDA and DEA registration is also required for controlled substances.
