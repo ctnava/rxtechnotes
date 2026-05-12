@@ -312,7 +312,7 @@ Purchase orders may be delivered in **single or multiple shipments**, and each s
 
 Because receiving errors can lead to patient harm, financial loss, or compliance issues, **accuracy is essential** when checking medications received from suppliers.
 
-<!-- todo: add a small note about people pulling from the order for stuff that is "Fill on Arrival" -->
+> Controlled substances are shipped separately and should be checked in by a pharmacist
 
 ### 🧪 Technician Responsibilities During Receiving
 
@@ -326,6 +326,8 @@ Verify each item against the purchase order and manifest:
 - **Strength**
 - **Dosage form**
 - **Quantity**
+
+> During reconciliation, other technicians may need to procure medications for prescriptions that are designated **Fill-on-Arrival (FOA)**. These medications must be signed for to prevent erroneous claims of missing items.
 
 #### ✅ **Verify Pricing**
 
