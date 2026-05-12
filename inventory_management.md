@@ -210,7 +210,7 @@ Pharmacies provision stock (usually electronic) from state-licensed:
 
 They may also participate in Group Purchasing Organizations (GPOs) to negotiate discounts on medications purchased in bulk (i.e. like a Costco for Pharmacies)
 
-## 🧾 The Ordering Process
+### 🧾 The Ordering Process
 
 Pharmacies generate daily medication orders using several methods, depending on their workflow and vendor systems:
 
@@ -220,7 +220,7 @@ Pharmacies generate daily medication orders using several methods, depending on 
 
 Technicians select the product, enter the required quantity, and add each item to the **daily order queue**. At the end of the day, the order is transmitted to the supplier.
 
-### 📦 Purchase Orders & Confirmations
+#### 📦 Purchase Orders & Confirmations
 
 Once submitted, the system creates a **purchase order (PO) number**, which:
 
@@ -235,7 +235,7 @@ Suppliers then send **order confirmations**, which specify:
 - Updated pricing or contract costs  
 - Expected delivery timelines
 
-### 🔄 Handling Omissions & Supply Issues
+#### 🔄 Handling Omissions & Supply Issues
 
 It is common for some items to be missing from a shipment. When this happens, technicians may need to:
 
@@ -250,6 +250,10 @@ Typical reasons for omitted items include:
 - **Products discontinued or no longer carried**  
 
 Efficient communication and documentation ensure continuity of patient care and accurate inventory tracking.
+
+#### Central Fill
+
+Central Fill locations are off-site locations that assist with the preparation of prescriptions. Readied product is delivered to the pharmacy that dispenses the drug to the patient. This saves technician hours and floor space to allow the pharmacy to run efficiently.
 
 #### 🦅 Legal Considerations
 
