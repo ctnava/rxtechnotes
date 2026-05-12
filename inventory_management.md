@@ -59,7 +59,7 @@ There are two main designation of prescription medications:
   - 20% of the incoming prescriptions; 80% of the stock
   - Unpredictable procurement; Carry up to a month's worth at a time
 
-`These designations may shift over time.`
+`These designations are flexible in this setting and may shift over time.`
 
 #### Institutional Pharmacy Stock
 
