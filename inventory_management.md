@@ -84,6 +84,8 @@ Modern pharmacy inventory systems **automatically generate and maintain records*
 
 > Even with automation, many transactions still require **manual entry**, which introduces the possibility of human error.
 
+Employees are given login credentials for each of these systems, which is used to track who did what and when. **NEVER** share your login credentials.
+
 - **Perpetual Inventory System**
   - Maintains a **real-time record** of inventory by updating whenever medications are received or dispensed when automated systems are properly integrated
     - always reflects the current on‑hand quantity and supports accurate ordering
@@ -105,8 +107,6 @@ Modern pharmacy inventory systems **automatically generate and maintain records*
     - Automated Dispensing Cabinets (ADC) that act like an supply stations for pre-stocked medications & supplies
     - Centralized Robotic Unit Dose Dispensing Devices, like ROBOT-Rx, package and dispense unit doses from bulk containers
     - Carousels, like the Talyst AutoCarousel, act as a storage locker for storing bulk or unit dose medications
-
-> Important reports (especially purchase orders) should be regularly printed and filed as hard copies to serve as a backup
 
 ### Ordering & Provisioning
 
