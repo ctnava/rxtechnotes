@@ -59,11 +59,15 @@ There are two main designation of prescription medications:
   - 20% of the incoming prescriptions; 80% of the stock
   - Unpredictable procurement; Carry up to a month's worth at a time
 
+`These designations may shift over time.`
+
 #### Institutional Pharmacy Stock
 
 Institutional pharmacies have their daily inventory decided by a **closed formulary**.
 
 These closed formularies are determined by committee; being **routinely reviewed** to evaluate new products, safety updates, and therapeutic alternatives.
+
+`Fast Movers do not change without a formulary update.`
 
 When the use of a non-formulary medication is justified, a special order is placed for provisioning.
 
