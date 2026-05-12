@@ -40,7 +40,7 @@ Pharmacy inventory includes:
 
 `Community Pharmacies react to demand, Institutional Pharmacies anticipate it`
 
-A **formulary** is the list of medications approved for use within a pharmacy, health system, or insurance plan.
+A **formulary** is the list of medications approved for use within a pharmacy, health system, or insurance plan; influencing what is prescribed and therefore stocked.
 
 - An **open formulary** includes all medications legally approved for use in the country; any medication may be purchased and reimbursed with a valid prescription.
 - A **closed formulary** limits the list of approved medications.
