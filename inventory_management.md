@@ -208,6 +208,8 @@ Pharmacies provision stock (usually electronic) from state-licensed:
 - **Suppliers**: produce, label, and package drugs
 - **Wholesalers**: purchase drugs in bulk and then sell them to medical facilities
 
+They may also participate in Group Purchasing Organizations (GPOs) to negotiate discounts on medications purchased in bulk (i.e. like a Costco for Pharmacies)
+
 ### 🦅 Legal Considerations
 
 - 🔐 `DEA Form 222` is required for ordering **only** Schedule II drugs via CSOS.
