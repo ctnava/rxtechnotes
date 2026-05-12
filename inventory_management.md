@@ -92,6 +92,8 @@ This is employed as a cost‑control tool, often prioritizing generics. When gen
   - Improves accuracy, reduces diversion, and speeds up the dispensing process.
   - Often integrated with pharmacy inventory management software.
 
+> Important reports (especially purchase orders) should be regularly printed and filed as hard copies to serve as a backup
+
 ### Ordering & Provisioning
 
 `Pharmacy technicians help ensure the pharmacy is well-stocked without over-ordering.`
@@ -173,12 +175,10 @@ Technicians may have to obtain product from outside their usual distributors and
 <!-- Todo: 🔗 Ordering SOP Document Link -->
 <!-- todo: note about seasonal inventory (tamiflu during flu season) -->
 
-Pharmacies provision stock from state-licensed:
+Pharmacies provision stock (usually electronic) from state-licensed:
 
 - **Suppliers**: produce, label, and package drugs
 - **Wholesalers**: purchase drugs in bulk and then sell them to medical facilities
-
-> Usually done electronically
 
 ### 🦅 Legal Considerations
 
