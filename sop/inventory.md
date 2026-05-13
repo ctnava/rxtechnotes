@@ -309,4 +309,4 @@ These reports support compliance, budgeting, and operational decision‑making.
 
 ## Navlinks
 
-🔙🔗 Back to [**Core Pharmacy Workflows & Standard Operating Procedures (SOP)**](../core_operations.md)
+🔙🔗 Back to [**Core Pharmacy Workflows & Standard Operating Procedures (SOP)**](../core_operations.md#inventory-management--workflows)
