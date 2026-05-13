@@ -79,6 +79,21 @@ When the use of a non-formulary medication is justified, a special order is plac
 
 This is employed as a cost‑control tool, often prioritizing generics. When generics are expensive due to manufacturing cost, **therapeutic equivalents** (chemically different but clinically similar) may be substituted.
 
+### Inventory Metrics
+
+`Pharmacy technicians help ensure the pharmacy is well-stocked without over-ordering.`
+
+- **PAR Levels (Periodic Automatic Replenishment) or Reorder Points**  
+  - Minimum and maximum stock levels for each drug that trigger reorder
+  - Prevents stockouts and overstocking
+- **Payment Terms**
+  - due date for supplier payment
+  - The pharmacy sells the stock and collects revenue **before** paying the supplier, lowering the *effective* cost of holding inventory.
+- **Turnover Rate**  
+  - number of days inventory sits on the shelf before being completely used or sold  
+  - 📌 **High turnover** = efficient inventory; **Low turnover** = potential waste or poor selection
+  - Excess stock occupies shelf space, increases maintenance costs (e.g., refrigeration), and increases risk of spoilage or expiration.
+
 ### 🗃️ Inventory Systems
 
 Modern pharmacy inventory systems **automatically generate and maintain records** for every transaction, creating a continuous, auditable trail of stock movement and financial activity.
@@ -116,23 +131,9 @@ Employees are given login credentials for each of these systems, which is used t
 
 ## 💰 Provisioning
 
-`Pharmacy technicians help ensure the pharmacy is well-stocked without over-ordering.`
-
-- **PAR Levels (Periodic Automatic Replenishment) or Reorder Points**  
-  - Minimum and maximum stock levels for each drug that trigger reorder
-  - Prevents stockouts and overstocking
-- **Payment Terms**
-  - due date for supplier payment
-  - The pharmacy sells the stock and collects revenue **before** paying the supplier, lowering the *effective* cost of holding inventory.
-- **Turnover Rate**  
-  - number of days inventory sits on the shelf before being completely used or sold  
-  - 📌 **High turnover** = efficient inventory; **Low turnover** = potential waste or poor selection
-  - Excess stock occupies shelf space, increases maintenance costs (e.g., refrigeration), and increases risk of spoilage or expiration.
+<!-- Todo: 🔗 Ordering SOP Document Link -->
 
 > 🔄 Restocking should be proactive. Anticipate needs based on trends and upcoming holidays or flu season.
-
-<!-- Todo: 🔗 Ordering SOP Document Link -->
-<!-- todo: note about seasonal inventory (tamiflu during flu season) -->
 
 ### Consignment Stock
 
