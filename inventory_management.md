@@ -34,7 +34,13 @@ Pharmacy inventory includes:
 - 💸 Over-the-counter (OTC) products
 - 🔐 Controlled substances
 - General pharmacy supplies (e.g., vials, labels, PPE)
-- 📌 Durable and nondurable medical equipment dispensed with prescriptions
+- 📌 Medical equipment dispensed with prescriptions
+  - **Durable Medical Equipment (DME)**: reusable medical items designed for long‑term use
+    - e.g. walkers, wheelchairs, crutches, bedpans
+  - **Nondurable Medical Supplies**: single‑use or short‑term consumable items
+    - e.g. syringes, needles, ostomy supplies
+
+> DME is bulky and typically ordered **next‑day** from wholesalers
 
 ### 📦 Stocked Items
 
@@ -59,7 +65,7 @@ There are two main designation of prescription medications:
   - 20% of the incoming prescriptions; 80% of the stock
   - Unpredictable procurement; Carry up to a month's worth at a time
 
-`These designations are flexible in this setting and may shift over time.`
+`These designations in community pharmacy are flexible in this setting and may shift over time.`
 
 #### Institutional Pharmacy Stock
 
@@ -107,55 +113,6 @@ Employees are given login credentials for each of these systems, which is used t
     - Automated Dispensing Cabinets (ADC) that act like an supply stations for pre-stocked medications & supplies
     - Centralized Robotic Unit Dose Dispensing Devices, like ROBOT-Rx, package and dispense unit doses from bulk containers
     - Carousels, like the Talyst AutoCarousel, act as a storage locker for storing bulk or unit dose medications
-
-## 📅 Inventory Counting & Audits
-
-Each system can produce detailed reports covering nearly every aspect of inventory management, including:
-
-- On‑hand stock levels  
-- Turnover and usage trends  
-- Reorder alerts and pending purchase orders  
-- Expiration tracking  
-- Controlled substance logs  
-- Financial summaries related to purchasing and returns  
-
-These reports support compliance, budgeting, and operational decision‑making.
-
-> **Critical documents—especially purchase orders—should be printed and filed regularly** as hard‑copy backups to protect against data loss or system failures.
-
-<!-- Todo: 🔗 Inventory Counting & Discrepancy Reporting SOP Document Link -->
-
-### Initial Inventory
-
-- Conducted before opening a new pharmacy or adding controlled substances to stock
-
-### Cycle Counting
-
-- Ongoing partial counts of inventory segments
-- Used to detect loss or discrepancies in real time
-
-### 🔐🦅 Biennial Inventory
-
-- Required every 2 years under DEA rules
-- Full controlled substance inventory by actual physical count
-- 🛡️ Signed and dated by PIC; Often required by many state boards or employers
-
-> 🔐 All records of controlled substances must be kept on hand for two years unless state law requires longer
-
-### Annual Physical Inventory
-
-- Full inventory count of all medications and supplies
-- Often required by company SOPs or state boards
-
-### ⚠️ Discrepancy Reporting
-
-- All inventory discrepancies must be:
-  - **Documented promptly**
-  - **Investigated thoroughly**
-  - **Resolved with corrective actions**
-- 🔐 `DEA Form 106` is required if loss or theft of controlled substances is confirmed
-
-> 🛡️ Maintain accurate records to protect your license and ensure audit readiness.
 
 ## 💰 Provisioning
 
@@ -622,3 +579,52 @@ Proper waste handling ensures patient privacy and environmental responsibility.
   - Charged by weight
 
 > ⚖️ Mishandling PHI is a serious HIPAA violation and can result in fines or disciplinary action.
+
+## 📅 Inventory Counting & Audits
+
+Each system can produce detailed reports covering nearly every aspect of inventory management, including:
+
+- On‑hand stock levels  
+- Turnover and usage trends  
+- Reorder alerts and pending purchase orders  
+- Expiration tracking  
+- Controlled substance logs  
+- Financial summaries related to purchasing and returns  
+
+These reports support compliance, budgeting, and operational decision‑making.
+
+> **Critical documents—especially purchase orders—should be printed and filed regularly** as hard‑copy backups to protect against data loss or system failures.
+
+<!-- Todo: 🔗 Inventory Counting & Discrepancy Reporting SOP Document Link -->
+
+### Initial Inventory
+
+- Conducted before opening a new pharmacy or adding controlled substances to stock
+
+### Cycle Counting
+
+- Ongoing partial counts of inventory segments
+- Used to detect loss or discrepancies in real time
+
+### 🔐🦅 Biennial Inventory
+
+- Required every 2 years under DEA rules
+- Full controlled substance inventory by actual physical count
+- 🛡️ Signed and dated by PIC; Often required by many state boards or employers
+
+> 🔐 All records of controlled substances must be kept on hand for two years unless state law requires longer
+
+### Annual Physical Inventory
+
+- Full inventory count of all medications and supplies
+- Often required by company SOPs or state boards
+
+### ⚠️ Discrepancy Reporting
+
+- All inventory discrepancies must be:
+  - **Documented promptly**
+  - **Investigated thoroughly**
+  - **Resolved with corrective actions**
+- 🔐 `DEA Form 106` is required if loss or theft of controlled substances is confirmed
+
+> 🛡️ Maintain accurate records to protect your license and ensure audit readiness.
