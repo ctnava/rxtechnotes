@@ -254,9 +254,21 @@ Link to 🔗 [**Standard Operating Procedures**](./sop/prescriptions.md)
 
 ---
 
-## Facility Maintenance
+## Inventory Management & Workflows
 
-<!-- todo implement inventory management here -->
+Effective inventory management ensures that pharmacies maintain the **right medications, in the right quantities, under the right conditions**, supporting safe, efficient, and compliant patient care. This section explains how inventory is structured, monitored, and controlled—from understanding formularies and stock behavior to using automated systems, unit‑dose packaging, and turnover metrics to guide purchasing and workflow. Technicians play a central role in maintaining accurate counts, preventing shortages or waste, and supporting systems that track every movement of medication across the pharmacy.
+
+You’ll learn:
+
+- How formularies, fast movers, and usage trends shape **community vs. institutional** inventory  
+- How **PAR levels, turnover rates, and automated systems** guide ordering and stock control  
+- The role of **unit‑dose, prepackaged, and therapy‑based packaging** in safety and efficiency  
+- Which medications must remain in **original containers** and why  
+- How perpetual inventory, POS systems, ADS/ADC devices, and robotics support **real‑time accuracy**  
+
+Mastering these concepts builds a strong foundation for **safe dispensing**, **cost‑effective operations**, and a **high‑functioning inventory system** that supports every other pharmacy workflow.
+
+Link to 🔗 [**Standard Operating Procedures**](./sop/inventory.md)
 
 ---
 

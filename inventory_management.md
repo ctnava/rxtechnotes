@@ -269,7 +269,7 @@ Each system can produce detailed reports covering nearly every aspect of invento
 
 These reports support compliance, budgeting, and operational decision‑making.
 
-> **Critical documents—especially purchase orders—should be printed and filed regularly** as hard‑copy backups to protect against data loss or system failures.
+> **Critical documents, especially purchase orders, should be printed and filed regularly** as hard‑copy backups to protect against data loss or system failures.
 
 <!-- Todo: 🔗 Inventory Counting & Discrepancy Reporting SOP Document Link -->
 
@@ -304,3 +304,9 @@ These reports support compliance, budgeting, and operational decision‑making.
 - 🔐 `DEA Form 106` is required if loss or theft of controlled substances is confirmed
 
 > 🛡️ Maintain accurate records to protect your license and ensure audit readiness.
+
+---
+
+## Navlinks
+
+🔙🔗 Back to [**Core Pharmacy Workflows & Standard Operating Procedures (SOP)**](../core_operations.md)
