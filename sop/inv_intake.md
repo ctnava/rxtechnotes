@@ -288,27 +288,6 @@ Drugs must be stored according to manufacturer specifications. It is imperative 
 
 > 📌 *Temperatures must be checked and logged **daily**. Any out-of-range readings should be reported to the pharmacist-in-charge immediately and documented according to facility SOP.*
 
-### 🏥 Floor Stock (Hospitals)
-
-- Medications stored outside the central pharmacy, typically on **nursing units** for immediate patient use.
-  - Not labeled for specific patients
-  - Stored in Automated Dispensing Cabinets
-  - Stocked by pharmacy or central supply
-- Includes **frequently used items**, such as OTC medications, general purpose IV fluids, or emergency medications.
-- Must be **monitored, replenished, and audited regularly**.
-- Controlled substances in floor stock require **additional tracking and documentation** per DEA and institutional policies (🦅x🔐).
-
-### 🛍️ Other Supplies
-
-Technicians & Pharmacy Clerks are responsible for restocking commonly used pharmacy supplies, including:
-
-- 💊 Prescription vials, lids, and bottles (various sizes)
-- 🏷️ Prescription labels and auxiliary sticker rolls
-- 🧻 Printer paper and **receipt rolls** for the cash register
-- 🛍️ Prescription bags for pickups and deliveries
-
-> 🔁 Supplies should be checked at the **start and end of each shift** or according to pharmacy policy.
-
 ---
 
 ## 🗺️🔗 Nav Links
