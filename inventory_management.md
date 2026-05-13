@@ -153,6 +153,20 @@ Link to 🔗 [**Standard Operating Procedures**](./sop/inv_intake.md)
 
 ## 🧹 Inventory Maintenance, Returns, & Waste Management
 
+Effective inventory maintenance, returns, and waste management ensure that pharmacies remain **safe**, **compliant**, and **operationally efficient**. This section explains how technicians identify and remove **expired, damaged, recalled, or discontinued medications**, manage **waste and PHI**, and process **returns and reverse distribution** in accordance with federal and state regulations. Technicians play a vital role in preventing errors, diversion, and environmental harm by maintaining clean storage areas, documenting all removed stock, and following strict procedures for controlled substances and hazardous waste.
+
+You’ll learn:
+
+- How to identify **ineligible medications** and properly quarantine, label, and document them  
+- How to manage **waste streams**, including PHI, recyclables, and non‑returnable medications  
+- How to process **returns** to wholesalers, manufacturers, and reverse distributors  
+- What information is required for credits, DSCSA compliance, and controlled‑substance transfers  
+- How to prepare, package, and track items for **secure destruction** or **credit‑eligible return**  
+
+Mastering these workflows strengthens **regulatory compliance**, protects **patient safety**, and supports a **clean, accountable inventory system** that keeps the pharmacy running smoothly.
+
+Link to 🔗 [**Standard Operating Procedures**](./sop/inv_maintenance.md)
+
 ---
 
 ## 📅 Inventory Counting & Audits
