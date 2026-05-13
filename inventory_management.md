@@ -236,6 +236,10 @@ Pharmacies generate daily medication orders using several methods, depending on 
 - **Electronic wholesaler portals or websites**  
 - **Direct interfaces with the pharmacy’s inventory management system**
 
+> 🦅x🔐 `DEA Form 222` is required for ordering Schedule II drugs via [CSOS](https://www.deaecom.gov) by FDA & DEA registered entities.
+>
+> See the 🔗 [PDMA](./law/fda_fdca.md#prescription-drug-marketing-act-pdma-1987) for regulations on manufacturer & wholesaler activities.
+
 Technicians select the product, enter the required quantity, and add each item to the **daily order queue**. At the end of the day, the order is transmitted to the supplier.
 
 > Good Ordering Practices separate personnel for ordering & receiving
@@ -280,12 +284,6 @@ Technicians may have to obtain product from outside their usual distributors and
 - **otherwise,** the pharmacist may seek non-formulary alternatives that will be unrestricted until the formulary product is available
 
 **Emergency Drug Procurement:** technicians may call other local hospitals to borrow a short-term supply or be asked to order an emergency shipment from wholesalers or manufacturers during shortage
-
-#### 🦅 Legal Considerations
-
-- 🔐 `DEA Form 222` is required for ordering **only** Schedule II drugs via [CSOS](https://www.deaecom.gov).
-- 🦅x🔐 FDA and DEA registration is also required for controlled substances.
-- 🦅 See the 🔗 [PDMA](./law/fda_fdca.md#prescription-drug-marketing-act-pdma-1987) for regulations on manufacturer & wholesaler activities.
 
 ## 🖐 Receiving
 
