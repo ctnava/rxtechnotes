@@ -183,6 +183,8 @@ These reports support compliance, budgeting, and operational decision‑making.
 - Full controlled substance inventory by actual physical count
 - 🛡️ Signed and dated by PIC; Often required by many state boards or employers
 
+> 🔐 All records of controlled substances must be kept on hand for two years unless state law requires longer
+
 ### Annual Physical Inventory
 
 - Full inventory count of all medications and supplies
@@ -259,7 +261,7 @@ Central Fill locations are off-site locations that assist with the preparation o
 
 #### 🦅 Legal Considerations
 
-- 🔐 `DEA Form 222` is required for ordering **only** Schedule II drugs via CSOS.
+- 🔐 `DEA Form 222` is required for ordering **only** Schedule II drugs via [CSOS](https://www.deaecom.gov).
 - 🦅x🔐 FDA and DEA registration is also required for controlled substances.
 - 🦅 See the 🔗 [PDMA](./law/fda_fdca.md#prescription-drug-marketing-act-pdma-1987) for regulations on manufacturer & wholesaler activities.
 
@@ -312,7 +314,7 @@ Purchase orders may be delivered in **single or multiple shipments**, and each s
 
 Because receiving errors can lead to patient harm, financial loss, or compliance issues, **accuracy is essential** when checking medications received from suppliers.
 
-> Controlled substances are shipped separately and should be checked in by a pharmacist
+> Controlled substances are shipped separately and should be checked in by a pharmacist who did not order them
 
 ### 🧪 Technician Responsibilities During Receiving
 
@@ -533,6 +535,7 @@ Proper storage of medications ensures **potency, safety, and compliance** with f
   - 💊 **Inpatient** pharmacies may also further separate these categories into route of administration
 - **Negative Pressure Isolation Room**: Used for storage of **radioactive**, **cytotoxic**, or other **hazardous substances**. These rooms prevent hazardous vapors from escaping into surrounding areas.
 - 🔐 **CII Inventory Safe**: Schedule II medications must be stored in a **secure, locked cabinet or safe**, accessible only by authorized personnel per DEA regulations (🦅x🔐).
+  - CIII - CV may be kept with on other shelves
 
 > 🛡️ **Always check Fast Mover and Unit of Use shelves first** before placing items on ALPHA shelves.
 
