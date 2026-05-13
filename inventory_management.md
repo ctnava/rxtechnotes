@@ -131,6 +131,93 @@ Employees are given login credentials for each of these systems, which is used t
     - Centralized Robotic Unit Dose Dispensing Devices, like ROBOT-Rx, package and dispense unit doses from bulk containers
     - Carousels, like the Talyst AutoCarousel, act as a storage locker for storing bulk or unit dose medications
 
+### Prepackaged Medications
+
+**Prepackaged medications are a cornerstone of modern pharmacy practice**, providing ready‑to‑use, standardized doses that improve safety, streamline workflow, and support accurate barcode‑based verification across inpatient and outpatient settings. By reducing manual preparation and ensuring consistent labeling, packaging integrity, and dose accuracy, prepackaged and unit‑dose systems form one of the most **high‑impact, error‑reducing** components of the medication‑use process.
+
+Prepackaged medications come in a variety of dosage forms.
+
+| Type | Common Applications |
+| --- | --- |
+| Plastic blisters | Tablets / capsules |
+| Foil blisters | Tablets / capsules |
+| Packet | Powder |
+| Tube | Ointment / cream |
+| Foil/plastic cup | Oral liquids |
+| Cartridge | Injection |
+| Vial | Injection |
+| Ampule | Injection |
+| Foil/plastic wrap | Suppository |
+| IV syringe | Injection |
+| Oral syringe | Oral liquids |
+
+#### Unit Doses
+
+Unit doses are **single‑use packages** containing exactly the amount of medication required for **one dose**.  
+
+Each unit dose label must include:
+
+- Medication name  
+- Strength  
+- Manufacturer  
+- Lot number  
+- Expiration date  
+- 🩺 Pharmacist initials (after final check)  
+- Barcodes for scanning
+
+> 🛡️ *Unit dosing reduces errors, improves barcode scanning accuracy, and supports safe medication administration.*
+
+### Unit Doses in Retail Pharmacy  
+
+In retail settings, unit doses are **manufacturer‑prepared** and arrive pre-counted.
+
+### Unit Doses in Inpatient Pharmacy
+
+Hospitals frequently repackage medications into **unit‑dose packages**. Pharmacy technicians often prepare these under pharmacist supervision.
+
+Unit dosing is standard in hospitals because it:
+
+- 🛡️ Reduces medication errors, especially during emergencies  
+- 🩺 Ensures pharmacist verification before administration
+- 🛡️ Supports barcode medication administration (BCMA) workflows carried out by nurses
+
+> Unit‑dose barcodes are essential for **ADCs, carousels, and automated inventory systems**.
+
+#### Multi-Dose Packaging
+
+Some medications **cannot** be repackaged into unit doses due to stability, device design, or manufacturer requirements.
+
+These items are dispensed **once per patient** and reused throughout the patient’s stay or refill cycle.
+
+Examples include:
+
+- Eye drops  
+- Topical creams and ointments  
+- Inhalers  
+- Insulin pens  
+- Multi‑dose vials (per policy)
+
+### Medications That Must Remain in Original Containers
+
+Certain drugs require their **original packaging** to maintain potency and shelf‑life:
+
+- **Nitroglycerin SL tablets** — brown glass protects from light and moisture  
+- **HIV medications** — many require desiccants and sealed containers  
+- **Edarbi (azilsartan)** — sensitive to light and humidity  
+
+> 📌 These items must still be **patient‑labeled**, tracked for **expiration**, and stored per manufacturer requirements.
+
+### Therapy-Based Packaging
+
+Some medications come in **unit‑of‑use** packaging designed for a complete course of therapy.
+
+Common examples:
+
+- **Z‑Paks** — standardized 5‑day azithromycin regimen  
+- **Oral contraceptives** — calendar‑style blister cards to support adherence  
+
+These packages are dispensed **as‑is** without repackaging
+
 ---
 
 ## 📦 Provisioning & Intake of Pharmacy Goods
@@ -165,7 +252,7 @@ You’ll learn:
 
 Mastering these workflows strengthens **regulatory compliance**, protects **patient safety**, and supports a **clean, accountable inventory system** that keeps the pharmacy running smoothly.
 
-Link to 🔗 [**Standard Operating Procedures**](./sop/inv_maintenance.md)
+Link to 🔗 [**Standard Operating Procedures**](./sop/inv_intake.md)
 
 ---
 
