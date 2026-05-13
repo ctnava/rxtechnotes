@@ -36,6 +36,12 @@ Each unit dose label must include:
 
 > 🛡️ *Unit dosing reduces errors, improves barcode scanning accuracy, and supports safe medication administration.*
 
+### Repackaged Medications
+
+Unit doses can also be repackaged from bulk containers, but all unit‑dose containers must comply with **USP standards**.
+
+Packaging must allow the medication to fit securely and permit label placement without causing the unit to open during storage.
+
 A **repackaging log** must be maintained (per state law) to track:
 
 - Manufacturer  
@@ -44,7 +50,7 @@ A **repackaging log** must be maintained (per state law) to track:
   - Many states follow USP guidelines requiring either the manufacturer’s original expiration date **or** a date **no more than 12 months** after repackaging.
 - Quantity repackaged
 
-> All unit‑dose containers must comply with **USP standards**.
+> 🛡️ Some medications are **light‑sensitive** and require amber or opaque packaging (information found in the package insert)
 
 ### Unit Doses in Retail Pharmacy  
 
