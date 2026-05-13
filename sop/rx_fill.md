@@ -206,6 +206,24 @@ Most bulk medications must be counted or measured and **repackaged** from stock 
 
 > 🛡️ **Never combine** medications from different lots or manufacturers in one container.
 
+#### Individualized Compliance Packaging
+
+Also known as **calendar packs**, **pill organizers**, or **bubble packs**.
+
+These systems are used for patients who struggle with:
+
+- remembering daily doses  
+- managing multiple medications  
+- maintaining consistent schedules
+
+Compliance packaging organizes doses by **day** and **time**, improving adherence for:
+
+- elderly patients  
+- patients with cognitive impairment  
+- patients with complex regimens  
+
+<!-- TODO: Insert bubble‑pack SOP here -->
+
 ### 3.B Automated Filling Machines
 
 Some prescriptions are filled and packaged automatically using high-speed dispensing machines.
