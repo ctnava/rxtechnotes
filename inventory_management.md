@@ -177,6 +177,18 @@ These reports support compliance, budgeting, and operational decision‑making.
 <!-- Todo: 🔗 Ordering SOP Document Link -->
 <!-- todo: note about seasonal inventory (tamiflu during flu season) -->
 
+### Consignment Stock
+
+Some high‑cost medications are provided on **consignment**, meaning the pharmacy does not pay for the product until it is dispensed to a patient.
+
+Key Considerations:
+
+- These medications often have **higher prices**
+- The **consignment company carries the cost** of the product until it is sold and is financially responsible for outdated or expired stock
+- Items must be **closely monitored** to ensure correct patient billing and to prevent diversion or theft
+- Some facilities use **RFID technology** to track product movement and automatically trigger reorders
+- Items on consignment include prescriptions and OTC items placed on the pharmacy floor
+
 ### Inventory Sources
 
 Pharmacies provision stock (usually electronic) from state-licensed:
