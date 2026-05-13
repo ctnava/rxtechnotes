@@ -71,3 +71,9 @@ Pharmacy technicians may:
 - Prescription status
 - Delays or insurance issues
 - Refill availability
+
+---
+
+## 🗺️🔗 Nav Links
+
+- 🔙 Back to [**Core Pharmacy Workflows & Standard Operating Procedures (SOP)**](../core_operations.md#phone-calls)
