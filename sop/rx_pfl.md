@@ -120,3 +120,9 @@ All documentation must be **readily retrievable** for inspection.
 - [ ] Do **not** collect copay on partials until full quantity is dispensed
 - [ ] Ensure system notes are complete, timestamped, and retrievable
 - [ ] Refer all clinical or legal judgment calls to the pharmacist
+
+---
+
+## Navlinks
+
+🔙🔗 Back to [**Prescription Processing Workflows**](./prescriptions.md#-partial-fills)

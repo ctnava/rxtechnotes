@@ -381,3 +381,9 @@ graph TD;
 - Use only **current auxiliary label templates**  
 - Document anomalies or overrides thoroughly for audit readiness  
 - If a mismatch or system error is suspected: **STOP** and alert the pharmacist  
+
+---
+
+## Navlinks
+
+🔙🔗 Back to [**Prescription Processing Workflows**](./prescriptions.md#filling--preparing-prescriptions)

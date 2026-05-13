@@ -308,3 +308,9 @@ Technicians **may**:
 - [ ] Understands technician scope of practice
 - [ ] Can calculate days supply and flag inconsistencies
 - [ ] Knows when to refer to pharmacist (DUR, forgery, unclear orders)
+
+---
+
+## Navlinks
+
+🔙🔗 Back to [**Prescription Processing Workflows**](./prescriptions.md#prescription-intake--billing)

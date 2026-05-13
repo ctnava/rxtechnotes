@@ -153,3 +153,9 @@ Record the following:
 - Document the time, date, and message status (e.g. “left voicemail at 11:55AM on 05/17/2025”)
 
 > ✅ Speak slowly, clearly, and succinctly. Use the NATO alphabet when spelling.
+
+---
+
+## Navlinks
+
+🔙🔗 Back to [**Prescription Processing Workflows**](./prescriptions.md#-refills--renewal-requests)

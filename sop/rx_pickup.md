@@ -181,3 +181,9 @@ Check for required elements on prescription bundles
 - [ ] Prescription origin code: written/ electronic
 - [ ] Pharmacy Benefits Manager charged for coverage
 - [ ] Copay Charged
+
+---
+
+## Navlinks
+
+🔙🔗 Back to [**Prescription Processing Workflows**](./prescriptions.md#-prescription-pickup--handoff)

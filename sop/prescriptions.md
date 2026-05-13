@@ -622,4 +622,6 @@ Link to 🔗 [**Standard Operating Procedure**](./rx_pfl.md)
 
 ---
 
+## Navlinks
+
 🔙🔗 Back to [**Core Pharmacy Workflows & Standard Operating Procedures (SOP)**](../core_operations.md#prescription-processing)

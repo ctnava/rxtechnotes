@@ -58,3 +58,9 @@ Pharmacy technicians **may not** perform the actual transfer of the prescription
 - Avoid delays by having **complete and accurate information** ready for the pharmacist.
 - For **controlled substances**, ensure only one transfer occurs unless both pharmacies are in a **shared database system** (e.g. chain pharmacies).
 - When in doubt, ask the pharmacist before proceeding with any part of the process.
+
+---
+
+## Navlinks
+
+🔙🔗 Back to [**Prescription Processing Workflows**](./prescriptions.md#prescription-transfers)
