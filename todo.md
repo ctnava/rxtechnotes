@@ -91,7 +91,7 @@
 - [x] DenaliRx Drugs 81-100
 - [x] Kirby Lester Counting Machine Video
 - [x] CVS Insurance Training Packet (unnecessary)
-- [ ] Reading: Chapter 14 - Inventory (QUICK)
+- [X] Reading: Chapter 14 - Inventory (QUICK)
 - [ ] CE: Medication Reconciliation
 - [x] Math: Chapter 24 - Powder Drugs
 - [x] Drug Regulation & Control Video
