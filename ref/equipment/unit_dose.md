@@ -20,7 +20,7 @@ Prepackaged medications come in a variety of dosage forms.
 
 ---
 
-## Unit Dose  
+## Unit Dose
 
 Unit doses are **single‑use packages** containing exactly the amount of medication required for **one dose**.  
 
@@ -36,11 +36,23 @@ Each unit dose label must include:
 
 > 🛡️ *Unit dosing reduces errors, improves barcode scanning accuracy, and supports safe medication administration.*
 
+A **repackaging log** must be maintained (per state law) to track:
+
+- Manufacturer  
+- Lot number  
+- Expiration date
+  - Many states follow USP guidelines requiring either the manufacturer’s original expiration date **or** a date **no more than 12 months** after repackaging.
+- Quantity repackaged
+
+> All unit‑dose containers must comply with **USP standards**.
+
 ### Unit Doses in Retail Pharmacy  
 
 In retail settings, unit doses are **manufacturer‑prepared** and arrive pre-counted.
 
 ### Unit Doses in Inpatient Pharmacy
+
+Hospitals frequently repackage medications into **unit‑dose packages**. Pharmacy technicians often prepare these under pharmacist supervision.
 
 Unit dosing is standard in hospitals because it:
 

@@ -24,7 +24,7 @@ Purchasing is a common **specialization track** for pharmacy technicians.
 > 🔐 Controlled substances require additional documentation, restricted access, and secure storage per DEA and state board regulations.  
 > See: 🔗 [CSA/CMEA Broad Overview](./law/csa_cmea.md)
 
-## 🔑 Core Concepts
+## Inventory Concepts
 
 An **inventory** is the complete listing of goods or materials a pharmacy keeps on hand for normal
 
@@ -108,49 +108,6 @@ Employees are given login credentials for each of these systems, which is used t
     - Centralized Robotic Unit Dose Dispensing Devices, like ROBOT-Rx, package and dispense unit doses from bulk containers
     - Carousels, like the Talyst AutoCarousel, act as a storage locker for storing bulk or unit dose medications
 
-### Ordering & Provisioning
-
-`Pharmacy technicians help ensure the pharmacy is well-stocked without over-ordering.`
-
-- **PAR Levels (Periodic Automatic Replenishment) or Reorder Points**  
-  - Minimum and maximum stock levels for each drug that trigger reorder
-  - Prevents stockouts and overstocking
-- **Payment Terms**
-  - due date for supplier payment
-  - The pharmacy sells the stock and collects revenue **before** paying the supplier, lowering the *effective* cost of holding inventory.
-- **Turnover Rate**  
-  - number of days inventory sits on the shelf before being completely used or sold  
-  - 📌 **High turnover** = efficient inventory; **Low turnover** = potential waste or poor selection
-  - Excess stock occupies shelf space, increases maintenance costs (e.g., refrigeration), and increases risk of spoilage or expiration.
-
-> 🔄 Restocking should be proactive. Anticipate needs based on trends and upcoming holidays or flu season.
-
-#### Market Availability
-
-`Always communicate **shortages or backorders** to the PIC or coordinator`
-
-Monitoring the **market availability** of medications is essential. Drug shortages may be caused by:
-
-- Manufacturing or quality‑control issues  
-- Raw material shortages  
-- Product recalls  
-- Shortages of therapeutic equivalents
-
-> [FDA Drug Shortages Database](https://www.fda.gov/drugs/drug-safety-and-availability/drug-shortages)
-> [FDA List of Extended Use Dates to Assist with Drug Shortages](https://www.fda.gov/drugs/drug-shortages/search-list-extended-use-dates-assist-drug-shortages)
-
-### Inpatient Provisioning Practices
-
-Technicians may have to obtain product from outside their usual distributors and purchase from:
-
-- a secondary distributor
-- directly from manufacturer
-- compounding pharmacies
-- or a group purchasing organization
-- **otherwise,** the pharmacist may seek non-formulary alternatives that will be unrestricted until the formulary product is available
-
-**Emergency Drug Procurement:** technicians may call other local hospitals to borrow a short-term supply or be asked to order an emergency shipment from wholesalers or manufacturers during shortage
-
 ## 📅 Inventory Counting & Audits
 
 Each system can produce detailed reports covering nearly every aspect of inventory management, including:
@@ -202,8 +159,25 @@ These reports support compliance, budgeting, and operational decision‑making.
 
 ## 💰 Provisioning
 
+`Pharmacy technicians help ensure the pharmacy is well-stocked without over-ordering.`
+
+- **PAR Levels (Periodic Automatic Replenishment) or Reorder Points**  
+  - Minimum and maximum stock levels for each drug that trigger reorder
+  - Prevents stockouts and overstocking
+- **Payment Terms**
+  - due date for supplier payment
+  - The pharmacy sells the stock and collects revenue **before** paying the supplier, lowering the *effective* cost of holding inventory.
+- **Turnover Rate**  
+  - number of days inventory sits on the shelf before being completely used or sold  
+  - 📌 **High turnover** = efficient inventory; **Low turnover** = potential waste or poor selection
+  - Excess stock occupies shelf space, increases maintenance costs (e.g., refrigeration), and increases risk of spoilage or expiration.
+
+> 🔄 Restocking should be proactive. Anticipate needs based on trends and upcoming holidays or flu season.
+
 <!-- Todo: 🔗 Ordering SOP Document Link -->
 <!-- todo: note about seasonal inventory (tamiflu during flu season) -->
+
+### Inventory Sources
 
 Pharmacies provision stock (usually electronic) from state-licensed:
 
@@ -211,6 +185,48 @@ Pharmacies provision stock (usually electronic) from state-licensed:
 - **Wholesalers**: purchase drugs in bulk and then sell them to medical facilities
 
 They may also participate in Group Purchasing Organizations (GPOs) to negotiate discounts on medications purchased in bulk (i.e. like a Costco for Pharmacies)
+
+#### 🚚 Wholesalers
+
+Wholesalers purchase medications directly from manufacturers and **resell them to hospitals, pharmacies, clinics, and other authorized dispensers**. They serve as the logistical backbone of the pharmaceutical supply chain.
+
+##### 🏭 Role in the Distribution Network
+
+Wholesalers maintain **regional and national distribution systems**, allowing them to:
+
+- Store bulk medication inventory in strategically located warehouses  
+- Provide **24–48 hour delivery** to most pharmacies and healthcare facilities  
+- **Drop‑ship** low‑volume or high‑cost medications directly from the manufacturer or specialty distributor when needed  
+- Support emergency, overnight, and temperature‑controlled shipments  
+
+Their scale and infrastructure reduce costs for pharmacies and ensure consistent access to medications across the country.
+
+> wholesalers account for >75% of manufacturer sales
+
+##### 🦅 340B Program Impact
+
+The **340B Drug Pricing Program** limits the price that safety‑net providers pay for outpatient drugs purchased through wholesalers. Eligible entities include:
+
+- Medicaid‑funded clinics  
+- Federally Qualified Health Centers (FQHCs)  
+- Ryan White clinics  
+- Certain qualifying hospitals (e.g., disproportionate share hospitals)
+
+These organizations receive **significantly discounted pricing**, enabling them to stretch federal resources and expand patient services.
+
+> The [340B](./law/healthcare.md#-public-health-service-act-phsa-1944-340b-in-1992) program ensures that vulnerable populations receive affordable access to essential medications while maintaining compliance through wholesalers and manufacturers.
+
+#### 🏭 Suppliers
+
+There are 3 main types of supplier: drug manufacturers, specialty pharmacies, and compounding pharmacies. All of them order raw materials or finished goods (like (in)active ingredients) to produce their goods. However, each one exists for a different scale of care.
+
+- **Drug Manufacturers** package medication in standard dosage forms for mass distribution; for purchasing drugs not available through wholesalers due to the expense of storage
+- **Specialty Pharmacies** focus on providing high-cost, complex medications and specialized services to patients with chronic conditions (exclusive access)
+- **Compounding Pharmacies** customize medications on a patient-specific basis, often mixing, combining, or altering existing drugs to meet individual needs
+
+#### Central Fill
+
+Central Fill locations are off-site locations that assist with the preparation of prescriptions. Readied product is delivered to the pharmacy that dispenses the drug to the patient. This saves technician hours and floor space to allow the pharmacy to run efficiently.
 
 ### 🧾 The Ordering Process
 
@@ -239,69 +255,37 @@ Suppliers then send **order confirmations**, which specify:
 - Updated pricing or contract costs  
 - Expected delivery timelines
 
-#### 🔄 Handling Omissions & Supply Issues
+### Handling Shortages
 
-It is common for some items to be missing from a shipment. When this happens, technicians may need to:
+`Always communicate **shortages or backorders** to the PIC or coordinator`
 
-- Place **additional orders**  
-- Contact the supplier for clarification  
-- Use **alternative wholesalers** or specialty distributors  
+Monitoring the **market availability** of medications is essential. Drug shortages may be caused by:
 
-Typical reasons for omitted items include:
+- Manufacturing or quality‑control issues  
+- Raw material shortages  
+- Product recalls  
+- Shortages of therapeutic equivalents
 
-- **Temporary out‑of‑stocks**  
-- **Back‑ordered medications**  
-- **Products discontinued or no longer carried**  
+> [FDA Drug Shortages Database](https://www.fda.gov/drugs/drug-safety-and-availability/drug-shortages)
+> [FDA List of Extended Use Dates to Assist with Drug Shortages](https://www.fda.gov/drugs/drug-shortages/search-list-extended-use-dates-assist-drug-shortages)
 
-Efficient communication and documentation ensure continuity of patient care and accurate inventory tracking.
+#### Inpatient Provisioning Practices
 
-#### Central Fill
+Technicians may have to obtain product from outside their usual distributors and purchase from:
 
-Central Fill locations are off-site locations that assist with the preparation of prescriptions. Readied product is delivered to the pharmacy that dispenses the drug to the patient. This saves technician hours and floor space to allow the pharmacy to run efficiently.
+- a secondary distributor
+- directly from manufacturer
+- compounding pharmacies
+- or a group purchasing organization
+- **otherwise,** the pharmacist may seek non-formulary alternatives that will be unrestricted until the formulary product is available
+
+**Emergency Drug Procurement:** technicians may call other local hospitals to borrow a short-term supply or be asked to order an emergency shipment from wholesalers or manufacturers during shortage
 
 #### 🦅 Legal Considerations
 
 - 🔐 `DEA Form 222` is required for ordering **only** Schedule II drugs via [CSOS](https://www.deaecom.gov).
 - 🦅x🔐 FDA and DEA registration is also required for controlled substances.
 - 🦅 See the 🔗 [PDMA](./law/fda_fdca.md#prescription-drug-marketing-act-pdma-1987) for regulations on manufacturer & wholesaler activities.
-
-### 🚚 Wholesalers
-
-Wholesalers purchase medications directly from manufacturers and **resell them to hospitals, pharmacies, clinics, and other authorized dispensers**. They serve as the logistical backbone of the pharmaceutical supply chain.
-
-#### 🏭 Role in the Distribution Network
-
-Wholesalers maintain **regional and national distribution systems**, allowing them to:
-
-- Store bulk medication inventory in strategically located warehouses  
-- Provide **24–48 hour delivery** to most pharmacies and healthcare facilities  
-- **Drop‑ship** low‑volume or high‑cost medications directly from the manufacturer or specialty distributor when needed  
-- Support emergency, overnight, and temperature‑controlled shipments  
-
-Their scale and infrastructure reduce costs for pharmacies and ensure consistent access to medications across the country.
-
-> wholesalers account for >75% of manufacturer sales
-
-#### 🦅 340B Program Impact
-
-The **340B Drug Pricing Program** limits the price that safety‑net providers pay for outpatient drugs purchased through wholesalers. Eligible entities include:
-
-- Medicaid‑funded clinics  
-- Federally Qualified Health Centers (FQHCs)  
-- Ryan White clinics  
-- Certain qualifying hospitals (e.g., disproportionate share hospitals)
-
-These organizations receive **significantly discounted pricing**, enabling them to stretch federal resources and expand patient services.
-
-> The [340B](./law/healthcare.md#-public-health-service-act-phsa-1944-340b-in-1992) program ensures that vulnerable populations receive affordable access to essential medications while maintaining compliance through wholesalers and manufacturers.
-
-### 🏭 Suppliers
-
-There are 3 main types of supplier: drug manufacturers, specialty pharmacies, and compounding pharmacies. All of them order raw materials or finished goods (like (in)active ingredients) to produce their goods. However, each one exists for a different scale of care.
-
-- **Drug Manufacturers** package medication in standard dosage forms for mass distribution; for purchasing drugs not available through wholesalers due to the expense of storage
-- **Specialty Pharmacies** focus on providing high-cost, complex medications and specialized services to patients with chronic conditions (exclusive access)
-- **Compounding Pharmacies** customize medications on a patient-specific basis, often mixing, combining, or altering existing drugs to meet individual needs
 
 ## 🖐 Receiving
 
@@ -330,6 +314,22 @@ Verify each item against the purchase order and manifest:
 - **Quantity**
 
 > During reconciliation, other technicians may need to procure medications for prescriptions that are designated **Fill-on-Arrival (FOA)**. These medications must be signed for to prevent erroneous claims of missing items.
+
+##### 🔄 Handling Omissions
+
+It is common for some items to be missing from a shipment. When this happens, technicians may need to:
+
+- Place **additional orders**  
+- Contact the supplier for clarification  
+- Use **alternative wholesalers** or specialty distributors  
+
+Typical reasons for omitted items include:
+
+- **Temporary out‑of‑stocks**  
+- **Back‑ordered medications**  
+- **Products discontinued or no longer carried**  
+
+Efficient communication and documentation ensure continuity of patient care and accurate inventory tracking.
 
 #### ✅ **Verify Pricing**
 
