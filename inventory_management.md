@@ -133,6 +133,22 @@ Employees are given login credentials for each of these systems, which is used t
 
 ---
 
+## 📦 Provisioning & Intake of Pharmacy Goods
+
+Efficient provisioning and intake form the backbone of safe, reliable pharmacy operations. This section outlines **how medications enter the pharmacy**, from sourcing and ordering to receiving, verifying, and storing stock. Technicians play a critical role in maintaining accuracy, preventing diversion, and ensuring that every product—from fast‑moving generics to high‑cost specialty drugs—flows smoothly through the supply chain.
+
+You’ll learn:
+
+- Where pharmacies obtain medications and how wholesalers, suppliers, and GPOs shape pricing and availability  
+- How daily orders are created, transmitted, and confirmed  
+- What to do when shortages, backorders, or emergency needs arise  
+- The correct procedures for receiving shipments, including C‑II handling  
+- Best practices for storage, organization, and compliance across all medication types  
+
+Mastering these workflows ensures **patient safety**, **regulatory compliance**, and a **streamlined inventory system** that supports the entire pharmacy team.
+
+Link to 🔗 [**Standard Operating Procedures**](./sop/inv_intake.md)
+
 ## 🔄 Returns & Disposal
 
 Proper handling of returns and medication disposal protects patients, ensures regulatory compliance, and maintains accurate inventory and financial records.

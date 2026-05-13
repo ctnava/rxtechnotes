@@ -1,5 +1,7 @@
 # Provisioning & Intake
 
+**Provisioning and intake** cover the complete workflow of how medications enter the pharmacy—from **sourcing** through wholesalers and suppliers to **verifying**, **documenting**, and **properly storing** incoming stock. Technicians ensure **accuracy**, prevent **diversion**, and maintain **regulatory compliance** at every step. This section highlights how **daily orders are created**, how **shortages and emergency procurement** are managed, how **shipments (especially C‑IIs)** must be received and reconciled, and how medications are **organized and stored** to protect safety and support uninterrupted patient care.
+
 ## 💰 Creating Orders
 
 <!-- Todo: 🔗 Ordering SOP Document Link -->
@@ -311,4 +313,4 @@ Technicians & Pharmacy Clerks are responsible for restocking commonly used pharm
 
 ## 🗺️🔗 Nav Links
 
-- 🔙 Back to [**Inventory Management & Workflows**](../inventory_management.md)
+- 🔙 Back to [**Inventory Management & Workflows**](../inventory_management.md#provisioning--intake-of-pharmacy-goods)
