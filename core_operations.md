@@ -132,8 +132,7 @@ When performing **medication reconciliation** (the process of gathering a patien
 The **National Institute for Occupational Safety and Health (NIOSH)** publishes guidelines for safe handling of chemotherapy and other hazardous drugs.
 
 Reference:  
-**NIOSH Publication No. 2004‑165 — Preventing Occupational Exposure to Antineoplastic and Other Hazardous Drugs**  
-https://stacks.cdc.gov/view/cdc/6570
+**[NIOSH Publication No. 2004‑165 — Preventing Occupational Exposure to Antineoplastic and Other Hazardous Drugs](https://stacks.cdc.gov/view/cdc/6570)**  
 
 #### USP <800>
 
@@ -149,8 +148,8 @@ The chapter outlines requirements for:
 
 Affected workers include pharmacists, technicians, nurses, physicians, physician assistants, home‑health workers, veterinarians, and veterinary technicians. It also applies to the facilities in which they work.
 
-Reference:  
-https://www.usp.org/compounding/general-chapter-hazardous-drugs-handling-healthcare
+Reference:
+[Hazardous Drugs—Handling in Healthcare Settings](https://www.usp.org/compounding/general-chapter-hazardous-drugs-handling-healthcare)  
 
 ---
 
