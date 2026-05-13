@@ -57,8 +57,10 @@ Hospitals frequently repackage medications into **unit‑dose packages**. Pharma
 Unit dosing is standard in hospitals because it:
 
 - 🛡️ Reduces medication errors, especially during emergencies  
-- 🛡️ Supports barcode medication administration (BCMA)  
 - 🩺 Ensures pharmacist verification before administration
+- 🛡️ Supports barcode medication administration (BCMA) workflows carried out by nurses
+
+> Unit‑dose barcodes are essential for **ADCs, carousels, and automated inventory systems**.
 
 #### Automated Dispensing Cabinets (ADCs)
 
