@@ -70,14 +70,6 @@ Unit dosing is standard in hospitals because it:
 
 > Unit‑dose barcodes are essential for **ADCs, carousels, and automated inventory systems**.
 
-#### Automated Dispensing Cabinets (ADCs)
-
-Automated dispensing cabinets (e.g., Pyxis, Omnicell) store the most commonly used unit dose medications for each care area **at the point of use**.
-
-- 🩺 A pharmacist must **review and verify** orders before removal  
-- 🚨 A limited number of emergency medications may be removed without prior pharmacist review (per hospital policy)  
-- Techs ensure cabinets remain stocked and accurate  
-
 #### Automated Packaging Machines
 
 Many hospital pharmacies use machines to **repackage oral solid medications** into unit dose packets in bulk.
