@@ -242,70 +242,7 @@ Specialized companies—such as **Stericycle** provide:
 
 These services help pharmacies meet federal, state, and environmental regulations.
 
-## 📁 Storage
-
-Proper storage of medications ensures **potency, safety, and compliance** with federal and state regulations. Poor storage practices can lead to contamination, degradation, or diversion. Pharmacy technicians play a key role in maintaining clean, organized, and legally compliant storage environments which typically looks like this:
-
-- 📚 Organized shelving, cabinets, or drawers
-- 🔐 C-II controlled substances must be kept in **locked storage**
-- 💊 C-III through C-V medications may be kept on **open shelves** in hospital & retail
-- ❄️ Pharmacy refrigerators must be **drug-only** (no food or drink allowed)
-
-### 🛡️ Best Practices
-
-- **FIFO (First In, First Out)**: Always stock **older inventory in front** of newer stock so that the earliest expiration dates are used first. This reduces the chance of medications expiring on the shelf.
-- **LASA Medications (Look-Alike, Sound-Alike)**: Must be **separated**, flagged with warning stickers, or labeled using **Tall Man Lettering** (e.g., `predniSONE` vs. `prednisoLONE`). Storing these on **separate shelves or tiers** further reduces risk of dispensing errors.
-- **Mylars**: Used to identify **hazardous drugs** (☣️). These labels should be placed clearly on shelves and packaging. Extra precautions should be followed when handling.
-- **Store by Dosage Form & Sort by Strength**:
-  - Organize shelves **first by dosage form** (e.g., tablets, capsules, liquids, injectables).
-  - Then, sort each dosage form **by strength**, from **lowest to highest**.
-  - This prevents mix-ups and ensures faster, safer dispensing workflow.
-
-### 🗂️ Special Storage Locations
-
-- **Fast Mover Shelf**: Roughly 20% of medications account for 80% of dispensing volume. These high-demand items are kept on a dedicated shelf for **quick access**. Always check if new stock belongs here before shelving elsewhere.
-- **Unit of Use Shelf**: Designated for **unit-dose packaging** (single doses) or **unit-of-use packs** (e.g., a 10-day antibiotic course). Keeps bulk items separated from pre-counted or therapy-based packaging.
-- **ALPHA Shelves**: Low-demand inventory (the remaining 80%) is organized **alphabetically** by generic name unless otherwise directed.
-  - 💊 **Inpatient** pharmacies may also further separate these categories into route of administration
-- **Negative Pressure Isolation Room**: Used for storage of **radioactive**, **cytotoxic**, or other **hazardous substances**. These rooms prevent hazardous vapors from escaping into surrounding areas.
-- 🔐 **CII Inventory Safe**: Schedule II medications must be stored in a **secure, locked cabinet or safe**, accessible only by authorized personnel per DEA regulations (🦅x🔐).
-  - CIII - CV may be kept with on other shelves
-
-> 🛡️ **Always check Fast Mover and Unit of Use shelves first** before placing items on ALPHA shelves.
-
-### 🌡️ USP Storage Temperature Guidelines
-
-Drugs must be stored according to manufacturer specifications. It is imperative that the technician identify items that require refrigeration or freezing so that medications retain their stability.
-
-| Storage Type | Temperature Range | Examples |
-| --- | --- | --- |
-| **Freezer** | –50°C to –10°C (–58°F to 14°F) | MMR + Varicella Vaccine (ProQuad), Varicella/ Chickenpox Vaccine (Varivax), Zoster/ Shingles Vaccine (Zostavax) |
-| **Refrigerated** | 2°C to 8°C (36°F to 46°F) | Caspofungin (Cancidas), Epoetin Alfa (Epogen, Procrit), Filgrastim (Neupogen), Fosphenytoin (Cerebyx), Tobramyxin for Oral Inhalation (Tobi), Most Vaccines |
-| **Controlled Room Temp (most drugs)** | 20°C to 25°C (68°F to 77°F) | Most Medications |
-| **Excessive Heat** | > 40°C (> 104°F) | No Medications |
-
-> 📌 *Temperatures must be checked and logged **daily**. Any out-of-range readings should be reported to the pharmacist-in-charge immediately and documented according to facility SOP.*
-
-### 🏥 Floor Stock (Hospitals)
-
-- Medications stored outside the central pharmacy, typically on **nursing units** for immediate patient use.
-  - Not labeled for specific patients
-  - Stored in Automated Dispensing Cabinets
-  - Stocked by pharmacy or central supply
-- Includes **frequently used items**, such as OTC medications, general purpose IV fluids, or emergency medications.
-- Must be **monitored, replenished, and audited regularly**.
-- Controlled substances in floor stock require **additional tracking and documentation** per DEA and institutional policies (🦅x🔐).
-
-### 🛍️ Other Supplies
-
-Technicians & Pharmacy Clerks are responsible for restocking commonly used pharmacy supplies, including:
-
-- 💊 Prescription vials, lids, and bottles (various sizes)
-- 🏷️ Prescription labels and auxiliary sticker rolls
-- 🧻 Printer paper and **receipt rolls** for the cash register
-- 🛍️ Prescription bags for pickups and deliveries
-
-> 🔁 Supplies should be checked at the **start and end of each shift** or according to pharmacy policy.
+---
 
 ## 🧹 Maintenance
 
