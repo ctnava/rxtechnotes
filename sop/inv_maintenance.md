@@ -157,4 +157,4 @@ Controlled substance disposal has strict DEA requirements:
 
 ## 🗺️🔗 Nav Links
 
-- 🔙 Back to [**Inventory Management & Workflows**](../inventory_management.md#-inventory-maintenance-returns--waste-management)
+- 🔙 Back to [**Inventory Management & Workflows**](./inventory.md#-inventory-maintenance-returns--waste-management)

@@ -292,4 +292,4 @@ Drugs must be stored according to manufacturer specifications. It is imperative 
 
 ## 🗺️🔗 Nav Links
 
-- 🔙 Back to [**Inventory Management & Workflows**](../inventory_management.md#provisioning--intake-of-pharmacy-goods)
+- 🔙 Back to [**Inventory Management & Workflows**](./inventory.md#provisioning--intake-of-pharmacy-goods)
