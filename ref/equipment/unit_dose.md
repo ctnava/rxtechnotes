@@ -70,55 +70,6 @@ Unit dosing is standard in hospitals because it:
 
 > Unit‑dose barcodes are essential for **ADCs, carousels, and automated inventory systems**.
 
-#### Automated Packaging Machines
-
-Many hospital pharmacies use machines to **repackage oral solid medications** into unit dose packets in bulk.
-
-Pharmacy technicians are responsible for:
-
-- Stocking the machine  
-- Documenting all bulk bottles loaded  
-- Performing routine cleaning and maintenance (per policy)
-
-#### Unit‑Dose Syringes
-
-Some hospitals use **automated liquid‑filling machines** that draw up oral or injectable doses into syringes. However, many facilities rely on **manual preparation** because these machines are expensive and require specialized maintenance.
-
-> ⚠️ **SAFETY ALERT:**  
-> Oral doses must **always** be packaged in **oral syringes**, never parenteral syringes.  
-> Oral syringes use tips that are *incompatible* with needles, preventing accidental IV administration.
-> ENFit brand syringes only allow connections between branded equipment; reducing medication errors
-
-Technician responsibilities include:
-
-- Drawing up oral liquid doses using oral syringes  
-- Labeling each syringe with drug, strength, volume, lot, and expiration  
-- Ensuring pharmacist verification before distribution  
-- Following beyond‑use dating (BUD) policies for repackaged liquids
-
-#### Batching
-
-Batching is the process of preparing **large quantities of unit‑dose medications in advance** for future use.  
-Hospitals batch medications to ensure consistent availability, reduce turnaround time, and support high‑volume inpatient workflows.
-
-> 🛡️ Batching must follow USP standards, hospital policy, and pharmacist verification requirements.
-
-Commonly Batched Items:
-
-- **Oral Tablets & Capsules**
-  - High‑use medications (e.g., acetaminophen, metoprolol, furosemide)  
-  - Typically packaged using automated machines or manual heat‑seal cards  
-- **Oral Solutions & Suspensions**
-  - Pediatric doses  
-  - Concentrated solutions requiring precise measurement  
-  - Must follow **beyond‑use dating (BUD)** and storage requirements  
-- **Small Volume Parenterals (SVPs)**
-  - IV piggybacks (e.g., ceftriaxone, magnesium sulfate)  
-  - Only batched in facilities with appropriate sterile compounding capabilities  
-  - Must comply with **USP <797>** and **USP <800>** when applicable  
-
-> ⚠️ Hazardous drugs, unstable medications, and items with short BUDs may **not** be eligible for batching.
-
 ---
 
 ## Multi-Dose Packaging
