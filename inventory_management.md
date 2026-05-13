@@ -1,4 +1,4 @@
-# Pharmacy Inventory Management
+# Inventory Management & Workflows
 
 Pharmacy inventory management ensures medications and supplies are available **in the right quantities, at the right time, and in suitable conditions** to support safe, efficient patient care. Proper systems reduce waste, lower costs, prevent shortages or overstocking, and ensure **regulatory compliance** through accurate tracking and documentation.
 
