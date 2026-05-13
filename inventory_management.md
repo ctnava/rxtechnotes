@@ -24,6 +24,8 @@ Purchasing is a common **specialization track** for pharmacy technicians.
 > 🔐 Controlled substances require additional documentation, restricted access, and secure storage per DEA and state board regulations.  
 > See: 🔗 [CSA/CMEA Broad Overview](./law/csa_cmea.md)
 
+---
+
 ## Inventory Concepts
 
 An **inventory** is the complete listing of goods or materials a pharmacy keeps on hand for normal
@@ -129,131 +131,7 @@ Employees are given login credentials for each of these systems, which is used t
     - Centralized Robotic Unit Dose Dispensing Devices, like ROBOT-Rx, package and dispense unit doses from bulk containers
     - Carousels, like the Talyst AutoCarousel, act as a storage locker for storing bulk or unit dose medications
 
-## 💰 Provisioning
 
-<!-- Todo: 🔗 Ordering SOP Document Link -->
-
-> 🔄 Restocking should be proactive. Anticipate needs based on trends and upcoming holidays or flu season.
-
-### Consignment Stock
-
-Some high‑cost medications are provided on **consignment**, meaning the pharmacy does not pay for the product until it is dispensed to a patient.
-
-Key Considerations:
-
-- These medications often have **higher prices**
-- The **consignment company carries the cost** of the product until it is sold and is financially responsible for outdated or expired stock
-- Items must be **closely monitored** to ensure correct patient billing and to prevent diversion or theft
-- Some facilities use **RFID technology** to track product movement and automatically trigger reorders
-- Items on consignment include prescriptions and OTC items placed on the pharmacy floor
-
-### Inventory Sources
-
-Pharmacies provision stock (usually electronic) from state-licensed:
-
-- **Suppliers**: produce, label, and package drugs
-- **Wholesalers**: purchase drugs in bulk and then sell them to medical facilities
-
-They may also participate in Group Purchasing Organizations (GPOs) to negotiate discounts on medications purchased in bulk (i.e. like a Costco for Pharmacies)
-
-#### 🚚 Wholesalers
-
-Wholesalers purchase medications directly from manufacturers and **resell them to hospitals, pharmacies, clinics, and other authorized dispensers**. They serve as the logistical backbone of the pharmaceutical supply chain.
-
-##### 🏭 Role in the Distribution Network
-
-Wholesalers maintain **regional and national distribution systems**, allowing them to:
-
-- Store bulk medication inventory in strategically located warehouses  
-- Provide **24–48 hour delivery** to most pharmacies and healthcare facilities  
-- **Drop‑ship** low‑volume or high‑cost medications directly from the manufacturer or specialty distributor when needed  
-- Support emergency, overnight, and temperature‑controlled shipments  
-
-Their scale and infrastructure reduce costs for pharmacies and ensure consistent access to medications across the country.
-
-> wholesalers account for >75% of manufacturer sales
-
-##### 🦅 340B Program Impact
-
-The **340B Drug Pricing Program** limits the price that safety‑net providers pay for outpatient drugs purchased through wholesalers. Eligible entities include:
-
-- Medicaid‑funded clinics  
-- Federally Qualified Health Centers (FQHCs)  
-- Ryan White clinics  
-- Certain qualifying hospitals (e.g., disproportionate share hospitals)
-
-These organizations receive **significantly discounted pricing**, enabling them to stretch federal resources and expand patient services.
-
-> The [340B](./law/healthcare.md#-public-health-service-act-phsa-1944-340b-in-1992) program ensures that vulnerable populations receive affordable access to essential medications while maintaining compliance through wholesalers and manufacturers.
-
-#### 🏭 Suppliers
-
-There are 3 main types of supplier: drug manufacturers, specialty pharmacies, and compounding pharmacies. All of them order raw materials or finished goods (like (in)active ingredients) to produce their goods. However, each one exists for a different scale of care.
-
-- **Drug Manufacturers** package medication in standard dosage forms for mass distribution; for purchasing drugs not available through wholesalers due to the expense of storage
-- **Specialty Pharmacies** focus on providing high-cost, complex medications and specialized services to patients with chronic conditions (exclusive access)
-- **Compounding Pharmacies** customize medications on a patient-specific basis, often mixing, combining, or altering existing drugs to meet individual needs
-
-#### Central Fill
-
-Central Fill locations are off-site locations that assist with the preparation of prescriptions. Readied product is delivered to the pharmacy that dispenses the drug to the patient. This saves technician hours and floor space to allow the pharmacy to run efficiently.
-
-### 🧾 The Ordering Process
-
-Pharmacies generate daily medication orders using several methods, depending on their workflow and vendor systems:
-
-- **Order entry devices** (handheld scanners, automated cabinets, or dedicated terminals)  
-- **Electronic wholesaler portals or websites**  
-- **Direct interfaces with the pharmacy’s inventory management system**
-
-> 🦅x🔐 `DEA Form 222` is required for ordering Schedule II drugs via [CSOS](https://www.deaecom.gov) by FDA & DEA registered entities.
->
-> See the 🔗 [PDMA](./law/fda_fdca.md#prescription-drug-marketing-act-pdma-1987) for regulations on manufacturer & wholesaler activities.
-
-Technicians select the product, enter the required quantity, and add each item to the **daily order queue**. At the end of the day, the order is transmitted to the supplier.
-
-> Good Ordering Practices separate personnel for ordering & receiving
-
-#### 📦 Purchase Orders & Confirmations
-
-Once submitted, the system creates a **purchase order (PO) number**, which:
-
-- Uniquely identifies the shipment  
-- Acts as a receipt for both the pharmacy and the supplier  
-- Allows tracking, reconciliation, and verification during receiving  
-
-Suppliers then send **order confirmations**, which specify:
-
-- Which items will be shipped  
-- Any items that are unavailable  
-- Updated pricing or contract costs  
-- Expected delivery timelines
-
-### Handling Shortages
-
-`Always communicate **shortages or backorders** to the PIC or coordinator`
-
-Monitoring the **market availability** of medications is essential. Drug shortages may be caused by:
-
-- Manufacturing or quality‑control issues  
-- Raw material shortages  
-- Product recalls  
-- Shortages of therapeutic equivalents
-
-> [FDA Drug Shortages Database](https://www.fda.gov/drugs/drug-safety-and-availability/drug-shortages)
-> [FDA List of Extended Use Dates to Assist with Drug Shortages](https://www.fda.gov/drugs/drug-shortages/search-list-extended-use-dates-assist-drug-shortages)
-
-#### Inpatient Provisioning Practices
-
-Technicians may have to obtain product from outside their usual distributors and purchase from:
-
-- a secondary distributor
-- directly from manufacturer
-- compounding pharmacies
-- or a group purchasing organization
-- **otherwise,** the pharmacist may seek non-formulary alternatives that will be unrestricted until the formulary product is available
-
-**Emergency Drug Procurement:** technicians may call other local hospitals to borrow a short-term supply or be asked to order an emergency shipment from wholesalers or manufacturers during shortage
 
 ## 🖐 Receiving
 
