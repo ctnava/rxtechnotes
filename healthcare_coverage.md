@@ -409,12 +409,11 @@ Claims for prescription drugs are typically filed during the process of prescrip
 
 Medication Therapy Management (MTM) is a clinical service provided by pharmacists under Medicare Part D Prescription Drug Plans (PDPs) to optimize drug therapy, reduce risk, and improve therapeutic outcomes. Services may include **Comprehensive Medication Reviews** (CMRs), **Targeted Medication Reviews** (TMRs), & **Disease-state management** (e.g., diabetes, hypertension, hyperlipidemia).
 
-Billed using CPT codes on medical claim forms submitted via:
+`NOTE: CMS-10114 form is used to apply for an NPI`
 
-- CMS-1500 (direct medical billing)
-- CMS-10114 form (MTM reporting to CMS)
+Billed using CPT codes on medical claim forms submitted via CMS-1500.
 
-CMS-10114 Form are required for PDPs offering MTM services and require the following supporting documents:
+Forms are required for PDPs offering MTM services and require the following supporting documents:
 
 - MTM program elements
 - Target populations
