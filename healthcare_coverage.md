@@ -135,7 +135,7 @@ Because these drugs are not stocked, **there may be significant delays** in deli
 
 ### 🤺 Managed Care Programs
 
-Managed care plans are offered by insurers (public and private); structured to control healthcare costs and improve care coordination.
+Managed care plans are offered by insurers (public and private); structured to control healthcare costs and improve care coordination. All of them typically require generic substitution.
 
 | Plan Type | Description | Referrals Needed? | Out-of-Network Coverage? |
 | --- | --- | --- | --- |
