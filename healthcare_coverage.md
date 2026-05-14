@@ -151,10 +151,10 @@ The main way they differ is whether or not they:
 
 | Plan Type | Description | PCP Requirement | Out-of-Network Coverage |
 | --- | --- | --- | --- |
-| 🟦 **HMO** (Health Maintenance Organization) | Most Restrictive (PCP Gatekeeping); Lowest Cost | ✅ Yes | ❌ No (emergencies only) |
-| 🟪 **EPO** (Exclusive Provider Organization) | Flexible; Affordable (Lower Administrative Cost) | ❌ No | ❌ No (emergencies only) |
-| 🟨 **POS** (Point of Service) | Flexible; Expensive (Higher Administrative Cost) | ✅ Yes | ✅ Yes (partial coverage) |
-| 🟧 **PPO** (Preferred Provider Organization) | Most flexible; Highest Cost | ❌ No | ✅ Yes (partial coverage) |
+| 🟦 **HMO** (Health Maintenance Organization) | **HMOs keeps you Home**; Most Restrictive (PCP Gatekeeping), Lowest Cost | ✅ Yes | ❌ No (emergencies only) |
+| 🟪 **EPO** (Exclusive Provider Organization) | **Exclusive Picks Only**; Flexible, Affordable (Lower Administrative Cost) | ❌ No | ❌ No (emergencies only) |
+| 🟨 **POS** (Point of Service) | **Physicians Offer Service**; Flexible, Expensive (Higher Administrative Cost) | ✅ Yes | ✅ Yes (partial coverage) |
+| 🟧 **PPO** (Preferred Provider Organization) | **Patients Pick the Office**; Most flexible, Highest Cost | ❌ No | ✅ Yes (partial coverage) |
 
 > 🛡️ Check insurance cards or PBM portals for plan types. Copays are often tiered based on drug cost.
 
