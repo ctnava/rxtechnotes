@@ -63,6 +63,47 @@ Medicare is the primary payer; Medi-Cal acts as secondary, covering:
 
 ---
 
+## Workers' Compensation
+
+Workers’ compensation is a **state‑mandated insurance system** that provides medical care and wage replacement for employees who are **injured or become ill due to their job**. Each state runs its own program, but the core pharmacy workflow is consistent across the country.
+
+### 🧩 What Workers’ Comp Covers
+
+- **Work‑related injuries** (acute injuries, accidents)
+- **Occupational illnesses** (e.g., chemical exposure, repetitive‑strain injuries)
+- **Medications** related to the accepted injury or condition  
+  > Claims must match the **diagnosis code** tied to the injury.
+
+### 📝 How Claims Are Processed
+
+`PBMs may administer workers' compensation prescription drug benefits`
+
+- Claims must be **reported to a state workers’ compensation board**, which authorizes benefits.
+- Prescriptions are billed to:
+  - The **state bureau of workers’ compensation**, or  
+  - The **employer**, if they are **self‑insured**
+- Many states use **PBMs that specialize in workers’ comp**, such as Optum or Mitchell, to manage drug benefits.
+- Billing may be:
+  - **Online adjudication** (most common), or  
+  - **Paper claims** when electronic systems aren’t available
+
+### 💊 Pharmacy Tech Responsibilities
+
+- Verify:
+  - **Claim number**
+  - **Date of injury (DOI)**
+  - **Employer information**
+  - **Adjuster or case manager contact**
+- Ensure the medication is **related to the injury**; unrelated meds will reject.
+- Follow state‑specific **formularies** and **fee schedules**.
+- Document everything clearly—workers’ comp audits are strict.
+
+### ⚠️ Tech Tip
+
+Workers’ comp claims often reject for **mismatched injury codes**, **expired authorizations**, or **incorrect employer information**. Always double‑check claim details before processing.
+
+---
+
 ## 🦾 Military Health Coverage: VA, TRICARE, & CHAMPVA
 
 In addition to private and public insurance plans, some patients receive prescription drug coverage through programs specifically for military personnel, veterans, and their families. These programs include VA, TRICARE, and CHAMPVA. Each has unique eligibility rules, formularies, and pharmacy networks.
