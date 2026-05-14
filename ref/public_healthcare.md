@@ -7,6 +7,8 @@ The ***Social Security Act Amendments (1965)*** created the Medicare and Medicai
 - **Medicaid**: A joint federal-state program providing health coverage to low-income individuals; operating as HMOs.
 - **Medicare**: A federal health insurance program for people aged 65+, individuals with certain disabilities, and patients with End-Stage Renal Disease (ESRD); operating as HMOs unless the customer elects to enroll in Medicare Part C where it may act as an HMO or PPO offered by private insurers.
 
+`Both administered by the Centers for Medicare & Medicaid Services (CMS)`
+
 These programs laid the foundation for future pharmacy regulations that affect how medications are dispensed and monitored, especially for public health insurance recipients.
 
 | Part | Nickname | 📝 What It Covers | 💰 Costs | 💊 Notes |
@@ -14,7 +16,7 @@ These programs laid the foundation for future pharmacy regulations that affect h
 | 🅰️ | Hospital Insurance | Inpatient hospital care, skilled nursing, hospice, home health | Usually "free" if worked 10+ years (payroll taxes) | Deductibles & coinsurance apply |
 | 🅱️ | Medical Insurance | Doctor visits, outpatient services, preventive care, DME | Monthly premium, deductible,  20% coinsurance after deductible, unless supplemental coverage (e.g., Medigap) applies | Optional; Penalty applies if not enrolled when first eligible and not covered by other creditable drug coverage. |
 | 🅲 | Medicare Advantage | Combines A & B (and usually D), run by private insurers | Varies by plan | May offer dental, vision, hearing, gym |
-| 🅳 | Prescription Drug | Outpatient prescription drugs | Monthly premium, deductible, copays | Private plans available; penalty for late enrollment; Established by the MMA (2003) |
+| 🅳 | Medicare Prescription Drug Plan | Outpatient prescription drugs & Medication Therapy Management (MTM) services | Monthly premium, deductible, copays | Private plans available; penalty for late enrollment; Established by the MMA (2003) |
 
 > 🤯 The ***Patient Protection & Affordable Care Act (Obamacare, 2010)*** was signed into law with the overall goals of improving patient care, quality, and outcomes while reducing cost.
 
@@ -31,7 +33,9 @@ The “donut hole” is a temporary limit on what Medicare Part D will pay for p
 
 > 💊 For techs: Patients in the donut hole may suddenly pay more—watch for confusion or frustration and refer to the pharmacist.
 
-## 🏥 Medi-Cal (California Medicaid)
+### 🏥 State Medicaid Programs
+
+Each Medicaid program is administered by individual states with their own formularies, that answer to CMS.
 
 Medi-Cal is California’s Medicaid program, providing free or low-cost health coverage for:
 
@@ -44,7 +48,7 @@ It covers a wide range of services like doctor visits, hospital care, mental hea
 
 > 💊 Pharmacy Tech Tip: Medi-Cal often uses a state drug formulary and may require Treatment Authorization Requests (TARs) for non-preferred or high-cost medications, especially those not on the state’s formulary.
 
-### 🩺 Medi-Medi (Dual Eligibility)
+#### 🩺 Medi-Medi (Dual Eligibility)
 
 A “Medi-Medi” patient is eligible for both Medicare and Medi-Cal.
 
@@ -70,7 +74,7 @@ The VA provides healthcare (including prescriptions) to eligible veterans throug
 - Outside pharmacies generally cannot bill the VA unless under special arrangements.
 - Copayments are based on priority group, income level, and whether the condition is service-connected.
 
-> 💊 **Tech Tip**: If a patient brings a VA prescription to a retail pharmacy, it likely won’t be covered—refer them back to the VA system unless there’s a special authorization.
+> 💊 **Tech Tip**: If a patient brings a VA prescription to a retail pharmacy, it likely won’t be covered; refer them back to the VA system unless there’s a special authorization.
 
 ### 🔺 TRICARE
 
