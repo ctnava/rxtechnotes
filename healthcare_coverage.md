@@ -529,6 +529,7 @@ Insurance companies may be called to check eligibility, run test claims, & ask f
 | 25 | Invalid Birth Date | Verify with patient |
 | 26 | Invalid Person Code | Confirm patient relationship |
 | 41 | Invalid Cardholder ID | Correct insurance info |
+| XX | Refill Not Covered | Mail Order Pharmacy may be required; override if emergency |
 
 > 📌 Always confirm the BIN/PCN/ID from the most recent insurance card. These fields determine where the claim is sent.
 
