@@ -165,6 +165,8 @@ Understanding how prescriptions are priced and reimbursed is essential for pharm
 
 ### Reimbursement
 
+Reimbursement rates are not equal to the retail price normally charged, but determined by a formula described in a contract between the insurer and pharmacy.
+
 As a cost-containment strategy, insurers will pay the lowest of:
 
 - **Maximum Allowable Cost (MAC)** is the maximum reimbursable amount that a PBM will set for a generic drug or group of equivalent drugs. If a pharmacy’s acquisition cost exceeds the MAC, it may lose money on the transaction unless it charges the patient the difference.
