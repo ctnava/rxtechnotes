@@ -25,6 +25,7 @@ Once **enrolled** in a **managed care plan**, patients are typically responsible
 | 💳 **Deductible** | The amount a patient pays **out of pocket** before coverage begins. | May be waived for preventive services or some generic drugs. |
 | 🏥 **Managed Care Plan** | A structured healthcare plan that limits costs by controlling how patients receive care. | Includes HMOs, PPOs, POS, and EPOs. Emphasizes coordination and efficiency. |
 | 💸 **Copayment (Copay)** | A **fixed amount** (e.g., \$10 or \$50) paid for a service or medication when received. | Typically varies by drug tier or service level. |
+| 💸💸 **Dual/ Tiered Copay** | co-pays that have two or more prices; separated into tiers | Typically one for brand and generic; may have more |
 | 📊 **Coinsurance** | A **percentage** of the cost paid by the patient after deductible is met (e.g., 20%). | Common for expensive procedures or specialty medications. |
 | ⛔ **Out-of-Pocket Maximum (OOP Max)** | The **maximum total** a patient will pay in a year (including deductible, copays, coinsurance but not including premiums). | After this, insurance pays **100%** for covered services. |
 
@@ -178,6 +179,8 @@ Understanding how prescriptions are priced and reimbursed is essential for pharm
 ### Reimbursement
 
 Reimbursement rates are not equal to the retail price normally charged, but determined by a formula described in a contract between the insurer and pharmacy.
+
+Most PBMs still mail checks to pharmacies (or their accounts receivable departments) at regular intervals along with listings of prescriptions covered and not covered.
 
 As a cost-containment strategy, insurers will pay the lowest of:
 
