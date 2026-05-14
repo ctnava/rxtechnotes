@@ -135,16 +135,26 @@ Because these drugs are not stocked, **there may be significant delays** in deli
 
 ### 🤺 Managed Care Programs
 
-Managed care plans are offered by insurers (public and private); structured to control healthcare costs and improve care coordination. All of them typically require generic substitution.
+Managed care plans are offered by insurers (public and private); structured to control healthcare costs and improve care coordination.
 
-`NOTE: Many Managed care health programs require mail order pharmacies to fill maintenance medications`
+- All of them typically require generic substitution
+- Many require or incentivize mail‑order pharmacies for maintenance medications
 
-| Plan Type | Description | In-Network PCP Required? | Referrals Needed? | Out-of-Network Coverage? |
+The main way they differ is whether or not they:
+
+- require an in-network **Primary Care Provider (PCP)**
+  - provides general care
+  - **coordinates referrals** to in-network specialists are written as needed
+  - if not required, patients may see specialists at their discretion
+- Offer Out-of-Network Coverage
+  - biggest cost driver for plans
+
+| Plan Type | Description | PCP Requirement | Out-of-Network Coverage |
 | --- | --- | --- | --- |
-| 🟦 **HMO** (Health Maintenance Organization) | Most restrictive. Care is coordinated by a Primary Care Provider (PCP). | ✅ Yes | ✅ Yes | ❌ No (emergencies only) |
-| 🟧 **PPO** (Preferred Provider Organization) | Flexible. No referrals. Higher cost for out-of-network care. | ❌ No | ❌ No | ✅ Yes (higher cost) |
-| 🟨 **POS** (Point of Service) | Hybrid of HMO & PPO. Requires in-network PCP and referrals. | ✅ Yes | ✅ Yes | ✅ Yes (higher cost) |
-| 🟪 **EPO** (Exclusive Provider Organization) | Like an HMO but no referrals. No out-of-network coverage. | ❌ No | ❌ No | ❌ No (emergencies only) |
+| 🟦 **HMO** (Health Maintenance Organization) | Most Restrictive (PCP Gatekeeping); Lowest Cost | ✅ Yes | ❌ No (emergencies only) |
+| 🟪 **EPO** (Exclusive Provider Organization) | Flexible; Affordable (Lower Administrative Cost) | ❌ No | ❌ No (emergencies only) |
+| 🟨 **POS** (Point of Service) | Flexible; Expensive (Higher Administrative Cost) | ✅ Yes | ✅ Yes (partial coverage) |
+| 🟧 **PPO** (Preferred Provider Organization) | Most flexible; Highest Cost | ❌ No | ✅ Yes (partial coverage) |
 
 > 🛡️ Check insurance cards or PBM portals for plan types. Copays are often tiered based on drug cost.
 
