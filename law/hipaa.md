@@ -157,6 +157,7 @@ Historically, records were maintained in **paper charts and folders**. Today, mo
 - **Minimum Necessary Rule**: Disclose only the least amount of PHI required for the purpose; keeping disclosures on a “need to know” basis and gathering the minimum amount of data.
 - **Authorization Required**: For marketing, research, or sharing with third parties not involved in TPO.
 - **National Provider Identifier**: A 10-digit, unique ID assigned to each covered provider. Required on all HIPAA-compliant transactions.
+  - Form **CMS-10114** is used to apply for an NPI
 
 #### 🧾 Release of Information (ROI)
 
