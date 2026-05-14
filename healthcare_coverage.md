@@ -137,6 +137,8 @@ Because these drugs are not stocked, **there may be significant delays** in deli
 
 Managed care plans are offered by insurers (public and private); structured to control healthcare costs and improve care coordination. All of them typically require generic substitution.
 
+`NOTE: Many Managed care health programs require mail order pharmacies to fill maintenance medications`
+
 | Plan Type | Description | Referrals Needed? | Out-of-Network Coverage? |
 | --- | --- | --- | --- |
 | 🟦 **HMO** (Health Maintenance Organization) | Most restrictive. Requires you to choose a **Primary Care Provider (PCP)** who coordinates all care. | ✅ Yes, for specialists | ❌ No (life-threatening emergencies only) |
@@ -503,6 +505,8 @@ The billing cycle is a real-time loop that occurs every time a prescription is s
 
 #### 🛑 Common Third-Party Rejections & Resolutions
 
+`NOTE: Many insurers have age limitations for children or dependents of the cardholder`
+
 A Third-Party Rejection (TPR) occurs when a prescription claim is denied by the PBM or insurance. These denials are flagged with a reject code and message explaining the issue.
 
 Insurance companies may be called to check eligibility, run test claims, & ask for clarification.
@@ -512,7 +516,7 @@ Insurance companies may be called to check eligibility, run test claims, & ask f
 | 70 | NDC Not Covered | Use formulary drug or request PA |
 | 75 | Prior Authorization Required | Start PA process |
 | 76 | Plan Limitations Exceeded | Check days’ supply, quantity |
-| 79 | Refill Too Soon | Check last fill date or wait to fill |
+| 79 | Refill Too Soon | Check last fill date or wait to fill; 75% of the medication must be consumed before refill |
 | 25 | Invalid Birth Date | Verify with patient |
 | 26 | Invalid Person Code | Confirm patient relationship |
 | 41 | Invalid Cardholder ID | Correct insurance info |
