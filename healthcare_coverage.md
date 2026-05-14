@@ -505,12 +505,14 @@ The billing cycle is a real-time loop that occurs every time a prescription is s
 
 A Third-Party Rejection (TPR) occurs when a prescription claim is denied by the PBM or insurance. These denials are flagged with a reject code and message explaining the issue.
 
+Insurance companies may be called to check eligibility, run test claims, & ask for clarification.
+
 | Reject Code | Reason | Resolution |
 | ------------- | -------- | ------------ |
 | 70 | NDC Not Covered | Use formulary drug or request PA |
 | 75 | Prior Authorization Required | Start PA process |
 | 76 | Plan Limitations Exceeded | Check days’ supply, quantity |
-| 79 | Refill Too Soon | Check last fill date |
+| 79 | Refill Too Soon | Check last fill date or wait to fill |
 | 25 | Invalid Birth Date | Verify with patient |
 | 26 | Invalid Person Code | Confirm patient relationship |
 | 41 | Invalid Cardholder ID | Correct insurance info |
