@@ -8,6 +8,8 @@ The following are required reading for this chapter:
 
 ## 😷 Healthcare Coverage
 
+Third-party programs are simply another party besides the patient or pharmacy that pays for some or all of the cost of medications; an insurer.
+
 Health insurance is a financial agreement where a person or employer pays a **monthly premium** to an insurance company. In exchange, the insurer helps cover medical and prescription costs when care is needed.
 
 Once **enrolled** in a **managed care plan**, patients are typically responsible for:
@@ -28,7 +30,7 @@ Once **enrolled** in a **managed care plan**, patients are typically responsible
 
 ### 💼 Pharmacy Benefit Manager (PBM)
 
-Under these **Managed Care Plans**, drug benefits are managed by PBMs. These are *distinct* entities; meaning that they are third-party companies contracted to service plans on behalf of payers (e.g.insurers, employers, Medicare).
+Under these **Managed Care Plans**, drug benefits are managed by Pharmacy Benefits Managers (PBMs). These are *distinct* entities that administer drug benefits; meaning that they are yet another third-party companies contracted to service plans on behalf of payers (e.g.insurers, employers, Medicare).
 
 | Function | Description |
 | ---------- | ------------- |
