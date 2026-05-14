@@ -11,10 +11,10 @@ These programs laid the foundation for future pharmacy regulations that affect h
 
 | Part | Nickname | 📝 What It Covers | 💰 Costs | 💊 Notes |
 | ------ | ---------- | ------------------- | ---------- | ---------- |
-| 🅰️   | Hospital Insurance | Inpatient hospital care, skilled nursing, hospice, home health | Usually "free" if worked 10+ years (payroll taxes) | Deductibles & coinsurance apply |
-| 🅱️   | Medical Insurance  | Doctor visits, outpatient services, preventive care, DME | Monthly premium, deductible,  20% coinsurance after deductible, unless supplemental coverage (e.g., Medigap) applies | Optional; Penalty applies if not enrolled when first eligible and not covered by other creditable drug coverage. |
-| 🅲   | Medicare Advantage | Combines A & B (and usually D), run by private insurers | Varies by plan | May offer dental, vision, hearing, gym |
-| 🅳   | Prescription Drug | Outpatient prescription drugs | Monthly premium, deductible, copays | Private plans available; penalty for late enrollment; Established by the MMA (2003) |
+| 🅰️ | Hospital Insurance | Inpatient hospital care, skilled nursing, hospice, home health | Usually "free" if worked 10+ years (payroll taxes) | Deductibles & coinsurance apply |
+| 🅱️ | Medical Insurance | Doctor visits, outpatient services, preventive care, DME | Monthly premium, deductible,  20% coinsurance after deductible, unless supplemental coverage (e.g., Medigap) applies | Optional; Penalty applies if not enrolled when first eligible and not covered by other creditable drug coverage. |
+| 🅲 | Medicare Advantage | Combines A & B (and usually D), run by private insurers | Varies by plan | May offer dental, vision, hearing, gym |
+| 🅳 | Prescription Drug | Outpatient prescription drugs | Monthly premium, deductible, copays | Private plans available; penalty for late enrollment; Established by the MMA (2003) |
 
 > 🤯 The ***Patient Protection & Affordable Care Act (Obamacare, 2010)*** was signed into law with the overall goals of improving patient care, quality, and outcomes while reducing cost.
 
@@ -24,7 +24,7 @@ The “donut hole” is a temporary limit on what Medicare Part D will pay for p
 
 | Phase | Description |
 | ------- | ------------- |
-| ✅ **Deductible Phase** | You pay 100% until your deductible is met (if plan has one).                                                                    |
+| ✅ **Deductible Phase** | You pay 100% until your deductible is met (if plan has one). |
 | 💸 **Initial Coverage** | You pay a **copay/coinsurance**; plan pays the rest. Ends when total drug costs (you + plan) hit a threshold (e.g., \~\$5,030). |
 | 🍩 **Coverage Gap ("Donut Hole")** | You pay no more than 25% of the cost for brand-name and generic drugs during the gap (discounts are applied due to manufacturer contributions). |
 | 💯 **Catastrophic Coverage** | After your out-of-pocket costs hit the cap (\~\$8,000), you pay **nothing** or a small coinsurance per prescription. |
