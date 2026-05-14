@@ -35,7 +35,7 @@ The “donut hole” is a temporary limit on what Medicare Part D will pay for p
 
 ### 🏥 State Medicaid Programs
 
-Each Medicaid program is administered by individual states with their own formularies, that answer to CMS.
+Each Medicaid program is administered by individual state welfare departments, with their own formularies, that answer to CMS.
 
 Medi-Cal is California’s Medicaid program, providing free or low-cost health coverage for:
 
