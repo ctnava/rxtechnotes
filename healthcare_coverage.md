@@ -139,12 +139,12 @@ Managed care plans are offered by insurers (public and private); structured to c
 
 `NOTE: Many Managed care health programs require mail order pharmacies to fill maintenance medications`
 
-| Plan Type | Description | Referrals Needed? | Out-of-Network Coverage? |
+| Plan Type | Description | In-Network PCP Required? | Referrals Needed? | Out-of-Network Coverage? |
 | --- | --- | --- | --- |
-| 🟦 **HMO** (Health Maintenance Organization) | Most restrictive. Requires you to choose a **Primary Care Provider (PCP)** who coordinates all care. | ✅ Yes, for specialists | ❌ No (life-threatening emergencies only) |
-| 🟧 **PPO** (Preferred Provider Organization) | Flexible. No need for referrals. Higher cost for out-of-network care. | ❌ No | ✅ Yes (higher cost) |
-| 🟨 **POS** (Point of Service) | Hybrid of HMO & PPO. Requires in-network PCP and referrals, but offers some out-of-network coverage. | ✅ Yes | ✅ Yes (with extra cost) |
-| 🟪 **EPO** (Exclusive Provider Organization) | Like an HMO, but **no referrals required**, still **no out-of-network coverage** (except life-threatening emergencies). | ❌ No | ❌ No |
+| 🟦 **HMO** (Health Maintenance Organization) | Most restrictive. Care is coordinated by a Primary Care Provider (PCP). | ✅ Yes | ✅ Yes | ❌ No (emergencies only) |
+| 🟧 **PPO** (Preferred Provider Organization) | Flexible. No referrals. Higher cost for out-of-network care. | ❌ No | ❌ No | ✅ Yes (higher cost) |
+| 🟨 **POS** (Point of Service) | Hybrid of HMO & PPO. Requires in-network PCP and referrals. | ✅ Yes | ✅ Yes | ✅ Yes (higher cost) |
+| 🟪 **EPO** (Exclusive Provider Organization) | Like an HMO but no referrals. No out-of-network coverage. | ❌ No | ❌ No | ❌ No (emergencies only) |
 
 > 🛡️ Check insurance cards or PBM portals for plan types. Copays are often tiered based on drug cost.
 
