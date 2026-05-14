@@ -61,15 +61,23 @@ Medicare is the primary payer; Medi-Cal acts as secondary, covering:
 
 > 🧠 Watch for “Medi-Medi” flags in patient profiles. These patients usually have no out-of-pocket cost for covered meds and medical care.
 
-## 🦾 Veterans Health Coverage: VA, TRICARE, & CHAMPVA
+## 🦾 Military Health Coverage: VA, TRICARE, & CHAMPVA
 
 In addition to private and public insurance plans, some patients receive prescription drug coverage through programs specifically for military personnel, veterans, and their families. These programs include VA, TRICARE, and CHAMPVA. Each has unique eligibility rules, formularies, and pharmacy networks.
+
+| Program | Who It Covers | Where Prescriptions Are Filled | Notes |
+| ------- | ------------- | ------------------------------ | ----- |
+| **VA** | Enrolled veterans | VA pharmacies or mail-order | Must use VA providers; no outside retail coverage without preapproval |
+| **TRICARE** | Military (active, retired), dependents | Military pharmacies, retail network, mail-order | Express Scripts manages pharmacy benefits |
+| **CHAMPVA** | Dependents of disabled/deceased veterans | Retail pharmacies, Medicare Part D (if eligible) | May require manual claim submission; differs from TRICARE |
+
+> ⚠️ Always verify insurance details for military and veteran patients—coverage rules and pharmacy networks vary significantly between VA, TRICARE, and CHAMPVA.
 
 ### 🇺🇸 VA (U.S. Department of Veterans Affairs)
 
 The VA provides healthcare (including prescriptions) to eligible veterans through VA medical facilities.
 
-- Prescriptions are typically filled at **VA pharmacies** or via VA mail-order.
+- Prescriptions are typically filled at **VA pharmacies** or via VA Consolidated Mail Outpatient Pharmacy (CMOP) Programs
 - The VA has its own **national formulary**, and medications must be prescribed by a **VA provider** to be covered.
 - Outside pharmacies generally cannot bill the VA unless under special arrangements.
 - Copayments are based on priority group, income level, and whether the condition is service-connected.
@@ -112,13 +120,6 @@ Key Points:
 - CHAMPVA covers prescriptions filled at rtail pharmacies; patients who are Medicare-eligible must enroll in Part D to receive outpatient prescription coverage through CHAMPVA.
 - Claims may need to be **submitted manually** if the pharmacy isn’t set up for electronic CHAMPVA billing.
 - CHAMPVA may act as **secondary insurance** if the patient has another plan.
+- **Meds by Mail** is a CHAMPVA program
 
 > 🧠 **Tech Tip**: CHAMPVA patients may carry a special ID card. Verify the plan and check reimbursement procedures. CHAMPVA doesn’t always process like standard insurance.
-
-| Program | Who It Covers | Where Prescriptions Are Filled | Notes |
-| ------- | ------------- | ------------------------------ | ----- |
-| **VA** | Enrolled veterans | VA pharmacies or mail-order | Must use VA providers; no outside retail coverage without preapproval |
-| **TRICARE** | Military (active, retired), dependents | Military pharmacies, retail network, mail-order | Express Scripts manages pharmacy benefits |
-| **CHAMPVA** | Dependents of disabled/deceased veterans | Retail pharmacies, Medicare Part D (if eligible) | May require manual claim submission; differs from TRICARE |
-
-> ⚠️ Always verify insurance details for military and veteran patients—coverage rules and pharmacy networks vary significantly between VA, TRICARE, and CHAMPVA.
