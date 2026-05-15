@@ -26,6 +26,8 @@
   - **Injunctions**: allows the FDA to file injunctions to `recall` & seize products.
   - **Factory Inspections**: gives the FDA the authority to inspect factories to ensure adherence to manufacturing, processing, packaging, & storage standards.
 
+> 🤯 In 1950, Alberty Food Products v. US ruled that the a drug's purpose must be included on its label
+
 ## Durham-Humphrey Amendment (1951)
 
 `defined what drugs require a prescription`
