@@ -23,6 +23,7 @@ The foundational laws of the Food & Drug Administration (FDA).
 | **Title** | **Notes** |
 | ----------- | ----------- |
 | **Pure Food & Drugs Act (1906)** | Prohibited adulterated or misbranded food, drink, & drugs. Required purity standards, truthful labeling, disclosure of dangerous ingredients, and initiated government enforcement. |
+| **Harrison Narcotics Tax Act (1914)** | established licensing and tax requirements for pharmacists, importers, and physicians prescribing narcotics; marks the beginning of federal substance control |
 | **Food, Drug, and Cosmetic Act (FDCA, 1938)** | Established the FDA & framework for enforcement. Required **premarket safety approval** of drugs after **sulfanilamide** deaths. Expanded FDA authority to cosmetics and devices. Required labeling with warnings and directions. |
 | **Durham-Humphrey Amendment (1951)** | Distinguished Rx and OTC drugs. Authorized verbal prescriptions and refills. Required "Rx Only" legend on prescription drugs. |
 | **Kefauver-Harris Amendment (1962)** | Required proof of drug **effectiveness & safety** with FDA pre-approval. Instituted GMP standards and adverse event reporting after thalidomide tragedy. |
