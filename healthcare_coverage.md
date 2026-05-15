@@ -589,7 +589,7 @@ Insurance companies may be called to check eligibility, run test claims, & ask f
 | 70 | NDC Not Covered | Use formulary alternative or request PA |
 | 75 | Prior Authorization Required | Start PA process per plan requirements |
 | 76 | Plan Limitations Exceeded | Verify day supply, quantity, duration; Plan may only cover 30 day fill |
-| 79 | Refill Too Soon | Confirm last fill date; resubmit later (28 day rule or 75% utilization required) |
+| 79 | Refill Too Soon | Confirm last fill date; resubmit later (28 day rule or 75% utilization required), or Justify Early Refill Reason |
 | 25 | Invalid Birth Date | Recheck DOB with patient or insurer |
 | 26 | Invalid Person Code | Confirm relationship to cardholder |
 | 41 | Invalid Cardholder ID | Verify and update insurance information |
