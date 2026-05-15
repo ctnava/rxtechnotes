@@ -43,7 +43,7 @@ flowchart TD
         A["📝 Enroll in Part D Plan</br>Pay Monthly Premiums"]
         DED["💵 Deductible Phase</br>Pay 100% of drug cost until deductible met"]
         ICP["💳 Initial Coverage Phase</br>Copay/Coinsurance until ICL reached"]
-        GAP["🍩 Coverage Gap (Donut Hole)</br>Pay 25% Brand / 25% Generic</br>Manufacturer discount counts toward TrOOP"]
+        GAP["🍩 Coverage Gap (Donut Hole)</br>Pay 25% Brand / 25% Generic</br>Manufacturer discount counts toward True Out-of-Pocket (TrOOP) Maximum"]
         CATA["🛡️ Catastrophic Coverage</br>Pay $0 for covered drugs"]
         RESET["🔄 New Plan Year Begins</br>Deductible & thresholds reset"]
     end
