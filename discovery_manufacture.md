@@ -55,11 +55,15 @@ Step 4: **Review & Approval** (1-2 Years)
 - Pharmaceutical company files a ***New Drug Application (NDA)*** with the FDA
 - FDA reviews for safety, efficacy, and labeling
 - Drug is either approved for marketing (regulated by the Kefauver-Harris Amendment) or denied by the FDA and request further testing
+  - Drugs and/ or its container may not be imitative of another drug so that the consumer will be misled
+  - Tall-Man lettering is encouraged to reduce errors due to look-alike/ sound-alike names
 
 Step 5: **Post-Market Surveillance** (Ongoing)
 
 - Manufacturer maintains exclusive rights (~20 years) to offset research & development cost
 - Continuous monitoring of long-term safety and efficacy after the drug is released to the market
+
+`patents typically last 20 years from the time of filing, therefore drugs are typically released with half of their patent time left; extendable by 5 years due to Hatch-Waxman (1984)`
 
 ### 🏭 Good Manufacturing Practices (GMP)
 
@@ -92,7 +96,9 @@ Step 1: **Bioequivalence Studies**
 During this process, the manufacturer must prove that their drug is both pharmaceutically and therapeutically equivalent because their inactive ingredients have been altered.
 
 - **Pharmaceutically Equivalent Drugs** contain identical amounts of the same active ingredients in the same dosage form.
-- **Therapeutically Equivalent Drugs** produce the same clinical effect.
+- **Therapeutically Equivalent Drugs** produce the same clinical effect; the body's use of the drug is the same
+
+`Evaluations of generic products can be found in the FDA "Orange Book"`
 
 Studies are conducted on a small group of healthy volunteers to compare the generic and brand-name drug's effects on ADME processes. After which, the manufacturer submits an **Abbreviated New Drug Application (ANDA)** to the FDA.
 
@@ -104,11 +110,24 @@ Step 3: **Post-Market Surveillance & Safety Monitoring**
 
 If the ANDA meets FDA requirements, the generic drug is approved for marketing. Generic drugs are also subject to the same post-market safety monitoring as brand name drugs.
 
+### Risk Evaluation & Mitigation Strategies (REMS) Compliance
+
+**Risk Evaluation & Mitigation Strategies (REMS)** are required safety programs for medications with known or potential serious risks that must be managed to ensure that the drug’s benefits outweigh its risks; particularly those that are addictive (e.g. Opioids, Stimulants, Benzodiazepines), hazardous (e.g. Birth Control, Oncologics, Biologics), or understudied (e.g. Gabapentin).
+
+Depending on the drug, a REMS program may include one or more of the following:
+
+- Mandated **Medication guides** or **patient package inserts (PPIs)**
+- Prescriber training and certification requirements
+- Pharmacy certification and restricted dispensing systems
+- Enrollment of patients in registries or special monitoring programs
+
+> **Example**: The drug isotretinoin (Accutane), which can cause severe birth defects, is subject to a REMS program called iPLEDGE that requires prescribers, pharmacies, and patients to follow strict steps before dispensing or receiving the medication.
+
 ## 🏷️ Marketing & Labeling Requirements
 
 Drug manufacturers must label their products accurately and clearly to comply with federal laws and ensure safe use by healthcare providers and patients. Labeling requirements are enforced primarily by the FDA under the FDCA and related legislation.
 
-- 🔗 [Manufacturer Labeling Requirements for Prescription & OTC Drugs](./law/ref/labeling_reqs.md)
+Link to 🔗 [Labeling Requirements for Prescription & OTC Drugs](./law/ref/labeling_reqs.md)
 
 ## 🚚 Distribution
 
