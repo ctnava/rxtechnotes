@@ -13,7 +13,7 @@ These programs laid the foundation for future pharmacy regulations that affect h
 
 ## Omnibus Budget Reconciliation Act (OBRA-90, 1990)
 
-OBRA-90 was a major federal law affecting Medicaid prescription drug programs. It mandates that states receiving federal funds must require pharmacists to:
+OBRA-90 was a major federal law affecting Medicaid & Medicare prescription drug programs. It mandates that states receiving federal funds must require pharmacists to:
 
 - 📄 **Maintain Patient Medication Profiles**: Pharmacies must maintain records `(on-site for a minimum of 2 years)` of a patient’s medication history to support counseling and DUR obligations.
 - 📋 **Conduct DURs**: Evaluate prescriptions to identify adverse effects, therapeutic duplication, drug–disease contraindications, incorrect dosage or duration, allergies, and drug–drug interactions.
@@ -74,7 +74,7 @@ Manufacturers participating in the Medicaid program are required to offer discou
 
 ## Medicare Modernization Act (MMA, 2003)
 
-The MMA established Medicare Part D, a drug benefit program. It sets guidelines for, and relies on, private **Prescription Drug Plans** (PDP) companies to provide prescription drug coverage for eligible individuals, which each have their own formularies.
+The MMA established Medicare Part D, an optional drug benefit program. It sets guidelines for, and relies on, private **Prescription Drug Plans** (PDP) companies to provide prescription drug coverage for eligible individuals, which each have their own formularies.
 
 It also requires pharmacists to provide **Medication Therapy Management (MTM)** services to optimize therapeutic outcomes while minimizing adverse events. MTM is usually targeted toward patients taking multiple chronic medications, especially those with multiple conditions or high drug costs. These include:
 
