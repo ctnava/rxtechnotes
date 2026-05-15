@@ -83,9 +83,20 @@ It is the pharmacy staff’s responsibility to:
 
 ## 🤯 Anabolic Steroid Control Act (1990)
 
-<!-- todo enhance -->
+The **Anabolic Steroid Control Act** was created to address the widespread misuse of anabolic steroids; especially among athletes, bodybuilders, and adolescents. It formally placed anabolic steroids under **Schedule III** of the Controlled Substances Act (CSA), imposing stricter controls on prescribing, dispensing, and recordkeeping.
 
 The Anabolic Steroids Control Act of 1990 added anabolic steroids (like testosterone) to Schedule III of the CSA to address the abuse of steroids by athletes and teenagers
+
+Federal law defines an anabolic steroid as:
+
+> Any drug or hormonal substance chemically and pharmacologically related to testosterone  
+> *(excluding estrogens, progestins, corticosteroids, and DHEA).*
+
+This includes both naturally occurring hormones and synthetic derivatives.
+
+### 🧩 2004 Anabolic Steroid Control Act Expansion
+
+The **2004 amendment** significantly broadened the definition of anabolic steroids to include **prohormones** and **precursor substances** that were being marketed as “supplements” but acted like anabolic steroids in the body (steroid analogs).
 
 ## 🧪 Combat Methamphetamine Epidemic Act (CMEA, 2005)
 

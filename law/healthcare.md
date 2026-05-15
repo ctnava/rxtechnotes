@@ -91,7 +91,9 @@ Technicians assist by preparing medication histories, documentation, and assisti
 
 ## 🤯 Patient Protection & Affordable Care Act (ACA, 2010)
 
-<!-- todo make entry -->
+<!-- todo make enhancements -->
+
+Also known as Obamacare; improves patient care, quality, & outcomes while reducing cost
 
 ---
 
