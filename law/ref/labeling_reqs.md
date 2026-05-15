@@ -1,6 +1,6 @@
 # Labeling Requirements for Prescription & OTC Drugs
 
-## Manufacturer Product Identification & Tracking
+## Manufacturer Stock Labels & Tracking
 
 This section synthesizes key federal statutes and regulations governing how drug manufacturers must label products in the United States. "Labeling" includes **labels, inserts, and promotional materials**. Any manufacturer-originated material is subject to FDA review. This includes rules that apply to both prescription (Rx) and over-the-counter (OTC) drugs.
 
@@ -61,6 +61,8 @@ The NDC is a unique 10- or **11-digit**, 3-segment number that identifies all FD
   - Package: `52`
 
 > 🛡️ Always verify the NDC on **both the primary and secondary packaging** during dispensing. Report discrepancies to a pharmacist immediately.
+> .
+> 🤯 The NATO equivalent is called the NATO Stock Number (NSN)
 
 #### Barcodes & Serialization
 
