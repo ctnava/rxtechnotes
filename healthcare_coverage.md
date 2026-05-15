@@ -265,6 +265,10 @@ Processed through:
 
 ### 👤 Patient Intake & Coordination of Benefits (COB)
 
+Employers sometimes require employees to enroll in their health insurance plan. When two adults in a household have a mutual dependent, that dependent is dual enrolled; creating a need for coordination of benefits.
+
+`Coordination of Benefits provides maximum coverage for health-care expenses through both insurance plans, but does not cover more than 100% of the cost of service.`
+
 Before a prescription can be processed or billed, a patient profile must be created in the pharmacy management system. This includes entering key information that ensures accuracy during claim adjudication and compliance with regulations.
 
 | Term | Meaning |
