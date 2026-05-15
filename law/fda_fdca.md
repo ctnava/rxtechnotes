@@ -6,7 +6,7 @@
 
 - **Upton Sinclair's The Jungle**: exposed unsanitary practices in the meatpacking industry; enacted in response.
 - **Purity Standards**: defined drugs based on the standards of the United States Pharmacopoeia and the National Formulary (USP-NF).
-- **Prohibitions on the Sale of Misbranded or Adultered Food & Drugs in Interstate Commerce**: products cannot be falsely labeled, and their ingredients could not be adulterated or substituted.
+- **Prohibitions on the Sale of Misbranded or Adultered Food, Drink, & Drugs in Interstate Commerce**: products cannot be falsely labeled, and their ingredients could not be adulterated or substituted.
   - `Adulteration`: Contanimation or failure to meet purity & quality standards.
   - `Misbranding`: Including false, inaccurate, improper, or confusing labeling or if the product is harmful when used according to label directions.
 - **Labeling Requirements**: mandates truthfulness & disclosure of the presence and amount of dangerous ingredients
