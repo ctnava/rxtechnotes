@@ -29,6 +29,100 @@ Once **enrolled** in a **managed care plan**, patients are typically responsible
 | 📊 **Coinsurance** | A **percentage** of the cost paid by the patient after deductible is met (e.g., 20%). | Common for expensive procedures or specialty medications. |
 | ⛔ **Out-of-Pocket Maximum (OOP Max)** | The **maximum total** a patient will pay in a year (including deductible, copays, coinsurance but not including premiums). | After this, insurance pays **100%** for covered services. |
 
+```mermaid
+flowchart TD
+
+    %% ============================================================
+    %% SWIMLANES (subgraphs)
+    %% ============================================================
+    subgraph P["👤 Patient"]
+        A["📝 Enroll in Insurance Plan"]
+        B["💸 Pay Monthly Premiums"]
+        C["💵 Deductible Stage: </br> Pay 100% of Cost for Prescription Drugs,Medical Supplies, & Services Rendered Until Annual Deductible is Met"]
+        D["💳 Cost Sharing Stage: </br> Copayments or Coinsurance"]
+        E["📈 Full Coverage Stage: </br> Out-of-Pocket Maximum Reached; Triggers 100% Coverage for Remainder of Year"]
+    end
+
+    subgraph H["🏥 Healthcare Providers"]
+        H1["🩺 Provide Medical Services"]
+        H2["💰 Collect Copays/Coinsurance"]
+        H3["📤 Submit Claim to Insurer"]
+        H4["📥 Receive Payment from Insurer"]
+    end
+
+    subgraph I["🏦 Insurer"]
+        I1["💼 Receive Monthly Premiums"]
+        I2["📘 Apply Deductible Rules"]
+        I3["🧾 Process Claims"]
+        I4["💵 Pay Provider After Deductible + Cost Sharing"]
+    end
+
+    %% ============================================================
+    %% FLOWS
+    %% ============================================================
+    A --> B --> C --> D --> E -- "<span style='background:#cfe2ff; padding:2px 6px; border-radius:4px;'>🔄 New Plan Year Begins - Deductible Resets</span>" --> B
+
+    H1 --> H2 --> H3 --> H4
+
+    I1 --> I2 --> I3 --> I4
+
+    %% ============================================================
+    %% CROSS‑LANE INTERACTIONS (ORANGE)
+    %% ============================================================
+    B -- "<span style='background:#ff7a00; padding:2px 6px; border-radius:4px;'>Premium Payment</span>" --> I1
+    C -- "<span style='background:#ff7a00; padding:2px 6px; border-radius:4px;'>Patient Pays Full Cost Until Deductible Met</span>" --> H2
+    D -- "<span style='background:#ff7a00; padding:2px 6px; border-radius:4px;'>Copay/Coinsurance</span>" --> H2
+    H3 -- "<span style='background:#ff7a00; padding:2px 6px; border-radius:4px;'>Claim Submission</span>" --> I3
+    I4 -- "<span style='background:#ff7a00; padding:2px 6px; border-radius:4px;'>Insurer Payment</span>" --> H4
+
+    %% ============================================================
+    %% NODE COLOR CLASSES
+    %% ============================================================
+    classDef patient fill:#cfe2ff,stroke:#2b6cb0,color:#000
+    classDef provider fill:#d4f8d4,stroke:#2f855a,color:#000
+    classDef insurer fill:#e9d8fd,stroke:#553c9a,color:#000
+
+    class A,B,C,D,E,F,R patient
+    class H1,H2,H3,H4 provider
+    class I1,I2,I3,I4,I5 insurer
+
+    %% ============================================================
+    %% SWIMLANE SHADING
+    %% ============================================================
+    style P fill:#eef5ff,stroke:#2b6cb0,color:#000
+    style H fill:#e8ffe8,stroke:#2f855a,color:#000
+    style I fill:#f4e8ff,stroke:#553c9a,color:#000
+
+    %% ============================================================
+    %% ARROW COLORS
+    %% ============================================================
+
+    %% Patient lane arrows → BLUE
+    linkStyle 0 stroke:#2b6cb0,stroke-width:2px,color:#2b6cb0
+    linkStyle 1 stroke:#2b6cb0,stroke-width:2px,color:#2b6cb0
+    linkStyle 2 stroke:#2b6cb0,stroke-width:2px,color:#2b6cb0
+    linkStyle 3 stroke:#2b6cb0,stroke-width:2px,color:#2b6cb0
+    linkStyle 4 stroke:#2b6cb0,stroke-width:2px,color:#2b6cb0
+
+    %% Provider lane arrows → FOREST GREEN
+    linkStyle 5 stroke:#2f855a,stroke-width:2px,color:#2f855a
+    linkStyle 6 stroke:#2f855a,stroke-width:2px,color:#2f855a
+    linkStyle 7 stroke:#2f855a,stroke-width:2px,color:#2f855a
+
+    %% Insurer lane arrows → CONCORD GRAPE PURPLE
+    linkStyle 8 stroke:#553c9a,stroke-width:2px,color:#553c9a
+    linkStyle 9 stroke:#553c9a,stroke-width:2px,color:#553c9a
+    linkStyle 10 stroke:#553c9a,stroke-width:2px,color:#553c9a
+
+    %% Cross‑lane interactions → BRIGHT ORANGE
+    linkStyle 11 stroke:#ff7a00,stroke-width:2px,color:#ff7a00
+    linkStyle 12 stroke:#ff7a00,stroke-width:2px,color:#ff7a00
+    linkStyle 13 stroke:#ff7a00,stroke-width:2px,color:#ff7a00
+    linkStyle 14 stroke:#ff7a00,stroke-width:2px,color:#ff7a00
+    linkStyle 15 stroke:#ff7a00,stroke-width:2px,color:#ff7a00
+
+```
+
 ### 💼 Pharmacy Benefit Manager (PBM)
 
 Under these **Managed Care Plans**, drug benefits are managed by Pharmacy Benefits Managers (PBMs). These are *distinct* entities that administer drug benefits; meaning that they are yet another third-party companies contracted to service plans on behalf of payers (e.g.insurers, employers, Medicare).
