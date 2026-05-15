@@ -82,7 +82,7 @@
 - [x] Gowning SOP
 - [x] Math: Chapter 23 - Parenteral Ratios & Proportions
 - [ ] Reading: Chapter 4 - Information Sources
-- [ ] Reading: Chapter 15 - Financial Issues (QUICK)
+- [X] Reading: Chapter 15 - Financial Issues (QUICK)
 - [x] [Syringes Video](https://www.youtube.com/watch?v=b4Y2qE4ZgvE)
 - [x] IV Solutions
 
