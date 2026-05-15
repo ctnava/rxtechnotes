@@ -48,6 +48,7 @@
   - 🤯 Thalidomide is now FDA-approved for treating multiple myeloma and leprosy. Use requires strict risk acknowledgment from both men and women.
 - **Pre-Marketing Approval**: requires pre-marketing approval from the FDA before a drug could be marketed; must be proven **safe & effective**
 - **Good Manufacturing Practices (GMP)**: formalizes guidelines for how drugs are manufactured, processed, packaged, and held to ensure they meet quality standards.
+- **Informed Consent**: required by research subjects in clinical investigations
 - **Adverse Event Reporting**: requires that adverse events reported during clinical trials be reported to the FDA.
 
 ## 🤯 Medical Device Amendments (1951)
