@@ -6,9 +6,9 @@ This section synthesizes key federal statutes and regulations governing how drug
 
 🦅 **Federal Law Overview**:
 
-- 🔗 **FDC, FDCA, & Amendments** (🔗 [Link To](../law/fda_fdca.md))
-- 🔗 **Extended Packaging & Labeling Policy** (🔗 [Link To](../law/packaging_labeling.md))
-- 🔗 **Controlled Substance Policy** (🔗 [Link To](../law/csa_cmea.md))
+- 🔗 **FDC, FDCA, & Amendments** (🔗 [Link To](../fda_fdca.md))
+- 🔗 **Extended Packaging & Labeling Policy** (🔗 [Link To](../packaging_labeling.md))
+- 🔗 **Controlled Substance Policy** (🔗 [Link To](../csa_cmea.md))
 
 ### 🏷️ Package Label Requirements
 
