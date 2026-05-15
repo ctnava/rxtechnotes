@@ -81,13 +81,15 @@ While not government entities, these professional organizations shape pharmacy s
 
 #### Facility Committees
 
-<!-- todo enhance -->
+Hospitals use **interdisciplinary committees** to maintain safety, quality, and regulatory compliance. These groups create policies that directly shape pharmacy workflows.
 
-Institutions form committees
-
-- Internal Review Board (IRB): committee that assures compliance with federal, facility, and ethical standards
-- Infection Control Committee: committee in charge of surveillance, prevention, and control of infgection within the hospital
-- Pharmacy & Therapeutics Committee (P&T): ensure that the formulary supports **safe, effective, and cost-conscious medication use**.
+- **Internal Review Board (IRB)** — Ensures research involving human subjects meets ethical and regulatory standards; governs investigational drug protocols.
+- **Infection Control Committee** — Monitors and prevents hospital‑acquired infections; collaborates on sterile compounding and PPE policies.
+- **Pharmacy & Therapeutics (P&T) Committee** — Manages the formulary and medication‑use policies; evaluates safety, efficacy, and cost‑effectiveness.
+- **Quality Improvement (QI) Committee** — Reviews incidents and near‑misses; drives system‑level improvements and compliance with TJC/CMS standards.
+- **Safety Committee** — Oversees environmental and occupational safety, including hazardous drug handling and emergency preparedness.
+- **Medication Safety Committee** — Focuses on preventing medication errors; implements ISMP best practices and standardizes medication workflows.
+- **Antimicrobial Stewardship Committee (ASC)** — Optimizes antibiotic use; develops guidelines to reduce resistance and improve outcomes.
 
 ### ⚖️ Court of Law
 
