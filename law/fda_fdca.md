@@ -62,7 +62,7 @@
 ## 🤯 Orphan Drug Act (1983)
 
 - **Orphan Drug Designation**: defined as drugs intended to treat a rare disease or condition, or if there's no reasonable expectation that the drug's development costs will be recovered through sales.
-- **Incentives for Development**
+- **Incentives for Development, Approval, & Marketing**
   - **Tax Credits**: A 25% tax credit for clinical trials of orphan drug
   - **Extended Market Exclusivity**: A seven-year period of exclusive marketing rights.
   - **Federal Funding & Grants**
