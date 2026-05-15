@@ -1,6 +1,6 @@
-# Manufacturer Labeling Requirements for Prescription & OTC Drugs
+# Labeling Requirements for Prescription & OTC Drugs
 
-## Identification & Tracking
+## Manufacturer Product Identification & Tracking
 
 This section synthesizes key federal statutes and regulations governing how drug manufacturers must label products in the United States. "Labeling" includes **labels, inserts, and promotional materials**. Any manufacturer-originated material is subject to FDA review. This includes rules that apply to both prescription (Rx) and over-the-counter (OTC) drugs.
 
