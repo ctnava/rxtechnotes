@@ -42,6 +42,8 @@ Once privacy documentation is complete, create the patient profile in the **phar
 
 ## 💳 Insurance & Billing Information
 
+Patients with prescription drug benefits through private healthcare plans are often issued **separate Prescription Drugs Benefits Cards** for billing.
+
 Enter all pharmacy benefit data **exactly as it appears** on the insurance card. Use the **member name and sex as printed**, even if different from government-issued identification documents, to prevent claim rejection during adjudication.
 
 > ⚠️ Always use the **most recent** card. Outdated info results in Third Party Rejections.

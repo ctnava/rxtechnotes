@@ -157,7 +157,7 @@ The main way they differ is whether or not they:
 | 🟨 **POS** (Point of Service) | **PCPs Offer Service**; Flexible, Expensive (Higher Administrative Cost) | ✅ Yes | ✅ Yes (partial coverage) |
 | 🟧 **PPO** (Preferred Provider Organization) | **Patients Pick the Office**; Most flexible, Highest Cost | ❌ No | ✅ Yes (partial coverage) |
 
-> 🛡️ Check insurance cards or PBM portals for plan types. Copays are often tiered based on drug cost.
+> 🛡️ Check insurance cards or PBM portals for plan types. Copays are often tiered based on drug cost. **Keep in mind this is sometimes a separate card for prescription benefits only**.
 
 ### Public Health Coverage & Assistance
 
@@ -410,7 +410,7 @@ Common MTM services that pharmacies can bill through these platforms include:
   - Medication adherence  
   - Education on new or high‑risk medications  
   - Monitoring requirements (e.g., labs, side effects)  
-  - Chronic disease management support
+  - Chronic disease management support for chronic conditions
 
 #### 📄 Paper Claims
 
