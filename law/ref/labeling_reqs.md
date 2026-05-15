@@ -21,11 +21,11 @@ This section synthesizes key federal statutes and regulations governing how drug
 | **National Drug Code (NDC)** | FDA-assigned **11-digit** code identifying manufacturer, drug, and package; sometimes includes NATO Stock Number (NSN) for NATO countries | 🦅 FDCA §510; 21 CFR §207.35 |
 | **"Rx Only" Designation** (conditional) | Required on prescription-only drugs | 🦅 FDCA §503(b)(4) (as amended by FDA Modernization Act of 1997) |
 | 🔐 **Controlled Substance Schedule** (If applicable) | DEA Schedule I–V must be shown | 🦅 21 CFR §1302.04; CSA (21 USC §825) |
-| 🔐 **DEA Order Form Requirement** (if applicable) | Controlled substances have special ordering requirements | TBA |
+| 🔐 **DEA Order Form Requirement** (if applicable) | Schedule II drugs require **DEA Form 222** or **CSOS** for ordering | 🦅 CSA 21 USC §828; 21 CFR §1305 |
 | **Intended Use & Directions** | Declaration of intended use & directions; including recommended dosage and frequency, where applicable. | 🦅 FDCA §502(f); 21 CFR §201.5 |
 | **Warnings** | Required safety warnings including contraindications, adverse effects, storage, and Black Box Warnings if applicable | 🦅 FDCA §502(f); 21 CFR §201.57 (Rx); 21 CFR §201.66 (OTC) |
-| **Storage Requirements** | To prevent degredation during storage | TBA |
-| **Dispensing Container Required** (conditional) | To prevent degredation within consumption window after dispensing | TBA |
+| **Storage Requirements** | Storage conditions to prevent degradation (e.g., temperature, humidity, light) | 🦅 21 CFR §201.18; 21 CFR §211.142 |
+| **Dispensing Container Required** (conditional) | Must be dispensed in a container that preserves stability within the labeled use period | 🦅 21 CFR §211.94; USP <659> Packaging & Storage |
 | **Manufacturer Info** | Name, business address, and phone number of the manufacturer, packer, or distributor | 🦅 FDCA §502(b); 21 CFR §201.1 |
 | **Batch/ Lot Number** | A unique identifier for the production batch to facilitate tracking and recalls if necessary | 🦅 21 CFR §211.130(e); §211.137 |
 | **Manufacture & Expiration Dates** | date of manufacture and the expiration or “use by” date to ensure drug potency and safety | 🦅 21 CFR §211.130(e); §211.137 |
