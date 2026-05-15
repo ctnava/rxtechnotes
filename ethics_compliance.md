@@ -36,9 +36,9 @@ Some basic values in ethical considerations include:
 
 All pharmacy personnel must comply with **federal and state laws**, under the supervision of a licensed pharmacist. Violations by technicians can also result in disciplinary actions for the supervising pharmacist.
 
-- **Federal laws** are passed by Congress and apply nationwide.
+- **Federal laws** are passed by Congress and apply nationwide; provides the foundation for state laws
 - **State laws** are passed by individual legislatures and apply within their borders.
-- `If laws conflict, the stricter law must be followed.`
+- `If laws overlap or conflict, the stricter law must be followed.`
 
 > 🦅 Federal law protects the patient's right to file complaints.
 
@@ -59,14 +59,14 @@ All pharmacy personnel must comply with **federal and state laws**, under the su
   - oversees hospitals (including the pharmacy department)
   - assures compliance with hospital practice standards
 - **Board of Pharmacy (BOP)**
-  - Licensing pharmacists and pharmacy technicians
-  - Enforcing state-specific pharmacy regulations
+  - Licensing Prescribers & Dispensers (Pharmacists & Technicians)
+  - Administering state-specific pharmacy regulations
   - Granting limited prescribing rights to certain non-physician healthcare providers (e.g., NPs, PAs, pharmacists)
   - [🔗 Prescriptive Authority Quick Reference](./ref/prescribers.md)
 
 #### Non-Government Organizations (NGOs)
 
-While not government entities, these organizations shape pharmacy standards:
+While not government entities, these professional organizations shape pharmacy standards, some of which are encoded into law:
 
 - **American Society of Health-System Pharmacists (ASHP)**: Accredits pharmacy residencies and training programs; has model curriculum for technician training
 - **The Joint Commission (TJC or J-Co)**: A non-profit that establishes standards & monitors compliance for healthcare programs in the US. TJC-accredited programs include hospitals, healthcare networks, HMOs, & nursing homes.
