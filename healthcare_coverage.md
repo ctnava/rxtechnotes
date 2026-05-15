@@ -524,6 +524,8 @@ Common scenarios:
 
 > 📄 UCFs must be completed **accurately and legibly**. Incomplete or illegible forms will result in **claim rejections or delays**. Many payers require original signatures or supporting documents as well as the **reason** for paper submission.
 
+`Rejections often do not appear for several weeks and are accompanied by justification + steps for resolution`
+
 ##### 🐻 California-Specific UCF Notes
 
 - **Medi-Cal** does **not accept handwritten UCFs**. Claims must be typed or submitted electronically unless an exception is granted.
