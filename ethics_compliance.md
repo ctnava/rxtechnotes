@@ -6,6 +6,8 @@
 
 Ethics is a branch of philosophy that helps decide what should be done in a principled sense besides what must be done to comply with laws. In the medical industry, universities, colleges, hospitals, and other organizations form Ethical Review Boards (ERBs) (or Institutional Review Boards (IRBs)) to provide ethical guidance and ensure legal & ethical standards are followed. ERBs in hospitals can provide consultation for difficult ethical cases when they arise. Corporate compliance officers are responsible to investigate legal or ethical concerns identified in a business.
 
+`Taking an ethical perspective means examining a situation with moral standards.`
+
 The Centers for Medicare & Medicaid Services (CMS) provide the following guidelines for compliance with federal and state law:
 
 - the maintenance of written policies and procedures
@@ -81,13 +83,15 @@ While not government entities, these professional organizations shape pharmacy s
 
 <!-- todo enhance -->
 
-- Internal Review Board (IRB): committee that assures hospital research complies with federal, hospital, and ethical standards
+Institutions form committees
+
+- Internal Review Board (IRB): committee that assures compliance with federal, facility, and ethical standards
 - Infection Control Committee: committee in charge of surveillance, prevention, and control of infgection within the hospital
 - Pharmacy & Therapeutics Committee (P&T): ensure that the formulary supports **safe, effective, and cost-conscious medication use**.
 
 ### ⚖️ Court of Law
 
-`Being liable means you are responsible and can be prosecuted for misconduct.`
+`Being liable means you are responsible and can be prosecuted for misconduct, including negligence`
 
 Pharmacy technicians work under the direct supervision of pharmacists, but **liability is shared**. While pharmacists have the final authority, technicians are **not shielded** from responsibility. A technician can still be held liable for **negligence**, **misconduct**, or **violating regulations**; even if acting under a pharmacist's direction.
 
