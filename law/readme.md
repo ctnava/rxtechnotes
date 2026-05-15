@@ -52,6 +52,7 @@ The foundational laws of the Food & Drug Administration (FDA).
 | **Social Security Act Amendments (1965)** | Created Medicare and Medicaid; foundational for public healthcare reimbursement and pharmacy regulations. |
 | **OBRA-90 (1990)** | Requires patient profiles, DURs, and mandatory counseling offers for Medicaid & Medicare prescriptions. |
 | 🤯 **Public Health Service Act (PHSA, 1944; 340B in 1992)** | Establishes federal public health infrastructure and programs; includes the 340B program allowing eligible providers to purchase discounted outpatient drugs for underserved populations. |
+| 🤯 **Patient Protection & Affordable Care Act (ACA, 2010)** | Also known as Obamacare; improves patient care, quality, & outcomes while reducing cost |
 | **Medicare Modernization Act (MMA, 2003)** | Established **Optional Medicare Part D** and mandated MTM services to improve outcomes and medication safety. |
 
 ---

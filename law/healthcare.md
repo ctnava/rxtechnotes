@@ -9,8 +9,6 @@ These amendments to the Social Security Act created the Medicare and Medicaid pr
 
 These programs laid the foundation for future pharmacy regulations that affect how medications are dispensed and monitored, especially for public health insurance recipients.
 
-> 🤯 The Patient Protection & Affordable Care Act (Obamacare, 2010) was signed into law with the overall goals of improving patient care, quality, and outcomes while reducing cost.
-
 ## Omnibus Budget Reconciliation Act (OBRA-90, 1990)
 
 OBRA-90 was a major federal law affecting Medicaid & Medicare prescription drug programs. It mandates that states receiving federal funds must require pharmacists to:
@@ -90,7 +88,11 @@ It also requires pharmacists to provide **Medication Therapy Management (MTM)** 
 Technicians assist by preparing medication histories, documentation, and assisting with insurance or billing tasks.
 
 > 🛡️ HIPAA Requires all patient health information (PHI) obtained during Counseling, DSM, MTM services to be kept strictly confidential.
-  
+
+## 🤯 Patient Protection & Affordable Care Act (ACA, 2010)
+
+<!-- todo make entry -->
+
 ---
 
 🔙🔗 Back to [**Federal Law Reference Directory**](./readme.md)
