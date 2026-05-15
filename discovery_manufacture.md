@@ -7,6 +7,8 @@
 
 ## 🦅 Federal Legislation
 
+`Before it is approved for marketing, a new drug must be shown to be both safe and effective; with benefits substantially outweighing risks`
+
 The following are required reading for this chapter:
 
 - 🔗 **FDC, FDCA, & Amendments** (🔗 [Link To](./law/fda_fdca.md))
@@ -81,7 +83,9 @@ Step 5: **Post-Market Surveillance** (Ongoing)
 
 ### Generic Drug Manufacturing Authorization
 
-Once a patent for a brand name drug expires, other manufacturers may copy the drug and release it under its generic name. Generic drugs require FDA approval but do not require full R&D because clinical trials for safety & efficacy were already established by the original producer. To obtain approval, generic manufacturers only need to demonstrate equivalency; shortening the process to 1 - 3 years.
+`Once a patent for a brand name drug expires, other manufacturers may copy the drug and release it under its generic name.`
+
+Generic drugs require FDA approval but do not require full R&D because clinical trials for safety & efficacy were already established by the original producer. To obtain approval, generic manufacturers only need to demonstrate equivalency; shortening the process to 1 - 3 years.
 
 Step 1: **Bioequivalence Studies**
 
