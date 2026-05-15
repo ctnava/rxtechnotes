@@ -91,6 +91,34 @@
   - Pharmacy certification and restricted dispensing systems
   - Enrollment of patients in registries or special monitoring programs
 
+## 🤯 FDA Safety & Innovation Act (2012)
+
+The **FDA Safety & Innovation Act (FDASIA)** strengthened the FDA’s ability to ensure timely access to safe and effective medications and medical devices. Its core goals and mechanisms were to:
+
+- **Expand FDA resources through user fees**
+  A user fee is a payment that drug and device manufacturers make to the FDA to help fund and speed up the review process for their products
+  - Reauthorized and expanded user fee programs:
+    - Prescription Drug User Fee Act (**PDUFA**)
+    - Medical Device User Fee Act (**MDUFA**)
+    - Generic Drug User Fee Amendments (**GDUFA**)
+    - Biosimilar User Fee Act (**BsUFA**)
+  - Provided the FDA with funding to speed up reviews and improve regulatory capacity
+
+- **Improve drug and device approval efficiency**
+  - Enhanced pathways for **fast‑track**, **breakthrough therapy**, **accelerated approval**, and **priority review**
+  - Strengthened communication between FDA and manufacturers during development
+
+- **Address and prevent drug shortages**
+  - Required manufacturers to **notify the FDA** of anticipated shortages or supply disruptions
+  - Gave the FDA tools to coordinate responses and mitigate shortages of critical medications
+
+- **Promote innovation & patient access**
+  - Encouraged development of new therapies, including rare disease treatments
+  - Improved transparency and post‑market surveillance systems
+
+- **Strengthen safety oversight**
+  - Expanded FDA authority to enforce compliance, track adverse events, and ensure product quality across the supply chain
+
 ## 🤯 Drug Quality & Security Act (2013)
 
 `Expands FDA authority to compounded drugs`

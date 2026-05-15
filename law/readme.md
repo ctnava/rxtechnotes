@@ -31,6 +31,7 @@ The foundational laws of the Food & Drug Administration (FDA).
 | 🤯 **Drug Price Competition and Patent Term Restoration Act (Hatch-Waxman, 1984)** | Created ANDA pathway for generics. Allowed brand drugmakers to recover patent life lost during FDA approval. Balanced generic entry with brand protection. |
 | **Prescription Drug Marketing Act (PDMA, 1987)** | Restricts distribution of prescription drugs to legitimate commercial channels; state-licensed wholesalers |
 | 🤯 **Food & Drug Administration Amendments Act (FDAAA, 2007)** | Required clinical trial registration and pediatric study requirements. Authorized FDA to mandate REMS programs for certain high-risk drugs (e.g., opioids, biologics). |
+| 🤯 **FDA Safety & Innovation Act (2012)** | Establishes user fees to enhance access to medications and medical devices; making provisions for addressing drug product shortages |
 | 🤯 **Drug Quality and Security Act (DQSA, 2013)** | Enhanced oversight of compounded drugs and drug supply chain security. Created "outsourcing facility" category subject to cGMP and FDA inspections. |
 
 ---
