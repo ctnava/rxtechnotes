@@ -4,14 +4,14 @@
 
 ---
 
-**DEA Policy** (🔗 [To Document](./csa_cmea.md))
+**Drug Enforcement Agency (DEA) Policy** (🔗 [To Document](./csa_cmea.md))
 
 The foundational laws of the Drug Enforcement Agency (DEA).
 
 | **Title** | **Notes** |
 | ----------- | ----------- |
-| **Controlled Substances Act (CSA, 1970)** | Classifies drugs into Schedules I–V based on abuse potential and medical use; regulating ordering, distribution, prescribing, and dispensing. |
-| **Combat Methamphetamine Epidemic Act (CMEA, 2005)** | Regulates pseudoephedrine and ephedrine with monthly sales limits and strict storage requirements. |
+| **Controlled Substances Act (CSA, 1970)** | Establishes the DEA & classifies drugs into Schedules I–V based on abuse potential and medical use; regulating ordering, distribution, prescribing, and dispensing. |
+| **Combat Methamphetamine Epidemic Act (CMEA, 2005)** | Regulates pseudoephedrine, ephedrine, & phenylpropanolamine. Introduced monthly sales limits and strict storage requirements. |
 
 ---
 
