@@ -28,7 +28,7 @@ The foundational laws of the Food & Drug Administration (FDA).
 | 🤯 **Medical Device Amendments (1976)** | Classified life-sustaining & life-supporting medical devices by risk (Class I–III). Required premarket approval for high-risk (Class III) devices after the Dalkon Shield disaster. |
 | 🤯 **Orphan Drug Act (1983)** | Provided incentives (tax credits, market exclusivity, grants) for developing drugs for rare diseases. |
 | 🤯 **Drug Price Competition and Patent Term Restoration Act (Hatch-Waxman, 1984)** | Created ANDA pathway for generics. Allowed brand drugmakers to recover patent life lost during FDA approval. Balanced generic entry with brand protection. |
-| **Prescription Drug Marketing Act (PDMA, 1987)** | Prohibited drug reimportation (except by manufacturer), regulated drug sample distribution, and required wholesale distributor licensure. |
+| **Prescription Drug Marketing Act (PDMA, 1987)** | Restricts distribution of prescription drugs to legitimate commercial channels; state-licensed wholesalers |
 | 🤯 **Food & Drug Administration Amendments Act (FDAAA, 2007)** | Required clinical trial registration and pediatric study requirements. Authorized FDA to mandate REMS programs for certain high-risk drugs (e.g., opioids, biologics). |
 | 🤯 **Drug Quality and Security Act (DQSA, 2013)** | Enhanced oversight of compounded drugs and drug supply chain security. Created "outsourcing facility" category subject to cGMP and FDA inspections. |
 
