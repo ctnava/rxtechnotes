@@ -25,7 +25,7 @@ The foundational laws of the Food & Drug Administration (FDA).
 | **Food, Drug, and Cosmetic Act (FDCA, 1938)** | Established the FDA & framework for enforcement. Required **premarket safety approval** of drugs after **sulfanilamide** deaths. Expanded FDA authority to cosmetics and devices. Required labeling with warnings and directions. |
 | **Durham-Humphrey Amendment (1951)** | Distinguished Rx and OTC drugs. Authorized verbal prescriptions and refills. Required "Rx Only" legend on prescription drugs. |
 | **Kefauver-Harris Amendment (1962)** | Required proof of drug **effectiveness & safety** with FDA pre-approval. Instituted GMP standards and adverse event reporting after thalidomide tragedy. |
-| 🤯 **Medical Device Amendments (1976)** | Classified devices by risk (Class I–III). Required premarket approval for high-risk (Class III) devices after the Dalkon Shield disaster. |
+| 🤯 **Medical Device Amendments (1976)** | Classified life-sustaining & life-supporting medical devices by risk (Class I–III). Required premarket approval for high-risk (Class III) devices after the Dalkon Shield disaster. |
 | 🤯 **Orphan Drug Act (1983)** | Provided incentives (tax credits, market exclusivity, grants) for developing drugs for rare diseases. |
 | 🤯 **Drug Price Competition and Patent Term Restoration Act (Hatch-Waxman, 1984)** | Created ANDA pathway for generics. Allowed brand drugmakers to recover patent life lost during FDA approval. Balanced generic entry with brand protection. |
 | **Prescription Drug Marketing Act (PDMA, 1987)** | Prohibited drug reimportation (except by manufacturer), regulated drug sample distribution, and required wholesale distributor licensure. |

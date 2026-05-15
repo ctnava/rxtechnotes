@@ -54,7 +54,7 @@
 ## 🤯 Medical Device Amendments (1951)
 
 - **Dalkon Shield Disaster**: an intrauterine device (IUD) caused significant harm & death to users due to faulty design; enacted in response.
-- **Medical Device Classification**: requires that all medical devices be classified into one of three classes:
+- **Medical Device Classification**: requires that all life-sustaining & life-supporting medical devices be classified into one of three classes:
   - Class I (General Controls): devices deemed low-risk for human use.
   - Class II (Performance Standards): devices considered moderate-risk for human use.
   - Class III (**Premarket Approval**): devices deemed high-risk for human use (e.g. life-support systems).
