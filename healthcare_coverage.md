@@ -351,7 +351,7 @@ Claims for prescription drugs are typically filed during the process of prescrip
 
 `CMS-1500 is the standard form used by providers to bill for services, like MTM`
 
-Medication Therapy Management (MTM) is a clinical service provided by pharmacists under Medicare Part D Prescription Drug Plans (PDPs) to optimize drug therapy, reduce risk, and improve therapeutic outcomes. Services may include **Comprehensive Medication Reviews** (CMRs), **Targeted Medication Reviews** (TMRs), & **Disease-state management** (e.g., diabetes, hypertension, hyperlipidemia).
+Medication Therapy Management (MTM) is a clinical service provided by pharmacists under **Medicare Part D** through **Prescription Drug Plans (PDPs)** to optimize drug therapy, reduce risk, and improve therapeutic outcomes. Services may include **Comprehensive Medication Reviews** (CMRs), **Targeted Medication Reviews** (TMRs), & **Disease-state management** (e.g., diabetes, hypertension, hyperlipidemia).
 
 Billed using CPT codes on medical claim forms submitted via CMS-1500.
 
@@ -379,6 +379,38 @@ Forms are required for PDPs offering MTM services and require the following supp
 - 🛡️ **Technicians may assist** with MTM program documentation, scheduling, and follow-up tasks, but may **not perform clinical reviews, counsel patients, or document clinical interventions**.
 
 > 🐻 MTM services must comply with **California Confidentiality of Medical Information Act (CMIA)** as well as **HIPAA**. Document storage and communication platforms must meet both state and federal privacy standards.
+
+##### 🌐 Major MTM Platforms
+
+Medication Therapy Management (MTM) services are often delivered through **online MTM platforms** that connect pharmacies, prescribers, and health plans. These systems allow technicians and pharmacists to document interventions, complete reviews, and bill for eligible services.
+
+- **OutcomesMTM (Outcomes®)** — One of the largest MTM networks; integrates with many pharmacy systems.
+- **RxTherapyManagement** — Focuses on clinical documentation, adherence outreach, and payer‑driven MTM programs.
+- **Mirixa** — A long‑standing MTM platform used by many retail chains; supports CMRs, TMRs, and prescriber outreach.
+
+##### 💊 MTM‑Billable Services
+
+Common MTM services that pharmacies can bill through these platforms include:
+
+- **Comprehensive Medication Reviews (CMRs)**  
+  A full, structured review of all patient medications to identify therapy problems, duplications, interactions, or adherence issues.
+
+- **Targeted Medication Reviews (TMRs)**  
+  Focused interventions addressing a specific drug therapy problem or monitoring need.
+
+- **Prescriber Consultations**  
+  Communication with providers regarding:
+  - Cost‑effective alternatives  
+  - Drug therapy problems  
+  - Safety concerns  
+  - Optimization of therapy
+
+- **Patient Consultations**  
+  Counseling sessions for:
+  - Medication adherence  
+  - Education on new or high‑risk medications  
+  - Monitoring requirements (e.g., labs, side effects)  
+  - Chronic disease management support
 
 #### 📄 Paper Claims
 
