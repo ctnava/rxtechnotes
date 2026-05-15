@@ -1,6 +1,8 @@
 # Manufacturer Labeling Requirements for Prescription & OTC Drugs
 
-This document synthesizes key federal statutes and regulations governing how drug manufacturers must label products in the United States. "Labeling" includes **labels, inserts, and promotional materials**. Any manufacturer-originated material is subject to FDA review. This includes rules that apply to both prescription (Rx) and over-the-counter (OTC) drugs.
+## Identification & Tracking
+
+This section synthesizes key federal statutes and regulations governing how drug manufacturers must label products in the United States. "Labeling" includes **labels, inserts, and promotional materials**. Any manufacturer-originated material is subject to FDA review. This includes rules that apply to both prescription (Rx) and over-the-counter (OTC) drugs.
 
 🦅 **Federal Law Overview**:
 
@@ -8,7 +10,7 @@ This document synthesizes key federal statutes and regulations governing how dru
 - 🔗 **Extended Packaging & Labeling Policy** (🔗 [Link To](../law/packaging_labeling.md))
 - 🔗 **Controlled Substance Policy** (🔗 [Link To](../law/csa_cmea.md))
 
-🏷️ **Labeling Requirements**
+### 🏷️ Package Label Requirements
 
 | Requirement | Description | Legal Basis |
 | ------------- | ------------- | ------------- |
@@ -37,8 +39,6 @@ This document synthesizes key federal statutes and regulations governing how dru
 Manufacturer Stock Label
 
 ![OTC Label](./img/otc_label.PNG)
-
-## Identification & Tracking
 
 ### National Drug Code (NDC) Format
 
