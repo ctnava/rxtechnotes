@@ -14,7 +14,7 @@
 
 ## Food, Drug, & Cosmetic Act (FDCA, 1938)
 
-`Drugs must be proven SAFE & require PREMARKET APPROVAL`
+`Drugs must be proven SAFE  when taken as directed & require PREMARKET APPROVAL`
 
 - **Sulfanilamide Tragedy**: a mass poisoning incident involving elixir sulfanilamide, which killed over 100 people; enacted in response.
   - 🤯 Sulfanilamide is now FDA-approved for treating vaginal yeast infections.
