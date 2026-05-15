@@ -582,18 +582,24 @@ A Third-Party Rejection (TPR) occurs when a prescription claim is denied by the 
 
 Insurance companies may be called to check eligibility, run test claims, & ask for clarification.
 
+> ⚠️ **Important**: Never override rejection codes or make clinical decisions. Always escalate unresolved issues or unclear messages to the pharmacist.
+
 | Reject Code | Reason | Resolution |
 | ------------- | -------- | ------------ |
-| 70 | NDC Not Covered | Use formulary drug or request PA |
-| 75 | Prior Authorization Required | Start PA process |
-| 76 | Plan Limitations Exceeded | Check days’ supply, quantity |
-| 79 | Refill Too Soon | Check last fill date or wait to fill; 75% of the medication must be consumed before refill |
-| 25 | Invalid Birth Date | Verify with patient |
-| 26 | Invalid Person Code | Confirm patient relationship |
-| 41 | Invalid Cardholder ID | Correct insurance info |
+| 70 | NDC Not Covered | Use formulary alternative or request PA |
+| 75 | Prior Authorization Required | Start PA process per plan requirements |
+| 76 | Plan Limitations Exceeded | Verify day supply, quantity, duration; Plan may only cover 30 day fill |
+| 79 | Refill Too Soon | Confirm last fill date; resubmit later (28 day rule or 75% utilization required) |
+| 25 | Invalid Birth Date | Recheck DOB with patient or insurer |
+| 26 | Invalid Person Code | Confirm relationship to cardholder |
+| 41 | Invalid Cardholder ID | Verify and update insurance information |
 | XX | Refill Not Covered | Mail Order Pharmacy may be required; override if emergency |
+| XX | Prescriber Not Network Provider | common in Medicaid and sometimes HMO programs |
+| XX | Unable to Connect | Troubleshoot network connection and try again later if needed |
+| XX | Patient Not Covered | Coverage Terminated or New card was issued |
+| XX | Dependent Exceeds Plan's Age Limit | Fulltime college students are eliginle as long as appropriate paperwork has been filed |
 
-> 📌 Always confirm the BIN/PCN/ID from the most recent insurance card. These fields determine where the claim is sent.
+> 📌 **Tech Tip**: Always verify **BIN/PCN/ID** against the latest insurance card. Incorrect values will route claims to the wrong PBM, resulting in instant rejections.
 
 ##### 📝 Prior Authorization (PA)
 

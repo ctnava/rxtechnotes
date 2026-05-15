@@ -183,17 +183,24 @@ When prescriptions are entered, they are automatically checked by pharmacy softw
 
 A Third-Party Rejection (TPR) occurs when a prescription claim is denied by the PBM or insurer. These denials appear with a reject code and an associated message.
 
+Insurance companies may be called to check eligibility, run test claims, & ask for clarification.
+
 > ⚠️ **Important**: Never override rejection codes or make clinical decisions. Always escalate unresolved issues or unclear messages to the pharmacist.
 
 | Reject Code | Reason | Resolution |
 | ------------- | -------- | ------------ |
 | 70 | NDC Not Covered | Use formulary alternative or request PA |
 | 75 | Prior Authorization Required | Start PA process per plan requirements |
-| 76 | Plan Limitations Exceeded | Verify day supply, quantity, duration |
-| 79 | Refill Too Soon | Confirm last fill date; resubmit later |
+| 76 | Plan Limitations Exceeded | Verify day supply, quantity, duration; Plan may only cover 30 day fill |
+| 79 | Refill Too Soon | Confirm last fill date; resubmit later (28 day rule or 75% utilization required) |
 | 25 | Invalid Birth Date | Recheck DOB with patient or insurer |
 | 26 | Invalid Person Code | Confirm relationship to cardholder |
 | 41 | Invalid Cardholder ID | Verify and update insurance information |
+| XX | Refill Not Covered | Mail Order Pharmacy may be required; override if emergency |
+| XX | Prescriber Not Network Provider | common in Medicaid and sometimes HMO programs |
+| XX | Unable to Connect | Troubleshoot network connection and try again later if needed |
+| XX | Patient Not Covered | Coverage Terminated or New card was issued |
+| XX | Dependent Exceeds Plan's Age Limit | Fulltime college students are eliginle as long as appropriate paperwork has been filed |
 
 > 📌 **Tech Tip**: Always verify **BIN/PCN/ID** against the latest insurance card. Incorrect values will route claims to the wrong PBM, resulting in instant rejections.
 
