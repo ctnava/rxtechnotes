@@ -6,14 +6,18 @@
 
 **DEA Policy** (🔗 [To Document](./csa_cmea.md))
 
+The foundational laws of the Drug Enforcement Agency (DEA).
+
 | **Title** | **Notes** |
 | ----------- | ----------- |
-| **Controlled Substances Act (CSA, 1970)** | Classifies drugs into Schedules I–V based on abuse potential and medical use, regulating distribution. |
-| **Combat Methamphetamine Epidemic Act (CMEA, 2005)** | Regulates pseudoephedrine and related substances with sales limits and strict storage requirements. |
+| **Controlled Substances Act (CSA, 1970)** | Classifies drugs into Schedules I–V based on abuse potential and medical use; regulating ordering, distribution, prescribing, and dispensing. |
+| **Combat Methamphetamine Epidemic Act (CMEA, 2005)** | Regulates pseudoephedrine and ephedrine with monthly sales limits and strict storage requirements. |
 
 ---
 
 **Pure Food & Drug Act, FDCA, & Amendments** (🔗 [To Document](./fda_fdca.md))
+
+The foundational laws of the Food & Drug Administration (FDA).
 
 | **Title** | **Notes** |
 | ----------- | ----------- |
@@ -40,7 +44,7 @@
 
 ---
 
-**Healthcare Policy** (🔗 [To Document](./healthcare.md))
+**Healthcare Services Policy** (🔗 [To Document](./healthcare.md))
 
 | **Title** | **Notes** |
 | ----------- | ----------- |
@@ -51,12 +55,16 @@
 
 ---
 
-**HIPAA & Amendments** (🔗 [To Document](./hipaa.md))
+**Health Insurance Portability & Accountability Act (HIPAA) & Amendments** (🔗 [To Document](./hipaa.md))
+
+The HIPAA contains regulations related to privacy & Protected Health Information (PHI)
+
+`All personnel who have access to PHI must be formally trained in HIPAA compliance`
 
 | **Title** | **Notes** |
 | ----------- | ----------- |
 | **HIPAA (1996)** | Protects patient privacy by regulating the use, disclosure, and safeguarding of PHI by Covered Entities. |
-| 🤯 **HITECH Act (2009)** | Expands HIPAA to include business associates and promotes secure use of electronic health records. |
+| 🤯 **HITECH Act (2009)** | Expands HIPAA to include business associates; promoting secure use of electronic health records & prescribing |
 
 ---
 
