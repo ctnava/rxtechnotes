@@ -15,7 +15,7 @@ The foundational laws of the Drug Enforcement Agency (DEA).
 
 ---
 
-**Pure Food & Drug Act, FDCA, & Amendments** (🔗 [To Document](./fda_fdca.md))
+**Food & Drug Administration (FDA) Policy** (🔗 [To Document](./fda_fdca.md))
 
 The foundational laws of the Food & Drug Administration (FDA).
 

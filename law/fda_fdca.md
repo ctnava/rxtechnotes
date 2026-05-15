@@ -1,4 +1,4 @@
-# FDC, FDCA, & Amendments
+# Food & Drug Administration (FDA) Policy
 
 ## Pure Food & Drug Act (1906)
 
