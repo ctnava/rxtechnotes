@@ -8,13 +8,11 @@ The ***Controlled Substances Act (CSA, 1970)*** classifies five levels of contro
 
 These drugs **require** special handling.
 
-> **TRIVIA**: The Anabolic Steroids Control Act of 1990 added anabolic steroids (like testosterone) to Schedule III of the CSA.
-
 | Schedule | Mark | 🧾 Description | 💊 Examples | 🔁 Prescribing Restrictions |
 | --- | --- | --- | --- | --- |
 | 🟥 I | C-I | 🚫 No accepted medical use, 🆙 high abuse potential | Heroin, LSD, Ecstasy (MDMA), Cannabis* | ❌ **Not allowed** — Cannot be prescribed |
 | 🟥 II | C-II | ✅ Accepted medical use, 🆙 high abuse risk, severe dependence | Oxycodone (opioid), Methadone (opioid), Fentanyl (opioid), Adderall (most stimulants) | ⛔ **No refills allowed** — New Rx required each time; prescriptions valid for 30 days; prescriptions valid for 30 days to 6 months |
-| 🟧 III | C-III | ⚠️ Moderate to low physical/psychological dependence potential | Tylenol with Codeine (opioid combo), Ketamine (anesthetic), Testosterone (anabolic steroid) | 🔁 Up to **5 refills** in **6 months**; prescriptions valid for 6 months |
+| 🟧 III | C-III | ⚠️ Moderate to low physical/psychological dependence potential | Tylenol with Codeine (opioid combo), Ketamine (anesthetic) | 🔁 Up to **5 refills** in **6 months**; prescriptions valid for 6 months |
 | 🟨 IV | C-IV | 🟡 Low abuse potential and dependence risk | Alprazolam (Xanax), Diazepam (Valium), Zolpidem (Ambien), Tramadol (most benzodiazepines, some sleep aids & analgesics) | 🔁 Up to **5 refills** in **6 months**; prescriptions valid for 6 months |
 | 🟩 V | C-V | 🟢 Lowest abuse potential, small amounts of narcotics | Robitussin AC (codeine cough syrup), Lomotil (diarrhea), Lyrica (pregabalin) | 🔁 Up to **5 refills** in **6 months**; prescriptions valid for 6 months |
 
@@ -82,6 +80,12 @@ It is the pharmacy staff’s responsibility to:
 - Verify and log all controlled substance prescriptions
 - Monitor for abuse, diversion, or fraud
   - Prescriptions for medication outside of typical prescribing authority may point be evidence of fraud. See the ([🔗 Prescriptive Authority Quick Reference](../ref/prescribers.md)) for more details.
+
+## 🤯 Anabolic Steroid Control Act (1990)
+
+<!-- todo enhance -->
+
+The Anabolic Steroids Control Act of 1990 added anabolic steroids (like testosterone) to Schedule III of the CSA to address the abuse of steroids by athletes and teenagers
 
 ## 🧪 Combat Methamphetamine Epidemic Act (CMEA, 2005)
 
