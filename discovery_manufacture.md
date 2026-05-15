@@ -100,22 +100,9 @@ Step 2: **Manufacturing & Quality Assurance**
 
 The FDA checks for trademark violations. Packaging and labeling must be distinct from brand name. Inactive ingredients may vary to lower production cost, but a facility inspection is also conducted to ensure compliance with the aforementioned ***Good Manufacturing Practices (GMP)***.
 
-Step 3: **Post-Market Surveillance**
+Step 3: **Post-Market Surveillance & Safety Monitoring**
 
 If the ANDA meets FDA requirements, the generic drug is approved for marketing. Generic drugs are also subject to the same post-market safety monitoring as brand name drugs.
-
-### ☣️ Safety Monitoring & Surveillance with REMS
-
-In some cases, the FDA may require additional safety measures for high-risk medications after they are brought to market. **Risk Evaluation & Mitigation Strategies (REMS)** are required safety programs for medications with known or potential serious risks that must be managed to ensure that the drug’s benefits outweigh its risks; particularly those that are addictive (e.g. Opioids, Stimulants, Benzodiazepines), hazardous (e.g. Birth Control, Oncologics, Biologics), or understudied (e.g. Gabapentin).
-
-Depending on the drug, a REMS program may include one or more of the following:
-
-- Mandated **Medication guides** or **patient package inserts (PPIs)**
-- Prescriber training and certification requirements
-- Pharmacy certification and restricted dispensing systems
-- Enrollment of patients in registries or special monitoring programs
-
-> **Example**: The drug isotretinoin (Accutane), which can cause severe birth defects, is subject to a REMS program called iPLEDGE that requires prescribers, pharmacies, and patients to follow strict steps before dispensing or receiving the medication.
 
 ### 🏷️ Labeling Requirements
 

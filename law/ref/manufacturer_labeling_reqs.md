@@ -75,7 +75,18 @@ Barcoding and serialization are mandated under the **Drug Supply Chain Security 
 > - 🛡️ Pharmacists and technicians must **scan and verify 2D barcodes** during prescription processing, especially for controlled substances and REMS drugs.
 > - 📌 Always inspect labels for **tampering or misprints**, especially if barcodes do not resolve in your system.
 
-## Patient Information
+## Risk Evaluation & Mitigation Strategies (REMS)
+
+**Risk Evaluation & Mitigation Strategies (REMS)** are required safety programs for medications with known or potential serious risks that must be managed to ensure that the drug’s benefits outweigh its risks; particularly those that are addictive (e.g. Opioids, Stimulants, Benzodiazepines), hazardous (e.g. Birth Control, Oncologics, Biologics), or understudied (e.g. Gabapentin).
+
+Depending on the drug, a REMS program may include one or more of the following:
+
+- Mandated **Medication guides** or **patient package inserts (PPIs)**
+- Prescriber training and certification requirements
+- Pharmacy certification and restricted dispensing systems
+- Enrollment of patients in registries or special monitoring programs
+
+> **Example**: The drug isotretinoin (Accutane), which can cause severe birth defects, is subject to a REMS program called iPLEDGE that requires prescribers, pharmacies, and patients to follow strict steps before dispensing or receiving the medication.
 
 ### 📰 Patient Package Inserts (PPIs)
 
