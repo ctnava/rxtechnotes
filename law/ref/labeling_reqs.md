@@ -95,7 +95,11 @@ Depending on the drug, a REMS program may include one or more of the following:
 
 > **Example**: The drug isotretinoin (Accutane), which can cause severe birth defects, is subject to a REMS program called iPLEDGE that requires prescribers, pharmacies, and patients to follow strict steps before dispensing or receiving the medication.
 
-### 📰 Patient Package Inserts (PPIs)
+### Product Labeling
+
+Additional documents, with information not on the stock or prescription label themselves, dispensed with the product
+
+#### 📰 Patient Package Inserts (PPIs)
 
 PPIs are FDA-regulated documents that must accompany specific drug classes. They differ from MedGuides in that they are **drug-class specific** and are not required for every outpatient medication. They are dispensed at:
 
@@ -129,7 +133,7 @@ PPIs are FDA-regulated documents that must accompany specific drug classes. They
 
 > 📌 Many PPIs contain diagrams or step-by-step **patient instructions**, especially for complex dosage forms (e.g., vaginal rings, inhalers, patches).
 
-### 📋 Medication Guides (MedGuides)
+#### 📋 Medication Guides (MedGuides)
 
 MedGuides are **FDA-required patient labeling** for outpatient prescription drugs that present serious and specific public health concerns. These are distinct from PPIs and are **drug-specific**, not class-based. A MedGuide **must be dispensed** if any of the following conditions apply:
 
