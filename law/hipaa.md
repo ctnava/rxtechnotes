@@ -2,9 +2,7 @@
 
 ## Health Information Portability & Accountability Act (HIPAA, 1996)
 
-`requires all health-care professionals to protect patients' privacy`
-
-<!-- Regulating how Covered Entities handle Protected Health Information (PHI) -->
+`covered entities are responsible for maintaining the privacy and security of patient information`
 
 HIPAA was originally enacted to protect individuals' access to health insurance when changing jobs or living with pre-existing conditions. It has since evolved into a broad federal standard for the protection of **Protected Health Information (PHI)** and governs how healthcare providers, insurers, and other entities handle patient information.
 
@@ -14,6 +12,7 @@ HIPAA was originally enacted to protect individuals' access to health insurance 
 - Standardize electronic health transactions
 - Reduce administrative fraud and burden on consumers
 - Protect patient health information from misuse, theft, or inappropriate disclosure
+- Provide the patient with the **right to review and correct records**
 
 > 📌 HIPAA is enforced by the U.S. Department of Health and Human Services (HHS), primarily through the **Office for Civil Rights (OCR)**.
 
@@ -135,6 +134,8 @@ Additional documentation commonly found in hospital or long-term care settings:
 
 ##### 💻 Electronic Health Records (EHRs) and EMRs
 
+`Use of electronic transactions is encouraged`
+
 Historically, records were maintained in **paper charts and folders**. Today, most healthcare systems use **Electronic Medical Records (EMRs)** or **Electronic Health Records (EHRs)**.
 
 - **EMRs** are digital versions of paper charts in a single provider's office.
@@ -150,11 +151,11 @@ Historically, records were maintained in **paper charts and folders**. Today, mo
 `HIPAA requires health care providers to make their best efforts to protect patient information and share only the information needed with other health professionals.`
 
 - **Notice of Privacy Practices (NPP)**:
-  - Informs patients of their rights and how PHI is used
+  - Informs patients of their rights and how PHI is used during daily operation without additional expressed consent
   - Patients must acknowledge receipt
   - Retention: 6 years from date of signature or last effective date.
 - **Disclosure Protocol**: PHI may only be used or disclosed for treatment, payment, and healthcare operations (TPO) without patient authorization.
-- **Minimum Necessary Rule**: Disclose only the least amount of PHI required for the purpose; keeping disclosures on a “need to know” basis and gathering the minimum amount of data.
+- **Minimum Necessary Rule**: Disclose only the least amount of PHI required for the purposes of treatment, payment, or administrative operations; keeping disclosures on a “need to know” basis and gathering the minimum amount of data
 - **Authorization Required**: For marketing, research, or sharing with third parties not involved in TPO.
 - **National Provider Identifier**: A 10-digit, unique ID assigned to each covered provider. Required on all HIPAA-compliant transactions.
   - Form **CMS-10114** is used to apply for an NPI
