@@ -141,6 +141,10 @@ When prescriptions are entered, they are automatically checked by pharmacy softw
 
 `Most pharmacy software will not print prescriptions until payment is confirmed`
 
+> When billing compounded or specialty medications, refer to information booklets provided by the insurer/ PBM or call the pharmacy help desk on the card
+> Compounded Medications typically bill Medical Benefits
+> Specialty Medications may have restrictions on who can dispense them (e.g. CVS Caremark requires certain high cost medications to be filled by their mail order pharmacy)
+
 ### Patient & Insurance Information
 
 - **Cardholder/Member ID**: Unique ID number for the patient’s insurance cardholder/member.
