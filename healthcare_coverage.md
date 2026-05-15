@@ -576,7 +576,7 @@ The billing cycle is a real-time loop that occurs every time a prescription is s
 
 #### 🛑 Common Third-Party Rejections & Resolutions
 
-`NOTE: Many insurers have age limitations for children or dependents of the cardholder`
+`When in doubt, call the Pharmacy Help Desk for more information`
 
 A Third-Party Rejection (TPR) occurs when a prescription claim is denied by the PBM or insurance. These denials are flagged with a reject code and message explaining the issue.
 

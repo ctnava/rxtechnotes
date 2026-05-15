@@ -181,6 +181,8 @@ When prescriptions are entered, they are automatically checked by pharmacy softw
 
 ### 🛑 Common Third-Party Rejections & Resolutions
 
+`When in doubt, call the Pharmacy Help Desk for more information`
+
 A Third-Party Rejection (TPR) occurs when a prescription claim is denied by the PBM or insurer. These denials appear with a reject code and an associated message.
 
 Insurance companies may be called to check eligibility, run test claims, & ask for clarification.
