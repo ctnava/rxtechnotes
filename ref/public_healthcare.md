@@ -31,7 +31,135 @@ The “donut hole” is a temporary limit on what Medicare Part D will pay for p
 | 🍩 **Coverage Gap ("Donut Hole")** | You pay no more than 25% of the cost for brand-name and generic drugs during the gap (discounts are applied due to manufacturer contributions). |
 | 💯 **Catastrophic Coverage** | After your out-of-pocket costs hit the cap (\~\$8,000), you pay **nothing** or a small coinsurance per prescription. |
 
-> 💊 For techs: Patients in the donut hole may suddenly pay more—watch for confusion or frustration and refer to the pharmacist.
+> 💊 For techs: Patients in the donut hole may suddenly pay more; watch for confusion or frustration and refer to the pharmacist.
+
+```mermaid
+flowchart TD
+
+    %% ============================================================
+    %% SWIMLANES
+    %% ============================================================
+    subgraph BENE["🧓 Beneficiary (Medicare Part D Member)"]
+        A["📝 Enroll in Part D Plan</br>Pay Monthly Premiums"]
+        DED["💵 Deductible Phase</br>Pay 100% of drug cost until deductible met"]
+        ICP["💳 Initial Coverage Phase</br>Copay/Coinsurance until ICL reached"]
+        GAP["🍩 Coverage Gap (Donut Hole)</br>Pay 25% Brand / 25% Generic</br>Manufacturer discount counts toward TrOOP"]
+        CATA["🛡️ Catastrophic Coverage</br>Pay $0 for covered drugs"]
+        RESET["🔄 New Plan Year Begins</br>Deductible & thresholds reset"]
+    end
+
+    subgraph PHARM["🏥 Pharmacy"]
+        RX1["🧾 Process Prescription Claim"]
+        RX2["💰 Collect Beneficiary Cost‑Share"]
+        RX3["📤 Submit Claim to Plan"]
+        RX4["📥 Receive Payment from Plan"]
+    end
+
+    subgraph PLAN["🏦 Part D Plan (PDP / MAPD)"]
+        P1["💼 Receive Premiums"]
+        P2["📘 Apply Phase Rules (Deductible / ICP / Gap / Catastrophic)"]
+        P3["🧮 Calculate Plan Liability vs Beneficiary Liability"]
+        P4["💵 Pay Pharmacy (Plan Share)"]
+    end
+
+    subgraph CMS["🏛️ CMS / Medicare"]
+        C1["📊 Tracks TrOOP (True Out‑of‑Pocket)"]
+        C2["🏷️ Applies Manufacturer Discount Credits"]
+        C3["💸 Pays Federal Reinsurance During Catastrophic Phase"]
+    end
+
+    %% ============================================================
+    %% WITHIN‑LANE FLOWS
+    %% ============================================================
+    A --> DED --> ICP --> GAP --> CATA --> RESET --> A
+
+    RX1 --> RX2 --> RX3 --> RX4
+
+    P1 --> P2 --> P3 --> P4
+
+    C1 --> C2 --> C3
+
+    %% ============================================================
+    %% CROSS‑LANE INTERACTIONS (BRIGHT ORANGE)
+    %% ============================================================
+
+    %% Beneficiary → Plan (Premiums)
+    A -- "<span style='background:#ffe8cc; padding:2px 6px; border-radius:4px;'>Premium Payment</span>" --> P1
+
+    %% Beneficiary → Pharmacy (Cost‑Share)
+    DED -- "<span style='background:#ffe8cc; padding:2px 6px; border-radius:4px;'>100% Drug Cost</span>" --> RX2
+    ICP -- "<span style='background:#ffe8cc; padding:2px 6px; border-radius:4px;'>Copay / Coinsurance</span>" --> RX2
+    GAP -- "<span style='background:#ffe8cc; padding:2px 6px; border-radius:4px;'>25% Brand / 25% Generic</span>" --> RX2
+
+    %% Pharmacy → Plan (Claim Submission)
+    RX3 -- "<span style='background:#ffe8cc; padding:2px 6px; border-radius:4px;'>Claim Submission</span>" --> P2
+
+    %% Plan → Pharmacy (Payment)
+    P4 -- "<span style='background:#ffe8cc; padding:2px 6px; border-radius:4px;'>Plan Payment</span>" --> RX4
+
+    %% Plan → CMS (TrOOP Reporting)
+    P3 -- "<span style='background:#ffe8cc; padding:2px 6px; border-radius:4px;'>TrOOP Reporting</span>" --> C1
+
+    %% CMS → Plan (Catastrophic Reinsurance)
+    C3 -- "<span style='background:#ffe8cc; padding:2px 6px; border-radius:4px;'>Federal Reinsurance Payment</span>" --> P4
+
+    %% ============================================================
+    %% NODE COLOR CLASSES
+    %% ============================================================
+    classDef bene fill:#e0ecff,stroke:#2b6cb0,color:#000
+    classDef pharm fill:#e8ffe8,stroke:#2f855a,color:#000
+    classDef plan fill:#f4e8ff,stroke:#553c9a,color:#000
+    classDef cms fill:#fff0d9,stroke:#c27a00,color:#000
+
+    class A,DED,ICP,GAP,CATA,RESET bene
+    class RX1,RX2,RX3,RX4 pharm
+    class P1,P2,P3,P4 plan
+    class C1,C2,C3 cms
+
+    %% ============================================================
+    %% SWIMLANE SHADING
+    %% ============================================================
+    style BENE fill:#eef5ff,stroke:#2b6cb0,color:#000
+    style PHARM fill:#e8ffe8,stroke:#2f855a,color:#000
+    style PLAN fill:#f4e8ff,stroke:#553c9a,color:#000
+    style CMS fill:#fff4e0,stroke:#c27a00,color:#000
+
+    %% ============================================================
+    %% ARROW COLORS
+    %% ============================================================
+
+    %% Beneficiary lane arrows → BLUE
+    linkStyle 0 stroke:#2b6cb0,stroke-width:2px,color:#2b6cb0
+    linkStyle 1 stroke:#2b6cb0,stroke-width:2px,color:#2b6cb0
+    linkStyle 2 stroke:#2b6cb0,stroke-width:2px,color:#2b6cb0
+    linkStyle 3 stroke:#2b6cb0,stroke-width:2px,color:#2b6cb0
+    linkStyle 4 stroke:#2b6cb0,stroke-width:2px,color:#2b6cb0
+    linkStyle 5 stroke:#2b6cb0,stroke-width:2px,color:#2b6cb0
+
+    %% Pharmacy lane arrows → FOREST GREEN
+    linkStyle 6 stroke:#2f855a,stroke-width:2px,color:#2f855a
+    linkStyle 7 stroke:#2f855a,stroke-width:2px,color:#2f855a
+    linkStyle 8 stroke:#2f855a,stroke-width:2px,color:#2f855a
+
+    %% Plan lane arrows → CONCORD GRAPE PURPLE
+    linkStyle 9 stroke:#553c9a,stroke-width:2px,color:#553c9a
+    linkStyle 10 stroke:#553c9a,stroke-width:2px,color:#553c9a
+    linkStyle 11 stroke:#553c9a,stroke-width:2px,color:#553c9a
+
+    %% CMS lane arrows → GOLDENROD
+    linkStyle 12 stroke:#c27a00,stroke-width:2px,color:#c27a00
+    linkStyle 13 stroke:#c27a00,stroke-width:2px,color:#c27a00
+
+    %% Cross‑lane interactions → BRIGHT ORANGE
+    linkStyle 14 stroke:#ff7a00,stroke-width:2px,color:#ff7a00
+    linkStyle 15 stroke:#ff7a00,stroke-width:2px,color:#ff7a00
+    linkStyle 16 stroke:#ff7a00,stroke-width:2px,color:#ff7a00
+    linkStyle 17 stroke:#ff7a00,stroke-width:2px,color:#ff7a00
+    linkStyle 18 stroke:#ff7a00,stroke-width:2px,color:#ff7a00
+    linkStyle 19 stroke:#ff7a00,stroke-width:2px,color:#ff7a00
+    linkStyle 20 stroke:#ff7a00,stroke-width:2px,color:#ff7a00
+    linkStyle 21 stroke:#ff7a00,stroke-width:2px,color:#ff7a00
+```
 
 ### 🏥 State Medicaid Programs
 
