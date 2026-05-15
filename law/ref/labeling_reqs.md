@@ -14,21 +14,24 @@ This section synthesizes key federal statutes and regulations governing how drug
 
 | Requirement | Description | Legal Basis |
 | ------------- | ------------- | ------------- |
-| **Drug Identity** | Brand and generic name clearly stated | 🦅 21 CFR §201.10; FDCA §502(e) |
+| **Drug Identity** | Brand and generic name of active ingredient clearly stated | 🦅 21 CFR §201.10; FDCA §502(e) |
 | **Strength** | Quantity of active ingredient per unit (e.g. mg per tablet) | 🦅 21 CFR §201.10(b); FDCA §502(a) |
 | **Dosage Form** | Physical form (e.g. capsule, solution) and route (oral, topical, etc.) | 🦅 21 CFR §201.100(b); USP standards |
+| **Quantity Statement** | Net contents by weight, volume, or count | 🦅 FDCA §502(b)(2); 21 CFR §201.51 |
+| **National Drug Code (NDC)** | FDA-assigned **11-digit** code identifying manufacturer, drug, and package; sometimes includes NATO Stock Number (NSN) for NATO countries | 🦅 FDCA §510; 21 CFR §207.35 |
+| **"Rx Only" Designation** (conditional) | Required on prescription-only drugs | 🦅 FDCA §503(b)(4) (as amended by FDA Modernization Act of 1997) |
+| 🔐 **Controlled Substance Schedule** (If applicable) | DEA Schedule I–V must be shown | 🦅 21 CFR §1302.04; CSA (21 USC §825) |
+| 🔐 **DEA Order Form Requirement** (if applicable) | Controlled substances have special ordering requirements | TBA |
 | **Intended Use & Directions** | Declaration of intended use & directions; including recommended dosage and frequency, where applicable. | 🦅 FDCA §502(f); 21 CFR §201.5 |
 | **Warnings** | Required safety warnings including contraindications, adverse effects, storage, and Black Box Warnings if applicable | 🦅 FDCA §502(f); 21 CFR §201.57 (Rx); 21 CFR §201.66 (OTC) |
+| **Storage Requirements** | To prevent degredation during storage | TBA |
+| **Dispensing Container Required** (conditional) | To prevent degredation within consumption window after dispensing | TBA |
 | **Manufacturer Info** | Name, business address, and phone number of the manufacturer, packer, or distributor | 🦅 FDCA §502(b); 21 CFR §201.1 |
-| **Quantity Statement** | Net contents by weight, volume, or count | 🦅 FDCA §502(b)(2); 21 CFR §201.51 |
 | **Batch/ Lot Number** | A unique identifier for the production batch to facilitate tracking and recalls if necessary | 🦅 21 CFR §211.130(e); §211.137 |
 | **Manufacture & Expiration Dates** | date of manufacture and the expiration or “use by” date to ensure drug potency and safety | 🦅 21 CFR §211.130(e); §211.137 |
-| **National Drug Code (NDC)** | FDA-assigned **11-digit** code identifying manufacturer, drug, and package | 🦅 FDCA §510; 21 CFR §207.35 |
 | **Barcoding & Serialization Requirements** | Serial Numbers; Linear (1D) and 2D barcodes per DSCSA, encoding NDC, lot, and expiration | 🦅 DSCSA (FDCA §582); 21 CFR §201.25 |
-| 🔐 **Controlled Substance Schedule** | If applicable, DEA Schedule I–V must be shown | 🦅 21 CFR §1302.04; CSA (21 USC §825) |
 | **Tamper-Evident Packaging** | Required for most OTC drugs to demonstrate integrity | 🦅 21 CFR §211.132; 21 CFR §211.125 |
 | **Language** | English required; other languages optional or supplemental | 🦅 21 CFR §201.15(c); FDCA §502(c) |
-| **"Rx Only" Designation** (conditional) | Required on prescription-only drugs | 🦅 FDCA §503(b)(4) (as amended by FDA Modernization Act of 1997) |
 | **Patient Package Insert (PPI)** (conditional) | Required for certain drug classes (e.g. oral contraceptives, estrogens) and drugs under REMS | 🦅 21 CFR §208; FDCA §505-1 (REMS) |
 | 📰 **Medication Guide (MedGuide)** (conditional) | Required when FDA determines information is necessary to prevent serious adverse effects, ensure proper use, or address risks of non-adherence | 🦅 21 CFR §208.1; FDCA §505-1(e) |
 
@@ -61,8 +64,6 @@ The NDC is a unique 10- or **11-digit**, 3-segment number that identifies all FD
   - Package: `52`
 
 > 🛡️ Always verify the NDC on **both the primary and secondary packaging** during dispensing. Report discrepancies to a pharmacist immediately.
-> .
-> 🤯 The NATO equivalent is called the NATO Stock Number (NSN)
 
 #### Barcodes & Serialization
 
