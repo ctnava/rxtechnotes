@@ -91,9 +91,28 @@ Technicians assist by preparing medication histories, documentation, and assisti
 
 ## 🤯 Patient Protection & Affordable Care Act (ACA, 2010)
 
-<!-- todo make enhancements -->
+The **Affordable Care Act (ACA)**, often called *Obamacare*, is one of the most significant healthcare reforms since Medicare and Medicaid. It's core goals were to:
 
-Also known as Obamacare; improves patient care, quality, & outcomes while reducing cost
+- **Expand health insurance coverage**
+  - Medicaid expansion (state‑optional)
+  - Subsidized Marketplace plans
+  - Guaranteed coverage for **pre‑existing conditions**
+  - Dependents allowed on parents’ plans until **age 26**
+
+- **Improve quality of care & patient outcomes**
+  - Value‑based care models (e.g., ACOs)
+  - Reduced hospital readmissions
+  - Expanded preventive care access
+
+- **Reduce healthcare spending**
+  - Emphasis on preventive services
+  - Standardized essential health benefits
+  - Increased oversight of fraud, waste, and abuse
+
+- **Strengthen consumer protections & transparency**
+  - No lifetime/annual coverage caps
+  - Standardized plan tiers (Bronze → Platinum)
+  - Clearer insurance disclosures and appeals processes
 
 ---
 
