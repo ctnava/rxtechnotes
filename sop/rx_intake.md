@@ -135,9 +135,11 @@ The Days Supply refers to how long a prescription will last based on the quantit
 
 🔗 ([Days Supply Calculation Guide](../math/days_supply.md))
 
-## 💻 Step 4: Claim Submission & Adjudication
+## 💻 Step 4: Initial Claim Submission & Adjudication
 
 When prescriptions are entered, they are automatically checked by pharmacy software for drug-drug, drug-disease, and drug-allergy interactions. From here, claims must be submitted accurately to insurance.
+
+`Most pharmacy software will not print prescriptions until payment is confirmed`
 
 ### Patient & Insurance Information
 
@@ -158,7 +160,7 @@ When prescriptions are entered, they are automatically checked by pharmacy softw
 - **New or Refill**: Indicates if the prescription is new or a refill.
 - **Pharmacy ID/ NPI**: Unique pharmacy identifier or National Provider Identifier (NPI) for the dispensing pharmacy.
 - **Date Dispensed**: The date when the prescription was dispensed to the patient.
-- **Quantity Dispensed**: The amount or quantity of the medication dispensed to the patient.
+- **Quantity Dispensed**: The amount or quantity of the medication dispensed to the patient for the initial fill.
 - **11-Digit NDC**: National Drug Code identifying the medication dispensed.
 
 ### Pricing Information
@@ -170,6 +172,8 @@ When prescriptions are entered, they are automatically checked by pharmacy softw
 - **Balance Due**: The remaining balance due after insurance payment and copay/deductible.
 
 > ⚠️ **Double-check all billing fields. Incorrect DAW codes, expired refills, or wrong days supply can trigger audits or denials.**
+
+`WATCH FOR DUR ALERTS`
 
 ### 🛑 Common Third-Party Rejections & Resolutions
 
@@ -299,15 +303,6 @@ Technicians **may**:
 - Patient is in a **Long‑Term Care Facility (LTCF)**
 - Patient is in **hospice** (must be noted on Rx)
 - Prescription is for a **compounded product** for direct administration (e.g., IV infusion)
-
-## ✅ Technician Field Readiness Checklist
-
-- [ ] Familiar with CA prescription security and eRx rules
-- [ ] Can identify complete vs incomplete prescriptions
-- [ ] Can translate and enter sigs accurately
-- [ ] Understands technician scope of practice
-- [ ] Can calculate days supply and flag inconsistencies
-- [ ] Knows when to refer to pharmacist (DUR, forgery, unclear orders)
 
 ---
 
