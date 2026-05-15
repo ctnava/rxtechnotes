@@ -42,11 +42,11 @@
 
 ## Kefauver-Harris Amendment (1962)
 
-`Drugs must also be proven EFFECTIVE for their intended use`
+`Drugs must also be proven SAFE & EFFECTIVE for their intended use`
 
 - **Thalidomide Tragedy**: a drug used to treat morning sickness in pregnant women caused severe birth defects in children; enacted in response.
   - 🤯 Thalidomide is now FDA-approved for treating multiple myeloma and leprosy. Use requires strict risk acknowledgment from both men and women.
-- **Pre-Marketing Approval**: requires pre-marketing approval from the FDA before a drug could be marketed; must be proven **effective**
+- **Pre-Marketing Approval**: requires pre-marketing approval from the FDA before a drug could be marketed; must be proven **safe & effective**
 - **Good Manufacturing Practices (GMP)**: formalizes guidelines for how drugs are manufactured, processed, packaged, and held to ensure they meet quality standards.
 - **Adverse Event Reporting**: requires that adverse events reported during clinical trials be reported to the FDA.
 
