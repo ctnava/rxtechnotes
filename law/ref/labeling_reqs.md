@@ -75,7 +75,11 @@ Barcoding and serialization are mandated under the **Drug Supply Chain Security 
 > - 🛡️ Pharmacists and technicians must **scan and verify 2D barcodes** during prescription processing, especially for controlled substances and REMS drugs.
 > - 📌 Always inspect labels for **tampering or misprints**, especially if barcodes do not resolve in your system.
 
-## Risk Evaluation & Mitigation Strategies (REMS)
+## Prescription Labeling Requirements
+
+<!-- todo move into here -->
+
+## Risk Evaluation & Mitigation Strategies (REMS) Compliance
 
 **Risk Evaluation & Mitigation Strategies (REMS)** are required safety programs for medications with known or potential serious risks that must be managed to ensure that the drug’s benefits outweigh its risks; particularly those that are addictive (e.g. Opioids, Stimulants, Benzodiazepines), hazardous (e.g. Birth Control, Oncologics, Biologics), or understudied (e.g. Gabapentin).
 
