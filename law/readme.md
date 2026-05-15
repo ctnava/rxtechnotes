@@ -39,6 +39,7 @@ The foundational laws of the Food & Drug Administration (FDA).
 | **Title** | **Notes** |
 | ----------- | ----------- |
 | **Fair Packaging & Labeling Act (FPLA, 1967)** | Requires clear, truthful labels showing manufacturer info, quantity, and product identity. |
+| **Poison Prevention Packaging Act (PPPA, 1970)** | Requires Childproof packaging on all controlled and most prescription drugs dispensed by pharmacies. Non-childproof containers may only be used on prescriber or patient request |
 | **Drug Listing Act (1972)** | Requires drugs to have an 11-digit National Drug Code identifying manufacturer, product, and packaging. |
 | 🤯 **Drug Supply Chain Security Act (DSCSA, 2013)** | Mandates unique product identifiers, 2D barcodes, electronic tracking, and rapid counterfeit reporting. |
 
