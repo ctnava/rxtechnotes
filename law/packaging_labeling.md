@@ -1,6 +1,6 @@
 # Extended Packaging & Labeling Policy
 
-## Fair Packaging & Labeling Act (FPLA, 1967)
+## Fair Packaging & Labeling Act (FPLA, 1966)
 
 The Fair Packaging and Labeling Act (FPLA) requires all consumer products (including over-the-counter (OTC) drugs and many prescription drug packages) to bear labels that are truthful, standardized, and easy for consumers to understand. Enforced by the FDA (for food, drugs, cosmetics) and the FTC (for other consumer goods), this act ensures transparency and prevents deceptive packaging.
 
