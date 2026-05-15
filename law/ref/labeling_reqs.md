@@ -40,7 +40,7 @@ Manufacturer Stock Label
 
 ![OTC Label](./img/otc_label.PNG)
 
-### National Drug Code (NDC) Format
+#### National Drug Code (NDC) Format
 
 The NDC is a unique 10- or **11-digit**, 3-segment number that identifies all FDA-approved drug products. It is required on prescription drug labels and often found on OTC products as well.
 
@@ -62,7 +62,7 @@ The NDC is a unique 10- or **11-digit**, 3-segment number that identifies all FD
 
 > 🛡️ Always verify the NDC on **both the primary and secondary packaging** during dispensing. Report discrepancies to a pharmacist immediately.
 
-### Barcodes & Serialization
+#### Barcodes & Serialization
 
 Barcoding and serialization are mandated under the **Drug Supply Chain Security Act (DSCSA)** to prevent counterfeit drugs and support recalls. Manufacturers must affix machine-readable codes to **each smallest saleable unit**.
 
