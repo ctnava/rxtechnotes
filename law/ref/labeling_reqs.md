@@ -77,7 +77,7 @@ Barcoding and serialization are mandated under the **Drug Supply Chain Security 
 > - 🛡️ Pharmacists and technicians must **scan and verify 2D barcodes** during prescription processing, especially for controlled substances and REMS drugs.
 > - 📌 Always inspect labels for **tampering or misprints**, especially if barcodes do not resolve in your system.
 
-## Prescription Labeling Requirements
+## Dispensed Prescription Drug Label Requirements
 
 <!-- todo move into here -->
 
