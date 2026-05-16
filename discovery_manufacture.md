@@ -19,6 +19,8 @@ There exist two commercial categories of drugs:
 - **Brand Name Drugs**: Original drugs developed by pharmaceutical companies, protected by patents, and marketed under proprietary names
 - **Generic Drugs**: Copies of brand-name drugs that have the same active ingredients, strength, dosage form, and route of administration, but sold under generic chemical names or different brand names after the original patent expires
 
+> These regulations also cover insulins, vaccines, biologics, & devices.
+
 ### 🏭 Good Manufacturing Practices (GMP)
 
 Manufacturers of, both, brand and generic drugs must comply with stringent FDA standards during production and distribution. **Good Manufacturing Practices (GMP)** are FDA-enforced standards ensuring drug consistency, safety, and quality. Strengthened by the 🦅 **Kefauver-Harris Amendment (1962)**, GMPs apply to all manufacturers.
