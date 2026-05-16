@@ -263,32 +263,48 @@ There are 3 numerical classes of recalls.
 | 2 (Moderate Urgency) | May cause reversible harm; serious effects are unlikely |
 | 3 (Lowest Urgency) | Not likely to cause harm; violates labeling or manufacturing standards |
 
-Recalls are generally handled in 4 steps.
+🛑 **Recall Steps**
 
-1. **Reports of Adverse Effects** The FDA receives enough reports of adverse effects or misbranding (through MedWatch or VAERS) that it decides the product is a threat and contacts the manufacturer to recall.
-   - 🤯 Recalls may be initiated by the manufacturer voluntarily without FDA involvement
-2. **Manufacturer Notice** The manufacturer establishes a plan to recall that addresses severity, warns the public, and a means for checking the effectiveness of the recall.
-3. **Public Notice** The manufacturer contacts customers (e.g. wholesalers, pharmacies, & more) to notify them that a product of a certain name, size, lot number, serial number, or any other identifiers are being recalled. This notice includes the nature of the recall and the amount of danger involved so that they may protect their clients. They are also supplied with instructions on what to do with affected products, beginning with the cessation of distribution.
-4. **Public Listing** These recalls are listed in the weekly FDA enforcement report.
+```mermaid
+flowchart TD
+
+    A["<b>1. Reports of Adverse Effects</b><br>
+    • FDA receives ADE reports via MedWatch or VAERS<br>
+    • FDA determines product poses a safety or misbranding risk<br>
+    • FDA contacts manufacturer to initiate recall<br>
+    • Note: Manufacturers may also initiate recalls voluntarily"] --> B
+
+    B["<b>2. Manufacturer Recall Plan</b><br>
+    • Manufacturer develops recall strategy<br>
+    • Assesses severity (Class I, II, III)<br>
+    • Plans public warnings if needed<br>
+    • Establishes method to verify recall effectiveness"] --> C
+
+    C["<b>3. Public & Customer Notification</b><br>
+    • Manufacturer notifies wholesalers, pharmacies, distributors, etc.<br>
+    • Notice includes product name, size, lot/serial numbers<br>
+    • Describes hazard level and instructions for handling affected stock<br>
+    • Distribution must stop immediately"] --> D
+
+    D["<b>4. FDA Public Listing</b><br>
+    • Recall posted in FDA Weekly Enforcement Report<br>
+    • Publicly accessible database of all active recalls<br>
+    • FDA monitors recall progress and closure"] 
+
+```
 
 > 🤯 The Environmental Protection Agency's (EPA) Resource Conservation Recovery Act (RCRA) governs the generation, management, storage, treatment, and disposal of hazardous wastes. This includes medication and other drugs.
+
+#### The Role of a Technician
+
+<!-- TODO: Move this into an SOP for recall handling (link in pharmacy inventory chapter) -->
+
+Technicians must stay up to date with recalls posted online. When a recall is brought to their attention, they must alert the pharmacist and store management; providing information for patient outreach.
+
+Link to 🔗 [SOP: Handling Drug and Product Recalls](./sop/inv_recalls.md)
 
 ---
 
 ## 🗺️🔗 Nav Links
 
 - 🏠 [Home Directory](./readme.md)
-
-### The Role of a Technician
-
-<!-- TODO: Move this into an SOP for recall handling (link in pharmacy inventory chapter) -->
-
-Technicians must stay up to date with recalls posted online. When a recall is brought to their attention, they must alert the pharmacist and store management; providing information for patient outreach. Recalls are generally handled in the pharmacy with the following methodology:
-
-| Step | Description |
-| --- | --- |
-| Verify | Verify the recall details (lot number, expiration date, affected batches) to see if affected lot numbers are present on shelves. |
-| Remove | Remove affected products from inventory and quarantine them. |
-| Notify | Notify affected patients and healthcare providers (with online alerts, telephone calls, and physical notices) to instruct them to discontinue use. Additionally, arrange for refunds & exchanges. |
-| Follow | Follow manufacturer or FDA instructions for return or disposal of products. Stay alert for further guidance. |
-| Document | Document actions taken for pharmacy records to report compliances to regulatory authorities as required. |
