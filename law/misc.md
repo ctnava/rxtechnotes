@@ -2,13 +2,17 @@
 
 ## Occupational Safety & Health Act (OSHA, 1970)
 
+`Enforced by OSHA`
+
 Ensures workplace safety nationwide. Employers must:
 
 - Train employees on safety protocols
 - Provide **Personal Protective Equipment (PPE)** when exposure to hazardous substances is possible
 - Maintain **Safety Data Sheets (SDS)** for all hazardous substances to explain the risks of exposure, handling instructions, and protocols necessary to prevent harm from such incidents.
 
-> ⚠️ Chemotherapy agents and other hazardous drugs must have Safety Data Sheets!
+> **Chemotherapy**, **antineoplastics**, & **cytotoxic agents** are some of many categories of hazardous drugs
+
+🔗 [USP SDS Online Database](https://www.uspmsds.com/)
 
 ## Red Flag Rule (2007)
 
