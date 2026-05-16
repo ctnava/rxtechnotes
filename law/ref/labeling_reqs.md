@@ -83,6 +83,8 @@ Barcoding and serialization are mandated under the **Drug Supply Chain Security 
 
 Dispensed prescription labels serve as the **primary source of patient-facing instructions** and must meet federal, state, and professional standards for clarity, safety, and accuracy. Technicians are responsible for ensuring that all required elements are present, legible, and consistent with the prescriber’s order and the product dispensed. Errors in labeling can lead to medication misadventures, insurance rejections, and regulatory violations.
 
+![Prescription Label Requirements](./img/rx_label_requirements.PNG)
+
 ### Checklist
 
 A complete prescription label must include the following components:

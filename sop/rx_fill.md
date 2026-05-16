@@ -75,8 +75,6 @@ Technicians are the first line of defense when it comes to medication safety.
    - See 🔗 [Dispensed Prescription Drug Labeling Requirements](../law/ref/labeling_reqs.md#dispensed-prescription-drug-labeling-requirements)
 3. Bundle all printed labeling into (**including PPI & MedGuides** with corresponding prescription numbers) color-coded bin
 
-![Prescription Label Requirements](./img/rx_label_requirements.PNG)
-
 ---
 
 ## 2. 🧪 Selection and Labeling
