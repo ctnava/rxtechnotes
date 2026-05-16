@@ -155,6 +155,8 @@ Reference:
 
 ## 📞 Customer Service
 
+`The main limitation for assisting patients is that ONLY pharmacists may recommend or counsel on the use of OTC products.`
+
 ### Phone Calls
 
 Pharmacy technicians must answer calls promptly, communicate clearly and respectfully, gather accurate information, and route clinical inquiries appropriately to ensure professional, accurate, and HIPAA-compliant telephone communication with patients, providers, and other parties contacting the pharmacy.
