@@ -260,7 +260,7 @@ MedWatch Videos
 
 Recalls are the most cost-effective way to remove drugs from circulation because they leverage the manufacturer's current infrastructure and knowledge to retrieve offending drugs. Shipping manifests are used to identify where a drug has been delivered in order to focus efforts on that area.
 
-> Before tamper-evident packaging was implemented, Johnson & Johnson had to recall tylenol because someone started poisoning bottles
+> Before tamper-evident packaging was implemented, Johnson & Johnson had to recall tylenol in 1982 because someone started poisoning bottles
 
 There are 3 numerical classes of recalls.
 
