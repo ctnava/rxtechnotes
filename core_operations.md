@@ -221,6 +221,12 @@ Any question that could influence a patient’s decision to use, avoid, or selec
 
 Link to 🔗 [**Standard Operating Procedure**](./sop/otc_sales.md)
 
+#### Dispensing Exempt Narcotics
+
+Exempt narcotics are low‑dose Schedule V preparations. Although they may be sold without a prescription, they remain controlled substances and require strict pharmacist oversight.
+
+Only a **pharmacist** may authorize and dispense an exempt narcotic. A technician may assist **only after** the pharmacist has completed all required verification and documentation.
+
 ---
 
 ## Prescription Processing
