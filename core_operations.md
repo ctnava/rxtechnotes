@@ -177,6 +177,24 @@ When a patient shows up to the pharmacy for the first time, they usually bring a
 
 Link to 🔗 [**Standard Operating Procedure**](./sop/pt_intake.md)
 
+### Assisting Patients & Pharmacists in Filing MedWatch & VAERS Reports
+
+Pharmacy technicians support the reporting of **adverse drug events (ADEs)**, **product quality issues**, and **vaccine reactions** by gathering accurate information, documenting events, and preparing details for pharmacist review. While pharmacists complete and submit the official reports, technicians ensure the process is efficient, compliant, and well‑documented.
+
+Technicians assist by:
+
+- Identifying when an event may require reporting  
+- Collecting medication, vaccine, lot, and patient details  
+- Documenting the event in the pharmacy system  
+- Preparing information for MedWatch (Form FDA 3500) or VAERS  
+- Supporting follow‑up communication and regulatory compliance  
+
+**MedWatch** is used for drug‑related adverse events, product defects, and medication errors.  
+Link to 🔗 [MedWatch Reporting SOP](./sop/medwatch.md)
+
+**VAERS** is used for vaccine‑related adverse events and administration errors.  
+Link to 🔗 [VAERS Reporting SOP](./sop/vaers.md)
+
 ---
 
 ## Prescription Processing

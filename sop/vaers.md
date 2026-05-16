@@ -77,3 +77,4 @@ By contributing accurate and timely reports, you can help safeguard both individ
 - 🔗🔙 [Production, Marketing, & Distribution of Medicine](../discovery_manufacture.md#public-safety--recalls)
 - 🔗🔙 [Medication Safety Practices & Errors](../ref/basic_safety_practices.md#national-programs)
 - 🥚 [Original Essay](./essay_understanding_vaers.pdf)
+- 🔗🔙 [Core Pharmacy Workflows & Standard Operating Procedures (SOP)](../core_operations.md#assisting-patients--pharmacists-in-filing-medwatch--vaers-reports)

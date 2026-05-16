@@ -162,3 +162,4 @@ All pharmacy staff must receive annual training on:
 
 - 🔗🔙 [Production, Marketing, & Distribution of Medicine](../discovery_manufacture.md#public-safety--recalls)
 - 🔗🔙 [Medication Safety Practices & Errors](../ref/basic_safety_practices.md#national-programs)
+- 🔗🔙 [Core Pharmacy Workflows & Standard Operating Procedures (SOP)](../core_operations.md#assisting-patients--pharmacists-in-filing-medwatch--vaers-reports)
