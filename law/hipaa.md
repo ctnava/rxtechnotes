@@ -229,7 +229,7 @@ Physical security protocols protect the hardware and locations where ePHI is acc
 
 Pharmacies must:
 
-- Train staff on HIPAA at regular intervals
+- Train staff on HIPAA on an **annual basis**
 - Post and offer patients a Notice of Privacy Practices
 - Provide access to PHI upon patient request (within 30 days)
 - Appoint a **Privacy Officer** and maintain written policies
@@ -243,7 +243,7 @@ Pharmacies must:
 
 #### 🛑 Common Violations
 
-- Sharing PHI (e.g. with spouses and relatives) without **express consent** from the patient
+- Sharing PHI (e.g. with spouses and relatives) without **active approval** from the patient
 - Discussing PHI in public areas (i.e. **gossip**)
 - Accessing a patient’s chart without a valid reason
 - Disposing of printed PHI in regular trash
