@@ -128,21 +128,6 @@ Step 5: **Post-Market Surveillance** (Ongoing)
 
 `patents typically last 20 years from the time of filing, therefore drugs are typically released with half of their patent time left; extendable by 5 years due to Hatch-Waxman (1984)`
 
-### Risk Evaluation & Mitigation Strategies (REMS) Compliance
-
-**Risk Evaluation & Mitigation Strategies (REMS)** are required safety programs for medications with known or potential serious risks that must be managed to ensure that the drug’s benefits outweigh its risks; particularly those that are addictive (e.g. Opioids, Stimulants, Benzodiazepines), hazardous (e.g. Birth Control, Oncologics, Biologics), or understudied (e.g. Gabapentin).
-
-Depending on the drug, a REMS program may include one or more of the following:
-
-- Mandated **Medication guides** or **patient package inserts (PPIs)**
-- Prescriber training and certification requirements
-- Pharmacy certification and restricted dispensing systems
-- Enrollment of patients in registries or special monitoring programs!
-  - e.g. iPLEDGE for Accutane due to severe birth defects
-
-> The FDA's Center for Drug Evaluation & Research (CDER) provides an Index to Drug-Specific information
-> 🔗 [Postmarket Drug Safety Information for Patients and Providers](https://www.fda.gov/drugs/drug-safety-and-availability/postmarket-drug-safety-information-patients-and-providers)
-
 ### Generic Drug Manufacturing Authorization
 
 `Once a patent for a brand name drug expires, other manufacturers may copy the drug and release it under its generic name.`

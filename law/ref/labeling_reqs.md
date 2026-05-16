@@ -176,15 +176,26 @@ Refer to **USP <659> Packaging & Storage** and state board regulations for speci
 
 Accurate labeling is one of the most important safety steps in the dispensing workflow. Technicians must treat every label as a **critical safety document**, not just a sticker.
 
-### Standalone Printouts
+### Risk Evaluation & Mitigation Strategies (REMS) Compliance
 
-Additional documents, with information not on the stock or prescription label themselves, dispensed with the product
+**Risk Evaluation & Mitigation Strategies (REMS)** are required safety programs for medications with known or potential serious risks that must be managed to ensure that the drug’s benefits outweigh its risks; particularly those that are addictive (e.g. Opioids, Stimulants, Benzodiazepines), hazardous (e.g. Birth Control, Oncologics, Biologics), or understudied (e.g. Gabapentin).
+
+Depending on the drug, a REMS program may include one or more of the following:
+
+- Mandated **Medication guides** or **patient package inserts (PPIs)**
+- Prescriber training and certification requirements
+- Pharmacy certification and restricted dispensing systems
+- Enrollment of patients in registries or special monitoring programs!
+  - e.g. iPLEDGE for Accutane due to severe birth defects
+
+> The FDA's Center for Drug Evaluation & Research (CDER) provides an Index to Drug-Specific information
+> 🔗 [Postmarket Drug Safety Information for Patients and Providers](https://www.fda.gov/drugs/drug-safety-and-availability/postmarket-drug-safety-information-patients-and-providers)
 
 #### 📰 Patient Package Inserts (PPIs)
 
 `For potentially dangerous drugs`
 
-PPIs are FDA-regulated documents that must accompany specific drug classes. They differ from MedGuides in that they are **drug-class specific** and are not required for every outpatient medication. They are dispensed at:
+PPIs are FDA-regulated documents that must accompany specific drug classes. They are **not** required for every outpatient medication. They are dispensed at:
 
 - **Retail Pharmacies** with every fill/refill of a covered product.
 - **Institutions** (e.g. hospital) before first administration, and every 30 days during therapy.
