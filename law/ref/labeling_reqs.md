@@ -79,9 +79,100 @@ Barcoding and serialization are mandated under the **Drug Supply Chain Security 
 > - 🛡️ Pharmacists and technicians must **scan and verify 2D barcodes** during prescription processing, especially for controlled substances and REMS drugs.
 > - 📌 Always inspect labels for **tampering or misprints**, especially if barcodes do not resolve in your system.
 
-## Dispensed Prescription Drug Labels
+## Dispensed Prescription Drug Labeling Requirements
 
-<!-- todo move into here -->
+Dispensed prescription labels serve as the **primary source of patient-facing instructions** and must meet federal, state, and professional standards for clarity, safety, and accuracy. Technicians are responsible for ensuring that all required elements are present, legible, and consistent with the prescriber’s order and the product dispensed. Errors in labeling can lead to medication misadventures, insurance rejections, and regulatory violations.
+
+### Checklist
+
+A complete prescription label must include the following components:
+
+#### Pharmacy Contact Information
+
+- [ ] **Pharmacy Name**
+- [ ] **Address**
+- [ ] **Telephone Number**
+
+This information ensures patients and providers can contact the pharmacy for refills, clarifications, or clinical questions.
+
+#### Patient Identifiers
+
+- [ ] **Patient Name**
+- [ ] **Patient Address** (required in many states; always required for controlled substances)
+
+Accurate patient identifiers prevent mix-ups and support insurance adjudication and controlled-substance tracking.
+
+#### Prescriber Identifiers
+
+- [ ] **Prescriber Name**
+- [ ] (Optional) Prescriber Address or DEA/NPI, depending on state requirements
+
+#### Adjudication & Tracking Details
+
+- [ ] **Prescription Number (Rx#)**  
+  - Appears as: `RxNumber–TransactionNumber` when applicable  
+- [ ] **National Drug Code (NDC)** or **Drug Identification Number (DIN)**  
+- [ ] **Refill Information** (e.g., “0 refills remaining”)
+
+These fields support billing, refill management, and DSCSA traceability.
+
+#### Dispensing Details
+
+- [ ] **Data Entry Technician Initials**
+- [ ] **Filling Technician Initials**
+- [ ] **Fill Date** (“Date Dispensed”)
+- [ ] **Expiration Date**  
+  - Use stock bottle expiration **or** 1 year from fill date, whichever is sooner  
+- [ ] **Space for Pharmacist Initials**  
+  - Signed during final verification
+
+These elements document the workflow and support audit trails, quality assurance, and regulatory compliance.
+
+#### Prescription Directions & Drug Information
+
+- [ ] **Inscription** (drug name, strength, dosage form)
+- [ ] **Signa** (patient instructions)
+- [ ] **Quantity Dispensed**
+
+The inscription and signa must match the prescriber’s intent and be written in **clear, patient-friendly language**. Avoid abbreviations unless required by system formatting.
+
+### Auxiliary Labels & Safety Information
+
+Depending on the medication, the system may prompt for:
+
+- Shake well  
+- Take with food  
+- Avoid sunlight  
+- May cause drowsiness  
+- Refrigerate  
+- Controlled substance warnings  
+- Hazardous drug precautions  
+
+Technicians must verify that all **required auxiliary labels** are applied and that they do not obscure critical information.
+
+> 🔐 **Controlled Medication** requires the label "Caution: Federal law prohibits the transfer of this drug to any person other than the patient for whom it was prescribed"
+
+### Container Requirements
+
+Dispensed medications must be placed in containers that:
+
+- Preserve stability and integrity  
+- Are child-resistant unless exempted  
+- Are appropriately sized to avoid crushing or damaging tablets  
+- Include tamper-evident features when required  
+
+Refer to **USP <659> Packaging & Storage** and state board regulations for specifics.
+
+### Best Practices for Technicians
+
+- Always compare the NDC on the **label**, **stock bottle**, and **system entry**  
+- Ensure the drug name and strength match the product dispensed  
+- Confirm that the signa is complete, unambiguous, and readable  
+- Verify that the expiration date is correct and not copied incorrectly  
+- Ensure labels are applied straight, fully adhered, and not covering critical information  
+- For controlled substances, confirm all state‑specific warning labels are present  
+
+Accurate labeling is one of the most important safety steps in the dispensing workflow. Technicians must treat every label as a **critical safety document**, not just a sticker.
 
 ### Standalone Printouts
 
@@ -151,3 +242,10 @@ MedGuides are **FDA-required patient labeling** for outpatient prescription drug
 
 > - 🛡️ Always verify MedGuide availability in your pharmacy system. Most eRx platforms and label software include print flags for drugs that require them.
 > - 🛡️ Always verify the most recent MedGuide version with the FDA [Medication Guide database](https://www.accessdata.fda.gov/scripts/cder/mg/index.cfm).
+
+---
+
+## Navlinks
+
+- 🔙🔗 Back to [**Production, Marketing, & Distribution of Medicine**](../../discovery_manufacture.md#️-marketing--labeling-requirements)
+- 🔙🔗 Back to [**🛠️ SOP — Filling Prescriptions**](../../sop/rx_fill.md#13-the-printing-process)

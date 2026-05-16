@@ -72,40 +72,10 @@ Technicians are the first line of defense when it comes to medication safety.
    - Wait for all prescriptions to be ready before printing
    - tip: use shift+click to select multiple items
 2. Inspect the Printed Label for the following
-   - Pharmacy Contact:
-     - [ ] Pharmacy Name
-     - [ ] Address
-     - [ ] Telephone Number
-   - Patient Identifiers:
-     - [ ] Patient name
-     - [ ] Address
-   - Prescriber Identifiers:
-     - [ ] **Prescriber name**
-   - Adjudication Details:
-     - [ ] Prescription Number
-       - [ ] (optional) Transaction Number
-       - note: Appears on the same line as [RxNumber]-[TxNumber]
-     - [ ] National Drug Code (NDC)/ Drug Identification Number (DIN)
-     - [ ] Refill Information
-   - Dispensing Details:
-     - [ ] Data Entry Tech Initials
-     - [ ] Filling Tech Initials
-     - [ ] Fill Date (also called "Date Dispensed")
-     - [ ] Expiration Date
-       - Date on Stock Bottle or 1 Year from Fill Date
-     - [ ] Space for Pharmacist Initials
-       - Handwritten during verification
-   - Prescription Details:
-     - [ ] Inscription
-     - [ ] Signa
-     - [ ] Quantity
-3. Bundle printed materials into a color-coded bin
-   - [ ] Place all printed prescriptions inside
-   - [ ] Check printer tray for, automatically printed **Medication Guides & Patient Package Inserts (PPIs)**. These always have prescription numbers attached.
-   - [ ] Include **Auxiliary Labels** that identify important usage information; like specific warnings or alerts on administration, storage, side effects, and food or drug interactions
-     - 🔐 **Controlled Medication** requires the label "Caution: Federal law prohibits the transfer of this drug to any person other than the patient for whom it was prescribed"
+   - See 🔗 [Dispensed Prescription Drug Labeling Requirements](../law/ref/labeling_reqs.md#dispensed-prescription-drug-labeling-requirements)
+3. Bundle all printed labeling into (**including PPI & MedGuides** with corresponding prescription numbers) color-coded bin
 
-![Prescription Label Requirements](../ref/img/rx_label_requirements.PNG)
+![Prescription Label Requirements](./img/rx_label_requirements.PNG)
 
 ---
 
