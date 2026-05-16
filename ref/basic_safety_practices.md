@@ -75,8 +75,7 @@ The **Joint Commission (TJC / J‑Co)** and the **Institute for Safe Medication 
 
 ### National Programs
 
-<!-- Todo: 🔗 Filing MedWatch SOP Document Link -->
-- 🔗 **MedWatch:** FDA program for reporting adverse drug events, product defects, and safety concerns.  
+- 🔗 **[MedWatch](../sop/medwatch.md):** FDA program for reporting adverse drug events, product defects, and safety concerns.  
   - Voluntary  
   - Publicly accessible  
   - Used to identify national safety trends  
@@ -85,7 +84,7 @@ The **Joint Commission (TJC / J‑Co)** and the **Institute for Safe Medication 
   - Reports are analyzed by ISMP  
   - Shared with **NCCMERP**, which publishes recommendations and newsletters to prevent similar events across facilities  
 
-- 🔗 **[Vaccine Adverse Event Reporting System (VAERS):](./essays/vaers_overview.md)** FDA & CDC joint program for monitoring vaccine safety.  
+- 🔗 **[Vaccine Adverse Event Reporting System (VAERS):](../sop/vaers.md)** FDA & CDC joint program for monitoring vaccine safety.  
   - Used to track post‑vaccination adverse events  
   - Supports ongoing vaccine safety surveillance
 
