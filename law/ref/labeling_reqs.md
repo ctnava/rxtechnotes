@@ -16,6 +16,7 @@ This section synthesizes key federal statutes and regulations governing how drug
 | ------------- | ------------- | ------------- |
 | **Drug Identity** | Brand and generic name of active ingredient clearly stated | 🦅 21 CFR §201.10; FDCA §502(e) |
 | **Strength** | Quantity of active ingredient per unit (e.g. mg per tablet) | 🦅 21 CFR §201.10(b); FDCA §502(a) |
+| **Inactive Ingredients** (if OTC) | Excipients used in production must be listed in the **Drug Facts** panel | 🦅 FDCA §502(e); 21 CFR §201.66(c)(8) |
 | **Dosage Form** | Physical form (e.g. capsule, solution) and route (oral, topical, etc.) | 🦅 21 CFR §201.100(b); USP standards |
 | **Quantity Statement** | Net contents by weight, volume, or count | 🦅 FDCA §502(b)(2); 21 CFR §201.51 |
 | **National Drug Code (NDC)** | FDA-assigned **11-digit** code identifying manufacturer, drug, and package; sometimes includes NATO Stock Number (NSN) for NATO countries | 🦅 FDCA §510; 21 CFR §207.35 |
