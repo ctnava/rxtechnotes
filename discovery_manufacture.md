@@ -75,8 +75,7 @@ Depending on the drug, a REMS program may include one or more of the following:
 - Prescriber training and certification requirements
 - Pharmacy certification and restricted dispensing systems
 - Enrollment of patients in registries or special monitoring programs
-
-> **Example**: The drug isotretinoin (Accutane), which can cause severe birth defects, is subject to a REMS program called iPLEDGE that requires prescribers, pharmacies, and patients to follow strict steps before dispensing or receiving the medication.
+  - e.g. iPLEDGE for Accutane due to severe birth defects
 
 ### 🏭 Good Manufacturing Practices (GMP)
 
