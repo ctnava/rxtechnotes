@@ -18,9 +18,11 @@ This SOP applies to all pharmacy personnel involved in inventory management, dis
 
 ### Recall Classes
 
-- **Class I:** Reasonable probability of serious adverse health consequences or death.
-- **Class II:** Temporary or medically reversible adverse effects.
-- **Class III:** Not likely to cause adverse health consequences.
+| Class | Description |
+| --- | --- |
+| 1 (Highest Urgency) | Likely to cause serious harm or death |
+| 2 (Moderate Urgency) | May cause reversible harm; serious effects are unlikely |
+| 3 (Lowest Urgency) | Not likely to cause harm; violates labeling or manufacturing standards |
 
 ## 4. Responsibilities
 

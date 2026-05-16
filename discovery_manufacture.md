@@ -293,11 +293,7 @@ flowchart TD
 
 ```
 
-> 🤯 The Environmental Protection Agency's (EPA) Resource Conservation Recovery Act (RCRA) governs the generation, management, storage, treatment, and disposal of hazardous wastes. This includes medication and other drugs.
-
 #### The Role of a Technician
-
-<!-- TODO: Move this into an SOP for recall handling (link in pharmacy inventory chapter) -->
 
 Technicians must stay up to date with recalls posted online. When a recall is brought to their attention, they must alert the pharmacist and store management; providing information for patient outreach.
 
