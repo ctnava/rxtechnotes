@@ -14,12 +14,17 @@ The following are required reading for this chapter:
 
 ## 🧪 Drug Development, Manufacturing Authorization, & Monitoring
 
+Overseen by the FDA's Center for Drug Evaluation & Research (CDER)
+
 There exist two commercial categories of drugs:
 
 - **Brand Name Drugs**: Original drugs developed by pharmaceutical companies, protected by patents, and marketed under proprietary names
 - **Generic Drugs**: Copies of brand-name drugs that have the same active ingredients, strength, dosage form, and route of administration, but sold under generic chemical names or different brand names after the original patent expires
 
-> These regulations also cover insulins, vaccines, biologics, & devices.
+> Other medical products are handled by different FDA centers, which must undergo the same approval process
+>
+> - Center for Devices & Radiological Health (CDRH): Medical Devices
+> - Center for Biologics Evaluation (DBER): Biological Products from Living Organisms
 
 ### 🏭 Good Manufacturing Practices (GMP)
 
