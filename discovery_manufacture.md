@@ -244,8 +244,6 @@ While drug approval processes are thorough, it is impossible to account for ever
 
 If the FDA determines that any drug or vaccine poses a public health risk, then they may file an **injunction** to prevent distribution; seize the drug from the manufacturer; or issue a recall of the drug.
 
-- 🔗 [MedWatch Tips & Tools (Janurary 2016)](https://www.youtube.com/watch?v=7b-fcRQ2Q7k)
-
 ### Recalls
 
 `Recalls, with a few exceptions, are voluntary on the part of the manufacturer`
