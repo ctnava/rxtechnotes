@@ -64,7 +64,6 @@ Step 3: **Clinical Trials** (4-7 Years)
 
 ```mermaid
 flowchart TD
-
     PHASE1["<b>Phase 1</b><br>
     Purpose: Assess Safety<br>
     Time: Several Months<br>
