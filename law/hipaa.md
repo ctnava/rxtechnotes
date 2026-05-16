@@ -287,7 +287,7 @@ Pharmacies must:
 `Amends HIPAA`
 
 - Expands HIPAA by extending accountability to **Business Associates**
-- Promotes **Electronic Health Records (EHR)** and defines **Meaningful Use** standards
+- Defines **Meaningful Use** standards; Promotes **Electronic Health Records (EHR)** and e-prescribing
 - Requires secure **Electronic Data Interchange (EDI)** for billing and records
 - Increases penalties for non-compliance
 
