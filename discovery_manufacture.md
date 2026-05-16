@@ -7,8 +7,6 @@
 
 ## 🦅 Federal Legislation
 
-`Before it is approved for marketing, a new drug must be shown to be both safe and effective; with benefits substantially outweighing risks`
-
 The following are required reading for this chapter:
 
 - 🔗 **FDC, FDCA, & Amendments** (🔗 [Link To](./law/fda_fdca.md))
@@ -43,6 +41,8 @@ GMP compliance requires manufacturers to:
 
 ### Brand Name Drug Development
 
+`Before it is approved for marketing, a new drug must be shown to be both safe and effective; with benefits substantially outweighing risks`
+
 In order for a newly patented, *Brand Name* drug to come to market, the FDA must first approve it. The process generally is as follows
 
 Step 1: **Research & Development** (3-6 Years)
@@ -61,6 +61,15 @@ Step 2: **Preclinical Testing** (1 Year)
 Step 3: **Clinical Trials** (4-7 Years)
 
 `Only about 25% of drugs tested on humans are approved for use by the FDA.`
+
+Clinical trials involve **human research** subjects and are conducted in three phases. Participants must give informed consent and the information necessary to provide it (per Kefauver-Harris Amendment). They are free to leave as they wish.
+
+During clinical trials, a proposed new drug is called an **Investigational New Drug (IND)**.
+
+- only available for use within trial groups unless granted special "treatment" status for critically ill patients (e.g. AZT for treatment of AIDS patients)
+- expensive and excluded from coverage by most insurers & Medicaid/ Medicare
+
+Patients in a trial are always blind to treatment, meaning that they do not know if they are receiving the drug being tested or a placebo. Placebos are inactive substances, not real medications. In "double-blind" testing, providers are also blind so as not to imagine effects one way or another to make medical results more reliable.
 
 ```mermaid
 flowchart TD
@@ -94,8 +103,6 @@ flowchart TD
 ```
 
 > 📌 Pediatric (i.e. targeting children) clinical trials can take place after Phase 2 or 3 Adult trials if the company is trying to get the drug approved for use in children.
-
-Clinical trials involve **human research** subjects and are conducted in three phases. Participants must give informed consent and the information necessary to provide it (per Kefauver-Harris Amendment). They are free to leave as they wish.
 
 Step 4: **Review & Approval** (1-2 Years)
 
