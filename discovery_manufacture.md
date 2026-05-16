@@ -21,6 +21,26 @@ There exist two commercial categories of drugs:
 - **Brand Name Drugs**: Original drugs developed by pharmaceutical companies, protected by patents, and marketed under proprietary names
 - **Generic Drugs**: Copies of brand-name drugs that have the same active ingredients, strength, dosage form, and route of administration, but sold under generic chemical names or different brand names after the original patent expires
 
+### 🏭 Good Manufacturing Practices (GMP)
+
+Manufacturers of, both, brand and generic drugs must comply with stringent FDA standards during production and distribution. **Good Manufacturing Practices (GMP)** are FDA-enforced standards ensuring drug consistency, safety, and quality. Strengthened by the 🦅 **Kefauver-Harris Amendment (1962)**, GMPs apply to all manufacturers.
+
+GMP compliance requires manufacturers to:
+
+- Use validated, standardized manufacturing processes
+- Maintain hygienic, climate-controlled facilities
+- Employ qualified personnel with documented training
+- Keep detailed batch and quality control records
+- Conduct internal audits and allow FDA inspections
+
+🚨 Failure to meet GMP standards may result in:
+
+- Product recalls
+- Civil and criminal penalties
+- Suspension or revocation of manufacturing licenses
+
+📌 *Pharmacy technicians may encounter GMP topics during FDA recalls, QA investigations, or sterile/non-sterile compounding workflows.*
+
 ### Brand Name Drug Development
 
 In order for a newly patented, *Brand Name* drug to come to market, the FDA must first approve it. The process generally is as follows
@@ -79,26 +99,6 @@ Depending on the drug, a REMS program may include one or more of the following:
 
 > The FDA's Center for Drug Evaluation & Research (CDER) provides an Index to Drug-Specific information
 > 🔗 [Postmarket Drug Safety Information for Patients and Providers](https://www.fda.gov/drugs/drug-safety-and-availability/postmarket-drug-safety-information-patients-and-providers)
-
-### 🏭 Good Manufacturing Practices (GMP)
-
-Drug manufacturers must comply with stringent FDA standards during production and distribution. **Good Manufacturing Practices (GMP)** are FDA-enforced standards ensuring drug consistency, safety, and quality. Strengthened by the 🦅 **Kefauver-Harris Amendment (1962)**, GMPs apply to all manufacturers.
-
-GMP compliance requires manufacturers to:
-
-- Use validated, standardized manufacturing processes
-- Maintain hygienic, climate-controlled facilities
-- Employ qualified personnel with documented training
-- Keep detailed batch and quality control records
-- Conduct internal audits and allow FDA inspections
-
-🚨 Failure to meet GMP standards may result in:
-
-- Product recalls
-- Civil and criminal penalties
-- Suspension or revocation of manufacturing licenses
-
-📌 *Pharmacy technicians may encounter GMP topics during FDA recalls, QA investigations, or sterile/non-sterile compounding workflows.*
 
 ### Generic Drug Manufacturing Authorization
 
