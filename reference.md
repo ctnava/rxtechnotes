@@ -37,7 +37,7 @@ Official publications of pharmacy organizations. They reflect professional stand
 
 ### Secondary Literature
 
-Tools that **index, abstract, or help locate** primary literature.  
+Tools & services that **index, abstract (summarize), or help locate** primary literature.  
 They do *not* provide the full article but help you find it.
 
 Examples include:
