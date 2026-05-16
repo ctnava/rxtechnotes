@@ -74,8 +74,11 @@ Depending on the drug, a REMS program may include one or more of the following:
 - Mandated **Medication guides** or **patient package inserts (PPIs)**
 - Prescriber training and certification requirements
 - Pharmacy certification and restricted dispensing systems
-- Enrollment of patients in registries or special monitoring programs
+- Enrollment of patients in registries or special monitoring programs!
   - e.g. iPLEDGE for Accutane due to severe birth defects
+
+> The FDA's Center for Drug Evaluation & Research (CDER) provides an Index to Drug-Specific information
+> 🔗 [Postmarket Drug Safety Information for Patients and Providers](https://www.fda.gov/drugs/drug-safety-and-availability/postmarket-drug-safety-information-patients-and-providers)
 
 ### 🏭 Good Manufacturing Practices (GMP)
 
