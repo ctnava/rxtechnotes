@@ -241,15 +241,14 @@ While drug approval processes are thorough, it is impossible to account for ever
 
 If the FDA determines that any drug or vaccine poses a public health risk, then they may file an **injunction** to prevent distribution; seize the drug from the manufacturer; or issue a recall of the drug.
 
-🔗 [Vaccine Adverse Event Reporting System (VAERS) Overview](./sop/vaers.md)
+🔗 [Vaccine Adverse Event Reporting System (VAERS) Guide](./sop/vaers.md)
+🔗 [Reporting Adverse Drug Events (ADEs) to FDA MedWatch](./sop/medwatch.md)
 
 MedWatch Videos
 
 - 🔗 [MedWatch Minute - For Consumers](https://www.youtube.com/watch?v=Svx4i93cVCI)
 - 🔗 [MedWatch Minute - For Health Professionals](https://www.youtube.com/watch?v=s6LrPeXG7Fo)
 - 🔗 [MedWatch Tips & Tools (Janurary 2016)](https://www.youtube.com/watch?v=7b-fcRQ2Q7k)
-
-<!-- Todo: 🔗 Filing MedWatch SOP Document Link -->
 
 ### Recalls
 

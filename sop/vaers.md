@@ -1,4 +1,4 @@
-# Vaccine Adverse Event Reporting System (VAERS) Overview
+# Vaccine Adverse Event Reporting System (VAERS) Guide
 
 The **U.S. Department of Health & Human Services (HHS)** established the **Vaccine Adverse Event Reporting System (VAERS)** in **1990** as a national surveillance system to detect potential safety concerns related to **U.S.-licensed vaccines**[^1]. It is a joint effort between the **Centers for Disease Control and Prevention (CDC)** and the **U.S. Food and Drug Administration (FDA)** to monitor vaccine safety and respond to emerging risks[^4].
 
