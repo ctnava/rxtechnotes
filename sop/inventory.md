@@ -234,7 +234,7 @@ You’ll learn:
 
 Mastering these workflows ensures **patient safety**, **regulatory compliance**, and a **streamlined inventory system** that supports the entire pharmacy team.
 
-Link to 🔗 [**Standard Operating Procedures**](./sop/inv_intake.md)
+Link to 🔗 [**Standard Operating Procedures**](./inv_intake.md)
 
 ---
 
@@ -252,7 +252,34 @@ You’ll learn:
 
 Mastering these workflows strengthens **regulatory compliance**, protects **patient safety**, and supports a **clean, accountable inventory system** that keeps the pharmacy running smoothly.
 
-Link to 🔗 [**Standard Operating Procedures**](./sop/inv_intake.md)
+Link to 🔗 [**Standard Operating Procedures**](./inv_maintenance.md)
+
+---
+
+## Handling Recalls
+
+Product recalls protect patients from medications or devices that may be **unsafe**, **defective**, **misbranded**, or **contaminated**. Technicians play a critical role in ensuring that recalled products are identified quickly, removed from circulation, and handled according to FDA and manufacturer requirements. Effective recall management prevents patient harm, reduces liability, and maintains regulatory compliance.
+
+You’ll learn:
+
+- How to recognize and verify **recall notices** from FDA, wholesalers, and manufacturers  
+- How to identify **affected NDCs, lots, and expiration dates** in pharmacy inventory  
+- How to properly **quarantine**, label, and secure recalled products  
+- How to assist with **patient and provider notifications**  
+- How to follow **manufacturer or FDA instructions** for return, destruction, or documentation  
+- How to maintain accurate **recall logs** for audits and compliance  
+
+Recalls follow a structured process that ensures rapid removal of unsafe products from the market. In the pharmacy, technicians support this process by:
+
+- Monitoring recall alerts and forwarding them to the pharmacist  
+- Pulling and isolating affected inventory  
+- Preparing patient outreach lists  
+- Documenting all actions taken  
+- Following SOPs for return, disposal, or further instructions  
+
+Mastering recall procedures ensures that the pharmacy responds quickly and safely to protect patients and maintain compliance with federal and state regulations.
+
+Link to 🔗 [**Standard Operating Procedures**](./inv_recalls.md)
 
 ---
 

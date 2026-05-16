@@ -152,4 +152,4 @@ Retention: Minimum 3 years or per state law.
 <!-- todo link to Inventory management section -->
 
 - 🔗🔙 To [Production, Marketing, & Distribution of Medicine](../discovery_manufacture.md#the-role-of-a-technician)
-- 🔗🔙 To [TBA](../discovery_manufacture.md#the-role-of-a-technician)
+- 🔗🔙 To [Inventory Management & Workflows](./inventory.md#handling-recalls)
