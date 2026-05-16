@@ -1,5 +1,23 @@
 # Drug Enforcement Agency (DEA) Policy
 
+## Harrison Narcotics Tax Act (1914)
+
+`marks the beginning of federal substance control`
+
+The **Harrison Narcotics Tax Act** was the first major federal drug law regulating narcotics in the United States. Its purpose was to control the growing misuse and addiction associated with **opiates** and **cocaine** by regulating their distribution through taxation and registration requirements.
+
+- **Registration & Licensing**  
+  Pharmacists, physicians, and importers were required to **register annually** with the federal government to handle narcotics.
+
+- **Taxation Requirements**  
+  Narcotics transactions required **special order forms** and were subject to federal taxes, creating a paper trail for enforcement.
+
+- **Recordkeeping**  
+  Registrants had to maintain detailed records of all narcotic sales and transfers.
+
+- **Restrictions on Prescribing**  
+  Physicians could prescribe narcotics **only in the course of legitimate medical practice**; not for maintaining addiction.
+
 ## 🔐 Controlled Substances Act (CSA, 1970)
 
 `The DEA was established in 1973`

@@ -108,7 +108,7 @@ When performing **medication reconciliation** (the process of gathering a patien
   - Contain **habit-forming ingredients** (e.g. small amounts of codeine)
   - May be sold **by a pharmacist** without a prescription to individuals **18+**
   - Must be logged in a record book with ID verification and quantity tracking  
-  - 🐻 There are no exempt narcotics in California
+  - 🐻 There are is no *practical sale of* exempt narcotics in California
 - **Emergency Contraceptives**:  
   - Example: `Plan B One-Step`
   - Sold **OTC without age restrictions**
