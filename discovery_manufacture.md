@@ -231,7 +231,7 @@ There are 3 main types of supplier: drug manufacturers, specialty pharmacies, an
 
 Wholesalers create regional and national distribution networks, storing bulk purchases in strategically placed warehouses to enable 24–48 hour delivery. They also drop ship lower-volume, high-cost medications on an as-needed basis.
 
-## Public Safety & Recalls
+## Monitoring Public Safety
 
 **Adverse effects** are unintended side affects of a medication that is negative or in some way injurious to a patient's health.
 
@@ -250,6 +250,13 @@ MedWatch Videos
 - 🔗 [MedWatch Tips & Tools (Janurary 2016)](https://www.youtube.com/watch?v=7b-fcRQ2Q7k)
 
 <!-- Todo: 🔗 Filing MedWatch SOP Document Link -->
+
+### Recalls
+
+`Recalls, with a few exceptions, are voluntary on the part of the manufacturer`
+
+- **Manufacturer Recalls**: are initiated when they detect a defect, contamination, or labeling error. When this happens, they are legally required to notify the FDA and take appropriate action.
+- **Pharmacy Chain & Distributor Recalls**: Large pharmacy chains and wholesalers may voluntarily recall products from their shelves to to internal quality checks or concerns raised by pharmacists. They may also respond to manufacturer or FDA recalls by removing affected products from circulation. This can happen in the event that it's discovered that medication was held in improper storage conditions that could compromise effectiveness.
 
 > Recalls are the most cost-effective because they leverage the manufacturer's current infrastructure and knowledge to retrieve offending drugs. Shipping manifests are used to identify where a drug has been delivered in order to focus efforts on that area.
 
@@ -270,13 +277,6 @@ Recalls are generally handled in 4 steps.
 4. **Public Listing** These recalls are listed in the weekly FDA enforcement report.
 
 > 🤯 The Environmental Protection Agency's (EPA) Resource Conservation Recovery Act (RCRA) governs the generation, management, storage, treatment, and disposal of hazardous wastes. This includes medication and other drugs.
-
-### Types Recalls
-
-`Recalls, with a few exceptions, are voluntary on the part of the manufacturer`
-
-- **Manufacturer Recalls**: are initiated when they detect a defect, contamination, or labeling error. When this happens, they are legally required to notify the FDA and take appropriate action.
-- **Pharmacy Chain & Distributor Recalls**: Large pharmacy chains and wholesalers may voluntarily recall products from their shelves to to internal quality checks or concerns raised by pharmacists. They may also respond to manufacturer or FDA recalls by removing affected products from circulation. This can happen in the event that it's discovered that medication was held in improper storage conditions that could compromise effectiveness.
 
 ---
 
