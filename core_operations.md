@@ -197,6 +197,30 @@ Link to 🔗 [MedWatch Reporting SOP](./sop/medwatch.md)
 **VAERS** is used for vaccine‑related adverse events and administration errors.  
 Link to 🔗 [VAERS Reporting SOP](./sop/vaers.md)
 
+### Sale of OTC Listed Chemical Substances (CMEA Compliance)
+
+Pharmacy technicians may assist patients with the **purchase and retrieval** of OTC listed chemical substances regulated under the **Combat Methamphetamine Epidemic Act (CMEA, 2005)**, such as pseudoephedrine, ephedrine, and phenylpropanolamine. These products require strict controls to prevent diversion and must be handled according to federal and state law.
+
+Technicians may:
+
+- Retrieve listed chemical products stored behind the counter or in a locked case  
+- Verify customer age (18+) and check a valid government‑issued photo ID  
+- Record required information in the logbook or electronic tracking system  
+- Ensure daily and 30‑day quantity limits are not exceeded  
+- Provide the product directly to the purchaser after completing all compliance steps  
+- Refer all clinical questions to the pharmacist  
+
+Technicians may **not**:
+
+- Recommend or suggest any OTC product, including listed chemical substances  
+- Provide dosing, safety, or symptom‑based advice  
+- Help patients choose between different OTC products  
+- Interpret symptoms or provide therapeutic guidance  
+
+Any question that could influence a patient’s decision to use, avoid, or select an OTC product, especially one containing pseudoephedrine or other listed chemicals, must be handled by a **licensed pharmacist**.
+
+Link to 🔗 [**Standard Operating Procedure**](./sop/otc_sales.md)
+
 ---
 
 ## Prescription Processing
