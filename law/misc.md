@@ -30,7 +30,7 @@ SDS documents outline:
 
 ---
 
-## Resource Conservation & Recovery Act (RCRA, 1976)
+## 🤯 Resource Conservation & Recovery Act (RCRA, 1976)
 
 `Enforced by the Environmental Protection Agency (EPA)`
 
@@ -57,9 +57,13 @@ The EPA’s *Management Standards for Hazardous Waste Pharmaceuticals* created s
 
 💊 **Examples of RCRA Hazardous Waste Pharmaceuticals**
 
-- **P‑listed**: warfarin (unused), arsenic trioxide  
-- **U‑listed**: cyclophosphamide, chloral hydrate  
-- **Characteristic waste**: ignitable alcohol formulations, certain aerosols  
+- **P‑listed (Immediately Dangerous)**: warfarin (unused), arsenic trioxide  
+- **U‑listed (Toxic; Dangerous Long-Term)**: cyclophosphamide, chloral hydrate  
+- **Characteristic Waste**: ignitable alcohol formulations, certain aerosols  
+  - **Ignitable**: flash point < 60°C / 140°F
+  - **Corrosive**
+  - **Reactive**
+  - **Toxic**: fails the Toxicity Characteristic Leaching Procedure (TCLP, EPA Method 1311) test
 
 > ⚠️ RCRA rules apply to **waste**, not to active inventory. A drug becomes RCRA‑regulated only when it is discarded.
 
