@@ -65,6 +65,19 @@ Step 5: **Post-Market Surveillance** (Ongoing)
 
 `patents typically last 20 years from the time of filing, therefore drugs are typically released with half of their patent time left; extendable by 5 years due to Hatch-Waxman (1984)`
 
+### Risk Evaluation & Mitigation Strategies (REMS) Compliance
+
+**Risk Evaluation & Mitigation Strategies (REMS)** are required safety programs for medications with known or potential serious risks that must be managed to ensure that the drug’s benefits outweigh its risks; particularly those that are addictive (e.g. Opioids, Stimulants, Benzodiazepines), hazardous (e.g. Birth Control, Oncologics, Biologics), or understudied (e.g. Gabapentin).
+
+Depending on the drug, a REMS program may include one or more of the following:
+
+- Mandated **Medication guides** or **patient package inserts (PPIs)**
+- Prescriber training and certification requirements
+- Pharmacy certification and restricted dispensing systems
+- Enrollment of patients in registries or special monitoring programs
+
+> **Example**: The drug isotretinoin (Accutane), which can cause severe birth defects, is subject to a REMS program called iPLEDGE that requires prescribers, pharmacies, and patients to follow strict steps before dispensing or receiving the medication.
+
 ### 🏭 Good Manufacturing Practices (GMP)
 
 Drug manufacturers must comply with stringent FDA standards during production and distribution. **Good Manufacturing Practices (GMP)** are FDA-enforced standards ensuring drug consistency, safety, and quality. Strengthened by the 🦅 **Kefauver-Harris Amendment (1962)**, GMPs apply to all manufacturers.
@@ -110,18 +123,35 @@ Step 3: **Post-Market Surveillance & Safety Monitoring**
 
 If the ANDA meets FDA requirements, the generic drug is approved for marketing. Generic drugs are also subject to the same post-market safety monitoring as brand name drugs.
 
-### Risk Evaluation & Mitigation Strategies (REMS) Compliance
+#### Generic Over-the-Counter Drugs
 
-**Risk Evaluation & Mitigation Strategies (REMS)** are required safety programs for medications with known or potential serious risks that must be managed to ensure that the drug’s benefits outweigh its risks; particularly those that are addictive (e.g. Opioids, Stimulants, Benzodiazepines), hazardous (e.g. Birth Control, Oncologics, Biologics), or understudied (e.g. Gabapentin).
+Generic OTC drugs follow a **different approval pathway** than prescription generics. Instead of submitting an ANDA, most OTC manufacturers rely on **OTC Drug Monographs**, which function like “recipe books” describing what is **Generally Recognized As Safe and Effective (GRASE)**:
 
-Depending on the drug, a REMS program may include one or more of the following:
+An OTC monograph specifies:
 
-- Mandated **Medication guides** or **patient package inserts (PPIs)**
-- Prescriber training and certification requirements
-- Pharmacy certification and restricted dispensing systems
-- Enrollment of patients in registries or special monitoring programs
+- **Active ingredients** allowed  
+- **Dosage strengths**  
+- **Dosage forms & routes**  
+- **Labeling requirements**  
+- **Intended uses**  
 
-> **Example**: The drug isotretinoin (Accutane), which can cause severe birth defects, is subject to a REMS program called iPLEDGE that requires prescribers, pharmacies, and patients to follow strict steps before dispensing or receiving the medication.
+If a manufacturer follows the monograph exactly, the product is considered **GRASE** and may be marketed **without** submitting a New Drug Application (NDA) or ANDA.
+
+- Manufacturers may produce OTC drugs using **any monograph‑approved active ingredient**  
+- No clinical trials are required if the product conforms to the monograph  
+- Products must still comply with:
+  - **GMP standards**
+  - **Labeling rules**
+  - **Facility inspections**
+  - **Post‑market safety monitoring**
+
+Some OTC drugs were already on the market **before** modern FDA approval requirements existed. These are reviewed under the **OTC Drug Review Program**, which evaluates:
+
+- Safety  
+- Effectiveness  
+- Labeling  
+
+Until review is complete, these products may remain on the market **unless safety concerns arise**.
 
 ## 🏷️ Marketing & Labeling Requirements
 
