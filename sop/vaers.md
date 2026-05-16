@@ -74,6 +74,6 @@ By contributing accurate and timely reports, you can help safeguard both individ
 
 ## 🗺️🔗 Nav Links
 
-- 🔗🔙 [Production, Marketing, & Distribution of Medicine](../../discovery_manufacture.md#public-safety--recalls)
-- 🔗🔙 [Medication Safety Practices & Errors](../basic_safety_practices.md#national-programs)
+- 🔗🔙 [Production, Marketing, & Distribution of Medicine](../discovery_manufacture.md#public-safety--recalls)
+- 🔗🔙 [Medication Safety Practices & Errors](../ref/basic_safety_practices.md#national-programs)
 - 🥚 [Original Essay](./essay_understanding_vaers.pdf)

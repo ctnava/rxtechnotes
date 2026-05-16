@@ -157,3 +157,8 @@ All pharmacy staff must receive annual training on:
 - [MedWatch Medical Product Safety Educational Resources & Practice Reporting](https://www.fda.gov/safety/medwatch-fda-safety-information-and-adverse-event-reporting-program/medical-product-safety-educational-resources)
 
 ---
+
+## 🗺️🔗 Nav Links
+
+- 🔗🔙 [Production, Marketing, & Distribution of Medicine](../discovery_manufacture.md#public-safety--recalls)
+- 🔗🔙 [Medication Safety Practices & Errors](../ref/basic_safety_practices.md#national-programs)
