@@ -68,7 +68,7 @@
 - [x] DenaliRx Drugs 61-80
 - [x] Reading: Chapter 7 - Prescriptions (QUICK)
   - [x] import checklists
-- [ ] Reading: Chapter 3 - Pharmacy Law, Regulations, & Ethics (QUICK)
+- [x] Reading: Chapter 3 - Pharmacy Law, Regulations, & Ethics (QUICK)
 - [x] Prescription Intake Video & Quiz
 - [x] Drug Package Inserts
 - [x] Math: Chapter 13 - Insulin Math
