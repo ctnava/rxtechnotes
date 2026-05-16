@@ -4,21 +4,63 @@
 
 `marks the beginning of federal substance control`
 
-The **Harrison Narcotics Tax Act** was the first major federal drug law regulating narcotics in the United States. Its purpose was to control the growing misuse and addiction associated with **opiates** and **cocaine** by regulating their distribution through taxation and registration requirements.
+The **Harrison Narcotics Tax Act of 1914** was the first major federal drug law in the United States and established the foundation for all modern controlled‑substance regulation. Although framed as a *tax law*, it effectively created federal control over the manufacture, distribution, and dispensing of narcotics.
+
+The Act regulated **opium**, **morphine**, **heroin**, **cocaine**, and related preparations by imposing registration, taxation, and recordkeeping requirements on anyone who handled these substances.
+
+### Key Provisions
 
 - **Registration & Licensing**  
-  Pharmacists, physicians, and importers were required to **register annually** with the federal government to handle narcotics.
+  Physicians, pharmacists, and anyone handling narcotics were required to **register annually** with the federal government.
 
 - **Taxation Requirements**  
-  Narcotics transactions required **special order forms** and were subject to federal taxes, creating a paper trail for enforcement.
+  Narcotic transactions required **special order forms** and were subject to federal taxes, creating a traceable paper trail.
 
 - **Recordkeeping**  
-  Registrants had to maintain detailed records of all narcotic sales and transfers.
+  Registrants were required to maintain detailed records of all narcotic sales, transfers, and inventories.
 
 - **Restrictions on Prescribing**  
-  Physicians could prescribe narcotics **only in the course of legitimate medical practice**; not for maintaining addiction.
+  Narcotics could only be prescribed **in the course of legitimate medical practice**.  
+  Prescribing narcotics to maintain addiction was prohibited
+
+### Creation of "Exempt Narcotic" Preparations
+
+The Harrison Act also created the first legal category of **exempt narcotics**; low‑dose preparations containing small amounts of opium, morphine, codeine, or other narcotics that could be sold **without a prescription** if they fell below specific concentration limits.
+
+These exempt preparations:
+
+- Could be sold **only by a pharmacist**  
+- Required purchasers to be **at least 18 years old** & provide identification
+- Required a **bound record book** documenting each sale  
+- Were limited to a maximum quantity per **48‑hour period**
+
+Examples at the time included paregoric and low‑dose codeine cough syrups.
+
+### Logbook Requirements
+
+The Harrison Narcotics Tax Act required pharmacies to maintain a **bound, written record book** documenting every sale of an exempt narcotic preparation. This logbook served as the federal government’s primary method of tracking non‑prescription narcotic sales and preventing diversion.
+
+Each entry in the bound record book was required to include:
+
+- **Purchaser's full name**
+- **Purchaser's address**
+- **Name of the exempt narcotic sold**
+- **Quantity dispensed**
+- **Date of sale**
+- **Name or initials of the pharmacist** who authorized and dispensed the product
+
+Additional requirements:
+
+- The logbook had to be **bound**, not loose‑leaf, to prevent removal or alteration of pages.
+- Entries had to be made **at the time of sale**, not retroactively.
+- Records had to be **readily retrievable** for federal inspection.
+- Pharmacists were responsible for ensuring accuracy and completeness of all entries.
+
+These logbook requirements formed the earliest version of controlled‑substance tracking in the United States and directly influenced the modern recordkeeping standards later codified under the **Controlled Substances Act (CSA, 1970)**.
 
 ## 🔐 Controlled Substances Act (CSA, 1970)
+
+> When the **Controlled Substances Act (CSA, 1970)** replaced the Harrison Act, the exempt narcotic category was preserved and incorporated into **Schedule V**, with modernized restrictions and pharmacist‑only oversight.
 
 `The DEA was established in 1973`
 
