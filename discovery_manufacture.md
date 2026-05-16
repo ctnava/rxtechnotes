@@ -62,33 +62,31 @@ Step 3: **Clinical Trials** (4-7 Years)
 
 `Only about 25% of drugs tested on humans are approved for use by the FDA.`
 
-Clinical trials involve **human research** subjects and are conducted in three phases. Participants must give informed consent and the information necessary to provide it (per Kefauver-Harris Amendment). They are free to leave as they wish.
-
 ```mermaid
 flowchart TD
 
-    A["<b>Phase 1</b><br>
+    PHASE1["<b>Phase 1</b><br>
     Purpose: Assess Safety<br>
     Time: Several Months<br>
     Population: 20–80 Healthy Volunteers<br>
-    Notes: First‑in‑human; side‑effect profiling"] --> B
+    Notes: First‑in‑human; side‑effect profiling"] --> PHASE2
 
-    B["<b>Phase 2</b><br>
+    PHASE2["<b>Phase 2</b><br>
     Purpose: Assess Efficacy + Ongoing Safety<br>
     Time: Several Months – 2 Years<br>
     Population: 100–300 Patients<br>
-    Notes: Controlled & double‑blind; placebo comparison"] --> C
+    Notes: Controlled & double‑blind; placebo comparison"] --> PHASE3
 
-    C["<b>Phase 3</b><br>
+    PHASE3["<b>Phase 3</b><br>
     Purpose: Confirm Efficacy + Expand Safety Data<br>
     Time: 1 – 4 Years<br>
     Population: 1,000–3,000 Patients<br>
-    Notes: Interactions, dose‑response, broad population testing"] --> D
+    Notes: Interactions, dose‑response, broad population testing"] --"Review & Approval (1-2 Years)"--> PHASE4
     
-    B -- "<b>Pediatric Testing Round</b></br>Only required for pediatric labeling; may be deferred"--> A
-    C -- "<b>Pediatric Testing Round</b></br>Only required for pediatric labeling; may be deferred"--> A
+    PHASE2 -- "<b>Pediatric Testing Round</b></br>Only required for pediatric labeling; may be deferred"--> PHASE1
+    PHASE3 -- "<b>Pediatric Testing Round</b></br>Only required for pediatric labeling; may be deferred"--> PHASE1
 
-    D["<b>Phase 4</b><br>
+    PHASE4["<b>Phase 4</b><br>
     Purpose: Post-Market Surveillance<br>
     Time: Perpetual<br>
     Population: All Patients<br>
@@ -97,6 +95,8 @@ flowchart TD
 ```
 
 > 📌 Pediatric (i.e. targeting children) clinical trials can take place after Phase 2 or 3 Adult trials if the company is trying to get the drug approved for use in children.
+
+Clinical trials involve **human research** subjects and are conducted in three phases. Participants must give informed consent and the information necessary to provide it (per Kefauver-Harris Amendment). They are free to leave as they wish.
 
 Step 4: **Review & Approval** (1-2 Years)
 
