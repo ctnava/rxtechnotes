@@ -68,6 +68,8 @@ The ***Controlled Substances Act (CSA, 1970)*** classifies five levels of contro
 
 These drugs **require** special handling.
 
+`In many states, there are laws that require C-II prescriptions to be filled promptly.`
+
 | Schedule | Mark | 🧾 Description | 💊 Examples | 🔁 Prescribing Restrictions |
 | --- | --- | --- | --- | --- |
 | 🟥 I | C-I | 🚫 No accepted medical use, 🆙 high abuse potential | Heroin, LSD, Ecstasy (MDMA), Cannabis* | ❌ **Not allowed** — Cannot be prescribed |
