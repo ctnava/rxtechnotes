@@ -1,4 +1,4 @@
-# **SOP: Reporting Adverse Drug Events (ADEs) to FDA MedWatch**
+# **Reporting Adverse Drug Events (ADEs) to FDA MedWatch**
 
 ## **1. Purpose**
 
@@ -73,7 +73,9 @@ Includes death, life‑threatening events, hospitalization, disability, congenit
    - Patient demographics  
    - Drug name, strength, dosage form, NDC  
    - Lot number & expiration date (if available)  
-   - Description of the event  
+   - Description of the event
+     - if/ when treatment was sought
+     - how the problem resolved (if applicable)
    - Onset time relative to drug administration  
    - Concomitant medications  
    - Relevant medical history  
@@ -104,6 +106,7 @@ Steps:
 
 1. Select **“Report a Problem”**  
 2. Choose **“Healthcare Professional”**  
+   - Refer Patients to "Patient/Consumer" forms
 3. Complete **Form FDA 3500** online  
 4. Review for accuracy  
 5. Submit electronically  
@@ -151,5 +154,6 @@ All pharmacy staff must receive annual training on:
 - [Online Reporting Portal](https://www.accessdata.fda.gov/scripts/medwatch/)
 - [Form FDA 3500 (PDF)](https://www.fda.gov/media/76299/download)
 - FDCA §505(k) – Post‑market surveillance requirements  
+- [MedWatch Medical Product Safety Educational Resources & Practice Reporting](https://www.fda.gov/safety/medwatch-fda-safety-information-and-adverse-event-reporting-program/medical-product-safety-educational-resources)
 
 ---
