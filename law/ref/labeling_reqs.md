@@ -183,6 +183,7 @@ Accurate labeling is one of the most important safety steps in the dispensing wo
 Depending on the drug, a REMS program may include one or more of the following:
 
 - Mandated **Medication guides** or **patient package inserts (PPIs)**
+  - Manufacturers are required to provide enough copies for distribution.
 - Prescriber training and certification requirements
 - Pharmacy certification and restricted dispensing systems
 - Enrollment of patients in registries or special monitoring programs!
@@ -193,7 +194,7 @@ Depending on the drug, a REMS program may include one or more of the following:
 
 #### 📰 Patient Package Inserts (PPIs)
 
-`For potentially dangerous drugs`
+`labeling for potentially dangerous drug classes`
 
 PPIs are FDA-regulated documents that must accompany specific drug classes. They are **not** required for every outpatient medication. They are dispensed at:
 
@@ -227,9 +228,15 @@ PPIs are FDA-regulated documents that must accompany specific drug classes. They
 
 > 📌 Many PPIs contain diagrams or step-by-step **patient instructions**, especially for complex dosage forms (e.g., vaginal rings, inhalers, patches).
 
+PPIs arrive with the product, but can also be found online at the 🔗 [**Physicians' Desk Reference (PDR)**](https://www.pdr.net/).
+
 #### 📋 Medication Guides (MedGuides)
 
-MedGuides are **FDA-required patient labeling** for outpatient prescription drugs that present serious and specific public health concerns. These are distinct from PPIs and are **drug-specific**, not class-based. A MedGuide **must be dispensed** if any of the following conditions apply:
+`labeling for specific drugs`
+
+MedGuides are **FDA-required patient labeling** for outpatient prescription drugs that present serious and specific public health concerns. These are distinct from PPIs and are **drug-specific**, not class-based.
+
+A MedGuide **must be dispensed** if any of the following conditions apply:
 
 | Trigger | Description |
 | --- | --- |
@@ -237,8 +244,12 @@ MedGuides are **FDA-required patient labeling** for outpatient prescription drug
 | **Serious risks that could affect decision to use** | The drug has known dangers that might change a patient's willingness to begin or continue therapy |
 | **Adherence is crucial to effectiveness** | Incorrect use of the medication would result in ineffective treatment or increased risk |
 
-> - 📌 If a MedGuide is required for a product, it must be dispensed **with each fill and refill** in the **outpatient setting**. They are not required for **inpatient settings** unless patient requests or drug is part of a REMS program.
-> - 🚨 Failure to provide a required MedGuide renders the drug **misbranded under federal law**, even if all other labeling is correct.
+MedGuides must be dispensed in:
+
+- **Outpatient** Settings with each fill & refill
+- **Inpatient** Settings **only if** drug is part of a REMS program.
+
+> 🚨 Failure to provide a required MedGuide renders the drug **misbranded under federal law**, even if all other labeling is correct.
 
 📂 **Content Breakdown**
 
@@ -254,7 +265,8 @@ MedGuides are **FDA-required patient labeling** for outpatient prescription drug
 | **General information** | Encourages patients to ask their pharmacist or doctor for more details |
 
 > - 🛡️ Always verify MedGuide availability in your pharmacy system. Most eRx platforms and label software include print flags for drugs that require them.
-> - 🛡️ Always verify the most recent MedGuide version with the FDA [Medication Guide database](https://www.accessdata.fda.gov/scripts/cder/mg/index.cfm).
+
+MedGuides & Complete Labeling can be found on the 🔗 [National Library of Medicine's (NLM) DailyMed Database](https://dailymed.nlm.nih.gov/dailymed/).
 
 ---
 
