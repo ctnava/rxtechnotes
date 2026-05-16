@@ -20,6 +20,8 @@ OSHA sets nationwide standards to keep pharmacy staff safe when working around c
 
 #### **What SDS Are**
 
+`Formerly Materials Safety Data Sheets (MSDS)`
+
 Safety Data Sheets explain:
 
 - Hazards of a chemical or drug  
@@ -30,8 +32,6 @@ Safety Data Sheets explain:
 > ⚠️ All hazardous drugs and cleaning chemicals must have SDS accessible to staff.
 
 🔗 [USP SDS Online Database](https://www.uspmsds.com/)
-
-OSHA requires pharmacies to have Safety Data Sheets (SDS), formerly MSDS, for each hazardous chemical they stock.
 
 ---
 
