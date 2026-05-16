@@ -91,7 +91,7 @@ These drugs **require** special handling.
 
 DEA Form 222 is used to order, transfer, or return **only** Schedule II controlled substances.
 
-It is a *triplicate form* (in traditional paper format), though many pharmacies now use the ***Controlled Substance Ordering System (CSOS)*** for digital ordering.
+It is a serialized *triplicate form* (in traditional paper format), though many pharmacies now use the ***Controlled Substance Ordering System (CSOS)*** for digital ordering.
 
 | Copy       | Color | Recipient                              |
 | ---------- | ----- | -------------------------------------- |
