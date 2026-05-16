@@ -80,6 +80,8 @@ Step 4: **Review & Approval** (1-2 Years)
 
 Step 5: **Post-Market Surveillance** (Ongoing)
 
+`Also called Phase 4 Clinical Trials`
+
 - Manufacturer maintains exclusive rights (~20 years) to offset research & development cost
 - Continuous monitoring of long-term safety and efficacy after the drug is released to the market
 
