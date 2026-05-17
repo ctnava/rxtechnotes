@@ -41,6 +41,12 @@ Official publications of pharmacy organizations. They reflect professional stand
 | **American Journal of Health‑System Pharmacy (ASHP)** | Leading journal for institutional and hospital pharmacy practice | [🔗 Website](https://academic.oup.com/ajhp) |
 | **Journal of the American Pharmacists Association (APhA)** | Covers clinical practice, policy, research, and professional issues | [🔗 Website](https://www.japha.org/) |
 
+#### FDA Labeling
+
+| Publication | Description | Link |
+| --- | --- | --- |
+| **DailyMed** | Official online database of FDA label information (package inserts) | [🔗 Website](https://www.dailymed.nlm.nih.gov/) |
+
 > Secondary & Tertiary Sources are Syntheses & Interpretations of Primary Sources
 
 ### Secondary Literature
@@ -61,11 +67,10 @@ These resources are essential when searching for:
 
 | Tool | Description | Link |
 | --- | --- | --- |
-| **MedlinePlus** | Consumer‑friendly summaries of prescription & non-prescription drugs by the National Library of Medicine; links to reliable health information (not a true index of primary literature, but useful for quick topic overviews) | [🔗 Website](https://medlineplus.gov/) |
-| **PubMed** | Premier biomedical database from the National Library of Medicine; indexes millions of primary research articles | [🔗 Website](https://pubmed.ncbi.nlm.nih.gov/) |
+| **MEDLINE/ PubMed** | Premier biomedical database from the National Library of Medicine that indexes millions of primary research articles; access via PubMed | [🔗 Website](https://pubmed.ncbi.nlm.nih.gov/) |
 | **International Pharmaceutical Abstracts (IPA)** | Indexes pharmacy‑focused journals and provides abstracts of research on drug therapy, toxicity, pharmacy practice, legislation, technology, and other topics relevant to pharmaceutical science. | [🔗 Website](https://about.ebsco.com/products/research-databases/international-pharmaceutical-abstracts) |
 | **The Cochrane Library** | Systematic reviews of evidence‑based primary research in human health care and policy, used to evaluate clinical interventions and support evidence‑based decision‑making. | [🔗 Website](https://www.cochranelibrary.com/) |
-| **Natural Medicines Comprehensive Database** | From the Therapeutic Research Center; an evidence‑based online database providing unbiased clinical information on complementary, alternative, and integrative therapies, including efficacy, safety, interactions, and dosing. | [🔗 Website](https://naturalmedicines.therapeuticresearch.com/Home/ND) |
+| **Natural Medicines Comprehensive Database** | From the Therapeutic Research Center; collection of evidence‑based online databases providing monographs on natural ingredients & products; unbiased clinical information on complementary, alternative, and integrative therapies, including efficacy, safety, interactions, and dosing. | [🔗 Website](https://naturalmedicines.therapeuticresearch.com/Home/ND) |
 
 **Key Features of Secondary Literature**:
 
@@ -169,5 +174,17 @@ Tertiary sources include:
 | **Legal Handbook for Pharmacy Technicians** | Overview of federal and state pharmacy laws written specifically for technicians | [🔗 Website](https://publications.ashp.org/display/book/9781585282791/9781585282791.xml) |
 | **Essentials of Law & Ethics for Pharmacy Technicians** | Introductory text covering legal responsibilities, ethics, and regulatory compliance | [🔗 Website](https://catalog.nlm.nih.gov/permalink/01NLM_INST/93h1c8/alma9911782563406676) |
 | **USP Compounding Compendium** | Subscription-based reference from USP–NF containing enforceable and informational compounding standards. | [🔗 Website](https://www.usp.org/products/usp-compounding-compendium) |
+
+#### Consumer Drug Information Resources
+
+These resources provide patient‑friendly explanations of medications, conditions, and treatment information. They are useful for general education but **not** for clinical decision‑making or verifying professional drug information.
+
+| Product | Description | Link |
+| --- | --- | --- |
+| **MedlinePlus** | National Library of Medicine resource offering clear, consumer‑focused summaries of prescription and OTC drugs, plus links to authoritative health information. | [🔗 Website](https://medlineplus.gov/) |
+| **RxList** | Consumer‑oriented drug encyclopedia providing simplified drug monographs, side effects, and patient education content. | [🔗 Website](https://www.rxlist.com/) |
+| **WebMD Drugs & Medications** | Patient‑facing drug information, condition overviews, and treatment explanations written for general public understanding. | [🔗 Website](https://www.webmd.com/drugs/) |
+| **DailyMed (Consumer View)** | Provides FDA‑approved patient labeling and medication guides derived from official package inserts. | [🔗 Website](https://dailymed.nlm.nih.gov/) |
+| **CDC Vaccine Information Statements (VIS)** | Official CDC patient education sheets explaining vaccine benefits, risks, and what to expect before/after vaccination. | [🔗 Website](https://www.cdc.gov/vaccines/hcp/vis/) |
 
 ---
