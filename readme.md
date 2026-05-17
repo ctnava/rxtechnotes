@@ -38,11 +38,12 @@ Structured for both exam prep and on-the-job reference.
 | 1 | [Introduction to Pharmacy](./intro.md) | ✅ Complete |
 | 2 | [Career Overview](./technician_career.md) | ✅ Complete |
 | 3 | [Ethics & Compliance](./ethics_compliance.md) | ✅ Complete |
-| 4 | [Pharmacy Personnel, Duties, & Services](./personnel_services.md) | ✅ Complete |
-| 5 | [Pharmacy Settings](./settings.md) | ✅ Complete |
-| 6 | [Healthcare Coverage](./healthcare_coverage.md) | 🚧 WIP |
-| 7 | [Drug Discovery, Manufacturing, & Logistics](./discovery_manufacture.md) | 🚧 WIP |
-| 8 | [Core Pharmacy Operations](./core_operations.md) | ✅ Complete |
+| 4 | [Information & Resources](./reference.md) | ✅ Complete |
+| 5 | [Pharmacy Personnel, Duties, & Services](./personnel_services.md) | ✅ Complete |
+| 6 | [Pharmacy Settings](./settings.md) | ✅ Complete |
+| 7 | [Healthcare Coverage](./healthcare_coverage.md) | 🚧 WIP |
+| 8 | [Drug Discovery, Manufacturing, & Logistics](./discovery_manufacture.md) | 🚧 WIP |
+| 9 | [Core Pharmacy Operations](./core_operations.md) | ✅ Complete |
 
 - 📁 **Math Tutorials** are located in the [Mathematics Concepts Directory](./math/readme.md) directory.
 - 📁 **Legal Overviews & Breakdowns** are located in the [Federal Law Reference Directory](./law/readme.md) directory.

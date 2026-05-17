@@ -1,4 +1,4 @@
-# Informational References
+# Information & Resources
 
 ## Online Resources
 
@@ -301,3 +301,7 @@ These resources provide patient‑friendly explanations of medications, conditio
 | **CDC Vaccine Information Statements (VIS)** | Official CDC patient education sheets explaining vaccine benefits, risks, and what to expect before/after vaccination; must be provided before each dose of specific vaccines | [🔗 Website](https://www.cdc.gov/vaccines/hcp/vis/) |
 
 ---
+
+## 🗺️🔗 Nav Links
+
+- 🏠 [Home Directory](./readme.md)
