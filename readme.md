@@ -42,8 +42,8 @@ Structured for both exam prep and on-the-job reference.
 | 5 | [Pharmacy Personnel, Duties, & Services](./personnel_services.md) | ✅ Complete |
 | 6 | [Pharmacy Settings](./settings.md) | ✅ Complete |
 | 7 | [Healthcare Coverage](./healthcare_coverage.md) | 🚧 WIP |
-| 8 | [Drug Discovery, Manufacturing, & Logistics](./discovery_manufacture.md) | 🚧 WIP |
-| 9 | [Core Pharmacy Operations](./core_operations.md) | ✅ Complete |
+| 8 | [Drug Discovery, Manufacturing, & Logistics](./discovery_manufacture.md) | ✅ Complete |
+| 9 | [Core Pharmacy Operations](./core_operations.md) | 🚧 WIP |
 
 - 📁 **Math Tutorials** are located in the [Mathematics Concepts Directory](./math/readme.md) directory.
 - 📁 **Legal Overviews & Breakdowns** are located in the [Federal Law Reference Directory](./law/readme.md) directory.
