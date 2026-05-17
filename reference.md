@@ -59,6 +59,7 @@ These resources are essential when searching for:
 | **PubMed** | Premier biomedical database from the National Library of Medicine; indexes millions of primary research articles | [🔗 Website](https://pubmed.ncbi.nlm.nih.gov/) |
 | **International Pharmaceutical Abstracts (IPA)** | Indexes pharmacy‑focused journals and provides abstracts of research on drug therapy, toxicity, pharmacy practice, legislation, technology, and other topics relevant to pharmaceutical science. | [🔗 Website](https://about.ebsco.com/products/research-databases/international-pharmaceutical-abstracts) |
 | **The Cochrane Library** | Systematic reviews of evidence‑based primary research in human health care and policy, used to evaluate clinical interventions and support evidence‑based decision‑making. | [🔗 Website](https://www.cochranelibrary.com/) |
+| **Natural Medicines Comprehensive Database** | From the Therapeutic Research Center; an evidence‑based online database providing unbiased clinical information on complementary, alternative, and integrative therapies, including efficacy, safety, interactions, and dosing. | [🔗 Website](https://naturalmedicines.therapeuticresearch.com/Home/ND) |
 
 **Key Features of Secondary Literature**:
 
