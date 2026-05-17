@@ -102,19 +102,38 @@ Tertiary sources include:
 
 > Tertiary sources are the **first stop** for most pharmacy questions, but primary literature is the **gold standard** when accuracy and evidence are critical.
 
----
+### Drug Information References
 
-## Legal Compliance Documents
+| Publication | Description | Link |
+| --- | --- | --- |
+| **AHFS Clinical Drug Information** | Comprehensive, evidence‑based drug monographs published by ASHP annually; highly trusted in hospitals and health‑systems; Includes **off-label** indications | [🔗 Website](https://www.ashp.org/products-and-services/ahfs-drug-information) |
+| **Prescribers' Digital Reference (PDR)** | Electronic version of the classic PDR; contains FDA‑approved labeling and manufacturer‑provided drug information | [🔗 Website](https://www.pdr.net/) |
+| **Drug Facts & Comparisons** | Known for its comparative drug tables; excellent for evaluating therapeutic alternatives within a drug class | [🔗 Website](https://www.wolterskluwer.com/en/solutions/uptodate/enterprise/lexidrug-facts-and-comparisons) |
+| **Handbook on Injectable Drugs (Trissel’s)** | Gold‑standard reference for IV preparation, storage, compatibility, administration, stability, and compounding of injectable medications | [🔗 Website](https://publications.ashp.org/doi/book/10.37573/9781585286850) |
+| **Approved Drug Products with Therapeutic Equivalence Evaluations (Orange Book)** | FDA resource listing therapeutic equivalence ratings (A/B codes) for generic substitution; A is Equivalent, B is Nonequivalent | [🔗 Website](https://www.accessdata.fda.gov/scripts/cder/ob/) |
+| **Drug Information Handbook** | Quick‑reference clinical monographs commonly used in community and institutional settings (Lexicomp); treatment guides & therapy recommendations | [🔗 Website](https://www.wolterskluwer.com/en/solutions/lexicomp) |
+| **Handbook of Nonprescription Drugs** | Comprehensive reference for OTC products, counseling, self‑care, complementary therapies, non-drug measures, treatment algorithms, and patient assessment/ triage (APhA); identifies active ingredients & common side effects | [🔗 Website](https://www.pharmacist.com/Publications/Handbook-of-Nonprescription-Drugs) |
 
-### Safety Data Sheets (SDS)
+### Electronic Product Suites & Solutions
 
-`Formerly Materials Safety Data Sheets (MSDS)`
+| Product | Description | Link |
+| --- | --- | --- |
+| **Lexicomp Online/ Wolters Kluwer Clinical Drug Information** | TBA | [🔗 Website]() |
+| **Micromedex Solutions** | TBA | [🔗 Website]() |
+| **Clinical Pharmacology** | TBA | [🔗 Website]() |
 
-Safety Data Sheets explain:
+## Safety References & Sources
 
-- Hazards of a chemical or drug  
-- Required PPE  
-- Safe handling and storage  
-- Spill and first‑aid instructions
+| Product | Description | Link |
+| --- | --- | --- |
+| **The Institute for Safe Medicine Practices** | TBA | [🔗 Website]() |
+| **MEDMARX** | TBA | [🔗 Website]() |
+| **USP SDS Online** | TBA | [🔗 Website](https://www.uspmsds.com/) |
 
-🔗 [USP SDS Online Database](https://www.uspmsds.com/)
+## Pharmacy Law
+
+| Product | Description | Link |
+| --- | --- | --- |
+| **Legal Handbook for Pharmacy Technicians** | TBA | [🔗 Website]() |
+| **Essentials of Law & Ethics for Pharmacy Technicians** | TBA | [🔗 Website]() |
+| **USP SDS Online** | TBA | [🔗 Website]() |
