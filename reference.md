@@ -167,17 +167,20 @@ Resources in this category support compliance with federal regulations, medicati
 
 | Product | Description | Link |
 | --- | --- | --- |
-| **Institute for Safe Medication Practices (ISMP)** | Medication safety alerts, error‑prevention strategies, best practices | [🔗 Website](https://www.ismp.org/) |
+| **OSHA (Occupational Safety & Health Administration)** | Federal workplace‑safety standards covering PPE, chemical handling, bloodborne pathogens, hazard communication, and employee protections in healthcare environments. | [🔗 Website](https://www.osha.gov/) |
+| **CDC NIOSH** | Develops OSHA standards & regulations for OSHA; Authoritative guidance on occupational safety, hazardous drug lists, PPE requirements, engineering controls, and exposure‑prevention strategies for healthcare workers. | [🔗 Website](https://www.cdc.gov/niosh/) |
 | **USP SDS Online** | Safety Data Sheets for hazardous drugs and chemicals | [🔗 Website](https://www.uspmsds.com/) |
 | **Legal Handbook for Pharmacy Technicians** | Overview of federal and state pharmacy laws written specifically for technicians | [🔗 Website](https://publications.ashp.org/display/book/9781585282791/9781585282791.xml) |
 | **Essentials of Law & Ethics for Pharmacy Technicians** | Introductory text covering legal responsibilities, ethics, and regulatory compliance | [🔗 Website](https://catalog.nlm.nih.gov/permalink/01NLM_INST/93h1c8/alma9911782563406676) |
+| **FDA Regulatory Information** | Federal guidance on drug approval, labeling, recalls, manufacturing standards, and post‑marketing safety requirements. | [🔗 Website](https://www.fda.gov/regulatory-information) |
+| **Institute for Safe Medication Practices (ISMP)** | Medication safety alerts, error‑prevention strategies, best practices | [🔗 Website](https://www.ismp.org/) |
+| **FDA MedWatch** | FDA’s official safety reporting system for adverse drug events, product problems, medication errors, and device issues; includes safety alerts and recall notices. | [🔗 Website](https://www.fda.gov/safety/medwatch-fda-safety-information-and-adverse-event-reporting-program) |
+| **VAERS (Vaccine Adverse Event Reporting System)** | National system for reporting adverse events following vaccination; jointly managed by CDC and FDA; supports vaccine‑safety monitoring. | [🔗 Website](https://vaers.hhs.gov/) |
 | **USP Compounding Compendium** | Subscription-based reference from USP–NF containing enforceable and informational compounding standards. | [🔗 Website](https://www.usp.org/products/usp-compounding-compendium) |
-| **HIPAA (HHS Office for Civil Rights)** | Official federal guidance on patient privacy, PHI protection, permitted disclosures, and HIPAA Security Rule requirements. | [🔗 Website](https://www.hhs.gov/hipaa/index.html) |
 | **DEA - Code of Federal Regulations (21 CFR, Parts 1300-End)** | Legally binding regulations governing controlled substances, including scheduling, recordkeeping, inventory, ordering (DEA 222), and security requirements. | [🔗 Website](https://www.ecfr.gov/current/title-21/chapter-II) |
 | **DEA - Controlled Substances Act (21 USC)** | Federal statute defining controlled substance schedules, penalties, registration requirements, and enforcement authority. | [🔗 Website](https://uscode.house.gov/browse/prelim@title21/chapter13/subchapter1/partC&edition=prelim) |
-| **FDA Regulatory Information** | Federal guidance on drug approval, labeling, recalls, manufacturing standards, and post‑marketing safety requirements. | [🔗 Website](https://www.fda.gov/regulatory-information) |
+| **HIPAA (HHS Office for Civil Rights)** | Official federal guidance on patient privacy, PHI protection, permitted disclosures, and HIPAA Security Rule requirements. | [🔗 Website](https://www.hhs.gov/hipaa/index.html) |
 | **Office of the National Coordinator for Health IT (ONC)** | Standards and regulations for electronic health records (EHR), interoperability, e‑prescribing, and health‑information security. | [🔗 Website](https://www.healthit.gov/) |
-| **CDC NIOSH** | Authoritative guidance on occupational safety, hazardous drug lists, PPE recommendations, and engineering controls for healthcare workers. | [🔗 Website](https://www.cdc.gov/niosh/) |
 
 #### Consumer Drug Information Resources
 
