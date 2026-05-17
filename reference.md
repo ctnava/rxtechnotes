@@ -159,7 +159,14 @@ Tertiary sources include:
 | **Lexicomp Online / Wolters Kluwer Clinical Drug Information** | A widely used clinical database featuring detailed drug monographs, interaction analysis, renal/hepatic dosing adjustments, pediatric dosing, off‑label uses, and patient education sheets. Includes **Trissel’s IV Compatibility**, calculators, and clinical decision support tools. Known for its clean interface and strong outpatient + inpatient utility. | [🔗 Website](https://www.wolterskluwer.com/en/solutions/lexicomp) |
 | **Micromedex Solutions** | A hospital‑focused, evidence‑graded drug information suite. Includes **DRUGDEX** (clinical monographs), **POISINDEX** (toxicology), **IDENTIDEX** (pill ID), **IV Compatibility**, **NeoFax/Pediatrics**, **REDBOOK Online** (drug pricing & product availability), and **Reproductive Effects** (pregnancy/lactation risk data). Highly valued in emergency medicine, critical care, and toxicology. Considered the “gold standard” for hospital drug databases. | [🔗 Website](https://www.micromedexsolutions.com/home/dispatch/) |
 | **Clinical Pharmacology** | **Accepted by all 50 state boards**; A comprehensive drug information system used across retail, specialty, and hospital settings. Features monographs, interaction checkers, adverse effect databases, product identification, and clinical decision support. Known for its strong **drug comparison tools**, **formulary integration**, and **FDA‑linked updates**. | [🔗 Website](https://www.clinicalpharmacology.com/) |
-| **Epocrates Online** | Mobile‑first clinical reference tool offering quick‑access drug monographs, interaction checks, dosing calculators, disease summaries, and clinical decision support. Frequently used at the point of care for rapid lookups, though less comprehensive than full drug‑information suites. | [🔗 Website](https://www.epocrates.com/) |
+
+#### Clinical Reference Tools (Point‑of‑Care)
+
+| Resource | Description | Link |
+| --- | --- | --- |
+| **Medscape** | Free clinician‑oriented reference offering disease overviews, treatment guidelines, drug summaries, medical news, and expert commentary. | [🔗 Website](https://www.medscape.com/) |
+| **Epocrates Online** | Mobile‑first clinical reference tool offering quick‑access drug monographs, interaction checks, dosing calculators, and disease summaries. | [🔗 Website](https://www.epocrates.com/) |
+| **Skyscape** | Mobile medical reference platform offering bundled clinical tools, drug information, calculators, and specialty‑specific resources. | [🔗 Website](https://www.skyscape.com/) |
 
 #### Legal Compliance & Safety
 
