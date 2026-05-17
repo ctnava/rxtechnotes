@@ -1,6 +1,6 @@
-# Literature & References
+# Informational References
 
-## Literature Classifications
+## Literature
 
 Pharmacy information resources are grouped into **primary**, **secondary**, and **tertiary** literature. Understanding these categories helps technicians locate reliable, evidence‑based information.
 
