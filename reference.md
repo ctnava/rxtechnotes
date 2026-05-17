@@ -116,8 +116,6 @@ Tertiary sources include:
 | **ASHP NewsLink** | Hospital pharmacy practice, policy updates, medication safety, compounding standards | [🔗 Website](https://www.ashp.org) |
 | **NCPA Digest / America’s Pharmacist** | Independent pharmacy business, legislative updates, practice management | [🔗 Website](https://ncpa.org) |
 
-Pharmacy technicians letter
-
 #### Trade Journals
 
 `Published commercially, not by a professional association; often contain advertisements and industry‑focused content`
