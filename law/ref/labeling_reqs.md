@@ -219,7 +219,7 @@ PPIs are FDA-regulated documents that must accompany specific drug classes. They
 | **Clinical Pharmacology** | How the drug works in the body, including: Mechanism of action, Pharmacokinetics (absorption, distribution, metabolism, excretion), Demographic considerations (e.g., effects in children, pregnancy) |
 | **Approved Indications** | Lists the **FDA-approved uses** of the drug (Drugs are sometimes used "off-label" for other conditions, that is not FDA-Approved, based on provider discretion.) |
 | **Contraindications** | Situations where the drug **should not be used**, such as certain medical conditions, allergies, or interactions. |
-| **Boxed Warnings** | Serious or life-threatening risks associated with the drug (e.g., Black Box Warnings). |
+| **Boxed Warnings** | Serious or life-threatening risks associated with the drug (inlcuding **Black Box Warnings** for serious risks). |
 | **Precautions** | Instructions to help avoid harm, including guidance that informs **auxiliary labels**. |
 | **Side effects** | Lists all known **adverse reactions**, including those reported during clinical trials or post-marketing. |
 | **Dosage & Administration Guide** | How to take the medication, including dose, timing, route, and adjustments. |
