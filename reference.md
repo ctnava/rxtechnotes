@@ -107,7 +107,7 @@ Tertiary sources include:
 | Publication | Description | Link |
 | --- | --- | --- |
 | **AHFS Clinical Drug Information** | Comprehensive, evidence‑based drug monographs published by ASHP annually; highly trusted in hospitals and health‑systems; Includes **off-label** indications | [🔗 Website](https://www.ashp.org/products-and-services/ahfs-drug-information) |
-| **Prescribers' Digital Reference (PDR)** | Electronic version of the classic PDR; contains FDA‑approved labeling and manufacturer‑provided drug information | [🔗 Website](https://www.pdr.net/) |
+| **Prescribers' Digital Reference (PDR)** | Electronic version of the classic PDR; contains FDA‑approved labeling, manufacturer‑provided drug information, dosage instructions, among details | [🔗 Website](https://www.pdr.net/) |
 | **Drug Facts & Comparisons** | Known for its comparative drug tables; excellent for evaluating therapeutic alternatives within a drug class | [🔗 Website](https://www.wolterskluwer.com/en/solutions/uptodate/enterprise/lexidrug-facts-and-comparisons) |
 | **Handbook on Injectable Drugs (Trissel’s)** | Gold‑standard reference for IV preparation, storage, compatibility, administration, stability, and compounding of injectable medications | [🔗 Website](https://publications.ashp.org/doi/book/10.37573/9781585286850) |
 | **Approved Drug Products with Therapeutic Equivalence Evaluations (Orange Book)** | FDA resource listing therapeutic equivalence ratings (A/B codes) for generic substitution; A is Equivalent, B is Nonequivalent | [🔗 Website](https://www.accessdata.fda.gov/scripts/cder/ob/) |
@@ -118,9 +118,11 @@ Tertiary sources include:
 
 | Product | Description | Link |
 | --- | --- | --- |
-| **Lexicomp Online/ Wolters Kluwer Clinical Drug Information** | TBA | [🔗 Website]() |
-| **Micromedex Solutions** | TBA | [🔗 Website]() |
-| **Clinical Pharmacology** | TBA | [🔗 Website]() |
+| **Lexicomp Online / Wolters Kluwer Clinical Drug Information** | Comprehensive monographs, interactions, IV compatibility, patient education | [🔗 Website](https://www.wolterskluwer.com/en/solutions/lexicomp) |
+| **Micromedex Solutions** | Evidence‑based drug information suite; includes Poisindex & IV compatibility | [🔗 Website](https://www.micromedexsolutions.com/home/dispatch/) |
+| **Clinical Pharmacology** | Drug monographs, interactions, and clinical decision support | [🔗 Website](https://www.elsevier.com/products/clinicalkey/clinical-pharmacology) |
+
+---
 
 ## Safety References & Sources
 
