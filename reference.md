@@ -39,7 +39,7 @@ Accredited pharmacies must:
 
 Technicians can use the VIPPS directory to verify whether an online pharmacy is reputable and legally authorized to dispense medications.
 
-[🔗 Website](https://nabp.pharmacy/programs/vipps/)
+[🔗 Website](https://nabp.pharmacy/programs/accreditations/digital-pharmacy/accredited-digital-pharmacies/)
 
 #### .pharmacy Verified Websites Program
 
@@ -231,7 +231,7 @@ Authoritative, clinician‑grade drug compendia providing structured monographs,
 
 | Publication | Description | Link |
 | --- | --- | --- |
-| **AHFS Clinical Drug Information** | Comprehensive, evidence‑based drug monographs published by ASHP annually; highly trusted in hospitals and health‑systems; Includes **off-label** indications | [🔗 Website](https://www.ashp.org/products-and-services/ahfs-drug-information) |
+| **AHFS Clinical Drug Information (AHFS-DI)** | Comprehensive, evidence‑based drug monographs published by ASHP annually; highly trusted in hospitals and health‑systems; Includes **off-label** indications | [🔗 Website](https://www.ashp.org/products-and-services/ahfs-drug-information) |
 | **Prescribers' Digital Reference (PDR)** | Electronic version of the classic PDR; contains FDA‑approved labeling, manufacturer‑provided drug information, dosage instructions, among other details | [🔗 Website](https://www.pdr.net/) |
 | **Drug Facts & Comparisons (DFC)** | Known for its comparative OTC & prescription drug tables; excellent for evaluating therapeutic alternatives within a drug class | [🔗 Website](https://www.wolterskluwer.com/en/solutions/uptodate/enterprise/lexidrug-facts-and-comparisons) |
 | **Handbook on Injectable Drugs (Trissel’s)** | Gold‑standard reference for IV preparation, storage, compatibility, administration, stability, and compounding of injectable medications | [🔗 Website](https://publications.ashp.org/doi/book/10.37573/9781585286850) |
