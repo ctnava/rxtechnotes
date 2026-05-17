@@ -1,5 +1,11 @@
 # Informational References
 
+## Online Resources
+
+tba
+
+---
+
 ## Literature
 
 Pharmacy information resources are grouped into **primary**, **secondary**, and **tertiary** literature. Understanding these categories helps technicians locate reliable, evidence‑based information.
@@ -165,5 +171,3 @@ Tertiary sources include:
 | **USP Compounding Compendium** | Subscription-based reference from USP–NF containing enforceable and informational compounding standards. | [🔗 Website](https://www.usp.org/products/usp-compounding-compendium) |
 
 ---
-
-## Online Resources
