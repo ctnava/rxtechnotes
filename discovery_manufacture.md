@@ -155,6 +155,8 @@ If the ANDA meets FDA requirements, the generic drug is approved for marketing. 
 
 #### Generic Over-the-Counter Drugs
 
+`Monographs are a document that describes a drug, drug ingredient, or chemical`
+
 Generic OTC drugs follow a **different approval pathway** than prescription generics. Instead of submitting an ANDA, most OTC manufacturers rely on **OTC Drug Monographs**, which function like “recipe books” describing what is **Generally Recognized As Safe and Effective (GRASE)**:
 
 An OTC monograph specifies:
