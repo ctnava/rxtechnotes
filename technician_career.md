@@ -124,7 +124,7 @@ California State Licensure Requirements:
 - **Proof of Education**: transcript or notarized copy of diploma OR GED / HiSET/ TASC + CHSPE
 - **Proof of Training**: affidavit of [ASHP-accredited coursework](https://www.ashp.org), associates degree in Pharmacy Technology, or graduation from a ACPE-accredited school of pharmacy
 - **Supporting Documents (optional; skips training)**: PTCB Certification or DD-214
-- **CE Requirements**: 20 hours every 2 years, including **1 hour in cultural competency**
+- **Continuing Education (CE) Requirements**: 20 hours every 2 years, including **1 hour in cultural competency**
 - **Renewals**: Notices mailed 90 days before expiration; licenses are canceled if not renewed within 90 days post-expiration
 - **License Portability**: California has **no reciprocity**; technicians moving to other states must reapply there. Returning to CA may require full reapplication if the license was canceled
 
@@ -141,7 +141,7 @@ Certification validates a technician's competency and may open the door to expan
   - **Increased job opportunities** in hospital, retail, and specialty pharmacy settings
   - **Higher earning potential**
   - **Greater professional credibility**
-- 🔄 **Recertification Requirements**: National certification must be renewed **every 2 years**. Both certifying bodies require **20 hours of Continuing Education (CE)** per cycle, indluding:
+- 🔄 **Recertification Requirements**: National certification must be renewed **every 2 years**. Both certifying bodies require **20 hours of (CE)** per cycle, indluding:
   - 1 hour in **Pharmacy Law**
   - 1 hour in **Patient Safety**
   - 📌 All CE must be **ASHP-accredited** or otherwise accepted by the certifying body. CE providers typically include pharmacy boards, accredited colleges, or employers offering in-service training.
@@ -152,8 +152,6 @@ Certification validates a technician's competency and may open the door to expan
   - **In-Service Training (ExCPT only)**: The **NHA** allows up to **10 CE hours** for documented, supervised in-service projects or training activities conducted in a pharmacy workplace.
   - 📌 These alternatives **do not apply to the law or patient safety CE requirements**. Those must still be fulfilled through formal CE programs.
 
-> 🛡️ **Best Practice**: Keep a CE log and obtain completion certificates for all credit hours earned. Submit renewal applications on time to avoid lapses in certification.
-
 | Factor | PTCE (PTCB) | ExCPT (NHA) |
 | -------- | ------------- | ------------- |
 | National Recognition | Widely accepted | Accepted in most states |
@@ -163,6 +161,22 @@ Certification validates a technician's competency and may open the door to expan
 | Retake Wait | 60+ days | 30 days |
 
 > 📌 California accepts **both** the PTCE and the ExCPT for licensure as a pharmacy technician.
+
+### Continuing Education (CE) & Resources
+
+Technicians maintain competency through accredited CE that builds practical skills and supports career advancement. The following platforms offer technician‑appropriate CE without duplicating law or safety requirements already listed above.
+
+| Provider | What It Offers | Link |
+| --- | --- | --- |
+| **NPTA Member CE Library** | Technician‑focused CE, specialty certificates (IV, non‑sterile, immunization), and live webinars. | [🔗 website](https://www.pharmacytechnician.org) |
+| **AAPT Member Resources** | CE modules, professional development tools, and technician advocacy materials. | [🔗 website](https://www.pharmacytechnician.com) |
+| **ASHP - PharmTechCE.org** | Hospital‑grade CE including sterile compounding, USP <797>/<800>, and medication safety. | [🔗 website](https://www.pharmtechce.org) |
+| **APhA CE Center** | CE for pharmacy personnel, including immunization workflow and patient‑care modules. | [🔗 website](https://www.pharmacist.com/CE) |
+| **PowerPak CE** | Broad catalog of free and paid CE covering clinical, workflow, and communication topics. | [🔗 website](https://www.powerpak.com) |
+| **PTCB CE Directory** | Curated list of CE programs accepted for PTCB recertification. | [🔗 website](https://www.ptcb.org/renew) |
+| **NHA CE Library** | CE modules aligned with ExCPT recertification requirements. | [🔗 website](https://www.nhanow.com) |
+
+> 🛡️ **Best Practice**: Keep a CE log and obtain completion certificates for all credit hours earned. Submit renewal applications on time to avoid lapses in certification.
 
 ### Exam for the Certification of Pharmacy Technicians (ExCPT)
 
