@@ -115,6 +115,7 @@ Pharmacy Technicians must be licensed and registered in most states. Licensure a
 - Passing a national exam (PTCE or ExCPT)
 - Background checks and drug screening
 - Application through the **State Board of Pharmacy**
+  - For specific Licensure, Registration, & Certification requirements, visit the [🔗 NAPB](https://nabp.pharmacy/about/boards-of-pharmacy/) to view your state's board of pharmacy
 
 California State Licensure Requirements:
 
