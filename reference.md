@@ -104,6 +104,28 @@ Tertiary sources include:
 
 > Tertiary sources are the **first stop** for most pharmacy questions, but primary literature is the **gold standard** when accuracy and evidence are critical.
 
+### Professional Newsletters
+
+`Published frequently to keep practitioners updated on clinical, regulatory, and practice‑based developments`
+
+| Publication | Focus | Link |
+| --- | --- | --- |
+| **Pharmacist’s Letter / Prescriber’s Letter** | Concise clinical updates, drug therapy recommendations, charts, comparison tables | [🔗 Website](https://www.therapeuticresearch.com) |
+| **FDA Drug Safety Communications** | Safety alerts, recalls, labeling changes, medication error warnings | [🔗 Website](https://www.fda.gov/drugs) |
+| **ASHP NewsLink** | Hospital pharmacy practice, policy updates, medication safety, compounding standards | [🔗 Website](https://www.ashp.org) |
+| **NCPA Digest / America’s Pharmacist** | Independent pharmacy business, legislative updates, practice management | [🔗 Website](https://ncpa.org) |
+
+### Trade Journals
+
+`Published commercially, not by a professional association; often contain advertisements and industry‑focused content`
+
+| Publication | Focus | Link |
+| --- | --- | --- |
+| **Pharmacy Times** | Clinical updates, drug news, CE, community pharmacy practice | [🔗 Website](https://www.pharmacytimes.com) |
+| **Drug Topics** | Retail pharmacy trends, business operations, product updates | [🔗 Website](https://www.drugtopics.com) |
+| **U.S. Pharmacist** | Peer‑reviewed clinical articles, disease‑state reviews, drug therapy updates | [🔗 Website](https://www.uspharmacist.com) |
+| **Drug Store News** | Retail pharmacy business, merchandising, supply chain, and market trends | [🔗 Website](https://www.drugstorenews.com) |
+
 ### Drug Information References
 
 | Publication | Description | Link |
