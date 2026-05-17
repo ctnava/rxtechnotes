@@ -181,7 +181,7 @@ These resources provide patient‑friendly explanations of medications, conditio
 
 | Product | Description | Link |
 | --- | --- | --- |
-| **MedlinePlus** | National Library of Medicine resource offering clear, consumer‑focused summaries of prescription and OTC drugs, plus links to authoritative health information. | [🔗 Website](https://medlineplus.gov/) |
+| **MedlinePlus** | National Library of Medicine resource offering clear, consumer‑focused summaries of prescription and OTC drugs, plus links to authoritative health information; covers diseases, conditions, & wellness for patients | [🔗 Website](https://medlineplus.gov/) |
 | **RxList** | Consumer‑oriented drug encyclopedia providing simplified drug monographs, side effects, and patient education content. | [🔗 Website](https://www.rxlist.com/) |
 | **WebMD Drugs & Medications** | Patient‑facing drug information, condition overviews, and treatment explanations written for general public understanding. | [🔗 Website](https://www.webmd.com/drugs/) |
 | **DailyMed (Consumer View)** | Provides FDA‑approved patient labeling and medication guides derived from official package inserts. | [🔗 Website](https://dailymed.nlm.nih.gov/) |
