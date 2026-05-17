@@ -163,3 +163,7 @@ Tertiary sources include:
 | **Legal Handbook for Pharmacy Technicians** | Overview of federal and state pharmacy laws written specifically for technicians | [🔗 Website](https://publications.ashp.org/display/book/9781585282791/9781585282791.xml) |
 | **Essentials of Law & Ethics for Pharmacy Technicians** | Introductory text covering legal responsibilities, ethics, and regulatory compliance | [🔗 Website](https://catalog.nlm.nih.gov/permalink/01NLM_INST/93h1c8/alma9911782563406676) |
 | **USP Compounding Compendium** | Subscription-based reference from USP–NF containing enforceable and informational compounding standards. | [🔗 Website](https://www.usp.org/products/usp-compounding-compendium) |
+
+---
+
+## Online Resources
