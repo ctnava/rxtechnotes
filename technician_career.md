@@ -42,6 +42,38 @@ Pharmacy technicians are expected to maintain personal standards that align with
 
 > 🛡️ Dress and act as if every patient interaction could be reviewed by the state board. It may be.
 
+### Social Media Use
+
+The **American Society of Health‑System Pharmacists (ASHP)** has issued a formal *Statement on the Use of Social Media by Pharmacy Professionals*, emphasizing that online behavior is an extension of professional conduct. Pharmacy technicians must treat all digital communication—posts, comments, messages, photos, and shared content—as part of their public professional identity.
+
+Key expectations include:
+
+- **Protect Patient Privacy**  
+  Never post, share, or hint at any patient information, even if names are removed. Photos taken in the pharmacy, screenshots of work systems, or "funny stories" about patients can violate HIPAA.
+
+- **Maintain Professional Boundaries**  
+  Avoid discussing workplace conflicts, coworkers, supervisors, or pharmacy operations online. Even vague posts (“rough day at the pharmacy…”) can be interpreted as unprofessional or breach confidentiality.
+
+- **Avoid Giving Medical Advice**  
+  Social media is not an appropriate place to answer medication questions or provide clinical guidance. Direct individuals to speak with a pharmacist or healthcare provider.
+
+- **Separate Personal and Professional Identities**  
+  If you choose to identify yourself as a pharmacy technician online, your content must reflect the standards of the profession. Employers and state boards may review public posts.
+
+- **Use Caution With Photos and Videos**  
+  Never record or share images inside the pharmacy, near prescription records, or around controlled substances. Even accidental background details can reveal sensitive information.
+
+- **Follow Employer Policies**  
+  Many pharmacies have strict rules regarding social media use, confidentiality, photography, and public statements. Violations can result in disciplinary action or termination.
+
+- **Assume Permanence**  
+  Deleted posts, private accounts, and disappearing stories can still be captured, shared, or subpoenaed. If you wouldn’t say it in front of your pharmacist‑in‑charge or the state board, don’t post it.
+
+[🔗 ASHP Statement on the Use of Social Media](https://publications.ashp.org/previewpdf/display/book/9781585287048/chapter009.xml?pdfJsInlineViewToken=1992039662&inlineView=true)
+
+> 🛡️ **Bottom line:** Social media is public, permanent, and professionally relevant. Protect patients, protect your license, and protect your reputation.
+
+
 ## Core Competencies
 
 To succeed in pharmacy practice, technicians must be competent in multiple domains. These core competencies go beyond basic job functions; they are part of your professional toolkit.
