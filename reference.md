@@ -119,6 +119,8 @@ Tertiary sources include:
 
 `Published frequently to keep practitioners updated on clinical, regulatory, and practice‑based developments`
 
+Brief, practice‑focused publications that summarize regulatory changes, clinical updates, and workflow guidance. They help technicians stay current without reading full research articles.
+
 | Publication | Focus | Link |
 | --- | --- | --- |
 | **Pharmacist’s Letter / Prescriber’s Letter** | Concise clinical updates, drug therapy recommendations, charts, comparison tables | [🔗 Website](https://www.therapeuticresearch.com) |
@@ -131,6 +133,8 @@ Tertiary sources include:
 
 `Published commercially, not by a professional association; often contain advertisements and industry‑focused content`
 
+Commercially published magazines covering pharmacy trends, product news, business operations, and clinical features. Useful for understanding industry developments and retail practice environments.
+
 | Publication | Focus | Link |
 | --- | --- | --- |
 | **Pharmacy Times** | Clinical updates, drug news, CE, community pharmacy practice | [🔗 Website](https://www.pharmacytimes.com) |
@@ -139,6 +143,8 @@ Tertiary sources include:
 | **Drug Store News** | Retail pharmacy business, merchandising, supply chain, and market trends | [🔗 Website](https://www.drugstorenews.com) |
 
 #### Drug Information References
+
+Authoritative, clinician‑grade drug compendia providing structured monographs, compatibility data, therapeutic comparisons, and evidence‑based dosing information. These are the primary tools for answering drug‑related questions in practice.
 
 | Publication | Description | Link |
 | --- | --- | --- |
@@ -154,6 +160,8 @@ Tertiary sources include:
 
 `Subscription-Only Access`
 
+Enterprise‑level, subscription‑based clinical databases offering comprehensive drug monographs, interaction analysis, toxicology resources, IV compatibility, and decision‑support tools used in hospitals and advanced practice settings.
+
 | Product | Description | Link |
 | --- | --- | --- |
 | **Lexicomp Online / Wolters Kluwer Clinical Drug Information** | A widely used clinical database featuring detailed drug monographs, interaction analysis, renal/hepatic dosing adjustments, pediatric dosing, off‑label uses, and patient education sheets. Includes **Trissel’s IV Compatibility**, calculators, and clinical decision support tools. Known for its clean interface and strong outpatient + inpatient utility. | [🔗 Website](https://www.wolterskluwer.com/en/solutions/lexicomp) |
@@ -161,6 +169,8 @@ Tertiary sources include:
 | **Clinical Pharmacology** | **Accepted by all 50 state boards**; A comprehensive drug information system used across retail, specialty, and hospital settings. Features monographs, interaction checkers, adverse effect databases, product identification, and clinical decision support. Known for its strong **drug comparison tools**, **formulary integration**, and **FDA‑linked updates**. | [🔗 Website](https://www.clinicalpharmacology.com/) |
 
 #### Clinical Reference Tools (Point‑of‑Care)
+
+Lightweight, mobile‑friendly clinical apps that provide quick access to drug summaries, disease overviews, calculators, and treatment guidance. Ideal for rapid lookups but not a substitute for full drug‑information suites.
 
 | Resource | Description | Link |
 | --- | --- | --- |
