@@ -174,7 +174,7 @@ Lightweight, mobile‑friendly clinical apps that provide quick access to drug s
 
 | Resource | Description | Link |
 | --- | --- | --- |
-| **Medscape** | Free clinician‑oriented reference offering disease overviews, treatment guidelines, drug summaries, medical news, and expert commentary. | [🔗 Website](https://www.medscape.com/) |
+| **Medscape** | Free clinician‑oriented reference offering disease overviews, treatment guidelines, drug summaries, medical news, drug interaction checker, pill identifier, calculators, and expert commentary. | [🔗 Website](https://www.medscape.com/) |
 | **Epocrates Online** | Mobile‑first clinical reference tool offering quick‑access drug monographs, interaction checks, dosing calculators, and disease summaries. | [🔗 Website](https://www.epocrates.com/) |
 | **Skyscape** | Mobile medical reference platform offering bundled clinical tools, drug information, calculators, and specialty‑specific resources. | [🔗 Website](https://www.skyscape.com/) |
 
