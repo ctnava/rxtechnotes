@@ -167,7 +167,7 @@ Resources in this category support compliance with federal regulations, medicati
 
 | Product | Description | Link |
 | --- | --- | --- |
-| **OSHA (Occupational Safety & Health Administration)** | Federal workplace‑safety standards covering PPE, chemical handling, bloodborne pathogens, hazard communication, and employee protections in healthcare environments. | [🔗 Website](https://www.osha.gov/) |
+| **OSHA (Occupational Safety & Health Administration)** | Federal workplace‑safety standards covering PPE, chemical handling, bloodborne pathogens, hazard communication, and employee protections in healthcare environments; enforces OSHA | [🔗 Website](https://www.osha.gov/) |
 | **CDC NIOSH** | Develops OSHA standards & regulations for OSHA; Authoritative guidance on occupational safety, hazardous drug lists, PPE requirements, engineering controls, and exposure‑prevention strategies for healthcare workers. | [🔗 Website](https://www.cdc.gov/niosh/) |
 | **USP SDS Online** | Safety Data Sheets for hazardous drugs and chemicals | [🔗 Website](https://www.uspmsds.com/) |
 | **Legal Handbook for Pharmacy Technicians** | Overview of federal and state pharmacy laws written specifically for technicians | [🔗 Website](https://publications.ashp.org/display/book/9781585282791/9781585282791.xml) |
