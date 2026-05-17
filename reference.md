@@ -160,20 +160,21 @@ Tertiary sources include:
 | **Micromedex Solutions** | A hospital‑focused, evidence‑graded drug information suite. Includes **DRUGDEX** (clinical monographs), **POISINDEX** (toxicology), **IDENTIDEX** (pill ID), **IV Compatibility**, **NeoFax/Pediatrics**, **REDBOOK Online** (drug pricing & product availability), and **Reproductive Effects** (pregnancy/lactation risk data). Highly valued in emergency medicine, critical care, and toxicology. Considered the “gold standard” for hospital drug databases. | [🔗 Website](https://www.micromedexsolutions.com/home/dispatch/) |
 | **Clinical Pharmacology** | **Accepted by all 50 state boards**; A comprehensive drug information system used across retail, specialty, and hospital settings. Features monographs, interaction checkers, adverse effect databases, product identification, and clinical decision support. Known for its strong **drug comparison tools**, **formulary integration**, and **FDA‑linked updates**. | [🔗 Website](https://www.clinicalpharmacology.com/) |
 
-#### Safety References & Sources
+#### Legal Compliance & Safety
 
 | Product | Description | Link |
 | --- | --- | --- |
 | **Institute for Safe Medication Practices (ISMP)** | Medication safety alerts, error‑prevention strategies, best practices | [🔗 Website](https://www.ismp.org/) |
 | **USP SDS Online** | Safety Data Sheets for hazardous drugs and chemicals | [🔗 Website](https://www.uspmsds.com/) |
-
-#### Pharmacy Law & Regulations
-
-| Product | Description | Link |
-| --- | --- | --- |
 | **Legal Handbook for Pharmacy Technicians** | Overview of federal and state pharmacy laws written specifically for technicians | [🔗 Website](https://publications.ashp.org/display/book/9781585282791/9781585282791.xml) |
 | **Essentials of Law & Ethics for Pharmacy Technicians** | Introductory text covering legal responsibilities, ethics, and regulatory compliance | [🔗 Website](https://catalog.nlm.nih.gov/permalink/01NLM_INST/93h1c8/alma9911782563406676) |
 | **USP Compounding Compendium** | Subscription-based reference from USP–NF containing enforceable and informational compounding standards. | [🔗 Website](https://www.usp.org/products/usp-compounding-compendium) |
+HIPAA Reference by HHS https://www.hhs.gov/hipaa/index.html
+DEA 21 code of federal regulations part 1300 to end http://ecfr.gov/current/title-21/chapter-II
+DEA title 21 USC codified CSA https://uscode.house.gov/browse/prelim@title21/chapter13/subchapter1/partC&edition=prelim
+FDA Regulatory information https://www.fda.gov/regulatory-information
+ONC for Health IT https://healthit.gov/
+CDC NIOSH https://www.cdc.gov/niosh/
 
 #### Consumer Drug Information Resources
 
@@ -182,7 +183,7 @@ These resources provide patient‑friendly explanations of medications, conditio
 | Product | Description | Link |
 | --- | --- | --- |
 | **MedlinePlus** | National Library of Medicine resource offering clear, consumer‑focused summaries of prescription and OTC drugs, plus links to authoritative health information; covers diseases, conditions, & wellness for patients | [🔗 Website](https://medlineplus.gov/) |
-| **RxList** | Consumer‑oriented drug encyclopedia providing simplified drug monographs, side effects, and patient education content. | [🔗 Website](https://www.rxlist.com/) |
+| **RxList** | Consumer‑oriented drug encyclopedia providing simplified drug monographs, side effects, and patient education content; includes pill identification tool, top 200 drugs list, and medical dictionary | [🔗 Website](https://www.rxlist.com/) |
 | **WebMD Drugs & Medications** | Patient‑facing drug information, condition overviews, and treatment explanations written for general public understanding. | [🔗 Website](https://www.webmd.com/drugs/) |
 | **DailyMed (Consumer View)** | Provides FDA‑approved patient labeling and medication guides derived from official package inserts. | [🔗 Website](https://dailymed.nlm.nih.gov/) |
 | **CDC Vaccine Information Statements (VIS)** | Official CDC patient education sheets explaining vaccine benefits, risks, and what to expect before/after vaccination. | [🔗 Website](https://www.cdc.gov/vaccines/hcp/vis/) |
