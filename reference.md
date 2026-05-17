@@ -2,7 +2,58 @@
 
 ## Online Resources
 
-tba
+Reliable online resources help pharmacy technicians locate accurate, evidence‑based information. Because the quality of internet content varies widely, technicians must evaluate websites carefully and rely on trusted, authoritative sources.
+
+### Websites
+
+Not all health information found online is accurate, unbiased, or evidence‑based. Evaluating a website’s credibility is essential for safe pharmacy practice and patient education.
+
+The **Health on the Net (HON) Foundation** is a nonprofit organization that certifies health websites using the **HONcode**, a voluntary set of ethical standards for trustworthy medical information.
+
+**HONcode Principles**:
+
+- **Authoritativeness**: Qualifications of authors and reviewers are clearly stated.  
+- **Complementarity**: Online information supports, not replaces, professional medical advice.  
+- **Privacy**: User data and personal information are protected.  
+- **Attribution**: Medical content is referenced, sourced, and dated.  
+- **Justifiability**: Claims are supported by balanced scientific evidence.  
+- **Transparency**: Clear contact information and organizational identity are provided.  
+- **Financial Disclosure**: Funding sources are openly stated.  
+- **Advertising Policy**: Advertisements are distinguished from editorial content.
+
+These principles help users determine whether a website is credible, current, and safe to rely on.
+
+[🔗 website](https://efmi.org/institutional-members-2/hon-health-on-the-net-foundation/)
+
+## Mobile Medical Apps (MMAs)
+
+Mobile medical apps support clinicians and technicians by providing quick access to drug information, clinical guidelines, calculators, and patient‑care tools. Apps vary widely in quality because they are developed by individuals, healthcare professionals, pharmaceutical companies, insurers, nonprofits, and government agencies.
+
+**Common Uses of MMAs**:
+
+- Drug databases and interaction checkers  
+- Clinical guidelines and disease summaries  
+- Medical calculators (BMI, CrCl, dosing)  
+- Diagnostic support and treatment algorithms  
+- Patient monitoring and telehealth tools  
+- Educational resources for patients and healthcare providers  
+
+**iMedicalApps** is an independent publication run by healthcare professionals that reviews and evaluates medical apps based on real‑world clinical use.
+
+**Evaluation Criteria for MMAs**:
+
+- **Usefulness**: Relevant, practical, and effective for clinical tasks  
+- **Accuracy**: Evidence‑based content with proper references  
+- **Authority**: Developed or reviewed by qualified medical experts  
+- **Objectivity**: Balanced, unbiased presentation of information  
+- **Timeliness**: Regular updates and current clinical content  
+- **Design**: Intuitive layout and functional interface  
+- **Compatibility**: Works with required devices, systems, and workflows  
+- **Functionality**: Reliable installation, launch, and performance  
+- **Security**: Privacy protections, secure data handling, no malicious software  
+- **Value**: Reasonable cost relative to features and clinical benefit
+
+[🔗 website](https://www.imedicalapps.com/)
 
 ---
 
