@@ -140,6 +140,18 @@ Tertiary sources include:
 | **Legal Handbook for Pharmacy Technicians** | Overview of federal and state pharmacy laws written specifically for technicians | [🔗 Website](https://publications.ashp.org/display/book/9781585282791/9781585282791.xml) |
 | **Essentials of Law & Ethics for Pharmacy Technicians** | Introductory text covering legal responsibilities, ethics, and regulatory compliance | [🔗 Website](https://catalog.nlm.nih.gov/permalink/01NLM_INST/93h1c8/alma9911782563406676) |
 
-### Compounding References
+### USP Compounding Compendium
 
-| **USP Compounding & Safety Standards** | Official USP chapters (<795>, <797>, <800>) governing compounding and hazardous drug handling | [🔗 Website](https://www.usp.org/) |
+`Subscription-based reference from USP–NF containing enforceable and informational compounding standards.`
+
+| **Chapter** | **Title** | **Description** |
+| --- | --- | --- |
+| **<795>** | Pharmaceutical Compounding - Nonsterile Preparations | Standards for nonsterile compounding, including facility requirements, BUD assignment, documentation, quality assurance, and personnel training. |
+| **<797>** | Pharmaceutical Compounding - Sterile Preparations | Requirements for sterile compounding, including environmental controls, PEC/SEC standards, garbing, aseptic technique, sterility testing, and BUD assignment. |
+| **<800>** | Hazardous Drugs - Handling in Healthcare Settings | Protects workers and patients by establishing standards for receiving, storing, compounding, administering, and disposing of hazardous drugs (HDs). |
+| **<1160>** | Pharmaceutical Calculations in Prescription Compounding | Provides guidance on accurate pharmaceutical calculations used in compounding and dispensing. |
+| **<1163>** | Quality Assurance in Pharmaceutical Compounding | Outlines QA programs, testing, documentation, and performance metrics to ensure compounded preparation quality. |
+| **<1168>** | Compounding for Phase I Investigational Studies | Provides guidance for preparing, packaging, labeling, and documenting compounded preparations used in Phase I clinical trials, including requirements for investigational products, study blinding, and sponsor‑protocol compliance. |
+| **<1176>** | Prescription Balances and Volumetric Apparatus | Describes proper selection, calibration, and use of balances, pipettes, and volumetric equipment in compounding. |
+
+[🔗 Official USP Compounding Compendium](https://www.usp.org/products/usp-compounding-compendium)
