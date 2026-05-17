@@ -134,11 +134,11 @@ Official publications of pharmacy organizations. They reflect professional stand
 
 ### Secondary Literature
 
-`Tools & services that **index, abstract (summarize), or help locate** primary literature.`
-
 `Tools that help you **find** primary literature by indexing, abstracting, or organizing research.`  
 
-Secondary sources do **not** provide the full article—they point you to where it is.
+Secondary sources do **not** provide the full article; they point you to where it is.
+
+**Abstracting Services** summarize information found in professional & scientific journals.
 
 These resources are essential when searching for:
 
