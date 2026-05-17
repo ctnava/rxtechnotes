@@ -55,7 +55,7 @@ These resources are essential when searching for:
 
 | Tool | Description | Link |
 | --- | --- | --- |
-| **MedlinePlus** | Consumer‑friendly summaries; links to reliable health information (not a true index of primary literature, but useful for quick topic overviews) | [🔗 Website](https://medlineplus.gov/) |
+| **MedlinePlus** | Consumer‑friendly summaries of prescription & non-prescription drugs by the National Library of Medicine; links to reliable health information (not a true index of primary literature, but useful for quick topic overviews) | [🔗 Website](https://medlineplus.gov/) |
 | **PubMed** | Premier biomedical database from the National Library of Medicine; indexes millions of primary research articles | [🔗 Website](https://pubmed.ncbi.nlm.nih.gov/) |
 | **International Pharmaceutical Abstracts (IPA)** | Indexes pharmacy‑focused journals and provides abstracts of research on drug therapy, toxicity, pharmacy practice, legislation, technology, and other topics relevant to pharmaceutical science. | [🔗 Website](https://about.ebsco.com/products/research-databases/international-pharmaceutical-abstracts) |
 | **The Cochrane Library** | Systematic reviews of evidence‑based primary research in human health care and policy, used to evaluate clinical interventions and support evidence‑based decision‑making. | [🔗 Website](https://www.cochranelibrary.com/) |
