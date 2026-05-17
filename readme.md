@@ -39,14 +39,18 @@ Structured for both exam prep and on-the-job reference.
 | 2 | [Career Overview](./technician_career.md) | ✅ Complete |
 | 3 | [Ethics & Compliance](./ethics_compliance.md) | ✅ Complete |
 | 4 | [Information & Resources](./reference.md) | ✅ Complete |
-| 5 | [Pharmacy Personnel, Duties, & Services](./personnel_services.md) | ✅ Complete |
-| 6 | [Pharmacy Settings](./settings.md) | ✅ Complete |
-| 7 | [Healthcare Coverage](./healthcare_coverage.md) | 🚧 WIP |
-| 8 | [Drug Discovery, Manufacturing, & Logistics](./discovery_manufacture.md) | ✅ Complete |
-| 9 | [Core Pharmacy Operations](./core_operations.md) | 🚧 WIP |
+| 5 | Medical Terminology & Abbreviations | 🚧 WIP |
+| 6 | Biopharmaceutics & Factors Affecting Drug Activity | 🚧 WIP |
+| 7 | [Drug Discovery, Manufacturing, & Logistics](./discovery_manufacture.md) | ✅ Complete |
+| 8 | [Commonly Prescribed Drugs](./drugs.md) | 🚧 WIP |
+| 9 | [Pharmacy Mathematics](./math/readme.md) | ✅ Complete |
+| 10 | [Pharmacy Personnel, Duties, & Services](./personnel_services.md) | ✅ Complete |
+| 11 | [Pharmacy Settings](./settings.md) | ✅ Complete |
+| 12 | [Healthcare Coverage](./healthcare_coverage.md) | 🚧 WIP |
+| 13 | [Core Pharmacy Operations](./core_operations.md) | 🚧 WIP |
+| 14 | [Compounding](./compounding.md) | 🚧 WIP |
 
-- 📁 **Math Tutorials** are located in the [Mathematics Concepts Directory](./math/readme.md) directory.
-- 📁 **Legal Overviews & Breakdowns** are located in the [Federal Law Reference Directory](./law/readme.md) directory.
+- 📁 [Federal Law Reference Directory](./law/readme.md) directory.
 
 ### 🧠 Medications to Remember
 
