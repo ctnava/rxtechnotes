@@ -187,6 +187,8 @@ Until review is complete, these products may remain on the market **unless safet
 
 ## 🏷️ Marketing
 
+`Marketing begins during development`
+
 ### Naming
 
 `The **United States Adopted Names (USAN) Council** designates official **non‑proprietary (generic) drug names**.`
