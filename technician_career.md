@@ -174,7 +174,7 @@ Technicians maintain competency through accredited CE that builds practical skil
 | **APhA CE Center** | CE for pharmacy personnel, including immunization workflow and patient‑care modules. | [🔗 website](https://www.pharmacist.com/CE) |
 | **PowerPak CE** | Broad catalog of free and paid CE covering clinical, workflow, and communication topics. | [🔗 website](https://www.powerpak.com) |
 | **PTCB CE Directory** | Curated list of CE programs accepted for PTCB recertification. | [🔗 website](https://www.ptcb.org/renew) |
-| **NHA CE Library** | CE modules aligned with ExCPT recertification requirements. | [🔗 website](https://www.nhanow.com) |
+| **NHA CE Library** | CE modules aligned with ExCPT recertification requirements. | [🔗 website](https://www.nhanow.com/) |
 
 > 🛡️ **Best Practice**: Keep a CE log and obtain completion certificates for all credit hours earned. Submit renewal applications on time to avoid lapses in certification.
 
@@ -297,6 +297,28 @@ To be eligible for the PTCE, applicants must:
 Candidates must apply online through the PTCB website. Once approved, they can schedule the exam through Pearson VUE at a location and time of their choosing.
 
 🌐 [Apply Online](https://www.ptcb.org/ptce)
+
+### 📝 Exam Preparation
+
+Both national exams offer official preparation materials, and several widely used textbooks support structured study. The table below organizes these resources for quick reference.
+
+| Resource Type | Title / Description | Source / Link |
+| --- | --- | --- |
+| **Official Prep** | PTCE Candidate Guidebook, practice exams, and content outline | [🔗 website](https://www.ptcb.org/) |
+| **Official Prep** | ExCPT Test Plan, study guides, and practice assessments | [🔗 website](https://www.nhanow.com/) |
+| **Textbook** | *Pharmacy Technician Workbook & Certification Review* (latest) | [🔗 website](https://www.morton-pub.com/product/mortypak-bundle-the-pharmacy-technician-with-workbook-and-certification-review-and-pharmacy-calculations-6e/) |
+| **Textbook** | *Pharmacy Calculations for Technicians* | [🔗 website](https://www.morton-pub.com/product/mortypak-bundle-the-pharmacy-technician-with-workbook-and-certification-review-and-pharmacy-calculations-6e/) |
+| **Textbook** | *Medication Workbook for Pharmacy Technicians* | [🔗 website](https://www.morton-pub.com/product/medication-workbook-for-pharmacy-technicians-a-pharmacology-primer/) |
+| **Textbook (Optional)** | *Mosby’s Review for the Pharmacy Technician* | [🔗 website](https://evolve.elsevier.com/cs/product/9780323497244) |
+
+other preparation texts include the pharmacy technciain workbook & Certification review, pharmacy calculations, medication workbook for pharmacy technicians
+
+**Study Strategies**:
+
+- Use timed practice tests to build pacing and reduce anxiety.  
+- Prioritize weak areas identified through practice questions.  
+- Review the official candidate guide the week before testing.  
+- Prepare ID and check‑in requirements early (especially for remote proctoring).
 
 ## 🚀 Additional Career Advancement
 
