@@ -25,6 +25,38 @@ These principles help users determine whether a website is credible, current, an
 
 [🔗 website](https://efmi.org/institutional-members-2/hon-health-on-the-net-foundation/)
 
+#### Verified Internet Pharmacy Practice Sites (VIPPS)
+
+The **Verified Internet Pharmacy Practice Sites (VIPPS)** program, operated by the **National Association of Boards of Pharmacy (NABP)**, identifies legitimate online pharmacies that meet strict state and federal requirements for safe medication dispensing. VIPPS accreditation helps protect patients from unsafe or illegal online drug sellers.
+
+Accredited pharmacies must:
+
+- Comply with all state and federal licensing and inspection requirements  
+- Maintain secure prescription processing and patient‑information safeguards  
+- Provide access to a licensed pharmacist for consultation  
+- Dispense only FDA‑approved medications from verified supply chains  
+- Follow professional practice standards and consumer‑protection guidelines  
+
+Technicians can use the VIPPS directory to verify whether an online pharmacy is reputable and legally authorized to dispense medications.
+
+[🔗 Website](https://nabp.pharmacy/programs/vipps/)
+
+#### .pharmacy Verified Websites Program
+
+The **.pharmacy Verified Websites Program**, also operated by NABP, is the modern successor to VIPPS. Websites that earn the **.pharmacy** domain have been reviewed and approved as safe, legal, and trustworthy sources of medications and health information.
+
+A **.pharmacy** domain indicates that a site:
+
+- Meets NABP standards for patient safety and regulatory compliance  
+- Is properly licensed in all relevant jurisdictions  
+- Does not sell counterfeit or unapproved medications  
+- Provides transparent ownership, contact information, and pharmacist access  
+- Adheres to secure data‑handling and privacy practices  
+
+This program helps patients and technicians quickly identify legitimate online pharmacies and avoid rogue or fraudulent sites.
+
+[🔗 Website](https://safe.pharmacy/)
+
 ## Mobile Medical Apps (MMAs)
 
 Mobile medical apps support clinicians and technicians by providing quick access to drug information, clinical guidelines, calculators, and patient‑care tools. Apps vary widely in quality because they are developed by individuals, healthcare professionals, pharmaceutical companies, insurers, nonprofits, and government agencies.
