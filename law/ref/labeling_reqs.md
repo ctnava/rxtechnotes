@@ -182,6 +182,7 @@ Accurate labeling is one of the most important safety steps in the dispensing wo
 
 Depending on the drug, a REMS program may include one or more of the following:
 
+- Communication Plan
 - Mandated **Medication guides** or **patient package inserts (PPIs)**
   - Manufacturers are required to provide enough copies for distribution.
 - Prescriber training and certification requirements
