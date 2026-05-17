@@ -44,7 +44,7 @@
 
 - [x] SOP: Cleaning the Hood
 - [x] The Prescription Video
-- [x] Reading: Chapter 16 - Community Pharmacy (QUICK)
+- [x] Reading: Chapter 16 - Community Pharmacy
   - ./settings_personnel_services.md
 - [x] HIPAA Survival Guide
 - [x] Math: Chapter 12 - Day Supply
@@ -62,13 +62,13 @@
 - [x] Math: DEA Numbers
 - [x] CE: Calculations for Pharmacy Technicians: Math & Measurements
 
-## Week 5: Rx Law & Processing
+## [DONE] Week 5: Rx Law & Processing
 
 - [x] Externship Study Guide
 - [x] DenaliRx Drugs 61-80
-- [x] Reading: Chapter 7 - Prescriptions (QUICK)
+- [x] Reading: Chapter 7 - Prescriptions
   - [x] import checklists
-- [x] Reading: Chapter 3 - Pharmacy Law, Regulations, & Ethics (QUICK)
+- [x] Reading: Chapter 3 - Pharmacy Law, Regulations, & Ethics
 - [x] Prescription Intake Video & Quiz
 - [x] Drug Package Inserts
 - [x] Math: Chapter 13 - Insulin Math
@@ -77,12 +77,12 @@
 - [x] Manufacturer Drug Label Requirements
 - [x] Manufacturer Drug Visual
 
-## Week 6: Info & Financial
+## [DONE] Week 6: Info & Financial
 
 - [x] Gowning SOP
 - [x] Math: Chapter 23 - Parenteral Ratios & Proportions
-- [ ] Reading: Chapter 4 - Information Sources
-- [X] Reading: Chapter 15 - Financial Issues (QUICK)
+- [x] Reading: Chapter 4 - Information Sources
+- [X] Reading: Chapter 15 - Financial Issues
 - [x] [Syringes Video](https://www.youtube.com/watch?v=b4Y2qE4ZgvE)
 - [x] IV Solutions
 
@@ -91,8 +91,8 @@
 - [x] DenaliRx Drugs 81-100
 - [x] Kirby Lester Counting Machine Video
 - [x] CVS Insurance Training Packet (unnecessary)
-- [X] Reading: Chapter 14 - Inventory (QUICK)
-- [ ] CE: Medication Reconciliation
+- [X] Reading: Chapter 14 - Inventory
+- [ ] CE: Medication Reconciliation (QUICK)
 - [x] Math: Chapter 24 - Powder Drugs
 - [x] Drug Regulation & Control Video
 - [x] Medical Symbols
@@ -101,7 +101,7 @@
 ## Week 8: Terminology
 
 - [ ] Reading: Chapter 5 - Terminology
-- [ ] CE: Managing Prior Authorizations
+- [ ] CE: Managing Prior Authorizations (QUICK)
 - [x] Understanding VAERS
 - [x] Physician Specialties
 - [x] Math: Chapter 25 - Percents
@@ -126,8 +126,8 @@
 
 - [x] DenaliRx Drugs 141-160
 - [ ] Reading: Chapter 9 - Nonsterile Compounding
-- [ ] CE: Medication Therapy Management
-- [ ] CE: PAPs
+- [ ] CE: Medication Therapy Management (QUICK)
+- [ ] CE: PAPs (QUICK)
 
 ## Week 12: Hospital Pharmacy
 
