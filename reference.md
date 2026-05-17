@@ -58,6 +58,7 @@ These resources are essential when searching for:
 | **MedlinePlus** | Consumer‑friendly summaries; links to reliable health information (not a true index of primary literature, but useful for quick topic overviews) | [🔗 Website](https://medlineplus.gov/) |
 | **International Pharmaceutical Abstracts (IPA)** | Indexes pharmacy‑specific journals; abstracts clinical, administrative, and professional pharmacy research | [🔗 Website](https://about.ebsco.com/products/research-databases/international-pharmaceutical-abstracts) |
 | **PubMed / MEDLINE** | Premier biomedical database from the National Library of Medicine; indexes millions of primary research articles | [🔗 Website](https://pubmed.ncbi.nlm.nih.gov/) |
+| **The Cochrane Library** | Systematic reviews of evidence‑based primary research in human health care and policy, used to evaluate clinical interventions and support evidence‑based decision‑making. | [🔗 Website](https://www.cochranelibrary.com/) |
 
 **Key Features of Secondary Literature**:
 
@@ -124,23 +125,20 @@ Tertiary sources include:
 | **Micromedex Solutions** | A hospital‑focused, evidence‑graded drug information suite. Includes **DRUGDEX** (clinical monographs), **POISINDEX** (toxicology), **IDENTIDEX** (pill ID), **IV Compatibility**, **NeoFax/Pediatrics**, **REDBOOK Online** (drug pricing & product availability), and **Reproductive Effects** (pregnancy/lactation risk data). Highly valued in emergency medicine, critical care, and toxicology. Considered the “gold standard” for hospital drug databases. | [🔗 Website](https://www.micromedexsolutions.com/home/dispatch/) |
 | **Clinical Pharmacology** | **Accepted by all 50 state boards**; A comprehensive drug information system used across retail, specialty, and hospital settings. Features monographs, interaction checkers, adverse effect databases, product identification, and clinical decision support. Known for its strong **drug comparison tools**, **formulary integration**, and **FDA‑linked updates**. | [🔗 Website](https://www.clinicalpharmacology.com/) |
 
-## Safety References & Sources
+### Safety References & Sources
 
 | Product | Description | Link |
 | --- | --- | --- |
 | **Institute for Safe Medication Practices (ISMP)** | Medication safety alerts, error‑prevention strategies, best practices | [🔗 Website](https://www.ismp.org/) |
 | **USP SDS Online** | Safety Data Sheets for hazardous drugs and chemicals | [🔗 Website](https://www.uspmsds.com/) |
 
-## Pharmacy Law & Regulations
+### Pharmacy Law & Regulations
 
 | Product | Description | Link |
 | --- | --- | --- |
 | **Legal Handbook for Pharmacy Technicians** | Overview of federal and state pharmacy laws written specifically for technicians | [🔗 Website](https://publications.ashp.org/display/book/9781585282791/9781585282791.xml) |
 | **Essentials of Law & Ethics for Pharmacy Technicians** | Introductory text covering legal responsibilities, ethics, and regulatory compliance | [🔗 Website](https://catalog.nlm.nih.gov/permalink/01NLM_INST/93h1c8/alma9911782563406676) |
-| **USP Compounding & Safety Standards** | Official USP chapters (<795>, <797>, <800>) governing compounding and hazardous drug handling | [🔗 Website](https://www.usp.org/) |
 
-| Product | Description | Link |
-| --- | --- | --- |
-| **Legal Handbook for Pharmacy Technicians** | TBA | [🔗 Website]() |
-| **Essentials of Law & Ethics for Pharmacy Technicians** | TBA | [🔗 Website]() |
-| **USP SDS Online** | TBA | [🔗 Website]() |
+### Compounding References
+
+| **USP Compounding & Safety Standards** | Official USP chapters (<795>, <797>, <800>) governing compounding and hazardous drug handling | [🔗 Website](https://www.usp.org/) |
