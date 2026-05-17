@@ -104,18 +104,21 @@ Tertiary sources include:
 
 > Tertiary sources are the **first stop** for most pharmacy questions, but primary literature is the **gold standard** when accuracy and evidence are critical.
 
-### Professional Newsletters
+#### Professional Newsletters
 
 `Published frequently to keep practitioners updated on clinical, regulatory, and practice‑based developments`
 
 | Publication | Focus | Link |
 | --- | --- | --- |
 | **Pharmacist’s Letter / Prescriber’s Letter** | Concise clinical updates, drug therapy recommendations, charts, comparison tables | [🔗 Website](https://www.therapeuticresearch.com) |
+| **Pharmacy Technician’s Letter** | Technician‑focused updates on workflow, safety, drug information, best practices, and practical guidance for daily operations | [🔗 Website](https://www.therapeuticresearch.com) |
 | **FDA Drug Safety Communications** | Safety alerts, recalls, labeling changes, medication error warnings | [🔗 Website](https://www.fda.gov/drugs) |
 | **ASHP NewsLink** | Hospital pharmacy practice, policy updates, medication safety, compounding standards | [🔗 Website](https://www.ashp.org) |
 | **NCPA Digest / America’s Pharmacist** | Independent pharmacy business, legislative updates, practice management | [🔗 Website](https://ncpa.org) |
 
-### Trade Journals
+Pharmacy technicians letter
+
+#### Trade Journals
 
 `Published commercially, not by a professional association; often contain advertisements and industry‑focused content`
 
@@ -126,7 +129,7 @@ Tertiary sources include:
 | **U.S. Pharmacist** | Peer‑reviewed clinical articles, disease‑state reviews, drug therapy updates | [🔗 Website](https://www.uspharmacist.com) |
 | **Drug Store News** | Retail pharmacy business, merchandising, supply chain, and market trends | [🔗 Website](https://www.drugstorenews.com) |
 
-### Drug Information References
+#### Drug Information References
 
 | Publication | Description | Link |
 | --- | --- | --- |
@@ -138,7 +141,7 @@ Tertiary sources include:
 | **Drug Information Handbook** | Quick‑reference clinical monographs commonly used in community and institutional settings (Lexicomp); treatment guides & therapy recommendations | [🔗 Website](https://www.wolterskluwer.com/en/solutions/lexicomp) |
 | **Handbook of Nonprescription Drugs** | Comprehensive reference for OTC products, counseling, self‑care, complementary therapies, non-drug measures, treatment algorithms, and patient assessment/ triage (APhA); identifies active ingredients & common side effects | [🔗 Website](https://www.pharmacist.com/Publications/Handbook-of-Nonprescription-Drugs) |
 
-### Electronic Product Suites & Solutions
+#### Electronic Product Suites & Solutions
 
 `Subscription-Only Access`
 
@@ -148,21 +151,21 @@ Tertiary sources include:
 | **Micromedex Solutions** | A hospital‑focused, evidence‑graded drug information suite. Includes **DRUGDEX** (clinical monographs), **POISINDEX** (toxicology), **IDENTIDEX** (pill ID), **IV Compatibility**, **NeoFax/Pediatrics**, **REDBOOK Online** (drug pricing & product availability), and **Reproductive Effects** (pregnancy/lactation risk data). Highly valued in emergency medicine, critical care, and toxicology. Considered the “gold standard” for hospital drug databases. | [🔗 Website](https://www.micromedexsolutions.com/home/dispatch/) |
 | **Clinical Pharmacology** | **Accepted by all 50 state boards**; A comprehensive drug information system used across retail, specialty, and hospital settings. Features monographs, interaction checkers, adverse effect databases, product identification, and clinical decision support. Known for its strong **drug comparison tools**, **formulary integration**, and **FDA‑linked updates**. | [🔗 Website](https://www.clinicalpharmacology.com/) |
 
-### Safety References & Sources
+#### Safety References & Sources
 
 | Product | Description | Link |
 | --- | --- | --- |
 | **Institute for Safe Medication Practices (ISMP)** | Medication safety alerts, error‑prevention strategies, best practices | [🔗 Website](https://www.ismp.org/) |
 | **USP SDS Online** | Safety Data Sheets for hazardous drugs and chemicals | [🔗 Website](https://www.uspmsds.com/) |
 
-### Pharmacy Law & Regulations
+#### Pharmacy Law & Regulations
 
 | Product | Description | Link |
 | --- | --- | --- |
 | **Legal Handbook for Pharmacy Technicians** | Overview of federal and state pharmacy laws written specifically for technicians | [🔗 Website](https://publications.ashp.org/display/book/9781585282791/9781585282791.xml) |
 | **Essentials of Law & Ethics for Pharmacy Technicians** | Introductory text covering legal responsibilities, ethics, and regulatory compliance | [🔗 Website](https://catalog.nlm.nih.gov/permalink/01NLM_INST/93h1c8/alma9911782563406676) |
 
-### USP Compounding Compendium
+#### USP Compounding Compendium
 
 `Subscription-based reference from USP–NF containing enforceable and informational compounding standards.`
 
