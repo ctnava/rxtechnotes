@@ -116,23 +116,28 @@ Tertiary sources include:
 
 ### Electronic Product Suites & Solutions
 
+`Subscription-Only Access`
+
 | Product | Description | Link |
 | --- | --- | --- |
-| **Lexicomp Online / Wolters Kluwer Clinical Drug Information** | Comprehensive monographs, interactions, IV compatibility, patient education | [🔗 Website](https://www.wolterskluwer.com/en/solutions/lexicomp) |
-| **Micromedex Solutions** | Evidence‑based drug information suite; includes Poisindex & IV compatibility | [🔗 Website](https://www.micromedexsolutions.com/home/dispatch/) |
-| **Clinical Pharmacology** | Drug monographs, interactions, and clinical decision support | [🔗 Website](https://www.elsevier.com/products/clinicalkey/clinical-pharmacology) |
-
----
+| **Lexicomp Online / Wolters Kluwer Clinical Drug Information** | A widely used clinical database featuring detailed drug monographs, interaction analysis, renal/hepatic dosing adjustments, pediatric dosing, off‑label uses, and patient education sheets. Includes **Trissel’s IV Compatibility**, calculators, and clinical decision support tools. Known for its clean interface and strong outpatient + inpatient utility. | [🔗 Website](https://www.wolterskluwer.com/en/solutions/lexicomp) |
+| **Micromedex Solutions** | A hospital‑focused, evidence‑graded drug information suite. Includes **DRUGDEX** (clinical monographs), **POISINDEX** (toxicology), **IDENTIDEX** (pill ID), **IV Compatibility**, **NeoFax/Pediatrics**, **REDBOOK Online** (drug pricing & product availability), and **Reproductive Effects** (pregnancy/lactation risk data). Highly valued in emergency medicine, critical care, and toxicology. Considered the “gold standard” for hospital drug databases. | [🔗 Website](https://www.micromedexsolutions.com/home/dispatch/) |
+| **Clinical Pharmacology** | **Accepted by all 50 state boards**; A comprehensive drug information system used across retail, specialty, and hospital settings. Features monographs, interaction checkers, adverse effect databases, product identification, and clinical decision support. Known for its strong **drug comparison tools**, **formulary integration**, and **FDA‑linked updates**. | [🔗 Website](https://www.clinicalpharmacology.com/) |
 
 ## Safety References & Sources
 
 | Product | Description | Link |
 | --- | --- | --- |
-| **The Institute for Safe Medicine Practices** | TBA | [🔗 Website]() |
-| **MEDMARX** | TBA | [🔗 Website]() |
-| **USP SDS Online** | TBA | [🔗 Website](https://www.uspmsds.com/) |
+| **Institute for Safe Medication Practices (ISMP)** | Medication safety alerts, error‑prevention strategies, best practices | [🔗 Website](https://www.ismp.org/) |
+| **USP SDS Online** | Safety Data Sheets for hazardous drugs and chemicals | [🔗 Website](https://www.uspmsds.com/) |
 
-## Pharmacy Law
+## Pharmacy Law & Regulations
+
+| Product | Description | Link |
+| --- | --- | --- |
+| **Legal Handbook for Pharmacy Technicians** | Overview of federal and state pharmacy laws written specifically for technicians | [🔗 Website](https://publications.ashp.org/display/book/9781585282791/9781585282791.xml) |
+| **Essentials of Law & Ethics for Pharmacy Technicians** | Introductory text covering legal responsibilities, ethics, and regulatory compliance | [🔗 Website](https://catalog.nlm.nih.gov/permalink/01NLM_INST/93h1c8/alma9911782563406676) |
+| **USP Compounding & Safety Standards** | Official USP chapters (<795>, <797>, <800>) governing compounding and hazardous drug handling | [🔗 Website](https://www.usp.org/) |
 
 | Product | Description | Link |
 | --- | --- | --- |
