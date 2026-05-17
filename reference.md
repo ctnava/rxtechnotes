@@ -162,6 +162,8 @@ Tertiary sources include:
 
 #### Legal Compliance & Safety
 
+Resources in this category support compliance with federal regulations, medication‑safety standards, workplace protections, and legal responsibilities in pharmacy practice. These references are essential for understanding controlled substances, HIPAA, hazardous drug handling, and regulatory oversight.
+
 | Product | Description | Link |
 | --- | --- | --- |
 | **Institute for Safe Medication Practices (ISMP)** | Medication safety alerts, error‑prevention strategies, best practices | [🔗 Website](https://www.ismp.org/) |
@@ -169,12 +171,12 @@ Tertiary sources include:
 | **Legal Handbook for Pharmacy Technicians** | Overview of federal and state pharmacy laws written specifically for technicians | [🔗 Website](https://publications.ashp.org/display/book/9781585282791/9781585282791.xml) |
 | **Essentials of Law & Ethics for Pharmacy Technicians** | Introductory text covering legal responsibilities, ethics, and regulatory compliance | [🔗 Website](https://catalog.nlm.nih.gov/permalink/01NLM_INST/93h1c8/alma9911782563406676) |
 | **USP Compounding Compendium** | Subscription-based reference from USP–NF containing enforceable and informational compounding standards. | [🔗 Website](https://www.usp.org/products/usp-compounding-compendium) |
-HIPAA Reference by HHS https://www.hhs.gov/hipaa/index.html
-DEA 21 code of federal regulations part 1300 to end http://ecfr.gov/current/title-21/chapter-II
-DEA title 21 USC codified CSA https://uscode.house.gov/browse/prelim@title21/chapter13/subchapter1/partC&edition=prelim
-FDA Regulatory information https://www.fda.gov/regulatory-information
-ONC for Health IT https://healthit.gov/
-CDC NIOSH https://www.cdc.gov/niosh/
+| **HIPAA (HHS Office for Civil Rights)** | Official federal guidance on patient privacy, PHI protection, permitted disclosures, and HIPAA Security Rule requirements. | [🔗 Website](https://www.hhs.gov/hipaa/index.html) |
+| **DEA - Code of Federal Regulations (21 CFR, Parts 1300-End)** | Legally binding regulations governing controlled substances, including scheduling, recordkeeping, inventory, ordering (DEA 222), and security requirements. | [🔗 Website](https://www.ecfr.gov/current/title-21/chapter-II) |
+| **DEA - Controlled Substances Act (21 USC)** | Federal statute defining controlled substance schedules, penalties, registration requirements, and enforcement authority. | [🔗 Website](https://uscode.house.gov/browse/prelim@title21/chapter13/subchapter1/partC&edition=prelim) |
+| **FDA Regulatory Information** | Federal guidance on drug approval, labeling, recalls, manufacturing standards, and post‑marketing safety requirements. | [🔗 Website](https://www.fda.gov/regulatory-information) |
+| **Office of the National Coordinator for Health IT (ONC)** | Standards and regulations for electronic health records (EHR), interoperability, e‑prescribing, and health‑information security. | [🔗 Website](https://www.healthit.gov/) |
+| **CDC NIOSH** | Authoritative guidance on occupational safety, hazardous drug lists, PPE recommendations, and engineering controls for healthcare workers. | [🔗 Website](https://www.cdc.gov/niosh/) |
 
 #### Consumer Drug Information Resources
 
@@ -186,6 +188,6 @@ These resources provide patient‑friendly explanations of medications, conditio
 | **RxList** | Consumer‑oriented drug encyclopedia providing simplified drug monographs, side effects, and patient education content; includes pill identification tool, top 200 drugs list, and medical dictionary | [🔗 Website](https://www.rxlist.com/) |
 | **WebMD Drugs & Medications** | Patient‑facing drug information, condition overviews, and treatment explanations written for general public understanding. | [🔗 Website](https://www.webmd.com/drugs/) |
 | **DailyMed (Consumer View)** | Provides FDA‑approved patient labeling and medication guides derived from official package inserts. | [🔗 Website](https://dailymed.nlm.nih.gov/) |
-| **CDC Vaccine Information Statements (VIS)** | Official CDC patient education sheets explaining vaccine benefits, risks, and what to expect before/after vaccination. | [🔗 Website](https://www.cdc.gov/vaccines/hcp/vis/) |
+| **CDC Vaccine Information Statements (VIS)** | Official CDC patient education sheets explaining vaccine benefits, risks, and what to expect before/after vaccination; must be provided before each dose of specific vaccines | [🔗 Website](https://www.cdc.gov/vaccines/hcp/vis/) |
 
 ---
