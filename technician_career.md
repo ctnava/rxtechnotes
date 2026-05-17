@@ -73,7 +73,6 @@ Key expectations include:
 
 > 🛡️ **Bottom line:** Social media is public, permanent, and professionally relevant. Protect patients, protect your license, and protect your reputation.
 
-
 ## Core Competencies
 
 To succeed in pharmacy practice, technicians must be competent in multiple domains. These core competencies go beyond basic job functions; they are part of your professional toolkit.
