@@ -204,6 +204,12 @@ Prefixes and suffixes **modify** the root to give additional meaning.
 
 ## Organ Systems: Commonly Associated Terms & Conditions
 
-Summary of Organ Systems & commonly associated terms/ conditions
+The document provides a concise yet comprehensive overview of all major **human organ systems**, describing their primary **functions**, **anatomical structures**, and related **medical terminology**.
+
+🔗 [Link to Document](./ref/organ_systems.md)
 
 ---
+
+## 🗺️🔗 Nav Links
+
+- 🏠 [Home Directory](./readme.md)

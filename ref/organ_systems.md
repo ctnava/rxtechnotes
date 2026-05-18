@@ -399,4 +399,4 @@ Muscles often work in **pairs**:
 
 ## Navlinks
 
-- 🔙🔗 Back to [Medical Terminology](../terminology.md#organ-systems--conditions)
+- 🔙🔗 Back to [Medical Terminology](../terminology.md#organ-systems-commonly-associated-terms--conditions)
