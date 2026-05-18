@@ -73,62 +73,61 @@ Prefixes and suffixes **modify** the root to give additional meaning.
 
 | Prefix | Meaning | Example |
 | --- | --- | --- |
-| **a- / an-** | without, not | *an*emia |
-| **ambi-** | both | ambi*dextrous* |
-| **ante-** | before, in front of | ante*natal* |
-| **anti-** | against | anti*biotic* |
-| **bi-** | two, both | bi*lateral* |
-| **brady-** | slow | brady*cardia* |
-| **chlor-** | green | chlor*ophyll* |
-| **circum-** | around | circum*oral* |
-| **cirrh- / xanth-** | yellow | cirrh*osis*, xanth*oma* |
-| **con- / sym- / syn-** | with, together | syn*apse* |
-| **contra-** | against, opposite | contra*indication* |
-| **cyan-** | blue | cyan*osis* |
-| **dia- / trans-** | through, across | dia*lysis*, trans*dermal* |
-| **dipl- / diplo-** | double | diplo*coccus* |
-| **dis-** | apart, away | dis*location* |
-| **ec- / ecto- / exo-** | out, outside | ecto*derm* |
-| **em- / en- / end- / endo- / intra-** | in, within | endo*crine*, intra*venous* |
-| **epi-** | upon, above | epi*dermis* |
-| **erythr- / rube-** | red | erythr*ocyte*, rube*ola* |
-| **eso-** | inward | eso*phagus* |
-| **eu-** | good, normal | eu*thyroid* |
-| **glauc- / polio-** | gray | glauc*oma*, polio*myelitis* |
-| **hemi- / semi-** | half | hemi*paresis*, semi*conscious* |
-| **hetero-** | different | hetero*geneous* |
-| **homo- / homeo- / iso-** | same, equal | homeo*stasis*, iso*tonic* |
-| **hyper-** | above, excessive | hyper*tension* |
-| **hypo- / sub- / infra-** | below, deficient | hypo*glycemia*, sub*cutaneous*, infra*clavicular* |
-| **im- / in-** | not | in*fertile* |
-| **immun-** | safe, protected | immun*ology* |
-| **inter-** | between | inter*costal* |
-| **leuk- / leuc-** | white | leuk*ocyte* |
-| **lip-** | fat | lip*id* |
-| **macro- / mega-** | large | macro*phage* |
-| **mal-** | bad, poor | mal*nourished* |
-| **medi- / mid- / meso-** | middle | medi*al*, meso*derm* |
-| **melan-** | black, dark | melan*oma* |
-| **meta-** | beyond, after, change | meta*stasis* |
-| **micro-** | small | micro*scope* |
-| **mono- / uni-** | one | mono*cyte*, uni*lateral* |
-| **multi- / poly-** | many | multi*factorial*, poly*uria* |
-| **neo-** | new | neo*natal* |
-| **pachy-** | thick, heavy | pachy*derma* |
-| **pan-** | all | pan*cytopenia* |
-| **para-** | beside, near, abnormal | para*thyroid* |
-| **peri-** | around | peri*cardium* |
-| **post- / retro-** | after, behind | post*operative*, retro*peritoneal* |
-| **pre- / pro-** | before, first | pre*natal*, pro*drome* |
-| **primi-** | first | primi*gravida* |
-| **pseudo-** | false | pseudo*cyst* |
-| **purpur-** | purple (red) | purpur*a* |
-| **quadri- / tri-** | four | quadri*plegia* |
-| **re-** | again, back | re*hydrate* |
-| **super- / supra- / ultra-** | above, excessive | supra*renal*, ultra*sonic* |
-| **tachy-** | fast | tachy*pnea* |
-| **tri-** | three | tri*glyceride* |
-| **xero-** | dry | xero*derma* |
+| **a- / an-** | without, not | ***a-***symptomatic, ***an-***emia |
+| **ambi-** | both | ***ambi-***dextrous |
+| **ante-** | before, in front of | ***ante-***natal |
+| **anti-** | against | ***anti-***biotic |
+| **bi-** | two, both | ***bi-***lateral |
+| **brady-** | slow | ***brady-***cardia |
+| **chlor-** | green | ***chlor-***ophyll |
+| **circum-** | around | ***circum-***oral |
+| **cirrh- / xanth-** | yellow | ***cirrh-***osis, ***xanth-***oma |
+| **con- / sym- / syn-** | with, together | ***con-***genital, ***sym-***pathetic, ***syn-***apse |
+| **contra-** | against, opposite | ***contra-***indication |
+| **cyan-** | blue | ***cyan-***osis |
+| **dia- / trans-** | through, across | ***dia-***lysis, ***trans-***dermal |
+| **dipl- / diplo-** | double | ***dipl-***opia, ***diplo-***coccus |
+| **dis-** | apart, away | ***dis-***location |
+| **ec- / ecto- / exo-** | out, outside | ***ec-***topic, ***ecto-***derm, ***exo-***crine |
+| **em- / en- / end- / endo- / intra-** | in, within | ***em-***bed, ***en-***darterectomy, ***end-***artery, ***endo-***crine, ***intra-***venous |
+| **epi-** | upon, above | ***epi-***dermis |
+| **erythr- / rube-** | red | ***erythr-***ocyte, ***rube-***ola |
+| **eso-** | inward | ***eso-***phagus |
+| **eu-** | good, normal | ***eu-***thyroid |
+| **glauc- / polio-** | gray | ***glauc-***oma, ***polio-***myelitis |
+| **hemi- / semi-** | half | ***hemi-***paresis, ***semi-***conscious |
+| **hetero-** | different | ***hetero-***geneous |
+| **homo- / homeo- / iso-** | same, equal | ***homo-***zygous, ***homeo-***stasis, ***iso-***tonic |
+| **hyper-** | above, excessive | ***hyper-***tension |
+| **hypo- / sub- / infra-** | below, deficient | ***hypo-***glycemia, ***sub-***cutaneous, ***infra-***clavicular |
+| **im- / in-** | not | ***im-***mobile, ***in-***fertile |
+| **immun-** | safe, protected | ***immun-***ology |
+| **inter-** | between | ***inter-***costal |
+| **leuk- / leuc-** | white | ***leuk-***ocyte, ***leuc-***orrhea |
+| **lip-** | fat | ***lip-***id |
+| **macro- / mega-** | large | ***macro-***phage, ***mega-***colon |
+| **mal-** | bad, poor | ***mal-***nourished |
+| **medi- / mid- / meso-** | middle | ***medi-***al, ***mid-***brain, ***meso-***derm |
+| **melan-** | black, dark | ***melan-***oma |
+| **meta-** | beyond, after, change | ***meta-***stasis |
+| **micro-** | small | ***micro-***scope |
+| **mono- / uni-** | one | ***mono-***cyte, ***uni-***lateral |
+| **multi- / poly-** | many | ***multi-***factorial, ***poly-***uria |
+| **neo-** | new | ***neo-***natal |
+| **pachy-** | thick, heavy | ***pachy-***derma |
+| **pan-** | all | ***pan-***cytopenia |
+| **para-** | beside, near, abnormal | ***para-***thyroid |
+| **peri-** | around | ***peri-***cardium |
+| **post- / retro-** | after, behind | ***post-***operative, ***retro-***peritoneal |
+| **pre- / pro-** | before | ***pre-***natal, ***pro-***drome |
+| **primi-** | first | ***primi-***gravida |
+| **pseudo-** | false | ***pseudo-***cyst |
+| **purpur-** | purple | ***purpur-***a |
+| **quadri- / tri-** | four / three | ***quadri-***plegia, ***tri-***glyceride |
+| **re-** | again, back | ***re-***hydrate |
+| **super- / supra- / ultra-** | above, excessive | ***super-***infection, ***supra-***renal, ***ultra-***sonic |
+| **tachy-** | fast | ***tachy-***pnea |
+| **xero-** | dry | ***xero-***derma |
 
 ### Suffixes
 
