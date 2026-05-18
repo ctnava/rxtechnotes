@@ -71,6 +71,82 @@ Prefixes and suffixes **modify** the root to give additional meaning.
 
 ### Prefixes
 
+| Prefix | Meaning | Example |
+| --- | --- | --- |
+a-/an- | without
+ambi both
+ante before
+anti against
+bi two or both
+brady slow
+chlor green
+circum around
+cirrh yellow
+con with
+contra against
+cyan blue
+dia across or through
+dipl double
+dis separate from/ apart
+ec, ecto out, outside
+em/ en within
+end/ endo within
+epi upon, above
+erythr red
+eso inward
+eu good, normal
+exo outside
+glauc gray
+hemi half
+heter different
+homo same
+hyper above or excessive
+hypo below or deficient
+im/ in not
+immun safe/ protected
+ingra below or under
+inter between
+intra within
+iso equal
+leuk white
+lip fat
+macro large
+mal bad
+medi/ mid middle
+melan black
+meso middle
+meta beyond, after, changing
+micro small
+mono one
+multi many
+neo new
+pachy heavy thick
+pan all
+para alongside of or abnormal
+peri around
+polio gray
+poly many
+post after
+pre/ pro before
+primi first
+pseudo false
+purpur purple
+quadri for
+re again or back
+retro after
+rube red
+semi half
+sub below or under
+super, supra above or excessive
+sym, syn with
+tachy fast
+trans across/ through
+tri three
+ultra beyond or excessive
+uni one
+xanth yellow
+xero dry
+
 ### Suffixes
 
 | Suffix | Meaning | Example |
