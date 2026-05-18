@@ -284,17 +284,74 @@ The skin is the **largest organ** of the body and is composed of **three primary
 
 ### 🦴 Skeletal System
 
+The **skeletal system** provides the structural framework of the body. It supports posture, enables movement in coordination with the muscular system, and protects vital organs such as the brain, heart, and lungs.
+
+The adult skeleton contains **206 bones**, organized into two major divisions:
+
+- **Axial skeleton** — skull, vertebral column, ribs, sternum  
+- **Appendicular skeleton** — limbs and the girdles that attach them (shoulder and pelvis)
+
+Bones are composed of **osseous tissue**, **bone marrow**, **blood vessels**, and **nerves**.
+
+They continuously remodel through osteoblast (building) and osteoclast (resorbing) activity.
+
+The skeletal system includes several connective tissues:
+
+- **Ligaments**
+  - Tough, fibrous bands connecting **bone to bone**
+  - Provide stability to joints  
+  - Strong tensile strength; can stretch slightly but resist twisting  
+  - **Sprains** occur when ligaments are stretched or torn
+- **Cartilage**
+  - Smooth, flexible connective tissue  
+  - Provides **cushioning** and reduces friction between bones  
+  - Found in joints, rib cage, nose, ears, and intervertebral discs
+- **Synovial Bursa**
+  - Small, fluid-filled sacs located near joints  
+  - Reduce friction between tendons, ligaments, and bone  
+  - **Bursitis** is inflammation of a bursa, often from repetitive motion or pressure
+
+sprains are the most common problem wwith ligamients that involve stretching or tearing
+cartilatge provides protective pads between bones
+
+#### 🦴 Skeletal System - Roots
+
 | Root | Meaning | Combining Form |
 | --- | --- | --- |
-| **oste / osteo** | bone | oste**o**– |
-| **oss / ost** | bone | oss**o**– / ost**e**– |
-| **chondr** | cartilage | chondr**o**– |
 | **arthr** | joint | arthr**o**– |
-| **cost** | rib | cost**o**– |
+carp wrist
+| **chondr** | cartilage | chondr**o**– |
 | **crani** | skull | crani**o**– |
+| **cost** | rib | cost**o**– |
+dactyl finger/ toe
+fibul lower small leg bone
+lord curve
+metatar foot
+| **oste / osteo / oss / ost** | bone | oste**o**– / oss**o**– / ost**e**– |
+ped / pod foot
+phalang / finger or toe bones
+rachi spine
+scoli crooked, bent
 | **spondyl / vertebr** | vertebra | spondyl**o**– / vertebr**o**– |
 | **myel** | bone marrow | myel**o**– |
-| **tars / carp** | ankle / wrist | tars**o**– / carp**o**– |
+| **tars** | ankle | tars**o**– |
+
+#### 🦴 Skeletal System - Common Terms
+
+arthalgia
+arthritis
+craniomalacia
+lordosis
+metacarpals
+ostealgia
+osteoarthritis
+osteoblast
+osteoporosis
+periosteitis
+phalangia
+rachitis
+scoliosis
+spondylitis
 
 ### 💪 Muscular System
 
