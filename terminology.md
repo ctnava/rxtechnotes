@@ -403,7 +403,7 @@ Muscles often work in **pairs**:
 | **kinesi / kinesio** | movement | kinesi**o**– |
 | **ton / tono** | tone, tension | ton**o**– |
 
-### 💪 Muscular System - Common Terms
+#### 💪 Muscular System - Common Terms
 
 | Term | Meaning |
 | --- | --- |
