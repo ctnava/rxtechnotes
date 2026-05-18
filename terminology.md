@@ -76,7 +76,7 @@ Prefixes and suffixes **modify** the root to give additional meaning.
 | -ac/ -al/ -ar/ -ary/ -eal/ -ic/ -ous/ -tic | pertaining to | cardiac, dental, ocular, coronary, corneal, gastric, mucous, neurotic |
 | -algia | pain | neuralgia |
 | -asthenia | weakness | myasthenia |
-| -ation/ -y | process of condition | formation, EXAMPLE |
+| -ation/ -y | process of condition | formation, atrophy |
 | -blast | immature cell | osteoblast |
 | -cele | hernia/ protrusion/ pouching | cystocele |
 | -cyesis | pregnancy | pseudocyesis |
@@ -86,14 +86,13 @@ Prefixes and suffixes **modify** the root to give additional meaning.
 | -ema/ -osis | condition | emphysema, dermatosis |
 | -emesis | vomiting | hyperemesis |
 | -emia | blood condition | anemia |
-**-esthenia | lack of sensation | example**
 | -genic | producing; origin of | carcinogenic |
 | -gram | record | electrocardiogram |
 | -graphy | process of recording | radiography |
 | -ia | condition of | pneumonia |
-| -iasis | formation of abnormal condition | lithiasis |
+| **-iasis** | abnormal condition (often parasitic) | nephrolithiasis |
 | -iatry | treatment of | psychiatry |
-| -icle/ -ole | small | particle, arteriole |
+| **-icle / -ole / -ula / -ule** | small | particle, arteriole, uvula, pustule |
 | -ism | condition, theory | hyperthyroidism |
 | -itis | inflammation | arthritis |
 | -ium | structure/ tissue | pericardium |
@@ -104,10 +103,10 @@ Prefixes and suffixes **modify** the root to give additional meaning.
 | -malacia | softening | osteomalacia |
 | -megaly | enlargement | cardiomegaly |
 | -metry | measuring process | spirometry |
-| -myc | fungus | mycosis |
+| **-mycosis** | fungal infection | dermatophytomycosis |
 | -oid | resembling | opioid |
 | -oma | tumor | melanoma |
-| -opia/ -opsia | vision condition | myopia, EXAMPLE |
+| -opia/ -opsia | vision condition | myopia, hemianopsia |
 | -orexia | appetite | anorexia |
 | -osis | increasingly abnormal condition | dermatosis |
 | -osmia | smell | anosmia |
@@ -125,7 +124,7 @@ Prefixes and suffixes **modify** the root to give additional meaning.
 | -pnea | breathing | apnea |
 | -poiesis | formation, production | hematopoiesis |
 | -porosis | condition of pores/ spaces | osteoporosis |
-| -rrhage | bursting forth | hemorrhage |
+| **-rrhage / -rrhagia** | bursting forth (blood) | hemorrhage |
 | -rrhea | discharge, flow | diarrhea |
 | -sclerosis | hardening | arteriosclerosis |
 | -scopy | visual examination | endoscopy |
@@ -136,12 +135,6 @@ Prefixes and suffixes **modify** the root to give additional meaning.
 | -tropia | to turn/ turning | exotropia |
 | -tropic | stimulating | gonadotropic |
 | -trophy | growth, nourishment | hypertrophy |
-| -ula, -ule | small | venule |
 | -uria | urine condition | hematuria |
-
-### Combining vowel
-
-makes a word easier to pronounce
-most common is "o"
 
 ---
