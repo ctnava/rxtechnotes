@@ -71,81 +71,81 @@ Prefixes and suffixes **modify** the root to give additional meaning.
 
 ### Prefixes
 
-| Prefix | Meaning | Example |
+| Prefix | Meaning | Notes / Example Roots |
 | --- | --- | --- |
-a-/an- | without
-ambi both
-ante before
-anti against
-bi two or both
-brady slow
-chlor green
-circum around
-cirrh yellow
-con with
-contra against
-cyan blue
-dia across or through
-dipl double
-dis separate from/ apart
-ec, ecto out, outside
-em/ en within
-end/ endo within
-epi upon, above
-erythr red
-eso inward
-eu good, normal
-exo outside
-glauc gray
-hemi half
-heter different
-homo same
-hyper above or excessive
-hypo below or deficient
-im/ in not
-immun safe/ protected
-ingra below or under
-inter between
-intra within
-iso equal
-leuk white
-lip fat
-macro large
-mal bad
-medi/ mid middle
-melan black
-meso middle
-meta beyond, after, changing
-micro small
-mono one
-multi many
-neo new
-pachy heavy thick
-pan all
-para alongside of or abnormal
-peri around
-polio gray
-poly many
-post after
-pre/ pro before
-primi first
-pseudo false
-purpur purple
-quadri for
-re again or back
-retro after
-rube red
-semi half
-sub below or under
-super, supra above or excessive
-sym, syn with
-tachy fast
-trans across/ through
-tri three
-ultra beyond or excessive
-uni one
-xanth yellow
-xero dry
+| **a- / an-** | without, not | *an*emia |
+| **ambi-** | both | ambi*dextrous* |
+| **ante-** | before, in front of | ante*natal* |
+| **anti-** | against | anti*biotic* |
+| **bi-** | two, both | bi*lateral* |
+| **brady-** | slow | brady*cardia* |
+| **chlor-** | green | chlor*ophyll* |
+| **circum-** | around | circum*oral* |
+| **cirrh-** | yellow, tawny | cirrh*osis* |
+| **con-** | with, together | con*genital* |
+| **contra-** | against, opposite | contra*indication* |
+| **cyan-** | blue | cyan*osis* |
+| **dia-** | through, across | dia*lysis* |
+| **dipl- / diplo-** | double | diplo*coccus* |
+| **dis-** | apart, away from | dis*location* |
+| **ec- / ecto-** | out, outside | ecto*derm* |
+| **em- / en-** | in, within | en*doscopic* |
+| **end- / endo-** | within, inner | endo*crine* |
+| **epi-** | upon, above | epi*dermis* |
+| **erythr-** | red | erythr*ocyte* |
+| **eso-** | inward | eso*phagus* |
+| **eu-** | good, normal | eu*thyroid* |
+| **exo-** | outside, outward | exo*crine* |
+| **glauc-** | gray, bluish-green | glauc*oma* |
+| **hemi-** | half | hemi*paresis* |
+| **hetero-** | different | hetero*geneous* |
+| **homo- / homeo-** | same, similar | homeo*stasis* |
+| **hyper-** | above, excessive | hyper*tension* |
+| **hypo-** | below, deficient | hypo*glycemia* |
+| **im- / in-** | not | in*fertile* |
+| **immun-** | safe, protected | immun*ology* |
+| **infra-** | below, beneath | infra*clavicular* |
+| **inter-** | between | inter*costal* |
+| **intra-** | within | intra*venous* |
+| **iso-** | equal, same | iso*tonic* |
+| **leuk- / leuc-** | white | leuk*ocyte* |
+| **lip-** | fat | lip*id* |
+| **macro-** | large | macro*phage* |
+| **mal-** | bad, poor | mal*nourished* |
+| **medi- / mid-** | middle | medi*al* |
+| **melan-** | black, dark | melan*oma* |
+| **meso-** | middle | meso*derm* |
+| **meta-** | beyond, after, change | meta*stasis* |
+| **micro-** | small | micro*scope* |
+| **mono-** | one, single | mono*cyte* |
+| **multi-** | many | multi*factorial* |
+| **neo-** | new | neo*natal* |
+| **pachy-** | thick | pachy*derma* |
+| **pan-** | all | pan*cytopenia* |
+| **para-** | beside, near, abnormal | para*thyroid* |
+| **peri-** | around | peri*cardium* |
+| **polio-** | gray | polio*myelitis* |
+| **poly-** | many, much | poly*uria* |
+| **post-** | after | post*operative* |
+| **pre- / pro-** | before, in front of | pre*natal*, pro*drome* |
+| **primi-** | first | primi*gravida* |
+| **pseudo-** | false | pseudo*cyst* |
+| **purpur-** | purple | purpur*a* |
+| **quadri-** | four | quadri*plegia* |
+| **re-** | again, back | re*hydrate* |
+| **retro-** | backward, behind | retro*peritoneal* |
+| **rube-** | red | rube*ola* |
+| **semi-** | half, partial | semi*conscious* |
+| **sub-** | under, below | sub*cutaneous* |
+| **super- / supra-** | above, excessive | supra*renal* |
+| **sym- / syn-** | with, together | syn*apse* |
+| **tachy-** | fast | tachy*pnea* |
+| **trans-** | across, through | trans*dermal* |
+| **tri-** | three | tri*glyceride* |
+| **ultra-** | beyond, excessive | ultra*sonic* |
+| **uni-** | one | uni*lateral* |
+| **xanth-** | yellow | xanth*oma* |
+| **xero-** | dry | xero*derma* |
 
 ### Suffixes
 
