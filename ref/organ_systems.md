@@ -411,6 +411,23 @@ Major lymphoid organs include the **spleen** (largest lymphatic organ), **thymus
 
 ### 🩸 Lymphatic & Blood Systems - Common Terms
 
+| Term | Meaning |
+| --- | --- |
+| **adenopathy** | disease or enlargement of lymph nodes |
+| **anemia** | deficiency of red blood cells or hemoglobin |
+| **bacteremia** | presence of bacteria in the bloodstream |
+| **emia** | blood condition (suffix) |
+| **hematoma** | localized collection of blood outside vessels (bruise) |
+| **hemophilia** | hereditary disorder causing impaired blood clotting |
+| **leukemia** | cancer of blood‑forming tissues; overproduction of abnormal WBCs |
+| **lymphocyte** | type of white blood cell involved in immune response |
+| **lymphocytopenia** | abnormally low lymphocyte count |
+| **lymphoid** | relating to lymphatic tissue |
+| **phlebotomy** | incision into a vein; drawing blood |
+| **septicemia** | severe bloodstream infection ("blood poisoning") |
+| **splenectomy** | surgical removal of the spleen |
+| **thrombosis** | formation of a blood clot within a vessel |
+
 ## 🌬️ Respiratory System
 
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
