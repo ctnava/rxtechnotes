@@ -23,6 +23,8 @@
     - [🩸 Lymphatic \& Blood Systems - Roots](#-lymphatic--blood-systems---roots)
     - [🩸 Lymphatic \& Blood Systems - Common Terms](#-lymphatic--blood-systems---common-terms)
   - [🌬️ Respiratory System](#️-respiratory-system)
+    - [Respiratory Conditions](#respiratory-conditions)
+    - [🌬️ Respiratory System - Roots](#️-respiratory-system---roots)
   - [🍽️ Gastrointestinal Tract](#️-gastrointestinal-tract)
   - [🚽 Urinary System](#-urinary-system)
   - [🔥 Endocrine System](#-endocrine-system)
@@ -431,6 +433,32 @@ Major lymphoid organs include the **spleen** (largest lymphatic organ), **thymus
 ## 🌬️ Respiratory System
 
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
+
+The **respiratory system** brings **oxygen** into the body through inhalation and removes **carbon dioxide** during exhalation. It also helps **regulate body temperature**, maintain **blood pH**, and, together with the **epiglottis** and **vocal cords**, produces **sound** for speech.
+
+- **Upper Respiratory Tract***
+  Includes structures from the **nose to the trachea**:
+  - **Nose**: warms, moistens, and filters incoming air  
+  - **Pharynx**: directs food into the esophagus and air into the trachea  
+  - **Larynx**: houses the vocal cords  
+  - **Trachea**: the windpipe that divides into the **bronchi**
+
+- **Lower Respiratory Tract**
+  Composed of the **pleural cavity**, **lungs**, and **diaphragm**:
+  - **Pleural cavity**: surrounds the lungs and provides lubrication for smooth breathing movements  
+  - **Diaphragm**: contracts to draw air into the lungs  
+  - **Bronchi → bronchioles → alveoli**: branching airways that end in **alveolar sacs**, where **gas exchange** occurs
+
+### Respiratory Conditions
+
+Respiratory disorders fall into two major categories:
+
+- **Infectious Conditions**: Viral or bacterial infections (e.g., influenza, pneumonia)
+- **Chronic Respiratory Diseases**
+  - **Asthma**: inflammation and narrowing of airways triggered by allergens, exercise, cold air, or irritants  
+  - **COPD**: a combination of **chronic bronchitis**, **asthma**, and **emphysema**, leading to obstructed airflow and reduced lung function
+
+### 🌬️ Respiratory System - Roots
 
 | Root | Meaning | Combining Form |
 | --- | --- | --- |
