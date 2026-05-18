@@ -23,8 +23,9 @@
     - [🩸 Lymphatic \& Blood Systems - Roots](#-lymphatic--blood-systems---roots)
     - [🩸 Lymphatic \& Blood Systems - Common Terms](#-lymphatic--blood-systems---common-terms)
   - [🌬️ Respiratory System](#️-respiratory-system)
-    - [Respiratory Conditions](#respiratory-conditions)
+    - [Respiratory Condition Classification](#respiratory-condition-classification)
     - [🌬️ Respiratory System - Roots](#️-respiratory-system---roots)
+    - [🌬️ Respiratory System - Common Terms](#️-respiratory-system---common-terms)
   - [🍽️ Gastrointestinal Tract](#️-gastrointestinal-tract)
   - [🚽 Urinary System](#-urinary-system)
   - [🔥 Endocrine System](#-endocrine-system)
@@ -449,7 +450,7 @@ The **respiratory system** brings **oxygen** into the body through inhalation an
   - **Diaphragm**: contracts to draw air into the lungs  
   - **Bronchi → bronchioles → alveoli**: branching airways that end in **alveolar sacs**, where **gas exchange** occurs
 
-### Respiratory Conditions
+### Respiratory Condition Classification
 
 Respiratory disorders fall into two major categories:
 
@@ -462,13 +463,42 @@ Respiratory disorders fall into two major categories:
 
 | Root | Meaning | Combining Form |
 | --- | --- | --- |
-| **nas / rhin** | nose | nas**o**– / rhin**o**– |
-| **pharyng** | throat | pharyng**o**– |
-| **laryng** | larynx | laryng**o**– |
-| **trache** | trachea | trache**o**– |
+| **aer / phys / physo** | air | aer**o**– / phys**o**– |
+| **aero** | gas | aero**o**– |
 | **bronch / bronchi** | bronchus | bronchi**o**– |
-| **pneum / pneumon** | lung, air | pneum**o**– |
+| **capn** | carbon dioxide | capn**o**– |
+| **cyan** | blue | cyan**o**– |
+| **laryng** | larynx | laryng**o**– |
+| **nas / rhin** | nose | nas**o**– / rhin**o**– |
+| **ox** | oxygen | ox**y**– |
+| **pector** | chest | pector**o**– |
+| **pharyng** | throat | pharyng**o**– |
 | **pleur** | pleura | pleur**o**– |
+| **pnea** | breathing | –pnea |
+| **pneum / pneumon** | lung, air | pneum**o**– |
+| **pulmon** | lung | pulmon**o**– |
+| **respir** | breath | respir**o**– |
+| **sinus** | sinus | sinus**o**– |
+| **spir** | breathe | spir**o**– |
+| **trache** | trachea | trache**o** |
+
+### 🌬️ Respiratory System - Common Terms
+
+apnea temporary failure to breathe
+bradypnea slow breathing
+bronchitis
+cyanosis
+dyspnea
+emphysema
+hypercanpnia
+hypoxemia
+layngoplegia
+pectoalgia
+pneumonia
+pulmonary
+repiration
+rhinitis
+sinusitis
 
 ## 🍽️ Gastrointestinal Tract
 
