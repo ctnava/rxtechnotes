@@ -31,34 +31,34 @@ The **root** is the foundation of a medical term. It often identifies a **body p
 - **Greek** roots → diagnosis, surgery  
 - **Latin** roots → anatomy
 
-| Root | Meaning |
-| --- | --- |
-| **arthr / arth** | joint |
-| **cardi / card** | heart |
-| **cyst** | bladder, sac |
-| **derm / dermat / derma** | skin |
-| **dent / dont / odont** | teeth |
-| **encephal / encephala** | brain |
-| **esthes / esthesia** | sensation, feeling |
-| **gastr / gastro** | stomach |
-| **glyc / glyco** | sugar |
-| **hemat / hem / hemo** | blood |
-| **hepat / hepato** | liver |
-| **lingu / gloss** | tongue |
-| **mast / mamm** | breast |
-| **my / myo / mys** | muscle |
-| **nephr / ren** | kidney |
-| **neur / neuro** | nerve |
-| **ocul / ophthalm** | eye |
-| **ops / opia** | vision |
-| **oste / osteo** | bone |
-| **ot / oto** | ear |
-| **pector** | chest |
-| **pneum / pneumon** | lung, air |
-| **pulmon** | lung |
-| **thorac / thorax** | chest |
-| **thyroid / thyro** | thyroid |
-| **ven / phleb** | vein |
+| Root | Meaning | Vowel Combination (Common Form) |
+| --- | --- | --- |
+| **arthr / arth** | joint | arthr**o**– |
+| **cardi / card** | heart | cardi**o**– |
+| **cyst** | bladder, sac | cyst**o**– |
+| **derm / dermat / derma** | skin | derm**o**– / dermat**o**– |
+| **dent / dont / odont** | teeth | dent**o**– / odont**o**– |
+| **encephal / encephala** | brain | encephal**o**– |
+| **esthes / esthesia** | sensation, feeling | esthes**o**– *(rare)* |
+| **gastr / gastro** | stomach | gastr**o**– |
+| **glyc / glyco** | sugar | glyc**o**– |
+| **hemat / hem / hemo** | blood | hem**o**– / hemat**o**– |
+| **hepat / hepato** | liver | hepat**o**– |
+| **lingu / gloss** | tongue | lingu**o**– / gloss**o**– |
+| **mast / mamm** | breast | mast**o**– / mamm**o**– |
+| **my / myo / mys** | muscle | my**o**– |
+| **nephr / ren** | kidney | nephr**o**– |
+| **neur / neuro** | nerve | neur**o**– |
+| **ocul / ophthalm** | eye | ocul**o**– / ophthalm**o**– |
+| **ops / opia** | vision | opt**o**– / op**o**– *(contextual)* |
+| **oste / osteo** | bone | oste**o**– |
+| **ot / oto** | ear | ot**o**– |
+| **pector** | chest | pector**o**– |
+| **pneum / pneumon** | lung, air | pneum**o**– |
+| **pulmon** | lung | pulmon**o**– |
+| **thorac / thorax** | chest | thorac**o**– |
+| **thyroid / thyro** | thyroid | thyro**o**– *(rare)* / thyr**o**– |
+| **ven / phleb** | vein | ven**o**– / phleb**o**– |
 
 ---
 
