@@ -90,6 +90,7 @@ Prefixes and suffixes **modify** the root to give additional meaning.
 | **dia- / trans-** | through, across | ***dia***lysis, ***trans***dermal |
 | **dipl- / diplo-** | double | ***dipl***opia, ***diplo***coccus |
 | **dis-** | apart, away | ***dis***location |
+| **dys-** | painful, difficulty | ***dys***pepsia |
 | **ec- / ecto- / exo-** | out, outside | ***ec***topic, ***ecto***derm, ***exo***crine |
 | **em- / en- / end- / endo- / intra-** | in, within | ***em***bed, ***en***darterectomy, ***end***artery, ***endo***crine, ***intra***venous |
 | **epi-** | upon, above | ***epi***dermis |
