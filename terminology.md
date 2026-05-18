@@ -73,68 +73,68 @@ Prefixes and suffixes **modify** the root to give additional meaning.
 
 | Suffix | Meaning | Example |
 | --- | --- |
-| -ac/ -al/ -ar/ -ary/ -eal/ -ic/ -ous/ -tic | pertaining to | cardiac, dental, ocular, coronary, corneal, gastric, mucous, neurotic |
-| -algia | pain | neuralgia |
-| -asthenia | weakness | myasthenia |
-| -ation/ -y | process of condition | formation, atrophy |
-| -blast | immature cell | osteoblast |
-| -cele | hernia/ protrusion/ pouching | cystocele |
-| -cyesis | pregnancy | pseudocyesis |
-| -ectasis | dilation/ expansion | bronchiectasis |
-| -ectomy | surgical removal | appendectomy |
-| -edema | swelling | lymphedema |
-| -ema/ -osis | condition | emphysema, dermatosis |
-| -emesis | vomiting | hyperemesis |
-| -emia | blood condition | anemia |
-| -genic | producing; origin of | carcinogenic |
-| -gram | record | electrocardiogram |
-| -graphy | process of recording | radiography |
-| -ia | condition of | pneumonia |
+| **-ac / -al / -ar / -ary / -eal / -ic / -ous / -tic** | pertaining to | cardiac, dental, ocular, coronary, corneal, gastric, mucous, neurotic |
+| **-algia** | pain | neuralgia |
+| **-asthenia** | weakness | myasthenia |
+| **-ation / -y** | process, condition | formation, atrophy |
+| **-blast** | immature cell | osteoblast |
+| **-cele** | hernia, protrusion | cystocele |
+| **-cyesis** | pregnancy | pseudocyesis |
+| **-ectasis** | dilation, expansion | bronchiectasis |
+| **-ectomy** | surgical removal | appendectomy |
+| **-edema** | swelling | lymphedema |
+| **-ema** | condition | emphysema |
+| **-emesis** | vomiting | hyperemesis |
+| **-emia** | blood condition | anemia |
+| **-genic** | producing, forming | carcinogenic |
+| **-gram** | record | electrocardiogram |
+| **-graphy** | process of recording | radiography |
+| **-ia** | condition | pneumonia |
 | **-iasis** | abnormal condition (often parasitic) | nephrolithiasis |
-| -iatry | treatment of | psychiatry |
+| **-iatry** | medical specialty, treatment | psychiatry |
 | **-icle / -ole / -ula / -ule** | small | particle, arteriole, uvula, pustule |
-| -ism | condition, theory | hyperthyroidism |
-| -itis | inflammation | arthritis |
-| -ium | structure/ tissue | pericardium |
-| -lepsy | seizure | epilepsy |
-| -lith | stone/ calculus | nephrolith |
-| -logy / -ology | study of | cardiology |
-| -lysis | breakdown | hemolysis |
-| -malacia | softening | osteomalacia |
-| -megaly | enlargement | cardiomegaly |
-| -metry | measuring process | spirometry |
-| **-mycosis** | fungal infection | dermatophytomycosis |
-| -oid | resembling | opioid |
-| -oma | tumor | melanoma |
-| -opia/ -opsia | vision condition | myopia, hemianopsia |
-| -orexia | appetite | anorexia |
-| -osis | increasingly abnormal condition | dermatosis |
-| -osmia | smell | anosmia |
-| -paresis | partial paralysis | hemiparesis |
-| -pathy | disease | neuropathy |
-| -penia | deficiency/ decrease | leukopenia |
-| -pepsia | digestion | dyspepsia |
-| -phagia | eating, swallowing | dysphagia |
-| -phasia | speech | aphasia |
-| -philic | loving/ attraction for | hydrophilic |
-| -phobia | fear/ repulsion to | claustrophobia |
-| -plasia | formation, development | hyperplasia |
-| -plasty | surgical repair/ reconstruction | rhinoplasty |
-| -plegia | paralysis, stroke | paraplegia |
-| -pnea | breathing | apnea |
-| -poiesis | formation, production | hematopoiesis |
-| -porosis | condition of pores/ spaces | osteoporosis |
+| **-ism** | condition, theory, state | hyperthyroidism |
+| **-itis** | inflammation | arthritis |
+| **-ium** | structure, tissue | pericardium |
+| **-lepsy** | seizure | epilepsy |
+| **-lith** | stone | nephrolith |
+| **-logy / -ology** | study of | cardiology |
+| **-lysis** | breakdown, destruction | hemolysis |
+| **-malacia** | softening | osteomalacia |
+| **-megaly** | enlargement | cardiomegaly |
+| **-metry** | measuring process | spirometry |
+| **-mycosis** *(correct form)* | fungal infection | dermatophytomycosis |
+| **-oid** | resembling | opioid |
+| **-oma** | tumor, mass | melanoma |
+| **-opia / -opsia** | vision condition | myopia, hemianopsia |
+| **-orexia** | appetite | anorexia |
+| **-osis** | abnormal condition | dermatosis |
+| **-osmia** | smell | anosmia |
+| **-paresis** | partial paralysis | hemiparesis |
+| **-pathy** | disease | neuropathy |
+| **-penia** | deficiency | leukopenia |
+| **-pepsia** | digestion | dyspepsia |
+| **-phagia** | eating, swallowing | dysphagia |
+| **-phasia** | speech | aphasia |
+| **-philic / -philia** | attraction to, affinity for | hydrophilic |
+| **-phobia** | fear | claustrophobia |
+| **-plasia** | formation, development | hyperplasia |
+| **-plasty** | surgical repair | rhinoplasty |
+| **-plegia** | paralysis | paraplegia |
+| **-pnea** | breathing | apnea |
+| **-poiesis** | formation, production | hematopoiesis |
+| **-porosis** | porous condition | osteoporosis |
 | **-rrhage / -rrhagia** | bursting forth (blood) | hemorrhage |
-| -rrhea | discharge, flow | diarrhea |
-| -sclerosis | hardening | arteriosclerosis |
-| -scopy | visual examination | endoscopy |
-| -spasm | involuntary contraction | bronchospasm |
-| -stasis | stopping, controlling | hemostasis |
-| -stomy | new, surgical opening | colostomy |
-| -tomy | incision | tracheotomy |
-| -tropia | to turn/ turning | exotropia |
-| -tropic | stimulating | gonadotropic |
-| -trophy | growth, nourishment | hypertrophy |
-| -uria | urine condition | hematuria |
+| **-rrhea** | flow, discharge | diarrhea |
+| **-sclerosis** | hardening | arteriosclerosis |
+| **-scopy** | visual examination | endoscopy |
+| **-spasm** | involuntary contraction | bronchospasm |
+| **-stasis** | stopping, controlling | hemostasis |
+| **-stomy** | surgical opening | colostomy |
+| **-tomy** | incision | tracheotomy |
+| **-tropia** | turning | exotropia |
+| **-tropic** | stimulating, acting on | gonadotropic |
+| **-trophy** | growth, nourishment | hypertrophy |
+| **-uria** | urine condition | hematuria |
 
 ---
