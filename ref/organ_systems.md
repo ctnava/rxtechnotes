@@ -17,6 +17,8 @@
     - [🧠 Nervous System - Roots](#-nervous-system---roots)
     - [🧠 Nervous System - Common Terms](#-nervous-system---common-terms)
   - [❤️ Cardiovascular System](#️-cardiovascular-system)
+    - [❤️ Cardiovascular System - Roots](#️-cardiovascular-system---roots)
+    - [❤️ Cardiovascular System - Common Terms](#️-cardiovascular-system---common-terms)
   - [🩸 Lymphatic \& Blood Systems](#-lymphatic--blood-systems)
   - [🌬️ Respiratory System](#️-respiratory-system)
   - [🍽️ Gastrointestinal Tract](#️-gastrointestinal-tract)
@@ -319,15 +321,59 @@ The **nervous system** is the body’s master **communication and control networ
 
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
 
+The **cardiovascular system** is a **closed circulatory network** responsible for transporting blood throughout the body via **arteries, capillaries, and veins**. The **heart** acts as the central pump, maintaining **one‑directional flow** through its valves and circulating approximately **5 liters of blood per minute**. Circulation occurs through two interconnected loops:
+
+- **Pulmonary Circulation**
+  - Carries **deoxygenated blood** from the **right side** of the heart to the **lungs**
+  - Blood becomes oxygenated and returns to the **left side** of the heart
+- **Systemic Circulation**
+  - Delivers **oxygenated blood** from the left heart to all body tissues  
+  - Returns **deoxygenated blood** back to the right heart, completing the cycle
+
+Blood pressure is measured using a **sphygmomanometer**, expressed as **systolic/diastolic** (e.g., *120/80 mmHg*):
+
+- **Systolic pressure**: first number; force during heart contraction  
+- **Diastolic pressure**: second number; force during relaxation
+
+### ❤️ Cardiovascular System - Roots
+
 | Root | Meaning | Combining Form |
 | --- | --- | --- |
-| **cardi / card** | heart | cardi**o**– |
+| **aneur** | widening | aneur**o**– |
 | **angi / angio** | vessel | angi**o**– |
-| **vas / vascul** | vessel | vascul**o**– |
+| **aort** | aorta | aort**o**– |
 | **arteri** | artery | arteri**o**– |
-| **phleb / ven** | vein | phleb**o**– / ven**o**– |
+| **cardi / card / coron** | heart | cardi**o**– |
+| **cyte** | cell | cyt**o**– |
+| **embol** | embolus | embol**o**– |
+| **oxy** | oxygen | oxy**o**– |
 | **hem / hemat** | blood | hem**o**– / hemat**o**– |
+| **pector** | chest | pector**o**– |
+| **phleb / ven** | vein | phleb**o**– / ven**o**– |
+| **sten** | narrowed | sten**o**– |
 | **thromb** | clot | thromb**o**– |
+| **vas / vascul** | vessel | vascul**o**– |
+
+### ❤️ Cardiovascular System - Common Terms
+
+| Term | Meaning |
+| --- | --- |
+| **aneurysm** | widening or ballooning of a blood vessel |
+| **angioplasty** | surgical repair or opening of a vessel |
+| **aortostenosis** | narrowing of the aorta |
+| **arteriosclerosis** | hardening of the arteries |
+| **bradycardia** | abnormally slow heart rate |
+| **cardiomyopathy** | disease of the heart muscle |
+| **electrocardiograph** | recording of the heart’s electrical activity |
+| **embolism** | obstruction of blood flow by an embolus |
+| **endocarditis** | inflammation of the inner lining of the heart |
+| **leukocyte** | white blood cell |
+| **pericardium** | tissue surrounding the heart |
+| **phlebitis** | inflammation of a vein |
+| **tachycardia** | abnormally rapid heart rate |
+| **thrombosis** | formation of blood clots in vessels |
+| **vasoconstriction** | narrowing of blood vessels |
+| **venostasis** | pooling or stagnation of blood in a vein |
 
 ## 🩸 Lymphatic & Blood Systems
 
