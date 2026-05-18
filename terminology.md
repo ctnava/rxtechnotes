@@ -73,7 +73,7 @@ Prefixes and suffixes **modify** the root to give additional meaning.
 
 | Suffix | Meaning | Example |
 | --- | --- |
-| -ac/ -al/ -ar/ -ary/ -eal/ -ic | pertaining to | cardiac, dental, ocular, coronary, corneal, gastric |
+| -ac/ -al/ -ar/ -ary/ -eal/ -ic/ -ous | pertaining to | cardiac, dental, ocular, coronary, corneal, gastric, mucous |
 | -algia | pain | neuralgia |
 | -asthenia | weakness | myasthenia |
 | -ation/ -y | process of condition | formation, EXAMPLE |
@@ -83,7 +83,7 @@ Prefixes and suffixes **modify** the root to give additional meaning.
 | -ectasis | dilation/ expansion | bronchiectasis |
 | -ectomy | surgical removal | appendectomy |
 | -edema | swelling | lymphedema |
-| -ema | condition | emphysema |
+| -ema/ -osis | condition | emphysema, dermatosis |
 | -emesis | vomiting | hyperemesis |
 | -emia | blood condition | anemia |
 **-esthenia | lack of sensation | example**
@@ -93,7 +93,7 @@ Prefixes and suffixes **modify** the root to give additional meaning.
 | -ia | condition of | pneumonia |
 | -iasis | formation of abnormal condition | lithiasis |
 | -iatry | treatment of | psychiatry |
-| -icle | small | particle |
+| -icle/ -ole | small | particle, arteriole |
 | -ism | condition, theory | hyperthyroidism |
 | -itis | inflammation | arthritis |
 | -ium | structure/ tissue | pericardium |
@@ -101,6 +101,16 @@ Prefixes and suffixes **modify** the root to give additional meaning.
 | -lith | stone/ calculus | nephrolith |
 | -logy / -ology | study of | cardiology |
 | -lysis | breakdown | hemolysis |
+| -malacia | softening | osteomalacia |
+| -megaly | enlargement | cardiomegaly |
+| -metry | measuring process | spirometry |
+| -myc | fungus | mycosis |
+| -oid | resembling | opioid |
+| -oma | tumor | melanoma |
+| -opia/ -opsia | vision condition | myopia, EXAMPLE |
+| -orexia | appetite | anorexia |
+| -osis | increasingly abnormal condition | dermatosis |
+| -osmia | smell | anosmia |
 
 Suffix | meaning | example
 malacia
