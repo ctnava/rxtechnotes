@@ -73,7 +73,7 @@ Prefixes and suffixes **modify** the root to give additional meaning.
 
 | Suffix | Meaning | Example |
 | --- | --- |
-| -ac/ -al/ -ar/ -ary/ -eal/ -ic/ -ous | pertaining to | cardiac, dental, ocular, coronary, corneal, gastric, mucous |
+| -ac/ -al/ -ar/ -ary/ -eal/ -ic/ -ous/ -tic | pertaining to | cardiac, dental, ocular, coronary, corneal, gastric, mucous, neurotic |
 | -algia | pain | neuralgia |
 | -asthenia | weakness | myasthenia |
 | -ation/ -y | process of condition | formation, EXAMPLE |
@@ -125,22 +125,19 @@ Prefixes and suffixes **modify** the root to give additional meaning.
 | -pnea | breathing | apnea |
 | -poiesis | formation, production | hematopoiesis |
 | -porosis | condition of pores/ spaces | osteoporosis |
-
-Suffix | meaning | example
-rrhage
-rrhea
-sclerosis
-scopy
-spasm
-stasis
-stomy
-tic
-tomy
-tropia
-tropic
-trophy | nutrition, growth
-ula, ule
-uria
+| -rrhage | bursting forth | hemorrhage |
+| -rrhea | discharge, flow | diarrhea |
+| -sclerosis | hardening | arteriosclerosis |
+| -scopy | visual examination | endoscopy |
+| -spasm | involuntary contraction | bronchospasm |
+| -stasis | stopping, controlling | hemostasis |
+| -stomy | new, surgical opening | colostomy |
+| -tomy | incision | tracheotomy |
+| -tropia | to turn/ turning | exotropia |
+| -tropic | stimulating | gonadotropic |
+| -trophy | growth, nourishment | hypertrophy |
+| -ula, -ule | small | venule |
+| -uria | urine condition | hematuria |
 
 ### Combining vowel
 
