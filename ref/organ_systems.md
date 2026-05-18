@@ -20,6 +20,8 @@
     - [❤️ Cardiovascular System - Roots](#️-cardiovascular-system---roots)
     - [❤️ Cardiovascular System - Common Terms](#️-cardiovascular-system---common-terms)
   - [🩸 Lymphatic \& Blood Systems](#-lymphatic--blood-systems)
+    - [🩸 Lymphatic \& Blood Systems - Roots](#-lymphatic--blood-systems---roots)
+    - [🩸 Lymphatic \& Blood Systems - Common Terms](#-lymphatic--blood-systems---common-terms)
   - [🌬️ Respiratory System](#️-respiratory-system)
   - [🍽️ Gastrointestinal Tract](#️-gastrointestinal-tract)
   - [🚽 Urinary System](#-urinary-system)
@@ -379,15 +381,35 @@ Blood pressure is measured using a **sphygmomanometer**, expressed as **systolic
 
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
 
+The **blood and lymphatic systems** work together to transport essential substances, defend the body, and maintain fluid balance. **Blood** delivers **oxygen and nutrients** to tissues while removing **carbon dioxide and metabolic waste** for elimination. It is composed of **erythrocytes (RBCs)**, **leukocytes (WBCs)**, **platelets**, and **plasma**.
+
+- **Erythrocytes** carry oxygen from the lungs and return carbon dioxide for exhalation  
+- **Leukocytes** defend against pathogens, clear debris, and support healing
+
+The **lymphatic system** collects excess plasma fluid that escapes blood vessels, filters it through **over 600 lymph nodes**, and returns it to circulation. It is also the **core of the immune system**, housing and transporting **lymphocytes**, which produce antibodies to attack pathogens and abnormal cells.
+
+Major lymphoid organs include the **spleen** (largest lymphatic organ), **thymus**, **tonsils**, and **adenoids**, all of which contribute to immune defense.
+
+### 🩸 Lymphatic & Blood Systems - Roots
+
 | Root | Meaning | Combining Form |
 | --- | --- | --- |
-| **lymph** | lymph | lymph**o**– |
-| **splen** | spleen | splen**o**– |
-| **immun** | immune | immun**o**– |
 | **aden** | gland | aden**o**– |
-| **erythr** | red | erythr**o**– |
-| **leuk / leuc** | white | leuk**o**– |
+| **bacter** | bacteria | bacter**o**– |
+| **cyte** | cell | cyt**o**– |
 | **cyan** | blue | cyan**o**– |
+| **emia / hem / hemat** | blood | hem**o**– / hemat**o**– |
+| **erythr** | red | erythr**o**– |
+| **immun** | immune | immun**o**– |
+| **leuk / leuc** | white | leuk**o**– |
+| **lymph** | lymph | lymph**o**– |
+| **phleb** | vein | phleb**o**– |
+| **sepsis** | infection, putrefaction | seps**o**– |
+| **splen** | spleen | splen**o**– |
+| **thromb** | clot | thromb**o**– |
+| **thym** | thymus gland | thym**o**– |
+
+### 🩸 Lymphatic & Blood Systems - Common Terms
 
 ## 🌬️ Respiratory System
 
