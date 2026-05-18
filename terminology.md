@@ -358,14 +358,53 @@ cartilatge provides protective pads between bones
 
 ### 💪 Muscular System
 
+muscle comes from latin ouse and cle little because muscle movements resemble a mouse moving under a cover
+body contains more than 600 giving shape and movement
+sekeltal muscles are attached to bones by tendons
+muscles are striated, made up of fibers
+
+most muscle actions are voluntary, meaning controlled consciously
+involuntary muscles found in heart, stomach, and blood vessels, opaerate automatically
+some muscles called agonist muscled produce outward or FLEXOR movement of a limb while atnagonist muscles contaact to bring a limb back to its original position
+
+muscle pain or myalgia can result from infections, chronic disorders, and medications
+
+strains are usually caused by twisting or opulling muscles and tendones
+tendonitis is inflammation of the tendon resulting from acute injury or chronic repetiticy movements like gfolfers elbow or swimmers shoulder
+
+#### 💪 Muscular System - Roots
+
 | Root | Meaning | Combining Form |
 | --- | --- | --- |
-| **my / myo / mys** | muscle | my**o**– |
-| **myos** | muscle | myos**o**– |
-| **tend / ten / tendin** | tendon | tendin**o**– |
+| **burs** | bursa (fluid-filled sac) | burs**o**– |
+| **chondr** | cartilage | chondr**o**– |
 | **fasci** | fascia | fasci**o**– |
+| **leiomy** | smooth muscle | leiomy**o**– |
+| **my / myo / mys/ myos** | muscle | my**o**– / myos**o**– |
+| **rhabd / rhabdomy** | striated (skeletal) muscle, rod-shaped | rhabd**o**– / rhabdomy**o**– |
+| **synov** | synovial membrane | synov**o**– |
+| **tend / ten / tendin** | tendon | tendin**o**– |
 | **kinesi / kinesio** | movement | kinesi**o**– |
 | **ton / tono** | tone, tension | ton**o**– |
+
+### 💪 Muscular System - Common Terms
+
+| Term | Meaning |
+| --- | --- |
+| **atrophy** | wasting or decrease in muscle size |
+| **bursitis** | inflammation of a bursa |
+| **chondromalacia** | softening of cartilage |
+| **dystrophy** | abnormal or impaired muscle development; progressive atrophy |
+| **fibroma** | benign tumor of fibrous tissue |
+| **fibromyalgia** | chronic widespread muscle pain and fatigue |
+| **hypertrophy** | increase in muscle size |
+| **hypotonia** | decreased muscle tone |
+| **leiomyoma** | benign tumor of smooth muscle |
+| **myasthenia** | muscle weakness |
+| **myonecrosis** | death of muscle tissue |
+| **myoplasty** | surgical repair of a muscle |
+| **rhabdomyolysis** | breakdown of skeletal muscle releasing myoglobin |
+| **tendinitis** | inflammation of a tendon |
 
 ### 🧠 Nervous System
 
