@@ -206,17 +206,81 @@ Prefixes and suffixes **modify** the root to give additional meaning.
 
 ### 🩹 Integumentary System
 
+The **integumentary system** forms the body’s external covering. It includes the **skin**, **hair**, **nails**, and the **mammary glands**.
+
+It serves as the **first line of defense**, acting as a physical and immunologic barrier against pathogens, chemicals, UV radiation, and mechanical injury.
+
+Hair, fingernails, and toenails are composed of **keratin**, a tough, fibrous protein.
+
+Keratinized tissue is extremely strong; the only biological material with comparable strength is **chitin**, found in **arthropod exoskeletons** (insects, crustaceans).
+
+Additional key functions include:
+
+- **Thermoregulation**: releasing heat through sweat or conserving heat by constricting blood vessels  
+- **Sensation**: detecting touch, pressure, pain, and temperature  
+- **Vitamin D synthesis**: initiated in the skin with UV exposure  
+- **Fluid balance**: preventing excessive water loss  
+- **Excretion**: small amounts of urea, salts, and toxins eliminated in sweat
+
+#### 🧱 Layers of the Skin
+
+The skin is the **largest organ** of the body and is composed of **three primary layers**:
+
+1. **Epidermis**
+   - Outermost layer  
+   - **Avascular** (no blood vessels) and **aneural** (no nerves)  
+   - Rich in **keratin**, providing strength and waterproofing  
+   - Continuously sheds dead cells (desquamation)  
+   - Contains melanocytes (pigment), Langerhans cells (immune), and Merkel cells (touch)
+2. **Dermis**
+   - Living, vascular layer beneath the epidermis  
+   - Contains **capillaries, nerves, lymphatics**  
+   - Houses **sebaceous glands**, **sweat glands**, **hair follicles**, and **arrector pili muscles**  
+   - Provides elasticity and strength via collagen and elastin
+3. **Subcutaneous Tissue (Hypodermis)**
+   - Deepest layer
+   - Composed of **fat and connective tissue**  
+   - Anchors skin to underlying structures  
+   - Provides insulation, cushioning, and energy storage  
+   - Highly vascular and closely integrated with the dermis
+
+#### 🩹 Integumentary System - Roots
+
 | Root | Meaning | Combining Form |
 | --- | --- | --- |
-| **derm / dermat** | skin | dermat**o**– |
-| **cutane** | skin | cutane**o**– |
+| **adip / lip** | fat | adip**o**– / lip**o**– |
+| **cutane / derm / dermat** | skin | cutane**o**– / dermat**o**– |
+| **diaphor / hidr** | sweat | diaph**o**- / hidr**o**– |
+| **hist** | tissue | hist**o**– |
+| **ichthy** | dry, scaly | ichthy**o**– |
 | **kerat** | hard tissue, keratin | kerat**o**– |
+| **mast** | breast | mast**o**– |
+| **melan** | black pigment | melan**o**– |
+| **necr** | death (tissue) | necr**o**– |
 | **onych / ungu** | nail | onych**o**– / ungu**o**– |
 | **pil / trich** | hair | pil**o**– / trich**o**– |
-| **hidr** | sweat | hidr**o**– |
 | **seb** | sebum, oil | seb**o**– |
-| **melan** | black pigment | melan**o**– |
-| **lip / lipo** | fat | lip**o**– |
+| **prurit / psor** | itching / itching condition | prurit**o**– / psor**o**– |
+
+#### 🩹 Integumentary System - Common Terms
+
+| Term | Meaning |
+| --- | --- |
+| **alopecia** | hair loss |
+| **cellulitis** | bacterial infection of the skin and subcutaneous tissue |
+| **dermatitis** | inflammation of the skin |
+| **dermatomycosis** | fungal infection of the skin |
+| **diaphoresis** | excessive sweating |
+| **dyskeratosis** | abnormal keratinization |
+| **eczema** | inflammatory skin condition with itching and rash |
+| **erythema** | redness of the skin |
+| **histology** | study of tissues |
+| **ichthyosis** | dry, scaly skin disorder |
+| **keratosis** | thickened, hardened area of skin |
+| **melanoma** | malignant tumor of melanocytes |
+| **onychomycosis** | fungal infection of the nails |
+| **pruritus** | itching |
+| **psoriasis** | chronic autoimmune skin disease with scaly plaques |
 
 ### 🦴 Skeletal System
 
