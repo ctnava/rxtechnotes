@@ -72,7 +72,7 @@ Prefixes and suffixes **modify** the root to give additional meaning.
 ### Suffixes
 
 | Suffix | Meaning | Example |
-| --- | --- |
+| --- | --- | --- |
 | **-ac / -al / -ar / -ary / -eal / -ic / -ous / -tic** | pertaining to | cardi***ac***, dent***al***, ocul***ar***, coron***ary***, corn***eal***, gastr***ic***, muc***ous***, neuro***tic*** |
 | **-algia** | pain | neur***algia*** |
 | **-asthenia** | weakness | my***asthenia*** |
@@ -98,7 +98,7 @@ Prefixes and suffixes **modify** the root to give additional meaning.
 | **-ium** | structure, tissue | pericard***ium*** |
 | **-lepsy** | seizure | epi***lepsy*** |
 | **-lith** | stone | nephro***lith*** |
-| **-logy / -ology** | study of | EXAMPLE, cardi***ology*** |
+| **-logy / -ology** | study of | Ecardi***ology*** |
 | **-lysis** | breakdown, destruction | hemo***lysis*** |
 | **-malacia** | softening | osteo***malacia*** |
 | **-megaly** | enlargement | cardio***megaly*** |
