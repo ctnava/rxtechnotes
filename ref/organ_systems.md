@@ -299,19 +299,21 @@ The **nervous system** is the body’s master **communication and control networ
 
 ### 🧠 Nervous System - Common Terms
 
-anesthesia lack of sensation
-antidepressant drug that counteracts depression
-aphasia inability to speak
-dementia disorientation, confusion, loss of memory
-dyslexia difficulty reading
-encephalitis inflammation of the brain
-epilepsy disorder with recurrent seizures
-meningitis inflammation of the meninges
-neuralgia pain along nerves
-neuroma tumor of nerve cells
-paralysis breaking down of motor control
-poliomyelitis viral disease that attacks CNS
-psychosis mind disorder
+| Term | Meaning |
+| --- | --- |
+| **anesthesia** | lack or loss of sensation |
+| **antidepressant** | drug that counteracts depression |
+| **aphasia** | inability to speak |
+| **dementia** | confusion, memory loss, cognitive decline |
+| **dyslexia** | difficulty reading |
+| **encephalitis** | inflammation of the brain |
+| **epilepsy** | disorder with recurrent seizures |
+| **meningitis** | inflammation of the meninges |
+| **neuralgia** | nerve pain |
+| **neuroma** | tumor of nerve cells |
+| **paralysis** | loss of motor control |
+| **poliomyelitis** | viral disease affecting the CNS |
+| **psychosis** | severe mental disorder affecting thought and perception |
 
 ## ❤️ Cardiovascular System
 
