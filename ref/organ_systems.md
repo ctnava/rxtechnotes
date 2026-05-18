@@ -14,6 +14,8 @@
     - [💪 Muscular System - Roots](#-muscular-system---roots)
     - [💪 Muscular System - Common Terms](#-muscular-system---common-terms)
   - [🧠 Nervous System](#-nervous-system)
+    - [🧠 Nervous System - Roots](#-nervous-system---roots)
+    - [🧠 Nervous System - Common Terms](#-nervous-system---common-terms)
   - [❤️ Cardiovascular System](#️-cardiovascular-system)
   - [🩸 Lymphatic \& Blood Systems](#-lymphatic--blood-systems)
   - [🌬️ Respiratory System](#️-respiratory-system)
@@ -254,15 +256,62 @@ Muscles often work in **pairs**:
 
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
 
+The **nervous system** is the body’s master **communication and control network**, responsible for sensing internal and external changes, interpreting them, and coordinating responses to maintain **homeostasis**. It is divided into two major components:
+
+- **Central Nervous System (CNS)**
+  - Composed of the **brain** and **spinal cord**
+  - Integrates, interprets, and processes all incoming information  
+  - The brain contains **over 100 billion neurons**, serving as the center of **memory, emotion, thought, judgment, and reasoning**
+
+- **Peripheral Nervous System (PNS)**
+  - Consists of all **nerves** branching off the CNS  
+  - Divided into:
+    - **Somatic Nervous System**: controls **voluntary** actions (skeletal muscle movement)
+    - **Autonomic Nervous System**: controls **involuntary** functions (breathing, heart rate, digestion)  
+      - Sympathetic: "fight or flight"
+      - Parasympathetic: "rest and digest"
+
+**Neurons** are:
+
+- Specialized **nerve cells** that transmit **electrochemical impulses**  
+- Transmission is nearly **instantaneous**, allowing rapid responses  
+- Supported by **neuroglia**, which protect, nourish, and maintain neural tissue
+
+### 🧠 Nervous System - Roots
+
 | Root | Meaning | Combining Form |
 | --- | --- | --- |
-| **neur / neuro** | nerve | neur**o**– |
+| **alges** | pain | alges**o**– |
+| **cerebr** | cerebrum | cerebr**o**– |
 | **encephal** | brain | encephal**o**– |
-| **myel** | spinal cord | myel**o**– |
-| **psych** | mind | psych**o**– |
 | **esthes / esthesia** | sensation | esthes**o**– |
+| **lex** | word, phrase | lex**o**– |
+| **lepsy** | seizure | leps**y**– |
+| **mening** | meninges | mening**o**– |
+| **ment** | mind | ment**o**– |
+| **myel** | spinal cord | myel**o**– |
+| **neur / neuro** | nerve | neur**o**– |
+| **phas** | speech | phas**o**– |
 | **phob** | fear | phob**o**– |
+| **psych** | mind | psych**o**– |
+| **somat** | body | somat**o**– |
 | **somn** | sleep | somn**o**– |
+
+### 🧠 Nervous System - Common Terms
+
+anesthesia lack of sensation
+antidepressant drug that counteracts depression
+aphasia inability to speak
+dementia disorientation, confusion, loss of memory
+dyslexia difficulty reading
+encephalitis inflammation of the brain
+epilepsy disorder with recurrent seizures
+meningitis inflammation of the meninges
+neuralgia pain along nerves
+neuroma tumor of nerve cells
+paralysis breaking down of motor control
+poliomyelitis viral disease that attacks CNS
+psychosis mind disorder
 
 ## ❤️ Cardiovascular System
 
