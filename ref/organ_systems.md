@@ -484,21 +484,23 @@ Respiratory disorders fall into two major categories:
 
 ### 🌬️ Respiratory System - Common Terms
 
-apnea temporary failure to breathe
-bradypnea slow breathing
-bronchitis
-cyanosis
-dyspnea
-emphysema
-hypercanpnia
-hypoxemia
-layngoplegia
-pectoalgia
-pneumonia
-pulmonary
-repiration
-rhinitis
-sinusitis
+| Term | Meaning |
+| --- | --- |
+| **apnea** | temporary cessation of breathing |
+| **bradypnea** | abnormally slow breathing |
+| **bronchitis** | inflammation of the bronchi |
+| **cyanosis** | bluish discoloration due to low oxygen |
+| **dyspnea** | difficulty breathing |
+| **emphysema** | chronic lung disease causing alveolar damage |
+| **hypercapnia** | elevated carbon dioxide levels in the blood |
+| **hypoxemia** | low oxygen levels in the blood |
+| **laryngoplegia** | paralysis of the larynx |
+| **pectoralgia** | chest pain |
+| **pneumonia** | infection causing inflammation of lung tissue |
+| **pulmonary** | relating to the lungs |
+| **respiration** | the act of breathing |
+| **rhinitis** | inflammation of the nasal mucosa |
+| **sinusitis** | inflammation of the sinuses |
 
 ## 🍽️ Gastrointestinal Tract
 
