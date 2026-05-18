@@ -338,20 +338,23 @@ cartilatge provides protective pads between bones
 
 #### 🦴 Skeletal System - Common Terms
 
-arthalgia
-arthritis
-craniomalacia
-lordosis
-metacarpals
-ostealgia
-osteoarthritis
-osteoblast
-osteoporosis
-periosteitis
-phalangia
-rachitis
-scoliosis
-spondylitis
+| Term | Meaning |
+| --- | --- |
+| **arthralgia** | joint pain |
+| **arthritis** | inflammation of a joint |
+| **craniomalacia** | softening of the skull |
+| **lordosis** | exaggerated, inward lumbar spine curvature |
+| **metacarpals** | bones of the hand |
+| **ostealgia** | bone pain |
+| **osteoarthritis** | degenerative joint disease |
+| **osteoblast** | bone-forming cell |
+| **osteoclast** | bone-destroying cell |
+| **osteoporosis** | porous, weakened bones |
+| **periostitis** | inflammation around bones |
+| **phalangia** | pain in the finger or toe bones |
+| **rachitis** | inflammation of the spine |
+| **scoliosis** | abnormal lateral curvature of the spine |
+| **spondylitis** | inflammation of the vertebrae |
 
 ### 💪 Muscular System
 
