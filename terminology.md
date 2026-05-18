@@ -16,6 +16,14 @@
 
 ---
 
+## 🔗 Combining Vowel (CV)
+
+- Used to make terms easier to pronounce.
+- Most common CV is **“o”**.
+- Used **between roots** or **between a root and suffix** (when the suffix begins with a consonant).
+
+---
+
 ## 🌱 Root Words
 
 The **root** is the foundation of a medical term. It often identifies a **body part**, **system**, **function**, or **condition**.
@@ -25,38 +33,32 @@ The **root** is the foundation of a medical term. It often identifies a **body p
 
 | Root | Meaning |
 | --- | --- |
-| arth | joint |
-| cardi | heart |
-| cyst | bladder |
-| derm / derma | skin |
-| dent / dont | teeth |
-| encephal | brain |
-| gastr | stomach |
-| glyc | sugar |
-| hemat / hem | blood |
-| hepat | liver |
-| lingu | tongue |
-| mast | breast |
-| my | muscle |
-| nephr | kidney |
-| neur | nerve |
-| ocul | eye |
-| opia | vision |
-| oste | bone |
-| ot | ear |
-| pector | chest |
-| pneum | lung |
-| thorax | chest |
-| thyroid | thyroid |
-| ven | vein |
-
----
-
-## 🔗 Combining Vowel (CV)
-
-- Used to make terms easier to pronounce.
-- Most common CV is **“o”**.
-- Used **between roots** or **between a root and suffix** (when the suffix begins with a consonant).
+| **arthr / arth** | joint |
+| **cardi / card** | heart |
+| **cyst** | bladder, sac |
+| **derm / dermat / derma** | skin |
+| **dent / dont / odont** | teeth |
+| **encephal / encephala** | brain |
+| **esthes / esthesia** | sensation, feeling |
+| **gastr / gastro** | stomach |
+| **glyc / glyco** | sugar |
+| **hemat / hem / hemo** | blood |
+| **hepat / hepato** | liver |
+| **lingu / gloss** | tongue |
+| **mast / mamm** | breast |
+| **my / myo / mys** | muscle |
+| **nephr / ren** | kidney |
+| **neur / neuro** | nerve |
+| **ocul / ophthalm** | eye |
+| **ops / opia** | vision |
+| **oste / osteo** | bone |
+| **ot / oto** | ear |
+| **pector** | chest |
+| **pneum / pneumon** | lung, air |
+| **pulmon** | lung |
+| **thorac / thorax** | chest |
+| **thyroid / thyro** | thyroid |
+| **ven / phleb** | vein |
 
 ---
 
