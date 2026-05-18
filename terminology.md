@@ -31,6 +31,8 @@ The **root** is the foundation of a medical term. It often identifies a **body p
 - **Greek** roots → diagnosis, surgery  
 - **Latin** roots → anatomy
 
+Common Roots
+
 | Root | Meaning | Vowel Combination (Common Form) |
 | --- | --- | --- |
 | **arthr / arth** | joint | arthr**o**– |
@@ -201,32 +203,166 @@ Prefixes and suffixes **modify** the root to give additional meaning.
 
 ## Organ Systems & Conditions
 
-### Integumentary System
+### 🩹 Integumentary System
 
-### Skeletal System
+| Root | Meaning | Combining Form |
+| --- | --- | --- |
+| **derm / dermat** | skin | dermat**o**– |
+| **cutane** | skin | cutane**o**– |
+| **kerat** | hard tissue, keratin | kerat**o**– |
+| **onych / ungu** | nail | onych**o**– / ungu**o**– |
+| **pil / trich** | hair | pil**o**– / trich**o**– |
+| **hidr** | sweat | hidr**o**– |
+| **seb** | sebum, oil | seb**o**– |
+| **melan** | black pigment | melan**o**– |
+| **lip / lipo** | fat | lip**o**– |
 
-### Muscular System
+### 🦴 Skeletal System
 
-### Nervous System
+| Root | Meaning | Combining Form |
+| --- | --- | --- |
+| **oste / osteo** | bone | oste**o**– |
+| **oss / ost** | bone | oss**o**– / ost**e**– |
+| **chondr** | cartilage | chondr**o**– |
+| **arthr** | joint | arthr**o**– |
+| **cost** | rib | cost**o**– |
+| **crani** | skull | crani**o**– |
+| **spondyl / vertebr** | vertebra | spondyl**o**– / vertebr**o**– |
+| **myel** | bone marrow | myel**o**– |
+| **tars / carp** | ankle / wrist | tars**o**– / carp**o**– |
 
-### Cardiovascular System
+### 💪 Muscular System
 
-### Lymph & Blood Systems
+| Root | Meaning | Combining Form |
+| --- | --- | --- |
+| **my / myo / mys** | muscle | my**o**– |
+| **myos** | muscle | myos**o**– |
+| **tend / ten / tendin** | tendon | tendin**o**– |
+| **fasci** | fascia | fasci**o**– |
+| **kinesi / kinesio** | movement | kinesi**o**– |
+| **ton / tono** | tone, tension | ton**o**– |
 
-### Respiratory System
+### 🧠 Nervous System
 
-### Gastrointestinal Tract
+| Root | Meaning | Combining Form |
+| --- | --- | --- |
+| **neur / neuro** | nerve | neur**o**– |
+| **encephal** | brain | encephal**o**– |
+| **myel** | spinal cord | myel**o**– |
+| **psych** | mind | psych**o**– |
+| **esthes / esthesia** | sensation | esthes**o**– |
+| **phob** | fear | phob**o**– |
+| **somn** | sleep | somn**o**– |
 
-### Urinary System
+### ❤️ Cardiovascular System
 
-### Endocrine System
+| Root | Meaning | Combining Form |
+| --- | --- | --- |
+| **cardi / card** | heart | cardi**o**– |
+| **angi / angio** | vessel | angi**o**– |
+| **vas / vascul** | vessel | vascul**o**– |
+| **arteri** | artery | arteri**o**– |
+| **phleb / ven** | vein | phleb**o**– / ven**o**– |
+| **hem / hemat** | blood | hem**o**– / hemat**o**– |
+| **thromb** | clot | thromb**o**– |
 
-### Female Reproductive System
+### 🩸 Lymphatic & Blood Systems
 
-### Male Reproductive System
+| Root | Meaning | Combining Form |
+| --- | --- | --- |
+| **lymph** | lymph | lymph**o**– |
+| **splen** | spleen | splen**o**– |
+| **immun** | immune | immun**o**– |
+| **aden** | gland | aden**o**– |
+| **erythr** | red | erythr**o**– |
+| **leuk / leuc** | white | leuk**o**– |
+| **cyan** | blue | cyan**o**– |
 
-### Senses: Hearing
+### 🌬️ Respiratory System
 
-### Senses: Sight
+| Root | Meaning | Combining Form |
+| --- | --- | --- |
+| **nas / rhin** | nose | nas**o**– / rhin**o**– |
+| **pharyng** | throat | pharyng**o**– |
+| **laryng** | larynx | laryng**o**– |
+| **trache** | trachea | trache**o**– |
+| **bronch / bronchi** | bronchus | bronchi**o**– |
+| **pneum / pneumon** | lung, air | pneum**o**– |
+| **pleur** | pleura | pleur**o**– |
+
+### 🍽️ Gastrointestinal Tract
+
+| Root | Meaning | Combining Form |
+| --- | --- | --- |
+| **or / stomat** | mouth | or**o**– / stomat**o**– |
+| **esophag** | esophagus | esophag**o**– |
+| **gastr** | stomach | gastr**o**– |
+| **enter** | intestine | enter**o**– |
+| **col / colon** | colon | col**o**– |
+| **hepat** | liver | hepat**o**– |
+| **pancreat** | pancreas | pancreat**o**– |
+| **proct / rect** | rectum | proct**o**– / rect**o**– |
+| **chol / chole** | bile | chol**e**– |
+
+### 🚽 Urinary System
+
+| Root | Meaning | Combining Form |
+| --- | --- | --- |
+| **nephr / ren** | kidney | nephr**o**– |
+| **ureter** | ureter | ureter**o**– |
+| **cyst** | bladder | cyst**o**– |
+| **ur / uro** | urine | ur**o**– |
+| **urethr** | urethra | urethr**o**– |
+
+### 🔥 Endocrine System
+
+| Root | Meaning | Combining Form |
+| --- | --- | --- |
+| **aden** | gland | aden**o**– |
+| **thyroid / thyro** | thyroid | thyr**o**– |
+| **pancreat** | pancreas | pancreat**o**– |
+| **parathyroid** | parathyroid | parathyroid**o**– |
+| **pituitar / hypophys** | pituitary | pituitar**o**– / hypophys**o**– |
+
+### ♀️ Female Reproductive System
+
+| Root | Meaning | Combining Form |
+| --- | --- | --- |
+| **gynec / gyneco** | woman | gynec**o**– |
+| **metr / hyster / uter** | uterus | metr**o**– / hyster**o**– / uter**o**– |
+| **oophor / ovari** | ovary | oophor**o**– / ovari**o**– |
+| **salping** | fallopian tube | salping**o**– |
+| **colp / vagin** | vagina | colp**o**– / vagin**o**– |
+| **mamm / mast** | breast | mamm**o**– / mast**o**– |
+
+### ♂️ Male Reproductive System
+
+| Root | Meaning | Combining Form |
+| --- | --- | --- |
+| **andr** | male | andr**o**– |
+| **orch / orchi / orchid** | testis | orch**i**– / orchid**o**– |
+| **prostat** | prostate | prostat**o**– |
+| **vas** | vas deferens | vas**o**– |
+| **epididym** | epididymis | epididym**o**– |
+
+### 👂 Senses: Hearing
+
+| Root | Meaning | Combining Form |
+| --- | --- | --- |
+| **ot / oto** | ear | ot**o**– |
+| **tympan / myring** | eardrum | tympan**o**– / myring**o**– |
+| **acous / audi** | hearing | acous**o**– / audi**o**– |
+| **labyrinth** | inner ear | labyrinth**o**– |
+
+### 👁️ Senses: Sight
+
+| Root | Meaning | Combining Form |
+| --- | --- | --- |
+| **ocul / ophthalm** | eye | ocul**o**– / ophthalm**o**– |
+| **corne / kerat** | cornea | corne**o**– / kerat**o**– |
+| **retin** | retina | retin**o**– |
+| **ir / irid** | iris | ir**o**– / irid**o**– |
+| **opt / ops / opia** | vision | opt**o**– / op**o**– |
+| **lacrim / dacry** | tears | lacrim**o**– / dacry**o**– |
 
 ---
