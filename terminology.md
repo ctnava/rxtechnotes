@@ -71,7 +71,7 @@ Prefixes and suffixes **modify** the root to give additional meaning.
 
 ### Prefixes
 
-| Prefix | Meaning | Notes / Example Roots |
+| Prefix | Meaning | Example |
 | --- | --- | --- |
 | **a- / an-** | without, not | *an*emia |
 | **ambi-** | both | ambi*dextrous* |
