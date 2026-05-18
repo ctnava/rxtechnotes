@@ -111,34 +111,22 @@ Prefixes and suffixes **modify** the root to give additional meaning.
 | -orexia | appetite | anorexia |
 | -osis | increasingly abnormal condition | dermatosis |
 | -osmia | smell | anosmia |
+| -paresis | partial paralysis | hemiparesis |
+| -pathy | disease | neuropathy |
+| -penia | deficiency/ decrease | leukopenia |
+| -pepsia | digestion | dyspepsia |
+| -phagia | eating, swallowing | dysphagia |
+| -phasia | speech | aphasia |
+| -philic | loving/ attraction for | hydrophilic |
+| -phobia | fear/ repulsion to | claustrophobia |
+| -plasia | formation, development | hyperplasia |
+| -plasty | surgical repair/ reconstruction | rhinoplasty |
+| -plegia | paralysis, stroke | paraplegia |
+| -pnea | breathing | apnea |
+| -poiesis | formation, production | hematopoiesis |
+| -porosis | condition of pores/ spaces | osteoporosis |
 
 Suffix | meaning | example
-malacia
-megaly
-metry
-myc
-oid
-ole
-oma
-opia
-orexia
-osis
-osmia
-ous
-paresis
-pathy
-penia
-pepsia
-phagia
-phasia
-philic
-phobia
-plasia
-plasty
-plegia
-pnea
-polesis
-porosis
 rrhage
 rrhea
 sclerosis
