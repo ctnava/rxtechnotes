@@ -358,19 +358,35 @@ cartilatge provides protective pads between bones
 
 ### 💪 Muscular System
 
-muscle comes from latin ouse and cle little because muscle movements resemble a mouse moving under a cover
-body contains more than 600 giving shape and movement
-sekeltal muscles are attached to bones by tendons
-muscles are striated, made up of fibers
+The **muscular system** enables movement, maintains posture, and generates heat.  
+The word *muscle* comes from the Latin *musculus*, meaning "little mouse," because muscle contractions were thought to resemble a mouse moving beneath the skin.
 
-most muscle actions are voluntary, meaning controlled consciously
-involuntary muscles found in heart, stomach, and blood vessels, opaerate automatically
-some muscles called agonist muscled produce outward or FLEXOR movement of a limb while atnagonist muscles contaact to bring a limb back to its original position
+The body contains **over 600 muscles**, which give the body shape, allow locomotion, and support vital functions such as breathing, circulation, and digestion.
 
-muscle pain or myalgia can result from infections, chronic disorders, and medications
+Muscles are categorized into three major types:
 
-strains are usually caused by twisting or opulling muscles and tendones
-tendonitis is inflammation of the tendon resulting from acute injury or chronic repetiticy movements like gfolfers elbow or swimmers shoulder
+- **Skeletal muscle**: voluntary, striated, attached to bones by tendons  
+- **Cardiac muscle**: involuntary, striated, found only in the heart  
+- **Smooth muscle**: involuntary, non‑striated, found in organs and blood vessels
+
+Skeletal muscles are composed of **fibers** arranged in bundles, giving them their characteristic striated appearance.
+
+#### 🧭 Muscle Function & Movement
+
+Most skeletal muscle actions are **voluntary**, meaning they are consciously controlled.  
+In contrast, **involuntary muscles** (smooth and cardiac) operate automatically to regulate essential functions such as heartbeat, digestion, and vascular tone.
+
+Muscles often work in **pairs**:
+
+- **Agonist (prime mover)**: produces the primary movement (e.g., flexion)  
+- **Antagonist**: opposes the movement and returns the limb to its original position
+
+#### ⚠️ Common Muscular Injuries & Conditions
+
+- **Myalgia** (muscle pain) may result from infection, chronic disorders, electrolyte imbalance, or medications  
+- **Strains** occur when muscle fibers or tendons are overstretched or torn  
+- **Tendinitis** is inflammation of a tendon, often caused by repetitive motion (e.g., golfer's elbow, swimmer's shoulder)  
+- **Tendinosis** refers to chronic tendon degeneration without inflammation
 
 #### 💪 Muscular System - Roots
 
