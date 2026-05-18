@@ -319,21 +319,21 @@ cartilatge provides protective pads between bones
 | Root | Meaning | Combining Form |
 | --- | --- | --- |
 | **arthr** | joint | arthr**o**– |
-carp wrist
+| **carp** | wrist | carp**o**– |
 | **chondr** | cartilage | chondr**o**– |
 | **crani** | skull | crani**o**– |
 | **cost** | rib | cost**o**– |
-dactyl finger/ toe
-fibul lower small leg bone
-lord curve
-metatar foot
-| **oste / osteo / oss / ost** | bone | oste**o**– / oss**o**– / ost**e**– |
-ped / pod foot
-phalang / finger or toe bones
-rachi spine
-scoli crooked, bent
+| **dactyl** | finger, toe | dactyl**o**– |
+| **fibul** | fibula (smaller lower leg bone) | fibul**o**– |
+| **lord** | curve, swayback | lord**o**– |
+| **metatars / metacarp** | foot bones / hand bones | metatars**o**– / metacarp**o**– |
+| **oste / oss / ost** | bone | oste**o**– / oss**o**– / ost**e**– |
+| **ped / pod** | foot | ped**o**– / pod**o**– |
+| **phalang** | finger or toe bones | phalang**o**– |
+| **rachi** | spine | rachi**o**– |
+| **scoli** | crooked, bent | scoli**o**– |
 | **spondyl / vertebr** | vertebra | spondyl**o**– / vertebr**o**– |
-| **myel** | bone marrow | myel**o**– |
+| **myel** | bone marrow, spinal cord | myel**o**– |
 | **tars** | ankle | tars**o**– |
 
 #### 🦴 Skeletal System - Common Terms
