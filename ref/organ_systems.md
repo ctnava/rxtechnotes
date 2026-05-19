@@ -1016,7 +1016,7 @@ Together, the semicircular canals and vestibule form the **vestibular system**, 
 | **iridoplegia** | paralysis of the iris |
 | **oculomycosis** | fungal infection of the eye |
 | **photophobia** | sensitivity to light |
-| **retinosis** | degenerative disease of the retina |
+| **retinosis** | abnormal condition of the retina |
 | **scleromalacia** | softening of the sclera |
 | **vitrectomy** | surgical removal of the vitreous body |
 
