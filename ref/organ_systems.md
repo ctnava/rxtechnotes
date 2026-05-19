@@ -35,6 +35,8 @@
     - [🚽 Urinary System - Roots](#-urinary-system---roots)
     - [🚽 Urinary System - Common Terms](#-urinary-system---common-terms)
   - [🔥 Endocrine System](#-endocrine-system)
+    - [🔥 Endocrine System - Roots](#-endocrine-system---roots)
+    - [🔥 Endocrine System - Common Terms](#-endocrine-system---common-terms)
   - [♀️ Female Reproductive System](#️-female-reproductive-system)
   - [♂️ Male Reproductive System](#️-male-reproductive-system)
   - [👂 Senses: Hearing](#-senses-hearing)
@@ -626,13 +628,48 @@ Urinary disorders may result from **congenital anomalies**, **infections**, **ob
 
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
 
+The **endocrine system** regulates body functions through the secretion of **hormones**, chemical messengers released directly into the bloodstream. These hormones control **metabolism**, **growth**, **stress response**, **reproduction**, **electrolyte balance**, and **homeostasis**.
+
+Major endocrine glands include the **pituitary**, **thyroid**, **parathyroid**, **adrenal glands**, **pancreas**, **thymus**, and **gonads**. Unlike the nervous system—which communicates rapidly through electrical impulses—the endocrine system produces **slower, longer‑lasting** effects through hormonal signaling.
+
+### 🔥 Endocrine System - Roots
+
 | Root | Meaning | Combining Form |
 | --- | --- | --- |
 | **aden** | gland | aden**o**– |
-| **thyroid / thyro** | thyroid | thyr**o**– |
+| **adren / adreno** | adrenal gland | adren**o**– |
+| **crine** | to secrete | –crine |
+| **glyc / gluc / glucos** | sugar, glucose | glyc**o**– / gluc**o**– |
+| **lipid** | fat | lipid**o**– |
+| **myx** | mucus | myx**o**– |
+| **nephr** | kidney | nephr**o**– |
 | **pancreat** | pancreas | pancreat**o**– |
 | **parathyroid** | parathyroid | parathyroid**o**– |
 | **pituitar / hypophys** | pituitary | pituitar**o**– / hypophys**o**– |
+| **plas** | development | –plasia |
+| **somat** | body | somat**o**– |
+| **tetan** | tetanus | tetan**o**– |
+| **thym** | thymus | thym**o**– |
+| **thyroid / thyro** | thyroid | thyr**o**– |
+
+### 🔥 Endocrine System - Common Terms
+
+| Term | Meaning |
+| --- | --- |
+| **adenoma** | benign tumor of a gland |
+| **diabetic** | relating to diabetes or high blood glucose |
+| **endocrine** | relating to hormone‑secreting glands |
+| **glycosuria** | glucose in the urine |
+| **hyperglycemia** | elevated blood glucose levels |
+| **hyperlipidemia** | high levels of fat (lipids) in the blood |
+| **hyperplasia** | excessive growth or increase in cell number |
+| **hypothyroidism** | underactive thyroid gland |
+| **lipidemia** | presence of lipids in the blood |
+| **myxedema** | severe hypothyroidism with swelling of skin and tissues |
+| **pancreatitis** | inflammation of the pancreas |
+| **parathyroid** | relating to the parathyroid glands |
+| **somatic** | relating to the body |
+| **tetany** | muscle spasms due to low calcium or parathyroid dysfunction |
 
 ## ♀️ Female Reproductive System
 
