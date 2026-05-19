@@ -42,7 +42,7 @@ Structured for both exam prep and on-the-job reference.
 | 5 | Medical Terminology & Abbreviations | 🚧 WIP |
 | 6 | Biopharmaceutics & Factors Affecting Drug Activity | 🚧 WIP |
 | 7 | [Drug Discovery, Manufacturing, & Logistics](./discovery_manufacture.md) | ✅ Complete |
-| 8 | [Commonly Prescribed Drugs](./drugs.md) | 🚧 WIP |
+| 8 | [Drugs & Applications](./drugs.md) | 🚧 WIP |
 | 9 | [Pharmacy Mathematics](./math/readme.md) | ✅ Complete |
 | 10 | [Pharmacy Personnel, Duties, & Services](./personnel_services.md) | ✅ Complete |
 | 11 | [Pharmacy Settings](./settings.md) | ✅ Complete |
