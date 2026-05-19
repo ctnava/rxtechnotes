@@ -77,7 +77,11 @@ Back to 🔙🔗 [Production, Marketing, & Distribution of Medicine](./discovery
 
 ## Classification Schemes
 
-`There is no single standardized classification scheme used in medicine.`
+### Interpreting Drug Classifications
+
+`The same system used to interpret medical science terminology can be used to interpret drug classification names.`
+
+In pharmacy, we often classify drugs by **therapeutic properties**. Since much of drug therapy is based on opposing some physiological processes, many drug classes begin with the prefix *anti-* or *ant*.
 
 ### Classification by Nervous System Response
 
