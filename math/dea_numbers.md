@@ -17,7 +17,7 @@ e.g. `AB1234563`
 | Position | Meaning |
 | ---------- | --------- |
 | **1st letter** | Registrant type (see below) |
-| **2nd letter** | Usually the **first letter of the prescriber’s last name** |
+| **2nd letter** | Usually the **first letter of the prescriber's last name** |
 | **7th digit** | **Check digit**, used for mathematical validation |
 
 ### 📁 First Letter: Registrant Type
@@ -33,7 +33,7 @@ e.g. `AB1234563`
 
 ### 🔢 DEA Number Validation Formula
 
-To verify the DEA number’s **check digit**, apply this 4-step calculation.
+To verify the DEA number's **check digit**, apply this 4-step calculation.
 
 ==> Given the number `AB1234563`
 
@@ -81,7 +81,7 @@ DEA number verification can also be conducted using **online resources**, though
 - 🛡️ Document any **manual verification** done outside normal software
 - 🚨 Report **suspicious** or **unverifiable DEA numbers** immediately
 - 🩺 When in doubt, **consult the pharmacist**
-- 💡 If you're unsure or can't validate, **don’t process the prescription without pharmacist review**.
+- 💡 If you're unsure or can't validate, **don't process the prescription without pharmacist review**.
 
 ---
 

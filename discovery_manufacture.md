@@ -206,7 +206,7 @@ The **USP Dictionary of USAN & International Drug Names** serves as a comprehens
 #### Naming Progression
 
 1. **Chemical (IUPAC) Name**  
-   - Assigned first; describes the drug’s exact chemical structure.  
+   - Assigned first; describes the drug's exact chemical structure.  
    - Highly specific but too complex for clinical use.
 
 2. **Code Number / Development Name**  

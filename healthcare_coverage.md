@@ -194,13 +194,13 @@ Hospitals maintain **closed formularies** due to cost, storage, and formulary ov
 
 Because most hospital formularies include **only a limited number of medications within each therapeutic class**, it is common for an admitted patient to be using an **outpatient medication that is not on the hospital's formulary**.
 
-In such cases, a **therapeutically equivalent medication** that is on the formulary may be substituted. This process is known as **therapeutic interchange**, and it is guided by protocols developed and approved by the facility’s **P&T Committee**. These are documented in the hospital’s **medication policy manual**.
+In such cases, a **therapeutically equivalent medication** that is on the formulary may be substituted. This process is known as **therapeutic interchange**, and it is guided by protocols developed and approved by the facility's **P&T Committee**. These are documented in the hospital's **medication policy manual**.
 
 There are two types of therapeutic interchange processes:
 
 - **Prescriber-Initiated Substitution**
   - A pharmacist may **recommend** a formulary alternative.
-  - The substitution requires the **provider’s approval and a new order**.
+  - The substitution requires the **provider's approval and a new order**.
 - **Protocol-Driven Interchange (Automatic Substitution)**
   - Some hospitals have **pre-approved therapeutic interchange protocols** that allow the pharmacist to substitute specific medications **without prior approval** from the physician.
   - These protocols apply only under **clearly defined conditions** (e.g., specific drug pairs, dose equivalency tables, patient population restrictions).
@@ -223,7 +223,7 @@ There are two types of therapeutic interchange processes:
 Because these drugs are not stocked, **there may be significant delays** in delivery (i.e. days). Pharmacy technicians should:
 
 - **Notify the pharmacist** immediately once the delivery schedule is available
-- **Track the shipment** and ensure it arrives in time for the patient’s therapy
+- **Track the shipment** and ensure it arrives in time for the patient's therapy
 - **Label and store appropriately** upon receipt
 
 > 🛡️ Always document communication and approval steps when handling non-formulary requests. Delays in treatment can result in safety risks or regulatory flags.
@@ -266,7 +266,7 @@ Understanding how prescriptions are priced and reimbursed is essential for pharm
 ### Pricing & Fees
 
 - **Average Wholesale Price (AWP)** is a published "sticker" price used as a pricing reference. It is **not** the actual price pharmacies pay, but is used to calculate reimbursements in many contracts.
-- **Wholesale Acquisition Cost (WAC)** is the manufacturer’s list price to wholesalers. It is typically lower than AWP but still does **not** reflect discounts or rebates. It is also used more in pricing negotiations than in routine claims reimbursement.
+- **Wholesale Acquisition Cost (WAC)** is the manufacturer's list price to wholesalers. It is typically lower than AWP but still does **not** reflect discounts or rebates. It is also used more in pricing negotiations than in routine claims reimbursement.
 - **National Average Drug Acquisition Cost (NADAC)** is a **federal pricing benchmark** based on actual invoice data collected from retail community pharmacies. It represents what pharmacies **typically pay** for a drug and is used by **Medicaid** for fair reimbursement. NADAC is published weekly by CMS and reflects real-world costs more accurately than AWP or WAC.
 - **Dispensing Fee** is a fixed amount paid to the pharmacy by the insurer to cover the professional services involved in preparing and dispensing a prescription. This includes tasks such as verifying the prescription, reviewing drug interactions, labeling, and patient counseling. This is added to the drug cost in most reimbursement formulas. Medicaid programs and PBMs each have different dispensing fee rates. These are fixed by contract and may differ between generics, brands, and 340B drugs.
 
@@ -278,7 +278,7 @@ Most PBMs still mail checks to pharmacies (or their accounts receivable departme
 
 As a cost-containment strategy, insurers will pay the lowest of:
 
-- **Maximum Allowable Cost (MAC)** is the maximum reimbursable amount that a PBM will set for a generic drug or group of equivalent drugs. If a pharmacy’s acquisition cost exceeds the MAC, it may lose money on the transaction unless it charges the patient the difference.
+- **Maximum Allowable Cost (MAC)** is the maximum reimbursable amount that a PBM will set for a generic drug or group of equivalent drugs. If a pharmacy's acquisition cost exceeds the MAC, it may lose money on the transaction unless it charges the patient the difference.
 - **Usual and Customary (U&C / UCR) Price** is the "cash" or "retail" price that a pharmacy would charge a cash-paying customer for a given prescription. Insurers compare this price to their negotiated rates.
 - **Contracted Reimbursement Formula** refers to the specific pricing agreement between the pharmacy and the PBM or third-party payer. These terms vary by payer and are confidential, but typically includes a base rate such as **[ingredient cost + dispensing fee]** or **[average wholesale price (AWP) minus a percentage + fee]**.
 
@@ -296,7 +296,7 @@ Understanding the different ways a pharmacy submits and processes claims helps c
 This is the **most common billing model** for retail, chain, and outpatient pharmacies. Claims are submitted electronically through a **Pharmacy Benefit Manager (PBM)**.
 
 - Uses the **NCPDP Telecommunication Standard** (real-time claim format)
-- Requires **BIN / PCN / Group / ID numbers** from the patient’s insurance card
+- Requires **BIN / PCN / Group / ID numbers** from the patient's insurance card
 - Adjudication happens in **real-time**
 - Determines:
   - Coverage and formulary status
@@ -329,13 +329,13 @@ Requires:
 
 > 📌 Medical claims adjudication is slower and often requires documentation (e.g., physician orders, treatment plans).
 
-#### 🛠️ Third-Party Network Billing (e.g., Workers’ Comp, TPA)
+#### 🛠️ Third-Party Network Billing (e.g., Workers' Comp, TPA)
 
 Some prescriptions bypass standard PBMs and are routed through **special billing networks** tied to employer-based or injury-related claims.
 
 Used in:
 
-- **Workers’ compensation claims**
+- **Workers' compensation claims**
 - **Auto insurance** or liability claims
 - **TPAs (Third Party Administrators)** for employer drug programs
 
@@ -345,16 +345,16 @@ Processed through:
 - Manual fax or EDI processes
 - Employer or state-specific guidelines
 
-> 🐻 California has unique workers’ comp rules and drug formularies. Claims must follow Division of Workers' Compensation (DWC) guidelines.
+> 🐻 California has unique workers' comp rules and drug formularies. Claims must follow Division of Workers' Compensation (DWC) guidelines.
 > .
-> 🛡️ Never submit these claims to the patient’s regular insurance unless explicitly directed.
+> 🛡️ Never submit these claims to the patient's regular insurance unless explicitly directed.
 
 ## ⚙️ Claims, Adjudication, & Billing Cycle
 
 - **Claims** refer to the electronic submissions that a pharmacy sends to an insurance company or PBM (Pharmacy Benefit Manager) to request payment for a dispensed prescription.
 - **Adjudication** is the real-time process where insurance (via the PBM) evaluates a prescription claim. It determines coverage, patient cost, and whether the prescription is accepted or rejected.
 - **Billing** is the step that follows adjudication. If the claim is accepted, billing finalizes the transaction: the PBM pays the pharmacy a contracted reimbursement amount, and the patient is charged their portion.
-- **Coordination of benefits (COB)** is the process of determining which plan is billed first when patients have more than one plan. It prevents duplicate payments for the same service or prescription, ensures the correct insurer is billed first to avoid claim denials or delays, and helps the pharmacy calculate the patient’s true out-of-pocket cost.
+- **Coordination of benefits (COB)** is the process of determining which plan is billed first when patients have more than one plan. It prevents duplicate payments for the same service or prescription, ensures the correct insurer is billed first to avoid claim denials or delays, and helps the pharmacy calculate the patient's true out-of-pocket cost.
 - **Third Party Rejections (TPR)** are claim denials from the insurance due to eligibility or processing errors that may be resolved with corrections.
 
 ### 👤 Patient Intake & Coordination of Benefits (COB)
@@ -368,34 +368,34 @@ Before a prescription can be processed or billed, a patient profile must be crea
 | Term | Meaning |
 | --- | --- |
 | **Primary Insurance** | Pays first up to its coverage limits. |
-| **Secondary Insurance** | Pays some or all of what the primary didn’t cover. |
+| **Secondary Insurance** | Pays some or all of what the primary didn't cover. |
 | **Tertiary Insurance** | Rare third plan that covers remaining costs. |
 
 > 🛡️ Incorrect COB setup leads to claim denials or full patient cost. Watch for Third Party Rejections like “other coverage primary”. Verify COB at patient intake and refer unclear COB issues to pharmacist or billing staff.
 
 🔗 See: [New Patient Intake & Coordination of Benefits SOP](./sop/pt_intake.md)
 
-#### 🛠️ Workers’ Compensation (Workers’ Comp)
+#### 🛠️ Workers' Compensation (Workers' Comp)
 
-Workers’ compensation is a specialized form of legally-mandated, private insurance that pays for medical expenses, including prescription drugs, when an employee is injured on the job or develops a **work-related** illness. Workers’ comp claims are standalone and bypass commercial or government payers entirely. They are processed through a **separate billing system**, not the patient's standard PBM or insurance. Most plans use a **dedicated claims processor or pharmacy network** (e.g., Coventry, One Call, Mitchell ScriptAdvisor).
+Workers' compensation is a specialized form of legally-mandated, private insurance that pays for medical expenses, including prescription drugs, when an employee is injured on the job or develops a **work-related** illness. Workers' comp claims are standalone and bypass commercial or government payers entirely. They are processed through a **separate billing system**, not the patient's standard PBM or insurance. Most plans use a **dedicated claims processor or pharmacy network** (e.g., Coventry, One Call, Mitchell ScriptAdvisor).
 
 🔑 **When Handling these Claims**:
 
 - **Verify and enter claim information**:
-  - Employer’s name
+  - Employer's name
   - Date of injury
-  - Workers’ comp claim number
+  - Workers' comp claim number
   - Insurance carrier or TPA (Third Party Administrator)
-- **Follow billing instructions** provided by the workers’ comp network or adjuster.
-- Do **not** bill the patient’s regular insurance.
+- **Follow billing instructions** provided by the workers' comp network or adjuster.
+- Do **not** bill the patient's regular insurance.
   - 📌 Incorrect billing to a PBM can delay medication access and violate payer agreements.
-- Do **not** collect copays unless specifically instructed by the workers’ comp payer.
+- Do **not** collect copays unless specifically instructed by the workers' comp payer.
   - 📌 Patients typically pay **$0 out of pocket**, but **only for medications authorized by the claims adjuster**.
 - If a medication is **denied or not listed**, refer to the pharmacist or contact the claims adjuster.
 
 ##### 🐻 California-Specific Requirements
 
-In California, workers’ comp prescriptions are regulated by the **Division of Workers’ Compensation (DWC)** and must comply with the **Medical Treatment Utilization Schedule (MTUS)** and **Drug Formulary**.
+In California, workers' comp prescriptions are regulated by the **Division of Workers' Compensation (DWC)** and must comply with the **Medical Treatment Utilization Schedule (MTUS)** and **Drug Formulary**.
 
 🦅x🐻 **Drug Formulary Rules**:
 
@@ -419,7 +419,7 @@ Proper documentation includes:
 - DWC claim number
 - National Provider Identifier (NPI)
 - State license number
-- Prescriber’s information
+- Prescriber's information
 
 > 🛡️ Pharmacy technicians must confirm that the prescriber is in the MPN and that the drug matches DWC formulary coverage. Always escalate unclear coverage or PA issues to the pharmacist.
 
@@ -431,7 +431,7 @@ A **7-day supply** of a drug may be dispensed **without prior authorization** if
 - The provider documents medical necessity,
 - The prescription is for a **new work-related injury**.
 
-> 📌 Always check for California-specific reject messages or override codes when submitting workers’ comp claims.
+> 📌 Always check for California-specific reject messages or override codes when submitting workers' comp claims.
 
 ### Filing Claims
 
@@ -518,7 +518,7 @@ Common scenarios:
 
 - Long-term care or correctional facilities
 - Retroactive insurance billing
-- Workers’ comp or third-party administrator (TPA) claims
+- Workers' comp or third-party administrator (TPA) claims
 - Coordination of Benefits (COB) adjustments
 - Out-of-network pharmacy claims
 
@@ -542,7 +542,7 @@ The billing cycle is a real-time loop that occurs every time a prescription is s
    - A valid prescription is entered into the pharmacy management system.
    - Key data: prescriber NPI, patient demographics, drug NDC, quantity, days' supply, and DAW code.
 2. **Insurance Claim Submission**
-   - The system electronically submits the claim to the patient’s **primary insurer** via the PBM.
+   - The system electronically submits the claim to the patient's **primary insurer** via the PBM.
    - Format: Uses **NCPDP Telecommunication Standard** (e.g., D.0).
    - Includes BIN, PCN, Group ID, Member ID, relationship code, and coordination of benefits if needed.
 3. **Real-Time Adjudication**
@@ -556,7 +556,7 @@ The billing cycle is a real-time loop that occurs every time a prescription is s
      - **Coordination of benefits (COB)**
 4. **Response Returned to Pharmacy**
    - If **accepted** or `paid`:
-     - The PBM returns the **approved reimbursement amount** for the pharmacy and the **patient’s copay**.
+     - The PBM returns the **approved reimbursement amount** for the pharmacy and the **patient's copay**.
    - If **rejected**:
      - A `reject` code is returned (e.g., "70 = Product/Service Not Covered", "75 = Prior Authorization Required").
      - The technician must **troubleshoot** or **refer to pharmacist**.
@@ -630,10 +630,10 @@ Pharmacy technicians may assist the pharmacist with the following PA tasks:
    - Pharmacist must confirm if a PA is appropriate or if a formulary alternative is preferred.
 3. **Assist with documentation**
    - Gather relevant prescription data, insurance info, and rejection messages.
-   - Help collect clinical data (e.g., diagnosis, trial history) from prescriber’s office.
+   - Help collect clinical data (e.g., diagnosis, trial history) from prescriber's office.
 4. **Submit PA request**
    - May use electronic PA (ePA) tools, insurer web portals, or fax forms (under pharmacist supervision).
-   - Track submission and document status in the patient’s profile.
+   - Track submission and document status in the patient's profile.
 5. **Inform the patient**
    - Set clear expectations: PA approval typically takes **1–3 business days**.
    - Encourage follow-up with the prescriber for urgent requests.

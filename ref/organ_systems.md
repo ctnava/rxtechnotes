@@ -68,7 +68,7 @@
 
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
 
-The **integumentary system** forms the body’s external covering. It includes the **skin**, **hair**, **nails**, and the **mammary glands**.
+The **integumentary system** forms the body's external covering. It includes the **skin**, **hair**, **nails**, and the **mammary glands**.
 
 It serves as the **first line of defense**, acting as a physical and immunologic barrier against pathogens, chemicals, UV radiation, and mechanical injury.
 
@@ -292,7 +292,7 @@ Muscles often work in **pairs**:
 
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
 
-The **nervous system** is the body’s master **communication and control network**, responsible for sensing internal and external changes, interpreting them, and coordinating responses to maintain **homeostasis**. It is divided into two major components:
+The **nervous system** is the body's master **communication and control network**, responsible for sensing internal and external changes, interpreting them, and coordinating responses to maintain **homeostasis**. It is divided into two major components:
 
 - **Central Nervous System (CNS)**
   - Composed of the **brain** and **spinal cord**
@@ -398,7 +398,7 @@ Blood pressure is measured using a **sphygmomanometer**, expressed as **systolic
 | **arteriosclerosis** | hardening of the arteries |
 | **bradycardia** | abnormally slow heart rate |
 | **cardiomyopathy** | disease of the heart muscle |
-| **electrocardiograph** | recording of the heart’s electrical activity |
+| **electrocardiograph** | recording of the heart's electrical activity |
 | **embolism** | obstruction of blood flow by an embolus |
 | **endocarditis** | inflammation of the inner lining of the heart |
 | **leukocyte** | white blood cell |
@@ -537,7 +537,7 @@ Respiratory disorders fall into two major categories:
 
 The **gastrointestinal (GI) tract** occupies the abdominal cavity and is lined by the **peritoneum**, a protective membrane that supports and cushions the digestive organs. It includes the **stomach**, **small and large intestines**, **liver**, **gallbladder**, and **pancreas**, all of which work together to digest food and absorb nutrients.
 
-The **liver** and **gallbladder** aid digestion by secreting **bile** and enzymes into the small intestine, while the **pancreas**, located behind the stomach, releases additional digestive enzymes. Once food is broken down, nutrients are absorbed through the GI tract’s **large surface area** and transported into the **circulatory system**, which distributes them throughout the body.
+The **liver** and **gallbladder** aid digestion by secreting **bile** and enzymes into the small intestine, while the **pancreas**, located behind the stomach, releases additional digestive enzymes. Once food is broken down, nutrients are absorbed through the GI tract's **large surface area** and transported into the **circulatory system**, which distributes them throughout the body.
 
 Common GI complaints include **heartburn (pyrosis)**, **dyspepsia**, and **diarrhea**. Heartburn is often associated with **gastroesophageal reflux disease (GERD)** but may also occur with **peptic ulcer disease (PUD)** or **gallbladder disorders**.
 
@@ -834,7 +834,7 @@ Together, these structures support **sperm production**, **maturation**, **stora
 - **Prostate Gland**  
   Adds alkaline fluid to semen, enhancing sperm mobility and protecting them from the acidic vaginal environment.
 
-- **Bulbourethral (Cowper’s) Glands**  
+- **Bulbourethral (Cowper's) Glands**  
   Secrete a lubricating, alkaline pre‑ejaculatory fluid.
 
 - **Penis & Urethra**  
@@ -900,7 +900,7 @@ Urine that remains in the bladder increases the risk of **bacterial growth**, wh
 
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
 
-The **sense of hearing** and part of the body’s **equilibrium (balance)** are functions of the **ear**, which is divided into the **external**, **middle**, and **inner** ear. Together, these structures capture sound waves, convert them into nerve impulses, and help maintain posture and spatial orientation.
+The **sense of hearing** and part of the body's **equilibrium (balance)** are functions of the **ear**, which is divided into the **external**, **middle**, and **inner** ear. Together, these structures capture sound waves, convert them into nerve impulses, and help maintain posture and spatial orientation.
 
 ### 🔊 External Ear
 
@@ -985,7 +985,7 @@ The **sense of sight** allows the body to detect light, interpret images, and re
 
 The **eyelids** protect the eye from debris, injury, and excessive light. They also play a major role in **lubrication**:
 
-- With each blink, the eyelids spread **tears** across the eye’s surface.
+- With each blink, the eyelids spread **tears** across the eye's surface.
 - Tears are produced by the **lacrimal glands** and swept toward the **inner corner of the eye**.
 - Tears drain into small openings (the **canaliculi**) in the upper and lower eyelids.
 - These canals converge into the **lacrimal sac**, then drain into the **nasolacrimal duct**, which empties into the nose; explaining why crying leads to a runny nose.
@@ -1019,7 +1019,7 @@ The eye is composed of **three layers**, each with specialized structures and fu
    - **Optic Nerve**  
      Transmits visual signals from the retina to the brain for interpretation.
    - **Vitreous Humor**  
-     A clear, gel‑like substance that fills the posterior cavity, maintaining the eye’s shape and supporting the retina.
+     A clear, gel‑like substance that fills the posterior cavity, maintaining the eye's shape and supporting the retina.
    - **Lens**  
      A flexible, transparent structure that changes shape to focus light onto the retina; a process known as **accommodation**
 

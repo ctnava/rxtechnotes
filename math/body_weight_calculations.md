@@ -36,9 +36,9 @@ Children are **not miniature adults**. Their organ systems are still developing,
 
 To account for this, specific formulas were developed:
 
-### 🧮 Clark’s Rule (Weight-Based)
+### 🧮 Clark's Rule (Weight-Based)
 
-**Clark’s Rule** estimates a child's dose based on **weight in pounds**, using **150 lbs as the standard adult weight**.
+**Clark's Rule** estimates a child's dose based on **weight in pounds**, using **150 lbs as the standard adult weight**.
 
 📐 **Formula**
 
@@ -50,17 +50,17 @@ To account for this, specific formulas were developed:
 🧪 **Example**
 
 - **Adult dose:** 500 mg  
-- **Child’s age:** 6 years
-- **Child’s weight:** 50 lbs
+- **Child's age:** 6 years
+- **Child's weight:** 50 lbs
 
 | Step | Math |
 | ------ | ------ |
 | Calculate Proportion | 50 ÷ 150 = 0.333 |
 | Multiply by Adult Dose | 0.333 × 500 = 166.67 mg |
 
-### 🧮 Young’s Rule (Age-Based)
+### 🧮 Young's Rule (Age-Based)
 
-**Young’s Rule** estimates a pediatric dose based on **age**, assuming that drug metabolism improves linearly with age.
+**Young's Rule** estimates a pediatric dose based on **age**, assuming that drug metabolism improves linearly with age.
 
 📐 **Formula**
 
@@ -72,20 +72,20 @@ To account for this, specific formulas were developed:
 🧪 **Example**
 
 - **Adult dose:** 500 mg
-- **Child’s age:** 6 years  
-- **Child’s weight:** 50 lbs
+- **Child's age:** 6 years  
+- **Child's weight:** 50 lbs
 
 | Step | Math |
 | ------ | ------ |
 | Calculate Proportion | 6 ÷ (6 + 12) = 6 ÷ 18 = 0.333 |
 | Multiply by Adult Dose | 0.333 × 500 = 166.67 mg |
 
-> 🚨 Young’s Rule is only applicable for **children older than 1 year** and **younger than 12 years**
+> 🚨 Young's Rule is only applicable for **children older than 1 year** and **younger than 12 years**
 
 ## ✅ Best Practices
 
 - Always convert pounds to kilograms for modern mg/kg dosing
-- Use Clark’s and Young’s Rules only when:
+- Use Clark's and Young's Rules only when:
   - No specific pediatric dosing data is available
   - A rough estimate is acceptable
 - Use **mg/kg/day** or **mg/kg/dose** formulas for clinical dosing whenever possible

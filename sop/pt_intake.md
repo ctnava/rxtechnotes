@@ -82,18 +82,18 @@ The correct order of insurance coverage is based on **standard coordination rule
    - The plan that **covers the patient as a dependent** (e.g., through a spouse) is **secondary**.
 2. **Dependent Children: The Birthday Rule**
    - The parent whose **birth month and day (MM/DD)** occurs first in the calendar year has the **primary plan**.
-     - Example: Parent A (March 10) vs. Parent B (July 5) → Parent A’s plan is primary.
+     - Example: Parent A (March 10) vs. Parent B (July 5) → Parent A's plan is primary.
      - 📌 The year of birth is *not* considered—only month and day.
    - If both parents share the same birthday, the plan that has **covered the parent longer** becomes primary.
 3. **Children with Divorced or Separated Parents**
    - If a court order specifies which parent is financially responsible for healthcare, **follow that order**.
    - If no court order:
      1. The plan of the parent **with custody** is primary.
-     2. Then the plan of the **custodial parent’s spouse** (stepparent) is secondary.
+     2. Then the plan of the **custodial parent's spouse** (stepparent) is secondary.
      3. The plan of the **non-custodial parent** is tertiary.
 4. **Tricare and VA**
    - **VA prescriptions must be filled at VA pharmacies**. Do not bill Tricare or commercial plans for VA-issued scripts.
-   - **Tricare** may be primary or secondary depending on whether the patient has other coverage. Confirm eligibility through Tricare’s system.
+   - **Tricare** may be primary or secondary depending on whether the patient has other coverage. Confirm eligibility through Tricare's system.
 5. **Medicare Coordination Rules**
    - **Medicare is usually secondary** if:
      - The patient is **still actively working** and covered by an **employer group health plan** (EGHP).
@@ -111,7 +111,7 @@ The correct order of insurance coverage is based on **standard coordination rule
 | **Subscriber vs. Dependent** | Two private insurances on an adult | Applies only to adults |
 | **Birthday Rule** | Two parents insuring a child, no divorce | Yes, takes precedence over subscriber rule for children |
 | **Divorce Rule** | Child of divorced or separated parents | Yes, overrides the birthday rule |
-| **Medicare Coordination** | Patient has Medicare + other coverage | Medicare’s federal rules override private plan conventions |
+| **Medicare Coordination** | Patient has Medicare + other coverage | Medicare's federal rules override private plan conventions |
 | **Tricare / VA** | Military or veteran coverage involved | VA prescriptions not billed externally; Tricare billing rules apply separately |
 | 🐻 **Medi-Cal as Payer of Last Resort** | Dual-eligible patients in CA | Yes, Medi-Cal always billed last |
 

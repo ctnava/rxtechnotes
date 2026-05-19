@@ -1,6 +1,6 @@
 # Common IV Solutions
 
-Intravenous (IV) fluids are a cornerstone of hospital and emergency medicine. They restore or maintain fluid balance, deliver electrolytes, and serve as vehicles for medications. Choosing the correct solution requires an understanding of each fluid’s composition, tonicity, and clinical effects. Using the wrong solution can worsen underlying conditions such as heart failure, renal disease, liver dysfunction, diabetes, or increased intracranial pressure.  
+Intravenous (IV) fluids are a cornerstone of hospital and emergency medicine. They restore or maintain fluid balance, deliver electrolytes, and serve as vehicles for medications. Choosing the correct solution requires an understanding of each fluid's composition, tonicity, and clinical effects. Using the wrong solution can worsen underlying conditions such as heart failure, renal disease, liver dysfunction, diabetes, or increased intracranial pressure.  
 
 This reference summarizes the most common IV solutions, their key components, typical uses, and critical cautions for safe clinical practice.
 
@@ -11,7 +11,7 @@ This reference summarizes the most common IV solutions, their key components, ty
 | **Sterile Water for Injection (SW/SWFI)** | Pure water, no electrolytes | Hypotonic (extremely) | Diluent for reconstitution of medications; irrigation; wound flushing | ❗ **Never infuse alone** → causes hemolysis. Only for dilution or irrigation. |
 | **Normal Saline (NS)** | Sodium chloride (NaCl) 0.9% in water | Isotonic | Hydration; fluid resuscitation; drug vehicle; irrigation | Widely used in trauma, surgery, emergencies. ⚠️ May worsen fluid overload/Chronic Heart Failure(CHF)/renal disease due to sodium load. |
 | **Half Normal Saline (½NS)** | Sodium chloride (NaCl) 0.45% in water | Hypotonic | Maintenance fluid when lower sodium is required; chronic dehydration | Not for acute resuscitation. ⚠️ Caution in liver disease, risk of hyponatremia and fluid shifts. |
-| **Lactated Ringer’s (LR)** | 0.9% NaCl, KCl, CaCl₂, sodium lactate in water | Isotonic with electrolytes | Volume replacement in trauma, burns, perioperative care; corrects metabolic acidosis | Mimics plasma electrolyte composition. ⚠️ Avoid in severe liver disease (cannot metabolize lactate), hyperkalemia, or hypercalcemia. |
+| **Lactated Ringer's (LR)** | 0.9% NaCl, KCl, CaCl₂, sodium lactate in water | Isotonic with electrolytes | Volume replacement in trauma, burns, perioperative care; corrects metabolic acidosis | Mimics plasma electrolyte composition. ⚠️ Avoid in severe liver disease (cannot metabolize lactate), hyperkalemia, or hypercalcemia. |
 | **Dextrose 5% in Water (D5W)** | 5% dextrose in sterile water | Isotonic → becomes hypotonic after metabolism | Provides free water; hydration; mild calorie source; diluent for meds | No electrolytes. ⚠️ Increases blood glucose; avoid in uncontrolled diabetes or cerebral edema (worsens ICP). |
 | **Dextrose 5% in Normal Saline (D5NS)** | 5% dextrose + 0.9% NaCl | Isotonic | Hydration with calories & electrolytes; mild hypoglycemia with concurrent sodium needs | Useful for combined energy + sodium support. ⚠️ Avoid in renal/cardiac impairment due to sodium + glucose load. |
 

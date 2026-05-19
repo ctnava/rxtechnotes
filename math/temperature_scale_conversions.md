@@ -78,18 +78,18 @@ These fundamental concepts are frequently used in both sterile and non-sterile c
 
 **Density** is defined as the mass of a substance per unit volume, typically expressed as grams per milliliter (g/mL) in pharmacy settings. It provides a way to relate how much a substance weighs relative to its size and is essential for converting between weight and volume, especially in liquid compounding.
 
-**Specific Gravity (SG)** is the ratio of a substance’s density to the density of water at a given temperature. Since the density of water is 1 g/mL at standard conditions, the SG of water is 1.000 by definition. SG is a dimensionless number because it is a ratio, not a measurement with units. In pharmacy, SG is often used as a stand-in for density when the comparison is made to water, allowing for straightforward conversions between grams and milliliters for non-aqueous substances like glycerin or ethanol.
+**Specific Gravity (SG)** is the ratio of a substance's density to the density of water at a given temperature. Since the density of water is 1 g/mL at standard conditions, the SG of water is 1.000 by definition. SG is a dimensionless number because it is a ratio, not a measurement with units. In pharmacy, SG is often used as a stand-in for density when the comparison is made to water, allowing for straightforward conversions between grams and milliliters for non-aqueous substances like glycerin or ethanol.
 
 Understanding **density** and **specific gravity (SG)** is essential for pharmacy technicians when converting between **weight (grams)** and **volume (milliliters)**. These concepts are especially relevant for compounding, labeling, and interpreting formulas involving **liquids that are not water** because:
 
 - Many drugs are dosed or dispensed in **volume** but labeled in **weight**
-- **Non-aqueous solutions** (like ethanol or glycerin) don’t follow the 1 g = 1 mL "rule"
+- **Non-aqueous solutions** (like ethanol or glycerin) don't follow the 1 g = 1 mL "rule"
 - Knowing the **density** or **SG** allows accurate conversions between **g ↔ mL**
 
 | Term | Definition | Units |
 | ------ | ------------ | ------- |
 | **Density** | Mass per unit volume. | Commonly expressed as **g/mL** in pharmacy. |
-| **Specific Gravity (SG)** | Ratio of a substance’s density to the density of water. | **No units** (it's a ratio). |
+| **Specific Gravity (SG)** | Ratio of a substance's density to the density of water. | **No units** (it's a ratio). |
 
 📌 **Used when**:
 
@@ -97,7 +97,7 @@ Understanding **density** and **specific gravity (SG)** is essential for pharmac
 - Calculating dosages from weight-based orders
 - Understanding concentration of liquid formulations
 
-> 🚨 **SG is a dimensionless number** because it's a ratio. Since water’s density is 1 g/mL at standard conditions, the SG is **numerically equal** to the density for most pharmacy applications—but not always interchangeable when units are required.
+> 🚨 **SG is a dimensionless number** because it's a ratio. Since water's density is 1 g/mL at standard conditions, the SG is **numerically equal** to the density for most pharmacy applications—but not always interchangeable when units are required.
 
 ⚓ **Common Liquid Densities and Specific Gravities**
 

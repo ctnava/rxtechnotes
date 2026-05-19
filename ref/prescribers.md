@@ -6,7 +6,7 @@ A practical guide for pharmacy technicians to quickly identify which healthcare 
 
 ## 🩺 Physician Specialists (Prescribers)
 
-Physicians (MD/DO) have broad prescriptive authority. Their specialties influence the *types* of medications they commonly prescribe. Prescriptions far outside a provider’s specialty may indicate an error, fraud, or tampering.
+Physicians (MD/DO) have broad prescriptive authority. Their specialties influence the *types* of medications they commonly prescribe. Prescriptions far outside a provider's specialty may indicate an error, fraud, or tampering.
 
 | 🆎 | 🧑‍⚕️ Title | 💊 Prescriptive Authority | 🔐 Common Controlled Medications |
 | --- | --- | --- | --- |
@@ -35,11 +35,11 @@ A **Collaborative Practice Agreement (CPA)** is a formal contract allowing pharm
 | **NP** | Nurse Practitioner | ✅ Independent or supervised prescribing depending on state; may prescribe controls. | 🔐 Hydrocodone, Adderall, alprazolam |
 | **Psych NP** | Psychiatric Nurse Practitioner | 🧠 Psychiatric meds + controlled substances (state‑dependent). | 🔐 Clonazepam, lorazepam, Adderall, antidepressants |
 | **OD** | Doctor of Optometry | 👓 Eye meds; limited controlled substances in some states. | 🔐 Hydrocodone (post-op), low-dose benzos (rare) |
-| **CNM** | Certified Nurse Midwife | 👶 Women’s health, prenatal, labor‑related meds. | 🔐 Codeine, opioids for labor, benzodiazepines |
+| **CNM** | Certified Nurse Midwife | 👶 Women's health, prenatal, labor‑related meds. | 🔐 Codeine, opioids for labor, benzodiazepines |
 | **CRNA** | Certified Registered Nurse Anesthetist | 🛌 Anesthetics and perioperative drugs. | 🔐 Fentanyl, midazolam, ketamine |
 | **PharmD (RPh)** | Pharmacist under protocol | 💊 Vaccines, contraception, naloxone, tobacco cessation; additional authority varies by state. | 🔐 testosterone |
 
-> 🚨 Each state’s **Board of Pharmacy** defines prescriptive authority for non-physician healthcare providers.
+> 🚨 Each state's **Board of Pharmacy** defines prescriptive authority for non-physician healthcare providers.
 
 ### Quick Reference Legend
 

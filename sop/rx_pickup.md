@@ -27,7 +27,7 @@ Pharmacy technicians must:
 
 ## 1. 📋 Patient Verification & Prescription Retrieval  
 
-1. Request the patient’s:  
+1. Request the patient's:  
    - **Last name**  
    - **Date of birth**  
 2. Access the patient profile in the pharmacy system.  
@@ -48,7 +48,7 @@ Pharmacy technicians must:
 >
 > - Drug name  
 > - Strength  
-> - Days’ supply  
+> - Days' supply  
 
 ### 🔐 Controlled Substances
 
@@ -99,7 +99,7 @@ Recommended screening questions:
 
 > 📌 Signatures are required for Medicaid, most third‑party insurers, controlled substances, poisons, and other state‑specific categories.
 
-1. Obtain the patient’s signature on the **pickup log** (electronic or physical).  
+1. Obtain the patient's signature on the **pickup log** (electronic or physical).  
    - Required for insurance reimbursement  
    - Used for audit verification  
 2. Offer pharmacist counseling:  

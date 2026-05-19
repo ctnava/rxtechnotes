@@ -95,7 +95,7 @@
 
 ## 🤯 FDA Safety & Innovation Act (2012)
 
-The **FDA Safety & Innovation Act (FDASIA)** strengthened the FDA’s ability to ensure timely access to safe and effective medications and medical devices. Its core goals and mechanisms were to:
+The **FDA Safety & Innovation Act (FDASIA)** strengthened the FDA's ability to ensure timely access to safe and effective medications and medical devices. Its core goals and mechanisms were to:
 
 - **Expand FDA resources through user fees**
   A user fee is a payment that drug and device manufacturers make to the FDA to help fund and speed up the review process for their products

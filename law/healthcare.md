@@ -13,7 +13,7 @@ These programs laid the foundation for future pharmacy regulations that affect h
 
 OBRA-90 was a major federal law affecting Medicaid & Medicare prescription drug programs. It mandates that states receiving federal funds must require pharmacists to:
 
-- 📄 **Maintain Patient Medication Profiles**: Pharmacies must maintain records `(on-site for a minimum of 2 years)` of a patient’s medication history to support counseling and DUR obligations.
+- 📄 **Maintain Patient Medication Profiles**: Pharmacies must maintain records `(on-site for a minimum of 2 years)` of a patient's medication history to support counseling and DUR obligations.
 - 📋 **Conduct DURs**: Evaluate prescriptions to identify adverse effects, therapeutic duplication, drug–disease contraindications, incorrect dosage or duration, allergies, and drug–drug interactions.
 - 💬 **Offer Counseling to Medicaid Patients**: Pharmacists must “offer to counsel” Medicaid patients on:
   - Proper use of the medication
@@ -62,7 +62,7 @@ Covered entities include:
   - Hemophilia treatment centers
   - Title X family planning clinics
   - Tribal and Urban Indian health organizations
-  - Certain children’s hospitals and critical access hospitals
+  - Certain children's hospitals and critical access hospitals
 
 Manufacturers participating in the Medicaid program are required to offer discounted prices on covered outpatient drugs to participating 340B entities.
 
@@ -97,7 +97,7 @@ The **Affordable Care Act (ACA)**, often called *Obamacare*, is one of the most 
   - Medicaid expansion (state‑optional)
   - Subsidized Marketplace plans
   - Guaranteed coverage for **pre‑existing conditions**
-  - Dependents allowed on parents’ plans until **age 26**
+  - Dependents allowed on parents' plans until **age 26**
 
 - **Improve quality of care & patient outcomes**
   - Value‑based care models (e.g., ACOs)

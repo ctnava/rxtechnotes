@@ -38,7 +38,7 @@ Examples at the time included paregoric and low‑dose codeine cough syrups.
 
 ### Logbook Requirements
 
-The Harrison Narcotics Tax Act required pharmacies to maintain a **bound, written record book** documenting every sale of an exempt narcotic preparation. This logbook served as the federal government’s primary method of tracking non‑prescription narcotic sales and preventing diversion.
+The Harrison Narcotics Tax Act required pharmacies to maintain a **bound, written record book** documenting every sale of an exempt narcotic preparation. This logbook served as the federal government's primary method of tracking non‑prescription narcotic sales and preventing diversion.
 
 Each entry in the bound record book was required to include:
 
@@ -136,7 +136,7 @@ It is a serialized *triplicate form* (in traditional paper format), though many 
   - A verbal or faxed order may be accepted temporarily, but a written/electronic Rx must follow within 7 days.
 - Pharmacies must maintain dispensing logs for all refills and ensure proper dispensing and recordkeeping.
 
-It is the pharmacy staff’s responsibility to:
+It is the pharmacy staff's responsibility to:
 
 - Ensure compliance with all state and federal regulations
 - Verify and log all controlled substance prescriptions
@@ -186,7 +186,7 @@ These ingredients are commonly found in cold and allergy medications but can als
 
 - Purchasers must be 18 years or older and present a valid photo ID.
 - For purchases involving > 60 mg, a logbook must be maintained that records:
-  - Purchaser’s name, adress, & signature
+  - Purchaser's name, adress, & signature
   - Date and time of the sale
   - Product name & Quantity sold
   

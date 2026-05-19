@@ -6,7 +6,7 @@ Reliable online resources help pharmacy technicians locate accurate, evidence‑
 
 ### Websites
 
-Not all health information found online is accurate, unbiased, or evidence‑based. Evaluating a website’s credibility is essential for safe pharmacy practice and patient education.
+Not all health information found online is accurate, unbiased, or evidence‑based. Evaluating a website's credibility is essential for safe pharmacy practice and patient education.
 
 The **Health on the Net (HON) Foundation** is a nonprofit organization that certifies health websites using the **HONcode**, a voluntary set of ethical standards for trustworthy medical information.
 
@@ -120,7 +120,7 @@ Official publications of pharmacy organizations. They reflect professional stand
 
 | Publication | Description | Link |
 | --- | --- | --- |
-| **America’s Pharmacist (NCPA)** | National Community Pharmacists Association’s monthly journal; focuses on community pharmacy practice | [🔗 Website](https://ncpa.org/americas-pharmacist) |
+| **America's Pharmacist (NCPA)** | National Community Pharmacists Association's monthly journal; focuses on community pharmacy practice | [🔗 Website](https://ncpa.org/americas-pharmacist) |
 | **American Journal of Health‑System Pharmacy (ASHP)** | Leading journal for institutional and hospital pharmacy practice | [🔗 Website](https://academic.oup.com/ajhp) |
 | **Journal of the American Pharmacists Association (APhA)** | Covers clinical practice, policy, research, and professional issues | [🔗 Website](https://www.japha.org/) |
 
@@ -206,11 +206,11 @@ Brief, practice‑focused publications that summarize regulatory changes, clinic
 
 | Publication | Focus | Link |
 | --- | --- | --- |
-| **Pharmacist’s Letter / Prescriber’s Letter** | Concise clinical updates, drug therapy recommendations, charts, comparison tables | [🔗 Website](https://www.therapeuticresearch.com) |
-| **Pharmacy Technician’s Letter** | Technician‑focused updates on workflow, safety, drug information, best practices, and practical guidance for daily operations | [🔗 Website](https://www.therapeuticresearch.com) |
+| **Pharmacist's Letter / Prescriber's Letter** | Concise clinical updates, drug therapy recommendations, charts, comparison tables | [🔗 Website](https://www.therapeuticresearch.com) |
+| **Pharmacy Technician's Letter** | Technician‑focused updates on workflow, safety, drug information, best practices, and practical guidance for daily operations | [🔗 Website](https://www.therapeuticresearch.com) |
 | **FDA Drug Safety Communications** | Safety alerts, recalls, labeling changes, medication error warnings | [🔗 Website](https://www.fda.gov/drugs) |
 | **ASHP NewsLink** | Hospital pharmacy practice, policy updates, medication safety, compounding standards | [🔗 Website](https://www.ashp.org) |
-| **NCPA Digest / America’s Pharmacist** | Independent pharmacy business, legislative updates, practice management | [🔗 Website](https://ncpa.org) |
+| **NCPA Digest / America's Pharmacist** | Independent pharmacy business, legislative updates, practice management | [🔗 Website](https://ncpa.org) |
 
 #### Trade Journals
 
@@ -234,7 +234,7 @@ Authoritative, clinician‑grade drug compendia providing structured monographs,
 | **AHFS Clinical Drug Information (AHFS-DI)** | Comprehensive, evidence‑based drug monographs published by ASHP annually; highly trusted in hospitals and health‑systems; Includes **off-label** indications | [🔗 Website](https://www.ashp.org/products-and-services/ahfs-drug-information) |
 | **Prescribers' Digital Reference (PDR)** | Electronic version of the classic PDR; contains FDA‑approved labeling, manufacturer‑provided drug information, dosage instructions, among other details | [🔗 Website](https://www.pdr.net/) |
 | **Drug Facts & Comparisons (DFC)** | Known for its comparative OTC & prescription drug tables; excellent for evaluating therapeutic alternatives within a drug class | [🔗 Website](https://www.wolterskluwer.com/en/solutions/uptodate/enterprise/lexidrug-facts-and-comparisons) |
-| **Handbook on Injectable Drugs (Trissel’s)** | Gold‑standard reference for IV preparation, storage, compatibility, administration, stability, and compounding of injectable medications | [🔗 Website](https://publications.ashp.org/doi/book/10.37573/9781585286850) |
+| **Handbook on Injectable Drugs (Trissel's)** | Gold‑standard reference for IV preparation, storage, compatibility, administration, stability, and compounding of injectable medications | [🔗 Website](https://publications.ashp.org/doi/book/10.37573/9781585286850) |
 | **Approved Drug Products with Therapeutic Equivalence Evaluations (Orange Book)** | FDA resource listing therapeutic equivalence ratings (A/B codes) for generic substitution; A is Equivalent, B is Nonequivalent | [🔗 Website](https://www.accessdata.fda.gov/scripts/cder/ob/) |
 | **Drug Information Handbook** | Quick‑reference clinical monographs commonly used in community and institutional settings (Lexicomp); treatment guides & therapy recommendations | [🔗 Website](https://www.wolterskluwer.com/en/solutions/lexicomp) |
 | **Handbook of Nonprescription Drugs** | Comprehensive reference for OTC products, counseling, self‑care, complementary therapies, non-drug measures, treatment algorithms, and patient assessment/ triage (APhA); identifies active ingredients & common side effects | [🔗 Website](https://www.pharmacist.com/Publications/Handbook-of-Nonprescription-Drugs) |
@@ -247,7 +247,7 @@ Enterprise‑level, subscription‑based clinical databases offering comprehensi
 
 | Product | Description | Link |
 | --- | --- | --- |
-| **Lexicomp Online / Wolters Kluwer Clinical Drug Information** | A widely used clinical database featuring detailed drug monographs, interaction analysis, renal/hepatic dosing adjustments, pediatric dosing, off‑label uses, and patient education sheets. Includes **Trissel’s IV Compatibility**, calculators, and clinical decision support tools. Known for its clean interface and strong outpatient + inpatient utility. | [🔗 Website](https://www.wolterskluwer.com/en/solutions/lexicomp) |
+| **Lexicomp Online / Wolters Kluwer Clinical Drug Information** | A widely used clinical database featuring detailed drug monographs, interaction analysis, renal/hepatic dosing adjustments, pediatric dosing, off‑label uses, and patient education sheets. Includes **Trissel's IV Compatibility**, calculators, and clinical decision support tools. Known for its clean interface and strong outpatient + inpatient utility. | [🔗 Website](https://www.wolterskluwer.com/en/solutions/lexicomp) |
 | **Micromedex Solutions** | A hospital‑focused, evidence‑graded drug information suite. Includes **DRUGDEX** (clinical monographs), **POISINDEX** (toxicology), **IDENTIDEX** (pill ID), **IV Compatibility**, **NeoFax/Pediatrics**, **REDBOOK Online** (drug pricing & product availability), and **Reproductive Effects** (pregnancy/lactation risk data). Highly valued in emergency medicine, critical care, and toxicology. Considered the “gold standard” for hospital drug databases. | [🔗 Website](https://www.micromedexsolutions.com/home/dispatch/) |
 | **Clinical Pharmacology** | **Accepted by all 50 state boards**; A comprehensive drug information system used across retail, specialty, and hospital settings. Features monographs, interaction checkers, adverse effect databases, product identification, and clinical decision support. Known for its strong **drug comparison tools**, **formulary integration**, and **FDA‑linked updates**. | [🔗 Website](https://www.clinicalpharmacology.com/) |
 
@@ -276,7 +276,7 @@ Resources in this category support compliance with federal regulations, medicati
 | **USP SDS Online** | Safety Data Sheets for hazardous drugs and chemicals | [🔗 Website](https://www.uspmsds.com/) |
 | **FDA Regulatory Information** | Federal guidance on drug approval, labeling, recalls, manufacturing standards, and post‑marketing safety requirements. | [🔗 Website](https://www.fda.gov/regulatory-information) |
 | **Institute for Safe Medication Practices (ISMP)** | Medication safety alerts, error‑prevention strategies, best practices | [🔗 Website](https://www.ismp.org/) |
-| **FDA MedWatch** | FDA’s official safety reporting system for adverse drug events, product problems, medication errors, and device issues; includes safety alerts and recall notices. | [🔗 Website](https://www.fda.gov/safety/medwatch-fda-safety-information-and-adverse-event-reporting-program) |
+| **FDA MedWatch** | FDA's official safety reporting system for adverse drug events, product problems, medication errors, and device issues; includes safety alerts and recall notices. | [🔗 Website](https://www.fda.gov/safety/medwatch-fda-safety-information-and-adverse-event-reporting-program) |
 | **VAERS (Vaccine Adverse Event Reporting System)** | National system for reporting adverse events following vaccination; jointly managed by CDC and FDA; supports vaccine‑safety monitoring. | [🔗 Website](https://vaers.hhs.gov/) |
 | **USP (U.S. Pharmacopeia)** | Scientific nonprofit that sets enforceable quality standards for medicines, dietary supplements, and ingredients; publishes USP–NF and compounding standards. | [🔗 Website](https://www.usp.org/) |
 | **USP–NF (United States Pharmacopeia–National Formulary)** | The official compendium of pharmacopeial standards in the United States. USP–NF sets legally enforceable quality standards for the **identity, strength, purity, packaging, and labeling** of medicines, excipients, and compounded preparations. Chapters **<1> through <999>** are enforceable by the FDA. Used in manufacturing, compounding, and quality assurance across all pharmacy settings. | [🔗 Website](https://www.uspnf.com/) |

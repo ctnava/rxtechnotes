@@ -46,7 +46,7 @@ Pharmacy technicians may:
   - Automated refill systems
 - 📞 Provide **non-clinical status updates**:
   - “Your prescription is ready for pickup.”
-  - “We’re waiting on a response from your doctor.”
+  - “We're waiting on a response from your doctor.”
 - ⌚ Confirm store hours, services, or refill options via app or web portal
 - 🖊️ Call **prescribers** to request refills or clarify non-clinical information
 - 🤝 Transfer calls to the **pharmacist** as needed

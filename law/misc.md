@@ -48,7 +48,7 @@ RCRA governs how pharmacies identify, store, and dispose of **hazardous waste**,
 
 📖 **EPA Healthcare-Specific Rule (2019)**
 
-The EPA’s *Management Standards for Hazardous Waste Pharmaceuticals* created streamlined requirements for healthcare facilities, including pharmacies:
+The EPA's *Management Standards for Hazardous Waste Pharmaceuticals* created streamlined requirements for healthcare facilities, including pharmacies:
 
 - Simplifies hazardous waste handling in healthcare settings.
 - Removes **nicotine** replacement therapies (patches, gums, lozenges) from the P075 hazardous waste listing.

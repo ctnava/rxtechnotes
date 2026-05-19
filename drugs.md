@@ -34,9 +34,9 @@ They organize drugs for clinical reference, education, and prescribing.
 
 `A *stem* is a **naming tool** built into the generic name itself to tie a drug to a class.`
 
-Stems are **specific syllables** placed at the beginning, middle, or end of a **generic drug name** to signal something about the drug’s **mechanism, structure, or family**.
+Stems are **specific syllables** placed at the beginning, middle, or end of a **generic drug name** to signal something about the drug's **mechanism, structure, or family**.
 
-They help clinicians instantly recognize what type of drug they’re dealing with.
+They help clinicians instantly recognize what type of drug they're dealing with.
 
 **Examples**:
 

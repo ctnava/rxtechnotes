@@ -1,6 +1,6 @@
 # 🛠️ SOP - Prescription Refill & Renewal Requests
 
-Each prescription is assigned a **prescription number**, which stays the same for all refills. The number of authorized refills is written by the prescriber and usually printed on the **prescription label**. If a doctor authorizes multiple refills (often written as ‘Refills: 3’, ‘Refills: PRN’, or ‘Refills: Infinite’), they are valid for **up to 1 year** from the date the prescription was written, **except for controlled substances**, which have stricter limits.
+Each prescription is assigned a **prescription number**, which stays the same for all refills. The number of authorized refills is written by the prescriber and usually printed on the **prescription label**. If a doctor authorizes multiple refills (often written as ‘Refills: 3', ‘Refills: PRN', or ‘Refills: Infinite'), they are valid for **up to 1 year** from the date the prescription was written, **except for controlled substances**, which have stricter limits.
 
 | Drug Type | Refill Limit | Validity |
 | ----------- | --------------- | ---------- |
@@ -14,7 +14,7 @@ Each prescription is assigned a **prescription number**, which stays the same fo
 
 Routine refills follow the **same workflow as the original fill**, but with key differences is that the prescription has already been entered, verified, and dispensed at least once.
 
-The technician’s role is to ensure the refill is **legally eligible**, **appropriate**, **accurately processed** before preparing the next fill.
+The technician's role is to ensure the refill is **legally eligible**, **appropriate**, **accurately processed** before preparing the next fill.
 
 ### ✅ 1. Verify Refill Eligibility
 
@@ -28,7 +28,7 @@ Before processing any refill request:
   - Schedule III–V: valid **6 months** from issue date  
   - Schedule II: **not refillable**
 
-> 📝 *A refill is only valid if both the refill count and the prescription’s time window are active.*
+> 📝 *A refill is only valid if both the refill count and the prescription's time window are active.*
 
 ### 📅 2. Assess Timing & Insurance Requirements
 
@@ -44,7 +44,7 @@ Most insurance plans follow “**75–80% consumption**” rules:
 If a claim rejects:
 
 - Review the rejection message  
-- Correct any data-entry issues (e.g., days’ supply)  
+- Correct any data-entry issues (e.g., days' supply)  
 - Notify the pharmacist if clinical review is needed  
 - Communicate clearly with the patient about next steps
 
@@ -53,7 +53,7 @@ If a claim rejects:
 Once eligibility is confirmed:
 
 - Adjudicate the next fill using the **same prescription number**
-- Ensure the **days’ supply**, **quantity**, and **SIG** match the original order
+- Ensure the **days' supply**, **quantity**, and **SIG** match the original order
 - Deduct from the **authorized refill count** automatically tracked by the system
 - Verify:
   - Correct NDC selection  
@@ -81,9 +81,9 @@ Technicians must escalate to a pharmacist if:
 - The medication has **narrow therapeutic index** considerations  
 - The refill request appears inconsistent with expected use  
 - The patient reports **lost/stolen** controlled substances  
-- The days’ supply appears incorrect or inconsistent with the SIG
+- The days' supply appears incorrect or inconsistent with the SIG
 
-Incorrect days’ supply or inappropriate refills can lead to:
+Incorrect days' supply or inappropriate refills can lead to:
 
 - **Audit findings**
 - **Reversal of payment**
@@ -91,7 +91,7 @@ Incorrect days’ supply or inappropriate refills can lead to:
 
 ## 📝 Prescription Renewal Requests (New Rx Requests)
 
-When a prescription has no refills, is expired, or there is an insufficient authorized quantity remaining, the technician is requesting a new prescription, not a ‘refill’ in the legal sense.
+When a prescription has no refills, is expired, or there is an insufficient authorized quantity remaining, the technician is requesting a new prescription, not a ‘refill' in the legal sense.
 
 > ⚠️ **DISCLAIMER**: In **inpatient** or **institutional** settings, refill protocols may differ.
 
@@ -110,7 +110,7 @@ When a prescription has no refills, is expired, or there is an insufficient auth
 
 ### 1. Gather Required Information
 
-- 😀 Patient’s full name & date of birth | To Identify the Patient
+- 😀 Patient's full name & date of birth | To Identify the Patient
 - 💊 Medication name, strength, & quantity | To Identify Prescription
 - 🔢 Prescription number | (from the last fill, if needed for reference)
 - 📅 Last fill date | To Verify Eligibility
@@ -124,13 +124,13 @@ When a prescription has no refills, is expired, or there is an insufficient auth
 ### 3. Make the Call
 
 - Use the following script:
-    > “Hello, this is **[Your Name]** calling from **[Pharmacy Name]**. I’m calling to request a medication refill for a patient.”
+    > “Hello, this is **[Your Name]** calling from **[Pharmacy Name]**. I'm calling to request a medication refill for a patient.”
 - Then provide the following details:
   - “Last name: [Patient Last Name], Date of birth: [DOB]”
   - “Medication: [Drug Name, Strength], Quantity: [##]”
   - “Last filled on: [MM/DD/YYYY]”
   - State urgency (if applicable):  
-      > “This is the patient’s emergency heart medication (Nitrostat), and they are on their last dose.”
+      > “This is the patient's emergency heart medication (Nitrostat), and they are on their last dose.”
 
 ### 4. Provide Pharmacy Contact Information
 
@@ -147,7 +147,7 @@ Record the following:
 
 ### 6. Voicemail Protocol
 
-- Leave voicemail **only** if the number is verified as a provider’s permanent line
+- Leave voicemail **only** if the number is verified as a provider's permanent line
   - Include all necessary information outlined above
 - If line is **not verified**, only leave your name, pharmacy name, and callback information
 - Document the time, date, and message status (e.g. “left voicemail at 11:55AM on 05/17/2025”)

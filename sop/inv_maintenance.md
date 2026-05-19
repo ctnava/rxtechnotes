@@ -1,6 +1,6 @@
 # 🧹 Inventory Maintenance, Returns, & Waste Management
 
-Effective inventory maintenance is essential to keeping the pharmacy safe, compliant, and operational. This section outlines how technicians **identify and remove unusable medications**, manage **waste and protected health information**, and process **returns and reverse distribution** with accuracy and regulatory awareness. You’ll learn how to recognize **damaged, expired, recalled, or discontinued stock**, how to properly **quarantine and document** ineligible items, and how to navigate **return credits, DSCSA requirements, and controlled‑substance destruction**. Mastering these practices ensures clean workflows, prevents diversion, supports environmental responsibility, and protects both patients and the pharmacy from avoidable risk.
+Effective inventory maintenance is essential to keeping the pharmacy safe, compliant, and operational. This section outlines how technicians **identify and remove unusable medications**, manage **waste and protected health information**, and process **returns and reverse distribution** with accuracy and regulatory awareness. You'll learn how to recognize **damaged, expired, recalled, or discontinued stock**, how to properly **quarantine and document** ineligible items, and how to navigate **return credits, DSCSA requirements, and controlled‑substance destruction**. Mastering these practices ensures clean workflows, prevents diversion, supports environmental responsibility, and protects both patients and the pharmacy from avoidable risk.
 
 ## ⏰ Routine Inspections
 

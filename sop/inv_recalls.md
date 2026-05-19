@@ -10,7 +10,7 @@ This SOP applies to all pharmacy personnel involved in inventory management, dis
 
 ## 3. Definitions
 
-**MedWatch:** FDA’s adverse event and product problem reporting system.
+**MedWatch:** FDA's adverse event and product problem reporting system.
 
 **VAERS:** Vaccine Adverse Event Reporting System.
 

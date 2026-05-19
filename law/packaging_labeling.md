@@ -8,9 +8,9 @@ Under the FPLA, drug packaging must include:
 
 - The name and place of business of the manufacturer, packer, or distributor
 - An accurate statement of the quantity of the contents (by weight, measure, or count)
-- A clear declaration of the product’s identity and intended use
+- A clear declaration of the product's identity and intended use
 
-These requirements complement the FDA’s misbranding and labeling rules under the FDCA and ensure consumers receive consistent and honest information, regardless of brand.
+These requirements complement the FDA's misbranding and labeling rules under the FDCA and ensure consumers receive consistent and honest information, regardless of brand.
 
 > 📌 The FPLA helps prevent misbranding by requiring clarity and standardization in labeling. Technicians must ensure that OTC products and bulk containers are correctly labeled before stocking shelves or filling orders.
 

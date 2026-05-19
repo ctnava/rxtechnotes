@@ -187,7 +187,7 @@ Unit dosing is standard in hospitals because it:
 
 Some medications **cannot** be repackaged into unit doses due to stability, device design, or manufacturer requirements.
 
-These items are dispensed **once per patient** and reused throughout the patient’s stay or refill cycle.
+These items are dispensed **once per patient** and reused throughout the patient's stay or refill cycle.
 
 Examples include:
 
@@ -224,7 +224,7 @@ These packages are dispensed **as‑is** without repackaging
 
 Efficient provisioning and intake form the backbone of safe, reliable pharmacy operations. This section outlines **how medications enter the pharmacy**, from sourcing and ordering to receiving, verifying, and storing stock. Technicians play a critical role in maintaining accuracy, preventing diversion, and ensuring that every product—from fast‑moving generics to high‑cost specialty drugs—flows smoothly through the supply chain.
 
-You’ll learn:
+You'll learn:
 
 - Where pharmacies obtain medications and how wholesalers, suppliers, and GPOs shape pricing and availability  
 - How daily orders are created, transmitted, and confirmed  
@@ -242,7 +242,7 @@ Link to 🔗 [**Standard Operating Procedures**](./inv_intake.md)
 
 Effective inventory maintenance, returns, and waste management ensure that pharmacies remain **safe**, **compliant**, and **operationally efficient**. This section explains how technicians identify and remove **expired, damaged, recalled, or discontinued medications**, manage **waste and PHI**, and process **returns and reverse distribution** in accordance with federal and state regulations. Technicians play a vital role in preventing errors, diversion, and environmental harm by maintaining clean storage areas, documenting all removed stock, and following strict procedures for controlled substances and hazardous waste.
 
-You’ll learn:
+You'll learn:
 
 - How to identify **ineligible medications** and properly quarantine, label, and document them  
 - How to manage **waste streams**, including PHI, recyclables, and non‑returnable medications  
@@ -260,7 +260,7 @@ Link to 🔗 [**Standard Operating Procedures**](./inv_maintenance.md)
 
 Product recalls protect patients from medications or devices that may be **unsafe**, **defective**, **misbranded**, or **contaminated**. Technicians play a critical role in ensuring that recalled products are identified quickly, removed from circulation, and handled according to FDA and manufacturer requirements. Effective recall management prevents patient harm, reduces liability, and maintains regulatory compliance.
 
-You’ll learn:
+You'll learn:
 
 - How to recognize and verify **recall notices** from FDA, wholesalers, and manufacturers  
 - How to identify **affected NDCs, lots, and expiration dates** in pharmacy inventory  

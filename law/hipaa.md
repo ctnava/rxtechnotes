@@ -49,11 +49,11 @@ PHI may exist in several formats:
 
 #### Medical Records
 
-**Medical records** (also referred to as **health records**) are chronological, detailed accounts of a patient’s medical history, diagnoses, treatments, and clinical encounters. These records are critical to ensuring **continuity of care**, allowing providers to make well-informed and personalized medical decisions.
+**Medical records** (also referred to as **health records**) are chronological, detailed accounts of a patient's medical history, diagnoses, treatments, and clinical encounters. These records are critical to ensuring **continuity of care**, allowing providers to make well-informed and personalized medical decisions.
 
 ##### Commonly Recorded Contents
 
-Medical records are structured to document a patient’s care, treatment, and history in a consistent and accessible manner. The following components are commonly included across various healthcare settings:
+Medical records are structured to document a patient's care, treatment, and history in a consistent and accessible manner. The following components are commonly included across various healthcare settings:
 
 🔑 **Patient Demographics**
 Non-clinical identifiers used for administrative and care coordination purposes. Includes:
@@ -82,7 +82,7 @@ List of known allergies or intolerances to drugs, food, or environmental substan
 Comprehensive record of past and ongoing health concerns, both patient-reported and provider-documented. Includes:
 
 - **Chief Complaint (CC)**:  
-  - Brief statement of the patient’s main concern in their own words  
+  - Brief statement of the patient's main concern in their own words  
 - **History of Present Illness (HPI)**:  
   - Narrative of the current issue including onset, duration, severity, modifying factors, and context  
 - **Medication History**:  
@@ -188,7 +188,7 @@ These apply to any electronic system that stores or transmits PHI:
 - **Access Controls**:  
   - Systems must limit access to authorized personnel only  
   - Each user is given **unique login credentials** (username and password)  
-  - Access is limited based on the user’s job function (e.g. technician vs pharmacist)  
+  - Access is limited based on the user's job function (e.g. technician vs pharmacist)  
     - 📌 **Role-Based Access** is mandatory under HIPAA: Staff should only have access to the **minimum necessary** PHI required to perform their assigned duties.
 
 - **Encryption**:  
@@ -245,7 +245,7 @@ Pharmacies must:
 
 - Sharing PHI (e.g. with spouses and relatives) without **active approval** from the patient
 - Discussing PHI in public areas (i.e. **gossip**)
-- Accessing a patient’s chart without a valid reason
+- Accessing a patient's chart without a valid reason
 - Disposing of printed PHI in regular trash
 - Failing to encrypt portable devices
 

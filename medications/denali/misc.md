@@ -1,19 +1,19 @@
 # 🧩 Miscellaneous
 
-## 🧠 Alzheimer’s Disease
+## 🧠 Alzheimer's Disease
 
 | Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
 | ------------ | -------------- | ------------------ | ------- | ------------ | ------------------ |
-| Aricept | Donepezil | "Ari remembers" | Acetylcholinesterase inhibitor | Alzheimer’s | Aricept = accept memory |
-| Namenda | Memantine | "Memory mender" | NMDA antagonist | Alzheimer’s | Na-mend-a = mend memory |
+| Aricept | Donepezil | "Ari remembers" | Acetylcholinesterase inhibitor | Alzheimer's | Aricept = accept memory |
+| Namenda | Memantine | "Memory mender" | NMDA antagonist | Alzheimer's | Na-mend-a = mend memory |
 
-## 🧠 Parkinson’s Disease
+## 🧠 Parkinson's Disease
 
 | Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
 | ------------ | -------------- | ------------------ | ------- | ------------ | ------------------ |
-| Cogentin | Benztropine | "Cognitive + gentler tremors" | Anticholinergic | Parkinson’s | Cogentin = cognition + gentler tremors |
-| Mirapex | Pramipexole | **anti-tremor**; "Miracle for motor" | Dopamine agonist | Parkinson’s | Mira = miracle for movement |
-| Requip | Ropinirole | "Re-quip motor skills" | Dopamine agonist | Parkinson’s | Re-equip = restore movement |
+| Cogentin | Benztropine | "Cognitive + gentler tremors" | Anticholinergic | Parkinson's | Cogentin = cognition + gentler tremors |
+| Mirapex | Pramipexole | **anti-tremor**; "Miracle for motor" | Dopamine agonist | Parkinson's | Mira = miracle for movement |
+| Requip | Ropinirole | "Re-quip motor skills" | Dopamine agonist | Parkinson's | Re-equip = restore movement |
 
 ## 💊 Supplements
 

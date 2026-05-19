@@ -7,8 +7,8 @@
   - **Epilepsy**: Characterized by chronic, recurrent seizures.
   - **Bipolar Disorder**: Mood disorder with alternating episodes of mania and depression.
   - **Depression**: Affective disorder characterized by persistent low mood and anhedonia.
-  - **Alzheimer’s Disease**: Progressive neurodegenerative dementia with cognitive decline. May also involve peripheral nervous system markers.
-  - **Parkinson’s Disease**: Progressive neuromuscular degeneration with motor symptoms such as tremors and rigidity. Involves dopamine deficiency and may affect peripheral pathways.
+  - **Alzheimer's Disease**: Progressive neurodegenerative dementia with cognitive decline. May also involve peripheral nervous system markers.
+  - **Parkinson's Disease**: Progressive neuromuscular degeneration with motor symptoms such as tremors and rigidity. Involves dopamine deficiency and may affect peripheral pathways.
 
 ## 🌡️ Fevers & Pain
 
@@ -51,8 +51,8 @@
 
 - **Corticosteroids**: Synthetic or natural hormones from adrenal cortex; suppress inflammation and immune response (e.g., prednisone).
 - **Thyroid Disorders**:
-  - **Hyperthyroidism**: Overproduction of thyroid hormones (e.g., Graves’ disease).
-  - **Hypothyroidism**: **Underproduction** of thyroid hormones (e.g., Hashimoto’s thyroiditis).
+  - **Hyperthyroidism**: Overproduction of thyroid hormones (e.g., Graves' disease).
+  - **Hypothyroidism**: **Underproduction** of thyroid hormones (e.g., Hashimoto's thyroiditis).
 - **Diabetes Mellitus**: Metabolic disorder involving improper insulin production or use.
   - **Insulin**: Pancreatic hormone that regulates blood glucose.
 

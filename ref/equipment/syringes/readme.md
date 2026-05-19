@@ -88,7 +88,7 @@ The barrel assembly is the main body of the syringe and contains the medication.
 - **Barrel**: Clear plastic reservoir with printed *graduation marks*.
   - **Graduation (or "Volume") Marks**  
     - The **first printed line** (closest to the tip) represents **zero**.  
-    - The **last printed line** represents the syringe’s **maximum capacity**.  
+    - The **last printed line** represents the syringe's **maximum capacity**.  
     - Accuracy depends on syringe size (smaller syringes = finer increments).
 - **Rubber Stopper:** Creates a seal inside the barrel.  
   - **Top Ring (Leading Edge):** Used for measurement.  
@@ -174,7 +174,7 @@ This syringe contains 1.7mL of liquid.
 If a dose falls between two lines:
 
 - Round **to the nearest measurable increment**  
-- Never estimate beyond the syringe’s precision  
+- Never estimate beyond the syringe's precision  
 - Select a smaller syringe if accuracy is critical (e.g., pediatric doses)
 
 #### Understanding Uncertainty

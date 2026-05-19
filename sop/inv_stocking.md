@@ -11,7 +11,7 @@ A **repackaging log** must be maintained (per state law) to track:
 - Manufacturer  
 - Lot number  
 - Expiration date
-  - Many states follow USP guidelines requiring either the manufacturer’s original expiration date **or** a date **no more than 12 months** after repackaging.
+  - Many states follow USP guidelines requiring either the manufacturer's original expiration date **or** a date **no more than 12 months** after repackaging.
 - Quantity repackaged
 
 > 🛡️ Some medications are **light‑sensitive** and require amber or opaque packaging (information found in the package insert)

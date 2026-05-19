@@ -10,7 +10,7 @@ Pharmacy Calculations, 6e; Morton Publishing | Chapter 24
 
 Parenteral dosage calculations are used to determine **how much volume to withdraw** from a vial to administer the **correct dose** of medication via IV, IM, or SC injection.
 
-The **manufacturer’s label** provides essential information:
+The **manufacturer's label** provides essential information:
 
 - Drug name and total quantity
 - Volume (if liquid)

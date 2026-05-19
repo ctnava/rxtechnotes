@@ -33,7 +33,7 @@ Central Supply is a **non‑pharmacy department** responsible for stocking and d
 
 ### Inpatient Pharmacies
 
-An **Inpatient Pharmacy** is a pharmacy located inside a hospital that provides medications exclusively for **admitted patients** and the hospital’s clinical departments.
+An **Inpatient Pharmacy** is a pharmacy located inside a hospital that provides medications exclusively for **admitted patients** and the hospital's clinical departments.
 
 Hospital pharmacies must coordinate with many areas across the facility. Understanding the difference between **auxiliary units** and **ancillary departments** is essential for navigating workflow, deliveries, and communication.
 
@@ -98,7 +98,7 @@ Examples of auxiliary units include:
 | PACU | Post‑Anesthesia Care Unit | Same as PAR |
 | PEDS | Pediatrics | Inpatient care for children |
 
-The **nurses’ station** is the central hub of each auxiliary unit.
+The **nurses' station** is the central hub of each auxiliary unit.
 
 - Primary communication center for the unit  
 - Stores medication bins, charts, and supplies  
@@ -348,7 +348,7 @@ Pharmacists are responsible for **providing accurate drug information** to other
 
 These references can be accessed through:
 
-- The hospital’s EHR or intranet
+- The hospital's EHR or intranet
 - Mobile devices
 - Dedicated workstations
 
@@ -408,7 +408,7 @@ Emergency codes are a critical component of hospital safety infrastructure. They
 | **Gray** | Need for Security |
 | **Silver** | Active Shooter |
 
-> 📌 Staff must know their hospital’s exact code definitions and response expectations.
+> 📌 Staff must know their hospital's exact code definitions and response expectations.
 
 ---
 

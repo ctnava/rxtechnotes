@@ -106,7 +106,7 @@ Technicians are responsible for flagging suspicious prescriptions before process
 - **Tampering**: Erasures, overwriting, altered or unusual quantities/directions/ combinations
 - **Theft**: Stolen or mismatched prescription pads
 - **Mismatch**: Inconsistent handwriting or ink color
-- **Inappropriate Scope**: Prescriptions outside prescriber’s scope  
+- **Inappropriate Scope**: Prescriptions outside prescriber's scope  
   - 🔗 See **Prescriptive Authority Quick Reference** (`../ref/prescribers.md`)
 - 🔐 Missing or invalid DEA number
   - ⚠️ Always ensure valid DEA numbers on prescriptions for controlled substances
@@ -147,10 +147,10 @@ When prescriptions are entered, they are automatically checked by pharmacy softw
 
 ### Patient & Insurance Information
 
-- **Cardholder/Member ID**: Unique ID number for the patient’s insurance cardholder/member.
+- **Cardholder/Member ID**: Unique ID number for the patient's insurance cardholder/member.
 - **Group Number/ RXGROUP**: The group number associated with the patient's insurance plan.
 - **Patient Identifiers**: Patient Name, Birth Date, Sex
-- **Relationship Code**: The patient’s relationship to the cardholder (e.g., C=cardholder, S=spouse, D=dependent, O=other).
+- **Relationship Code**: The patient's relationship to the cardholder (e.g., C=cardholder, S=spouse, D=dependent, O=other).
 
 ### Prescription Data
 
@@ -169,7 +169,7 @@ When prescriptions are entered, they are automatically checked by pharmacy softw
 
 ### Pricing Information
 
-- **Ingredient Cost**: The cost of the medication’s active ingredients.
+- **Ingredient Cost**: The cost of the medication's active ingredients.
 - **Dispensing Fee**: The fee charged by the pharmacy for dispensing the medication.
 - **Total Price**: Total amount charged for the prescription (ingredient cost + dispensing fee).
 - **Copay/Deductible**: The portion of the cost the patient is responsible for, based on their plan.
@@ -233,10 +233,10 @@ Pharmacy technicians may assist the pharmacist with the following PA tasks:
    - Pharmacist must confirm if a PA is appropriate or if a formulary alternative is preferred.
 3. **Assist with documentation**
    - Gather relevant prescription data, insurance info, and rejection messages.
-   - Help collect clinical data (e.g., diagnosis, trial history) from prescriber’s office.
+   - Help collect clinical data (e.g., diagnosis, trial history) from prescriber's office.
 4. **Submit PA request**
    - May use electronic PA (ePA) tools, insurer web portals, or fax forms (under pharmacist supervision).
-   - Track submission and document status in the patient’s profile.
+   - Track submission and document status in the patient's profile.
 5. **Inform the patient**
    - Set clear expectations: PA approval typically takes **1–3 business days**.
    - Encourage follow-up with the prescriber for urgent requests.
@@ -271,7 +271,7 @@ Pharmacy technicians commonly access PBM portals to:
 
 ## 🐻 Special Considerations (California)
 
-- **CURES Reporting** (CA’s PDMP): All Schedule II–IV drugs must be reported to CURES within 1 business day of dispensing. Pharmacists are required to consult CURES before issuing or filling most Schedule II–IV prescriptions.
+- **CURES Reporting** (CA's PDMP): All Schedule II–IV drugs must be reported to CURES within 1 business day of dispensing. Pharmacists are required to consult CURES before issuing or filling most Schedule II–IV prescriptions.
   - 🔗 [More Information on Controlled Substances](../law/csa_cmea.md)
 - **Medi-Cal Claims**: May require **Treatment Authorization Requests (TARs)** and submission of **diagnosis codes**.
 - **Technician Documentation**: Technicians must document actions in accordance with facility SOPs (e.g., initials on data entry logs, audit trails, or EMR time-stamped entries).

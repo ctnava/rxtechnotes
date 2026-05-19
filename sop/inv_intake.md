@@ -61,7 +61,7 @@ Pharmacies generate daily medication orders using several methods, depending on 
 
 - **Order entry devices** (handheld scanners, automated cabinets, or dedicated terminals)  
 - **Electronic wholesaler portals or websites**  
-- **Direct interfaces with the pharmacy’s inventory management system**
+- **Direct interfaces with the pharmacy's inventory management system**
 
 > 🦅x🔐 `DEA Form 222` is required for ordering Schedule II drugs via [CSOS](https://www.deaecom.gov) by FDA & DEA registered entities.
 >

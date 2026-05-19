@@ -15,8 +15,8 @@ These reports help identify unusual or unexpected patterns of **adverse events f
 
 VAERS was designed to streamline and enhance earlier systems:
 
-- **CDC’s Monitoring System for Adverse Events Following Immunization (MSAEFI)**  
-- **FDA’s Spontaneous Reporting System**[^5]
+- **CDC's Monitoring System for Adverse Events Following Immunization (MSAEFI)**  
+- **FDA's Spontaneous Reporting System**[^5]
 
 Both systems supported the **National Childhood Vaccine Injury Act (NCVIA) of 1986**, which mandates that HCPs and vaccine manufacturers report vaccine-related adverse events[^4]. By consolidating these programs, VAERS:
 
@@ -34,7 +34,7 @@ Despite its importance, VAERS has several inherent limitations:
 
 ## Role of Pharmacy Professionals
 
-Pharmacists and other HCPs are required under **NCVIA** to report any **known or suspected adverse vaccine reactions**. Pharmacy technicians may be tasked with filing these reports on a pharmacist’s behalf[^5].
+Pharmacists and other HCPs are required under **NCVIA** to report any **known or suspected adverse vaccine reactions**. Pharmacy technicians may be tasked with filing these reports on a pharmacist's behalf[^5].
 
 ### Reporting Process
 

@@ -56,7 +56,7 @@ Insurance plans and third-party payers often reimburse based on the lowest of:
 - Acquisition Cost + dispensing fee
 - U&C (cash price)
 
-> 🚨 **Important**: If your pharmacy’s U&C price is **lower** than AWP-based reimbursement, **you get paid the U&C price**. Setting your U&C too low **reduces revenue**.
+> 🚨 **Important**: If your pharmacy's U&C price is **lower** than AWP-based reimbursement, **you get paid the U&C price**. Setting your U&C too low **reduces revenue**.
 
 ### 📊 Example: Determining the U&C Selling Price
 

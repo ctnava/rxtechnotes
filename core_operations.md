@@ -59,7 +59,7 @@ Federal and state law divide drugs into major categories based on how they may b
 Prescription-only medications authorized under the **Durham-Humphrey Amendment (1951)**. These drugs:
 
 - Must be dispensed **only** on the **written, electronic, or verbal order** of a licensed prescriber.
-- Require the **federal legend** on the manufacturer’s label:
+- Require the **federal legend** on the manufacturer's label:
   > "Caution: Federal law prohibits dispensing without a prescription"  
   or  
   > "Rx Only"
@@ -88,14 +88,14 @@ Medications that may be sold without a prescription as long as they are:
 
 Examples: `Acetaminophen, ibuprofen, diphenhydramine, loratadine`
 
-**OTC drugs are not inherently safe** just because they don’t require a prescription. Many OTC medications can cause significant drug interactions, adverse effects, or even life-threatening complications; especially when combined with prescription drugs or taken incorrectly.
+**OTC drugs are not inherently safe** just because they don't require a prescription. Many OTC medications can cause significant drug interactions, adverse effects, or even life-threatening complications; especially when combined with prescription drugs or taken incorrectly.
 
 > 📌 OTC medications do not require a prescription but sometimes they are written for them.
 
-When performing **medication reconciliation** (the process of gathering a patient’s full medication history), pharmacy technicians must:
+When performing **medication reconciliation** (the process of gathering a patient's full medication history), pharmacy technicians must:
 
 - **Ask about all OTC medications**, supplements, and herbal products
-- **Document** them in the patient’s profile
+- **Document** them in the patient's profile
 - **Refer patients to the pharmacist** for counseling if any concerns arise
 
 > 📌 Technicians may direct customers to a product but should involve the pharmacist when making recommendations
@@ -217,7 +217,7 @@ Technicians may **not**:
 - Help patients choose between different OTC products  
 - Interpret symptoms or provide therapeutic guidance  
 
-Any question that could influence a patient’s decision to use, avoid, or select an OTC product, especially one containing pseudoephedrine or other listed chemicals, must be handled by a **licensed pharmacist**.
+Any question that could influence a patient's decision to use, avoid, or select an OTC product, especially one containing pseudoephedrine or other listed chemicals, must be handled by a **licensed pharmacist**.
 
 Link to 🔗 [**Standard Operating Procedure**](./sop/otc_sales.md)
 
@@ -231,7 +231,7 @@ Only a **pharmacist** may authorize and dispense an exempt narcotic. A technicia
 
 ## Prescription Processing
 
-**Prescription processing workflows are the *bread and butter* of pharmacy practice**; the essential, safety‑driven sequence that ensures every prescription is accurately received, clinically reviewed, filled, verified, and handed off to the correct patient. These workflows create structured checkpoints that protect against errors, support pharmacists’ clinical decision‑making, and keep daily operations running smoothly across community, outpatient, and institutional settings.
+**Prescription processing workflows are the *bread and butter* of pharmacy practice**; the essential, safety‑driven sequence that ensures every prescription is accurately received, clinically reviewed, filled, verified, and handed off to the correct patient. These workflows create structured checkpoints that protect against errors, support pharmacists' clinical decision‑making, and keep daily operations running smoothly across community, outpatient, and institutional settings.
 
 ```mermaid
 flowchart TD;
@@ -307,7 +307,7 @@ Link to 🔗 [**Standard Operating Procedures**](./sop/prescriptions.md)
 
 Effective inventory management ensures that pharmacies maintain the **right medications, in the right quantities, under the right conditions**, supporting safe, efficient, and compliant patient care. This section explains how inventory is structured, monitored, and controlled—from understanding formularies and stock behavior to using automated systems, unit‑dose packaging, and turnover metrics to guide purchasing and workflow. Technicians play a central role in maintaining accurate counts, preventing shortages or waste, and supporting systems that track every movement of medication across the pharmacy.
 
-You’ll learn:
+You'll learn:
 
 - How formularies, fast movers, and usage trends shape **community vs. institutional** inventory  
 - How **PAR levels, turnover rates, and automated systems** guide ordering and stock control  

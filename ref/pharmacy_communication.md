@@ -10,7 +10,7 @@ Effective communication is essential to patient safety and pharmacy operations. 
   - 🔗 [Further Information on HIPAA Compliance (required)](../law/hipaa.md)
 - 🚫 **Minimize distractions:** Avoid multitasking or interrupting conversations, especially when discussing medications or instructions.
 - 🕒 **Respect time constraints:** Recognize that patients may be in a hurry, frustrated, or distracted. Speak clearly and respectfully.
-- ⚠️ **De-escalate during delays:** If a prescription is delayed, explain what’s happening and why, and give a realistic timeframe.
+- ⚠️ **De-escalate during delays:** If a prescription is delayed, explain what's happening and why, and give a realistic timeframe.
 - 🛡️ **Best practice:** Use calm, professional language. Let patients know their concerns are valid and that you are actively working on a solution.
 - 📌 Tone of voice and body language matter just as much as words. Stay polite and attentive, especially in high-stress moments.
 
@@ -27,7 +27,7 @@ Effective communication is essential to patient safety and pharmacy operations. 
 **Best Practices**:
 
 - Speak clearly and professionally.
-- Use layman’s terms with patients and technical language with healthcare professionals.
+- Use layman's terms with patients and technical language with healthcare professionals.
 - Confirm understanding by summarizing or repeating back critical information.
 - Avoid slang, sarcasm, or jokes that could be misunderstood.
 - Remain calm and courteous under pressure.
@@ -85,10 +85,10 @@ Cultural competence includes understanding and adapting to:
 - 🔑 **Communication differences**  
   - Patients or caregivers may have limited English proficiency or low literacy levels.  
   - Health literacy specifically refers to the ability to understand and act on medical information.  
-  - Be prepared to adapt your language, tone, and pace. Use visuals or written materials in the patient’s preferred language when possible.  
+  - Be prepared to adapt your language, tone, and pace. Use visuals or written materials in the patient's preferred language when possible.  
   - Use professional interpreter services when needed; **do not** rely on family members to translate medical information.
 
-🛡️ **Best practice:** Avoid assumptions. Ask respectful questions to understand a patient’s needs, preferences, and beliefs. Be nonjudgmental and willing to listen.
+🛡️ **Best practice:** Avoid assumptions. Ask respectful questions to understand a patient's needs, preferences, and beliefs. Be nonjudgmental and willing to listen.
 
 ## Problem Resolution & Communication Channels
 
@@ -109,7 +109,7 @@ Whoever is directly interacting with the customer (pharmacy technician or pharma
 - The prescription has unclear or missing information
 - Insurance does not cover the drug
 
-🛡️ **Best practice:** Keep notes in the patient’s profile and notify the pharmacist promptly when issues involve legal, ethical, or clinical judgment.
+🛡️ **Best practice:** Keep notes in the patient's profile and notify the pharmacist promptly when issues involve legal, ethical, or clinical judgment.
 
 ---
 

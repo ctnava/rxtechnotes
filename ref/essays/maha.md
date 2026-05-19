@@ -7,7 +7,7 @@
 
 ## Introduction & Disclaimer
 
-In light of a recent executive order signed by US President Donald Trump, the Executive Office of the President of the United States published the article **“Keeping Education Accessible and Ending Covid-19 Vaccine Mandates in Schools”** on **February 13, 2025**, to relay the order’s contents.
+In light of a recent executive order signed by US President Donald Trump, the Executive Office of the President of the United States published the article **“Keeping Education Accessible and Ending Covid-19 Vaccine Mandates in Schools”** on **February 13, 2025**, to relay the order's contents.
 
 To justify the order, Trump et al. cite alarming trends including rising obesity, diabetes, mental illness, and autoimmune conditions. These are described as contributors to high healthcare costs and national security risks. While US government website content is currently subject to arbitrary change and security vulnerabilities, the document was available at the White House website as of **February 17, 2025**. The following summary reflects the contents available on that date.
 

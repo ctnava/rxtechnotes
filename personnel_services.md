@@ -32,7 +32,7 @@ Pharmacy technicians are **healthcare professionals** who assist pharmacists wit
 
 ### Pharmacist Interns
 
-Interns are pharmacy students enrolled in a PharmD program and working under a **pharmacist’s supervision**. They typically hold an **intern license**. Responsibilities include:
+Interns are pharmacy students enrolled in a PharmD program and working under a **pharmacist's supervision**. They typically hold an **intern license**. Responsibilities include:
 
 - **Patient Interaction**: Taking medication histories and verifying prescriptions
 - **Medication Prep**: Counting, packaging, and labeling prescriptions
@@ -81,7 +81,7 @@ Certain federal laws have established pharmacist responsibilities that directly 
 
 The **Omnibus Budget Reconciliation Act (OBRA-90, 1990)** was a major federal law affecting Medicaid prescription drug programs. It mandates that states receiving federal funds must require pharmacists to:
 
-- 📄 **Maintain Patient Medication Profiles**: Pharmacies must maintain records (on-site for a minimum of 2 years) of a patient’s medication history to support counseling and DUR obligations.
+- 📄 **Maintain Patient Medication Profiles**: Pharmacies must maintain records (on-site for a minimum of 2 years) of a patient's medication history to support counseling and DUR obligations.
 - 📋 **Conduct DURs**: Evaluate prescriptions to identify adverse effects, therapeutic duplication, drug–disease contraindications, incorrect dosage or duration, and drug–drug interactions.
 - 💬 **Offer Counseling to Medicaid Patients**: Pharmacists must “offer to counsel” Medicaid patients on:
   - Proper use of the medication

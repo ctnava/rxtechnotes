@@ -80,7 +80,7 @@ The **Joint Commission (TJC / J‑Co)** and the **Institute for Safe Medication 
   - Publicly accessible  
   - Used to identify national safety trends  
 
-- **Medication Error Reporting Program (MERP):** ISMP’s national reporting system.  
+- **Medication Error Reporting Program (MERP):** ISMP's national reporting system.  
   - Reports are analyzed by ISMP  
   - Shared with **NCCMERP**, which publishes recommendations and newsletters to prevent similar events across facilities  
 
@@ -265,7 +265,7 @@ The **final check** is performed and medication is prepared for release to the p
 
 Afterwards, the medication is actually given to the patient by a healthcare professional. Alternatively, the patient takes the medication as intended (or not).
 
-The patient’s response to therapy is also assessed to determine if adjustments are needed.
+The patient's response to therapy is also assessed to determine if adjustments are needed.
 
 - **Administration**
   - Wrong patient, drug, time, route, or dose

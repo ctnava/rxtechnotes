@@ -67,7 +67,7 @@ Key expectations include:
   Many pharmacies have strict rules regarding social media use, confidentiality, photography, and public statements. Violations can result in disciplinary action or termination.
 
 - **Assume Permanence**  
-  Deleted posts, private accounts, and disappearing stories can still be captured, shared, or subpoenaed. If you wouldn’t say it in front of your pharmacist‑in‑charge or the state board, don’t post it.
+  Deleted posts, private accounts, and disappearing stories can still be captured, shared, or subpoenaed. If you wouldn't say it in front of your pharmacist‑in‑charge or the state board, don't post it.
 
 [🔗 ASHP Statement on the Use of Social Media](https://publications.ashp.org/previewpdf/display/book/9781585287048/chapter009.xml?pdfJsInlineViewToken=1992039662&inlineView=true)
 
@@ -102,7 +102,7 @@ To succeed in pharmacy practice, technicians must be competent in multiple domai
 
 `Technicians carry out tasks that do not require a pharmacist's clinical experise`
 
-Pharmacy technicians exist to **free up the pharmacist’s time** for more clinical duties by taking on routine technical tasks. To meet the growing demands of pharmacy services, technician roles are being expanded to include **advanced and specialized functions**, often with **higher pay and training requirements**.
+Pharmacy technicians exist to **free up the pharmacist's time** for more clinical duties by taking on routine technical tasks. To meet the growing demands of pharmacy services, technician roles are being expanded to include **advanced and specialized functions**, often with **higher pay and training requirements**.
 
 > ⚖️ In **California**, pharmacists may supervise **up to two** technicians. However, if only **one pharmacist** is on duty, the ratio must be **1:1**. Limits vary from state to state.
 
@@ -340,7 +340,7 @@ Both national exams offer official preparation materials, and several widely use
 | **Textbook** | *Pharmacy Technician Workbook & Certification Review* (latest) | [🔗 website](https://www.morton-pub.com/product/mortypak-bundle-the-pharmacy-technician-with-workbook-and-certification-review-and-pharmacy-calculations-6e/) |
 | **Textbook** | *Pharmacy Calculations for Technicians* | [🔗 website](https://www.morton-pub.com/product/mortypak-bundle-the-pharmacy-technician-with-workbook-and-certification-review-and-pharmacy-calculations-6e/) |
 | **Textbook** | *Medication Workbook for Pharmacy Technicians* | [🔗 website](https://www.morton-pub.com/product/medication-workbook-for-pharmacy-technicians-a-pharmacology-primer/) |
-| **Textbook (Optional)** | *Mosby’s Review for the Pharmacy Technician* | [🔗 website](https://evolve.elsevier.com/cs/product/9780323497244) |
+| **Textbook (Optional)** | *Mosby's Review for the Pharmacy Technician* | [🔗 website](https://evolve.elsevier.com/cs/product/9780323497244) |
 
 other preparation texts include the pharmacy technciain workbook & Certification review, pharmacy calculations, medication workbook for pharmacy technicians
 

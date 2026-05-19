@@ -18,7 +18,7 @@ Calculations are relatively straightforward, except for when the stability of th
 
 **Billing Quantity** is the amount of drug product reported to insurance for payment and inventory tracking. It is not always the same as the number of doses, units taken, or total uses. Instead, it reflects the **form in which the drug is dispensed** (e.g., tablets, milliliters, grams, vials, puffs).
 
-- The **billing unit** must match the **product’s NDC (National Drug Code)** unit of measure.
+- The **billing unit** must match the **product's NDC (National Drug Code)** unit of measure.
 - Quantities must reflect the **dispensed amount**, not just what is consumed.
   - 🚨 **Billing quantity must match what is physically dispensed, regardless of expected usage.** For example, if a patient is prescribed a cream to apply once daily for 30 days and receives a **60g tube**, the **billing quantity is 60 grams**, even though the patient may only use 30 grams.
 - Insurance claims **require accurate billing quantities** to calculate reimbursement and determine refill eligibility.
@@ -74,7 +74,7 @@ ${\boxed{\Rightarrow \text{Days Supply} = \frac{\text{Amount Dispensed}}{\text{A
 
 - **Insurance billing**: Insurers require accurate days' supply to determine when a refill is allowed.
 - **Controlled substances**: Days' supply impacts legal refill limits and audit compliance.
-- **Pharmacist review**: DUR (Drug Utilization Review) relies on accurate days’ supply to detect overuse, underuse, or interactions.
+- **Pharmacist review**: DUR (Drug Utilization Review) relies on accurate days' supply to detect overuse, underuse, or interactions.
 - **Medication synchronization**: To align refill dates across multiple prescriptions. Technicians may need to:
   - Adjust fills to **short-term supplies** (e.g., 21 or 28 days)
   - Calculate partial fills to align dates
@@ -139,9 +139,9 @@ This principle applies to **all dosage forms**; not just tablets. Whether dosing
 - 🛡️ Always read the sig carefully; BID can mean two tablets, two times a day, or one tablet twice a day.
 - 🚨 For eye/ear drops, check if **both eyes/ears** are being treated.
 - 🛡️ Topical use is often estimated; confirm application area with pharmacist if unclear.
-- 🛡️ Document how you arrived at your days’ supply if not obvious.
+- 🛡️ Document how you arrived at your days' supply if not obvious.
 
-> 📌 Many pharmacy systems calculate days’ supply automatically, but knowing how to do it manually helps catch input errors and supports DUR decisions.
+> 📌 Many pharmacy systems calculate days' supply automatically, but knowing how to do it manually helps catch input errors and supports DUR decisions.
 
 <!-- todo: seperate based on route & dosage form -->
 <!-- todo: insert billing quantity math -->
@@ -461,7 +461,7 @@ Insulin is dosed in **Units**, but dispensed and billed by **volume (mL)**. Most
 - **Vial**: 10 mL (1,000 Units for U-100)
 - **Pen**: 3 mL (300 Units for U-100)
 
-📌 **Opened insulin products expire 28 days after first use**, even if medication remains. Days’ supply is limited by:
+📌 **Opened insulin products expire 28 days after first use**, even if medication remains. Days' supply is limited by:
 
 - **Daily usage** (Units/day)
 - **Package volume** (Units total)
@@ -470,7 +470,7 @@ Insulin is dosed in **Units**, but dispensed and billed by **volume (mL)**. Most
 🛡️ The correct Days Supply is the **shorter of**:
 
 - How long the volume lasts based on dose
-- The product’s discard period
+- The product's discard period
 
 This prevents billing beyond usable shelf-life and supports safe patient use.
 

@@ -8,7 +8,7 @@ Pharmacy Calculations, 6e; Morton Publishing | Chapter 28
 
 ## 🔑 What is BSA?
 
-**Body Surface Area (BSA)** is a measurement of the total surface of a patient’s body. It is used in drug dosing because it provides a more accurate estimation of metabolic mass than weight alone.
+**Body Surface Area (BSA)** is a measurement of the total surface of a patient's body. It is used in drug dosing because it provides a more accurate estimation of metabolic mass than weight alone.
 
 > 📌 BSA is measured in **square meters (m²)**.
 
@@ -45,7 +45,7 @@ Alternate version with inches and pounds:
 
 **Using a Nomogram** (Theoretical)
 
-A **nomogram** is a visual tool used to estimate BSA by drawing a straight line between a patient’s **height and weight** on a chart.
+A **nomogram** is a visual tool used to estimate BSA by drawing a straight line between a patient's **height and weight** on a chart.
 
 🛠️ **Steps**:
 
@@ -91,7 +91,7 @@ ${\Rightarrow \text{Total Dose} = 640 \times 5 = \boxed{3200\ \text{mg}}}$ -->
 
 Pediatric medication dosing often uses **Body Surface Area (BSA)** because it more accurately reflects metabolic capacity than weight alone.  
 
-This formula scales the adult dose proportionally to the child’s BSA.
+This formula scales the adult dose proportionally to the child's BSA.
 
 The BSA for an average adult is 1.73m².
 

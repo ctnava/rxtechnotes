@@ -24,7 +24,7 @@ People have used drugs derived from plants to treat illness and manage physical 
 - **~400 BCE**:  
   - 🔑 **Hippocrates**, often called the "Father of Medicine," promotes observation-based medicine (scientific). His writings emphasize natural causes and include the **Hippocratic Oath**.
 - **~200 BCE**:  
-  - **Shen Nung’s "Pen Tsao"** is formalized into China's first **national pharmacopoeia**.  
+  - **Shen Nung's "Pen Tsao"** is formalized into China's first **national pharmacopoeia**.  
   - **Zhang Zhongjing** writes the **Shanghan Zabing Lun**, a clinical compendium of traditional Chinese medicine.
 - **~100 BCE**:  
   - **King Mithridates VI of Pontus** practices early **immunization** by ingesting sub-lethal doses of poisons, leading to the concept of "mithridatism"
@@ -180,7 +180,7 @@ Pharmacists must complete **Continuing Education (CE)** regularly to maintain li
 
 This essay exposes a disturbing executive order masquerading as a public health initiative. Beneath its patriotic language lies a fascist-adjacent agenda: reshape psychiatric standards to boost military enlistment by limiting diagnoses and cutting access to care.
 
-It’s not about making Americans healthier. It’s about making more of them deployable.
+It's not about making Americans healthier. It's about making more of them deployable.
 
 🔗 [Continued](./ref/essays/maha.md)
 

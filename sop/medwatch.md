@@ -2,7 +2,7 @@
 
 ## **1. Purpose**
 
-To provide a standardized procedure for identifying, documenting, and reporting **Adverse Drug Events (ADEs)**, product quality issues, and medication errors to the FDA’s **MedWatch** program using **Form FDA 3500**.
+To provide a standardized procedure for identifying, documenting, and reporting **Adverse Drug Events (ADEs)**, product quality issues, and medication errors to the FDA's **MedWatch** program using **Form FDA 3500**.
 
 ---
 
@@ -32,7 +32,7 @@ Covers reporting for:
 Any undesirable medical occurrence associated with the use of a medication, whether expected or unexpected.
 
 **MedWatch:**  
-The FDA’s Safety Information and Adverse Event Reporting Program.
+The FDA's Safety Information and Adverse Event Reporting Program.
 
 **Form FDA 3500:**  
 The voluntary reporting form for healthcare professionals to report ADEs, product problems, and medication errors.
@@ -82,7 +82,7 @@ Includes death, life‑threatening events, hospitalization, disability, congenit
 
 2. Determine whether the event meets criteria for **serious ADE**.
 
-3. Document the ADE in the pharmacy’s internal reporting system.
+3. Document the ADE in the pharmacy's internal reporting system.
 
 ### **5.2 Determine Reporting Pathway**
 

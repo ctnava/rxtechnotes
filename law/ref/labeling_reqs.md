@@ -81,7 +81,7 @@ Barcoding and serialization are mandated under the **Drug Supply Chain Security 
 
 ## Dispensed Prescription Drug Labeling Requirements
 
-Dispensed prescription labels serve as the **primary source of patient-facing instructions** and must meet federal, state, and professional standards for clarity, safety, and accuracy. Technicians are responsible for ensuring that all required elements are present, legible, and consistent with the prescriber’s order and the product dispensed. Errors in labeling can lead to medication misadventures, insurance rejections, and regulatory violations.
+Dispensed prescription labels serve as the **primary source of patient-facing instructions** and must meet federal, state, and professional standards for clarity, safety, and accuracy. Technicians are responsible for ensuring that all required elements are present, legible, and consistent with the prescriber's order and the product dispensed. Errors in labeling can lead to medication misadventures, insurance rejections, and regulatory violations.
 
 ![Prescription Label Requirements](./img/rx_label_requirements.PNG)
 
@@ -136,7 +136,7 @@ These elements document the workflow and support audit trails, quality assurance
 - [ ] **Signa** (patient instructions)
 - [ ] **Quantity Dispensed**
 
-The inscription and signa must match the prescriber’s intent and be written in **clear, patient-friendly language**. Avoid abbreviations unless required by system formatting.
+The inscription and signa must match the prescriber's intent and be written in **clear, patient-friendly language**. Avoid abbreviations unless required by system formatting.
 
 ### Auxiliary Labels & Safety Information
 
@@ -178,7 +178,7 @@ Accurate labeling is one of the most important safety steps in the dispensing wo
 
 ### Risk Evaluation & Mitigation Strategies (REMS) Compliance
 
-**Risk Evaluation & Mitigation Strategies (REMS)** are required safety programs for medications with known or potential serious risks that must be managed to ensure that the drug’s benefits outweigh its risks; particularly those that are addictive (e.g. Opioids, Stimulants, Benzodiazepines), hazardous (e.g. Birth Control, Oncologics, Biologics), or understudied (e.g. Gabapentin).
+**Risk Evaluation & Mitigation Strategies (REMS)** are required safety programs for medications with known or potential serious risks that must be managed to ensure that the drug's benefits outweigh its risks; particularly those that are addictive (e.g. Opioids, Stimulants, Benzodiazepines), hazardous (e.g. Birth Control, Oncologics, Biologics), or understudied (e.g. Gabapentin).
 
 Depending on the drug, a REMS program may include one or more of the following:
 
@@ -224,8 +224,8 @@ PPIs are FDA-regulated documents that must accompany specific drug classes. They
 | **Side effects** | Lists all known **adverse reactions**, including those reported during clinical trials or post-marketing. |
 | **Dosage & Administration Guide** | How to take the medication, including dose, timing, route, and adjustments. |
 | **Overdose Protocol** | Symptoms of overdose & instructions on how to handle. |
-| **Abuse Potential & Dependence** | Details on the drug’s potential for **abuse, tolerance, or dependence** (especially important for controlled substances). |
-| **How Supplied / Storage** | Describes the drug’s appearance (shape, color, imprint) and **storage conditions** (e.g., keep refrigerated, protect from light). |
+| **Abuse Potential & Dependence** | Details on the drug's potential for **abuse, tolerance, or dependence** (especially important for controlled substances). |
+| **How Supplied / Storage** | Describes the drug's appearance (shape, color, imprint) and **storage conditions** (e.g., keep refrigerated, protect from light). |
 
 > 📌 Many PPIs contain diagrams or step-by-step **patient instructions**, especially for complex dosage forms (e.g., vaginal rings, inhalers, patches).
 

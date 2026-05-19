@@ -32,13 +32,13 @@ Incoming prescriptions—electronic, written, or transferred—must be entered i
 
 - A technician enters patient, prescriber, and medication details with high accuracy.
 - An **NDC** is selected based on inventory and contract requirements.
-- The technician attempts **real‑time adjudication** with the patient’s insurance.
+- The technician attempts **real‑time adjudication** with the patient's insurance.
   - Successful adjudication indicates the **fill is initiated**.
   - Rejections may require troubleshooting (e.g., PA required, refill too soon, plan limitations).
 
 ### 2. Pharmacist Data‑Entry Check (RPh Check)
 
-Before a prescription can be filled, a pharmacist verifies the technician’s work.
+Before a prescription can be filled, a pharmacist verifies the technician's work.
 
 - Confirms the prescription is **clinically appropriate** and legally valid.
 - Ensures the **NDC** selected matches the prescribed product and is safe for the patient.
@@ -586,7 +586,7 @@ Link to 🔗 [**Standard Operating Procedure**](./rx_pickup.md)
 
 ### 🔄 Refills & Renewal Requests
 
-Each prescription is assigned a **prescription number**, which stays the same for all refills. The number of authorized refills is written by the prescriber and usually printed on the **prescription label**. If a doctor authorizes multiple refills (often written as ‘Refills: 3’ or ‘Refills: PRN’), they are valid for **up to 1 year** from the date the prescription was written, **except for controlled substances**, which have stricter limits.
+Each prescription is assigned a **prescription number**, which stays the same for all refills. The number of authorized refills is written by the prescriber and usually printed on the **prescription label**. If a doctor authorizes multiple refills (often written as ‘Refills: 3' or ‘Refills: PRN'), they are valid for **up to 1 year** from the date the prescription was written, **except for controlled substances**, which have stricter limits.
 
 Refills can be requested:
 
@@ -597,7 +597,7 @@ Refills can be requested:
 
 > 📌 Involve the pharmacist immediately if the patient is requesting an early refill for controlled substances.
 
-When a prescription has no refills or is expired, the technician is requesting a new prescription, not a ‘refill’ in the legal sense. **Pharmacy technicians** may be authorized to contact the prescriber **on behalf of the patient** to request a new prescription.
+When a prescription has no refills or is expired, the technician is requesting a new prescription, not a ‘refill' in the legal sense. **Pharmacy technicians** may be authorized to contact the prescriber **on behalf of the patient** to request a new prescription.
 
 Link to 🔗 [**Standard Operating Procedure**](./rx_renewal.md)
 

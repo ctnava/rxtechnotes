@@ -87,7 +87,7 @@
 | ------------ | -------------- | ------------------ | ------- | ------------ | ------------------ |
 | Rheumatrex | Methotrexate | Autoimmune modulator | DMARD | **Rheumatoid arthritis**, psoriasis | RHEUMA = rheumatic use |
 | Plaquenil | Hydroxychloroquine | Lupus + RA | DMARD | **Lupus**, **rheumatoid arthritis** | PLAQ = anti-malarial turned DMARD |
-| Humira | Adalimumab | Biologic injection | TNF inhibitor | **Rheumatoid arthritis**, **Crohn’s**, **Ulcerative Colitis** | Human monoclonal antibody (HUMIRA) |
+| Humira | Adalimumab | Biologic injection | TNF inhibitor | **Rheumatoid arthritis**, **Crohn's**, **Ulcerative Colitis** | Human monoclonal antibody (HUMIRA) |
 | Zyloprim | Allopurinol | Prevents **gout** attacks | Xanthine oxidase inhibitor | **Gout** | Zylo = xanthine oxidase zapper |
 
 ---

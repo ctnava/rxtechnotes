@@ -1,6 +1,6 @@
 # Home Health Care Pharmacies
 
-Home health care involves the delivery of clinical services in a patient’s home that would otherwise be provided in a hospital, long-term care facility, or outpatient clinic. The primary advantage is improved **quality of life** through personalized, comfortable care; often at a lower cost.
+Home health care involves the delivery of clinical services in a patient's home that would otherwise be provided in a hospital, long-term care facility, or outpatient clinic. The primary advantage is improved **quality of life** through personalized, comfortable care; often at a lower cost.
 
 🧑‍⚕️ **Home Care Team**
 

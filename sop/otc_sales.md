@@ -83,9 +83,9 @@ A logbook entry is required for any sale involving **more than 60 mg** of pseudo
 
 The logbook must include:
 
-- Purchaser’s **name**  
-- Purchaser’s **address**  
-- Purchaser’s **signature**  
+- Purchaser's **name**  
+- Purchaser's **address**  
+- Purchaser's **signature**  
 - Date and time of sale  
 - Product name  
 - Quantity sold  

@@ -53,7 +53,7 @@ Use patient cues to suggest vaccine needs:
 | Cue | Suggestion |
 | ----- | ------------ |
 | 🍼 Buying baby supplies or mentions of pregnancy | Recommend **Tdap** and **flu** for pregnant individuals and close contacts. Pertussis and flu can be dangerous to newborns. |
-| ✈️ Travel plans or purchase of motion sickness meds (e.g., Dramamine) | Suggest **Hepatitis A** vaccine—second only to travelers’ diarrhea for travel-related illness. |
+| ✈️ Travel plans or purchase of motion sickness meds (e.g., Dramamine) | Suggest **Hepatitis A** vaccine—second only to travelers' diarrhea for travel-related illness. |
 | 🤧 Persistent cough or "whooping" sound | Raise the possibility of **pertussis** exposure; refer to pharmacist for evaluation. |
 | 💉 Diabetic supply purchases | Screen for **flu**, **pneumococcal**, **Hepatitis B**, and **Tdap** vaccines. Diabetics are at higher risk for complications. |
 
@@ -104,7 +104,7 @@ The **Advisory Committee on Immunization Practices (ACIP)** recommends pneumococ
 Vaccine administration errors can pose serious safety risks and may lead to under-immunization, adverse effects, or loss of reimbursement. Technicians play a key role in preventing these errors by recognizing the most common causes:
 
 - **Unclear or Unapproved Abbreviations**
-  - Do **not** use vaccine abbreviations unless they are listed on the **CDC’s approved abbreviation list**.
+  - Do **not** use vaccine abbreviations unless they are listed on the **CDC's approved abbreviation list**.
   - ✅ This list should be **clearly posted** and accessible within the pharmacy.
 - **Look-Alike / Sound-Alike Products**
   - ⚠️ *Tdap* (for **patients age 7 and older**) vs. *DTaP* (for **children under 7**).

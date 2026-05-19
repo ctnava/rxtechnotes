@@ -165,7 +165,7 @@ flowchart TD
 
 Each Medicaid program is administered by individual state welfare departments, with their own formularies, that answer to CMS.
 
-Medi-Cal is California’s Medicaid program, providing free or low-cost health coverage for:
+Medi-Cal is California's Medicaid program, providing free or low-cost health coverage for:
 
 - Low-income families and individuals
 - Seniors (65+)
@@ -174,7 +174,7 @@ Medi-Cal is California’s Medicaid program, providing free or low-cost health c
 
 It covers a wide range of services like doctor visits, hospital care, mental health, vision, dental, and prescriptions.
 
-> 💊 Pharmacy Tech Tip: Medi-Cal often uses a state drug formulary and may require Treatment Authorization Requests (TARs) for non-preferred or high-cost medications, especially those not on the state’s formulary.
+> 💊 Pharmacy Tech Tip: Medi-Cal often uses a state drug formulary and may require Treatment Authorization Requests (TARs) for non-preferred or high-cost medications, especially those not on the state's formulary.
 
 #### 🩺 Medi-Medi (Dual Eligibility)
 
@@ -193,9 +193,9 @@ Medicare is the primary payer; Medi-Cal acts as secondary, covering:
 
 ## Workers' Compensation
 
-Workers’ compensation is a **state‑mandated insurance system** that provides medical care and wage replacement for employees who are **injured or become ill due to their job**. Each state runs its own program, but the core pharmacy workflow is consistent across the country.
+Workers' compensation is a **state‑mandated insurance system** that provides medical care and wage replacement for employees who are **injured or become ill due to their job**. Each state runs its own program, but the core pharmacy workflow is consistent across the country.
 
-### 🧩 What Workers’ Comp Covers
+### 🧩 What Workers' Comp Covers
 
 - **Work‑related injuries** (acute injuries, accidents)
 - **Occupational illnesses** (e.g., chemical exposure, repetitive‑strain injuries)
@@ -206,14 +206,14 @@ Workers’ compensation is a **state‑mandated insurance system** that provides
 
 `PBMs may administer workers' compensation prescription drug benefits`
 
-- Claims must be **reported to a state workers’ compensation board**, which authorizes benefits.
+- Claims must be **reported to a state workers' compensation board**, which authorizes benefits.
 - Prescriptions are billed to:
-  - The **state bureau of workers’ compensation**, or  
+  - The **state bureau of workers' compensation**, or  
   - The **employer**, if they are **self‑insured**
-- Many states use **PBMs that specialize in workers’ comp**, such as Optum or Mitchell, to manage drug benefits.
+- Many states use **PBMs that specialize in workers' comp**, such as Optum or Mitchell, to manage drug benefits.
 - Billing may be:
   - **Online adjudication** (most common), or  
-  - **Paper claims** when electronic systems aren’t available
+  - **Paper claims** when electronic systems aren't available
 
 ### 💊 Pharmacy Tech Responsibilities
 
@@ -224,11 +224,11 @@ Workers’ compensation is a **state‑mandated insurance system** that provides
   - **Adjuster or case manager contact**
 - Ensure the medication is **related to the injury**; unrelated meds will reject.
 - Follow state‑specific **formularies** and **fee schedules**.
-- Document everything clearly—workers’ comp audits are strict.
+- Document everything clearly—workers' comp audits are strict.
 
 ### ⚠️ Tech Tip
 
-Workers’ comp claims often reject for **mismatched injury codes**, **expired authorizations**, or **incorrect employer information**. Always double‑check claim details before processing.
+Workers' comp claims often reject for **mismatched injury codes**, **expired authorizations**, or **incorrect employer information**. Always double‑check claim details before processing.
 
 ---
 
@@ -253,7 +253,7 @@ The VA provides healthcare (including prescriptions) to eligible veterans throug
 - Outside pharmacies generally cannot bill the VA unless under special arrangements.
 - Copayments are based on priority group, income level, and whether the condition is service-connected.
 
-> 💊 **Tech Tip**: If a patient brings a VA prescription to a retail pharmacy, it likely won’t be covered; refer them back to the VA system unless there’s a special authorization.
+> 💊 **Tech Tip**: If a patient brings a VA prescription to a retail pharmacy, it likely won't be covered; refer them back to the VA system unless there's a special authorization.
 
 ### 🔺 TRICARE
 
@@ -275,7 +275,7 @@ Pharmacy Benefits:
   - Mail-order pharmacy through **Express Scripts Home Delivery** is usually the cheapest for maintenance medications.
   - Formularies are tiered, and prior authorizations may be required for certain drugs.
 
-> 📋 **Tech Tip**: Always check if the pharmacy is in-network for TRICARE. Verify eligibility using the patient’s military ID or DoD Benefits Number (DBN).
+> 📋 **Tech Tip**: Always check if the pharmacy is in-network for TRICARE. Verify eligibility using the patient's military ID or DoD Benefits Number (DBN).
 
 ### 🩺 CHAMPVA (Civilian Health and Medical Program of the Department of Veterans Affairs)
 
@@ -289,11 +289,11 @@ CHAMPVA is not the same as TRICARE, but similar in how it functions.
 Key Points:
 
 - CHAMPVA covers prescriptions filled at rtail pharmacies; patients who are Medicare-eligible must enroll in Part D to receive outpatient prescription coverage through CHAMPVA.
-- Claims may need to be **submitted manually** if the pharmacy isn’t set up for electronic CHAMPVA billing.
+- Claims may need to be **submitted manually** if the pharmacy isn't set up for electronic CHAMPVA billing.
 - CHAMPVA may act as **secondary insurance** if the patient has another plan.
 - **Meds by Mail** is a CHAMPVA program
 
-> 🧠 **Tech Tip**: CHAMPVA patients may carry a special ID card. Verify the plan and check reimbursement procedures. CHAMPVA doesn’t always process like standard insurance.
+> 🧠 **Tech Tip**: CHAMPVA patients may carry a special ID card. Verify the plan and check reimbursement procedures. CHAMPVA doesn't always process like standard insurance.
 
 ---
 
@@ -332,7 +332,7 @@ PAPs are typically funded by **drug manufacturers**, **nonprofits**, or **charit
 
 ### 💳 Copay Cards & Manufacturer Coupons
 
-These are **savings cards** issued by drug manufacturers to reduce the patient’s **out-of-pocket cost** at the point of sale.
+These are **savings cards** issued by drug manufacturers to reduce the patient's **out-of-pocket cost** at the point of sale.
 
 - Only available to patients with **commercial insurance**
 - Cannot be used with **Medicare**, **Medi-Cal**, or **other federal health programs**

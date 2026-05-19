@@ -63,7 +63,7 @@ Pharmacy technicians in LTC pharmacy settings often take on responsibilities sim
   - Quality improvement reporting
   - Maintaining shared databases and documentation
 
-> 📌 Some LTC facilities allow techs to access limited on-site inventory under secure conditions. Tracking the receipt & disposition of **controlled substances** is often part of the technician’s role.
+> 📌 Some LTC facilities allow techs to access limited on-site inventory under secure conditions. Tracking the receipt & disposition of **controlled substances** is often part of the technician's role.
 
 ---
 

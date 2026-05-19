@@ -23,7 +23,7 @@
 | Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
 | ------------ | -------------- | ----------------- | ------- | ------------ | ------------------ |
 | Elavil     | Amitriptyline | **TCA** | Tricyclic **antidepressant** | Depression, nerve pain | “Elevate mood with Elavil”; “trip” in amitriptyline hints tricyclic |
-| Pamelor    | Nortriptyline | **TCA** | Tricyclic **antidepressant** | Depression | “Pam is trippin’ again”; nortriptyline = TCA like amitriptyline |
+| Pamelor    | Nortriptyline | **TCA** | Tricyclic **antidepressant** | Depression | “Pam is trippin' again”; nortriptyline = TCA like amitriptyline |
 | Remeron    | Mirtazapine  | **antidepressant**; Appetite gain, sedation | NaSSA | Depression | “Remeron = remedy + serotonin”; mirtazapine = mirror = reflect on sadness |
 | Desyrel    | Trazodone    | Sleepy **antidepressant** | SARI | Depression, insomnia | “Desyrel = drowsy + relief”; traZZZodone |
 | Wellbutrin | Bupropion    | **antidepressant**; Energizing, no sexual side effects | NDRI | Depression, smoking cessation | “Well-being booster”; “bu” → bupropion |
@@ -42,7 +42,7 @@
 | Brand Name | Generic Name | Memorable Trait | Class | Indication | Memorization Tip |
 | ------------ | -------------- | ----------------- | ------- | ------------ | ------------------ |
 | Celexa     | Citalopram   | QT prolongation risk | **SSRI** | **Depression** | “Celexa = select serotonin”; -pram = SSRI |
-| Lexapro    | Escitalopram | Cleaner isomer of citalopram | **SSRI** | **Depression**, anxiety | “Lex = left/right (isomer)”; escitalopram = ‘S’-citalopram |
+| Lexapro    | Escitalopram | Cleaner isomer of citalopram | **SSRI** | **Depression**, anxiety | “Lex = left/right (isomer)”; escitalopram = ‘S'-citalopram |
 | Paxil      | Paroxetine   | Sedating, anticholinergic | **SSRI** | **Depression**, anxiety | “Pack it in = sedate”; paroxetine = para-chill |
 | Prozac     | Fluoxetine   | Activating | **SSRI** | **Depression**, OCD | “Pro-energy”; fluoxetine = fluent mood |
 | Zoloft     | Sertraline   | GI upset | **SSRI** | **Depression**, anxiety, PTSD | “Zoloft = zero loft”; sertraline = serene |
