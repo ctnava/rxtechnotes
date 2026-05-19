@@ -127,3 +127,9 @@ Each neurotransmitter has multiple receptor subtypes, each with agonists and ant
 ---
 
 ## Commonly Prescribed Drugs by Class & Known Safety Issues
+
+---
+
+## 🗺️🔗 Nav Links
+
+- 🏠 [Home Directory](./readme.md)
