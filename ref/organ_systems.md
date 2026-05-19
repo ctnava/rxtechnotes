@@ -804,6 +804,8 @@ Major endocrine glands include the **hypothalamus**, **pituitary**, **thyroid**,
 
 ## ♀️ Female Reproductive System
 
+`produces hormones for menstruation & child bearing`
+
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
 
 The **female reproductive system** produces **ova (eggs)**, secretes the hormones **estrogen** and **progesterone**, regulates the **menstrual cycle**, and supports **fertilization, pregnancy, childbirth, and lactation**. Its organs include the **ovaries**, **fallopian tubes**, **uterus**, **cervix**, **vagina**, and **external genitalia** (collectively called the *vulva*).
@@ -891,6 +893,8 @@ During menopause:
 | **vaginitis** | inflammation of the vagina |
 
 ## ♂️ Male Reproductive System
+
+`produces testosterone & sperm`
 
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
 
@@ -981,6 +985,8 @@ Urine that remains in the bladder increases the risk of **bacterial growth**, wh
 
 ## 👂 Senses: Hearing
 
+`the ear provides a sense of hearing & maintains the body's balance`
+
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
 
 The **sense of hearing** and part of the body's **equilibrium (balance)** are functions of the **ear**, which is divided into the **external**, **middle**, and **inner** ear. Together, these structures capture sound waves, convert them into nerve impulses, and help maintain posture and spatial orientation.
@@ -1059,6 +1065,8 @@ Together, the semicircular canals and vestibule form the **vestibular system**, 
 | **tympanitis** | inflammation of the eardrum |
 
 ## 👁️ Senses: Sight
+
+`the eye provides vision, with multiple protective systems`
 
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
 
