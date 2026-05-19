@@ -129,81 +129,65 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 
 ### 📏 Measurement
 
-| Emoji | Abbreviation | Meaning                | ⚠️ |
-| ------- | -------------- | ------------------------ | ---- |
-| ⚖️⚖️  | kg           | Kilograms (2.2 lbs)    |    |
-| ⚖️    | g, G, GM     | Grams                  |    |
-| 💊    | mg           | Milligrams             |    |
-| 🧬    | mcg, μg      | Micrograms             | ⚠️ (use “micrograms” instead) |
-| 🧊    | L            | Liter                  |    |
-| 🧪    | mL, mL       | Milliliters            |    |
-| 📏    | cc           | Cubic centimeter       | ⚠️ (use “mL”) |
-| 🥄    | tsp, ʒ, ℨ, dr, TS | Dram/ Teaspoon (5ml)   |    |
-| 🥄🥄🥄| tbsp, ʒiii, ℨiii, TB | Tablespoon (3 tsp)    |    |
-| 🥛    | pt           | Pint (32 tsp)           |    |
-| 🛢️    | gal          | Gallon (8 pt)           |    |
-| 🔢    | U, IU        | International Unit     | ⚠️ (use "Unit") |
-| 💧    | gtt, D        | Drop (15-20 gtt/ml)    |    |
-| 🧴    | oz, fl oz, ℥  | Fluid ounce (30mL)     |    |
-| ⚖️    | mEq          | Milliequivalents       |    |
-| ⚠️    | ss, S        | One-half               | ⚠️ (mistaken for “55” or "5") |
+| Emoji | Abbreviation | Meaning | ⚠️ |
+| --- | --- | --- | --- |
+| ⚖️⚖️ | kg | Kilograms (2.2 lbs) | |
+| ⚖️ | g, G, GM | Grams | |
+| 💊 | mg | Milligrams | |
+| 🧬 | mcg, μg | Micrograms | ⚠️ (use “micrograms” instead) |
+| 🧊 | L | Liter | |
+| 🧪 | mL, mL | Milliliters | |
+| 📏 | cc | Cubic centimeter | ⚠️ (use “mL”) |
+| 🥄 | tsp, ʒ, ℨ, dr, TS | Dram/ Teaspoon (5ml) | |
+| 🥄🥄🥄| tbsp, ʒiii, ℨiii, TB | Tablespoon (3 tsp) | |
+| 🥛 | pt | Pint (32 tsp) | |
+| 🛢️ | gal | Gallon (8 pt) | |
+| 🔢 | U, IU | International Unit | ⚠️ (use "Unit") |
+| 💧 | gtt, D | Drop (15-20 gtt/ml) | |
+| 🧴 | oz, fl oz, ℥ | Fluid ounce (30mL) | |
+| ⚖️ | mEq | Milliequivalents | |
+| ⚠️ | ss, S | One-half | ⚠️ (mistaken for “55” or "5") |
+| 🧑‍🤝‍🧑 | aa | Of each (ana) | |
+| ⬆️ | ad | To, up to | |
+| ➕ | qs | A sufficient quantity | |
+| ➕📈 | qs ad | A sufficient quantity to make | |
+| ➕💦 | aq ad | Add water up to make | |
 
-### 👩‍💻 Patient Information
+### 🧩 Bridging
 
-| Emoji | Abbreviation | Meaning                    | ⚠️ |
-| ------- | -------------- | ---------------------------- | ---- |
-| 📝📝  | Tx            | Treatment              |    |
-| 🤮  | Sx            | Symptoms              |    |
-| 📚  | Hx            | History              |    |
-| 🩺    | Dx            | Diagnosis                 |    |
-| 📅  | DoB            | Date of Birth              |    |
-| 😁  | NKA            | No Known Allergies         |  |
-| 🩸    | BS          | Blood Sugar       | |
-| 💩    | BM          | Bowel Movement       | |
-| 💓    | BP          | Blood Sugar       | |
-| ⛔🩺 | DUR            | Drug Utilization Review | |
-
-### 🧩 Miscellaneous
-
-| Emoji | Abbreviation | Meaning                    | ⚠️ |
-| ------- | -------------- | ---------------------------- | ---- |
-| 💊📜  | Rx            | Prescription              |    |
-| ⛔    | NR            | No refills                |    |
-| ✍️    | DAW           | Dispense as written       |    |
-| 📘    | UD, TUD       | Take As Directed          |    |
-| 📝    | Sig           | Directions for use        |    |
-| 🚫👄  | NPO           | Nothing by mouth          | |
-| 🚫  | D/C            | Discontinue              | |
-| 🧑‍🤝‍🧑    | aa            | Of each (ana)             | |
-| ⬆️    | ad            | To, up to                 |    |
-| ➕    | qs            | A sufficient quantity     |    |
-| ➕📈  | qs ad         | A sufficient quantity to make |    |
-| ➕💦  | aq ad         | Add water up to make      |    |
-| ➕    | c̄, w/, w      | With                      |    |
-| ➖    | s̄, w/o        | Without/ With No          |    |
-| ➖    | ō             | Without / With No (archaic/Latin)  | ⚠️ (rare or ambiguous) |
-| ✅🩹 | AAA (RxConnect) | Apply to affected area   |    |
-| ⏳💨 | MDI | Metered Dose Inhaler |    |
-| 💉 | TPN | Total Parenteral Nutrition |    |
+| Emoji | Abbreviation | Meaning | ⚠️ |
+| --- | --- | --- | --- |
+| ⛔ | NR | No refills | |
+| ✍️ | DAW | Dispense as written | |
+| 📘 | UD, TUD | Take As Directed | |
+| 📝 | Sig | Directions for use | |
+| 🚫👄 | NPO | Nothing by mouth | |
+| ➕ | c̄, w/, w | With | |
+| ➖ | s̄, w/o | Without/ With No | |
+| ➖ | ō | Without / With No (archaic/Latin) | ⚠️ (rare or ambiguous) |
+| ✅🩹 | AAA (RxConnect) | Apply to affected area | |
+| ⏳💨 | MDI | Metered Dose Inhaler | |
+| 💉 | TPN | Total Parenteral Nutrition | |
+| ⛔🩺 | DUR | Drug Utilization Review | |
 
 ### 🧾 PRN or Indications (RxConnect)
 
-| Emoji | Abbreviation | Meaning                 |
-| ------- | -------------- | ------------------------- |
-| 🤕    | PPA          | For pain                |
-| 😖    | PSP          | For severe pain         |
-| 😰    | PAN          | For anxiety             |
-| 🤢    | PNA          | For nausea              |
-| 🤮    | PNV          | For nausea and vomiting |
-| 🤧    | PCG          | For cough               |
-| 💫    | PDZ           | For dizziness           |
-| 😤    | PWH           | For wheeze              |
-| 🤯    | PHA           | For headache            |
-| 🤒    | PIT          | For itch                |
-| 🫁    | SOB          | For shortness of breath |
-| 💓    | HTN          | For hypertension        |
-| 💗    | CHF          | Congenital Heart Failure        |
-| 🩸    | DM          | Diabetes Mellitus       |
+| Emoji | Abbreviation | Meaning |
+| --- | --- | --- |
+| 🤕 | PPA | For pain |
+| 😖 | PSP | For severe pain |
+| 😰 | PAN | For anxiety |
+| 🤢 | PNA | For nausea |
+| 🤮 | PNV | For nausea and vomiting |
+| 🤧 | PCG | For cough |
+| 💫 | PDZ | For dizziness |
+| 😤 | PWH | For wheeze |
+| 🤯 | PHA | For headache |
+| 🤒 | PIT | For itch |
+| 🫁 | SOB | For shortness of breath |
+| 💓 | HTN | For hypertension |
+| 💗 | CHF | Congenital Heart Failure |
+| 🩸 | DM | Diabetes Mellitus |
 
 ### 💼 Common Medication-Specific SIG Codes (RxConnect)
 
@@ -213,14 +197,20 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 | FLC | To be administered by pharmacist for immunization. |
 | MEDROL | Take 6 tablets on day 1 as directed on package and decrease by 1 tablet daily for a total of 6 days. |
 | NUVARING | Insert 1 ring vaginally as directed. Remove after 3 weeks & wait 7 days before inserting new one. |
-| PERI, PERIDEX| Rinse ½ ounce twice a day after breakfast and at bedtime after brushing and flossing. (Spit Don't Swallow) |
+| PERI, PERIDEX | Rinse ½ ounce twice a day after breakfast and at bedtime after brushing and flossing. (Spit Don't Swallow) |
 | SPIRIVA | Inhale 1 capsule via HandiHaler once daily at the same time every day. |
 | ZPAK | Take 2 tablets by mouth today, then take 1 tablet daily for 4 days. |
 
-## 🔣 Common Symbols in Medicine
+## General Medical Abbreviations & Symbols
 
-| Symbol | Meaning              |
-| -------- | ---------------------- |
+### Disclaimer
+
+Over 30,000 abbreviations are used in medical science; many specifc to each institution or area of study. It is possible that they may overlap. When in doubt, verify the meaning with a pharmacist.
+
+### 🔣 Common Symbols
+
+| Symbol | Meaning |
+| --- | --- |
 | #️⃣ / # | Number (e.g., #30 tablets) |
 | ♀️ / ♀ | Female |
 | ♂️ / ♂ | Male |
@@ -229,3 +219,20 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 | 🔺 / ∆ | Change |
 | ♾️ / ∞ | Infinity / Ongoing/ No Limit |
 | 🚫 / Ø | None / Null / No Value |
+
+### 👩‍💻 Patient Charts
+
+| Emoji | Abbreviation | Meaning |
+| --- | --- | --- |
+| 💊📜 | Rx | Prescription |
+| 📝📝 | Tx | Treatment |
+| 🤮 | Sx | Symptoms |
+| 📚 | Hx | History |
+| 🩺 | Dx | Diagnosis |
+| 📅 | DoB | Date of Birth |
+| 😁 | NKA | No Known Allergies |
+| 🩸 | BS | Blood Sugar |
+| 💩 | BM | Bowel Movement |
+| 💓 | BP | Blood Sugar |
+| ⛔🩺 | DUR | Drug Utilization Review |
+| 🚫 | D/C | Discontinue |
