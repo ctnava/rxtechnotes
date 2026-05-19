@@ -52,6 +52,11 @@
     - [♂️ Male Reproductive System - Roots](#️-male-reproductive-system---roots)
     - [♂️ Male Reproductive System - Common Terms](#️-male-reproductive-system---common-terms)
   - [👂 Senses: Hearing](#-senses-hearing)
+    - [🔊 External Ear](#-external-ear)
+    - [🎧 Middle Ear](#-middle-ear)
+    - [🎵 Inner Ear](#-inner-ear)
+    - [👂 Senses: Hearing - Roots](#-senses-hearing---roots)
+    - [👂 Senses: Hearing - Common Terms](#-senses-hearing---common-terms)
   - [👁️ Senses: Sight](#️-senses-sight)
   - [Navlinks](#navlinks)
 
@@ -891,12 +896,80 @@ Urine that remains in the bladder increases the risk of **bacterial growth**, wh
 
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
 
+The **sense of hearing** and part of the body’s **equilibrium (balance)** are functions of the **ear**, which is divided into the **external**, **middle**, and **inner** ear. Together, these structures capture sound waves, convert them into nerve impulses, and help maintain posture and spatial orientation.
+
+### 🔊 External Ear
+
+The **external ear** includes:
+
+- **Auricle (Pinna)**  
+  A funnel‑shaped structure that captures sound waves and directs them inward.
+
+- **External Auditory Canal**  
+  A passageway that carries sound to the eardrum.  
+  It contains **ceruminous glands**, which produce **cerumen (earwax)**; a protective substance that traps debris and naturally migrates outward with jaw movements like chewing and talking.
+
+- **Tympanic Membrane (Eardrum)**  
+  Vibrates when struck by sound waves, transmitting energy to the middle ear.
+
+### 🎧 Middle Ear
+
+The **middle ear** is an air‑filled cavity containing three small bones called the **ossicles**:
+
+- **Malleus (hammer)**  
+- **Incus (anvil)**  
+- **Stapes (stirrup)**  
+
+These bones amplify and transmit vibrations from the tympanic membrane to the inner ear.
+
+The **Eustachian tube** connects the middle ear to the nose and throat, helping **equalize air pressure** on both sides of the eardrum. Proper pressure balance is essential for normal hearing.
+
+### 🎵 Inner Ear
+
+The **inner ear** contains structures responsible for both **hearing** and **balance**:
+
+- **Cochlea**  
+  A spiral‑shaped organ containing the **Organ of Corti**, the true organ of hearing.  
+  It converts sound vibrations into **nerve impulses** that travel to the brain for interpretation.
+
+- **Semicircular Canals**  
+  Detect rotational movements of the head and help maintain balance.
+
+- **Vestibule**  
+  Detects linear movement and head position relative to gravity.
+
+Together, the semicircular canals and vestibule form the **vestibular system**, which maintains **equilibrium**.
+
+### 👂 Senses: Hearing - Roots
+
 | Root | Meaning | Combining Form |
 | --- | --- | --- |
-| **ot / oto** | ear | ot**o**– |
-| **tympan / myring** | eardrum | tympan**o**– / myring**o**– |
-| **acous / audi** | hearing | acous**o**– / audi**o**– |
+| **acous / acus / audi** | hearing | acous**o**– / audi**o**– |
+| **cerumin** | wax‑like, cerumen | cerumin**o**– |
 | **labyrinth** | inner ear | labyrinth**o**– |
+| **myring / tympan** | eardrum | myring**o**– / tympan**o**– |
+| **ot / oto** | ear | ot**o**– |
+| **salping** | eustachian tube | salping**o**– |
+
+### 👂 Senses: Hearing - Common Terms
+
+| Term | Meaning |
+| --- | --- |
+| **anacusis** | complete hearing loss |
+| **audiometry** | measurement of hearing ability |
+| **ceruminosis** | excessive accumulation of earwax |
+| **labyrinthitis** | inflammation of the inner ear |
+| **myringotomy** | incision into the eardrum |
+| **otalgia** | ear pain |
+| **otitis** | inflammation of the ear (commonly middle ear) |
+| **otomycosis** | fungal infection of the ear |
+| **otoplasty** | surgical repair of the ear |
+| **otorrhagia** | bleeding from the ear |
+| **otorrhea** | discharge from the ear |
+| **otosclerosis** | abnormal bone growth in the middle ear |
+| **otoscope** | instrument used to examine the ear |
+| **paracusis** | abnormal or impaired hearing |
+| **tympanitis** | inflammation of the eardrum |
 
 ## 👁️ Senses: Sight
 
