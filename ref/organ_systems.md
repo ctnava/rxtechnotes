@@ -1002,15 +1002,15 @@ Together, the semicircular canals and vestibule form the **vestibular system**, 
 
 | Term | Meaning |
 | --- | --- |
-| **amblyopia** | reduced vision in one eye (“lazy eye”) |
+| **amblyopia** | reduced vision |
 | **astigmatism** | irregular curvature of the cornea or lens causing blurred vision |
 | **blepharitis** | inflammation of the eyelid |
 | **blepharoptosis** | drooping of the upper eyelid |
-| **conjunctivitis** | inflammation of the conjunctiva (“pink eye”) |
+| **conjunctivitis** | inflammation of the conjunctiva ("pink eye") |
 | **diplopia** | double vision |
 | **endophthalmitis** | inflammation inside the eye |
-| **esotropia** | inward turning of the eye |
-| **exotropia** | outward turning of the eye |
+| **esotropia** | inward turning of the eye (to nose) |
+| **exotropia** | outward turning of the eye (to ear) |
 | **glaucoma** | increased intraocular pressure damaging the optic nerve |
 | **hyperopia** | farsightedness |
 | **iridoplegia** | paralysis of the iris |
