@@ -231,8 +231,20 @@ Over 30,000 abbreviations are used in medical science; many specifc to each inst
 | 🩺 | Dx | Diagnosis |
 | 📅 | DoB | Date of Birth |
 | 😁 | NKA | No Known Allergies |
-| 🩸 | BS | Blood Sugar |
-| 💩 | BM | Bowel Movement |
-| 💓 | BP | Blood Sugar |
 | ⛔🩺 | DUR | Drug Utilization Review |
 | 🚫 | D/C | Discontinue |
+
+### 📏 Chart Metrics
+
+| Emoji | Abbreviation | Meaning |
+| --- | --- | --- |
+| X | WT | Weight |
+| 🩸 | BS | Blood Sugar |
+| 💓 | BP | Blood Pressure |
+| X | HR | Heart Rate |
+
+### 🧩 Misc
+
+| Emoji | Abbreviation | Meaning |
+| --- | --- | --- |
+| 💩 | BM | Bowel Movement |
