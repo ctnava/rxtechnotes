@@ -40,12 +40,15 @@
     - [🔥 Endocrine System - Roots](#-endocrine-system---roots)
     - [🔥 Endocrine System - Common Terms](#-endocrine-system---common-terms)
   - [♀️ Female Reproductive System](#️-female-reproductive-system)
-    - [🔬 Core Anatomy \& Functions](#-core-anatomy--functions)
+    - [🔬 Female Reproductive System - Core Anatomy \& Functions](#-female-reproductive-system---core-anatomy--functions)
     - [🩸 Menstrual Cycle](#-menstrual-cycle)
     - [🌙 Menopause](#-menopause)
     - [♀️ Female Reproductive System - Roots](#️-female-reproductive-system---roots)
     - [♀️ Female Reproductive System - Common Terms](#️-female-reproductive-system---common-terms)
   - [♂️ Male Reproductive System](#️-male-reproductive-system)
+    - [🔬 Male Reproductive System - Core Anatomy \& Functions](#-male-reproductive-system---core-anatomy--functions)
+    - [🧬 Male Reproductive System - Hormonal Regulation](#-male-reproductive-system---hormonal-regulation)
+    - [🧓 Benign Prostatic Hyperplasia (BPH)](#-benign-prostatic-hyperplasia-bph)
     - [♂️ Male Reproductive System - Roots](#️-male-reproductive-system---roots)
     - [♂️ Male Reproductive System - Common Terms](#️-male-reproductive-system---common-terms)
   - [👂 Senses: Hearing](#-senses-hearing)
@@ -715,7 +718,7 @@ The **female reproductive system** produces **ova (eggs)**, secretes the hormone
 
 The **mammary glands**, located within the breasts, are functionally associated with the reproductive system. Under hormonal influence, they produce and secrete **milk** after childbirth.
 
-### 🔬 Core Anatomy & Functions
+### 🔬 Female Reproductive System - Core Anatomy & Functions
 
 - **Vagina**  
   A muscular, flexible canal that receives sperm, serves as the birth canal, and allows menstrual flow to exit the body.
@@ -798,6 +801,57 @@ During menopause:
 ## ♂️ Male Reproductive System
 
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
+
+The **male reproductive system** produces **sperm**, secretes the hormone **testosterone**, and enables **fertilization**. Its organs include the **testes**, **epididymis**, **vas deferens**, **seminal vesicles**, **prostate gland**, **bulbourethral glands**, **urethra**, and **penis**.
+
+Together, these structures support **sperm production**, **maturation**, **storage**, **transport**, and **delivery**
+
+### 🔬 Male Reproductive System - Core Anatomy & Functions
+
+- **Testes (Testicles)**  
+  Paired glands housed in the scrotum. They produce **sperm** and **testosterone**.  
+  Sperm formation occurs in the **seminiferous tubules**.
+
+- **Epididymis**  
+  A long, coiled structure on the posterior surface of each testis.  
+  Sperm **mature** and **gain motility** here.
+
+- **Vas Deferens**  
+  A muscular duct that transports sperm from the epididymis to the urethra during ejaculation.
+
+- **Seminal Vesicles**  
+  Produce a fructose‑rich fluid that nourishes sperm and forms a major portion of semen.
+
+- **Prostate Gland**  
+  Adds alkaline fluid to semen, enhancing sperm mobility and protecting them from the acidic vaginal environment.
+
+- **Bulbourethral (Cowper’s) Glands**  
+  Secrete a lubricating, alkaline pre‑ejaculatory fluid.
+
+- **Penis & Urethra**  
+  Deliver semen to the female reproductive tract and allow for urination
+
+### 🧬 Male Reproductive System - Hormonal Regulation
+
+The male reproductive system is regulated by the **hypothalamus–pituitary–gonadal (HPG) axis**:
+
+- **Hypothalamus** releases GnRH  
+- **Pituitary gland** releases LH and FSH  
+- **LH** stimulates testosterone production  
+- **FSH** supports sperm development  
+
+Testosterone influences **muscle mass**, **bone density**, **libido**, and **secondary sex characteristics**.
+
+### 🧓 Benign Prostatic Hyperplasia (BPH)
+
+**Benign Prostatic Hyperplasia (BPH)** is a common condition associated with aging.  
+As the prostate enlarges, it can compress the urethra, leading to:
+
+- Difficulty starting urination  
+- Weak urine stream  
+- Incomplete bladder emptying  
+
+Urine that remains in the bladder increases the risk of **bacterial growth**, which may lead to **cystitis** (bladder infection) or **nephritis** (kidney inflammation).
 
 ### ♂️ Male Reproductive System - Roots
 
