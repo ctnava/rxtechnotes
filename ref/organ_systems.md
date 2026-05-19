@@ -966,7 +966,7 @@ Together, the semicircular canals and vestibule form the **vestibular system**, 
 | **otoplasty** | surgical repair of the ear |
 | **otorrhagia** | bleeding from the ear |
 | **otorrhea** | discharge from the ear |
-| **otosclerosis** | abnormal bone growth in the middle ear |
+| **otosclerosis** | abnormal bone hardening in the middle ear |
 | **otoscope** | instrument used to examine the ear |
 | **paracusis** | abnormal or impaired hearing |
 | **tympanitis** | inflammation of the eardrum |
