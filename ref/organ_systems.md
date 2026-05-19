@@ -30,6 +30,8 @@
     - [🍽️ Gastrointestinal Tract - Roots](#️-gastrointestinal-tract---roots)
     - [🍽️ Gastrointestinal Tract - Common Terms](#️-gastrointestinal-tract---common-terms)
   - [🚽 Urinary System](#-urinary-system)
+    - [Filtration through Nephrons](#filtration-through-nephrons)
+    - [Urinary Tract Ailments](#urinary-tract-ailments)
     - [🚽 Urinary System - Roots](#-urinary-system---roots)
     - [🚽 Urinary System - Common Terms](#-urinary-system---common-terms)
   - [🔥 Endocrine System](#-endocrine-system)
@@ -561,6 +563,31 @@ The GI tract is sometimes incorrectly referred to as the **alimentary tract**. I
 ## 🚽 Urinary System
 
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
+
+The **urinary system** filters the blood to remove **waste products**, regulates **fluid and electrolyte balance**, and maintains **acid–base homeostasis**. It includes the **kidneys**, **ureters**, **bladder**, and **urethra**, which work together to produce, store, and eliminate urine.
+
+- The **kidneys** filter blood, remove toxins, regulate electrolytes, and produce hormones such as **renin** (blood pressure regulation) and **erythropoietin** (stimulates RBC production).  
+- The **ureters** carry urine from the kidneys to the bladder through smooth muscle contractions.  
+- The **bladder** stores urine until voluntary release.  
+- The **urethra** transports urine from the bladder to the outside of the body.
+
+### Filtration through Nephrons
+
+The **nephron** is the **functional unit of the kidney** and acts as a microscopic filtration system.
+
+- Blood plasma, water, and waste products pass through the nephron to form urine.  
+- **Electrolytes, nutrients, and medications** may be reabsorbed back into the bloodstream as needed.  
+- The remaining filtrate becomes **urine**, which flows through the **ureters** to the **bladder** and is excreted through the **urethra**.
+
+Nephrons are essential for maintaining **fluid balance**, **blood pressure**, and **waste removal**.
+
+### Urinary Tract Ailments
+
+Urinary disorders may result from **congenital anomalies**, **infections**, **obstruction**, or **trauma**.
+
+- Some conditions, such as **chronic urinary tract infections (UTIs)**, may be **asymptomatic**.  
+- **Nephrolithiasis** refers to the formation of **kidney stones (calculi)**, which may cause severe pain and obstruction.  
+- Other common issues include inflammation, impaired filtration, or abnormal urine output.
 
 ### 🚽 Urinary System - Roots
 
