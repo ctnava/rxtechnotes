@@ -40,6 +40,11 @@
     - [🔥 Endocrine System - Roots](#-endocrine-system---roots)
     - [🔥 Endocrine System - Common Terms](#-endocrine-system---common-terms)
   - [♀️ Female Reproductive System](#️-female-reproductive-system)
+    - [🔬 Core Anatomy \& Functions](#-core-anatomy--functions)
+    - [🩸 Menstrual Cycle](#-menstrual-cycle)
+    - [🌙 Menopause](#-menopause)
+    - [♀️ Female Reproductive System - Roots](#️-female-reproductive-system---roots)
+    - [♀️ Female Reproductive System - Common Terms](#️-female-reproductive-system---common-terms)
   - [♂️ Male Reproductive System](#️-male-reproductive-system)
   - [👂 Senses: Hearing](#-senses-hearing)
   - [👁️ Senses: Sight](#️-senses-sight)
@@ -704,14 +709,89 @@ Major endocrine glands include the **hypothalamus**, **pituitary**, **thyroid**,
 
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
 
+The **female reproductive system** produces **ova (eggs)**, secretes the hormones **estrogen** and **progesterone**, regulates the **menstrual cycle**, and supports **fertilization, pregnancy, childbirth, and lactation**. Its organs include the **ovaries**, **fallopian tubes**, **uterus**, **cervix**, **vagina**, and **external genitalia** (collectively called the *vulva*).
+
+The **mammary glands**, located within the breasts, are functionally associated with the reproductive system. Under hormonal influence, they produce and secrete **milk** after childbirth.
+
+### 🔬 Core Anatomy & Functions
+
+- **Vagina**  
+  A muscular, flexible canal that receives sperm, serves as the birth canal, and allows menstrual flow to exit the body.
+
+- **Cervix**  
+  The lower, narrow portion of the uterus. It produces cervical mucus, dilates during childbirth, and serves as the passage between the vagina and uterus.
+
+- **Uterus**  
+  A pear‑shaped muscular organ where a fertilized egg implants and develops during pregnancy. Its lining (the **endometrium**) thickens and sheds during menstruation.
+
+- **Ovaries**  
+  Paired glands that produce **ova**, **estrogen**, and **progesterone**. They release one mature egg each cycle during **ovulation**.
+
+- **Fallopian Tubes (Uterine Tubes)**  
+  Transport the ovum from the ovary to the uterus. Fertilization typically occurs here.
+
+### 🩸 Menstrual Cycle
+
+In sexually mature females, the menstrual cycle prepares the uterus for potential pregnancy each month.  
+It is regulated by hormonal interactions between the **hypothalamus**, **pituitary gland**, and **ovaries**.
+
+Key phases include:
+
+- **Menstruation** – shedding of the uterine lining  
+- **Follicular phase** – ovarian follicles mature  
+- **Ovulation** – release of an ovum  
+- **Luteal phase** – progesterone prepares the uterus for implantation  
+
+If fertilization does not occur, hormone levels fall and menstruation begins.
+
+### 🌙 Menopause
+
+**Menopause** is the natural cessation of ovarian activity and menstrual cycles.  
+It is diagnosed after **12 consecutive months without menstruation**.
+
+During menopause:
+
+- Estrogen and progesterone levels **decline sharply**
+- Ovarian follicles become inactive
+- Common symptoms include **hot flashes**, **night sweats**, **vaginal dryness**, and **sleep changes**
+
+### ♀️ Female Reproductive System - Roots
+
 | Root | Meaning | Combining Form |
 | --- | --- | --- |
-| **gynec / gyneco** | woman | gynec**o**– |
-| **metr / hyster / uter** | uterus | metr**o**– / hyster**o**– / uter**o**– |
-| **oophor / ovari** | ovary | oophor**o**– / ovari**o**– |
-| **salping** | fallopian tube | salping**o**– |
+| **cervic** | cervix | cervic**o**– |
 | **colp / vagin** | vagina | colp**o**– / vagin**o**– |
+| **condyl** | knuckle‑like, rounded growth | condyl**o**– |
+| **gynec / gyneco** | woman, female | gynec**o**– |
+| **lact** | milk | lact**o**– |
 | **mamm / mast** | breast | mamm**o**– / mast**o**– |
+| **men** | menstruation | men**o**– |
+| **metr / metri / hyster / uter** | uterus | metr**o**– / metr**i**– / hyster**o**– / uter**o**– |
+| **oophor / ovari** | ovary | oophor**o**– / ovari**o**– |
+| **ovul** | egg | ovul**o**– |
+| **salping** | fallopian tube | salping**o**– |
+| **tocia** | childbirth, labor | –tocia |
+
+### ♀️ Female Reproductive System - Common Terms
+
+| Term | Meaning |
+| --- | --- |
+| **amenorrhea** | absence of menstruation |
+| **anovulation** | lack of ovulation |
+| **cervicitis** | inflammation of the cervix |
+| **condyloma** | wart‑like growth, often HPV‑related |
+| **dystocia** | difficult labor or childbirth |
+| **endometriosis** | growth of endometrial tissue outside the uterus |
+| **gynecology** | study of female reproductive health |
+| **hysterectomy** | surgical removal of the uterus |
+| **lactation** | production of milk |
+| **mammogram** | breast imaging for screening |
+| **mastectomy** | surgical removal of the breast |
+| **mastitis** | inflammation of breast tissue |
+| **menorrhea** | normal menstrual flow |
+| **ovulation** | release of an ovum from the ovary |
+| **salpingocyesis** | ectopic pregnancy in a fallopian tube |
+| **vaginitis** | inflammation of the vagina |
 
 ## ♂️ Male Reproductive System
 
