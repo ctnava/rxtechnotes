@@ -71,6 +71,8 @@ Once approved by USAN and global regulatory bodies, the name becomes **official*
 
 > A drug’s **name** (stem) and its **class** often align, but not always.
 
+Back to 🔙🔗 [Production, Marketing, & Distribution of Medicine](./discovery_manufacture.md#naming--classification)
+
 ---
 
 ## Classification Schemes
