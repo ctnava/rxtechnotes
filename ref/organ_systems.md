@@ -58,6 +58,8 @@
     - [👂 Senses: Hearing - Roots](#-senses-hearing---roots)
     - [👂 Senses: Hearing - Common Terms](#-senses-hearing---common-terms)
   - [👁️ Senses: Sight](#️-senses-sight)
+    - [👁️ Senses: Sight - Roots](#️-senses-sight---roots)
+    - [👁️ Senses: Sight - Common Terms](#️-senses-sight---common-terms)
   - [Navlinks](#navlinks)
 
 ## 🩹 Integumentary System
@@ -975,14 +977,48 @@ Together, the semicircular canals and vestibule form the **vestibular system**, 
 
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
 
+### 👁️ Senses: Sight - Roots
+
 | Root | Meaning | Combining Form |
 | --- | --- | --- |
-| **ocul / ophthalm** | eye | ocul**o**– / ophthalm**o**– |
+| **ambly** | dim, dull | ambly**o**– |
+| **blephar** | eyelid | blephar**o**– |
+| **conjunctiv** | conjunctiva | conjunctiv**o**– |
 | **corne / kerat** | cornea | corne**o**– / kerat**o**– |
-| **retin** | retina | retin**o**– |
+| **dacry / lacrim** | tears | dacry**o**– / lacrim**o**– |
+| **glauc** | gray | glauc**o**– |
 | **ir / irid** | iris | ir**o**– / irid**o**– |
-| **opt / ops / opia** | vision | opt**o**– / op**o**– |
-| **lacrim / dacry** | tears | lacrim**o**– / dacry**o**– |
+| **morph** | shape, structure | morph**o**– |
+| **ocul / ophthalm** | eye | ocul**o**– / ophthalm**o**– |
+| **opia / ops / opt / optic** | vision | opt**o**– / op**o**– |
+| **phot** | light | phot**o**– |
+| **retin / retina** | retina | retin**o**– |
+| **scler** | sclera | scler**o**– |
+| **stigmat** | pointed, mark | stigmat**o**– |
+| **tropia** | misalignment | –tropia |
+| **vitr** | vitreous body | vitr**o**– |
+
+### 👁️ Senses: Sight - Common Terms
+
+| Term | Meaning |
+| --- | --- |
+| **amblyopia** | reduced vision in one eye (“lazy eye”) |
+| **astigmatism** | irregular curvature of the cornea or lens causing blurred vision |
+| **blepharitis** | inflammation of the eyelid |
+| **blepharoptosis** | drooping of the upper eyelid |
+| **conjunctivitis** | inflammation of the conjunctiva (“pink eye”) |
+| **diplopia** | double vision |
+| **endophthalmitis** | inflammation inside the eye |
+| **esotropia** | inward turning of the eye |
+| **exotropia** | outward turning of the eye |
+| **glaucoma** | increased intraocular pressure damaging the optic nerve |
+| **hyperopia** | farsightedness |
+| **iridoplegia** | paralysis of the iris |
+| **oculomycosis** | fungal infection of the eye |
+| **photophobia** | sensitivity to light |
+| **retinosis** | degenerative disease of the retina |
+| **scleromalacia** | softening of the sclera |
+| **vitrectomy** | surgical removal of the vitreous body |
 
 ---
 
