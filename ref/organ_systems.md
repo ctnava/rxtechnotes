@@ -46,6 +46,8 @@
     - [♀️ Female Reproductive System - Roots](#️-female-reproductive-system---roots)
     - [♀️ Female Reproductive System - Common Terms](#️-female-reproductive-system---common-terms)
   - [♂️ Male Reproductive System](#️-male-reproductive-system)
+    - [♂️ Male Reproductive System - Roots](#️-male-reproductive-system---roots)
+    - [♂️ Male Reproductive System - Common Terms](#️-male-reproductive-system---common-terms)
   - [👂 Senses: Hearing](#-senses-hearing)
   - [👁️ Senses: Sight](#️-senses-sight)
   - [Navlinks](#navlinks)
@@ -797,13 +799,39 @@ During menopause:
 
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
 
+### ♂️ Male Reproductive System - Roots
+
 | Root | Meaning | Combining Form |
 | --- | --- | --- |
 | **andr** | male | andr**o**– |
-| **orch / orchi / orchid** | testis | orch**i**– / orchid**o**– |
-| **prostat** | prostate | prostat**o**– |
-| **vas** | vas deferens | vas**o**– |
+| **balan** | glans penis | balan**o**– |
+| **crypt** | hidden | crypt**o**– |
 | **epididym** | epididymis | epididym**o**– |
+| **orch / orchi / orchid / test / testi** | testis | orch**i**– / orchid**o**– / test**o**– |
+| **prostat** | prostate | prostat**o**– |
+| **semin** | semen | semin**o**– |
+| **sperm / spermat** | sperm | sperm**o**– / spermat**o**– |
+| **vas** | vessel, duct | vas**o**– |
+| **varic** | dilated vein | varic**o**– |
+| **vesicul** | seminal vesicle | vesicul**o**– |
+
+### ♂️ Male Reproductive System - Common Terms
+
+| Term | Meaning |
+| --- | --- |
+| **android** | resembling a male |
+| **anorchism** | absence of one or both testes |
+| **aspermia** | absence of semen |
+| **balanitis** | inflammation of the glans penis |
+| **cryptorchidism** | undescended testis |
+| **hematospermia** | blood in the semen |
+| **orchitis** | inflammation of the testis |
+| **prostatalgia** | pain in the prostate |
+| **prostatitis** | inflammation of the prostate |
+| **testalgia** | testicular pain |
+| **varicocele** | enlarged, dilated veins of the spermatic cord |
+| **vasectomy** | surgical removal or cutting of part of the vas deferens |
+| **vesiculitis** | inflammation of the seminal vesicles |
 
 ## 👂 Senses: Hearing
 
