@@ -35,6 +35,8 @@
     - [🚽 Urinary System - Roots](#-urinary-system---roots)
     - [🚽 Urinary System - Common Terms](#-urinary-system---common-terms)
   - [🔥 Endocrine System](#-endocrine-system)
+    - [🧠 Hypothalamus \& Pituitary: Master Regulators](#-hypothalamus--pituitary-master-regulators)
+    - [🔬 Other Major Endocrine Organs](#-other-major-endocrine-organs)
     - [🔥 Endocrine System - Roots](#-endocrine-system---roots)
     - [🔥 Endocrine System - Common Terms](#-endocrine-system---common-terms)
   - [♀️ Female Reproductive System](#️-female-reproductive-system)
@@ -628,9 +630,36 @@ Urinary disorders may result from **congenital anomalies**, **infections**, **ob
 
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
 
-The **endocrine system** regulates body functions through the secretion of **hormones**, chemical messengers released directly into the bloodstream. These hormones control **metabolism**, **growth**, **stress response**, **reproduction**, **electrolyte balance**, and **homeostasis**.
+The **endocrine system** regulates body functions through the secretion of **hormones**, chemical messengers released directly into the bloodstream. These hormones influence **metabolism**, **growth**, **stress response**, **reproduction**, **electrolyte balance**, and overall **homeostasis**.
 
-Major endocrine glands include the **pituitary**, **thyroid**, **parathyroid**, **adrenal glands**, **pancreas**, **thymus**, and **gonads**. Unlike the nervous system—which communicates rapidly through electrical impulses—the endocrine system produces **slower, longer‑lasting** effects through hormonal signaling.
+Endocrine signaling can produce:
+
+- **Short‑term effects**, such as increased heart rate during stress  
+- **Long‑term effects**, such as bone growth, muscle development, and reproductive maturation
+
+Major endocrine glands include the **hypothalamus**, **pituitary**, **thyroid**, **parathyroid glands**, **adrenal glands**, **pancreas**, **thymus**, and **pineal gland**.
+
+### 🧠 Hypothalamus & Pituitary: Master Regulators
+
+- The **hypothalamus** is the neural control center of the endocrine system.  
+  It links the nervous and endocrine systems and regulates hunger, thirst, temperature, circadian rhythm, and hormone release.
+- The **pituitary gland** ("master gland") produces multiple hormones that regulate **body growth**, **thyroid activity**, **adrenal function**, **reproduction**, and **water balance**.
+- The **pineal gland**, located behind the hypothalamus, produces **melatonin**, which regulates **sleep–wake cycles** and influences reproductive hormones.
+
+### 🔬 Other Major Endocrine Organs
+
+- **Thyroid gland**  
+  Produces hormones that regulate **metabolism**, energy production, and calcium balance.
+- **Parathyroid glands (four small glands)**  
+  Regulate **calcium and phosphate** levels in the blood.
+- **Thymus**  
+  Plays a key role in **immune system maturation**, especially T‑cell development.
+- **Pancreas**  
+  Produces **insulin** and **glucagon**, which regulate blood glucose levels.  
+  Dysfunction leads to **diabetes mellitus**.
+- **Adrenal glands**  
+  Produce **aldosterone**, **cortisol**, **androgens**, and **adrenaline/noradrenaline**.  
+  These hormones regulate **stress response**, **blood pressure**, **metabolism**, and **electrolyte balance**.
 
 ### 🔥 Endocrine System - Roots
 
