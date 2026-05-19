@@ -16,6 +16,7 @@
     - [💪 Muscular System - Common Terms](#-muscular-system---common-terms)
   - [🧠 Nervous System](#-nervous-system)
     - [🧠 Nervous System - Disorders](#-nervous-system---disorders)
+    - [Pain Medication](#pain-medication)
     - [🧠 Nervous System - Roots](#-nervous-system---roots)
     - [🧠 Nervous System - Common Terms](#-nervous-system---common-terms)
   - [❤️ Cardiovascular System](#️-cardiovascular-system)
@@ -23,6 +24,7 @@
     - [❤️ Cardiovascular System - Roots](#️-cardiovascular-system---roots)
     - [❤️ Cardiovascular System - Common Terms](#️-cardiovascular-system---common-terms)
   - [🩸 Lymphatic \& Blood Systems](#-lymphatic--blood-systems)
+    - [🦠 Anti-Infectives](#-anti-infectives)
     - [🩸 Lymphatic \& Blood Systems - Roots](#-lymphatic--blood-systems---roots)
     - [🩸 Lymphatic \& Blood Systems - Common Terms](#-lymphatic--blood-systems---common-terms)
   - [🌬️ Respiratory System](#️-respiratory-system)
@@ -339,6 +341,13 @@ The **nervous system** is the body's master **communication and control network*
 - **Alzheimer's Disease**: Progressive neurodegenerative dementia with cognitive decline. May also involve peripheral nervous system markers.
 - **Parkinson's Disease**: Progressive neuromuscular degeneration with motor symptoms such as tremors and rigidity. Involves dopamine deficiency and may affect peripheral pathways.
 
+### Pain Medication
+
+- **Opiate-type Analgesics (Narcotics)**: Pain-relief drugs derived from opium (e.g., morphine, codeine). High risk for dependence and abuse.
+- **NSAIDs**: Non-steroidal anti-inflammatory drugs. Provide analgesic, antipyretic, and anti-inflammatory effects (e.g., ibuprofen).
+  - **Salicylates**: Subclass of NSAIDs; includes aspirin.
+- **Local Anesthetics**: Block pain transmission along peripheral nerves without causing unconsciousness (e.g., cocaine, lidocaine).
+
 ### 🧠 Nervous System - Roots
 
 | Root | Meaning | Combining Form |
@@ -472,6 +481,15 @@ The **lymphatic system** collects excess plasma fluid that escapes blood vessels
 
 Major lymphoid organs include the **spleen** (largest lymphatic organ), **thymus**, **tonsils**, and **adenoids**, all of which contribute to immune defense.
 
+> The immune response induces fevers. **Antipyretics** are the front-line treatment. They are drugs that reduce fevers (e.g., acetaminophen).
+
+### 🦠 Anti-Infectives
+
+- **Vaccine**: Stimulates immune response by exposing the body to a weakened or inactive form of a pathogen.
+- **Antibiotic**: Targets and kills or inhibits bacteria.
+- **Antiviral**: Inhibits viral replication (e.g., acyclovir).
+- **Antifungal**: Inhibits growth of or kills fungi (e.g., fluconazole).
+
 ### 🩸 Lymphatic & Blood Systems - Roots
 
 | Root | Meaning | Combining Form |
@@ -496,7 +514,7 @@ Major lymphoid organs include the **spleen** (largest lymphatic organ), **thymus
 | Term | Meaning |
 | --- | --- |
 | **adenopathy** | disease or enlargement of lymph nodes |
-| **anemia** | deficiency of red blood cells or hemoglobin |
+| **anemia** | Decreased red blood cell count or hemoglobin levels, leading to reduced oxygen delivery |
 | **bacteremia** | presence of bacteria in the bloodstream |
 | **emia** | blood condition (suffix) |
 | **hematoma** | localized collection of blood outside vessels (bruise) |
@@ -1151,6 +1169,7 @@ The eye is composed of **three layers**, each with specialized structures and fu
 | **glaucoma** | increased intraocular pressure damaging the optic nerve |
 | **hyperopia** | farsightedness |
 | **iridoplegia** | paralysis of the iris |
+| **ophthalmic formulations** | formulations intended for use in the eye |
 | **oculomycosis** | fungal infection of the eye |
 | **photophobia** | sensitivity to light |
 | **retinosis** | abnormal condition of the retina |
