@@ -657,7 +657,7 @@ Major endocrine glands include the **pituitary**, **thyroid**, **parathyroid**, 
 | Term | Meaning |
 | --- | --- |
 | **adenoma** | benign tumor of a gland |
-| **diabetic** | relating to diabetes or high blood glucose |
+| **diabetic** | relating to diabetic disorder or high blood glucose |
 | **endocrine** | relating to hormone‑secreting glands |
 | **glycosuria** | glucose in the urine |
 | **hyperglycemia** | elevated blood glucose levels |
@@ -665,7 +665,7 @@ Major endocrine glands include the **pituitary**, **thyroid**, **parathyroid**, 
 | **hyperplasia** | excessive growth or increase in cell number |
 | **hypothyroidism** | underactive thyroid gland |
 | **lipidemia** | presence of lipids in the blood |
-| **myxedema** | severe hypothyroidism with swelling of skin and tissues |
+| **myxedema** | swelling of skin, giving waxy or slimy appearance |
 | **pancreatitis** | inflammation of the pancreas |
 | **parathyroid** | relating to the parathyroid glands |
 | **somatic** | relating to the body |
