@@ -77,7 +77,9 @@ Back to 🔙🔗 [Production, Marketing, & Distribution of Medicine](./discovery
 
 ## Classification Schemes
 
-### Interpreting Drug Classifications
+Drugs can have multiple classifications.
+
+### Classification by Physiological Processes & Symptoms
 
 `The same system used to interpret medical science terminology can be used to interpret drug classification names.`
 
@@ -102,20 +104,16 @@ Drugs that act on the sympathetic nervous system are called **adrenergic**, beca
 
 Drugs may be classified by how they interact with specific receptors.
 
-- **Agonists**: activate a receptor  
-- **Antagonists**: block a receptor  
+- **Agonists**: activate a receptor
+  - **‑mimetic** means agonist (mimics the natural chemical)
+- **Antagonists**: block a receptor
+  - **Blocker & Anti-** usually means antagonist
 - **Partial agonists**: activate a receptor but produce a weaker response  
 
 Adrenergic receptor responses may be categorized as **alpha** and **beta** receptors.  
 Each receptor subtype is responsible for specific pharmacological effects.
 
-### Additional Factors That Complicate Naming Schemes
-
-Certain naming conventions overlap or cause confusion:
-
-- **Blocker**: usually means antagonist  
-- **Anti‑**: often means antagonist (e.g., antihistamine)  
-- **‑mimetic**: means agonist
+### Classification by Other Neurotransmitter Activity
 
 Other neurotransmitter systems also influence classification, including:
 
