@@ -821,7 +821,7 @@ During menopause:
 | --- | --- |
 | **android** | resembling a male |
 | **anorchism** | absence of one or both testes |
-| **aspermia** | absence of semen |
+| **aspermia** | inability to produce sperm |
 | **balanitis** | inflammation of the glans penis |
 | **cryptorchidism** | undescended testis |
 | **hematospermia** | blood in the semen |
