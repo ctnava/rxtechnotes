@@ -26,10 +26,11 @@
     - [🩸 Lymphatic \& Blood Systems - Roots](#-lymphatic--blood-systems---roots)
     - [🩸 Lymphatic \& Blood Systems - Common Terms](#-lymphatic--blood-systems---common-terms)
   - [🌬️ Respiratory System](#️-respiratory-system)
-    - [Respiratory Condition Classification](#respiratory-condition-classification)
+    - [🌬️ Respiratory System - Conditions \& Treatments](#️-respiratory-system---conditions--treatments)
     - [🌬️ Respiratory System - Roots](#️-respiratory-system---roots)
     - [🌬️ Respiratory System - Common Terms](#️-respiratory-system---common-terms)
   - [🍽️ Gastrointestinal Tract](#️-gastrointestinal-tract)
+    - [🍽️ Gastrointestinal Tract - Common Drugs](#️-gastrointestinal-tract---common-drugs)
     - [🍽️ Gastrointestinal Tract - Roots](#️-gastrointestinal-tract---roots)
     - [🍽️ Gastrointestinal Tract - Common Terms](#️-gastrointestinal-tract---common-terms)
   - [🚽 Urinary System](#-urinary-system)
@@ -40,6 +41,7 @@
   - [🔥 Endocrine System](#-endocrine-system)
     - [🧠 Hypothalamus \& Pituitary: Master Regulators](#-hypothalamus--pituitary-master-regulators)
     - [🔬 Other Major Endocrine Organs](#-other-major-endocrine-organs)
+    - [🔥 Endocrine System - Conditions \& Treatments](#-endocrine-system---conditions--treatments)
     - [🔥 Endocrine System - Roots](#-endocrine-system---roots)
     - [🔥 Endocrine System - Common Terms](#-endocrine-system---common-terms)
   - [♀️ Female Reproductive System](#️-female-reproductive-system)
@@ -457,6 +459,8 @@ Blood pressure is measured using a **sphygmomanometer**, expressed as **systolic
 
 ## 🩸 Lymphatic & Blood Systems
 
+`centers of the body's immune system`
+
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
 
 The **blood and lymphatic systems** work together to transport essential substances, defend the body, and maintain fluid balance. **Blood** delivers **oxygen and nutrients** to tissues while removing **carbon dioxide and metabolic waste** for elimination. It is composed of **erythrocytes (RBCs)**, **leukocytes (WBCs)**, **platelets**, and **plasma**.
@@ -508,6 +512,8 @@ Major lymphoid organs include the **spleen** (largest lymphatic organ), **thymus
 
 ## 🌬️ Respiratory System
 
+`brings oxygen into the body through inhalation & expels carbon dioxide through exhalation`
+
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
 
 The **respiratory system** brings **oxygen** into the body through inhalation and removes **carbon dioxide** during exhalation. It also helps **regulate body temperature**, maintain **blood pH**, and, together with the **epiglottis** and **vocal cords**, produces **sound** for speech.
@@ -525,14 +531,22 @@ The **respiratory system** brings **oxygen** into the body through inhalation an
   - **Diaphragm**: contracts to draw air into the lungs  
   - **Bronchi → bronchioles → alveoli**: branching airways that end in **alveolar sacs**, where **gas exchange** occurs
 
-### Respiratory Condition Classification
+### 🌬️ Respiratory System - Conditions & Treatments
 
 Respiratory disorders fall into two major categories:
 
 - **Infectious Conditions**: Viral or bacterial infections (e.g., influenza, pneumonia)
 - **Chronic Respiratory Diseases**
   - **Asthma**: inflammation and narrowing of airways triggered by allergens, exercise, cold air, or irritants  
+   **Emphysema**: Chronic lung condition often associated with asthma and smoking.
   - **COPD**: a combination of **chronic bronchitis**, **asthma**, and **emphysema**, leading to obstructed airflow and reduced lung function
+
+Most common treatments are as follows:
+
+- **Antihistamines**: Reduce allergy symptoms by blocking histamine (e.g., diphenhydramine).
+- **Decongestants**: Shrink swollen (i.e. vasodilation) mucous membranes (e.g., pseudoephedrine).
+- **Antitussives**: Suppress coughing (e.g., dextromethorphan).
+- **Bronchodilators**: Relax bronchial muscles (i.e. bronchospasm) to improve airflow (e.g., albuterol).
 
 ### 🌬️ Respiratory System - Roots
 
@@ -579,6 +593,8 @@ Respiratory disorders fall into two major categories:
 
 ## 🍽️ Gastrointestinal Tract
 
+`contains organs involved in the digestion of food and absorption of nutrients`
+
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
 
 The **gastrointestinal (GI) tract** occupies the abdominal cavity and is lined by the **peritoneum**, a protective membrane that supports and cushions the digestive organs. It includes the **stomach**, **small and large intestines**, **liver**, **gallbladder**, and **pancreas**, all of which work together to digest food and absorb nutrients.
@@ -588,6 +604,14 @@ The **liver** and **gallbladder** aid digestion by secreting **bile** and enzyme
 Common GI complaints include **heartburn (pyrosis)**, **dyspepsia**, and **diarrhea**. Heartburn is often associated with **gastroesophageal reflux disease (GERD)** but may also occur with **peptic ulcer disease (PUD)** or **gallbladder disorders**.
 
 The GI tract is sometimes incorrectly referred to as the **alimentary tract**. In reality, the alimentary tract extends from the **mouth to the anus**, including structures such as the **lips, tongue, teeth, salivary glands, pharynx, esophagus, rectum, and anus**, in addition to the GI organs.
+
+### 🍽️ Gastrointestinal Tract - Common Drugs
+
+- **Antidiarrheals**: Slow intestinal motility or absorb excess fluid (e.g., loperamide).
+- **Antiemetics**: Suppress nausea and vomiting (e.g., ondansetron).
+- **Antacids**: Neutralize stomach acid (e.g., calcium carbonate).
+- **Proton Pump Inhibitors (PPIs)**: Suppress acid production (e.g., omeprazole).
+- **Stool Softeners**: Promote easier defecation by increasing water/fat in stool (e.g., docusate).
 
 ### 🍽️ Gastrointestinal Tract - Roots
 
@@ -630,6 +654,8 @@ The GI tract is sometimes incorrectly referred to as the **alimentary tract**. I
 | **laparoscopy** | minimally invasive abdominal surgery using a scope |
 
 ## 🚽 Urinary System
+
+`filtering waste and drugs from the blood through the kidneys' nephrons`
 
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
 
@@ -693,6 +719,8 @@ Urinary disorders may result from **congenital anomalies**, **infections**, **ob
 
 ## 🔥 Endocrine System
 
+`glands that secrete hormones to regulate bodily processes`
+
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
 
 The **endocrine system** regulates body functions through the secretion of **hormones**, chemical messengers released directly into the bloodstream. These hormones influence **metabolism**, **growth**, **stress response**, **reproduction**, **electrolyte balance**, and overall **homeostasis**.
@@ -725,6 +753,15 @@ Major endocrine glands include the **hypothalamus**, **pituitary**, **thyroid**,
 - **Adrenal glands**  
   Produce **aldosterone**, **cortisol**, **androgens**, and **adrenaline/noradrenaline**.  
   These hormones regulate **stress response**, **blood pressure**, **metabolism**, and **electrolyte balance**.
+
+### 🔥 Endocrine System - Conditions & Treatments
+
+- **Corticosteroids**: Synthetic or natural hormones from adrenal cortex; suppress inflammation and immune response (e.g., prednisone).
+- **Thyroid Disorders**:
+  - **Hyperthyroidism**: Overproduction of thyroid hormones (e.g., Graves' disease).
+  - **Hypothyroidism**: **Underproduction** of thyroid hormones (e.g., Hashimoto's thyroiditis).
+- **Diabetes Mellitus**: Metabolic disorder involving improper insulin production or use.
+  - **Insulin**: Pancreatic hormone that regulates blood glucose.
 
 ### 🔥 Endocrine System - Roots
 
