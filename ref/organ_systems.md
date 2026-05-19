@@ -30,6 +30,8 @@
     - [🍽️ Gastrointestinal Tract - Roots](#️-gastrointestinal-tract---roots)
     - [🍽️ Gastrointestinal Tract - Common Terms](#️-gastrointestinal-tract---common-terms)
   - [🚽 Urinary System](#-urinary-system)
+    - [🚽 Urinary System - Roots](#-urinary-system---roots)
+    - [🚽 Urinary System - Common Terms](#-urinary-system---common-terms)
   - [🔥 Endocrine System](#-endocrine-system)
   - [♀️ Female Reproductive System](#️-female-reproductive-system)
   - [♂️ Male Reproductive System](#️-male-reproductive-system)
@@ -560,13 +562,38 @@ The GI tract is sometimes incorrectly referred to as the **alimentary tract**. I
 
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
 
+### 🚽 Urinary System - Roots
+
 | Root | Meaning | Combining Form |
 | --- | --- | --- |
-| **nephr / ren** | kidney | nephr**o**– |
-| **ureter** | ureter | ureter**o**– |
-| **cyst** | bladder | cyst**o**– |
+| **albumin** | protein | albumin– |
+| **cyst / vesic** | bladder | cyst**o**– / vesic**o**– |
+| **glycos / glucos** | sugar, glucose | glycos**o**– / glucos**o**– |
+| **keton** | ketone | keton**o**– |
+| **lith** | stone | lith**o**– |
+| **nephr / ren** | kidney | nephr**o**– / ren**o**– |
 | **ur / uro** | urine | ur**o**– |
+| **uresis** | urination | –uresis |
+| **ureter** | ureter | ureter**o**– |
 | **urethr** | urethra | urethr**o**– |
+
+### 🚽 Urinary System - Common Terms
+
+| Term | Meaning |
+| --- | --- |
+| **anuria** | absence of urine production |
+| **cystectomy** | surgical removal of the bladder |
+| **cystitis** | inflammation of the bladder |
+| **dialysis** | artificial filtration of the blood when kidneys fail |
+| **diuretic** | drug that increases urine production |
+| **dysuria** | painful or difficult urination |
+| **enuresis** | involuntary urination (e.g., bed‑wetting) |
+| **glycosuria** | glucose in the urine |
+| **ketonuria** | ketones in the urine |
+| **nephalgia** | kidney pain |
+| **nephritis** | inflammation of the kidney |
+| **polyuria** | excessive urine production |
+| **renal** | relating to the kidneys |
 
 ## 🔥 Endocrine System
 
