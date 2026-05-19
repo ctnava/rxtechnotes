@@ -781,14 +781,14 @@ During menopause:
 | **cervicitis** | inflammation of the cervix |
 | **condyloma** | wart‑like growth, often HPV‑related |
 | **dystocia** | difficult labor or childbirth |
-| **endometriosis** | growth of endometrial tissue outside the uterus |
+| **endometriosis** | abnormal growth of uterine tissue |
 | **gynecology** | study of female reproductive health |
 | **hysterectomy** | surgical removal of the uterus |
 | **lactation** | production of milk |
 | **mammogram** | breast imaging for screening |
 | **mastectomy** | surgical removal of the breast |
 | **mastitis** | inflammation of breast tissue |
-| **menorrhea** | normal menstrual flow |
+| **menorrhea** | prolonged bleeding during menopause |
 | **ovulation** | release of an ovum from the ovary |
 | **salpingocyesis** | ectopic pregnancy in a fallopian tube |
 | **vaginitis** | inflammation of the vagina |
