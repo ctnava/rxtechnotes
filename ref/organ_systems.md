@@ -58,6 +58,8 @@
     - [👂 Senses: Hearing - Roots](#-senses-hearing---roots)
     - [👂 Senses: Hearing - Common Terms](#-senses-hearing---common-terms)
   - [👁️ Senses: Sight](#️-senses-sight)
+    - [👁️ Eyelids](#️-eyelids)
+    - [👁️ The Eye, Itself](#️-the-eye-itself)
     - [👁️ Senses: Sight - Roots](#️-senses-sight---roots)
     - [👁️ Senses: Sight - Common Terms](#️-senses-sight---common-terms)
   - [Navlinks](#navlinks)
@@ -976,6 +978,50 @@ Together, the semicircular canals and vestibule form the **vestibular system**, 
 ## 👁️ Senses: Sight
 
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
+
+The **sense of sight** allows the body to detect light, interpret images, and respond to visual information. The eye functions like a camera; focusing light, converting it into electrical signals, and sending those signals to the **brain** for interpretation.
+
+### 👁️ Eyelids
+
+The **eyelids** protect the eye from debris, injury, and excessive light. They also play a major role in **lubrication**:
+
+- With each blink, the eyelids spread **tears** across the eye’s surface.
+- Tears are produced by the **lacrimal glands** and swept toward the **inner corner of the eye**.
+- Tears drain into small openings (the **canaliculi**) in the upper and lower eyelids.
+- These canals converge into the **lacrimal sac**, then drain into the **nasolacrimal duct**, which empties into the nose; explaining why crying leads to a runny nose.
+
+The inner surface of the eyelids is lined with the **conjunctiva**, a thin, vascular membrane that:
+
+- Keeps the eye moist  
+- Serves as a reservoir for tears (causing puffiness when inflamed)  
+- Acts as a structural "gutter" for administering ophthalmic medications
+
+### 👁️ The Eye, Itself
+
+The eye is composed of **three layers**, each with specialized structures and functions.
+
+1. **Outer Layer**
+   - **Sclera**  
+     The white, collagen‑rich, non‑innervated outer layer that provides rigidity and protection.  
+     It encases and supports the internal structures of the eye.
+   - **Cornea**  
+     A transparent, highly innervated, curved surface that allows light to enter.  
+     It is the **primary refractive element** of the eye.  
+     Through the cornea, the **iris** (eye color) and **pupil** (opening that regulates light) are visible.
+2. **Middle Layer (Choroid)**: The **choroid** is a vascular layer that
+   - Supplies oxygen and nutrients to the retina and other layers  
+   - Absorbs excess light to prevent visual distortion  
+   - Encircles the entire eye between the sclera and retina  
+3. **Inner Layer**
+   - **Retina**  
+     Contains **rods** (dim light, peripheral vision) and **cones** (color, sharp detail).  
+     These photoreceptors convert light into electrical signals.
+   - **Optic Nerve**  
+     Transmits visual signals from the retina to the brain for interpretation.
+   - **Vitreous Humor**  
+     A clear, gel‑like substance that fills the posterior cavity, maintaining the eye’s shape and supporting the retina.
+   - **Lens**  
+     A flexible, transparent structure that changes shape to focus light onto the retina; a process known as **accommodation**
 
 ### 👁️ Senses: Sight - Roots
 
