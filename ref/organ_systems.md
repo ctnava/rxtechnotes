@@ -6,6 +6,7 @@
     - [🩹 Integumentary System - Roots](#-integumentary-system---roots)
     - [🩹 Integumentary System - Common Terms](#-integumentary-system---common-terms)
   - [🦴 Skeletal System](#-skeletal-system)
+    - [🦴 Skeletal System - Afflictions](#-skeletal-system---afflictions)
     - [🦴 Skeletal System - Roots](#-skeletal-system---roots)
     - [🦴 Skeletal System - Common Terms](#-skeletal-system---common-terms)
   - [💪 Muscular System](#-muscular-system)
@@ -14,9 +15,11 @@
     - [💪 Muscular System - Roots](#-muscular-system---roots)
     - [💪 Muscular System - Common Terms](#-muscular-system---common-terms)
   - [🧠 Nervous System](#-nervous-system)
+    - [🧠 Nervous System - Disorders](#-nervous-system---disorders)
     - [🧠 Nervous System - Roots](#-nervous-system---roots)
     - [🧠 Nervous System - Common Terms](#-nervous-system---common-terms)
   - [❤️ Cardiovascular System](#️-cardiovascular-system)
+    - [❤️ Cardiovascular System - Ailments \& Treatments](#️-cardiovascular-system---ailments--treatments)
     - [❤️ Cardiovascular System - Roots](#️-cardiovascular-system---roots)
     - [❤️ Cardiovascular System - Common Terms](#️-cardiovascular-system---common-terms)
   - [🩸 Lymphatic \& Blood Systems](#-lymphatic--blood-systems)
@@ -65,6 +68,8 @@
   - [Navlinks](#navlinks)
 
 ## 🩹 Integumentary System
+
+`The body's first line of defense against diseases & physical hazards`
 
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
 
@@ -146,6 +151,8 @@ The skin is the **largest organ** of the body and is composed of **three primary
 
 ## 🦴 Skeletal System
 
+`protects soft organs and provides structure & support for the body's organs`
+
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
 
 The **skeletal system** provides the structural framework of the body. It supports posture, enables movement in coordination with the muscular system, and protects vital organs such as the brain, heart, and lungs.
@@ -175,8 +182,11 @@ The skeletal system includes several connective tissues:
   - Reduce friction between tendons, ligaments, and bone  
   - **Bursitis** is inflammation of a bursa, often from repetitive motion or pressure
 
-sprains are the most common problem wwith ligamients that involve stretching or tearing
-cartilatge provides protective pads between bones
+### 🦴 Skeletal System - Afflictions
+
+- **Gout**: Inflammatory arthritis caused by uric acid crystal accumulation in joints.
+- **Rheumatoid Arthritis**: Autoimmune disease causing chronic joint inflammation.
+- **Osteoarthritis**: Degenerative joint disease from wear and tear; reduced mobility and deformity in weight-bearing joints.
 
 ### 🦴 Skeletal System - Roots
 
@@ -221,6 +231,8 @@ cartilatge provides protective pads between bones
 | **spondylitis** | inflammation of the vertebrae |
 
 ## 💪 Muscular System
+
+`The body contains >600 bones that give it shape & movement`
 
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
 
@@ -290,6 +302,8 @@ Muscles often work in **pairs**:
 
 ## 🧠 Nervous System
 
+`the body's system of communications`
+
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
 
 The **nervous system** is the body's master **communication and control network**, responsible for sensing internal and external changes, interpreting them, and coordinating responses to maintain **homeostasis**. It is divided into two major components:
@@ -298,9 +312,10 @@ The **nervous system** is the body's master **communication and control network*
   - Composed of the **brain** and **spinal cord**
   - Integrates, interprets, and processes all incoming information  
   - The brain contains **over 100 billion neurons**, serving as the center of **memory, emotion, thought, judgment, and reasoning**
+  - Controls voluntary movement through the **Somatic Nervous System**
 
 - **Peripheral Nervous System (PNS)**
-  - Consists of all **nerves** branching off the CNS  
+  - Consists of all **nerves** branching off the CNS; relays signals between CNS & body
   - Divided into:
     - **Somatic Nervous System**: controls **voluntary** actions (skeletal muscle movement)
     - **Autonomic Nervous System**: controls **involuntary** functions (breathing, heart rate, digestion)  
@@ -309,9 +324,18 @@ The **nervous system** is the body's master **communication and control network*
 
 **Neurons** are:
 
+- the **base unit**
 - Specialized **nerve cells** that transmit **electrochemical impulses**  
 - Transmission is nearly **instantaneous**, allowing rapid responses  
 - Supported by **neuroglia**, which protect, nourish, and maintain neural tissue
+
+### 🧠 Nervous System - Disorders
+
+- **Epilepsy**: Characterized by chronic, recurrent seizures.
+- **Bipolar Disorder**: Mood disorder with alternating episodes of mania and depression.
+- **Depression**: Affective disorder characterized by persistent low mood and anhedonia.
+- **Alzheimer's Disease**: Progressive neurodegenerative dementia with cognitive decline. May also involve peripheral nervous system markers.
+- **Parkinson's Disease**: Progressive neuromuscular degeneration with motor symptoms such as tremors and rigidity. Involves dopamine deficiency and may affect peripheral pathways.
 
 ### 🧠 Nervous System - Roots
 
@@ -353,6 +377,8 @@ The **nervous system** is the body's master **communication and control network*
 
 ## ❤️ Cardiovascular System
 
+`circulates blood through the body in vessels called arteries, capillaries, and veins`
+
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
 
 The **cardiovascular system** is a **closed circulatory network** responsible for transporting blood throughout the body via **arteries, capillaries, and veins**. The **heart** acts as the central pump, maintaining **one‑directional flow** through its valves and circulating approximately **5 liters of blood per minute**. Circulation occurs through two interconnected loops:
@@ -364,10 +390,30 @@ The **cardiovascular system** is a **closed circulatory network** responsible fo
   - Delivers **oxygenated blood** from the left heart to all body tissues  
   - Returns **deoxygenated blood** back to the right heart, completing the cycle
 
-Blood pressure is measured using a **sphygmomanometer**, expressed as **systolic/diastolic** (e.g., *120/80 mmHg*):
+Blood pressure is measured using a **sphygmomanometer**, expressed as **systolic/diastolic** (e.g., *120/80 mmHg*)
 
-- **Systolic pressure**: first number; force during heart contraction  
-- **Diastolic pressure**: second number; force during relaxation
+- **Blood Pressure (BP)**: Force of circulating blood on arterial walls.
+  - **Systolic BP (SBP)**: Pressure during heart contraction. **First number** in BP reading.
+  - **Diastolic BP (DBP)**: Pressure during relaxation. **Second number** in BP reading.
+
+### ❤️ Cardiovascular System - Ailments & Treatments
+
+- **Hypotension**: Low blood pressure.
+  - **Vasopressors**: Increase blood pressure by vasoconstriction (e.g., norepinephrine).
+- **Hypertension (HTN)**: Chronically elevated blood pressure.
+  - **Vasodilators**: Relax and widen blood vessels (e.g., hydralazine).
+  - **ACE Inhibitors**: typically end in `-pril`; lower BP by relaxing vessels (e.g., lisinopril).
+  - **Beta Blockers**: typically end in `-lol`; Reduce heart rate and oxygen demand (e.g., metoprolol).
+  - **Calcium Channel Blockers**: typically end in `-pine`; Slow cardiac conduction and relax vessels (e.g., amlodipine).
+  - **Diuretics**: typically end in `-ide`Reduce blood volume to lower BP (e.g., furosemide).
+  - **Antihyperlipidemics**: typically end in `-statin`; Lower blood lipids and cholesterol (e.g., statins).
+  - **Antianginals**: Treat angina pectoris (chest pain due to ischemia).
+- **Arrhythmia**: Irregular heart rhythm.
+  - **Antiarrhythmics**: Medications that stabilize cardiac rhythm.
+- **Thrombus**: Stationary blood clot in a vessel.
+  - **Embolism**: Clot or other material that travels and obstructs blood flow.
+  - **Anticoagulants**: Prevent clot formation (e.g., warfarin).
+  - **Thrombolytics**: Dissolve existing blood clots (e.g., alteplase).
 
 ### ❤️ Cardiovascular System - Roots
 
