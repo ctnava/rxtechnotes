@@ -27,6 +27,8 @@
     - [🌬️ Respiratory System - Roots](#️-respiratory-system---roots)
     - [🌬️ Respiratory System - Common Terms](#️-respiratory-system---common-terms)
   - [🍽️ Gastrointestinal Tract](#️-gastrointestinal-tract)
+    - [🍽️ Gastrointestinal Tract - Roots](#️-gastrointestinal-tract---roots)
+    - [🍽️ Gastrointestinal Tract - Common Terms](#️-gastrointestinal-tract---common-terms)
   - [🚽 Urinary System](#-urinary-system)
   - [🔥 Endocrine System](#-endocrine-system)
   - [♀️ Female Reproductive System](#️-female-reproductive-system)
@@ -506,17 +508,45 @@ Respiratory disorders fall into two major categories:
 
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
 
+### 🍽️ Gastrointestinal Tract - Roots
+
 | Root | Meaning | Combining Form |
 | --- | --- | --- |
-| **or / stomat** | mouth | or**o**– / stomat**o**– |
+| **chol / chole** | bile | chol**e**– |
+| **col / colon** | colon | col**o**– |
+| **duoden** | duodenum | duoden**o**– |
+| **enter** | intestine | enter**o**– |
 | **esophag** | esophagus | esophag**o**– |
 | **gastr** | stomach | gastr**o**– |
-| **enter** | intestine | enter**o**– |
-| **col / colon** | colon | col**o**– |
 | **hepat** | liver | hepat**o**– |
+| **herni** | hernia | herni**o**– |
+| **lapar** | abdomen | lapar**o**– |
+| **or / stomat** | mouth | or**o**– / stomat**o**– |
+| **orexia** | appetite | –orexia |
 | **pancreat** | pancreas | pancreat**o**– |
+| **pepsia** | digestion | –pepsia |
+| **phag** | swallow, eat | phag**o**– |
 | **proct / rect** | rectum | proct**o**– / rect**o**– |
-| **chol / chole** | bile | chol**e**– |
+
+### 🍽️ Gastrointestinal Tract - Common Terms
+
+| Term | Meaning |
+| --- | --- |
+| **anorexia** | loss of appetite |
+| **aphagia** | inability to swallow |
+| **cholelithiasis** | formation of gallstones |
+| **colitis** | inflammation of the colon |
+| **colostomy** | surgical opening of the colon to the abdominal surface |
+| **diarrhea** | frequent, watery bowel movements |
+| **duodenal** | relating to the duodenum |
+| **dyspepsia** | indigestion; difficulty digesting |
+| **enteropathy** | disease of the intestines |
+| **esophagitis** | inflammation of the esophagus |
+| **gastroenteritis** | inflammation of the stomach and intestines |
+| **hematemesis** | vomiting blood |
+| **hepatoma** | tumor of the liver |
+| **hernia** | protrusion of an organ through a weak wall |
+| **laparoscopy** | minimally invasive abdominal surgery using a scope |
 
 ## 🚽 Urinary System
 
