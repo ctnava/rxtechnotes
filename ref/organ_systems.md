@@ -508,6 +508,14 @@ Respiratory disorders fall into two major categories:
 
 🔙🔗 [Back to Top](#organ-systems-commonly-associated-terms--conditions)
 
+The **gastrointestinal (GI) tract** occupies the abdominal cavity and is lined by the **peritoneum**, a protective membrane that supports and cushions the digestive organs. It includes the **stomach**, **small and large intestines**, **liver**, **gallbladder**, and **pancreas**, all of which work together to digest food and absorb nutrients.
+
+The **liver** and **gallbladder** aid digestion by secreting **bile** and enzymes into the small intestine, while the **pancreas**, located behind the stomach, releases additional digestive enzymes. Once food is broken down, nutrients are absorbed through the GI tract’s **large surface area** and transported into the **circulatory system**, which distributes them throughout the body.
+
+Common GI complaints include **heartburn (pyrosis)**, **dyspepsia**, and **diarrhea**. Heartburn is often associated with **gastroesophageal reflux disease (GERD)** but may also occur with **peptic ulcer disease (PUD)** or **gallbladder disorders**.
+
+The GI tract is sometimes incorrectly referred to as the **alimentary tract**. In reality, the alimentary tract extends from the **mouth to the anus**, including structures such as the **lips, tongue, teeth, salivary glands, pharynx, esophagus, rectum, and anus**, in addition to the GI organs.
+
 ### 🍽️ Gastrointestinal Tract - Roots
 
 | Root | Meaning | Combining Form |
