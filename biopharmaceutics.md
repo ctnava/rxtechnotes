@@ -107,20 +107,6 @@ A drug modifies enzyme activity or interferes with metabolic pathways.
 
 ## Concentration & Effect
 
-### Concentrations
-
-**Minimum Effective Concentration (MEC)** is the concentration required at the site of action to start producing desirable, therapeutic effects.
-
-**Minimum Toxic Concentration (MTC)** is the concentration where the drug starts producing undesirable, toxic effects.
-
-The **Therapeutic Window** is the range between the MEC & MTC; which is where the benefits of drug therapy are maximized while danger is minimized.
-
-### Onset & Duration of Effects
-
-The **Onset of Action** is the amount of time it takes for MEC to be reached after the drug is administered.
-
-The **Duration of Action** is the amount of time the drug stays above MEC.
-
 ### Systemic & Local Concentrations
 
 `If a drug cannot get to the desired site of activity in high enough concentrations, it fail to produce any therapeutic effect.`
@@ -135,6 +121,20 @@ The systemic blood concentration of a drug is affected by bodily processes:
 The local blood concentration of a drug is affected by biological membranes. To get across these barriers, the **most** drugs penetrate them through **passive diffusion**.
 
 [passive diffusion defintion]
+
+### Effective Concentrations
+
+**Minimum Effective Concentration (MEC)** is the concentration required at the site of action to start producing desirable, therapeutic effects.
+
+**Minimum Toxic Concentration (MTC)** is the concentration where the drug starts producing undesirable, toxic effects.
+
+The **Therapeutic Window** is the range between the MEC & MTC; which is where the benefits of drug therapy are maximized while danger is minimized.
+
+### Onset & Duration of Effects
+
+The **Onset of Action** is the amount of time it takes for MEC to be reached after the drug is administered.
+
+The **Duration of Action** is the amount of time the drug stays above MEC.
 
 ---
 
