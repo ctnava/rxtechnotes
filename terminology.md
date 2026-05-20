@@ -210,6 +210,14 @@ The document provides a concise yet comprehensive overview of all major **human 
 
 ---
 
+## Medical Abbreviations
+
+Over 30,000 abbreviations are used in medical science; many specifc to each institution or area of study. Here is a list of some of the most common.
+
+🔗 Link to [Medical Abbreviations](./ref/medical_abbreviations.md)
+
+---
+
 ## 🗺️🔗 Nav Links
 
 - 🏠 [Home Directory](./readme.md)

@@ -135,3 +135,8 @@ Over 30,000 abbreviations are used in medical science; many specifc to each inst
 | X | UTI | Urinary Tract Infection |
 
 ---
+
+## Navlinks
+
+- 🔙🔗 [Translating the Signa](./sig_translation.md)
+- 🔙🔗 [Medical Terminology](../terminology.md#medical-abbreviations)

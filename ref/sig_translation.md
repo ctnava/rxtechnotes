@@ -177,6 +177,7 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 
 | Emoji | Abbreviation | Meaning | ⚠️ |
 | --- | --- | --- | --- |
+| 💊📜 | Rx | Prescription | |
 | ⛔🩺 | DUR | Drug Utilization Review | |
 | ✍️ | DAW | Dispense as written | |
 | 🚫 | D/C | Discontinue | |
