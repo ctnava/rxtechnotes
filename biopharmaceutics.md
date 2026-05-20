@@ -288,13 +288,52 @@ The number of cell layers between the drug and the bloodstream affects absorptio
 
 ### Enteral Drugs
 
-**Gastric Emptying Time**
-Metabolism by GI fluids and the intestinal membrane affect absorption.
-First Pass Metabolism
+`Most drugs are enteral and absorbed through the small intestine.`
+
+#### The Stomach
+
+Stomach acid can degrade drugs before absorption if the stomach is not the intended site.
+
+**Gastric Emptying Time**  
+The amount of time a drug remains in the stomach before entering the small intestine.
+
+| Factor | Effect on Gastric Emptying | Notes |
+| --- | --- | --- |
+| **Amount of food** | ↑ slows emptying | More volume = slower movement |
+| **Type of food** | ↑ slows emptying | Fatty meals slow the most |
+| **Other drugs** | ↑ or ↓ | e.g., opioids slow; metoclopramide speeds |
+| **Body position** | ↑ or ↓ | Lying on left side slows emptying |
+| **Emotional state** | ↑ or ↓ | Stress slows; relaxation may speed |
+
+Stomach acid can degrade drugs before absorption if the stomach is not the target
+
+#### The Small Intestine
+
+The small intestine is the **primary site of absorption** due to:
+
+- large surface area  
+- rich blood supply  
+- thin, single‑cell epithelium  
+
+**Gut motility** (i.e. how fast the intestines move) affects absorption:
+
+- **Slower motility → more absorption**  
+- **Faster motility → less absorption**
+
+**Bile salts & enzymes** also influence absorption:
+
+- Pancreatic enzymes, liver secretions, and intestinal enzymes may **destroy drugs**  
+- This contributes to **first‑pass metabolism** before the drug reaches systemic circulation
 
 ### Parenteral Drugs
 
-Bypass the liver
+Parenteral routes (IV, IM, SC, etc.) **bypass the GI tract** and therefore:
+
+- avoid stomach acid  
+- avoid intestinal enzymes  
+- avoid first‑pass metabolism by the liver  
+
+This results in **faster onset** and **higher bioavailability**.
 
 ---
 
