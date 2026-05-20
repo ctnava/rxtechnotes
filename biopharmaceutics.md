@@ -339,18 +339,57 @@ This results in **faster onset** and **higher bioavailability**.
 
 ## Distribution
 
-Once absorbed, a drug must **distribute** throughout the body. Distribution depends on both drug properties and physiological factors.
+Once absorbed, a drug must **distribute** throughout the body. Distribution depends on both the drug’s chemical properties and the body’s physiological characteristics.
 
-- **Circulation**: Tissues must have adequate blood flow for the drug to reach them.  
-  - Highly perfused organs (heart, liver, kidneys) receive drug first.  
-  - Poorly perfused tissues (fat, skin, bone) receive drug more slowly.
+### Circulation
 
-- **Complexation**: Drugs may bind to proteins or other molecules, forming complexes too large to cross membranes.  
-  - This **inactivates** the drug temporarily because only **free (unbound)** drug can exert an effect or cross membranes.
-  - Some drugs bind to fat and protein to form **depots** as a type of drug storage that gradually releases into the body.
-  - drugs with stronger binding affinity can displace or unbind drugs with weaker affinity
+Tissues must have adequate blood flow for the drug to reach them.
 
-Many drugs bond to blood plasma proteins to form a complex that is too large to penetrate biological membranes, rendering them inert; being filtered out by the kidneys.
+- **Highly perfused tissues** (heart, liver, kidneys, lungs, brain)  
+  → receive drug first and in the highest concentrations  
+- **Poorly perfused tissues** (fat, skin, bone, connective tissue)  
+  → receive drug more slowly and incompletely  
+
+Blood flow and **vascularity** are the **rate‑limiting factor** for many drugs.
+
+### Permeability
+
+Tissue membranes vary in how easily drugs can cross them.
+
+- **Small molecules** and **hydrophobic (lipid‑soluble)** drugs diffuse most rapidly  
+- Some membranes use **specialized transport mechanisms** (carriers, pumps, channels)  
+- Some membranes are **highly selective**, meaning they restrict passage based on:  
+  - size  
+  - charge  
+  - lipid solubility  
+  - presence of specific transporters  
+
+Example: **Blood–Brain Barrier (BBB)**
+
+- Tight junctions + high lipid content + efflux pumps  
+- Only small, lipid‑soluble, or actively transported drugs can enter  
+- Protects the CNS but limits drug access  
+
+> Highly permeable drugs may have **multiple sites of action** because many receptors exist in multiple tissues.
+
+### Complexation (Protein Binding & Tissue Binding)
+
+Drugs may bind to proteins or other molecules in the blood or tissues.
+
+- **Protein binding** (e.g., albumin) forms complexes too large to cross membranes  
+  - Only **free (unbound)** drug is active  
+  - Bound drug acts as a **reservoir**, slowly releasing over time  
+
+- **Depot formation**  
+  - Some drugs bind to **fat** or **tissue proteins**, creating storage depots  
+  - These depots release drug gradually, prolonging duration of action  
+  - Example: long‑acting IM injections (e.g., haloperidol decanoate)
+
+- **Displacement interactions**  
+  - Drugs with **stronger binding affinity** can displace drugs with weaker affinity  
+  - This increases the free concentration of the displaced drug  
+  - Clinically important for drugs with narrow therapeutic windows  
+    - e.g., warfarin, phenytoin, valproate
 
 ---
 
