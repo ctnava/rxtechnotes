@@ -107,9 +107,26 @@ A drug modifies enzyme activity or interferes with metabolic pathways.
 
 ## Concentration & Effect
 
-### Systemic & Local Concentrations
+### Dose-Response Curve
+
+Concentrations are typically impossible to measure at the site of action, so effects are measured instead.
+
+One way to monitor the effect at the site of action is to measure the **Dose-Response Curve** where the responses are measured.
+
+Human variability causes different people with different characteristics to respond differently to a drug, so an average is used.
+
+It affects how the drug:
+
+- is metabolized or utilized
+- travels to the site of administration to the site of action
+
+### Blood-Concentration Profile
 
 `If a drug cannot get to the desired site of activity in high enough concentrations, it fail to produce any therapeutic effect.`
+
+Systemic blood concentration is directly reflective of local concentration at the site of action for **most drugs** because it is in rapid equilibrium between the site of administration and the site of action.
+
+> Other methods of measuring concentrations include **Serum & Plasma**; which still reflect blood concentration.
 
 The systemic blood concentration of a drug is affected by bodily processes:
 
@@ -120,21 +137,34 @@ The systemic blood concentration of a drug is affected by bodily processes:
 
 The local blood concentration of a drug is affected by biological membranes. To get across these barriers, the **most** drugs penetrate them through **passive diffusion**.
 
-[passive diffusion defintion]
+**Passive Diffusion** is a purely physical process where [defintion].
+
+#### Applications
+
+- manufacturers use this data to evaluate drugs
+- pharmacy professionals use them to visualize the consequences of incorrect compounding or using wrong route
+- researcheers and clinicians use them to measure human vvariability in performance
+- physicians & pharmacists use them to monitor the drug therapy of patients
 
 ### Effective Concentrations
 
 **Minimum Effective Concentration (MEC)** is the concentration required at the site of action to start producing desirable, therapeutic effects.
 
-**Minimum Toxic Concentration (MTC)** is the concentration where the drug starts producing undesirable, toxic effects.
+**Minimum Toxic Concentration (MTC) / Maximum Safe Concentration (MSC)** is the concentration where the drug starts producing undesirable, toxic effects.
 
 The **Therapeutic Window** is the range between the MEC & MTC; which is where the benefits of drug therapy are maximized while danger is minimized.
 
 ### Onset & Duration of Effects
 
+Blood is sampled at multiple intervals to create a **Blood-Concentration Profile**.
+
 The **Onset of Action** is the amount of time it takes for MEC to be reached after the drug is administered.
 
 The **Duration of Action** is the amount of time the drug stays above MEC.
+
+Drugs are monitored by determining where the blood concentration **peaks** and **troughs** between administrations.
+
+![Blood Concentration Curve](./ref/img/blood-concentration.jpeg)
 
 ---
 
