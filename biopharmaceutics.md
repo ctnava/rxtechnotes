@@ -107,11 +107,19 @@ A drug modifies enzyme activity or interferes with metabolic pathways.
 
 ## Concentration & Effect
 
-**Minimum Effective Concentration (MEC)** is the concentration required at the site of action to start producing an effect.
+### Concentrations
 
-**Minimum Toxic Concentration (MTC)** is the concentration required to [definition]
+**Minimum Effective Concentration (MEC)** is the concentration required at the site of action to start producing desirable, therapeutic effects.
+
+**Minimum Toxic Concentration (MTC)** is the concentration where the drug starts producing undesirable, toxic effects.
 
 The **Therapeutic Window** is the range between the MEC & MTC; which is where the benefits of drug therapy are maximized while danger is minimized.
+
+### Onset & Duration of Effects
+
+The **Onset of Action** is the amount of time it takes for MEC to be reached after the drug is administered.
+
+The **Duration of Action** is the amount of time the drug stays above MEC.
 
 ### Systemic & Local Concentrations
 
