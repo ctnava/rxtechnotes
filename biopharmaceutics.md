@@ -28,7 +28,7 @@ When molecules bind to a receptor, they cause a reaction based on the drug's cha
 
 When all available receptors are occupied, the site is **saturated**. Increasing the dose beyond this point will not increase the effect.
 
-### Withdrawal
+#### Withdrawal
 
 Prolonged exposure to drugs that **stimulate** receptors (agonists) can cause the body to *down‑regulate* or desensitize those receptors, making them less responsive.
 
@@ -37,21 +37,21 @@ Prolonged exposure to drugs that **block** receptors (antagonists) can cause the
 When the drug is suddenly removed, the body’s altered receptor balance causes **withdrawal symptoms**.  
 This is why certain drugs must be **tapered** rather than stopped abruptly.
 
-### Receptor Mechanisms
+#### Receptor Mechanisms
 
-#### **Membrane Protein Bonding / Alteration**
+##### **Membrane Protein Bonding / Alteration**
 
 A drug affects ion channels, transporters, or structural proteins in cell membranes.  
 
 *Example:* **Sodium channel blockers** regulate sodium ion flow to control nerve conduction or cardiac rhythm.
 
-#### **Modifying Hormone Control**
+##### **Modifying Hormone Control**
 
 A drug alters hormone release, receptor sensitivity, or downstream signaling.
 
 *Example:* **Dopamine**, which functions as both a neurotransmitter and a hormone, influences cardiovascular and renal processes.
 
-#### **Supplementing Hormone Supply**
+##### **Supplementing Hormone Supply**
 
 Introduction of exogenous hormones in order to supplement deficiencies.
 
