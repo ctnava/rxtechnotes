@@ -325,6 +325,8 @@ The small intestine is the **primary site of absorption** due to:
 - Pancreatic enzymes, liver secretions, and intestinal enzymes may **destroy drugs**  
 - This contributes to **first‑pass metabolism** before the drug reaches systemic circulation
 
+> Drugs & nutrients enter a "portal vein that goes directly to the liver"
+
 ### Parenteral Drugs
 
 Parenteral routes (IV, IM, SC, etc.) **bypass the GI tract** and therefore:
@@ -399,13 +401,82 @@ Drugs may bind to proteins or other molecules in the blood or tissues.
 
 `Drugs are metabolized by enzymatic activity.`
 
-**Enzymes** are complex proteins that facilitate biochemical reactions.
+**Enzymes** are complex proteins that catalyze biochemical reactions, including the chemical modification of drugs.
 
-A **metabolite** is the result of an enzyme interacting with a drug, which are more likely than not inactivates the drug; becoming waste to be excreted.
+A **metabolite** is the product formed when an enzyme acts on a drug.
+
+- Most metabolites are **inactive**  
+- Some metabolites are **active** (may prolong or enhance drug effects)  
+- Metabolites persist until they are **excreted**
+
+Metabolism primarily occurs in the **liver**, but also in the intestines, kidneys, lungs, and plasma.
+
+### Enzymatic Activity
+
+The body can change how quickly it metabolizes drugs in response to chronic exposure.
+
+**Induction**:
+
+- Enzyme activity **increases**  
+- More drug is metabolized per unit time  
+- Blood levels fall faster  
+- **Higher doses** may be needed to reach MEC  
+- Can reduce effectiveness of other drugs metabolized by the same enzymes  
+
+**Inhibition**:
+
+- Enzyme activity **decreases**  
+- Drug metabolism slows  
+- Blood levels rise  
+- **Lower doses** may be needed to avoid MTC  
+- Increases risk of toxicity, especially for narrow‑therapeutic‑window drugs  
+
+> Many clinically important drug interactions occur because one drug **induces** or **inhibits** the metabolism of another.
+
+### First-Pass Metabolism
+
+When a drug is absorbed from the **GI tract**, it enters the **portal circulation** and is delivered directly to the **liver** before reaching systemic circulation.
+
+The liver acts as a **metabolic filter**, processing nutrients and drugs.
+
+- Drugs with **high first‑pass metabolism** have reduced bioavailability  
+- Oral doses may need to be much higher than IV doses  
+- Some drugs cannot be given orally because first‑pass metabolism destroys them  
+
+Examples of high first‑pass metabolism drugs:
+
+- propranolol  
+- nitroglycerin (why it’s given sublingually)  
+- morphine
+
+### Enterohepatic Cycling
+
+Some drugs or metabolites are excreted by the liver into **bile**, stored in the **gallbladder**, and released into the **small intestine**.
+
+From there, they may:
+
+1. Be **reabsorbed** into the portal vein  
+2. Return to the **liver**  
+3. Re‑enter **systemic circulation**
+
+This process is called **enterohepatic cycling**.
+
+Effects:
+
+- Prolongs drug action  
+- Creates secondary peaks in blood concentration  
+- Delays elimination  
+
+Examples:
+
+- oral contraceptives  
+- morphine  
+- rifampin  
+- some NSAIDs
 
 ---
 
-## Elimination / Excretion
+## Excretion
 
 ### Renal Processes
 
