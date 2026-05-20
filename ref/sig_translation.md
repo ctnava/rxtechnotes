@@ -87,45 +87,9 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 | 👃 | EN (RxConnect) | Each nostril | |
 | 🩹 | P (RxConnect) | Patch | |
 | 🧴 | A (RxConnect) | Apply | |
-
-### 💊 Dosage Form
-
-| Emoji | Abbreviation | Meaning | ⚠️ |
-| --- | --- | --- | --- |
-| ⚪ | tab, T | Tablet | |
-| ⏳ | EC | Enteric Coated | |
-| 💊 | cap, C | Capsule | |
-| 🕯️ | supp, SP | Suppository | |
-| 🧪 | susp | Suspension | |
-| 💧 | sol | Solution | |
-| 🍯 | syr | Syrup | |
-| 🧴 | crm, cm | Cream | |
-| 🧈 | ung, oint | Ointment | |
-| 💉 | inj | Injection | |
-| 💨 | P (RxConnect) | Puff (inhaler) | |
+| ✅🩹 | AAA (RxConnect) | Apply to affected area | |
 | 💨🌀 | SP (RxConnect) | Spray | |
 | 🌀✅ | SAS (RxConnect) | Swish and swallow | |
-
-### ⏰ Timing & Frequency
-
-| Emoji | Abbreviation | Meaning | ⚠️ |
-| --- | --- | --- | --- |
-| 🔁 | QOD | Every other day | ⚠️ |
-| 📅 | QD | Every day | ⚠️ (use “daily”) |
-| ⏰ | Q1H | Every hours | ⚠️ |
-| ⏰ | Q_H, Q_ | Every _ hours | ⚠️ |
-| 🌓 | BID | Twice a day | |
-| ☀️☀️☀️ | TID | Three times a day | |
-| 🌞🌞🌞🌞 | QID | Four times a day | ⚠️ |
-| 🛏️ | QHS, HS | Every night at bedtime | ⚠️ |
-| 🌙 | QPM, PM | Evening or night | |
-| ☀️ | QAM, AM | Every morning | |
-| 🙋‍♂️ | PRN | As needed | |
-| 🍽️ | WF | With food | |
-| 💊🍽️ | AC | Before meals | |
-| 🍽️💊 | PC | After meals | |
-| 🚨 | STAT | Immediately | |
-| 🗓️ | FXD (RxConnect) | For 10 Days | |
 
 ### 📏 Measurement
 
@@ -153,24 +117,66 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 | ➕📈 | qs ad | A sufficient quantity to make | |
 | ➕💦 | aq ad | Add water up to make | |
 
-### 🧩 Bridging
+### 💊 Dosage Form
 
 | Emoji | Abbreviation | Meaning | ⚠️ |
 | --- | --- | --- | --- |
-| ⛔ | NR | No refills | |
-| ✍️ | DAW | Dispense as written | |
-| 📘 | UD, TUD | Take As Directed | |
-| 📝 | Sig | Directions for use | |
-| 🚫👄 | NPO | Nothing by mouth | |
+| ⚪ | tab, T | Tablet | |
+| ⏳ | EC | Enteric Coated | |
+| 💊 | cap, C | Capsule | |
+| 🕯️ | supp, SP | Suppository | |
+| 🧪 | susp | Suspension | |
+| 💧 | sol | Solution | |
+| 🍯 | syr | Syrup | |
+| 🧴 | crm, cm | Cream | |
+| 🧈 | ung, oint | Ointment | |
+| 💉 | inj | Injection | |
+| ⏳💨 | MDI | Metered Dose Inhaler | |
+| 💉 | TPN | Total Parenteral Nutrition | |
+| 💨 | P (RxConnect) | Puff (inhaler) | |
+
+### ⏰ Timing & Frequency
+
+| Emoji | Abbreviation | Meaning | ⚠️ |
+| --- | --- | --- | --- |
+| 🔁 | QOD | Every other day | ⚠️ |
+| 📅 | QD | Every day | ⚠️ (use “daily”) |
+| ⏰ | Q1H | Every hours | ⚠️ |
+| ⏰ | Q_H, Q_ | Every _ hours | ⚠️ |
+| 🌓 | BID | Twice a day | |
+| ☀️☀️☀️ | TID | Three times a day | |
+| 🌞🌞🌞🌞 | QID | Four times a day | ⚠️ |
+| 🛏️ | QHS, HS | Every night at bedtime | ⚠️ |
+| 🌙 | QPM, PM | Evening or night | |
+| ☀️ | QAM, AM | Every morning | |
+| 🙋‍♂️ | PRN | As needed | |
+| 🚨 | STAT | Immediately | |
+| 🗓️ | FXD (RxConnect) | For 10 Days | |
+
+### 🧩 Modifiers
+
+| Emoji | Abbreviation | Meaning | ⚠️ |
+| --- | --- | --- | --- |
 | ➕ | c̄, w/, w | With | |
 | ➖ | s̄, w/o | Without/ With No | |
 | ➖ | ō | Without / With No (archaic/Latin) | ⚠️ (rare or ambiguous) |
-| ✅🩹 | AAA (RxConnect) | Apply to affected area | |
-| ⏳💨 | MDI | Metered Dose Inhaler | |
-| 💉 | TPN | Total Parenteral Nutrition | |
-| ⛔🩺 | DUR | Drug Utilization Review | |
+| 🍽️ | WF | With food | |
+| 💊🍽️ | AC | Before meals | |
+| 🍽️💊 | PC | After meals | |
 
-### 🧾 PRN or Indications (RxConnect)
+## 👩‍💻 Physician Orders
+
+| Emoji | Abbreviation | Meaning | ⚠️ |
+| --- | --- | --- | --- |
+| ⛔🩺 | DUR | Drug Utilization Review | |
+| ✍️ | DAW | Dispense as written | |
+| 🚫 | D/C | Discontinue | |
+| 🚫👄 | NPO | Nothing by mouth | |
+| ⛔ | NR | No refills | |
+| 📝 | Sig | Directions for use | |
+| 📘 | UD, TUD | Take As Directed | |
+
+### 🧾 PRN (Symptom) or Indications (RxConnect)
 
 | Emoji | Abbreviation | Meaning |
 | --- | --- | --- |
@@ -186,7 +192,7 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 | 🤒 | PIT | For itch |
 | 🫁 | SOB | For shortness of breath |
 | 💓 | HTN | For hypertension |
-| 💗 | CHF | Congenital Heart Failure |
+| 💗 | CHF | Congestive Heart Failure |
 | 🩸 | DM | Diabetes Mellitus |
 
 ### 💼 Common Medication-Specific SIG Codes (RxConnect)
