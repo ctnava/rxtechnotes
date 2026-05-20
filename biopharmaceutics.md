@@ -131,6 +131,10 @@ For **most drugs**, systemic blood concentration reflects the concentration at t
 
 > Serum and plasma concentrations are commonly used and reliably reflect blood concentration.
 
+Local concentration is also influenced by **biological membranes**. Most drugs cross these membranes by **passive diffusion**.
+
+### Disposition of a Drug: ADME Processes
+
 Systemic concentration is shaped by the four major pharmacokinetic processes:
 
 - **Absorption**: entry of the drug into the bloodstream  
@@ -138,7 +142,10 @@ Systemic concentration is shaped by the four major pharmacokinetic processes:
 - **Metabolism**: chemical alteration into active or inactive forms  
 - **Excretion**: removal from the body via kidneys, liver, lungs, etc.
 
-Local concentration is also influenced by **biological membranes**. Most drugs cross these membranes by **passive diffusion**.
+These are referred to as **ADME processes** or the **disposition**.
+Metabolism & excretion, combined, are called **Elimination** processes.
+
+> Some drugs must be metabolized first (pro-drugs), before they can be used (e.g. vyvanse).
 
 #### Applications
 
@@ -184,7 +191,9 @@ These values guide dosing intervals and adjustments.
 
 ## Absorption
 
-Drugs must enter the blood to be carried to the site of action.
+`Drugs must enter the blood to be carried to the site of action.`
+
+
 
 ### Enteral Drugs
 
