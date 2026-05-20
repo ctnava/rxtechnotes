@@ -600,6 +600,21 @@ If expressed as a percentage:
 
 ${F(\%) = \left( \frac{AUC_{test}}{AUC_{standard}} \right) \times 100}$
 
+#### Example Bioavailability Table (Oral Drugs)
+
+| Drug Name | Oral Bioavailability (%) |
+|-----------|---------------------------|
+| Morphine | ~30% |
+| Propranolol | ~25% |
+| Metoprolol | ~50% |
+| Ciprofloxacin | ~70% |
+| Acetaminophen | ~60–90% |
+| Diazepam | ~90% |
+| Warfarin | ~95% |
+| Levothyroxine | ~40–80% (variable) |
+| Furosemide | ~50% (variable) |
+| Alendronate | <1% |
+
 ---
 
 ## Bioequivalency
