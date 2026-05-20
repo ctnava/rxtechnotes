@@ -186,17 +186,6 @@ These values guide dosing intervals and adjustments.
 
 The rate and extent of absorption determine how quickly and how much drug becomes available for therapeutic.
 
-### Distribution
-
-Once absorbed, a drug must **distribute** throughout the body. Distribution depends on both drug properties and physiological factors.
-
-- **Circulation**: Tissues must have adequate blood flow for the drug to reach them.  
-  - Highly perfused organs (heart, liver, kidneys) receive drug first.  
-  - Poorly perfused tissues (fat, skin, bone) receive drug more slowly.
-
-- **Complexation**: Drugs may bind to proteins or other molecules, forming complexes too large to cross membranes.  
-  - This **inactivates** the drug temporarily because only **free (unbound)** drug can exert an effect or cross membranes.
-
 ### Crossing the Membrane
 
 `Drugs must enter the the site of action.`
@@ -269,6 +258,17 @@ Examples include:
 - Transporters for amino acids, peptides, and some drugs
 
 Active transport is **selective** and often saturable.
+
+### Distribution
+
+Once absorbed, a drug must **distribute** throughout the body. Distribution depends on both drug properties and physiological factors.
+
+- **Circulation**: Tissues must have adequate blood flow for the drug to reach them.  
+  - Highly perfused organs (heart, liver, kidneys) receive drug first.  
+  - Poorly perfused tissues (fat, skin, bone) receive drug more slowly.
+
+- **Complexation**: Drugs may bind to proteins or other molecules, forming complexes too large to cross membranes.  
+  - This **inactivates** the drug temporarily because only **free (unbound)** drug can exert an effect or cross membranes.
 
 ### Cell Thickness
 
