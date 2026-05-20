@@ -234,7 +234,7 @@ Over 30,000 abbreviations are used in medical science; many specifc to each inst
 | X | PMH | Past Medical History |
 | 😁 | NKA | No Known Allergies |
 
-### 👩‍💻 Physician Orders
+### 👩‍💻 Physician Orders & Treatments
 
 | Emoji | Abbreviation | Meaning |
 | --- | --- | --- |
@@ -245,11 +245,8 @@ Over 30,000 abbreviations are used in medical science; many specifc to each inst
 | 🚨 | STAT | Immediately |
 | X | ASAP | As Soon As Possible (less urgent) |
 | X | KVO | Keep Veins Open |
-| X | EKG, ECG | Electrocardiogram |
-| X | HD | Hemodialysis |
 | X | T&C | Type & Cross (Blood Test) |
 | X | U/A | Urinalysis |
-| 💉 | TPN | Total Parenteral Nutrition |
 | X | GI | Gastrointestinal |
 | X | ENT | Ear, Nose, Throat |
 | X | AV | Atrial-Ventricular |
@@ -258,7 +255,10 @@ Over 30,000 abbreviations are used in medical science; many specifc to each inst
 | X | CABG | Coronary Bypass Graft |
 | X | MDI | Metered-Dose Inhaler |
 | X | TEDS | Thrombo-Embolic Disease Stockings |
+| 💉 | TPN | Total Parenteral Nutrition |
 | X | HRT | Hormone Replacement Therapy |
+| X | EKG, ECG | Electrocardiogram |
+| X | HD | Hemodialysis |
 
 ### 📏 Chart Metrics
 
@@ -286,8 +286,6 @@ Over 30,000 abbreviations are used in medical science; many specifc to each inst
 | 💩 | BM | Bowel Movement |
 | X | LOC | Loss of Consciousness |
 | X | AMS | Altered Mental State |
-| X | CVA | Cerebrovascular Accident (Stroke) |
-| X | AFib | Atrial Fibrilation |
 | X | HA | Headache |
 | X | HBP | High Blood Pressure |
 | X | LBW | Low Birth Weight |
@@ -299,11 +297,13 @@ Over 30,000 abbreviations are used in medical science; many specifc to each inst
 | Emoji | Abbreviation | Meaning |
 | --- | --- | --- |
 | X | ADD | Attention Deficit Disorder (ADD) |
+| X | AFib | Atrial Fibrilation |
 | X | AIDS | Acquired Immunodeficiency Syndrome |
 | X | CA | Cancer |
 | X | CAD | Coronary Artery Disease |
 | X | CHD | Coronary Heart Disease |
 | X | CHF | Congestive Heart Failure |
+| X | CVA | Cerebrovascular Accident (Stroke) |
 | X | COPD | Chronic Obstructive Pulmonary Disease |
 | X | DM | Diabetes Mellitus |
 | X | ESRD | End-Stage Renal Disease |
