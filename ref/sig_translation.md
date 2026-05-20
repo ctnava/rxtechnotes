@@ -1,11 +1,10 @@
 # 📘 Translating the Signa
 
-- 🔙🔗 [Unit Conversions](../math/unit_conversions.md#-inscription--signa-reading-and-translating-prescriptions)
-- 🔙🔗 [Days' Supply Calculations](../math/days_supply.md#-inscription--signa-reading-and-translating-prescriptions)
-
----
-
 The signa (the "sig") can be best described as `instructions for use` is almost always heavily abbreviated and pharmacy techs are often required to transcribe them for computer entry.
+
+Common medical abbreviations for symptoms are often built-into pharmacy software when writing sig codes.
+
+🔗 Link to [Medical Abbreviations](./medical_abbreviations.md)
 
 ## 🛡️ Best Practices for Technicians
 
@@ -216,3 +215,10 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 | PERI, PERIDEX | Rinse ½ ounce twice a day after breakfast and at bedtime after brushing and flossing. (Spit Don't Swallow) |
 | SPIRIVA | Inhale 1 capsule via HandiHaler once daily at the same time every day. |
 | ZPAK | Take 2 tablets by mouth today, then take 1 tablet daily for 4 days. |
+
+---
+
+## Navlinks
+
+- 🔙🔗 [Unit Conversions](../math/unit_conversions.md#-inscription--signa-reading-and-translating-prescriptions)
+- 🔙🔗 [Days' Supply Calculations](../math/days_supply.md#-inscription--signa-reading-and-translating-prescriptions)
