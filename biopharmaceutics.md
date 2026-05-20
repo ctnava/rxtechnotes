@@ -140,6 +140,15 @@ Systemic concentration is shaped by the four major pharmacokinetic processes:
 
 Local concentration is also influenced by **biological membranes**. Most drugs cross these membranes by **passive diffusion**.
 
+#### Applications
+
+Blood‑concentration data are used by:
+
+- **Manufacturers**: to evaluate drug performance and determine dosing  
+- **Pharmacy professionals**: to understand consequences of incorrect compounding or wrong routes  
+- **Researchers & clinicians**: to study human variability and optimize therapy  
+- **Physicians & pharmacists**: to monitor drug therapy and adjust doses
+
 #### Passive Diffusion
 
 **Passive diffusion** is the movement of drug molecules from an area of **high concentration to low concentration** across a membrane **without energy use** and **without carrier proteins**.
@@ -150,15 +159,6 @@ It depends on:
 - molecular size  
 - degree of ionization  
 - concentration gradient  
-
-#### Applications
-
-Blood‑concentration data are used by:
-
-- **Manufacturers**: to evaluate drug performance and determine dosing  
-- **Pharmacy professionals**: to understand consequences of incorrect compounding or wrong routes  
-- **Researchers & clinicians**: to study human variability and optimize therapy  
-- **Physicians & pharmacists**: to monitor drug therapy and adjust doses
 
 ### Effective Concentrations
 
