@@ -162,21 +162,21 @@ Blood‑concentration data are used by:
 
 ### Effective Concentrations
 
-**Minimum Effective Concentration (MEC)** is the concentration required at the site of action to start producing desirable, therapeutic effects.
+- **Minimum Effective Concentration (MEC)**: the lowest concentration at the site of action that produces a therapeutic effect  
+- **Minimum Toxic Concentration (MTC)** / **Maximum Safe Concentration (MSC)**: the concentration at which toxic or harmful effects begin  
+- **Therapeutic Window**: the range between MEC and MTC where the drug is effective and safe  
 
-**Minimum Toxic Concentration (MTC) / Maximum Safe Concentration (MSC)** is the concentration where the drug starts producing undesirable, toxic effects.
-
-The **Therapeutic Window** is the range between the MEC & MTC; which is where the benefits of drug therapy are maximized while danger is minimized.
+A narrow therapeutic window requires careful monitoring (e.g., warfarin, lithium, digoxin).
 
 ### Onset & Duration of Effects
 
-Blood is sampled at multiple intervals to create a **Blood-Concentration Profile**.
+Blood samples taken over time create a **Blood‑Concentration Profile**.
 
-The **Onset of Action** is the amount of time it takes for MEC to be reached after the drug is administered.
+- **Onset of Action**: time from administration until the concentration first reaches MEC  
+- **Duration of Action**: the time the drug concentration remains above MEC  
 
-The **Duration of Action** is the amount of time the drug stays above MEC.
-
-Drugs are monitored by determining where the blood concentration **peaks** and **troughs** between administrations.
+Between doses, drug levels rise to a **peak** and fall to a **trough**.  
+These values guide dosing intervals and adjustments.
 
 ![Blood Concentration Curve](./ref/img/blood-concentration.jpeg)
 
