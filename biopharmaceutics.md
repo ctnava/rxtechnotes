@@ -259,6 +259,15 @@ Examples include:
 
 Active transport is **selective** and often saturable.
 
+#### Across Multiple Membranes
+
+`More layers = more barriers = less penetration.`
+
+The number of cell layers between the drug and the bloodstream affects absorption:
+
+- **Single‑cell layers** (e.g., intestinal epithelium, alveoli) → rapid absorption  
+- **Multiple‑cell layers** (e.g., skin, cornea) → slow absorption  
+
 ### Distribution
 
 Once absorbed, a drug must **distribute** throughout the body. Distribution depends on both drug properties and physiological factors.
@@ -269,10 +278,6 @@ Once absorbed, a drug must **distribute** throughout the body. Distribution depe
 
 - **Complexation**: Drugs may bind to proteins or other molecules, forming complexes too large to cross membranes.  
   - This **inactivates** the drug temporarily because only **free (unbound)** drug can exert an effect or cross membranes.
-
-### Cell Thickness
-
-Tissues can be made of several layers of cells. more cells between the drug and blood stream = less penetration. Intestinal lining has single-cell thickness.
 
 ### Enteral Drugs
 
