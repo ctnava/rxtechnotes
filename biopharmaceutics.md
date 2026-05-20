@@ -139,13 +139,13 @@ Systemic concentration is shaped by the four major pharmacokinetic processes:
 
 - **Absorption**: entry of the drug into the bloodstream  
 - **Distribution**: movement from blood to tissues, including the site of action  
+  - Concentration rises toward a **peak** as drug distributes
 - **Metabolism**: chemical alteration into active or inactive forms  
+  - Concentration begins to **fall** as the drug is broken down
 - **Excretion**: removal from the body via kidneys, liver, lungs, etc.
+  - Metabolism + Excretion = Elimination Processes
 
-These are referred to as **ADME processes** or the **disposition**.
-Metabolism & excretion, combined, are called **Elimination** processes.
-
-> Some drugs must be metabolized first (pro-drugs), before they can be used (e.g. vyvanse).
+These are collectively referred to as **ADME processes** or the drug's **disposition**.
 
 #### Applications
 
@@ -173,6 +173,23 @@ Blood samples taken over time create a **Blood‑Concentration Profile**.
 
 Between doses, drug levels rise to a **peak** and fall to a **trough**.  
 These values guide dosing intervals and adjustments.
+
+#### Half‑Life (t½)
+
+**Half‑life** is the amount of time it takes for the drug’s concentration in the blood to decrease by **50%** from its current value.
+
+- After **1 half‑life** → 50% remains  
+- After **2 half‑lives** → 25% remains  
+- After **3 half‑lives** → 12.5% remains  
+- After **4 half‑lives** → 6.25% remains  
+- After **5 half‑lives** → ~3% remains (clinically considered “eliminated”)
+
+Half‑life determines:
+
+- **dosing interval**  
+- **time to steady state**  
+- **time to elimination**  
+- **duration of action** (for many drugs)
 
 ![Blood Concentration Curve](./ref/img/blood-concentration.jpeg)
 
