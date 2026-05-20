@@ -252,11 +252,14 @@ Over 30,000 abbreviations are used in medical science; many specifc to each inst
 | 💉 | TPN | Total Parenteral Nutrition |
 | X | GI | Gastrointestinal |
 | X | ENT | Ear, Nose, Throat |
+| X | AV | Atrial-Ventricular |
 | X | OR | Operating Room |
 | X | ER | Emergency Room |
 | X | CABG | Coronary Bypass Graft |
+| X | MDI | Metered-Dose Inhaler |
+| X | TEDS | Thrombo-Embolic Disease Stockings |
 
-### 📏 Chart Metrics
+### 📏 Chart Metrics & Notes
 
 | Emoji | Abbreviation | Meaning |
 | --- | --- | --- |
@@ -274,9 +277,11 @@ Over 30,000 abbreviations are used in medical science; many specifc to each inst
 | X | WBC | White Blood Cell Count |
 | X | HDL | High Density Lipoprotein |
 | X | IO, I/O | Fluid Intake & Output |
+| 💩 | BM | Bowel Movement |
+| X | LOC | Loss of Consciousness |
+| X | IOP | Intraocular Pressure |
 
 ### 🧩 Misc
 
 | Emoji | Abbreviation | Meaning |
 | --- | --- | --- |
-| 💩 | BM | Bowel Movement |
