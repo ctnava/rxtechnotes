@@ -244,6 +244,11 @@ Over 30,000 abbreviations are used in medical science; many specifc to each inst
 | 🚫👄 | NPO | Nothing by mouth |
 | 🚨 | STAT | Immediately |
 | X | ASAP | As Soon As Possible (less urgent) |
+| X | KVO | Keep Veins Open |
+| X | EKG, ECG | Electrocardiogram |
+| X | HD | Hemodialysis |
+| X | T&C | Type & Cross (Blood Test) |
+| 💉 | TPN | Total Parenteral Nutrition |
 
 ### 📏 Chart Metrics
 
