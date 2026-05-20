@@ -184,7 +184,8 @@ These values guide dosing intervals and adjustments.
 - After **2 half‑lives** → 25% remains  
 - After **3 half‑lives** → 12.5% remains  
 - After **4 half‑lives** → 6.25% remains  
-- After **5 half‑lives** → ~3% remains (clinically considered “eliminated”)
+- After **5 half‑lives** → ~3% remains (clinically considered "eliminated")
+  - Remember as "Less than 5% after 5 half-lives"
 
 Half‑life determines:
 
