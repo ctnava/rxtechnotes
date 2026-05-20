@@ -182,14 +182,20 @@ These values guide dosing intervals and adjustments.
 
 `Drugs must enter the blood to be carried to the site of action.`
 
-**Absorption** is the transfer of a drug into the blood from an administered drug product.
+**Absorption** is the movement of a drug from its site of administration **into the bloodstream**.
+
+The rate and extent of absorption determine how quickly and how much drug becomes available for therapeutic.
 
 ### Distribution
 
-A drug's distribution will be affected by its own properties as well as physiological function.
+Once absorbed, a drug must **distribute** throughout the body. Distribution depends on both drug properties and physiological factors.
 
-- **Circulation**: The tissue must have an adequate blood supply to saturate the tissue with drugs.
-- **Complexication**: functionally inactivates drugs by making it too large to pass through cell membranes.
+- **Circulation**: Tissues must have adequate blood flow for the drug to reach them.  
+  - Highly perfused organs (heart, liver, kidneys) receive drug first.  
+  - Poorly perfused tissues (fat, skin, bone) receive drug more slowly.
+
+- **Complexation**: Drugs may bind to proteins or other molecules, forming complexes too large to cross membranes.  
+  - This **inactivates** the drug temporarily because only **free (unbound)** drug can exert an effect or cross membranes.
 
 ### Crossing the Membrane
 
@@ -197,39 +203,72 @@ A drug's distribution will be affected by its own properties as well as physiolo
 
 #### Ionization
 
-**Ionization** is the concept of a molecule's exposed or missing electrons (a charge); affecting stability and influencing reactivity.
+**Ionization** refers to whether a molecule carries an electrical charge.
 
-**Ionized** molecules have a charge (e.g. dissolved Table Salt creates an aqueous (water-based) solution of [Na+] and [Cl-]). These are **hydrophilic**, being able to dissolve in water (water-soluble); repelling **lipoidal** (fat-like) substances like oil.
+- **Ionized molecules**  
+  - Charged (i.e. exposed or missing electrons; e.g., Na⁺, Cl⁻)  
+  - **Hydrophilic** (water‑soluble)  
+  - Poorly lipid‑soluble → do **not** cross membranes easily  
+  - More reactive and less stable in lipid environments
 
-**Unionized** molecules are stable and non-reactive or inert. (e.g. microplastics). These are **hydrophobic**, being able to dissolve in oil (lipid-soluble); repelling water.
+- **Unionized molecules**  
+  - No charge  
+  - **Hydrophobic** (lipid‑soluble)  
+  - Cross lipoidal (fat-like) membranes easily  
+  - Less reactive, more stable in lipid environments
+
+#### Cell Membranes
+
+Cell membranes are composed of a **phospholipid bilayer** with:
+
+- hydrophilic (water‑loving) heads  
+- hydrophobic (fat‑loving) tails
+- embedded protein channels & pumps
+
+This structure makes the membrane **lipid‑selective**, favoring unionized, hydrophobic drugs.
 
 #### Passive Diffusion
 
 `Most drugs passively diffuse through membrane channels or the membrane itself`
 
-Membranes are composed of lipids; unionized structures that repel ionized material.
+**Passive diffusion** is the movement of drug molecules from **high concentration → low concentration** across a membrane:
 
-They are made of triglycerides that form a double layer with hydrophobic heads & hydrophilic tails. Effectively rendering the surface chemically inert.
+- requires **no energy**  
+- requires **no carrier proteins**  
+- driven solely by the concentration gradient
 
-**Passive diffusion** is the movement of drug molecules from an area of **high concentration to low concentration** across a membrane **without energy use** and **without carrier proteins**.
+Factors affecting passive diffusion:
 
-It depends on:
-
-- lipid solubility (i.e. whether or not the drug is hydrophobic)
-  - most drugs are hydrophobic; being lipid-soluble
-- molecular size of the drug
-- degree of ionization  (i.e. how compatible the drug is with the membrane)
-- concentration gradient (i.e. concentrations on either side of the membrane)
+- **Lipid solubility**:  hydrophobic & **lipoidal** (i.e. fat-like) drugs cross most easily, which most are
+- **Molecular size**:  smaller molecules diffuse faster  
+- **Degree of ionization**:  unionized forms cross; ionized forms do not  
+- **Concentration gradient**:  concentration difference on either side of the membrane; larger gradients increase diffusion rate
 
 ##### Ionic Membrane Channels
 
-Membrane channels are embedded proteins that may be opened or closed via receptor activity.
+Some ions and small molecules pass through **protein channels** embedded in the membrane.  
+These channels may open or close in response to:
+
+- receptor activity  
+- voltage changes  
+- chemical signals
 
 #### Active Transport
 
-`Expending energy to pump through the membrane`
+`Expending energy to pump substances through the membrane.`
 
-Proteins embedded in the cell membrane act as active pumps that are turned on or off via receptor activity. They move things through the membrane that are too large.
+Active transport uses **energy (ATP)** and **carrier proteins** to move drugs:
+
+- against a concentration gradient  
+- or when the drug is too large or too polar for passive diffusion
+
+Examples include:
+
+- P‑glycoprotein (P‑gp) efflux pumps  
+- Sodium‑potassium ATPase  
+- Transporters for amino acids, peptides, and some drugs
+
+Active transport is **selective** and often saturable.
 
 ### Cell Thickness
 
