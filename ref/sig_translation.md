@@ -291,6 +291,8 @@ Over 30,000 abbreviations are used in medical science; many specifc to each inst
 | X | HA | Headache |
 | X | HBP | High Blood Pressure |
 | X | LBW | Low Birth Weight |
+| X | NVD | Nausea, Vomiting, Diarrhea |
+| X | SOB | Shortness of Breath |
 
 ### 🧩 Diagnosis
 
