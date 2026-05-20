@@ -137,7 +137,7 @@ Local concentration is also influenced by **biological membranes**. Most drugs c
 
 Systemic concentration is shaped by the four major pharmacokinetic processes:
 
-- **Absorption**: entry of the drug into the bloodstream  
+- **Absorption**: entry of the drug into the bloodstream
 - **Distribution**: movement from blood to tissues, including the site of action  
   - Concentration rises toward a **peak** as drug distributes
 - **Metabolism**: chemical alteration into active or inactive forms  
@@ -174,6 +174,8 @@ Blood samples taken over time create a **Blood‑Concentration Profile**.
 Between doses, drug levels rise to a **peak** and fall to a **trough**.  
 These values guide dosing intervals and adjustments.
 
+![Blood Concentration Curve](./ref/img/blood-concentration.jpeg)
+
 #### Half‑Life (t½)
 
 **Half‑life** is the amount of time it takes for the drug’s concentration in the blood to decrease by **50%** from its current value.
@@ -190,8 +192,6 @@ Half‑life determines:
 - **time to steady state**  
 - **time to elimination**  
 - **duration of action** (for many drugs)
-
-![Blood Concentration Curve](./ref/img/blood-concentration.jpeg)
 
 ---
 
