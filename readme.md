@@ -39,7 +39,7 @@ Structured for both exam prep and on-the-job reference.
 | 2 | [Career Overview](./technician_career.md) | ✅ Complete |
 | 3 | [Ethics & Compliance](./ethics_compliance.md) | ✅ Complete |
 | 4 | [Information & Resources](./reference.md) | ✅ Complete |
-| 5 | Medical Terminology & Abbreviations | 🚧 WIP |
+| 5 | [Medical Terminology & Abbreviations](./terminology.md) | ✅ Complete |
 | 6 | Biopharmaceutics & Factors Affecting Drug Activity | 🚧 WIP |
 | 7 | [Drug Discovery, Manufacturing, & Logistics](./discovery_manufacture.md) | ✅ Complete |
 | 8 | [Drugs & Applications](./drugs.md) | 🚧 WIP |
