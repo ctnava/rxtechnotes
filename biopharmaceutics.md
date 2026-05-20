@@ -156,17 +156,6 @@ Blood‑concentration data are used by:
 - **Researchers & clinicians**: to study human variability and optimize therapy  
 - **Physicians & pharmacists**: to monitor drug therapy and adjust doses
 
-#### Passive Diffusion
-
-**Passive diffusion** is the movement of drug molecules from an area of **high concentration to low concentration** across a membrane **without energy use** and **without carrier proteins**.
-
-It depends on:
-
-- lipid solubility  
-- molecular size  
-- degree of ionization  
-- concentration gradient  
-
 ### Effective Concentrations
 
 - **Minimum Effective Concentration (MEC)**: the lowest concentration at the site of action that produces a therapeutic effect  
@@ -193,7 +182,58 @@ These values guide dosing intervals and adjustments.
 
 `Drugs must enter the blood to be carried to the site of action.`
 
+**Absorption** is the transfer of a drug into the blood from an administered drug product.
 
+### Distribution
+
+A drug's distribution will be affected by its own properties as well as physiological function.
+
+- **Circulation**: The tissue must have an adequate blood supply to saturate the tissue with drugs.
+- **Complexication**: functionally inactivates drugs by making it too large to pass through cell membranes.
+
+### Crossing the Membrane
+
+`Drugs must enter the the site of action.`
+
+#### Ionization
+
+**Ionization** is the concept of a molecule's exposed or missing electrons (a charge); affecting stability and influencing reactivity.
+
+**Ionized** molecules have a charge (e.g. dissolved Table Salt creates an aqueous (water-based) solution of [Na+] and [Cl-]). These are **hydrophilic**, being able to dissolve in water (water-soluble); repelling **lipoidal** (fat-like) substances like oil.
+
+**Unionized** molecules are stable and non-reactive or inert. (e.g. microplastics). These are **hydrophobic**, being able to dissolve in oil (lipid-soluble); repelling water.
+
+#### Passive Diffusion
+
+`Most drugs passively diffuse through membrane channels or the membrane itself`
+
+Membranes are composed of lipids; unionized structures that repel ionized material.
+
+They are made of triglycerides that form a double layer with hydrophobic heads & hydrophilic tails. Effectively rendering the surface chemically inert.
+
+**Passive diffusion** is the movement of drug molecules from an area of **high concentration to low concentration** across a membrane **without energy use** and **without carrier proteins**.
+
+It depends on:
+
+- lipid solubility (i.e. whether or not the drug is hydrophobic)
+  - most drugs are hydrophobic; being lipid-soluble
+- molecular size of the drug
+- degree of ionization  (i.e. how compatible the drug is with the membrane)
+- concentration gradient (i.e. concentrations on either side of the membrane)
+
+##### Ionic Membrane Channels
+
+Membrane channels are embedded proteins that may be opened or closed via receptor activity.
+
+#### Active Transport
+
+`Expending energy to pump through the membrane`
+
+Proteins embedded in the cell membrane act as active pumps that are turned on or off via receptor activity. They move things through the membrane that are too large.
+
+### Cell Thickness
+
+Tissues can be made of several layers of cells. more cells between the drug and blood stream = less penetration. Intestinal lining has single-cell thickness.
 
 ### Enteral Drugs
 
