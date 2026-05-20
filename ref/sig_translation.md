@@ -230,18 +230,38 @@ Over 30,000 abbreviations are used in medical science; many specifc to each inst
 | 📚 | Hx | History |
 | 🩺 | Dx | Diagnosis |
 | 📅 | DoB | Date of Birth |
+| X | FH | Family History |
+| X | PMH | Past Medical History
 | 😁 | NKA | No Known Allergies |
+
+### 👩‍💻 Physician Orders
+
+| Emoji | Abbreviation | Meaning |
+| --- | --- | --- |
 | ⛔🩺 | DUR | Drug Utilization Review |
+| ✍️ | DAW | Dispense as written |
 | 🚫 | D/C | Discontinue |
+| 🚫👄 | NPO | Nothing by mouth |
+| 🚨 | STAT | Immediately |
+| X | ASAP | As Soon As Possible (less urgent) |
 
 ### 📏 Chart Metrics
 
 | Emoji | Abbreviation | Meaning |
 | --- | --- | --- |
+| X | T | Temperature |
 | X | WT | Weight |
+| X | BSA | Body Surface Area |
+| X | BMI | Body Mass Index |
+| X | VS | Vital Signs |
 | 🩸 | BS | Blood Sugar |
 | 💓 | BP | Blood Pressure |
+| X | SBP | Systolic Blood Pressure |
 | X | HR | Heart Rate |
+| X | CBC | Complete Blood Cell Count |
+| X | RBC | Red Blood Cell Count |
+| X | WBC | White Blood Cell Count |
+| X | HDL | High Density Lipoprotein |
 
 ### 🧩 Misc
 
