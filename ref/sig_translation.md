@@ -231,7 +231,7 @@ Over 30,000 abbreviations are used in medical science; many specifc to each inst
 | 🩺 | Dx | Diagnosis |
 | 📅 | DoB | Date of Birth |
 | X | FH | Family History |
-| X | PMH | Past Medical History
+| X | PMH | Past Medical History |
 | 😁 | NKA | No Known Allergies |
 
 ### 👩‍💻 Physician Orders
