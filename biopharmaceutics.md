@@ -478,15 +478,69 @@ Examples:
 
 ## Excretion
 
-### Renal Processes
-
-`The kidneys filter blood and remove wastes, drugs, and metabolites from the body.`
+**Excretion** is the removal of drugs and their metabolites from the body.  
+Most drugs are eliminated through the **kidneys (urine)**, but other routes contribute depending on the drug’s properties and how well it was absorbed.
 
 ### Failure to Absorb
 
-Enteral drugs that fail to absorb into the blood stream are expelled as fecal matter.
-Inhalants can be expelled with breath.
-Eye drops simply falls out of the eye due to volume.
+Drugs that **never enter the bloodstream** are eliminated by non‑renal routes:
+
+- **Enteral drugs** that fail to absorb → excreted in **feces**  
+- **Inhalants** → exhaled through the **lungs**  
+- **Ophthalmic drugs (eye drops)** → excess drains out of the eye or into the nasolacrimal duct  
+- **Biliary excretion** → drugs secreted into bile may be eliminated in feces if not reabsorbed through enterohepatic cycling
+
+### Urinary Excretion
+
+`Most drugs and metabolites are excreted in the urine.`
+
+The **kidneys** filter blood and remove waste, drugs, and metabolites.  
+The functional unit of the kidney is the **nephron**, which performs:
+
+1. **Glomerular Filtration**
+   - Plasma water and small molecules (including drugs) are filtered from blood into the nephron (functional unit of kidney)
+   - Protein‑bound drugs **do not** filter (too large)
+
+2. Tubular Secretion
+   - Additional drug molecules are actively transported from blood into the nephron  
+   - Uses carrier proteins and energy  
+   - Important for drugs the body wants to eliminate quickly (e.g., penicillins)
+
+3. Tubular Reabsorption
+   - Lipid‑soluble, unionized drugs may diffuse **back into the bloodstream**  
+   - Ionized or water‑soluble drugs remain in the urine and are excreted
+
+4. Excretion
+   - The remaining fluid (urine) is eliminated from the body  
+   - Urinary excretion is **faster** than fecal excretion (hours vs. days)
+
+`Amount excreted = amount filtered + amount secreted – amount reabsorbed`
+
+#### Factors affecting Urinary Excretion
+
+1. Impaired Renal Function
+   - Reduced filtration → drug accumulates in blood  
+   - Dose must be **reduced** or dosing interval **lengthened**  
+   - Critical for drugs with narrow therapeutic windows (e.g., digoxin, lithium)
+
+2. Drug–Drug Interactions
+   - Some drugs compete for the same secretion transporters  
+   - Others inhibit renal pumps  
+   - Can increase or decrease excretion of co‑administered drugs
+
+3. Active Transport
+   - Certain drugs rely heavily on active secretion  
+   - Transporters can be saturated or inhibited  
+   - Affects elimination rate
+
+4. Urine pH
+   - **Ion trapping** occurs based on pH  
+   - Acidic drugs are excreted faster in **alkaline urine**  
+   - Basic drugs are excreted faster in **acidic urine**  
+   - “Like pH = less excretion”  
+     - High‑pH drugs do not diffuse readily into high‑pH urine (remain unionized → reabsorbed)
+
+This principle is used clinically in **toxicity management** (e.g., alkalinizing urine to enhance excretion of salicylates).
 
 ---
 
