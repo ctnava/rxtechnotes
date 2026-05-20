@@ -28,6 +28,26 @@ When molecules bind to a receptor, they cause a reaction based on the drug's cha
 
 When all available receptors are occupied, the site is **saturated**. Increasing the dose beyond this point will not increase the effect.
 
+### Receptor Mechanisms
+
+#### **Membrane Protein Bonding / Alteration**
+
+A drug affects ion channels, transporters, or structural proteins in cell membranes.  
+
+*Example:* **Sodium channel blockers** regulate sodium ion flow to control nerve conduction or cardiac rhythm.
+
+#### **Modifying Hormone Control**
+
+A drug alters hormone release, receptor sensitivity, or downstream signaling.
+
+*Example:* **Dopamine**, which functions as both a neurotransmitter and a hormone, influences cardiovascular and renal processes.
+
+#### **Supplementing Hormone Supply**
+
+Introduction of exogenous hormones in order to supplement deficiencies.
+
+*Example:* **Biological Insulins** treat diabetes by directly addressing the deficiency of production.
+
 ### Withdrawal
 
 Prolonged exposure to drugs that **stimulate** receptors (agonists) can cause the body to *down‑regulate* or desensitize those receptors, making them less responsive.
@@ -77,21 +97,11 @@ A drug binds to another molecule to form a larger complex. This can:
 
 #### **Enzymatic Bonding / Alteration**
 
+`Receptor-like Targets`
+
 A drug modifies enzyme activity or interferes with metabolic pathways.
 
 *Example:* **Reverse Transcriptase Inhibitors** (e.g., abacavir) block viral DNA synthesis.
-
-#### **Membrane Protein Bonding / Alteration**
-
-A drug affects ion channels, transporters, or structural proteins in cell membranes.  
-
-*Example:* **Sodium channel blockers** regulate sodium ion flow to control nerve conduction or cardiac rhythm.
-
-#### **Modifying Hormone Control**
-
-A drug alters hormone release, receptor sensitivity, or downstream signaling.
-
-*Example:* **Dopamine**, which functions as both a neurotransmitter and a hormone, influences cardiovascular and renal processes.
 
 ---
 
