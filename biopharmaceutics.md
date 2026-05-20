@@ -109,42 +109,56 @@ A drug modifies enzyme activity or interferes with metabolic pathways.
 
 ### Dose-Response Curve
 
+Because drug concentrations at the **site of action** are usually impossible to measure directly, we measure **drug effect** instead.
+
+A **Dose–Response Curve** plots the relationship between the amount of drug administered and the magnitude of the observed effect.
+
+Human variability means individuals differ in how they:
+
+- absorb, distribute, metabolize, and excrete the drug  
+- respond to the drug at the receptor or cellular level  
+- transport the drug from the site of administration to the site of action  
+
+Therefore, population averages are used to characterize typical drug responses.
+
 Concentrations are typically impossible to measure at the site of action, so effects are measured instead.
-
-One way to monitor the effect at the site of action is to measure the **Dose-Response Curve** where the responses are measured.
-
-Human variability causes different people with different characteristics to respond differently to a drug, so an average is used.
-
-It affects how the drug:
-
-- is metabolized or utilized
-- travels to the site of administration to the site of action
 
 ### Blood-Concentration Profile
 
-`If a drug cannot get to the desired site of activity in high enough concentrations, it fail to produce any therapeutic effect.`
+`If a drug cannot reach the site of action in high enough concentrations, it cannot produce a therapeutic effect.`
 
-Systemic blood concentration is directly reflective of local concentration at the site of action for **most drugs** because it is in rapid equilibrium between the site of administration and the site of action.
+For **most drugs**, systemic blood concentration reflects the concentration at the site of action because the drug rapidly equilibrates between blood and tissues.
 
-> Other methods of measuring concentrations include **Serum & Plasma**; which still reflect blood concentration.
+> Serum and plasma concentrations are commonly used and reliably reflect blood concentration.
 
-The systemic blood concentration of a drug is affected by bodily processes:
+Systemic concentration is shaped by the four major pharmacokinetic processes:
 
-- **Absorption** of the drug into the body
-- **Distribution** to the site of action
-- **Metabolism** of the drug into active and inert forms
-- **Excretion** of the drug from the body
+- **Absorption**: entry of the drug into the bloodstream  
+- **Distribution**: movement from blood to tissues, including the site of action  
+- **Metabolism**: chemical alteration into active or inactive forms  
+- **Excretion**: removal from the body via kidneys, liver, lungs, etc.
 
-The local blood concentration of a drug is affected by biological membranes. To get across these barriers, the **most** drugs penetrate them through **passive diffusion**.
+Local concentration is also influenced by **biological membranes**. Most drugs cross these membranes by **passive diffusion**.
 
-**Passive Diffusion** is a purely physical process where [defintion].
+#### Passive Diffusion
+
+**Passive diffusion** is the movement of drug molecules from an area of **high concentration to low concentration** across a membrane **without energy use** and **without carrier proteins**.
+
+It depends on:
+
+- lipid solubility  
+- molecular size  
+- degree of ionization  
+- concentration gradient  
 
 #### Applications
 
-- manufacturers use this data to evaluate drugs
-- pharmacy professionals use them to visualize the consequences of incorrect compounding or using wrong route
-- researcheers and clinicians use them to measure human vvariability in performance
-- physicians & pharmacists use them to monitor the drug therapy of patients
+Blood‑concentration data are used by:
+
+- **Manufacturers**: to evaluate drug performance and determine dosing  
+- **Pharmacy professionals**: to understand consequences of incorrect compounding or wrong routes  
+- **Researchers & clinicians**: to study human variability and optimize therapy  
+- **Physicians & pharmacists**: to monitor drug therapy and adjust doses
 
 ### Effective Concentrations
 
