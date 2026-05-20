@@ -546,7 +546,59 @@ This principle is used clinically in **toxicity management** (e.g., alkalinizing
 
 ## Bioavailability
 
+**Bioavailability (F)** is the **fraction of an administered dose** that reaches **systemic circulation** in an **active form**.
+
+Bioavailability is determined using the **blood‑concentration vs. time profile**, which reflects:
+
+- the **rate** at which the drug is absorbed  
+- the **extent** of absorption  
+- the **duration** of action  
+- the **relationship** between blood concentration and drug effect  
+
+> Bioavailability **cannot** directly measure the *amount* absorbed at the site of administration; only the *extent* that reaches systemic circulation.
+
 **Bioavailability** is the percent of drug, relative to the total amount administered, that manages to make it to the desired site of action.
+
+### Absolute Bioavailability
+
+**Absolute bioavailability** compares a drug product to an **IV bolus**, which is considered **100% bioavailable** because it enters systemic circulation immediately and completely.
+
+- IV bolus = **F = 1.0 (100%)**
+- All other routes are compared to this standard.
+
+### Relative Bioavailability
+
+**Relative bioavailability** compares two **non‑IV** drug products to each other.
+
+Used when:
+
+- comparing two oral formulations  
+- comparing tablets vs. suspensions  
+- comparing generic vs. brand  
+- comparing slow IV infusion vs. rapid IV bolus  
+
+Relative bioavailability does **not** use IV as the reference.
+
+### Determining the Extent of Absorption
+
+The **Area Under the Curve (AUC)** of the blood‑concentration profile represents the **total systemic exposure** to the drug.
+
+- Higher AUC → more drug reached systemic circulation  
+- Lower AUC → less drug absorbed or more rapidly eliminated  
+
+#### Formula for Bioavailability
+
+Let:
+
+${AUC_{test}= \text{AUC of the drug product being evaluated}}$
+
+${AUC_{standard} = \text{AUC of the reference (IV Bolus)}}$
+
+${F = \frac{AUC_{test}}{AUC_{standard}}}$
+
+If expressed as a percentage:
+
+${F(\%) = \left( \frac{AUC_{test}}{AUC_{standard}} \right) \times 100}$
 
 ---
 
