@@ -347,6 +347,8 @@ Once absorbed, a drug must **distribute** throughout the body. Distribution depe
 
 - **Complexation**: Drugs may bind to proteins or other molecules, forming complexes too large to cross membranes.  
   - This **inactivates** the drug temporarily because only **free (unbound)** drug can exert an effect or cross membranes.
+  - Some drugs bind to fat and protein to form **depots** as a type of drug storage that gradually releases into the body.
+  - drugs with stronger binding affinity can displace or unbind drugs with weaker affinity
 
 Many drugs bond to blood plasma proteins to form a complex that is too large to penetrate biological membranes, rendering them inert; being filtered out by the kidneys.
 
@@ -355,6 +357,8 @@ Many drugs bond to blood plasma proteins to form a complex that is too large to 
 ## Metabolism
 
 `Drugs are metabolized by enzymatic activity.`
+
+**Enzymes** are complex proteins that facilitate biochemical reactions.
 
 A **metabolite** is the result of an enzyme interacting with a drug, which are more likely than not inactivates the drug; becoming waste to be excreted.
 
