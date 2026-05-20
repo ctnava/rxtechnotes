@@ -286,17 +286,6 @@ The number of cell layers between the drug and the bloodstream affects absorptio
 - **Single‑cell layers** (e.g., intestinal epithelium, alveoli) → rapid absorption  
 - **Multiple‑cell layers** (e.g., skin, cornea) → slow absorption  
 
-### Distribution
-
-Once absorbed, a drug must **distribute** throughout the body. Distribution depends on both drug properties and physiological factors.
-
-- **Circulation**: Tissues must have adequate blood flow for the drug to reach them.  
-  - Highly perfused organs (heart, liver, kidneys) receive drug first.  
-  - Poorly perfused tissues (fat, skin, bone) receive drug more slowly.
-
-- **Complexation**: Drugs may bind to proteins or other molecules, forming complexes too large to cross membranes.  
-  - This **inactivates** the drug temporarily because only **free (unbound)** drug can exert an effect or cross membranes.
-
 ### Enteral Drugs
 
 **Gastric Emptying Time**
@@ -310,6 +299,15 @@ Bypass the liver
 ---
 
 ## Distribution
+
+Once absorbed, a drug must **distribute** throughout the body. Distribution depends on both drug properties and physiological factors.
+
+- **Circulation**: Tissues must have adequate blood flow for the drug to reach them.  
+  - Highly perfused organs (heart, liver, kidneys) receive drug first.  
+  - Poorly perfused tissues (fat, skin, bone) receive drug more slowly.
+
+- **Complexation**: Drugs may bind to proteins or other molecules, forming complexes too large to cross membranes.  
+  - This **inactivates** the drug temporarily because only **free (unbound)** drug can exert an effect or cross membranes.
 
 Many drugs bond to blood plasma proteins to form a complex that is too large to penetrate biological membranes, rendering them inert; being filtered out by the kidneys.
 
