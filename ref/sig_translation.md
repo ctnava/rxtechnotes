@@ -258,8 +258,9 @@ Over 30,000 abbreviations are used in medical science; many specifc to each inst
 | X | CABG | Coronary Bypass Graft |
 | X | MDI | Metered-Dose Inhaler |
 | X | TEDS | Thrombo-Embolic Disease Stockings |
+| X | HRT | Hormone Replacement Therapy |
 
-### 📏 Chart Metrics & Notes
+### 📏 Chart Metrics
 
 | Emoji | Abbreviation | Meaning |
 | --- | --- | --- |
@@ -277,11 +278,43 @@ Over 30,000 abbreviations are used in medical science; many specifc to each inst
 | X | WBC | White Blood Cell Count |
 | X | HDL | High Density Lipoprotein |
 | X | IO, I/O | Fluid Intake & Output |
-| 💩 | BM | Bowel Movement |
-| X | LOC | Loss of Consciousness |
 | X | IOP | Intraocular Pressure |
 
-### 🧩 Misc
+### Patient Symptoms & Progress Notes
+
+| Emoji | Abbreviation | Meaning |
+| 💩 | BM | Bowel Movement |
+| X | LOC | Loss of Consciousness |
+| X | AMS | Altered Mental State |
+| X | CVA | Cerebrovascular Accident (Stroke) |
+| X | AFib | Atrial Fibrilation |
+| X | HA | Headache |
+| X | HBP | High Blood Pressure |
+| X | LBW | Low Birth Weight |
+
+### 🧩 Diagnosis
 
 | Emoji | Abbreviation | Meaning |
 | --- | --- | --- |
+| X | ADD | Attention Deficit Disorder (ADD) |
+| X | AIDS | Acquired Immunodeficiency Syndrome |
+| X | CA | Cancer |
+| X | CAD | Coronary Artery Disease |
+| X | CHD | Coronary Heart Disease |
+| X | CHF | Congestive Heart Failure |
+| X | COPD | Chronic Obstructive Pulmonary Disease |
+| X | DM | Diabetes Mellitus |
+| X | ESRD | End-Stage Renal Disease |
+| X | GERD | Gastroesophageal Reflux Disease |
+| X | HIV | Human Immunodeficiency Virus |
+| X | HTN | Hypertension |
+| X | MI | Myocardial Infarction (Heart Attack) |
+| X | OM | Otitis Media (Middle Ear Inflammation) |
+| X | PTSD | Post-Traumatic Stress Disorder |
+| X | PUD | Peptic Ulcer Disease |
+| X | PVD | Peripheral Vascular Disease |
+| X | RA | Rheumatoid Arthritis |
+| X | STD | Sexually Transmitted Disease |
+| X | TB | Tuberculosis |
+| X | URD | Upper Respiratory Disease |
+| X | UTI | Urinary Tract Infection |
