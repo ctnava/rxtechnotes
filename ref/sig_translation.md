@@ -248,7 +248,13 @@ Over 30,000 abbreviations are used in medical science; many specifc to each inst
 | X | EKG, ECG | Electrocardiogram |
 | X | HD | Hemodialysis |
 | X | T&C | Type & Cross (Blood Test) |
+| X | U/A | Urinalysis |
 | 💉 | TPN | Total Parenteral Nutrition |
+| X | GI | Gastrointestinal |
+| X | ENT | Ear, Nose, Throat |
+| X | OR | Operating Room |
+| X | ER | Emergency Room |
+| X | CABG | Coronary Bypass Graft |
 
 ### 📏 Chart Metrics
 
@@ -267,6 +273,7 @@ Over 30,000 abbreviations are used in medical science; many specifc to each inst
 | X | RBC | Red Blood Cell Count |
 | X | WBC | White Blood Cell Count |
 | X | HDL | High Density Lipoprotein |
+| X | IO, I/O | Fluid Intake & Output |
 
 ### 🧩 Misc
 
