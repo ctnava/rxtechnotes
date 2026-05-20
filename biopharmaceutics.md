@@ -28,6 +28,15 @@ When molecules bind to a receptor, they cause a reaction based on the drug's cha
 
 When all available receptors are occupied, the site is **saturated**. Increasing the dose beyond this point will not increase the effect.
 
+### Withdrawal
+
+Prolonged exposure to drugs that **stimulate** receptors (agonists) can cause the body to *down‑regulate* or desensitize those receptors, making them less responsive.
+
+Prolonged exposure to drugs that **block** receptors (antagonists) can cause the body to *up‑regulate* or increase receptor sensitivity.
+
+When the drug is suddenly removed, the body’s altered receptor balance causes **withdrawal symptoms**.  
+This is why certain drugs must be **tapered** rather than stopped abruptly.
+
 ### Receptor Mechanisms
 
 #### **Membrane Protein Bonding / Alteration**
@@ -47,15 +56,6 @@ A drug alters hormone release, receptor sensitivity, or downstream signaling.
 Introduction of exogenous hormones in order to supplement deficiencies.
 
 *Example:* **Biological Insulins** treat diabetes by directly addressing the deficiency of production.
-
-### Withdrawal
-
-Prolonged exposure to drugs that **stimulate** receptors (agonists) can cause the body to *down‑regulate* or desensitize those receptors, making them less responsive.
-
-Prolonged exposure to drugs that **block** receptors (antagonists) can cause the body to *up‑regulate* or increase receptor sensitivity.
-
-When the drug is suddenly removed, the body’s altered receptor balance causes **withdrawal symptoms**.  
-This is why certain drugs must be **tapered** rather than stopped abruptly.
 
 ### Other Mechanisms
 
