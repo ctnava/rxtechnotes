@@ -352,7 +352,7 @@ Tissues must have adequate blood flow for the drug to reach them.
 
 Blood flow and **vascularity** are the **rate‑limiting factor** for many drugs.
 
-> Nicotine constricts blood vessels & flow to surface tissue.
+> Nicotine constricts blood vessels & flow to tissue; especially surface tissue.
 
 ### Permeability
 
