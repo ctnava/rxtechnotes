@@ -16,9 +16,9 @@ The objective of drug therapy is to deliver the correct drug at the necessary:
 
 `most drugs interact with receptors at a particular site of action`
 
-**Receptors** are cellular material located on cell membranes, that inhabit the site of action, that interacts with the drug to produce a response.
+**Receptors** are specialized proteins (usually located on cell membranes or within cells) that recognize and bind specific molecules. When a drug binds to a receptor, it triggers a biochemical or physiological response.
 
-These are **selective**; meaning that they only respond to molecules that fit a specific pattern (i.e. a lock and key).
+Receptors are **selective**, meaning they only respond to molecules that match their structure (the classic *lock‑and‑key* model).
 
 When molecules bind to a receptor, they cause a reaction based on the drug's characteristics:
 
@@ -26,19 +26,72 @@ When molecules bind to a receptor, they cause a reaction based on the drug's cha
 - **Antagonists**: block the receptor; preventing agonists from binding & inhibiting responses
 - **Partial agonists**: activate the receptor *weakly*; producing a weak response
 
-If all receptors available for interaction are occupied, the site is considered **saturated**; meaning that increasing the dosage would produce no increased response.
+When all available receptors are occupied, the site is **saturated**. Increasing the dose beyond this point will not increase the effect.
 
 ### Withdrawal
 
-Extended stimulation of cells with an agonist can lead to reduced sensitivity as the body tries to return to baseline activity; ultimately accepting the drugged state as the new baseline.
+Prolonged exposure to drugs that **stimulate** receptors (agonists) can cause the body to *down‑regulate* or desensitize those receptors, making them less responsive.
 
-Extended inhibition of cells with an antagonist can lead to increased sensitivity for similar reasons.
+Prolonged exposure to drugs that **block** receptors (antagonists) can cause the body to *up‑regulate* or increase receptor sensitivity.
 
-These effects are called **withdrawal** symptoms; requiring certain drugs to be tapered down in order to discontinue use.
+When the drug is suddenly removed, the body’s altered receptor balance causes **withdrawal symptoms**.  
+This is why certain drugs must be **tapered** rather than stopped abruptly.
 
 ### Other Mechanisms
 
 `Some drugs produce an effect without interacting with a receptor`
+
+#### **Physical Action**
+
+A drug produces a mechanical or protective effect without chemical interaction.
+
+*Example:* **Aquaphor** forms a physical barrier to prevent moisture loss.
+
+#### **Chemical Reaction**
+
+A drug directly reacts with other substances in the body to neutralize or modify them.
+
+*Example:* **Antacids** neutralize gastric acid through acid–base reactions.
+
+#### **Alter Osmolarity**
+
+A drug changes the osmotic gradient to move water or solutes across membranes.
+
+*Example:* **Peritoneal dialysis solutions** draw waste products out of the bloodstream.
+
+#### **Process Interference**
+
+A drug disrupts a biological or biochemical process essential for cell survival or function.
+
+*Example:* **Penicillin** inhibits bacterial cell wall synthesis.
+
+#### **Complex Formation**
+
+A drug binds to another molecule to form a larger complex. This can:
+
+- enhance excretion  
+- slow metabolism  
+- prevent absorption  
+
+*Example:* **Doxorubicin liposome injections** use PEGylated liposomes to evade immune detection.
+
+#### **Enzymatic Bonding / Alteration**
+
+A drug modifies enzyme activity or interferes with metabolic pathways.
+
+*Example:* **Reverse Transcriptase Inhibitors** (e.g., abacavir) block viral DNA synthesis.
+
+#### **Membrane Protein Bonding / Alteration**
+
+A drug affects ion channels, transporters, or structural proteins in cell membranes.  
+
+*Example:* **Sodium channel blockers** regulate sodium ion flow to control nerve conduction or cardiac rhythm.
+
+#### **Modifying Hormone Control**
+
+A drug alters hormone release, receptor sensitivity, or downstream signaling.
+
+*Example:* **Dopamine**, which functions as both a neurotransmitter and a hormone, influences cardiovascular and renal processes.
 
 ---
 
