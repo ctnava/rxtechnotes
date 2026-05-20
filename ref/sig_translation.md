@@ -62,6 +62,19 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 
 > ⚠️ Indicates that this abbreviation is on the "Do Not Use" List.
 
+### Verbs (RxConnect)
+
+| Emoji | Abbreviation | Meaning | ⚠️ |
+| --- | --- | --- | --- |
+| 🧴 | A (RxConnect) | Apply | |
+| ✅🩹 | AAA (RxConnect) | Apply to affected area | |
+| 💨🌀 | SP (RxConnect) | Spray | |
+| 🌀✅ | SAS (RxConnect) | Swish and swallow | |
+| 👄⚪ | T1T (RxConnect) | Take 1 Tablet | |
+| 👄⚪ | T_T (RxConnect) | Take [number] Tablets | |
+| 👄💊 | T1C (RxConnect) | Take 1 Capsule | |
+| 👄💊 | T_C (RxConnect) | Take [number] Capsules | |
+
 ### 🧭 Route of Administration
 
 | Emoji | Abbreviation | Meaning | ⚠️ |
@@ -86,10 +99,6 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 | 💉⏩ | IVP | IV Push | |
 | 👃 | EN (RxConnect) | Each nostril | |
 | 🩹 | P (RxConnect) | Patch | |
-| 🧴 | A (RxConnect) | Apply | |
-| ✅🩹 | AAA (RxConnect) | Apply to affected area | |
-| 💨🌀 | SP (RxConnect) | Spray | |
-| 🌀✅ | SAS (RxConnect) | Swish and swallow | |
 
 ### 📏 Measurement
 
@@ -151,6 +160,7 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 | ☀️ | QAM, AM | Every morning | |
 | 🙋‍♂️ | PRN | As needed | |
 | 🚨 | STAT | Immediately | |
+| 🗓️ | F_D (RxConnect) | For [number] Days | |
 | 🗓️ | FXD (RxConnect) | For 10 Days | |
 
 ### 🧩 Modifiers
