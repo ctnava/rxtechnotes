@@ -295,15 +295,115 @@ Reduced effectiveness of **antimicrobials**, **anthelmintics**, or **antineoplas
 
 ## Drug-Disease Interactions
 
-The disposition & effect of some drugs may be altered by the presence of diseases.
+The **presence of disease can alter the disposition and effect of drugs** by changing normal organ function involved in absorption, distribution, metabolism, or excretion.  
+These interactions can occur at any age but are **most common in older adults**.
 
-### Hepatic
+Common disease states affecting drug response include:  
+diabetes, hypertension/hypotension, peptic ulcers, glaucoma, BPH (enlarged prostate), urinary retention, insomnia, and chronic organ disease.
 
-### Renal
+### Hepatic (Liver Disease)
+
+The liver is the primary site of **drug metabolism**.  
+Hepatic impairment increases the risk of **drug accumulation**, **reduced clearance**, and **increased bioavailability**.
+
+**Drugs significantly affected:** verapamil, chlormethiazole, morphine, nifedipine, midazolam
+
+- **Cirrhosis**
+  - Chronic, progressive, and potentially fatal liver disease  
+  - Portal blood flow is altered; blood from the intestine may **bypass the liver**  
+  - **First-pass metabolism decreases → bioavailability increases**  
+  - Higher risk of toxicity for high first-pass drugs (e.g., propranolol, morphine)
+
+- **Obstructive Jaundice**
+  - Bile duct obstruction → bile and waste accumulate in the liver  
+  - Reduced bile flow impairs metabolism and excretion  
+  - **Less first-pass metabolism → increased bioavailability**
+
+- **Acute Viral Hepatitis**
+  - Inflammation of hepatocytes caused by viral infection  
+  - Reduced metabolic capacity → slower drug clearance  
+  - Increased risk of accumulation and toxicity
+
+### Renal (Kidney Disease)
+
+The kidneys eliminate many drugs and metabolites.  
+**Reduced renal function**, especially in **End-Stage Renal Disease (ESRD)**, leads to:
+
+- Decreased elimination  
+- Increased plasma drug levels  
+- Altered protein binding  
+- Higher risk of toxicity
+
+**General Rule:**  
+→ **Reduce dosage** or **extend dosing interval** to prevent accumulation.
+
+#### Plasma Protein Changes
+
+- **Albumin (binds acidic drugs)**
+  - Major plasma protein for acidic drug binding  
+  - Normally retained by kidneys  
+  - In chronic renal disease, albumin may be lost → **less binding → more free drug → increased effect/toxicity**
+
+- **Orosomucoid (α1-acid glycoprotein; binds basic drugs)**
+  - Increases during inflammation or injury  
+  - Chronic renal disease elevates orosomucoid → **more binding of basic drugs → lower free concentration**
+
+- **Monitoring Renal Function**
+  - **Creatinine** is produced at a constant rate by muscle and eliminated by glomerular filtration  
+  - Diseased kidneys → **creatinine clearance decreases**  
+  - Creatinine clearance (CrCl) is used to adjust drug dosing
 
 ### Circulatory
 
+generally diminish blood flow
+affects aborption, distribution, and elimination
+
+#### Circulatory Absorption
+
+effects include delayed gastric emptying
+decreased intestinal motility+
+changes to gi pH
+leads to delayed or erratic absorption.
+
+#### Circulatory Metabolism
+
+decreased blood flow can affect metabolism by liver
+diminished flow affects ability to move from blood to hepatic cells that contain enzymes
+decreased flow decreatses clearance of drugs that are eliminated in proportion to hepatic flow
+
+#### Circulatory Elimination
+
+changes in flow usually have less effect on renal elimination since only 20% of the cardiac output flows to kidney
+high renal clearance drugs like penicillin, lithiuium, and alopurinal decrease in elinmation when renal blood flow decreases
+
 ### Thyroid
+
+explain thyrotoxicity
+
+metabolism is controlled by thyroid hormones
+changes in function affect disposition
+changes in GI motility
+
+#### Hypothyroidism
+
+underactive thyroid; less metabolism
+bioavilability increased
+decreased renal function
+
+#### hyperthyroidism
+
+overactive thyroid; more metabolism
+bioavailability decreased
+some drugs exacerbate hyperthyroidism
+increased renal function
+
+#### Digoxin
+
+cardiac glycosides are altered
+
+attributed to changes in renal elimination and metabolism
+lower plasma legels in hyper
+higher in hypo
 
 ---
 
