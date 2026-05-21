@@ -1,5 +1,20 @@
 # Factors Affecting Drug Responses & Activity
 
+Drug responses vary widely between individuals, even when the same medication, dose, and route of administration are used. These differences arise from a complex interplay of **physiological**, **genetic**, **environmental**, and **behavioral** factors that influence how a drug is **absorbed**, **distributed**, **metabolized**, **excreted**, and ultimately how it interacts with its target receptors or pathways.
+
+Understanding these sources of variability is essential for predicting therapeutic outcomes, preventing toxicity, and optimizing individualized drug therapy. Clinicians must consider not only the drug’s inherent pharmacologic properties but also the patient’s **age**, **sex**, **genetics**, **body composition**, **disease states**, **diet**, **concurrent medications**, and even **timing of administration**. Each of these factors can alter one or more ADME processes or modify pharmacodynamic sensitivity, leading to enhanced, diminished, or unpredictable drug effects.
+
+This document provides a comprehensive overview of the major determinants of drug response, including:
+
+- **Human variability** (age, sex, pregnancy, genetics, body weight, psychological factors)  
+- **Adverse drug reactions** and their mechanisms  
+- **Drug–disease interactions** affecting organ function and drug handling  
+- **Drug–drug interactions** involving disposition, metabolism, and pharmacodynamic effects  
+- **Dosage timing** and circadian influences on drug action  
+- **Drug–diet interactions** and the impact of specific foods  
+
+Together, these concepts form the foundation of safe, effective, and individualized pharmacotherapy.
+
 ---
 
 ## Human Variability
