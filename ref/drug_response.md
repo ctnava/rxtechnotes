@@ -310,7 +310,7 @@ Hepatic impairment increases the risk of **drug accumulation**, **reduced cleara
 
 - **Cirrhosis**
   - Chronic, progressive, and potentially fatal liver disease  
-  - Portal blood flow is altered; blood from the intestine may **bypass the liver**  
+  - Portal blood flow is reduced; blood from the intestine may **bypass the liver**  
   - **First-pass metabolism decreases → bioavailability increases**  
   - Higher risk of toxicity for high first-pass drugs (e.g., propranolol, morphine)
 
