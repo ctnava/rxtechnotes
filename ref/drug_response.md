@@ -4,7 +4,22 @@
 
 ## Human Variability
 
+The most significant factors that generally influence differences in medication responses between people.
+
 ### Age
+
+#### Neonates & Infants
+
+organ systems are not fully developed
+
+#### Children
+
+Children metabolize certain drugs more rapidly than adults
+
+#### The Elderly
+
+The elderly consume more drugs and have a higher incidence of drug interactions than other age groups.
+they also experience more physiological changes that significantly affect drug action
 
 ### Body Weight
 
@@ -13,6 +28,8 @@
 ### Pregnancy
 
 ### Genetics
+
+Genetics causes differences in the types and amounts of proteins produced in the body, which can result in different responses to the same drug at the same dose.
 
 ### Psychological Factors
 
