@@ -35,8 +35,8 @@ Over 30,000 abbreviations are used in medical science; many specifc to each inst
 | 📚 | Hx | History |
 | 🩺 | Dx | Diagnosis |
 | 📅 | DoB | Date of Birth |
-| X | FH | Family History |
-| X | PMH | Past Medical History |
+| 👨‍👩‍👧 | FH | Family History |
+| 🗂️ | PMH | Past Medical History |
 | 😁 | NKA | No Known Allergies |
 
 ---
@@ -45,21 +45,21 @@ Over 30,000 abbreviations are used in medical science; many specifc to each inst
 
 | Emoji | Abbreviation | Meaning |
 | --- | --- | --- |
-| X | T | Temperature |
-| X | WT | Weight |
-| X | BSA | Body Surface Area |
-| X | BMI | Body Mass Index |
-| X | VS | Vital Signs |
+| 🌡️ | T | Temperature |
+| ⚖️ | WT | Weight |
+| 📐 | BSA | Body Surface Area |
+| 📊 | BMI | Body Mass Index |
+| ❤️‍🩹 | VS | Vital Signs |
 | 🩸 | BS | Blood Sugar |
 | 💓 | BP | Blood Pressure |
-| X | SBP | Systolic Blood Pressure |
-| X | HR | Heart Rate |
-| X | CBC | Complete Blood Cell Count |
-| X | RBC | Red Blood Cell Count |
-| X | WBC | White Blood Cell Count |
-| X | HDL | High Density Lipoprotein |
-| X | IO, I/O | Fluid Intake & Output |
-| X | IOP | Intraocular Pressure |
+| 🔼💓 | SBP | Systolic Blood Pressure |
+| 💗 | HR | Heart Rate |
+| 🧪 | CBC | Complete Blood Cell Count |
+| 🩸🔴 | RBC | Red Blood Cell Count |
+| 🩸⚪ | WBC | White Blood Cell Count |
+| 💙 | HDL | High Density Lipoprotein |
+| 🚰 | IO, I/O | Fluid Intake & Output |
+| 👁️📈 | IOP | Intraocular Pressure |
 
 ---
 
@@ -72,22 +72,22 @@ Over 30,000 abbreviations are used in medical science; many specifc to each inst
 | 🚫 | D/C | Discontinue |
 | 🚫👄 | NPO | Nothing by mouth |
 | 🚨 | STAT | Immediately |
-| X | ASAP | As Soon As Possible (less urgent) |
-| X | KVO | Keep Veins Open |
-| X | T&C | Type & Cross (Blood Test) |
-| X | U/A | Urinalysis |
-| X | GI | Gastrointestinal |
-| X | ENT | Ear, Nose, Throat |
-| X | AV | Atrial-Ventricular |
-| X | OR | Operating Room |
-| X | ER | Emergency Room |
-| X | CABG | Coronary Bypass Graft |
-| X | MDI | Metered-Dose Inhaler |
-| X | TEDS | Thrombo-Embolic Disease Stockings |
+| ⏱️ | ASAP | As Soon As Possible (less urgent) |
+| 💧 | KVO | Keep Veins Open |
+| 🩸🔤 | T&C | Type & Cross (Blood Test) |
+| 🧪 | U/A | Urinalysis |
+| 🍽️ | GI | Gastrointestinal |
+| 👂👃👄 | ENT | Ear, Nose, Throat |
+| ❤️🔌 | AV | Atrial-Ventricular |
+| 🏥 | OR | Operating Room |
+| 🚑 | ER | Emergency Room |
+| ❤️🪢 | CABG | Coronary Bypass Graft |
+| 🌬️ | MDI | Metered-Dose Inhaler |
+| 🧦 | TEDS | Thrombo-Embolic Disease Stockings |
 | 💉 | TPN | Total Parenteral Nutrition |
-| X | HRT | Hormone Replacement Therapy |
-| X | EKG, ECG | Electrocardiogram |
-| X | HD | Hemodialysis |
+| 🌈💊 | HRT | Hormone Replacement Therapy |
+| 📈❤️ | EKG, ECG | Electrocardiogram |
+| 🫧 | HD | Hemodialysis |
 
 ---
 
@@ -95,13 +95,13 @@ Over 30,000 abbreviations are used in medical science; many specifc to each inst
 
 | Emoji | Abbreviation | Meaning |
 | 💩 | BM | Bowel Movement |
-| X | LOC | Loss of Consciousness |
-| X | AMS | Altered Mental State |
-| X | HA | Headache |
-| X | HBP | High Blood Pressure |
-| X | LBW | Low Birth Weight |
-| X | NVD | Nausea, Vomiting, Diarrhea |
-| X | SOB | Shortness of Breath |
+| 🧠❌ | LOC | Loss of Consciousness |
+| 🤯 | AMS | Altered Mental State |
+| 🤕 | HA | Headache |
+| 🔺💓 | HBP | High Blood Pressure |
+| 👶⚖️⬇️ | LBW | Low Birth Weight |
+| 🤢🤮💩 | NVD | Nausea, Vomiting, Diarrhea |
+| 😮‍💨 | SOB | Shortness of Breath |
 
 ---
 
@@ -109,30 +109,30 @@ Over 30,000 abbreviations are used in medical science; many specifc to each inst
 
 | Emoji | Abbreviation | Meaning |
 | --- | --- | --- |
-| X | ADD | Attention Deficit Disorder (ADD) |
-| X | AFib | Atrial Fibrilation |
-| X | AIDS | Acquired Immunodeficiency Syndrome |
-| X | CA | Cancer |
-| X | CAD | Coronary Artery Disease |
-| X | CHD | Coronary Heart Disease |
-| X | CHF | Congestive Heart Failure |
-| X | CVA | Cerebrovascular Accident (Stroke) |
-| X | COPD | Chronic Obstructive Pulmonary Disease |
-| X | DM | Diabetes Mellitus |
-| X | ESRD | End-Stage Renal Disease |
-| X | GERD | Gastroesophageal Reflux Disease |
-| X | HIV | Human Immunodeficiency Virus |
-| X | HTN | Hypertension |
-| X | MI | Myocardial Infarction (Heart Attack) |
-| X | OM | Otitis Media (Middle Ear Inflammation) |
-| X | PTSD | Post-Traumatic Stress Disorder |
-| X | PUD | Peptic Ulcer Disease |
-| X | PVD | Peripheral Vascular Disease |
-| X | RA | Rheumatoid Arthritis |
-| X | STD | Sexually Transmitted Disease |
-| X | TB | Tuberculosis |
-| X | URD | Upper Respiratory Disease |
-| X | UTI | Urinary Tract Infection |
+| 🎯 | ADD | Attention Deficit Disorder |
+| ❤️⚡ | AFib | Atrial Fibrillation |
+| 🧬🛑 | AIDS | Acquired Immunodeficiency Syndrome |
+| 🎗️ | CA | Cancer |
+| ❤️🛣️ | CAD | Coronary Artery Disease |
+| ❤️🛑 | CHD | Coronary Heart Disease |
+| 💔 | CHF | Congestive Heart Failure |
+| 🧠💥 | CVA | Cerebrovascular Accident (Stroke) |
+| 🌬️ | COPD | Chronic Obstructive Pulmonary Disease |
+| 🍬 | DM | Diabetes Mellitus |
+| 🩺⚰️ | ESRD | End-Stage Renal Disease |
+| 🔥🫗 | GERD | Gastroesophageal Reflux Disease |
+| 🧬 | HIV | Human Immunodeficiency Virus |
+| 💓⬆️ | HTN | Hypertension |
+| ❤️❌ | MI | Myocardial Infarction (Heart Attack) |
+| 👂🔥 | OM | Otitis Media |
+| 😨 | PTSD | Post-Traumatic Stress Disorder |
+| 🥼🕳️ | PUD | Peptic Ulcer Disease |
+| 🦵🩸 | PVD | Peripheral Vascular Disease |
+| 🦴🔥 | RA | Rheumatoid Arthritis |
+| ❤️‍🩹 | STD | Sexually Transmitted Disease |
+| 🫁🦠 | TB | Tuberculosis |
+| 😷 | URD | Upper Respiratory Disease |
+| 🚽🔥 | UTI | Urinary Tract Infection |
 
 ---
 
