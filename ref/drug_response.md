@@ -957,11 +957,88 @@ Lithium patients must maintain **consistent sodium intake** to avoid fluctuation
 
 ### Specific Foods
 
-Some foods contain substances that can react with certain drugs.
+Certain foods contain bioactive compounds that can **alter drug absorption, metabolism, distribution, or excretion**.  
+These interactions may be clinically significant, especially for drugs with **narrow therapeutic windows**.
+
+#### Vitamin K–Containing Foods
+
+Vitamin K–rich foods (especially **cruciferous vegetables**) can affect drug action in two major ways:
+
+##### 1. **Interference with Warfarin**
+
+Warfarin inhibits **vitamin K epoxide reductase**, reducing synthesis of clotting factors II, VII, IX, X.
+
+High intake of vitamin K:
+
+- **Opposes warfarin’s anticoagulant effect**
+- **Lowers INR**
+- Increases risk of **clotting**
+
+Low or inconsistent intake:
+
+- **Raises INR**
+- Increases risk of **bleeding**
+
+**Foods high in Vitamin K**:
+
+- Kale  
+- Spinach  
+- Broccoli  
+- Brussels sprouts  
+- Collard greens  
+- Cabbage  
+- Green tea (moderate)
+
+**Clinical principle:**  
+Patients on warfarin should maintain **consistent** vitamin K intake, not avoid it entirely.
+
+##### 2. **Cruciferous Vegetables and Drug Metabolism**
+
+Cruciferous vegetables (broccoli, cabbage, Brussels sprouts, cauliflower) contain **indoles** and **isothiocyanates** that can **induce CYP1A2** and other Phase I enzymes.
+
+This can **increase metabolism** of certain drugs, reducing their effect.
+
+**Drugs whose metabolism may be increased by cruciferous vegetables**:
+
+- **Caffeine** (CYP1A2 substrate)  
+- **Clozapine**  
+- **Olanzapine**  
+- **Theophylline**  
+- **R-warfarin** (minor pathway; S-warfarin is CYP2C9)
+
+Effect is modest but clinically relevant in sensitive patients (e.g., theophylline).
 
 #### Tyramine
 
-Interacts with Monoamine Oxidase (MAO) inhibitors.
+Tyramine is found in **aged, fermented, cured, or pickled foods**.
+
+Examples:
+
+- Aged cheeses  
+- Cured meats  
+- Fermented soy (soy sauce, miso)  
+- Sauerkraut  
+- Red wine  
+- Draft beer
+- Chicken liver
+- Overripe bananas, avocados
+
+##### Interaction: MAO Inhibitors (MAOIs)
+
+MAOIs block the breakdown of **tyramine** in the gut and liver.
+
+Excess tyramine → **massive norepinephrine release** →  
+**Hypertensive crisis** (severe headache, stiff neck, palpitations, risk of stroke, intracranial hemmorrhage)
+
+**Drugs involved**:
+
+- Phenelzine  
+- Tranylcypromine  
+- Isocarboxazid  
+- Selegiline (high doses or non-transdermal)
+
+**Clinical rule:**  
+Patients on MAOIs must avoid **high-tyramine foods**.
 
 #### Grapefruit
 
