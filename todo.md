@@ -110,7 +110,7 @@
 ## Week 9: Biopharmaceutics & Customer Service
 
 - [x] DenaliRx Drugs 101-120
-- [ ] Reading: Chapter 11 - Biopharmaceutics
+- [x] Reading: Chapter 11 - Biopharmaceutics
 - [ ] Grapefruit Interactions
 - [x] Math: Chapter 27 - Body Weight Calculations
 
