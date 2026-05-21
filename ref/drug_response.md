@@ -889,21 +889,32 @@ Food intake can influence drug distribution by altering **plasma protein binding
 
 #### Drug-Diet: Metabolism
 
-food is a complex mixture of carbs, fat, and protein
+Food is a complex mixture of **carbohydrates, fats, and proteins**, each capable of altering hepatic enzyme activity.
 
-generally, mild or moderately undernourished people have normal or enhanced metabolism while secerely malnourished adults have decreased metabolism
-there are many variables in malnourishment that can produce an effect on metabolism
+##### Effects of Nutritional Status
 
-##### Studies
+- **Mild to moderate undernutrition**
+  - Metabolism often **normal or enhanced**.
+- **Severe malnutrition**
+  - **Decreased metabolism** due to reduced enzyme activity, cofactor deficiency, and impaired liver function.
+- Effects vary widely depending on:
+  - Duration of malnutrition  
+  - Micronutrient deficiencies  
+  - Liver health  
+  - Inflammatory state
 
-caloric intake is constant
-one decreased, one increased, third constant
+##### Dietary Composition Studies
 
-|change|effect|
-increase protein | increase metabolism |
-increased carbs | decreased metabolism |
-increased fat (swapped for carbs) | no effect |
-decreased calories | decreased metabolism |
+Assuming **constant caloric intake**, altering macronutrient ratios produces predictable metabolic changes:
+
+| Dietary Change | Effect on Metabolism |
+| --- | --- |
+| ↑ Protein | ↑ Metabolism (induces hepatic enzymes) |
+| ↑ Carbohydrates | ↓ Metabolism |
+| ↑ Fat (replacing carbs) | No significant effect |
+| ↓ Total calories | ↓ Metabolism |
+
+These patterns reflect how macronutrients regulate enzyme synthesis and hepatic energy availability.
 
 #### Drug-Diet: Excretion
 
