@@ -827,39 +827,65 @@ If two agents interact in the **GI tract**, separate by **~2 hours** unless othe
 
 ## Drug-Diet Interactions
 
+Dietary intake can influence drug action by altering any of the **ADME** processes.  
+Food may **enhance**, **reduce**, or **delay** drug absorption; modify distribution; alter metabolic rate; or change excretion patterns.
+
+Understanding these interactions helps clinicians optimize dosing, avoid therapeutic failure, and prevent toxicity.
+
 ### Drug-Diet: Disposition
 
 Dietary intake can influence drug action by influencing one of all ADME processes.
 
 #### Drug-Diet: Absorption
 
-presence of food alters absorption
+- **Chemical interactions with food**
+  - Food components can interact with the **dosage form**, altering release characteristics  
+    - Example: polymer‑coated or enteric‑coated tablets may dissolve differently with food.
+  - Food can **complex** with drugs, forming non‑absorbable compounds  
+    - Example: **tetracycline** or **ciprofloxacin** + dairy (calcium) → insoluble chelates → ↓ absorption.
 
-- interact checmically
-  - affecting th dosage form (polymer coated tab release charcteristics; enteric coated tablets)
-- improve solubility of some drugs by increasing bile
-- alter gastric emptying
-- alter intestinal motility
-- alter liver blood flow
-- complexication with food
-  - tetracycline/ciprofloxacin x dairy (calcium)
+- **Improved solubility**
+  - High‑fat meals increase **bile secretion**, improving solubility and absorption of **lipophilic drugs**.
 
-some drugs will have increased or decreased bioavilability with food
+- **Altered gastric emptying**
+  - Food generally **slows gastric emptying**, delaying absorption of most drugs.
+  - Faster gastric emptying (e.g., with liquids) may speed absorption unless the stomach is the target site.
 
-alendrolate is decreased 60% with coffee or juice
-no absorption at all with meals
+- **Altered intestinal motility**
+  - High‑fiber meals increase motility; ↓ absorption time.
+  - Fatty meals slow motility; ↑ absorption for some drugs.
 
-dietary fiber generally decreaes absorption of all drugs
+- **Altered liver blood flow**
+  - Meals increase splanchnic blood flow, potentially reducing first‑pass metabolism for some drugs.
+
+##### Clinical Examples
+
+- **Alendronate**
+  - ↓ absorption by **60%** with coffee or juice.
+  - **No absorption at all** when taken with meals.
+  - Must be taken fasting with plain water.
+
+- **Dietary fiber**
+  - Generally **decreases absorption** of most drugs by binding or speeding transit.
+
+- **Food may increase or decrease bioavailability**
+  - Depends on drug properties (e.g., lipophilicity, pH sensitivity, formulation).
 
 #### Drug-Diet: Distribution
 
-presence of food influences drug distribution
+Food intake can influence drug distribution by altering **plasma protein binding** and nutrient levels.
 
-- high fat meals; increase fatty acid levels in blood that bind plasma proteins
-- displaces bound drug
-- increases free concentration
+- **High‑fat meals**
+  - Increase circulating **free fatty acids**, which compete with drugs for albumin binding.
+  - This can **displace bound drug**, increasing the **free (active)** concentration.
 
-undernourished people have lower albumin with fewer sites available making highly bound drugs too strong like phenytoin(96%) or wararin (90%)
+- **Undernutrition**
+  - Undernourished patients have **lower albumin**, reducing binding capacity.
+  - Highly protein‑bound drugs become **more potent** due to increased free fraction.
+  - High‑risk drugs (high protein binding):
+  Small changes in albumin or displacement can cause **large changes** in free drug concentration → toxicity risk
+    - **Phenytoin** (~96% bound)
+    - **Warfarin** (~90% bound)
 
 #### Drug-Diet: Metabolism
 
