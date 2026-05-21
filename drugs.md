@@ -126,7 +126,73 @@ Each neurotransmitter has multiple receptor subtypes, each with agonists and ant
 
 ---
 
-## Commonly Prescribed Drugs by Class & Known Safety Issues
+## Common Drug Classes & How They Work
+
+### Pain Management Agents
+
+#### Analgesics
+
+**Analgesia** is the reduction or elimination of pain.
+
+Pain impulses travel from peripheral nerves → spinal cord → thalamus → cerebral cortex.  
+Most analgesics work by **interrupting pain signal transmission** or **altering pain perception** in the CNS.
+
+- **Antipyretics** reduce fever  
+- **Anti-inflammatory drugs** reduce inflammation  
+
+| Type | Pain | Antipyretic | Anti-Inflammatory | Mechanism | Notes |
+| --- | --- | --- | --- | --- | --- |
+| **Salicylates** 🛡️ | Mild–Moderate | ✅ | ✅ | **Irreversible COX‑1 inhibition** => ↓ prostaglandins & ↓ thromboxane | GI upset/bleeding; anti‑coagulant; 🚨 avoid in children (Reye’s syndrome) |
+| **Acetaminophen (APAP)** 💊 | Mild–Moderate | ✅ | ❌ | Central COX inhibition (exact MOA unclear) | ☣️ Hepatotoxic at high doses; max adult daily dose ≈ 4 g |
+| **NSAIDs** 💊 | Mild–Moderate | ✅ | ✅ | **Reversible COX‑1/COX‑2 inhibition** => ↓ prostaglandins | GI irritation; renal concerns; used for rheumatic conditions |
+| **Opiate-Type Narcotics** 🔐 | **Severe** | ❌ | ❌ | **μ‑opioid receptor agonists**; mimic endorphins | Alters Pain Perception; Respiratory depression; sedation; constipation; 🚨 dependence risk |
+
+Opiate-type narcotics are often combined with non-opioid analgesics to reduce required opioid dose and lower dependency risk.
+
+> 🚨 The opioid epidemic kills ~130 Americans per day.
+
+#### Anesthetics
+
+**Anesthetics** cause an absence of sensation or pain.  
+They are classified as **local** or **general**.
+
+##### Local Anesthetics
+
+Local anesthetics block nerve conduction **without loss of consciousness**.
+
+**Mechanism:**  
+Block **voltage-gated sodium channels**, preventing depolarization and stopping pain signal transmission.
+
+**Common Indications**:
+
+- Dental procedures 🦷  
+- Labor/birth pain 🤰  
+- Topical pain relief (sunburn, minor cuts, hemorrhoids)
+
+##### General Anesthetics
+
+General anesthetics depress the CNS to the point of **unconsciousness, amnesia, and analgesia**.
+
+**Classified by route**:
+
+- **IV anesthetics**
+  - Faster onset  
+  - Smoother induction  
+  - More pleasant for patients  
+
+- **Inhalation anesthetics**
+  - Used for maintenance  
+  - Require specialized equipment  
+  - ☣️ Occupational exposure concerns  
+
+Administered by anesthesiologists or CRNAs, who actively manage dosing throughout the procedure.
+
+**Adjunctive drugs**:
+
+- Analgesics → pain control  
+- Anti-infectives → prevent post-op infections 🦠  
+- Anticholinergics → reduce secretions, prevent aspiration  
+- Benzodiazepines → anxiolysis, amnesia 😴
 
 ---
 
