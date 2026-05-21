@@ -284,6 +284,13 @@ Reduced effectiveness of **antimicrobials**, **anthelmintics**, or **antineoplas
 - Switching to a different agent is preferred over increasing the dose  
 - Often due to genetic mutations in pathogens or cancer cells
 
+> Pharmaceutical manufacturers are required to report any **serious, unlabeled Adverse Drug Reactions (ADRs)** through the FDA’s **MedWatch** program and, for vaccine-related events, through the CDC/FDA **VAERS** system.  
+>
+> Products that present a **significant threat to consumer safety** may be **recalled** by the manufacturer or the FDA. Recalls are assigned a **numerical classification (I → III)** based on the level of potential hazard, with **Class I** representing the most serious risk.
+>
+> 🔗 **[Vaccine Adverse Event Reporting System (VAERS):](../sop/vaers.md)**
+> 🔗 **[MedWatch](../sop/medwatch.md):**
+
 ---
 
 ## Drug-Disease Interactions

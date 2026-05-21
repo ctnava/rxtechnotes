@@ -78,3 +78,4 @@ By contributing accurate and timely reports, you can help safeguard both individ
 - 🔗🔙 [Medication Safety Practices & Errors](../ref/basic_safety_practices.md#national-programs)
 - 🥚 [Original Essay](./essay_understanding_vaers.pdf)
 - 🔗🔙 [Core Pharmacy Workflows & Standard Operating Procedures (SOP)](../core_operations.md#assisting-patients--pharmacists-in-filing-medwatch--vaers-reports)
+- 🔗🔙 [Factors Affecting Drug Responses & Activity](../ref/drug_response.md#drug-resistance)
