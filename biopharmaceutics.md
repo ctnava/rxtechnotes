@@ -608,6 +608,44 @@ ${F(\%) = \left( \frac{AUC_{test}}{AUC_{standard}} \right) \times 100}$
 
 Bioequivalence ensures that two products deliver **comparable systemic exposure** and therefore **comparable therapeutic effect**.
 
+### Bioequivalence Studies
+
+Bioequivalence is assessed by comparing the **blood‑concentration vs. time profiles** of:
+
+- the **innovator (brand)** product  
+- the **test (generic or alternative)** product  
+- multiple **lots/batches** of the same product (quality assurance)
+
+These profiles are evaluated for differences in:
+
+- **AUC (Area Under the Curve)** → extent of absorption  
+- **Cmax** → peak concentration (rate of absorption)  
+- **Tmax** → time to peak concentration (rate of absorption)  
+- **Shape of the curve** → overall absorption pattern  
+
+The FDA requires that the **90% confidence interval** for the ratio of test/brand for both **AUC** and **Cmax** fall within 80% to 125%
+
+This range ensures that any differences in absorption are **not clinically significant**.
+
+#### Why Differences Occur
+
+Even when two products contain the same active ingredient, differences in **manufacturing** and **formulation** can affect bioequivalence:
+
+- **Excipients** (binders, fillers, coatings, disintegrants)  
+  - affect dissolution, stability, and absorption  
+- **Manufacturing process**  
+  - compression force, granulation method, particle size  
+- **Release mechanism**  
+  - immediate‑release vs. extended‑release  
+- **Polymorphs**  
+  - different crystalline forms dissolve at different rates  
+- **pH‑dependent solubility**  
+  - stomach vs. intestine dissolution differences  
+- **Stability differences**  
+  - degradation in heat, humidity, or gastric acid  
+- **Lot‑to‑lot variability**  
+  - monitored through routine quality assurance testing  
+
 ### Pharmaceutical Equivalents
 
 Pharmaceutical equivalents are drug products that:
