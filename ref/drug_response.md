@@ -503,7 +503,67 @@ The **most clinically significant consequence** is the **change in drug effect**
 
 #### Drug-Drug: Metabolism
 
-Drugs that induce liver metabolism may also increase metabolism of other drugs that use the same biochemical pathways.
+Metabolic drug–drug interactions occur when one drug alters the **biotransformation** of another, usually through effects on **hepatic enzymes** (primarily CYP450).  
+These interactions can **increase or decrease** drug levels depending on whether the enzyme is **induced** or **inhibited**.
+
+##### Enzymatic Induction
+
+**Definition**:  
+A drug increases the **production or activity** of metabolic enzymes, leading to **faster metabolism** of itself or other drugs using the same pathway.
+
+**Effects**:
+
+- **Decreased drug levels**
+- **Reduced therapeutic effect**
+- May require **dose increases** for affected drugs
+
+**Characteristics**:
+
+- **Slow onset** (days to weeks) because new enzymes must be synthesized  
+- **Slow offset** after discontinuation  
+- Magnitude influenced by:
+  - Dose  
+  - Age  
+  - Genetics  
+  - Liver disease  
+  - Chronic vs. acute use  
+
+**Common Inducers (high‑yield)**:
+
+- Rifampin  
+- Carbamazepine  
+- Phenytoin  
+- Phenobarbital  
+- St. John’s wort  
+- Smoking (induces CYP1A2)
+
+##### Enzymatic Inhibition
+
+**Definition**:
+A drug **blocks or competes** for the same metabolic enzyme, reducing metabolism of another drug.
+
+**Effects**:
+
+- **Increased drug levels**
+- **Increased pharmacologic effect**
+- Higher risk of **toxicity**, especially for narrow‑therapeutic‑index drugs
+
+**Characteristics**:
+
+- **Most common** type of metabolic interaction  
+- **Rapid onset** (often within 24 hours)  
+- Effects **resolve quickly** once the inhibitor is discontinued  
+- Generally **dose‑related**  
+- More predictable when drugs share **similar chemical structures** or the same CYP pathway
+
+**Common Inhibitors (high‑yield)**:
+
+- Macrolides (erythromycin, clarithromycin)  
+- Azole antifungals (ketoconazole, fluconazole)  
+- Amiodarone  
+- Cimetidine  
+- Grapefruit juice (intestinal CYP3A4 inhibition)  
+- SSRIs (fluoxetine, paroxetine)
 
 #### Drug-Drug: Excretion
 
