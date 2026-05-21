@@ -114,11 +114,11 @@
 - [x] Grapefruit Interactions
 - [x] Math: Chapter 27 - Body Weight Calculations
 
-## Week 10: Drug Activity
+## [DONE] Week 10: Drug Activity
 
 - [x] DenaliRx Drugs 121-140
 - [x] Math: Chapter 26 - Ratio Math
-- [ ] Reading: Chapter 12 - Factors Affecting Drug Activity
+- [x] Reading: Chapter 12 - Factors Affecting Drug Activity
 - [x] CE: Vaccines
 - [x] Math: Young & Clark's Rule
 
