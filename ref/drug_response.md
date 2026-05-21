@@ -672,7 +672,40 @@ This is a *multiplicative* interaction, not just additive.
 
 ### Potentiation
 
-occurs when one drug with no inherent activity of its own increases the activity of another.
+**Potentiation** occurs when **one drug with little or no inherent activity** increases the **effect, potency, or duration** of another drug.  
+Unlike synergism, the potentiating drug does **not** produce the effect on its own; it simply enhances the other drug’s action.
+
+#### Example: Amoxicillin + Clavulanic Acid
+
+- **Clavulanic acid** has no significant antibacterial activity by itself.  
+- It inhibits **β‑lactamase**, the enzyme that degrades amoxicillin.  
+- This protects amoxicillin from breakdown, allowing it to:
+  - Remain active longer  
+  - Reach higher effective concentrations  
+  - Treat β‑lactamase–producing organisms
+
+**Result:**  
+→ **Potentiation of amoxicillin’s antibacterial effect**
+
+This combination is used in **Augmentin**.
+
+amoxicillin + clavulanic acid increases duration of amoxcilin
+
+clavulanic acid inhibits the enzyme that degrades amoxicillin and thereby allows amoxicillin to be more potent than if used alone
+
+#### Example: Penicillin + Probenecid
+
+- **Probenecid** has no antibacterial activity.  
+- It competes with penicillin for the **renal tubular secretion** transporter.  
+- When probenecid occupies the transporter:
+  - Penicillin is secreted more slowly  
+  - Plasma levels remain higher for longer  
+  - Duration of action increases
+
+**Result:**  
+→ **Potentiation of penicillin’s antibiotic effect**
+
+This interaction was historically used to extend penicillin levels during shortages.
 
 ### Antidotes
 
