@@ -353,57 +353,55 @@ The kidneys eliminate many drugs and metabolites.
   - Diseased kidneys → **creatinine clearance decreases**  
   - Creatinine clearance (CrCl) is used to adjust drug dosing
 
-### Circulatory
+### Circulatory (Cardiovascular Disease)
 
-generally diminish blood flow
-affects aborption, distribution, and elimination
+Reduced cardiac output or impaired circulation affects **absorption, distribution, metabolism, and elimination**.
 
-#### Circulatory Absorption
+- **Circulatory Absorption**
+  - Delayed gastric emptying  
+  - Decreased intestinal motility  
+  - Altered GI pH  
+  → Leads to **delayed or erratic absorption**
 
-effects include delayed gastric emptying
-decreased intestinal motility+
-changes to gi pH
-leads to delayed or erratic absorption.
+- **Circulatory Metabolism**
+  - Liver receives less blood flow  
+  - Drugs dependent on hepatic perfusion (e.g., lidocaine, propranolol) have **reduced clearance**  
+  - Increased plasma concentrations and prolonged effects
 
-#### Circulatory Metabolism
-
-decreased blood flow can affect metabolism by liver
-diminished flow affects ability to move from blood to hepatic cells that contain enzymes
-decreased flow decreatses clearance of drugs that are eliminated in proportion to hepatic flow
-
-#### Circulatory Elimination
-
-changes in flow usually have less effect on renal elimination since only 20% of the cardiac output flows to kidney
-high renal clearance drugs like penicillin, lithiuium, and alopurinal decrease in elinmation when renal blood flow decreases
+- **Circulatory Elimination**
+  - Renal blood flow is less affected (kidneys receive ~20% of cardiac output)  
+  - But **high renal-clearance drugs** show reduced elimination when renal perfusion drops  
+    - Examples: penicillin, lithium, allopurinol
 
 ### Thyroid
 
-explain thyrotoxicity
+Thyroid hormones regulate **metabolic rate**, **GI motility**, and **drug disposition**.
 
-metabolism is controlled by thyroid hormones
-changes in function affect disposition
-changes in GI motility
+- **Hypothyroidism**
+  - Underactive thyroid → **slower metabolism**  
+  - **Increased bioavailability**  
+  - **Decreased renal function** → slower elimination  
+  - Higher plasma levels of many drugs
 
-#### Hypothyroidism
-
-underactive thyroid; less metabolism
-bioavilability increased
-decreased renal function
-
-#### hyperthyroidism
-
-overactive thyroid; more metabolism
-bioavailability decreased
-some drugs exacerbate hyperthyroidism
-increased renal function
+- **Hyperthyroidism**
+  - Overactive thyroid → **faster metabolism**  
+  - **Decreased bioavailability**  
+  - Increased renal clearance  
+  - Some drugs may worsen hyperthyroidism (e.g., amiodarone)
 
 #### Digoxin
 
-cardiac glycosides are altered
+Thyroid status significantly alters digoxin levels:
 
-attributed to changes in renal elimination and metabolism
-lower plasma legels in hyper
-higher in hypo
+- **Hyperthyroidism**  
+  - Increased metabolism and renal clearance  
+  - **Lower plasma digoxin levels**
+
+- **Hypothyroidism**  
+  - Reduced renal clearance  
+  - **Higher plasma digoxin levels**
+
+Dose adjustments are required based on thyroid function.
 
 ---
 
