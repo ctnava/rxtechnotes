@@ -766,6 +766,8 @@ The FDA’s **Orange Book** (Approved Drug Products with Therapeutic Equivalence
 **A‑rated = substitutable**  
 **B‑rated = NOT substitutable**
 
+🔗 Link to [The Orange Book](https://www.fda.gov/drugs/drug-approvals-and-databases/approved-drug-products-therapeutic-equivalence-evaluations-orange-book)
+
 #### A‑Ratings (Bioequivalent)
 
 A‑rated products are **therapeutically equivalent** and **substitutable**.
