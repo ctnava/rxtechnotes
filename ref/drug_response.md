@@ -110,21 +110,46 @@ Pharmacogenomics focuses on inherited differences in drug metabolism and respons
 
 ## Adverse Drug Reactions
 
+Undesired patient-specific effects are called Adverse Drug Reactions (ADR)
+ADverse drug events come from errors in the medication use process. they are different
+
 ### Hypersensitivity (Allergy)
 
 Almost any drug, in almost any dose, can produce an allergic response.
 
-Anaphylaxis is potentially fatal
+body developes antibodies while previously taking the drug or a related one
+detection of the drug releases histamine and other substances that produce the response
+
+ranges from rashes to Anaphylactic shock (potentially fatal; respiratory distress, convulsions, & cardiac collapse)
+treatment requires the use of epinephrine, antihistamines, or a bronchodilator
 
 ### Idiosyncrasy
 
+unexpected reactions
+thought to be caused by genetic characteristtics that alter biochemical pathways
+
 ### Carcinogenicity
+
+cause cancer
+several drugs are carcinogens including hormones and anticancer drugs
+tobacco and alcohol have been implicated in cancer
 
 ### Teratogenicity
 
+cause abnormal fetal development / birth defects
+include analgesics, diuretics, antihistamines, antibiotics, and antiemetics
+
 ### Hepatotoxicity
 
+liver toxicity (including hepatitis, hepatic necrosis, and biliary tract inflammation, or obstruction)
+rare but life threatening
+hepatotoxic drugs include APAP, halothane, isonioazid, chlorpromazine, methotrexate, nitrofurnatoin, phenytoin, and aspirin
+
 ### Nephrotoxicity
+
+kidney toxicity
+
+gentamicin, aminoglycosides, ibuprofen, NSAIDS, celecoxib, omeprazole, acyclovir
 
 ### Hemotological Effects
 
