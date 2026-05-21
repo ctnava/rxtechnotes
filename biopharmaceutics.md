@@ -604,13 +604,98 @@ ${F(\%) = \left( \frac{AUC_{test}}{AUC_{standard}} \right) \times 100}$
 
 ## Bioequivalency
 
-Bioequivalent drug products are pharmaceutical equivalents or alternatives that have the same bioavailabilities (i.e. rate & extent of absorption) when administered in the same dose under the same conditions.
+**Bioequivalent drug products** are **pharmaceutical equivalents or pharmaceutical alternatives** that show **no significant difference** in the **rate and extent of absorption** when administered at the same dose under the same conditions.
 
-Pharmaceutical equivalents are drug products that contain identical amounts of the same active ingredient in the same dosage form; often containing different excipients.
+Bioequivalence ensures that two products deliver **comparable systemic exposure** and therefore **comparable therapeutic effect**.
 
-Pharmaceutical alternatives are drug products with the same active ingredient, but not necessarily in the same salt form, same amount, or dosage form.
+### Pharmaceutical Equivalents
 
-> Bioequivalency can be evaluated in the FDA's Orange Book.
+Pharmaceutical equivalents are drug products that:
+
+- contain **identical amounts** of the **same active ingredient**  
+- are in the **same dosage form** (e.g., tablet vs. tablet)  
+- have the **same route of administration**  
+- may differ in **excipients**, **shape**, **color**, **packaging**, or **inactive ingredients**
+
+Pharmaceutical equivalence **does not guarantee** therapeutic equivalence unless bioequivalence is also demonstrated.
+
+### Therapeutic Equivalents
+
+Therapeutic equivalents are **pharmaceutical equivalents** that are also expected to have the **same clinical effect** and **safety profile** when administered under labeled conditions.
+
+To be considered therapeutically equivalent, drug products must meet **all** FDA criteria:
+
+- **Safe and effective**  
+- **Pharmaceutical equivalents**  
+- **Bioequivalent** (no known or potential bioequivalence problems, or proven to meet standards)  
+- **Adequately labeled**  
+- **Manufactured in compliance** with Good Manufacturing Practices (GMP)
+
+### Pharmaceutical Alternatives
+
+Pharmaceutical alternatives contain the **same active ingredient**, but may differ in:
+
+- **salt form** (e.g., ampicillin vs. ampicillin sodium)  
+- **dosage form** (tablet vs. capsule)  
+- **strength**  
+- **release mechanism** (IR vs. ER)
+- **inactive ingredients**
+
+Pharmaceutical alternatives are **not automatically bioequivalent** and **not automatically substitutable**.
+
+### Therapeutic Alternatives
+
+**Therapeutic alternatives** are **different drugs** (different active ingredients) that:
+
+- treat the **same condition**  
+- have **similar therapeutic effects**  
+- may belong to the **same pharmacologic class** or **different classes**
+
+Examples:
+
+- omeprazole ↔ famotidine (different classes, same indication)  
+- ibuprofen ↔ naproxen  
+- lisinopril ↔ losartan  
+
+Therapeutic alternatives are **not interchangeable** at the pharmacy level without prescriber approval.
+
+### The Orange Book
+
+The FDA’s **Orange Book** (Approved Drug Products with Therapeutic Equivalence Evaluations) lists:
+
+- approved drug products  
+- therapeutic equivalence ratings  
+- brand–generic substitution information  
+
+**A‑rated = substitutable**  
+**B‑rated = NOT substitutable**
+
+#### A‑Ratings (Bioequivalent)
+
+A‑rated products are **therapeutically equivalent** and **substitutable**.
+
+Common A‑codes:
+
+- **AA**: No bioequivalence problems; products are equivalent  
+- **AB**: Products meet bioequivalence requirements  
+- **AN**: Solutions and powders for nebulization  
+- **AO**: Injectable oil solutions  
+- **AP**: Injectable aqueous solutions  
+- **AT**: Topical products meeting bioequivalence standards  
+
+#### B‑Ratings (Not Bioequivalent)
+
+B‑rated products are **not therapeutically equivalent**.
+
+Common B‑codes:
+
+- **BC**: Extended‑release products with bioequivalence issues  
+- **BD**: Documented bioequivalence problems  
+- **BE**: Delayed‑release products with issues  
+- **BN**: Products requiring specialized bioequivalence testing  
+- **BP**: Potential bioequivalence problems  
+- **BR**: Suppositories with bioequivalence issues  
+- **BX**: Insufficient data to determine equivalence  
 
 ---
 
