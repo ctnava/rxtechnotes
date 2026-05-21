@@ -633,15 +633,46 @@ Conversely:
 
 ### Additive Effects
 
-Two drugs with similar effects can compound one-another; leading to additive effects.
+**Additive effects** occur when **two drugs with similar pharmacologic actions** produce a response **equal to the sum of their individual effects**.  
+This can be intentional (therapeutic) or unintentional (harmful).
+
+#### Example: Trimethoprim + Sulfamethoxazole
+
+- Both inhibit sequential steps in folate synthesis.  
+- Combined effect = **additive antimicrobial activity**.  
+- Used to treat **Pneumocystis carinii (jirovecii) pneumonia**, an opportunistic infection common in AIDS patients.
+
+#### Example: Amiodarone + Dofetilide
+
+- Both **prolong the QT interval** by delaying cardiac repolarization.  
+- Additive effect increases risk of **torsades de pointes** and other arrhythmias.  
+- Many phenothiazines and certain antibiotics also prolong repolarization as an **undesired** effect.  
+  - When combined, repolarization may be prolonged **too much**, leading to dangerous arrhythmias.
 
 ### Synergism
 
-Two drugs with similar pharmacological actions can multiply each other; leading to greater effects than the sum of the individuals.
+**Synergism** occurs when **two drugs with similar actions produce an effect greater than the sum of their individual effects**.  
+This is a *multiplicative* interaction, not just additive.
+
+#### Example: Aspirin + Warfarin
+
+- Warfarin inhibits synthesis of clotting factors.  
+- Aspirin inhibits **platelet function** and causes **gastric mucosal erosion**, increasing bleeding risk.  
+- Together, they produce **synergistic anticoagulation**.  
+- Low‑dose aspirin mainly increases bleeding risk; higher doses (>3g/day ) amplify the entire anticoagulant response.  
+- Combination may be used intentionally in select patients, but requires **close monitoring**.  
+- Patients should use **acetaminophen (Tylenol)** for pain relief instead of NSAIDs.
+
+#### Example: Vancomycin + Gentamicin
+
+- *Enterococcus faecalis* is normally **not susceptible** to gentamicin alone.  
+- Vancomycin inhibits **cell wall synthesis**, weakening the bacterial cell wall.  
+- This allows gentamicin to **enter the cell more effectively**, producing a **synergistic bactericidal effect**.  
+- This combination is used for serious enterococcal infections.
 
 ### Potentiation
 
-occurs when one drug with no inherent activity of its own increases the activity of another
+occurs when one drug with no inherent activity of its own increases the activity of another.
 
 ### Antidotes
 
