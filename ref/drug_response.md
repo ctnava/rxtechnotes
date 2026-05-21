@@ -87,19 +87,35 @@ The disposition & effect of some drugs may be altered by the presence of disease
 
 ### Drug-Drug: Disposition
 
+Drugs can affect eachother's disposition; resulting in increased or decreased effect.
+
 #### Drug-Drug: Absorption
+
+Drugs can form drug-drug complexes, becoming nonabsorbable.
 
 #### Drug-Drug: Distribution
 
+Drugs can displace one-another from binding sites due to differences in binding affinity strength.
+
 #### Drug-Drug: Metabolism
+
+Drugs that induce liver metabolism may also increase metabolism of other drugs that use the same biochemical pathways.
 
 #### Drug-Drug: Excretion
 
+Some drugs increase excretion by altering urinary pH and decreasing renal reabsorption.
+
 ### Additive Effects
+
+Two drugs with similar effects can compound one-another; leading to additive effects.
 
 ### Synergism
 
+Two drugs with similar pharmacological actions can multiply each other; leading to greater effects than the sum of the individuals.
+
 ### Potentiation
+
+occurs when one drug with no inherent activity of its own increases the activity of another
 
 ### Antidotes
 
