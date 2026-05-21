@@ -407,13 +407,70 @@ Dose adjustments are required based on thyroid function.
 
 ## Drug-Drug Interactions
 
+**Polypharmacy** refers to the use of **multiple medications simultaneously**, often defined as ≥5 drugs.  
+It increases the risk of **drug–drug interactions**, **adverse effects**, and **medication errors**, especially in older adults.
+
+Many prescriptions advise **separating administration by ~2 hours** (from other drugs or food) to reduce interactions affecting absorption or metabolism.  
+Some interactions occur **immediately**, while others develop **gradually over days to weeks**.
+
+Understanding the **time course** of interactions helps clinicians identify and manage them quickly.
+
 ### Drug-Drug: Disposition
 
-Drugs can affect eachother's disposition; resulting in increased or decreased effect.
+One drug may alter the **absorption**, **distribution**, **metabolism**, or **excretion** of another, leading to increased or decreased drug effect.
 
 #### Drug-Drug: Absorption
 
-Drugs can form drug-drug complexes, becoming nonabsorbable.
+##### Complexation
+
+**Complexation** occurs when two drugs bind together in the GI tract to form a **nonabsorbable complex**.  
+This prevents absorption and reduces therapeutic effect.
+
+**Examples**:
+
+- Tetracyclines + antacids (Ca²⁺, Mg²⁺, Al³⁺)  
+- Fluoroquinolones + iron supplements  
+- Cholestyramine binding many oral drugs
+
+##### Gastric Emptying
+
+Some drugs alter **gastric emptying (GE)**, which changes the rate of absorption.
+
+**General rules**:
+
+- **Slower GE → slower absorption**  
+- **Faster GE → faster absorption**  
+- Exception: if the drug’s **site of absorption is the stomach**, faster GE may *reduce* absorption.
+
+**Examples**:
+
+- Metoclopramide → increases GE  
+- Opioids, anticholinergics → decrease GE
+
+##### Gastric pH
+
+Drugs that alter gastric pH can change:
+
+- Degree of **ionization**  
+- **Dissolution rate**  
+- **Intestinal motility**  
+- **Chemical stability** of pH‑sensitive drugs
+
+**Examples**:
+
+- PPIs/H2 blockers reduce acidity → decreased absorption of ketoconazole, increased absorption of weak bases  
+- Antacids alter dissolution and chelation
+
+##### Intestinal Metabolism
+
+Drug interactions can occur in the **intestinal wall** or through effects on **enterohepatic recycling**.
+
+**Key example: Oral contraceptives + antibiotics**:
+
+- Broad‑spectrum antibiotics reduce **normal gut flora**  
+- Gut flora are needed to **deconjugate estrogen metabolites**  
+- Without deconjugation, estrogens are not reabsorbed → **reduced enterohepatic recycling**  
+- Result: **lower estrogen levels → decreased contraceptive effectiveness**
 
 #### Drug-Drug: Distribution
 
