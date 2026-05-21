@@ -52,15 +52,47 @@ physiological changes include:
 
 ### Sex
 
+women were historically excluded from clinical drug investigations.
+inappropriate application of data collected from male to women
+now women are included unless there is a clear reason not to
+
+Many studies have been completed in both genders that show differences in drug disposition
+women eliminate certain drugs more slowly. acetaminophen is eliminated faster
+
+gender-based differences in drug response appear to be related to hormonal fluctuations during menses.
+women with clinical depression may need higher doses of antidepressants when menstrual symptoms are worse
+
+distribution is also different due to composition (more fat)
+
 ### Pregnancy
 
-### Body Weight
+tons of physiological changes like delayed gastric emptying and decreased ggi motility,
+reduced rate of absorption
+
+drug plasma protein binding reduced and metabolism increased for a lot of drugs
+
+urinary excretion is higher
+
+drugs also transport to fetal circulation fetus is underdeveloped, drug concentrations may be greater in fetus than mother
 
 ### Genetics
 
+`20-50% of variability is due to genetics, alone`
+
 Genetics causes differences in the types and amounts of proteins produced in the body, which can result in different responses to the same drug at the same dose.
 
+pharmacogenomics is the field of study that focuses on the hereditary basis of individual differences in ADME processes. large factor is inherited metabolic properties
+
+### Body Weight
+
+Dosage adjustment based on weight are only made for people who are extremely under or overweight, along with children and infants
+adults who are obese will have significant changes in distribution and renal excretion
+
 ### Psychological Factors
+
+specifics unknown
+influence responses during administration
+requires the need for placebos during trials
 
 ---
 
