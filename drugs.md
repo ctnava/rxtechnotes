@@ -196,6 +196,25 @@ Administered by anesthesiologists or CRNAs, who actively manage dosing throughou
 
 ---
 
+### Anti-Infectives
+
+#### Antibiotics (Antimicrobials)
+
+- Anthelmintics
+- Antimycobacterials
+- Antiprotozoals
+- Cephalosporins
+- penicillins
+- sulfonamides
+- tetracyclines
+- quinolones
+
+#### Antivirals
+
+#### Antifungals
+
+---
+
 ## 🗺️🔗 Nav Links
 
 - 🏠 [Home Directory](./readme.md)
