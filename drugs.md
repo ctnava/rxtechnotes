@@ -158,7 +158,7 @@ They are classified as **local** or **general**.
 
 ##### Local Anesthetics
 
-Local anesthetics block nerve conduction **without loss of consciousness**.
+Local anesthetics block nerve conduction from PNS to CNS, **without loss of consciousness**.
 
 **Mechanism:**  
 Block **voltage-gated sodium channels**, preventing depolarization and stopping pain signal transmission.
