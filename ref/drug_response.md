@@ -833,9 +833,51 @@ Dietary intake can influence drug action by influencing one of all ADME processe
 
 #### Drug-Diet: Absorption
 
+presence of food alters absorption
+
+- interact checmically
+  - affecting th dosage form (polymer coated tab release charcteristics; enteric coated tablets)
+- improve solubility of some drugs by increasing bile
+- alter gastric emptying
+- alter intestinal motility
+- alter liver blood flow
+- complexication with food
+  - tetracycline/ciprofloxacin x dairy (calcium)
+
+some drugs will have increased or decreased bioavilability with food
+
+alendrolate is decreased 60% with coffee or juice
+no absorption at all with meals
+
+dietary fiber generally decreaes absorption of all drugs
+
 #### Drug-Diet: Distribution
 
+presence of food influences drug distribution
+
+- high fat meals; increase fatty acid levels in blood that bind plasma proteins
+- displaces bound drug
+- increases free concentration
+
+undernourished people have lower albumin with fewer sites available making highly bound drugs too strong like phenytoin(96%) or wararin (90%)
+
 #### Drug-Diet: Metabolism
+
+food is a complex mixture of carbs, fat, and protein
+
+generally, mild or moderately undernourished people have normal or enhanced metabolism while secerely malnourished adults have decreased metabolism
+there are many variables in malnourishment that can produce an effect on metabolism
+
+##### Studies
+
+caloric intake is constant
+one decreased, one increased, third constant
+
+|change|effect|
+increase protein | increase metabolism |
+increased carbs | decreased metabolism |
+increased fat (swapped for carbs) | no effect |
+decreased calories | decreased metabolism |
 
 #### Drug-Diet: Excretion
 
