@@ -751,12 +751,77 @@ Antagonism can occur through:
 
 ---
 
-## Drug Timing
+## Dosage Timing
 
-Many prescriptions advise **separating administration by ~2 hours** (from other drugs or food) to reduce interactions affecting absorption or metabolism.  
-Some interactions occur **immediately**, while others develop **gradually over days to weeks**.
+Many prescriptions advise **separating administration by ~2 hours** from other drugs or food to reduce interactions affecting **absorption**, **metabolism**, or **chemical stability**.  
+Some interactions occur **immediately**, while others develop **gradually over days to weeks** (e.g., enzyme induction).
 
 Understanding the **time course** of interactions helps clinicians identify and manage them quickly.
+
+Understanding the **optimal timing of administration** helps clinicians maximize therapeutic effect and minimize adverse outcomes.
+
+### Circadian Rhythms and Drug Response
+
+Physiological processes follow **daily (circadian) cycles**, which can influence:
+
+- **Absorption** (e.g., gastric emptying varies across the day)  
+- **Distribution** (e.g., plasma protein levels fluctuate)  
+- **Metabolism** (e.g., hepatic enzyme activity peaks at certain times)  
+- **Excretion** (e.g., renal blood flow and GFR vary with sleep–wake cycles)
+
+These variations can change:
+
+- **Drug effect intensity**  
+- **Duration of action**  
+- **Risk of adverse effects**
+
+**Examples**:
+
+- Cortisol peaks in the early morning → glucocorticoids taken late in the day may cause **insomnia** and **HPA‑axis disruption**.  
+- Blood pressure dips at night → some antihypertensives are more effective when taken **at bedtime**
+
+### Timing for Convenience and Adherence
+
+Some medications are scheduled at specific times to improve **patient adherence** or reduce **lifestyle disruption**.
+
+**Examples**:
+
+- **Diuretics** (e.g., furosemide) are taken **in the morning** to avoid **nocturia**.  
+- **Steroids** (e.g., prednisone) are taken **in the morning** to mimic natural cortisol rhythm and reduce **insomnia**.  
+- **Once‑daily medications** are often scheduled with a consistent daily routine (e.g., with breakfast) to reduce missed doses.
+
+### Timing to Reduce Adverse Effects
+
+Certain drugs are timed to minimize predictable side effects.
+
+**Examples**:
+
+- **NSAIDs** with food → reduces GI irritation.  
+- **Bisphosphonates** first thing in the morning, on an empty stomach, upright for 30 min → prevents esophageal irritation and improves absorption.  
+- **Short‑acting stimulants** earlier in the day → avoids insomnia
+
+### Timing to Maximize Therapeutic Effect
+
+Some medications work best when aligned with the body’s natural rhythms or disease patterns.
+
+**Examples**:
+
+- **Statins** (short‑acting) at bedtime → cholesterol synthesis peaks overnight.  
+- **PPIs** 30–60 min before breakfast → maximizes proton pump activation.  
+- **Asthma medications** (e.g., ICS/LABA) may be timed to counter nocturnal bronchoconstriction.
+
+### Timing to Avoid Drug–Drug or Drug–Food Interactions
+
+Spacing doses prevents interactions involving:
+
+- **Chelation/complexation** (e.g., tetracyclines + antacids)  
+- **pH‑dependent absorption**  
+- **Metabolic inhibition/induction**  
+- **Enterohepatic recycling**  
+- **Transporter competition** (e.g., P‑gp substrates)
+
+**General rule:**  
+If two agents interact in the **GI tract**, separate by **~2 hours** unless otherwise specified.
 
 ---
 
