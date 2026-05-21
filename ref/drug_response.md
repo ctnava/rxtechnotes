@@ -39,6 +39,10 @@ Genetics causes differences in the types and amounts of proteins produced in the
 
 ### Hypersensitivity (Allergy)
 
+Almost any drug, in almost any dose, can produce an allergic response.
+
+Anaphylaxis is potentially fatal
+
 ### Idiosyncrasy
 
 ### Carcinogenicity
@@ -53,6 +57,8 @@ Genetics causes differences in the types and amounts of proteins produced in the
 
 ### Gastrointestinal Effects
 
+Anorexia, nausea, vomiting, constipation, and diarrhea are the most common.
+
 ### Central Nervous System Effects
 
 ### Drug Dependence
@@ -64,6 +70,8 @@ Genetics causes differences in the types and amounts of proteins produced in the
 ---
 
 ## Drug-Disease Interactions
+
+The disposition & effect of some drugs may be altered by the presence of diseases.
 
 ### Hepatic
 
@@ -101,6 +109,8 @@ Genetics causes differences in the types and amounts of proteins produced in the
 
 ### Drug-Diet: Disposition
 
+Dietary intake can influence drug action by influencing one of all ADME processes.
+
 #### Drug-Diet: Absorption
 
 #### Drug-Diet: Distribution
@@ -110,6 +120,12 @@ Genetics causes differences in the types and amounts of proteins produced in the
 #### Drug-Diet: Excretion
 
 ### Specific Foods
+
+Some foods contain substances that can react with certain drugs.
+
+#### Tyramine
+
+Interacts with Monoamine Oxidase (MAO) inhibitors.
 
 #### Grapefruit
 
