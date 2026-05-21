@@ -217,6 +217,8 @@ Below are a list of common abbreviations used for transcribing SIGs on prescript
 | SPIRIVA | Inhale 1 capsule via HandiHaler once daily at the same time every day. |
 | ZPAK | Take 2 tablets by mouth today, then take 1 tablet daily for 4 days. |
 
+🔗 Link to more [RxConnect Sig Codes (pdf)](./rx_connect_sig_codes.pdf)
+
 ---
 
 ## Navlinks
