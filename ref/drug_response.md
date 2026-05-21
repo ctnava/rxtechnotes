@@ -126,7 +126,7 @@ Almost any drug, at almost any dose, can trigger an allergic response.
 **Clinical Presentation**:
 
 - Mild: rash, urticaria, pruritus  
-- Severe: **anaphylaxis** (respiratory distress, hypotension, convulsions, cardiovascular collapse)
+- Severe: **anaphylactic shock** (respiratory distress, hypotension, convulsions, cardiovascular collapse)
 
 **Treatment**:
 
