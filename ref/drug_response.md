@@ -4,95 +4,107 @@
 
 ## Human Variability
 
-The most significant factors that generally influence differences in medication responses between people.
+The most significant factors that influence differences in medication responses between individuals.  
+These factors alter one or more ADME processes, receptor sensitivity, or physiological handling of drugs.
 
 ### Age
 
 #### Adults
 
-Baseline for comparison
-gradual but steady decrease in metabolism and many physiological functions between 30 and 70
-such decreases and their effects on drug activity are gradual
+`Baseline for comparison.`
+
+Adults experience a **gradual decline in metabolic and physiological function between ages 30–70**.  
+These changes are slow and usually do not require major dose adjustments unless disease is present.
 
 #### Neonates & Infants (Birth - 2 years)
 
-organ systems are not fully developed
-not able to eliminate drugs as efficiently
-protein binding and kidney function are good, but liver and blood brain barrier are immature
+- Organ systems are **immature**, especially hepatic enzymes and the blood–brain barrier.  
+- **Reduced ability to eliminate drugs**, particularly those requiring hepatic metabolism.  
+- **Protein binding and renal function** are present but not fully developed, increasing free drug levels.  
+- Higher risk of toxicity due to prolonged half‑lives and increased CNS exposure because the **liver and blood–brain barrier are underdeveloped**.
 
 #### Children (2 - 12 years)
 
-Children metabolize certain drugs more rapidly than adults
-rate of metabolism increases between 1 and 12
-some drugs are eliminated faster:
-clindamycin
-valproid acid
-ethosuximide
-theophyline
+- Children metabolize many drugs **more rapidly** than adults.  
+- Metabolic rate increases steadily between ages 1–12.  
+- Some drugs are eliminated significantly faster, including:  
+  - clindamycin  
+  - valproic acid  
+  - ethosuximide  
+  - theophylline  
+- Faster clearance may require higher mg/kg dosing for certain medications.
 
 #### Adolescents (11 - 18 years)
 
-puberty causes rapid changes in phywsical, psychological, and psychosocial characteristics due to hormones fluctuations
-affects disposition greatly
-excluded from trials  due to variation and complexity
-metabolism declines as they reach adulthood to normal levels
+- Puberty causes rapid changes in physical, psychological, and psychosocial characteristics due to hormonal fluctuations.  
+- These changes significantly affect drug disposition and response.  
+- Adolescents are often excluded from clinical trials due to variability and complexity.  
+- Metabolism gradually declines to adult levels as full maturity is reached.
 
 #### The Elderly
 
-The elderly consume more drugs and have a higher incidence of drug interactions than other age groups.
-greater incidence of chronic illness requires multiple maintenance medications for multiple disease states
-they also experience more physiological changes that significantly affect drug action
+Older adults consume more medications and have the highest incidence of drug interactions.  
+Chronic illnesses often require **polypharmacy**, increasing the risk of ADEs.
 
-physiological changes include:
+Physiological changes affecting drug action include:
 
-- changes in gastric pH, emptying time, intestinal motility, and gi blood flow tend to slow absorption
-- changes in cardiovascular system (including lower cardiac output) tend to slow distribution to their sites of action, metabolism, and excretion
-- decrease in livers production of enzymes
-- decvline in kidney function (glomerular filtration and secretion) slows urinary excretion
+- **Reduced Absorption:** increased gastric pH, delayed gastric emptying, reduced intestinal motility, decreased GI blood flow  
+- **Slowed Distribution:** reduced cardiac output slows delivery to tissues  
+- **Less Metabolism:** decreased hepatic enzyme production and liver mass reduce metabolic clearance  
+- **Slower Excretion:** age‑related decline in GFR and tubular secretion slows renal elimination  
+
+These changes increase sensitivity to many drugs and prolong half‑lives.
 
 ### Sex
 
-women were historically excluded from clinical drug investigations.
-inappropriate application of data collected from male to women
-now women are included unless there is a clear reason not to
+- Women were historically excluded from clinical drug investigations, leading to inappropriate application of male‑derived data.  
+- Now included unless exclusion is medically justified.
 
-Many studies have been completed in both genders that show differences in drug disposition
-women eliminate certain drugs more slowly. acetaminophen is eliminated faster
+Key differences:
 
-gender-based differences in drug response appear to be related to hormonal fluctuations during menses.
-women with clinical depression may need higher doses of antidepressants when menstrual symptoms are worse
-
-distribution is also different due to composition (more fat)
+- Women eliminate certain drugs more slowly; **acetaminophen is eliminated faster**.  
+- Hormonal fluctuations during the menstrual cycle influence drug response.  
+- Women with depression may require higher antidepressant doses during severe premenstrual symptoms.  
+- Higher body fat percentage alters distribution of lipophilic drugs.
 
 ### Pregnancy
 
-tons of physiological changes like delayed gastric emptying and decreased ggi motility,
-reduced rate of absorption
+Pregnancy produces extensive physiological changes:
 
-drug plasma protein binding reduced and metabolism increased for a lot of drugs
+- **Delayed gastric emptying** and **decreased GI motility** → slower absorption  
+- **Reduced plasma protein binding** → increased free drug fraction  
+- **Increased hepatic metabolism** for many drugs  
+- **Increased renal blood flow and GFR** → enhanced urinary excretion  
 
-urinary excretion is higher
-
-drugs also transport to fetal circulation fetus is underdeveloped, drug concentrations may be greater in fetus than mother
+Placental transfer occurs for most drugs.  
+Because fetal metabolic pathways are immature, **drug concentrations may be higher in the fetus than in the mother**, increasing teratogenic and toxic risk.
 
 ### Genetics
 
-`20-50% of variability is due to genetics, alone`
+`20–50% of variability is due to genetics alone.`
 
-Genetics causes differences in the types and amounts of proteins produced in the body, which can result in different responses to the same drug at the same dose.
+Genetic differences influence:
 
-pharmacogenomics is the field of study that focuses on the hereditary basis of individual differences in ADME processes. large factor is inherited metabolic properties
+- enzyme expression  
+- receptor structure  
+- transporter activity  
+- protein binding  
+
+These variations alter ADME processes and pharmacodynamic responses.
+
+Pharmacogenomics focuses on inherited differences in drug metabolism and response, especially variations in CYP450 enzymes.
 
 ### Body Weight
 
-Dosage adjustment based on weight are only made for people who are extremely under or overweight, along with children and infants
-adults who are obese will have significant changes in distribution and renal excretion
+- Dose adjustments are typically required for individuals who are **extremely underweight or overweight**, and for **children and infants**.  
+- Obesity significantly alters **distribution** (especially for lipophilic drugs) and **renal excretion**.  
+- Lean body mass vs. adipose tissue composition affects volume of distribution.
 
 ### Psychological Factors
 
-specifics unknown
-influence responses during administration
-requires the need for placebos during trials
+- Mechanisms are not fully understood.  
+- Psychological state can influence perceived or actual drug response.  
+- Placebos are necessary in trials to distinguish true pharmacologic effects from psychological influences.
 
 ---
 
