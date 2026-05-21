@@ -110,94 +110,179 @@ Pharmacogenomics focuses on inherited differences in drug metabolism and respons
 
 ## Adverse Drug Reactions
 
-Undesired patient-specific effects are called Adverse Drug Reactions (ADR)
-ADverse drug events come from errors in the medication use process. they are different
+**Adverse Drug Reactions (ADRs)** are **undesired, harmful, and patient-specific responses** to a drug given at normal doses.  
+**Adverse Drug Events (ADEs)** result from **errors in the medication-use process** (prescribing, dispensing, administration, monitoring).  
+→ *ADRs = inherent drug effects; ADEs = preventable process errors.*
 
 ### Hypersensitivity (Allergy)
 
-Almost any drug, in almost any dose, can produce an allergic response.
+Almost any drug, at almost any dose, can trigger an allergic response.
 
-body developes antibodies while previously taking the drug or a related one
-detection of the drug releases histamine and other substances that produce the response
+**Mechanism**:
 
-ranges from rashes to Anaphylactic shock (potentially fatal; respiratory distress, convulsions, & cardiac collapse)
-treatment requires the use of epinephrine, antihistamines, or a bronchodilator
+- Prior exposure → body develops **drug-specific antibodies** (often IgE).
+- Re-exposure → immune system releases **histamine** and inflammatory mediators.
+
+**Clinical Presentation**:
+
+- Mild: rash, urticaria, pruritus  
+- Severe: **anaphylaxis** (respiratory distress, hypotension, convulsions, cardiovascular collapse)
+
+**Treatment**:
+
+- **Epinephrine** (first-line for anaphylaxis)  
+- Antihistamines  
+- Bronchodilators  
+- Corticosteroids (adjunctive)
 
 ### Idiosyncrasy
 
-unexpected reactions
-thought to be caused by genetic characteristtics that alter biochemical pathways
+- **Unpredicted Effects**, not dose-related  
+- Often linked to **genetic variations** affecting metabolism or receptor pathways  
+- Example: G6PD deficiency → hemolysis with sulfonamides or antimalarials
 
 ### Carcinogenicity
 
-cause cancer
-several drugs are carcinogens including hormones and anticancer drugs
-tobacco and alcohol have been implicated in cancer
+Drugs or chemicals that **increase cancer risk**.
+
+**Examples**:
+
+- Hormones (e.g., estrogen)  
+- Antineoplastic agents  
+- Environmental carcinogens: **tobacco**, **alcohol**
 
 ### Teratogenicity
 
-cause abnormal fetal development / birth defects
-include analgesics, diuretics, antihistamines, antibiotics, and antiemetics
+Drugs that cause **abnormal fetal development** or **birth defects**.
+
+**Examples**:
+
+- Analgesics  
+- Diuretics  
+- Antihistamines  
+- Antibiotics  
+- Antiemetics  
+- (High-yield examples: isotretinoin, thalidomide, valproate)
 
 ### Hepatotoxicity
 
-liver toxicity (including hepatitis, hepatic necrosis, and biliary tract inflammation, or obstruction)
-rare but life threatening
-hepatotoxic drugs include APAP, halothane, isonioazid, chlorpromazine, methotrexate, nitrofurnatoin, phenytoin, and aspirin
+Drug-induced **liver injury**, including hepatitis, hepatic necrosis, cholestasis, or biliary obstruction.
+
+**Characteristics**:
+
+- Rare but potentially **life-threatening**
+- Monitor LFTs for high-risk drugs
+
+**Hepatotoxic Drugs**:
+
+- Acetaminophen (APAP)  
+- Halothane  
+- Isoniazid  
+- Chlorpromazine  
+- Methotrexate  
+- Nitrofurantoin  
+- Phenytoin  
+- Aspirin (Reye syndrome risk in children)
 
 ### Nephrotoxicity
 
-kidney toxicity
+Drug-induced **kidney damage** affecting filtration, secretion, or renal blood flow.
 
-gentamicin, aminoglycosides, ibuprofen, NSAIDS, celecoxib, omeprazole, acyclovir
+**Nephrotoxic Drugs**:
+
+- Aminoglycosides (gentamicin, tobramycin)  
+- NSAIDs (ibuprofen, celecoxib)  
+- PPIs (omeprazole)  
+- Acyclovir  
+- Amphotericin B (high-yield)
 
 ### Hemotological Effects
 
-Blood coagulation, bleeding, and bone marrow disorders are potentially life threatening and can be ADRs.
-anticoagulants cause excessive bleeding; warfarin & aspirin must be monitored
-vitamin K (phytodionadione) can be used if bleeding becomes severe
-antineoplastics inhibit cell division (busulfan, capecitine, chlorambucil) cause bone marrow depression
+Drugs may impair **coagulation**, cause **bleeding**, or suppress **bone marrow**.
+
+**Examples**:
+
+- Anticoagulants (warfarin, aspirin) → excessive bleeding  
+  - Severe bleeding: treat with **vitamin K (phytonadione)**  
+- Antineoplastics (busulfan, capecitabine, chlorambucil) → bone marrow suppression
 
 ### Gastrointestinal Effects
 
-Anorexia, nausea, vomiting, constipation, pain, heartbearn, and diarrhea are the most common ADRs
-more serious effects include ulcerations and colitis
+Common ADRs:
 
-aspriing, KCl => esophageal ulcer
-NSAIDSs, theophylline => esophageal reflux
-Aluminuminated antacids => constipation
-clindamycin, amoxicillin, => diarrhea
+- Anorexia  
+- Nausea/vomiting  
+- Constipation  
+- Abdominal pain  
+- Heartburn  
+- Diarrhea  
+
+Serious ADRs:
+
+- Ulceration  
+- Colitis  
+- GI bleeding
+
+**Drug-Specific Examples**:
+
+- Aspirin, potassium chloride → **esophageal ulceration**  
+- NSAIDs, theophylline → **esophageal reflux**  
+- Aluminum-containing antacids → **constipation**  
+- Clindamycin, amoxicillin → **diarrhea** (risk of C. difficile)
 
 ### Central Nervous System Effects
 
-<!-- is this neurotoxicity -->
+**Stimulation**:
 
-stimulation => agitation, confusion, delirium, disorientation, hallucinations
+- Agitation  
+- Confusion  
+- Delirium  
+- Disorientation  
+- Hallucinations  
 
-depression => dizziness, drowsiness, sedation, compa, impaired respiration, circulation
+**Depression**:
 
-efavirenz, antimalarials (chloroquine, amodiaquine), and amantadine.
+- Dizziness  
+- Drowsiness  
+- Sedation  
+- Coma  
+- Respiratory or circulatory depression  
 
-### Chronic Use
+**Examples**:
 
-ADRs resulting from chronic use
+- Efavirenz  
+- Antimalarials (chloroquine, amodiaquine)  
+- Amantadine
 
 ### Drug Dependence
 
-narcotic analgesics, sedative hypnotics, anxiolytics, amphetamines can cause psychological dependence (emotional or mental fixation on usage)
+**Psychological dependence**:
 
-physiological dependence is accompanied by unpleasant physical symptoms when the drug is d/c or reduced
+- Emotional/mental craving  
+- Seen with narcotics, sedative-hypnotics, anxiolytics, amphetamines
+
+**Physiological dependence**:
+
+- Withdrawal symptoms when drug is reduced or stopped  
+- Requires tapering for many CNS-active drugs
 
 ### Drug Tolerance
 
-the body becomes overly adpated to the drug and fails to respond to the drug at the cellular level.
-acquired tolerance occurs after chronic use
-increasing the dose is used to overcome tolerance
+Reduced response to a drug after repeated use.
+
+**Key Points**:
+
+- Often requires **dose escalation**  
+- Can be pharmacodynamic (cellular adaptation) or pharmacokinetic (increased metabolism)
 
 ### Drug Resistance
 
-reduction of effectiveness of an antimicrobial anthelmintic, or antineoplastic drug
-it is better to switch drugs than increase the dose.
+Reduced effectiveness of **antimicrobials**, **anthelmintics**, or **antineoplastics**.
+
+**Management**:
+
+- Switching to a different agent is preferred over increasing the dose  
+- Often due to genetic mutations in pathogens or cancer cells
 
 ---
 
