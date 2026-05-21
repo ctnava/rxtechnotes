@@ -749,7 +749,9 @@ Antagonism can occur through:
 
 **Mechanism:** direct chemical binding/ complexication
 
-### Drug-Drug: Timing
+---
+
+## Drug Timing
 
 Many prescriptions advise **separating administration by ~2 hours** (from other drugs or food) to reduce interactions affecting absorption or metabolism.  
 Some interactions occur **immediately**, while others develop **gradually over days to weeks**.
