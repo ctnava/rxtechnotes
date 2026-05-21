@@ -97,7 +97,7 @@ Pharmacogenomics focuses on inherited differences in drug metabolism and respons
 ### Body Weight
 
 - Dose adjustments are typically required for individuals who are **extremely underweight or overweight**, and for **children and infants**.  
-- Obesity significantly alters **distribution** (especially for lipophilic drugs) and **renal excretion**.  
+- Obesity (>30% body fat) significantly alters **distribution** (especially for lipophilic drugs) and **renal excretion**.  
 - Lean body mass vs. adipose tissue composition affects volume of distribution.
 
 ### Psychological Factors
