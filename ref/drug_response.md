@@ -410,11 +410,6 @@ Dose adjustments are required based on thyroid function.
 **Polypharmacy** refers to the use of **multiple medications simultaneously**, often defined as ≥5 drugs.  
 It increases the risk of **drug–drug interactions**, **adverse effects**, and **medication errors**, especially in older adults.
 
-Many prescriptions advise **separating administration by ~2 hours** (from other drugs or food) to reduce interactions affecting absorption or metabolism.  
-Some interactions occur **immediately**, while others develop **gradually over days to weeks**.
-
-Understanding the **time course** of interactions helps clinicians identify and manage them quickly.
-
 ### Drug-Drug: Disposition
 
 One drug may alter the **absorption**, **distribution**, **metabolism**, or **excretion** of another, leading to increased or decreased drug effect.
@@ -753,6 +748,13 @@ Antagonism can occur through:
 - Neutralizes heparin’s anticoagulant effect.
 
 **Mechanism:** direct chemical binding/ complexication
+
+### Drug-Drug: Timing
+
+Many prescriptions advise **separating administration by ~2 hours** (from other drugs or food) to reduce interactions affecting absorption or metabolism.  
+Some interactions occur **immediately**, while others develop **gradually over days to weeks**.
+
+Understanding the **time course** of interactions helps clinicians identify and manage them quickly.
 
 ---
 
