@@ -1117,4 +1117,4 @@ These drugs rely heavily on **CYP3A4** or **P‑gp** for metabolism or transport
 
 ## Navlinks
 
-- 🔙🔗 Back to [Biopharmaceutics](../biopharmaceutics.md)
+- 🔙🔗 Back to [Biopharmaceutics](../biopharmaceutics.md#factors-affecting-drug-responses--activity)

@@ -739,6 +739,14 @@ Common B‑codes:
 
 ---
 
+## Factors Affecting Drug Responses & Activity
+
+Understanding why patients respond differently to the same medication is central to safe and effective pharmacotherapy. Drug effects are shaped by a dynamic mix of ***physiological***, ***genetic***, ***environmental***, and ***behavioral*** factors that influence every step of **ADME** (absorption, distribution, metabolism, excretion) as well as receptor‑level pharmacodynamics. As the document notes, *“drug responses vary widely between individuals… due to a complex interplay of physiological, genetic, environmental, and behavioral factors”* and clinicians must account for variables such as **age**, **sex**, **pregnancy**, **genetics**, **body composition**, **disease states**, and **timing of administration**.
+
+🔗 Link to [Document](./ref/drug_response.md)
+
+---
+
 ## 🗺️🔗 Nav Links
 
 - 🏠 [Home Directory](./readme.md)
