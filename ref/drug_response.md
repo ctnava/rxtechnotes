@@ -8,24 +8,53 @@ The most significant factors that generally influence differences in medication 
 
 ### Age
 
-#### Neonates & Infants
+#### Adults
+
+Baseline for comparison
+gradual but steady decrease in metabolism and many physiological functions between 30 and 70
+such decreases and their effects on drug activity are gradual
+
+#### Neonates & Infants (Birth - 2 years)
 
 organ systems are not fully developed
+not able to eliminate drugs as efficiently
+protein binding and kidney function are good, but liver and blood brain barrier are immature
 
-#### Children
+#### Children (2 - 12 years)
 
 Children metabolize certain drugs more rapidly than adults
+rate of metabolism increases between 1 and 12
+some drugs are eliminated faster:
+clindamycin
+valproid acid
+ethosuximide
+theophyline
+
+#### Adolescents (11 - 18 years)
+
+puberty causes rapid changes in phywsical, psychological, and psychosocial characteristics due to hormones fluctuations
+affects disposition greatly
+excluded from trials  due to variation and complexity
+metabolism declines as they reach adulthood to normal levels
 
 #### The Elderly
 
 The elderly consume more drugs and have a higher incidence of drug interactions than other age groups.
+greater incidence of chronic illness requires multiple maintenance medications for multiple disease states
 they also experience more physiological changes that significantly affect drug action
 
-### Body Weight
+physiological changes include:
+
+- changes in gastric pH, emptying time, intestinal motility, and gi blood flow tend to slow absorption
+- changes in cardiovascular system (including lower cardiac output) tend to slow distribution to their sites of action, metabolism, and excretion
+- decrease in livers production of enzymes
+- decvline in kidney function (glomerular filtration and secretion) slows urinary excretion
 
 ### Sex
 
 ### Pregnancy
+
+### Body Weight
 
 ### Genetics
 
