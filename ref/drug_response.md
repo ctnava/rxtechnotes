@@ -707,7 +707,52 @@ clavulanic acid inhibits the enzyme that degrades amoxicillin and thereby allows
 
 This interaction was historically used to extend penicillin levels during shortages.
 
-### Antidotes
+### Antagonism
+
+**Antagonism** occurs when one drug **blocks, reduces, or reverses** the effect of another drug.  
+Drugs used specifically to counteract toxicity are called **antidotes** or **antagonists**.
+
+Antagonism can occur through:
+
+- **Receptor displacement**
+- **Physiologic opposition**
+- **Chemical complexation**
+
+#### Naloxone + Morphine
+
+- **Naloxone** is a competitive opioid receptor antagonist.  
+- It **displaces morphine** (and other opioids) from μ‑receptors.  
+- Rapidly reverses **opioid‑induced respiratory depression** and CNS depression.  
+- Used in overdose emergencies.
+
+**Mechanism:** receptor-level competitive displacement/ antagonism
+
+#### Flumazenil + Benzodiazepines
+
+- **Flumazenil** is a competitive antagonist at the **GABA‑A benzodiazepine receptor site**.  
+- Displaces benzodiazepines and **reverses sedation**, hypnosis, and respiratory depression.  
+- Used in procedural sedation reversal and benzodiazepine overdose (with caution due to seizure risk).
+
+**Mechanism:** receptor displacement competitive displacement/ antagonism
+
+#### Vitamin K + Warfarin
+
+- Warfarin inhibits synthesis of vitamin‑K–dependent clotting factors.  
+- **Vitamin K** restores production of these clotting factors, reversing warfarin’s anticoagulant effect.  
+- Can be given:
+  - As a **drug** (phytonadione)  
+  - Through **dietary intake** (spinach, kale, cruciferous vegetables)  
+  - As **supplements**
+
+**Mechanism:** physiologic antagonism/ opposition of anticoagulation
+
+#### Protamine Sulfate + Heparin
+
+- **Protamine sulfate** is a positively charged protein.  
+- It binds to negatively charged **heparin**, forming a **stable inactive complex**.  
+- Neutralizes heparin’s anticoagulant effect.
+
+**Mechanism:** direct chemical binding/ complexication
 
 ---
 
