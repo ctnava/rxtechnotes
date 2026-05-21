@@ -474,7 +474,32 @@ Drug interactions can occur in the **intestinal wall** or through effects on **e
 
 #### Drug-Drug: Distribution
 
-Drugs can displace one-another from binding sites due to differences in binding affinity strength.
+Drug–drug interactions affecting **distribution** primarily involve **displacement from plasma protein–binding sites**.
+
+Many drugs circulate in the bloodstream bound to proteins (mainly **albumin** for acidic drugs and **α1‑acid glycoprotein** for basic drugs). Only the **free (unbound)** fraction is pharmacologically active.
+
+##### Core Mechanism: Displacement
+
+When two highly protein‑bound drugs are given together:
+
+- The drug with **greater binding affinity** displaces the other from its protein‑binding site.
+- The displaced drug becomes **free (unbound)** in the plasma.
+- This increases the **pharmacologically active concentration** of the displaced drug.
+
+**Key consequences**:
+
+- **Increased effect** (therapeutic or toxic) due to higher free drug levels  
+- **Increased elimination** because only free drug is filtered or metabolized  
+- **Transient effect**: the body often re‑establishes a new equilibrium
+
+These interactions typically occur within the **first 1–2 weeks** of co‑administration. Many are **self‑correcting** as redistribution, metabolism, and elimination adjust.
+
+The **most clinically significant consequence** is the **change in drug effect**, especially for drugs with:
+
+- **Narrow therapeutic windows** (e.g., warfarin, phenytoin)
+- **High protein binding** (≥90%)
+
+> When a drug is **>90% protein‑bound** (significant displacement), even a small displacement can **double** the free concentration.
 
 #### Drug-Drug: Metabolism
 
