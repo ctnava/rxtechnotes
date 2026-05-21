@@ -100,18 +100,18 @@
 
 ## Week 8: Terminology
 
-- [ ] Reading: Chapter 5 - Terminology
+- [x] Reading: Chapter 5 - Terminology
 - [ ] CE: Managing Prior Authorizations (QUICK)
 - [x] Understanding VAERS
 - [x] Physician Specialties
 - [x] Math: Chapter 25 - Percents
 - [x] MedWatch Videos
 
-## Week 9: Biopharmaceutics & Customer Service
+## [DONE] Week 9: Biopharmaceutics & Customer Service
 
 - [x] DenaliRx Drugs 101-120
 - [x] Reading: Chapter 11 - Biopharmaceutics
-- [ ] Grapefruit Interactions
+- [x] Grapefruit Interactions
 - [x] Math: Chapter 27 - Body Weight Calculations
 
 ## Week 10: Drug Activity
