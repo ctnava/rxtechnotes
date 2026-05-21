@@ -2,6 +2,84 @@
 
 ---
 
+## Human Variability
+
+### Age
+
+### Body Weight
+
+### Sex
+
+### Pregnancy
+
+### Genetics
+
+### Psychological Factors
+
+---
+
+## Adverse Drug Reactions
+
+### Hypersensitivity (Allergy)
+
+### Idiosyncrasy
+
+### Carcinogenicity
+
+### Teratogenicity
+
+### Hepatotoxicity
+
+### Nephrotoxicity
+
+### Hemotological Effects
+
+### Gastrointestinal Effects
+
+### Central Nervous System Effects
+
+### Drug Dependence
+
+### Drug Tolerance
+
+### Drug Resistance
+
+---
+
+## Drug-Disease Interactions
+
+### Hepatic
+
+### Renal
+
+### Circulatory
+
+### Thyroid
+
+---
+
+## Drug-Drug Interactions
+
+### Drug-Drug: Disposition
+
+#### Drug-Drug: Absorption
+
+#### Drug-Drug: Distribution
+
+#### Drug-Drug: Metabolism
+
+#### Drug-Drug: Excretion
+
+### Additive Effects
+
+### Synergism
+
+### Potentiation
+
+### Antidotes
+
+---
+
 ## Drug-Diet Interactions
 
 ### Drug-Diet: Disposition
@@ -73,84 +151,6 @@ These drugs rely heavily on **CYP3A4** or **P‑gp** for metabolism or transport
 - **Colchicine**  
 - **Some benzodiazepines** (e.g., midazolam, triazolam)  
 - **Some corticosteroids** (e.g., budesonide)
-
----
-
-## Drug-Drug Interactions
-
-### Drug-Drug: Disposition
-
-#### Drug-Drug: Absorption
-
-#### Drug-Drug: Distribution
-
-#### Drug-Drug: Metabolism
-
-#### Drug-Drug: Excretion
-
-### Additive Effects
-
-### Synergism
-
-### Potentiation
-
-### Antidotes
-
----
-
-## Human Variability
-
-### Age
-
-### Body Weight
-
-### Sex
-
-### Pregnancy
-
-### Genetics
-
-### Psychological Factors
-
----
-
-## Adverse Drug Reactions
-
-### Hypersensitivity (Allergy)
-
-### Idiosyncrasy
-
-### Carcinogenicity
-
-### Teratogenicity
-
-### Hepatotoxicity
-
-### Nephrotoxicity
-
-### Hemotological Effects
-
-### Gastrointestinal Effects
-
-### Central Nervous System Effects
-
-### Drug Dependence
-
-### Drug Tolerance
-
-### Drug Resistance
-
----
-
-## Drug-Disease Interactions
-
-### Hepatic
-
-### Renal
-
-### Circulatory
-
-### Thyroid
 
 ---
 
