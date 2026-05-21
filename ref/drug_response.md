@@ -153,17 +153,51 @@ gentamicin, aminoglycosides, ibuprofen, NSAIDS, celecoxib, omeprazole, acyclovir
 
 ### Hemotological Effects
 
+Blood coagulation, bleeding, and bone marrow disorders are potentially life threatening and can be ADRs.
+anticoagulants cause excessive bleeding; warfarin & aspirin must be monitored
+vitamin K (phytodionadione) can be used if bleeding becomes severe
+antineoplastics inhibit cell division (busulfan, capecitine, chlorambucil) cause bone marrow depression
+
 ### Gastrointestinal Effects
 
-Anorexia, nausea, vomiting, constipation, and diarrhea are the most common.
+Anorexia, nausea, vomiting, constipation, pain, heartbearn, and diarrhea are the most common ADRs
+more serious effects include ulcerations and colitis
+
+aspriing, KCl => esophageal ulcer
+NSAIDSs, theophylline => esophageal reflux
+Aluminuminated antacids => constipation
+clindamycin, amoxicillin, => diarrhea
 
 ### Central Nervous System Effects
 
+<!-- is this neurotoxicity -->
+
+stimulation => agitation, confusion, delirium, disorientation, hallucinations
+
+depression => dizziness, drowsiness, sedation, compa, impaired respiration, circulation
+
+efavirenz, antimalarials (chloroquine, amodiaquine), and amantadine.
+
+### Chronic Use
+
+ADRs resulting from chronic use
+
 ### Drug Dependence
+
+narcotic analgesics, sedative hypnotics, anxiolytics, amphetamines can cause psychological dependence (emotional or mental fixation on usage)
+
+physiological dependence is accompanied by unpleasant physical symptoms when the drug is d/c or reduced
 
 ### Drug Tolerance
 
+the body becomes overly adpated to the drug and fails to respond to the drug at the cellular level.
+acquired tolerance occurs after chronic use
+increasing the dose is used to overcome tolerance
+
 ### Drug Resistance
+
+reduction of effectiveness of an antimicrobial anthelmintic, or antineoplastic drug
+it is better to switch drugs than increase the dose.
 
 ---
 
