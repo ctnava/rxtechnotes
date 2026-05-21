@@ -832,6 +832,8 @@ Food may **enhance**, **reduce**, or **delay** drug absorption; modify distribut
 
 Understanding these interactions helps clinicians optimize dosing, avoid therapeutic failure, and prevent toxicity.
 
+Diet is influenced by food preferences and availability, weight loss or gain diets, and variations for seasonal, religious, and/or therapeutic reasons.
+
 ### Drug-Diet: Disposition
 
 Dietary intake can influence drug action by influencing one of all ADME processes.
@@ -917,6 +919,41 @@ Assuming **constant caloric intake**, altering macronutrient ratios produces pre
 These patterns reflect how macronutrients regulate enzyme synthesis and hepatic energy availability.
 
 #### Drug-Diet: Excretion
+
+Diet can influence **renal excretion** by altering glomerular filtration, tubular secretion, and tubular reabsorption.  
+Because many drugs (and especially metabolites) are eliminated through the kidneys, dietary patterns can meaningfully change drug clearance.
+
+##### Effects of Protein Intake
+
+**High‑protein diets** increase renal workload and stimulate several physiological changes:
+
+- **↑ Glomerular filtration rate (GFR)**  
+  Increased amino acid load → renal vasodilation → higher filtration.
+
+- **↓ Tubular reabsorption**  
+  Increased solute load reduces the time and capacity for passive reabsorption.
+
+- **↓ Tubular secretion**  
+  Some studies show reduced active secretion due to competition for transporters or altered renal blood flow.
+
+**Net effect:**  
+High protein intake generally **increases drug excretion**, especially for drugs eliminated primarily by filtration.
+
+**Restricted protein intake**:
+
+- Low protein; ↓ GFR; ↓ excretion.  
+- The clinical impact depends on the drug’s **primary renal elimination mechanism** (filtration vs secretion vs reabsorption).
+
+##### Effects of Sodium Intake
+
+**High sodium intake** increases sodium excretion.  
+Because **lithium** is handled by the kidneys similarly to sodium:
+
+- When sodium excretion increases → **lithium excretion increases**  
+- When sodium intake is low → kidneys retain sodium → **lithium retention increases**, raising risk of toxicity.
+
+**Clinical relevance:**  
+Lithium patients must maintain **consistent sodium intake** to avoid fluctuations in serum lithium levels.
 
 ### Specific Foods
 
