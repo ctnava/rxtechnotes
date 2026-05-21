@@ -567,7 +567,69 @@ A drug **blocks or competes** for the same metabolic enzyme, reducing metabolism
 
 #### Drug-Drug: Excretion
 
-Some drugs increase excretion by altering urinary pH and decreasing renal reabsorption.
+Drug–drug interactions affecting **excretion** occur when one drug alters the **renal handling** of another.  
+This can change the rate of **filtration**, **secretion**, or **reabsorption**, ultimately increasing or decreasing drug levels.
+
+Some drugs also modify **urinary pH**, which alters ionization and passive reabsorption.
+
+##### Glomerular Filtration
+
+Drug interactions that directly change **glomerular filtration rate (GFR)** are **rare**.
+
+- Most changes in filtration occur **indirectly** through drugs that alter **systemic blood pressure** or **renal perfusion**.
+- Examples: ACE inhibitors, NSAIDs, diuretics  
+- Reduced GFR → **slower elimination** → increased drug levels  
+- Increased GFR → **faster elimination**
+
+Because filtration is largely passive, it is **not a common site** of drug–drug interaction.
+
+##### Renal Secretion
+
+Renal secretion occurs through **active transport systems** in the proximal tubule.
+
+- There are **separate transporters** for:
+  - **Acidic drugs** (OAT: organic anion transporters)
+  - **Basic drugs** (OCT: organic cation transporters)
+
+**Key principle**:
+
+- Acidic drugs **compete with other acidic drugs**  
+- Basic drugs **compete with other basic drugs**  
+- Acidic and basic drugs **do not compete with each other**
+
+**Consequences of competition**:
+
+- Reduced secretion → **accumulation in blood**  
+- Plasma concentrations may increase **2–3 fold**  
+- This is similar to **protein-binding displacement**, but occurs at the kidney
+
+**Examples**:
+
+- Probenecid inhibits secretion of penicillin → increases penicillin levels  
+- Cimetidine inhibits secretion of metformin → increases metformin levels
+
+##### Urinary Reabsorption
+
+Reabsorption occurs via **passive diffusion**, influenced by:
+
+- **Urinary pH**
+- **Drug ionization**
+- **Lipid solubility**
+
+**Ion trapping principle**:
+
+- **Acidic urine reabsorbs acidic drugs** (they become unionized)  
+- **Basic urine reabsorbs basic drugs**
+
+Conversely:
+
+- Acidic urine **enhances excretion of basic drugs**  
+- Basic urine **enhances excretion of acidic drugs**
+
+**Clinical examples**:
+
+- Alkalinizing urine (e.g., sodium bicarbonate) enhances excretion of salicylates  
+- Acidifying urine enhances excretion of amphetamines
 
 ### Additive Effects
 
