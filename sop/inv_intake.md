@@ -108,10 +108,11 @@ Suppliers then send **order confirmations**, which specify:
 
 Monitoring the **market availability** of medications is essential. Drug shortages may be caused by:
 
-- Manufacturing or quality‑control issues  
+- Manufacturing delays or quality‑control issues  
 - Raw material shortages  
 - Product recalls  
 - Shortages of therapeutic equivalents
+- Increased demand
 
 > [FDA Drug Shortages Database](https://www.fda.gov/drugs/drug-safety-and-availability/drug-shortages)
 > [FDA List of Extended Use Dates to Assist with Drug Shortages](https://www.fda.gov/drugs/drug-shortages/search-list-extended-use-dates-assist-drug-shortages)
