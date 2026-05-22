@@ -122,7 +122,7 @@ What to Do:
 
 - **Coordinate**: Contact wholesalers or secondary supplies for restocking options.
 - **Substitute**: Work with pharmacists to suggest therapeutic alternatives
-- **Prioritize**: Dispense available stock to high-risk patients first, per pharmacist orders. Ensure fair distribution of limited stock to avoid unnecessary waste
+- **Prioritize**: Dispense available stock to high-risk patients first, per pharmacist orders. Ensure fair distribution of limited stock to avoid unnecessary waste.
 
 #### Inpatient Provisioning Practices
 
