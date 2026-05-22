@@ -561,7 +561,11 @@ If the application is denied:
 
 `Keep approvals & renewals on file!`
 
-#### Renewal of Foundation Grants
+#### Approvals
+
+#### Renewals
+
+##### Renewal of Foundation Grants
 
 - **Grant duration is typically 12 months**  
   Based on approval date, not calendar year.
@@ -572,7 +576,7 @@ If the application is denied:
 - **Eligible patients may receive multiple grants**  
   (e.g., medication + travel assistance)
 
-#### Renewal of PAP Applications
+##### Renewal of PAP Applications
 
 - **Approval is typically valid for the calendar year**  
   Most PAP approvals expire on **12/31**, regardless of approval date.
