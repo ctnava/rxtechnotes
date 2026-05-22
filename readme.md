@@ -41,14 +41,15 @@ Structured for both exam prep and on-the-job reference.
 | 4 | [Information & Resources](./reference.md) | ✅ Complete |
 | 5 | [Medical Terminology & Abbreviations](./terminology.md) | ✅ Complete |
 | 6 | [Biopharmaceutics](./biopharmaceutics.md) | ✅ Complete |
-| 7 | [Drug Discovery, Manufacturing, & Logistics](./discovery_manufacture.md) | ✅ Complete |
-| 8 | [Drugs & Applications](./drugs.md) | 🚧 WIP |
-| 9 | [Pharmacy Mathematics](./math/readme.md) | ✅ Complete |
-| 10 | [Pharmacy Personnel, Duties, & Services](./personnel_services.md) | ✅ Complete |
-| 11 | [Pharmacy Settings](./settings.md) | ✅ Complete |
-| 12 | [Healthcare Coverage](./healthcare_coverage.md) | 🚧 WIP |
-| 13 | [Core Pharmacy Operations](./core_operations.md) | 🚧 WIP |
-| 14 | [Compounding](./compounding.md) | 🚧 WIP |
+| 7 | [Routes & Formulations](./routes_formulations.md) | ✅ Complete |
+| 8 | [Drug Discovery, Manufacturing, & Logistics](./discovery_manufacture.md) | ✅ Complete |
+| 9 | [Drugs & Applications](./drugs.md) | 🚧 WIP |
+| 10 | [Pharmacy Mathematics](./math/readme.md) | ✅ Complete |
+| 11 | [Pharmacy Personnel, Duties, & Services](./personnel_services.md) | ✅ Complete |
+| 12 | [Pharmacy Settings](./settings.md) | ✅ Complete |
+| 13 | [Healthcare Coverage](./healthcare_coverage.md) | 🚧 WIP |
+| 14 | [Core Pharmacy Operations](./core_operations.md) | 🚧 WIP |
+| 15 | [Compounding](./compounding.md) | 🚧 WIP |
 
 - 📁 [Federal Law Reference Directory](./law/readme.md) directory.
 
