@@ -16,16 +16,16 @@ This process helps control healthcare costs. **Pharmacy technicians** support th
   - **Non‑formulary drugs**
   - **High‑cost (> $50k/year) or specialty medications**  
     - *Most specialty medications require PA with as much depth as off-label use*
-    - Some approvals require enrollment in manufacturer program benegits investigation programs
+    - Some approvals require enrollment in manufacturer **benefits investigation or patient support programs**.
   - **Step‑therapy requirements**
   - **Medications with safety or monitoring requirements** (e.g., biologics, controlled substances)
-  - **Off‑label use** (PreD Required Depending on Payer)
+  - **Off‑label use** (*may require PA or PreD depending on payer and benefit type*)  
 - **Dose changes**  
-  - *Significant dose increases (e.g. >11%) may trigger PA depending on payer policy*
+  - *Significant dose increases (e.g., >11%) may trigger PA depending on payer policy and drug‑specific criteria.*
 - **New insurance plan**
 - **Brand‑name drug requested when generic is available**
 - **Expired PA** (typically renewed annually)
-  - *Hepatitis C Treatment* can require PA every 6 weeks with lab results
+  - Some regimens (e.g., **Hepatitis C treatment**) may require **periodic reauthorization with updated labs** (e.g., every 4–8 weeks), depending on payer policy.  
 
 > 🚨 PA rules are determined by **PBMs and insurers**, not by the pharmacy.
 
@@ -33,7 +33,9 @@ This process helps control healthcare costs. **Pharmacy technicians** support th
 
 A **Predetermination** is a process, primarily used by **commercial payers**, to obtain approval for **off‑label or non‑standard therapy** *before* treatment is administered.
 
-Government payers generally do not use PreD processes for medications. These payers *do* sometimes allow prior authorization for off‑label use if supported by compendia; however, **Medicare does not allow predeterminations for drugs**.
+Government payers *may* allow prior authorization for off‑label use if supported by recognized compendia (e.g., under certain **Medicare Part B** or Medicaid policies). **Medicare Part D** coverage is handled through PA and formulary exception pathways.
+
+`Getting the government to cover off-label use is impossibly difficult`
 
 Neither PA nor PreD guarantees payment. If denied, the patient may be responsible for the full cost.
 
@@ -55,42 +57,60 @@ Pharmacy technicians use these portals to:
 
 ## Personnel
 
-`Clinics may require a dedicated PA team, Large Hospitals may require multiple; one per therapeutic area`
+`Clinics may require a dedicated PA team; large hospitals may require multiple teams, often aligned by therapeutic area.`
 
 ### Shared Training
 
+Core competencies for staff involved in PA and reimbursement workflows include:
+
+- **Familiarity with drug lists, payer policies, and terminology**
+- **EMR navigation** for gathering clinical information and evidence
+- **Basic therapeutics**, including:
+  - Indications for use
+  - Disease implications
+  - Treatment modalities & expected outcomes
+
 ### Pharmacy Department
 
-Basic training & competency for Prior Authorization Teams include:
+**Pharmacists**:
 
-- Familiarity with drug lists & payer policies / requirements, drug lists, & terminology
-- EMR Navigation for gathering clinical information & evidence
-- Knowledge of basic therapeutics
-  - Indications for use
-  - disease implications
-  - treatment modalities & expected outcomes
-
-**Pharmacists** handle clinical review, appeals, and peer‑to‑peer discussions when required.
+- Perform clinical review of requests
+- Support or author appeals
+- Participate in peer‑to‑peer discussions when required by the payer
 
 #### Pharmacy Technicians
 
-**Pharmacy Technicians** initiate paperwork, gather clinical and administrative data, track requests, and communicate with payers.
+**Pharmacy Technicians**:
 
-**Medication Assistance Coordinators** seek direct patient assistance from pharmaceutical manufacturers.
+- Initiate PA paperwork
+- Gather clinical and administrative data
+- Track requests and communicate with payers
 
-**Reimbursement Specialists** perform benefits verification, initiate paperwork, gather clinical and administrative data, track requests, communicate with payers, and preparing appeal letters. Identify denial trends, coverage gaps. hold payers accountable for contractual obligations, educate clinical staff on policies & requirements.
+**Medication Assistance Coordinators** identify and enroll eligible patients in **manufacturer patient assistance programs (PAPs)**, copay support programs, **Medicare Part D**, Social Security disability, Medicaid, and low‑income subsidy programs.
 
-### Financial Department
+**Reimbursement Specialists**:
 
-**Social Workers** assist patients with enrollment in Medicare Part D, social security, and low-income subsidy programs.
+- Perform benefits verification
+- Initiate and track PA and appeal paperwork
+- Gather clinical and administrative data
+- Communicate with payers and prepare draft appeal letters
+- Identify denial trends and coverage gaps
+- Educate clinical staff on payer policies and requirements
+- Help hold payers accountable to contractual obligations
 
 ### Practitioners Department
 
-**Physicians** provide clinical justification and may be required to speak directly with payers for peer‑to‑peer reviews.
+**Physicians**:
+
+- Provide clinical justification and documentation
+- May be required to speak directly with payers for peer‑to‑peer reviews
 
 ### Shared Roles
 
-**Nurses** assist with clinical documentation and support appeals in collaboration with pharmacy and prescribers.
+**Nurses**:
+
+- Assist with clinical documentation (labs, vitals, progress notes)
+- Support appeals and ongoing monitoring in collaboration with pharmacy and prescribers
 
 ---
 
