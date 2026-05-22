@@ -491,53 +491,89 @@ On their websites, most brand‑name manufacturers offer:
 
 ### 4. Prepare the Application
 
-Review submission requirements (online, phone, fax, hardcopy) and ensure all required information is there.
-collect signatures and proof of annual income before submission. Sometimes applications require a doctor and patient or patient advocate signature
+Review submission requirements (online, phone, fax, or hardcopy) and ensure all required information is included.
+
+Before submission:
+
+- Collect all required signatures  
+  - Some applications require **both patient and prescriber** signatures  
+  - Some allow a **patient advocate** to sign  
+- Attach proof of annual income  
+- Verify diagnosis and medication details  
+- Confirm prescriber license/NPI information
 
 ### 5. Submission & Follow-Up
 
-Ensure they received everything necessary & processing time estimates
-add the time/ date of submission + estimate + copy to patient chart
+After submitting the application:
 
-**Documentation must be retained for random audits**:
+- Confirm receipt with the foundation or manufacturer  
+- Document:
+  - **Date and time of submission**  
+  - **Expected processing time**  
+  - **Confirmation number**, if provided  
+  - **Copy of the application** in the patient chart
 
-Some foundations conduct **random audits** to verify income, diagnosis, and use of funds.  
-Keep applications, income documents, and clinical notes on file for compliance.
+#### Preparation for Audit
+
+Documentation must be retained for random audits
+
+Foundations may request:
+
+- Income verification  
+- Diagnosis confirmation  
+- Proof of medication use
+- Receipts that funds were used for
+
+Manufacturers may request:
+
+- Updated income documents  
+- Insurance verification  
+- Prescriber statements
   
-Manufacturers may request verification of income, diagnosis, or insurance status. Keep copies of:  
+Keep copies of:
 
-- Application forms
+- Application forms  
 - Income documents  
 - Prescriber statements  
-- Approval letters  
+- Approval letters
 
-### 6. (If needed) Appeal
+### 6. (If Needed) Appeal
 
-Review reason for denial and resubmit if appropriate
+`appeals apply to both PAPs and foundations, though PAPs are more flexible`
 
-- **Appeals are allowed for income or clinical denials**  
-  If a patient is denied due to **income limits**, **non‑FDA‑approved indications**, or **missing documentation**, PAPs generally allow an **appeal** with:  
-  - Updated income documents  
-  - Additional clinical justification  
-  - Letters of medical necessity
+If the application is denied:
 
-### 7. Approval & Renewal
+- Review the denial reason  
+- Determine whether an appeal is appropriate  
+- Resubmit with additional documentation
 
-**Important Considerations for Foundation Grants**:
+**Appeals may include**:
 
-- **Grant duration is typically one year**  
-  Most grants are active for **12 months from the approval date**, not calendar year.
+- Updated income documents  
+- Additional clinical justification  
+- Letters of medical necessity  
+- Clarification of diagnosis or treatment plan
+
+### 7. Managing Approvals & Renewals
+
+#### Renewal of Foundation Grants
+
+- **Grant duration is typically 12 months**  
+  Based on approval date, not calendar year.
+
 - **Renewal requires a new application**  
-  After expiration, a **new application** must be submitted on the patient’s behalf.  
   Some foundations allow early renewal if funds reopen.
-- **Patients may receive multiple grants**  
-  If funds are available and eligibility criteria are met, patients can hold **multiple grants** in the same year (e.g., medication + travel assistance).
 
-**Important Considerations for PAP Applications**:
+- **Eligible patients may receive multiple grants**  
+  (e.g., medication + travel assistance)
+
+#### Renewal of PAP Applications
 
 - **Approval is typically valid for the calendar year**  
-  Most PAP approvals expire on **12/31**, regardless of the approval date.  
-  A **renewal application** is required each year to maintain assistance.
+  Most PAP approvals expire on **12/31**, regardless of approval date.
+
+- **Renewal requires a new application each year**  
+  Patients must resubmit updated income and insurance documentation.
 
 ---
 
