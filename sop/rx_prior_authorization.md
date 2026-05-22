@@ -512,6 +512,7 @@ After submitting the application:
   - **Expected processing time**  
   - **Confirmation number**, if provided  
   - **Copy of the application** in the patient chart
+  - **How the decision will be communicated**
 
 #### Preparation for Audit
 
@@ -539,13 +540,15 @@ Keep copies of:
 
 ### 6. (If Needed) Appeal
 
-`appeals apply to both PAPs and foundations, though PAPs are more flexible`
+`Keep appeals on file!`
 
 If the application is denied:
 
 - Review the denial reason  
 - Determine whether an appeal is appropriate  
 - Resubmit with additional documentation
+
+`appeals apply to both PAPs and foundations, though PAPs are more flexible`
 
 **Appeals may include**:
 
@@ -555,6 +558,8 @@ If the application is denied:
 - Clarification of diagnosis or treatment plan
 
 ### 7. Managing Approvals & Renewals
+
+`Keep approvals & renewals on file!`
 
 #### Renewal of Foundation Grants
 
