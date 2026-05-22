@@ -138,7 +138,7 @@ This principle applies to **all dosage forms**; not just tablets. Whether dosing
 
 - 🛡️ Always read the sig carefully; BID can mean two tablets, two times a day, or one tablet twice a day.
 - 🚨 For eye/ear drops, check if **both eyes/ears** are being treated.
-- 🛡️ Topical use is often estimated; confirm application area with pharmacist if unclear.
+- 🛡️ Topical use is often estimated to be 1 gram per day; confirm application area with pharmacist if unclear.
 - 🛡️ Document how you arrived at your days' supply if not obvious.
 
 > 📌 Many pharmacy systems calculate days' supply automatically, but knowing how to do it manually helps catch input errors and supports DUR decisions.
@@ -230,6 +230,8 @@ ${\boxed{\Rightarrow \text{Days Supply} = \text{4 Days (Rounded Down)}}}$ -->
 ---
 
 ## 📘 Topical Creams, Ointments, Gels, & Lotions
+
+`Typical use is 1 gram PER day.`
 
 **Billable Units**: Mass (g); for Lotions - Volume (mL)
 
