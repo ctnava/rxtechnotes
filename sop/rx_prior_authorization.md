@@ -94,7 +94,7 @@ For example:
 
 To calculate a patient’s FPL percentage:
 
-${\text{FPL %} = \frac{\text{Household Annual Income}}{\text{FPL Guideline for Household Size}} \times 100]}$
+${\text{FPL} \% = \frac{\text{Household Annual Income}}{\text{FPL Guideline for Household Size}} \times 100}$
 
 Example:
 
