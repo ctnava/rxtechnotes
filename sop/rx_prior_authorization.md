@@ -53,6 +53,33 @@ Pharmacy technicians use these portals to:
 
 > 📌 Examples: CoverMyMeds, Surescripts, OptumRx, Express Scripts, CVS Caremark, RxBenefits, Medi‑Cal Rx.
 
+### Insurers
+
+#### Commercial Insurance
+
+**Commercial insurance** refers to private health insurance plans obtained through:
+
+- Employers (group plans)
+- The Health Insurance Marketplace / Exchange
+- Direct purchase from private insurers
+
+These plans typically include **private prescription drug coverage** under the pharmacy benefit.
+
+#### Government-Funded (Public) Insurance
+
+**Government-funded insurance** includes:
+
+- **Medicare**
+  - **Part A**: Hospital insurance  
+  - **Part B**: Outpatient/medical services  
+  - **Part C (Medicare Advantage)**: Private plans bundling A, B, and often D  
+  - **Part D**: Prescription drug coverage  
+- **Medicaid**: State-administered program for low-income individuals  
+- **TRICARE**: Coverage for active-duty military, retirees, and dependents  
+- **CHIP**: Children’s Health Insurance Program
+
+Public insurance programs may have **different PA rules**, stricter coverage criteria, and limited flexibility for off-label use compared to commercial plans.
+
 ### Financial Assistance
 
 **Financial Assistance** is used when a patient’s out‑of‑pocket costs create financial hardship. Financial strain often leads to **non‑adherence**, such as skipping doses or splitting tablets to extend supply.
@@ -64,7 +91,7 @@ The main sources of financial assistance include:
 - **Manufacturer Co‑Pay Cards / Coupons**
 - **Community organizations** (churches, clinics, nonprofits)
 
-`All of these may involve an appeal process if the initial request is denied.`  
+`All of these may involve an appeal process if the initial request is denied.`
 
 #### Federal Poverty Level (FPL)
 
