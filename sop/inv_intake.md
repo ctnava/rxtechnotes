@@ -114,8 +114,11 @@ Monitoring the **market availability** of medications is essential. Drug shortag
 - Shortages of therapeutic equivalents
 - Increased demand
 
-> [FDA Drug Shortages Database](https://www.fda.gov/drugs/drug-safety-and-availability/drug-shortages)
-> [FDA List of Extended Use Dates to Assist with Drug Shortages](https://www.fda.gov/drugs/drug-shortages/search-list-extended-use-dates-assist-drug-shortages)
+🔗 [FDA Drug Shortages Database](https://www.fda.gov/drugs/drug-safety-and-availability/drug-shortages)
+
+🔗 [FDA List of Extended Use Dates to Assist with Drug Shortages](https://www.fda.gov/drugs/drug-shortages/search-list-extended-use-dates-assist-drug-shortages)
+
+Contact Wholesalers or secondary supplies for restocking options.
 
 #### Inpatient Provisioning Practices
 

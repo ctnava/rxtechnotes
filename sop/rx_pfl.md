@@ -17,6 +17,7 @@ Other times, the prescriber may write prescriptions for days supply outside of t
 - Dispense **only enough** to bridge the gap until inventory is replenished.
 - **Notify the pharmacist** if stock is critically low or refill date will be missed.
 - Avoid full depletion of shared or limited stock.
+- DISPENSE AVAILABLE STOCK TO HIGH-RISK PATIENTS FIRST
 
 ### Copay Collection
 
