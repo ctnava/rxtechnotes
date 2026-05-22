@@ -14,6 +14,8 @@ A PA is a process used by payers, such as insurance companies or PBMs, to determ
 
 This process is intended to control healthcare costs. Qualified pharmacy staff contribute to the approval process by initiating paperwork, collecting data, tracking requests, and communicating with insurance companies.
 
+Pharmacy technicians are an essential part of this task; with responsibilities including paperwork initiation, data collection, tracking requests, and communicating with insurance companies.
+
 > 📌 Some prescription drugs can still be purchased without insurance if the patient pays out-of-pocket.
 
 🔑 **Common Reasons a PA Is Required**:
@@ -52,7 +54,7 @@ Pharmacy technicians commonly access PBM portals to:
 
 ## 🧾 PA Workflow
 
-Pharmacy technicians may assist the pharmacist with the following PA tasks:
+The prior authorization process must be closely monitored to ensure that patients receive necessary care and pharmacies receive proper reimbursement.
 
 ### 1. **Identify the rejection & notify the pharmacist**
 
@@ -106,7 +108,7 @@ Create a **clinical packet** for consideration by a clinical reviewer at the ins
 The **pharmacist** may:
 
 - Notify the prescriber to review insurer notes and appeal if appropriate.
-- File an appeal or exception request, often requiring updated clinical documentation.
+- File an appeal or formulary exception request, often requiring updated clinical documentation.
 
 The **technician** may:
 
