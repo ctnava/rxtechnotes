@@ -326,15 +326,36 @@ Gather all relevant information (e.g. prescription data, insurance info, and rej
 
 ### 1. Obtain Consent
 
-obtain consent from the patient to share information with manufacturers and assistance programs.
+Obtain **verbal or written consent** from the patient to share information with manufacturers, foundations, and assistance programs.
+
+Consent must cover:
+
+- Sharing PHI with third‑party assistance programs  
+- Income verification  
+- Communication with manufacturer hubs  
+- Use of documentation for audits
 
 ### 2. Collect Documentation
 
-gather
-diagnosis
-household size
-household income (with proof such as tax return, pay stub, bank statement, Social Security award letter)
-whether or not the patient files federal tax returns
+Gather all required information to determine eligibility:
+
+- **Diagnosis** (ICD‑10 code preferred)
+- **Household size**
+- **Household income**, with acceptable proof:
+  - Tax return (1040)
+  - Pay stubs
+  - Bank statements
+  - Social Security award letter
+  - Unemployment or disability income documentation  
+- **Whether the patient files federal taxes**  
+  - *some PAPs require tax returns; others accept alternative documentation*
+
+Additional items that may be required:
+
+- Proof of residency  
+- Insurance cards (front/back)  
+- Prescriber information  
+- Medication name, dose, and frequency  
 
 #### Determining Poverty Level
 
@@ -363,9 +384,15 @@ Patients and staff can use online tools to simplify this process:
 
 ### 3. Identify Method of Assistance & Locate Source
 
-identify method of assistance & source
+Determine which type of assistance is appropriate based on:
 
-#### Sources
+- Insurance type (commercial vs Medicare/Medicaid)
+- Income level (FPL)
+- Diagnosis
+- Medication cost
+- Availability of foundation funds or PAP programs
+
+#### Sources of Assistance
 
 ##### Foundation Grants
 
@@ -410,6 +437,8 @@ PAPs may provide:
 
 - Free medication
 - Reduced‑cost medication
+- Temporary bridge supply
+  - *common for specialty medications*
 
 **Important Considerations for PAP Applications**:
 
@@ -422,8 +451,7 @@ PAPs may provide:
   - Additional clinical justification  
   - Letters of medical necessity
 - **Some PAPs offer temporary bridge programs**  
-  If eligibility is still being determined, manufacturers may provide a **short-term supply** to prevent treatment interruption.  
-  - *common for specialty drugs*
+  If eligibility is still being determined, manufacturers may provide a **short-term supply** to prevent treatment interruption.
 - **Eligibility criteria vary by manufacturer**  
   PAPs may consider:  
   - Household income (based on FPL)  
