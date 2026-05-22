@@ -81,7 +81,7 @@ Basic training & competency for Prior Authorization Teams include:
 
 ### Financial Department
 
-**Social Workers** assist patients with enrollment in public health insurance and programs.
+**Social Workers** assist patients with enrollment in Medicare Part D, social security, and low-income subsidy programs.
 
 ### Practitioners Department
 
