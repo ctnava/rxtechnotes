@@ -198,20 +198,68 @@ Administered by anesthesiologists or CRNAs, who actively manage dosing throughou
 
 ### Anti-Infectives
 
+`Anti-infectives treat diseases produced by microorganisms and virii.`
+
+| Class | Target | Description |
+| --- | --- | --- |
+| **Antibiotics** 🦠 | Bacteria | Bacteria are single‑celled organisms that reproduce independently; antibiotics inhibit growth or kill them. |
+| **Antifungals** 🍄 | Fungi | Fungi are eukaryotic organisms (yeasts, molds) with rigid cell walls; infections often occur in warm, moist areas. |
+| **Antiprotozoals** 🧫 | Protozoa | Protozoa are single‑celled parasites (e.g., Giardia, malaria) that often infect the GI tract or blood. |
+| **Anthelminitics** 🪱 | Parasitic worms | Used to treat helminth infections (roundworms, tapeworms, flukes); often paralyze or starve the parasite. |
+| **Antivirals** 🧬 | Viruses | Viruses are non‑living particles that hijack host cells to replicate; antivirals block entry, replication, or release. |
+
 #### Antibiotics (Antimicrobials)
 
-- Anthelmintics
-- Antimycobacterials
-- Antiprotozoals
-- Cephalosporins
-- penicillins
-- sulfonamides
-- tetracyclines
-- quinolones
+| Class | USAN Stem | Mechanism |
+| --- | --- | --- |
+| **Antimycobacterials** 🧫 | **-azid**, **-inamide**, **-rif-** | Inhibit mycolic acid synthesis or RNA polymerase; used for TB & atypical mycobacteria |
+| **Cephalosporins** 🧪 | **cef- / ceph-** | β‑lactam antibiotics; inhibit bacterial cell wall synthesis (bind PBPs) |
+| **Penicillins** 💉 | **-cillin** | β‑lactam antibiotics; inhibit bacterial cell wall synthesis (bind PBPs) |
+| **Sulfonamides** 🌸 | **sulfa-** | Inhibit folic acid synthesis (PABA antagonists); bacteriostatic |
+| **Tetracyclines** 🌀 | **-cycline** | Inhibit 30S ribosomal subunit → block protein synthesis |
+| **Quinolones / Fluoroquinolones** ⚡ | **-floxacin** | Inhibit DNA gyrase & topoisomerase IV → block DNA replication |
+
+#### Antifungals
+
+| Class | USAN Stem | Mechanism |
+| --- | --- | --- |
+| Azole Antifungal | -conazole | X |
+
+#### Antiprotozoals
+
+#### Anthelminitics
 
 #### Antivirals
 
-#### Antifungals
+Common stem is **"vir"**, used in the front, back, and middle.
+
+`vir-, -vir-, -vir`
+
+| Substems | Definition | Example(s) |
+| --- | --- | --- |
+| **-amivir** | neuraminidase inhibitors | zanamivir |
+| **-asvir** | NS5A inhibitors | daclatasvir |
+| **-atovir** | RSV fusion inhibitors | presatovir |
+| **-buvir** | RNA polymerase (NS5B) inhibitors | nesbuvir |
+| **-capavir** | viral capsid & nucleocapsid inhibitors | lenacapavir |
+| **-cavir** | carbocyclic nucleosides | lobucavir |
+| **-corvir** | inhibitors of viral core protein assembly | vebicorvir |
+| **-cyclovir / -ciclovir** | acyclovir-type antivirals | desciclovir, famciclovir, penciclovir, valacyclovir |
+| **-denvir** | dengue virus NS4B inhibitors | mosnodenvir |
+| **-desivir** | adenosine analog RNA polymerase inhibitors | remdesivir |
+| **-gosivir** | glucosidase inhibitors | celgosivir, droxinavir |
+| **-navir** | HIV protease inhibitors | indinavir, ritonavir |
+| **-piravir** | SARS‑CoV‑2 RNA replication inhibitors | molnupiravir, favipiravir |
+| **-previr** | serine protease inhibitors | boceprevir, telaprevir |
+| **-ravir** | reverse transcriptase translocation inhibitors | islatravir |
+| **-sporivir** | cyclosporine derivatives | alisporivir |
+| **-tegravir** | integrase inhibitors | elvitegravir |
+| **-trelvir** | COVID 3CL protease inhibitors | nirmatrelvir |
+| **-virenz** | NNRTIs (benzoxazinone derivatives) | efavirenz |
+| **-virimat** | viral maturation inhibitors | bevirimat |
+| **-virine** | NNRTIs (non‑benzoxazinone) | rilpivirine |
+| **-viroc** | CCR5 receptor antagonists | maraviroc |
+| **-viroc / -criviroc** | CCR5 antagonists, immunomodulators | ancriviroc |
 
 ---
 
