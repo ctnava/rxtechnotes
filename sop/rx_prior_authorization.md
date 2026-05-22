@@ -406,9 +406,8 @@ ${\text{FPL \%} = \frac{\text{Household Annual Income}}{\text{FPL Guideline for 
 Example:
 
 - Household income: **$60,000**
-- FPL guideline (3 people): **$27,320**
 
-${\frac{60,000}{27,320} \approx 219\% \text{ FPL}}$
+${\frac{60,000}{27,320} \approx 219 \text{\% FPL}}$
 
 to determine percentage of poverty divide annual income divided by poverty guideline for household size
 
