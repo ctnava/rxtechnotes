@@ -56,7 +56,17 @@ Pharmacy technicians use these portals to:
 
 `Clinics may require a dedicated PA team, Large Hospitals may require multiple; one per therapeutic area`
 
+### Shared Training
+
 ### Pharmacy Department
+
+Basic training & competency for Prior Authorization Teams include:
+
+- Familiarity with drug lists & payer policies
+  - Knowledge of insurance requirements
+- EMR Navigation
+- Knowledge of basic therapeutics
+- Understanding Indications for use
 
 **Pharmacists** handle clinical review, appeals, and peer‑to‑peer discussions when required.
 
