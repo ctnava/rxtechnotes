@@ -271,7 +271,7 @@ ${\boxed{\Rightarrow \text{Grams Per Diem} = \frac{1 \, \text{g}}{1 \, \text{app
 
 ${\boxed{\Rightarrow \text{Days Supply} = \frac{30 \, \text{g}}{2 \, \text{g/day}} = \frac{30}{1} \times \frac{1 \, \text{day}}{2} = 15 \, \text{days}}}$ -->
 
-## 👁️ Eyedrops & Eardrops
+## 👁️👂 Eyedrops & Eardrops
 
 **Billable Quantity**: Volume (mL)
 **Clinical Quantity**: Total **drops** (gtt)
@@ -316,6 +316,26 @@ ${\boxed{\text{Doses per Diem} = 1 \, \text{dose/day}}}$
 ${\boxed{\Rightarrow \text{Drops per Diem} = \frac{4 \, \text{gtt}}{1 \, \text{dose}} \times \frac{1 \, \text{dose}}{1 \, \text{day}} = \frac{4 \, \text{gtt}}{1 \, \text{day}} = 4 \, \text{gtt/day}}}$
 
 ${\boxed{\Rightarrow \text{Days Supply} = \frac{100 \, \text{gtt}}{4 \, \text{gtt/day}} = \frac{100}{1} \times \frac{1 \, \text{day}}{4} = 25 \, \text{days}}}$ -->
+
+---
+
+## 👁️ Eye Ointments
+
+**Billable Quantity**: Mass (g)
+**Clinical Quantity**: Undefined
+
+> 📌 Most packages are 3.5g tubes
+
+🔠 **Abbreviations**:
+
+- **Eye**: `OS` (left); `OD` (right); `OU` (both)
+- **Take As Directed** = `UD` / `TUD`
+
+🔢 **Formula**:
+
+> 📌 Days Supply is usually 7-10 Days
+
+📘 **Example**
 
 ---
 
