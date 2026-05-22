@@ -563,6 +563,53 @@ If the application is denied:
 
 #### Approvals
 
+##### Processing Foundation Grant Awards
+
+Once a foundation approves a grant, determine **how the foundation disburses funds**, as this varies by organization:
+
+1. **Pharmacy Billing Model**  
+   - The pharmacy bills the patient’s insurance first.  
+   - The foundation pays the **remaining balance** directly to the pharmacy.  
+   - *This is the most common model for medication assistance*
+
+2. **Patient Reimbursement Model**  
+   - The patient pays out‑of‑pocket.  
+   - The foundation reimburses the patient after they submit receipts.  
+   - *This model is less common and requires patient education*
+
+3. **Pharmacy Reimbursement Model**  
+   - The pharmacy dispenses the medication.  
+   - The foundation reimburses the pharmacy after documentation is submitted.  
+   - *Used by some foundations for specialty medications*
+
+**Important**:
+
+- Document the **fund type**, **coverage period**, and **billing instructions** in the patient’s chart.  
+- Ensure the pharmacy billing team understands the foundation’s payment workflow.
+
+##### Moving Forward with PAPs
+
+Once a PAP approves a patient:
+
+**Medication Fulfillment Method** varies by manufacturer, typically done by manufacturer’s contracted pharmacy:
+
+1. **Direct‑to‑Patient Shipping**
+   - Medication is shipped to the patient’s home.  
+   - *Common for oral medications*
+2. **Direct‑to‑Provider Shipping**  
+   - Medication is shipped to the prescriber’s office for administration.  
+   - *Common for injectables/infusions*
+
+> Prescriptions must be **rerouted** from the original pharmacy to the manufacturer’s contracted pharmacy.
+
+Some PAPs provide a **Bridge Supply** (temporary) while the full application is processed.
+
+**Action Items**:
+
+- Update the patient’s chart with PAP approval details.  
+- Notify the prescriber if prescriptions must be rerouted.  
+- Track expected shipment dates to prevent treatment gaps.
+
 #### Renewals
 
 ##### Renewal of Foundation Grants
