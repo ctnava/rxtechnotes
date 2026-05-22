@@ -73,7 +73,7 @@
 - [x] Gowning SOP
 - [x] Math: Chapter 23 - Parenteral Ratios & Proportions
 - [x] Reading: Chapter 4 - Information Sources
-- [X] Reading: Chapter 15 - Financial Issues
+- [x] Reading: Chapter 15 - Financial Issues
 - [x] [Syringes Video](https://www.youtube.com/watch?v=b4Y2qE4ZgvE)
 - [x] IV Solutions
 
@@ -82,7 +82,7 @@
 - [x] DenaliRx Drugs 81-100
 - [x] Kirby Lester Counting Machine Video
 - [x] CVS Insurance Training Packet (unnecessary)
-- [X] Reading: Chapter 14 - Inventory
+- [x] Reading: Chapter 14 - Inventory
 - [ ] CE: Medication Reconciliation (QUICK)
 - [x] Math: Chapter 24 - Powder Drugs
 - [x] Drug Regulation & Control Video
