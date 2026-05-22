@@ -8,7 +8,9 @@
 
 ## Definitions
 
-A **Prior Authorization / Precert (PA)** is a processed used by payers, such as insurance companies or PBMs, to determine if they will cover the cost of a prescribed medication. A PA TPR is triggered when the insurer needs clinical justification for covering a drug that falls outside standard coverage rules.
+### Prior Authorization (PA) / Precertifications
+
+A PA is a process used by payers, such as insurance companies or PBMs, to determine if they will cover the cost of a prescribed medication. A PA TPR is triggered when the insurer needs clinical justification for covering a drug that falls outside standard coverage rules.
 
 This process is intended to control healthcare costs. Qualified pharmacy staff contribute to the approval process by initiating paperwork, collecting data, tracking requests, and communicating with insurance companies.
 
@@ -16,23 +18,36 @@ This process is intended to control healthcare costs. Qualified pharmacy staff c
 
 🔑 **Common Reasons a PA Is Required**:
 
-- **Non-formulary drugs**
-- **Brand-name drugs** when generics are available
-- **High-cost or specialty medications**
-- **Drugs with step therapy requirements**
-- **Medications flagged for safety concerns** (e.g., opioids, biologics)
+- **New Medication Added to Treatment Plan**:
+  - **Non-formulary drugs**
+  - **High-cost or specialty medications**
+  - **Drugs with step therapy requirements**
+  - **Medications flagged for safety concerns** (e.g., opioids, biologics)
+- **Dose changes >11%**
+- **Patient has new insurance**
+- **Trying to fill brand-name drugs** when generics are available
 
-> 🚨 These rules are set by PBMs and insurers—not by the pharmacy.
+> 🚨 These rules are set by PBMs and insurers; not by the pharmacy.
 
-A **Predermination (PreD)** is the process used with commercial payers to gain approval for off-label use prior to the patient receiving treatment; exludes government payers.
+#### Predetermination (PreD)
+
+A PreD is the process used with commercial payers to gain approval for off-label use prior to the patient receiving treatment; exludes government payers.
 
 Neither of these processes guarantee coverage or reimbursement. If requested, and not approved, the patient will not be reimbursed for the cost of the drug.
 
-## Changes That Trigger Prior Authorizations
+### 📲 Pharmacy Benefit Optimizers
 
-- medication added to treatment plan
-- dose changes > 11%
-- insurance changes
+PBOs are PBM portals used to submit & manage PA processes.
+
+Pharmacy technicians commonly access PBM portals to:
+
+- Check real-time claim status
+- Review drug coverage, formulary tier, and PA requirements
+- Confirm patient eligibility and copays
+- View or download PA forms and status updates
+- Troubleshoot error messages or incomplete PA submissions
+
+> 📌 Portals may vary by PBM. Examples include CoverMyMeds, SureScripts, OptumRx, Express Scripts, CVS Caremark, and Medi-Cal Rx.
 
 ## 🧾 PA Workflow
 
@@ -101,15 +116,3 @@ The **technician** may:
 - 🛡️ Appeals are time-sensitive. Always escalate denials immediately to the pharmacist or billing specialist.
 
 > 🛡️ Note date/time of PA submission, patient notification, and any escalation.
-
-## 📲 PBM Portals
-
-Pharmacy technicians commonly access PBM portals to:
-
-- Check real-time claim status
-- Review drug coverage, formulary tier, and PA requirements
-- Confirm patient eligibility and copays
-- View or download PA forms and status updates
-- Troubleshoot error messages or incomplete PA submissions
-
-> 📌 Portals may vary by PBM. Examples include CoverMyMeds, SureScripts, OptumRx, Express Scripts, CVS Caremark, and Medi-Cal Rx.
