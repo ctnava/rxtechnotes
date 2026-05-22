@@ -118,7 +118,7 @@ Monitoring the **market availability** of medications is essential. Drug shortag
 
 🔗 [FDA List of Extended Use Dates to Assist with Drug Shortages](https://www.fda.gov/drugs/drug-shortages/search-list-extended-use-dates-assist-drug-shortages)
 
-Contact Wholesalers or secondary supplies for restocking options.
+Contact wholesalers or secondary supplies for restocking options.
 
 #### Inpatient Provisioning Practices
 
