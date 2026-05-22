@@ -24,9 +24,15 @@ This process is intended to control healthcare costs. Qualified pharmacy staff c
 
 > 🚨 These rules are set by PBMs and insurers—not by the pharmacy.
 
-A **Predermination (PreD)** is the process used with commercial payers to gain approval for off-label use prior to the patient receiving treatment.
+A **Predermination (PreD)** is the process used with commercial payers to gain approval for off-label use prior to the patient receiving treatment; exludes government payers.
 
 Neither of these processes guarantee coverage or reimbursement. If requested, and not approved, the patient will not be reimbursed for the cost of the drug.
+
+## Changes That Trigger Prior Authorizations
+
+- medication added to treatment plan
+- dose changes > 11%
+- insurance changes
 
 ## 🧾 PA Workflow
 
@@ -37,17 +43,33 @@ Pharmacy technicians may assist the pharmacist with the following PA tasks:
    - Verify that the patient has no alternative coverage.
 2. **Notify the pharmacist**
    - Pharmacist must confirm if a PA is appropriate or if a formulary alternative is preferred.
-3. **Assist with documentation**
+3. **Determine Elegibility**
+   - Review payer-specific documents such as:
+     - clinical policies (bulletins & newsletters)
+       - including what the payer views as medically necessary vs experimental; government payers will not cover off-label treatment
+     - review requirements:
+       - formulary listings
+       - PA requirements
+4. **Collect Documentation**
    - Gather relevant prescription data, insurance info, and rejection messages.
-   - Help collect clinical data (e.g., diagnosis, trial history) from prescriber's office.
-4. **Submit PA request**
+   - Create a **clinical packet** for consideration by a clinical reviewer at the insurance company:
+     - medical records:
+       - diagnostics codes (ICD-10) & treatment codes (CPT)
+       - labs scans
+       - past therapies & progress notes
+       - letters of medical necessity
+       - treatment plan
+     - literature (e.g. compendia listings)
+     - prior (expired) approval letters
+5. **Submit PA request**
    - May use electronic PA (ePA) tools, insurer web portals, or fax forms (under pharmacist supervision).
-   - Track submission and document status in the patient's profile.
-5. **Inform the patient**
+   - Add a copy of the PA request to the patient's EHR
+   - Track submission and document status in the patient's profile so that it is visible to all participating caregivers (prescriber, pharmacist, nurse, and people working on the claim)
+6. **Inform the patient**
    - Set clear expectations: PA approval typically takes **1–3 business days**.
    - Encourage follow-up with the prescriber for urgent requests.
    - 🛡️ Always inform the pharmacist immediately if the medication is urgently needed or if the patient is in distress.
-6. **Resolving Denials**
+7. **Resolving Denials**
    - The **pharmacist** may:
      - Notify the prescriber to review insurer notes and appeal if appropriate.
      - File an appeal or exception request, often requiring updated clinical documentation.
