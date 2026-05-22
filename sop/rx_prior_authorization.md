@@ -173,7 +173,7 @@ Gather all relevant information (e.g. prescription data, insurance info, and rej
 
 ### 6. **Resolving Denials**
 
-`Always escalate denials immediately to the pharmacist or billing specialist.`
+`Always escalate denials immediately to the pharmacist or billing/reimbursement specialist.`
 
 **Pharmacist Responsibilities**:
 
