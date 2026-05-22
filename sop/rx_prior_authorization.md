@@ -136,6 +136,43 @@ Core competencies for staff involved in PA and reimbursement workflows include:
 
 The PA process must be monitored closely to ensure timely patient care and proper reimbursement.
 
+```mermaid
+flowchart TD
+    %% --- Pharmacy Technician Lane ---
+    subgraph TECH[Pharmacy Technician]
+        A["Adjudicate Prescription"]
+        B["Identify Need for PA"]
+        C["Submit PA Request"]
+    end
+
+    %% --- Pharmacist Lane ---
+    subgraph PHARM[Pharmacist]
+        D["Review Clinical Need"]
+        E["Complete Clinical Sections of PA"]
+    end
+
+    %% --- Payer Lane ---
+    subgraph PAYER[Payer / PBM]
+        F["Service Determination"]
+        G{"PA Approved?"}
+    end
+
+    %% --- Pharmacy Operations Lane ---
+    subgraph OPS[Pharmacy Operations]
+        H["Pharmacy Fill"]
+    end
+
+    %% --- Flow Connections ---
+    A --> B
+    B --> D
+    D --> E
+    E --> C
+    C --> F
+    F --> G
+    G -->|Yes| H
+    G -->|No| B
+```
+
 ### 1. **Identify the Rejection & Notify the Pharmacist**
 
 - Look for **Reject Code 75**, **PA Required**, or similar messages.
