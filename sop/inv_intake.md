@@ -118,7 +118,11 @@ Monitoring the **market availability** of medications is essential. Drug shortag
 
 🔗 [FDA List of Extended Use Dates to Assist with Drug Shortages](https://www.fda.gov/drugs/drug-shortages/search-list-extended-use-dates-assist-drug-shortages)
 
-Contact wholesalers or secondary supplies for restocking options.
+What to Do:
+
+- **Coordinate**: Contact wholesalers or secondary supplies for restocking options.
+- **Substitute**: Work with pharmacists to suggest therapeutic alternatives
+- **Prioritize**: Dispense available stock to high-risk patients first, per pharmacist orders. Ensure fair distribution of limited stock to avoid unnecessary waste
 
 #### Inpatient Provisioning Practices
 
