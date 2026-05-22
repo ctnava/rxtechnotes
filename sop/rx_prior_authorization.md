@@ -138,8 +138,6 @@ The main sources of financial assistance include:
 
 #### Foundation Grants
 
-`Foundations often open/close funds unpredictably.`
-
 **Foundations** are nonprofit organizations funded by pharmaceutical companies, philanthropists, and donors.
 
 **Grants** provide financial support for eligible patients based on disease‑specific criteria, income limits, guidelines for use, and fund availability.
@@ -148,6 +146,33 @@ The main sources of financial assistance include:
 - 🔗 [Patient Advocate Foundation](https://www.patientadvocate.org/)
 - 🔗 [Good Days](https://mygooddays.org/)
 - 🔗 [HealthWell Foundation](https://www.healthwellfoundation.org/)
+
+##### Important Considerations for Foundation Grants
+
+- **Funds open and close unpredictably**  
+  Foundation funds open when new donations arrive and close once fully allocated.  
+
+- **Foundations are diagnosis‑specific**  
+  Each foundation supports specific disease states.  
+  Within a foundation, **subcategories** (e.g., metastatic vs. non‑metastatic) may open or close independently.
+  Subcategories often have separate funding pools.
+
+- **Grant duration is typically one year**  
+  Most grants are active for **12 months from the approval date**, not calendar year.
+
+- **Renewal requires a new application**  
+  After expiration, a **new application** must be submitted on the patient’s behalf.  
+  Some foundations allow early renewal if funds reopen.
+
+- **Patients may receive multiple grants**  
+  If funds are available and eligibility criteria are met, patients can hold **multiple grants** (e.g., medication + travel assistance).
+
+- **Eligibility is based on Federal Poverty Level (FPL)**  
+  Foundations typically require income below a specific FPL percentage (e.g., <300%, <500%).  
+
+- **Random audits may occur**  
+  Some foundations conduct **random audits** to verify income, diagnosis, and use of funds.  
+  Keep applications, income documents, and clinical notes on file for compliance.  
 
 #### Pharmaceutical / Patient Assistance Programs (PAPs)
 
