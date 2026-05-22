@@ -1,4 +1,4 @@
-# Managing Prior Authorizations & Patient Assistance
+# Managing Prior Authorizations & Financial Assistance
 
 ## Definitions
 
@@ -39,7 +39,7 @@ Government payers *may* allow prior authorization for off‑label use if support
 
 Neither PA nor PreD guarantees payment. If denied, the patient may be responsible for the full cost.
 
-### 📲 Pharmacy Benefit Optimizers
+#### 📲 Pharmacy Benefit Optimizers
 
 PBOs are PBM‑managed portals used to submit and track PA requests.
 
@@ -52,6 +52,91 @@ Pharmacy technicians use these portals to:
 - Troubleshoot submission errors
 
 > 📌 Examples: CoverMyMeds, Surescripts, OptumRx, Express Scripts, CVS Caremark, RxBenefits, Medi‑Cal Rx.
+
+### Financial Assistance
+
+**Financial Assistance** is used when a patient’s out‑of‑pocket costs create financial hardship. Financial strain often leads to **non‑adherence**, such as skipping doses or splitting tablets to extend supply.
+
+The main sources of financial assistance include:
+
+- **Foundation Grants**
+- **Pharmaceutical Assistance Programs (PAPs)**
+- **Manufacturer Co‑Pay Cards / Coupons**
+- **Community organizations** (churches, clinics, nonprofits)
+
+`All of these may involve an appeal process if the initial request is denied.`  
+
+#### Foundation Grants
+
+`Foundations often open/close funds unpredictably.`
+
+**Foundations** are nonprofit organizations funded by pharmaceutical companies, philanthropists, and donors.
+
+**Grants** provide financial support for eligible patients based on disease‑specific criteria, income limits, guidelines for use, and fund availability.
+
+- 🔗 [Patient Access Network Foundation](https://www.panfoundation.org/)
+- 🔗 [Patient Advocate Foundation](https://www.patientadvocate.org/)
+- 🔗 [Good Days](https://mygooddays.org/)
+- 🔗 [HealthWell Foundation](https://www.healthwellfoundation.org/)
+
+#### Pharmaceutical / Patient Assistance Programs (PAPs)
+
+PAPs are programs offered by **drug manufacturers** to assist:
+
+- **Uninsured patients**
+- **Underinsured patients**, including those with Medicare or Medicaid (rules vary by manufacturer)
+
+PAPs may provide:
+
+- Free medication
+- Reduced‑cost medication
+- Temporary bridge supply while coverage is pending  
+  - common for specialty drugs
+
+#### Co-Pay Cards & Coupons
+
+Co‑pay cards and coupons are the most commonly used form of assistance and apply **only to commercially insured patients**.
+
+They are typically provided by pharmaceutical companies for **brand‑name medications** and may be:
+
+- Given at the prescriber’s office
+- Downloaded online
+- Activated through manufacturer portals
+
+Patients present these cards at the pharmacy during adjudication.
+
+Co-pay cards & coupons are the most commonly used form of assistance; only applicable to **commercially-insured** patients.
+
+**Exception to Commercial Insurance Requirement**:  
+
+- If the co‑pay card is for a **free trial supply**, it is billed **only to the card**, not to insurance.  
+- Limited to **new starts** with strict eligibility requirements.
+- Free trial cards bypass insurance.
+
+#### Community Organizations
+
+Community organizations may raise funds to help patients with financial burdens. These are typically used when:
+
+- No foundation funds are available
+- The patient does not qualify for PAPs
+- The patient needs short‑term or emergency support
+
+Examples include churches, local nonprofits, and provider‑affiliated charity programs.
+
+#### Patient Assistance Guides
+
+| Resource | Description |
+| --- | --- |
+| [NeedyMeds](https://www.needymeds.org) | Database of 5,000+ PAPs, coupons, and assistance programs |
+| [Partnership for Prescription Assistance](https://www.pparx.org) | Connects patients to free or reduced‑cost medication programs |
+| [RxAssist](https://www.rxassist.org) | Search by drug name; lists PAP availability and eligibility |
+
+#### Brand‑Name Medication Programs
+
+Most brand‑name manufacturers offer patient assistance programs directly through their websites.
+
+> Example: 🔗 [AZ&Me by AstraZeneca](https://www.azandmeapp.com/)  
+> This program requires prescriptions to be filled through their designated dispensing pharmacy.
 
 ---
 
@@ -85,7 +170,10 @@ Core competencies for staff involved in PA and reimbursement workflows include:
 - Initiate PA paperwork
 - Gather clinical and administrative data
 - Track requests and communicate with payers
-- Document all actions in the EMR for continuity of care  
+- Document all actions in the EMR for continuity of care
+- Identifying when a patient still requires assistance, despite PA Approval, and subsequent
+  - Enrollment & renewal in **Copay Assistance**, **Pharmaceutical Assistance Programs (PAPs)**
+  - Applications for **Foundation Grants**
 
 ### Practitioners Department
 
