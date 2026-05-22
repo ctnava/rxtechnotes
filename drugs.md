@@ -221,15 +221,19 @@ Administered by anesthesiologists or CRNAs, who actively manage dosing throughou
 
 #### Antifungals
 
-| Class | USAN Stem | Mechanism |
-| --- | --- | --- |
-| Azole Antifungal | -conazole | X |
+| Class | Stem | Position | Substems | Definition | Example(s) |
+| --- | --- | --- | --- | --- | --- |
+| **conazole** | -conazole | suffix | *(none)* | systemic antifungals (miconazole type) | fluconazole |
+| **fungerp** | -fungerp | suffix | *(none)* | antifungals, triterpenoids | ibrexafungerp |
+| **fungin** | -fungin | suffix | *(none)* | antifungal antibiotics (undefined group) | kalafungin |
+| **rofim** | -rofim | suffix | *(none)* | orotomide antifungals | olorofim |
+| **mycin (fungal‑derived only)** | -mycin | suffix | *(none)* | antibiotics from *Streptomyces*; some are antifungal | natamycin |
 
 #### Antiprotozoals
 
 #### Anthelminitics
 
-#### Antivirals
+#### Antivirals (Dedicated Class Stem)
 
 Common stem is **"vir"**, used in the front, back, and middle.
 
