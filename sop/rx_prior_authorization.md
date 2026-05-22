@@ -324,7 +324,41 @@ Gather all relevant information (e.g. prescription data, insurance info, and rej
 
 ## Financial Assistance Workflow
 
-### 1. Obtain Consent
+### 1. Identifying Need & Obtaining Consent
+
+#### Identifying Patients in Need
+
+Not all patients will openly disclose financial hardship.  
+Many patients are reluctant to share this information due to:
+
+- Embarrassment or stigma  
+- Fear of being judged or stereotyped  
+- Not knowing assistance programs exist  
+- Belief that they "won't qualify"
+- Past negative experiences with assistance programs
+
+Because of this, **proactive, non‑judgmental screening** is essential.
+
+**Best Practices for Identifying Need**:
+
+- Ask open‑ended, neutral questions such as:  
+  - “How are your medication costs working for you?”  
+  - “Has the cost of your prescriptions ever made it hard to stay on track?”  
+  - “Would it help if we looked at ways to lower your out‑of‑pocket cost?”  
+
+- At the point of sale, if copays are unexpectedly high, ask:  
+  - “This copay is higher than usual; would you like help exploring assistance options?”  
+
+- Watch for **indirect indicators** of financial strain:  
+  - Delayed refills  
+  - Requests to “partial fill” or “just give me a few pills”  
+  - Patients asking about cheaper alternatives  
+  - Patients rationing medication or skipping doses  
+
+- Normalize the conversation:  
+  - “A lot of patients qualify for assistance programs — it’s more common than people think.”  
+
+#### Obtaining Consent
 
 Obtain **verbal or written consent** from the patient to share information with manufacturers, foundations, and assistance programs.
 
