@@ -98,10 +98,10 @@
 - [x] Medical Symbols
 - [x] Special Drugs see `i_medication_watchlist.md`
 
-## Week 8: Terminology
+## [DONE] Week 8: Terminology
 
 - [x] Reading: Chapter 5 - Terminology
-- [ ] CE: Managing Prior Authorizations (QUICK)
+- [x] CE: Managing Prior Authorizations
 - [x] Understanding VAERS
 - [x] Physician Specialties
 - [x] Math: Chapter 25 - Percents

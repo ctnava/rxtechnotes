@@ -284,6 +284,10 @@ Medications administered at fixed intervals.
 
 Link to 🔗 [**Standard Operating Procedure**](./rx_intake.md)
 
+### SOP: Prior Authorizations
+
+Link to 🔗 [**Standard Operating Procedure**](./rx_prior_authorization.md)
+
 ---
 
 ## Filling & Preparing Prescriptions

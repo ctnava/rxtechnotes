@@ -258,3 +258,10 @@ Gather all relevant information (e.g. prescription data, insurance info, and rej
 | Not Covered / Contract Drug | Medication must be filled at payer‑designated specialty pharmacy | Transfer prescription and coordinate PA through contracted pharmacy |
 
 > 🛡️ Always document submission date/time, patient notification, and any escalation to create a clear timeline of events.
+
+---
+
+## Navlinks
+
+- 🔙🔗 Back to [**Prescription Intake & Order Entry**](./rx_intake.md#-prior-authorization-pa)
+- 🔙🔗 Back to [**Prescription Processing Workflows**](./prescriptions.md#sop-prior-authorizations)
