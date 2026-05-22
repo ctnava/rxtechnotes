@@ -185,8 +185,37 @@ PAPs may provide:
 
 - Free medication
 - Reduced‑cost medication
-- Temporary bridge supply while coverage is pending  
-  - common for specialty drugs
+
+##### Important Considerations for PAP Applications
+
+- **Approval is typically valid for the calendar year**  
+  Most PAP approvals expire on **12/31**, regardless of the approval date.  
+  A **renewal application** is required each year to maintain assistance.
+
+- **Appeals are allowed for income or clinical denials**  
+  If a patient is denied due to **income limits**, **non‑FDA‑approved indications**, or **missing documentation**, PAPs generally allow an **appeal** with:  
+  - Updated income documents  
+  - Additional clinical justification  
+  - Letters of medical necessity
+
+- **Some PAPs offer temporary bridge programs**  
+  If eligibility is still being determined, manufacturers may provide a **short-term supply** to prevent treatment interruption.  
+  - *common for specialty drugs*
+
+- **Eligibility criteria vary by manufacturer**  
+  PAPs may consider:  
+  - Household income (based on FPL)  
+  - Insurance type (uninsured vs underinsured)  
+  - Diagnosis and FDA indication  
+  - Residency or citizenship requirements
+
+- **Documentation must be retained for audits**  
+  Manufacturers may request verification of income, diagnosis, or insurance status.  
+  Keep copies of:  
+  - Application forms  
+  - Income documents  
+  - Prescriber statements  
+  - Approval letters  
 
 #### Co-Pay Cards & Coupons
 
