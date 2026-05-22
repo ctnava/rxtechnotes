@@ -1,4 +1,4 @@
-# Managing Prior Authorizations & Predeterminations
+# Managing Prior Authorizations & Patient Assistance
 
 ## Definitions
 

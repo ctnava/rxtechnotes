@@ -212,7 +212,7 @@ A **Prior Authorization (PA)** is a formal approval process required by insuranc
 
 > 📌 Some prescription drugs can still be purchased without insurance if the patient pays out-of-pocket.
 
-🔗 Link to [Managing Prior Authorizations & Predeterminations](./rx_prior_authorization.md)
+🔗 Link to [Managing Prior Authorizations & Patient Assistance](./rx_prior_authorization.md)
 
 ---
 
