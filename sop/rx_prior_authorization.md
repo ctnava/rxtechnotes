@@ -413,18 +413,8 @@ Determine which type of assistance is appropriate based on:
   Each foundation supports specific disease states.  
   Within a foundation, **subcategories** (e.g., metastatic vs. non‑metastatic) may open or close independently.
   Subcategories often have separate funding pools.
-- **Grant duration is typically one year**  
-  Most grants are active for **12 months from the approval date**, not calendar year.
-- **Renewal requires a new application**  
-  After expiration, a **new application** must be submitted on the patient’s behalf.  
-  Some foundations allow early renewal if funds reopen.
-- **Patients may receive multiple grants**  
-  If funds are available and eligibility criteria are met, patients can hold **multiple grants** (e.g., medication + travel assistance).
 - **Eligibility is based on Federal Poverty Level (FPL)**  
   Foundations typically require income below a specific FPL percentage (e.g., <300%, <500%).  
-- **Random audits may occur**  
-  Some foundations conduct **random audits** to verify income, diagnosis, and use of funds.  
-  Keep applications, income documents, and clinical notes on file for compliance.  
 
 ##### Pharmaceutical / Patient Assistance Programs (PAPs)
 
@@ -437,34 +427,14 @@ PAPs may provide:
 
 - Free medication
 - Reduced‑cost medication
-- Temporary bridge supply
-  - *common for specialty medications*
+- **Temporary Bridge Supply**: If eligibility is still being determined, manufacturers may provide a short-term supply to prevent treatment interruption. *common for specialty medications*
+  
+**Eligibility criteria vary by manufacturer**. PAPs may consider:  
 
-**Important Considerations for PAP Applications**:
-
-- **Approval is typically valid for the calendar year**  
-  Most PAP approvals expire on **12/31**, regardless of the approval date.  
-  A **renewal application** is required each year to maintain assistance.
-- **Appeals are allowed for income or clinical denials**  
-  If a patient is denied due to **income limits**, **non‑FDA‑approved indications**, or **missing documentation**, PAPs generally allow an **appeal** with:  
-  - Updated income documents  
-  - Additional clinical justification  
-  - Letters of medical necessity
-- **Some PAPs offer temporary bridge programs**  
-  If eligibility is still being determined, manufacturers may provide a **short-term supply** to prevent treatment interruption.
-- **Eligibility criteria vary by manufacturer**  
-  PAPs may consider:  
-  - Household income (based on FPL)  
-  - Insurance type (uninsured vs underinsured)  
-  - Diagnosis and FDA indication  
-  - Residency or citizenship requirements
-- **Documentation must be retained for audits**  
-  Manufacturers may request verification of income, diagnosis, or insurance status.  
-  Keep copies of:  
-  - Application forms  
-  - Income documents  
-  - Prescriber statements  
-  - Approval letters  
+- Household income (based on FPL)  
+- Insurance type (uninsured vs underinsured)  
+- Diagnosis and FDA indication  
+- Residency or citizenship requirements
 
 ##### Co-Pay Cards & Coupons
 
@@ -512,6 +482,56 @@ Most brand‑name manufacturers offer patient assistance programs & Co-Pay Cards
 
 > Example: 🔗 [AZ&Me by AstraZeneca](https://www.azandmeapp.com/)  
 > This program requires prescriptions to be filled through their designated dispensing pharmacy.
+
+### 4. Prepare the Application
+
+Review submission requirements (online, phone, fax, hardcopy) and ensure all required information is there.
+collect signatures and proof of annual income before submission. Sometimes applications require a doctor and patient or patient advocate signature
+
+### 5. Submission & Follow-Up
+
+Ensure they received everything necessary & processing time estimates
+add the time/ date of submission + estimate + copy to patient chart
+
+**Documentation must be retained for random audits**:
+
+Some foundations conduct **random audits** to verify income, diagnosis, and use of funds.  
+Keep applications, income documents, and clinical notes on file for compliance.
+  
+Manufacturers may request verification of income, diagnosis, or insurance status. Keep copies of:  
+
+- Application forms
+- Income documents  
+- Prescriber statements  
+- Approval letters  
+
+### 6. (If needed) Appeal
+
+Review reason for denial and resubmit if appropriate
+
+- **Appeals are allowed for income or clinical denials**  
+  If a patient is denied due to **income limits**, **non‑FDA‑approved indications**, or **missing documentation**, PAPs generally allow an **appeal** with:  
+  - Updated income documents  
+  - Additional clinical justification  
+  - Letters of medical necessity
+
+### 7. Approval & Renewal
+
+**Important Considerations for Foundation Grants**:
+
+- **Grant duration is typically one year**  
+  Most grants are active for **12 months from the approval date**, not calendar year.
+- **Renewal requires a new application**  
+  After expiration, a **new application** must be submitted on the patient’s behalf.  
+  Some foundations allow early renewal if funds reopen.
+- **Patients may receive multiple grants**  
+  If funds are available and eligibility criteria are met, patients can hold **multiple grants** in the same year (e.g., medication + travel assistance).
+
+**Important Considerations for PAP Applications**:
+
+- **Approval is typically valid for the calendar year**  
+  Most PAP approvals expire on **12/31**, regardless of the approval date.  
+  A **renewal application** is required each year to maintain assistance.
 
 ---
 
