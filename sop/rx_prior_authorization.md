@@ -66,6 +66,49 @@ The main sources of financial assistance include:
 
 `All of these may involve an appeal process if the initial request is denied.`  
 
+#### Federal Poverty Level (FPL)
+
+The **Federal Poverty Level (FPL)** is an income threshold published annually by the **U.S. Department of Health & Human Services (HHS)**. It is used to determine eligibility for a wide range of benefits and assistance programs, including:
+
+- Foundation grants  
+- Pharmaceutical assistance programs (PAPs)  
+- Medicaid and CHIP  
+- Marketplace subsidies  
+- Sliding‑scale clinic fees  
+
+Foundations and PAPs commonly use FPL percentages to determine eligibility.
+
+> Poverty guidelines can be found on the HHS website.
+
+income level rubric created annually by the Department of Health & Human Services (HHS); used for determing if patients will qualify for benefits & programs. Foundations will use FPL. poverty guidelines can be found at the HHS Website.
+
+View 🔗 [HHS Poverty Guidelines](https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines)
+
+##### Determining Poverty Level
+
+When a foundation states that eligibility requires **<500% FPL**, it means the patient’s **household income** must be **below 5× the poverty guideline** for their household size.
+
+For example:
+
+- **2026 FPL for a 3‑person household = $27,320**
+
+To calculate a patient’s FPL percentage:
+
+${\text{FPL %} = \frac{\text{Household Annual Income}}{\text{FPL Guideline for Household Size}} \times 100]}$
+
+Example:
+
+- Household income: **$60,000**
+- FPL guideline (3 people): **$27,320**
+
+${\frac{60,000}{27,320} \approx 219\% \text{ FPL}}$
+
+to determine percentage of poverty divide annual income divided by poverty guideline for household size
+
+Patients and staff can use online tools to simplify this process:
+
+🔗 **[NeedyMeds FPL Calculator](https://www.needymeds.org/federal-poverty-level-calculator)**
+
 #### Foundation Grants
 
 `Foundations often open/close funds unpredictably.`
