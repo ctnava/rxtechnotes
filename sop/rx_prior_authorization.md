@@ -1,11 +1,5 @@
 # Managing Prior Authorizations & Prederminations
 
-## Objectives
-
-- describe steps necessary to implement or improve a prior authorization program
-- apply strategies for training technical and clinical staff to perform or support prior authorizations
-- develop processes for overcoming a denial or rejection
-
 ## Definitions
 
 ### Prior Authorization (PA) / Precertifications
@@ -14,21 +8,20 @@ A PA is a process used by payers, such as insurance companies or PBMs, to determ
 
 This process is intended to control healthcare costs. Qualified pharmacy staff contribute to the approval process by initiating paperwork, collecting data, tracking requests, and communicating with insurance companies.
 
-Pharmacy technicians are an essential part of this task; with responsibilities including paperwork initiation, data collection, tracking requests, and communicating with insurance companies.
-
 > 📌 Some prescription drugs can still be purchased without insurance if the patient pays out-of-pocket.
 
 🔑 **Common Reasons a PA Is Required**:
 
 - **New Medication Added to Treatment Plan**:
   - **Non-formulary drugs**
-  - **High-cost or specialty medications**
+  - **High-cost or specialty medications** (95% to 100% require PA)
   - **Drugs with step therapy requirements**
   - **Medications flagged for safety concerns** (e.g., opioids, biologics)
   - **Off-Label Use** (PreD Required)
 - **Dose changes >11%**
 - **Patient has new insurance**
 - **Trying to fill brand-name drugs** when generics are available
+- **Expired Prior Authorization** (Typically annual)
 
 > 🚨 These rules are set by PBMs and insurers; not by the pharmacy.
 
@@ -51,6 +44,28 @@ Pharmacy technicians commonly access PBM portals to:
 - Troubleshoot error messages or incomplete PA submissions
 
 > 📌 Portals may vary by PBM. Examples include CoverMyMeds, SureScripts, OptumRx, Express Scripts, CVS Caremark, RxBenefits, and Medi-Cal Rx.
+
+---
+
+## Personnel
+
+`Large hospitals & clinics may require a dedicated team for navigating this task`
+
+### Pharmacy Department
+
+**Pharmacists** gets involved in appeals; represents the clinic during peer-to-peer conferences
+
+**Pharmacy Technicians** are an essential part of this task; with responsibilities including paperwork initiation, data collection, tracking requests, and communicating with insurance companies.
+
+### Practitioners Department
+
+**Physicians** contact payers as required. Some payers have these policies that make it difficult for the Pharmacy Department to be responsible for peer-to-peer meetings required.
+
+### Shared
+
+**Nurses** assist physicians & gets involved in appeals through the pharmacy department
+
+---
 
 ## 🧾 PA Workflow
 
@@ -76,6 +91,7 @@ Review payer-specific documents such as:
   - including what the payer views as medically necessary vs experimental; government payers will not cover off-label treatment
 - formulary listings
 - PA guidelines & requirements
+- Contract Drugs Lists
 
 ### 3. **Collect Documentation**
 
@@ -128,5 +144,6 @@ Timed Out | Claim was not filed in timely manner; missed deadline for reconsider
 Multiple Diagnoses | multiple codes for disease states & metastases | Resubmit with proper coding |
 Inappropriate Diagnoses | ICD code not within coverage requirements | Resubmit with proper coding. |
 Prescription Billing Error | Prescribed Treatment not within billable amount; Typically concerns number of units billed | represcribe correctly before restarting the process |
+Not Covered Service or Medication on Plan Benefit | occasionally misleading; some payers require specialty medications to be filled at a national pharmacy they are contracted with. Sometimes the first two fills may be filled at a participating retail facility but PA work must be handed over to national pharmacy. (These are called Contract Drugs) |  todo
 
 > 🛡️ Note date/time of PA submission, patient notification, and any escalation.
