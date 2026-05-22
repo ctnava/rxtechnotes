@@ -403,11 +403,7 @@ To calculate a patient’s FPL percentage:
 
 ${\text{FPL \%} = \frac{\text{Household Annual Income}}{\text{FPL Guideline for Household Size}} \times 100}$
 
-Example:
-
-- Household income: **$60,000**
-
-${\frac{60,000}{27,320} \approx 219 \text{\%} \text{ FPL}}$
+${\implies \frac{60,000}{27,320} \approx 219 \text{ FPL \%}}$
 
 to determine percentage of poverty divide annual income divided by poverty guideline for household size
 
