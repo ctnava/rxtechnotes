@@ -1,21 +1,12 @@
 # Topics to Cover
 
-## ACTIVE WIP
-
-./sop/rx_intake.md
-./ref/med_abbr.md (page 129 Medical Abbreviations)
-
 ## Todo
 
-- refine [inpatient medication list](./medications/v_inpatient_medications.md)
+- [ ] refine [inpatient medication list](./medications/v_inpatient_medications.md)
 
 - GO THROUGH READING WORKBOOK
-- Drug Endings (appendix)
-- MedWatch filing SOP (appendix)
-- pharmacology & Pharmacokinetics
-- insulin content
+- [ ] insulin content
 - [ ] link iv fluid reference (./ref/common_iv_solutions.md)
-- [ ] leverage Key Medical Concepts (./ref/key_medical_concepts.md)
 - [ ] link syringe diagram (./ref/equipment/syringes/readme.md)
 
 ## [DONE] Week 1: History of Pharmacy
