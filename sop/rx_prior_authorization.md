@@ -502,6 +502,8 @@ Before submission:
 - Verify diagnosis and medication details  
 - Confirm prescriber license/NPI information
 
+> Some states, like New York, may require hard copies of prescriptions.
+
 ### 5. Submission & Follow-Up
 
 After submitting the application:
