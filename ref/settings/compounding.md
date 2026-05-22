@@ -36,7 +36,8 @@ There are approximately 7.5k pharmacies in the US that specialize in these servi
 💸 **Insurance Coverage**:
 
 - Most **private insurance plans** may reimburse compounded prescriptions
-- **Public insurance programs** (e.g., Medicare, Medi-Cal) usually **do not** cover compounded preparations  
+- **Public insurance programs** (e.g., Medicare, Medi-Cal) usually **do not** cover compounded preparations
+- Billed to **medical benefit**
 
 > 🚨 Technicians must verify coverage during the adjudication process and inform patients of out-of-pocket costs
 
