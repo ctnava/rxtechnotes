@@ -63,11 +63,12 @@ Pharmacy technicians use these portals to:
 
 Basic training & competency for Prior Authorization Teams include:
 
-- Familiarity with drug lists & payer policies
-  - Knowledge of insurance requirements
-- EMR Navigation
+- Familiarity with drug lists & payer policies / requirements, drug lists, & terminology
+- EMR Navigation for gathering clinical information & evidence
 - Knowledge of basic therapeutics
-- Understanding Indications for use
+  - Indications for use
+  - disease implications
+  - treatment modalities & expected outcomes
 
 **Pharmacists** handle clinical review, appeals, and peer‑to‑peer discussions when required.
 
@@ -75,9 +76,9 @@ Basic training & competency for Prior Authorization Teams include:
 
 **Pharmacy Technicians** initiate paperwork, gather clinical and administrative data, track requests, and communicate with payers.
 
-**Reimbursement Specialists** perform benefits verification, initiate paperwork, gather clinical and administrative data, track requests, communicate with payers, and preparing appeal letters.
-
 **Medication Assistance Coordinators** seek direct patient assistance from pharmaceutical manufacturers.
+
+**Reimbursement Specialists** perform benefits verification, initiate paperwork, gather clinical and administrative data, track requests, communicate with payers, and preparing appeal letters. Identify denial trends, coverage gaps. hold payers accountable for contractual obligations, educate clinical staff on policies & requirements.
 
 ### Financial Department
 
