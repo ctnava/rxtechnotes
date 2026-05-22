@@ -207,6 +207,7 @@ Administered by anesthesiologists or CRNAs, who actively manage dosing throughou
 | **Antiprotozoals** 🧫 | Protozoa | Protozoa are single‑celled parasites (e.g., Giardia, malaria) that often infect the GI tract or blood. |
 | **Anthelminitics** 🪱 | Parasitic worms | Used to treat helminth infections (roundworms, tapeworms, flukes); often paralyze or starve the parasite. |
 | **Antivirals** 🧬 | Viruses | Viruses are non‑living particles that hijack host cells to replicate; antivirals block entry, replication, or release. |
+| **Vaccines** | Pathogens (Vectors of Disease) | Stimulates immune response by exposing the body to a weakened or inactive form of a pathogen. |
 
 #### Antibiotics (Antimicrobials)
 
@@ -264,6 +265,46 @@ Common stem is **"vir"**, used in the front, back, and middle.
 | **-virine** | NNRTIs (non‑benzoxazinone) | rilpivirine |
 | **-viroc** | CCR5 receptor antagonists | maraviroc |
 | **-viroc / -criviroc** | CCR5 antagonists, immunomodulators | ancriviroc |
+
+---
+
+## ❤️ Cardiovascular System
+
+- **Hypotension**: Low blood pressure.
+  - **Vasopressors**: Increase blood pressure by vasoconstriction (e.g., norepinephrine).
+- **Hypertension (HTN)**: Chronically elevated blood pressure.
+  - **Vasodilators**: Relax and widen blood vessels (e.g., hydralazine).
+  - **ACE Inhibitors**: typically end in `-pril`; lower BP by relaxing vessels (e.g., lisinopril).
+  - **Beta Blockers**: typically end in `-lol`; Reduce heart rate and oxygen demand (e.g., metoprolol).
+  - **Calcium Channel Blockers**: typically end in `-pine`; Slow cardiac conduction and relax vessels (e.g., amlodipine).
+  - **Diuretics**: typically end in `-ide`Reduce blood volume to lower BP (e.g., furosemide).
+  - **Antihyperlipidemics**: typically end in `-statin`; Lower blood lipids and cholesterol (e.g., statins).
+  - **Antianginals**: Treat angina pectoris (chest pain due to ischemia).
+- **Arrhythmia**: Irregular heart rhythm.
+  - **Antiarrhythmics**: Medications that stabilize cardiac rhythm.
+- **Thrombus**: Stationary blood clot in a vessel.
+  - **Embolism**: Clot or other material that travels and obstructs blood flow.
+  - **Anticoagulants**: Prevent clot formation (e.g., warfarin).
+  - **Thrombolytics**: Dissolve existing blood clots (e.g., alteplase).
+
+## 🔁 Hormonal Regulation
+
+- **Corticosteroids**: Synthetic or natural hormones from adrenal cortex; suppress inflammation and immune response (e.g., prednisone).
+
+## 🍽️ Gastrointestinal (GI) System
+
+- **Antidiarrheals**: Slow intestinal motility or absorb excess fluid (e.g., loperamide).
+- **Antiemetics**: Suppress nausea and vomiting (e.g., ondansetron).
+- **Antacids**: Neutralize stomach acid (e.g., calcium carbonate).
+- **Proton Pump Inhibitors (PPIs)**: Suppress acid production (e.g., omeprazole).
+- **Stool Softeners**: Promote easier defecation by increasing water/fat in stool (e.g., docusate).
+
+## 🌬️ Respiratory System
+
+- **Antihistamines**: Reduce allergy symptoms by blocking histamine (e.g., diphenhydramine).
+- **Decongestants**: Shrink swollen (i.e. vasodilation) mucous membranes (e.g., pseudoephedrine).
+- **Antitussives**: Suppress coughing (e.g., dextromethorphan).
+- **Bronchodilators**: Relax bronchial muscles (i.e. bronchospasm) to improve airflow (e.g., albuterol).
 
 ---
 
