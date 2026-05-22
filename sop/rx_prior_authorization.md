@@ -85,18 +85,7 @@ Core competencies for staff involved in PA and reimbursement workflows include:
 - Initiate PA paperwork
 - Gather clinical and administrative data
 - Track requests and communicate with payers
-
-**Medication Assistance Coordinators** identify and enroll eligible patients in **manufacturer patient assistance programs (PAPs)**, copay support programs, **Medicare Part D**, Social Security disability, Medicaid, and low‑income subsidy programs.
-
-**Reimbursement Specialists**:
-
-- Perform benefits verification
-- Initiate and track PA and appeal paperwork
-- Gather clinical and administrative data
-- Communicate with payers and prepare draft appeal letters
-- Identify denial trends and coverage gaps
-- Educate clinical staff on payer policies and requirements
-- Help hold payers accountable to contractual obligations
+- Document all actions in the EMR for continuity of care  
 
 ### Practitioners Department
 
@@ -111,6 +100,35 @@ Core competencies for staff involved in PA and reimbursement workflows include:
 
 - Assist with clinical documentation (labs, vitals, progress notes)
 - Support appeals and ongoing monitoring in collaboration with pharmacy and prescribers
+
+**Medication Assistance Coordinators** coordinate benefits investigations with manufacturer hubs, identify eligible patients, and enroll patients in:
+
+- **Manufacturer Patient Assistance Programs (PAPs)**
+- **Manufacturer copay support programs (insured patients)**
+  - Tracking renewal deadlines for PAPs and copay programs
+- **Foundation grants** (when applicable)
+- **Medicare** enrollment support
+- **Medicaid and low‑income subsidy programs**
+- **State programs** (e.g. ADAP)
+- **Social Security disability–related benefits navigation**
+
+**Reimbursement Specialists**:
+
+- Perform **benefits verification** (medical & pharmacy benefit)
+- Initiate and track **PA, PreD, and appeal** paperwork
+- Gather clinical and administrative data from EMR and prescribers
+- Communicate with payers and prepare **draft appeal letters**
+- Identify **denial trends**, coverage gaps, and payer‑specific patterns
+- Educate clinical staff on payer policies, documentation requirements, and coding expectations
+- Attend quarterly meetings for:
+  - Policy updates
+  - Escalation of systemic issues
+  - Relationship‑building with case managers at **Third‑Party Administrators (TPAs)**  
+  - Collaboration with **pharmaceutical reimbursement account representatives**
+- Hold payers accountable to contractual obligations by:
+  - Requesting supervisor review
+  - Escalating incorrect denials
+  - Requesting reconsideration when payer actions conflict with policy
 
 ---
 
