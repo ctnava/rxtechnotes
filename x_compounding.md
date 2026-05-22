@@ -1,7 +1,5 @@
 # Compounding
 
-**Extemporaneous Compounding** is the on-demand formulation of a prescribed drug preparation to meet the unique needs of an individual patient.
-
 ## 📚 United States Pharmacopeia–National Formulary (USP–NF)
 
 The **USP–NF** is an official compendium of drug standards used in the United States. It is published by the **United States Pharmacopeial Convention (USP)** and recognized by the U.S. **Food and Drug Administration (FDA)** as an enforceable standard under the **Federal Food, Drug, and Cosmetic Act**.
@@ -41,3 +39,7 @@ All prescription and OTC medications sold in the U.S. must comply with applicabl
 [🔗 Official USP Compounding Compendium](https://www.usp.org/products/usp-compounding-compendium)
 
 > 🧠 **Quick Fact**: The USP–NF is updated annually, with two supplemental updates each year to reflect evolving scientific standards.
+
+## Extemporaneous Compounding
+
+**Extemporaneous Compounding** is the on-demand formulation of a prescribed drug preparation to meet the unique needs of an individual patient.
