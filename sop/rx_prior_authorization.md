@@ -14,8 +14,9 @@ This process helps control healthcare costs. **Pharmacy technicians** support th
 
 - **New medication added to treatment plan**, including:
   - **Non‑formulary drugs**
-  - **High‑cost or specialty medications**  
-    - *Most specialty medications require PA*
+  - **High‑cost (> $50k/year) or specialty medications**  
+    - *Most specialty medications require PA with as much depth as off-label use*
+    - Some approvals require enrollment in manufacturer program benegits investigation programs
   - **Step‑therapy requirements**
   - **Medications with safety or monitoring requirements** (e.g., biologics, controlled substances)
   - **Off‑label use** (PreD Required Depending on Payer)
@@ -53,13 +54,23 @@ Pharmacy technicians use these portals to:
 
 ## Personnel
 
-`Large hospitals & clinics may require a dedicated PA team`
+`Clinics may require a dedicated PA team, Large Hospitals may require multiple; one per therapeutic area`
 
 ### Pharmacy Department
 
 **Pharmacists** handle clinical review, appeals, and peer‑to‑peer discussions when required.
 
+#### Pharmacy Technicians
+
 **Pharmacy Technicians** initiate paperwork, gather clinical and administrative data, track requests, and communicate with payers.
+
+**Reimbursement Specialists** perform benefits verification, initiate paperwork, gather clinical and administrative data, track requests, communicate with payers, and preparing appeal letters.
+
+**Medication Assistance Coordinators** seek direct patient assistance from pharmaceutical manufacturers.
+
+### Financial Department
+
+**Social Workers** assist patients with enrollment in public health insurance and programs.
 
 ### Practitioners Department
 
