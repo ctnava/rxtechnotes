@@ -103,7 +103,7 @@ Core competencies for staff involved in PA and reimbursement workflows include:
 
 **Medication Assistance Coordinators** coordinate benefits investigations with manufacturer hubs, identify eligible patients, and enroll patients in:
 
-- **Manufacturer Patient Assistance Programs (PAPs)**
+- **Manufacturer Patient Assistance Programs (PAPs; uninsured patients)**
 - **Manufacturer copay support programs (insured patients)**
   - Tracking renewal deadlines for PAPs and copay programs
 - **Foundation grants** (when applicable)
