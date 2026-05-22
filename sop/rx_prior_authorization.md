@@ -80,7 +80,7 @@ These plans typically include **private prescription drug coverage** under the p
 
 Public insurance programs may have **different PA rules**, stricter coverage criteria, and limited flexibility for off-label use compared to commercial plans.
 
-#### Federal Poverty Level (FPL)
+##### Federal Poverty Level (FPL)
 
 The **Federal Poverty Level (FPL)** is an income threshold published annually by the **U.S. Department of Health & Human Services (HHS)**. It is used to determine eligibility for a wide range of benefits and assistance programs, including:
 
