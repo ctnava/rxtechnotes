@@ -38,50 +38,69 @@ Neither of these processes guarantee coverage or reimbursement. If requested, an
 
 Pharmacy technicians may assist the pharmacist with the following PA tasks:
 
-1. **Identify the rejection**
-   - Look for `reject code 75` or `PA Required` messages.
-   - Verify that the patient has no alternative coverage.
-2. **Notify the pharmacist**
-   - Pharmacist must confirm if a PA is appropriate or if a formulary alternative is preferred.
-3. **Determine Elegibility**
-   - Review payer-specific documents such as:
-     - clinical policies (bulletins & newsletters)
-       - including what the payer views as medically necessary vs experimental; government payers will not cover off-label treatment
-     - review requirements:
-       - formulary listings
-       - PA requirements
-4. **Collect Documentation**
-   - Gather relevant prescription data, insurance info, and rejection messages.
-   - Create a **clinical packet** for consideration by a clinical reviewer at the insurance company:
-     - medical records:
-       - diagnostics codes (ICD-10) & treatment codes (CPT)
-       - labs scans
-       - past therapies & progress notes
-       - letters of medical necessity
-       - treatment plan
-     - literature (e.g. compendia listings)
-     - prior (expired) approval letters
-5. **Submit PA request**
-   - May use electronic PA (ePA) tools, insurer web portals, or fax forms (under pharmacist supervision).
-   - Add a copy of the PA request to the patient's EHR
-   - Track submission and document status in the patient's profile so that it is visible to all participating caregivers (prescriber, pharmacist, nurse, and people working on the claim)
-6. **Inform the patient**
-   - Set clear expectations: PA approval typically takes **1–3 business days**.
-   - Encourage follow-up with the prescriber for urgent requests.
-   - 🛡️ Always inform the pharmacist immediately if the medication is urgently needed or if the patient is in distress.
-7. **Resolving Denials**
-   - The **pharmacist** may:
-     - Notify the prescriber to review insurer notes and appeal if appropriate.
-     - File an appeal or exception request, often requiring updated clinical documentation.
-   - The **technician** may:
-     - Assist in identifying the reason for denial.
-     - Recheck documentation and ensure nothing was missed.
-     - Track appeal submissions and timelines, but pharmacists handle clinical portions.
-     - 🛡️ Appeals are time-sensitive. Always escalate denials immediately to the pharmacist or billing specialist.
+### 1. **Identify the rejection**
+
+- Look for `reject code 75` or `PA Required` messages.
+- Verify that the patient has no alternative coverage.
+
+### 2. **Notify the pharmacist**
+
+- Pharmacist must confirm if a PA is appropriate or if a formulary alternative is preferred.
+
+> 🛡️ Always inform the pharmacist immediately if the medication is urgently needed or if the patient is in distress.
+> 🚨 PAs are **not required for emergency/life-threatening prescriptions** under federal rules, but this must be determined by the pharmacist.
+
+### 3. **Determine Elegibility**
+
+Review payer-specific documents such as:
+
+- clinical policies (bulletins & newsletters)
+  - including what the payer views as medically necessary vs experimental; government payers will not cover off-label treatment
+- review requirements:
+  - formulary listings
+  - PA requirements
+
+### 4. **Collect Documentation**
+
+Gather relevant prescription data, insurance info, and rejection messages.
+
+Create a **clinical packet** for consideration by a clinical reviewer at the insurance company:
+
+- medical records:
+  - diagnostics codes (ICD-10) & treatment codes (CPT)
+  - labs scans
+  - past therapies & progress notes
+  - letters of medical necessity
+  - treatment plan
+- literature (e.g. compendia listings)
+- prior (expired) approval letters
+
+### 5. **Submit PA request**
+
+- May use electronic PA (ePA) tools, insurer web portals, or fax forms (under pharmacist supervision).
+- Add a copy of the PA request to the patient's EHR
+- Track submission and document status in the patient's profile so that it is visible to all participating caregivers (prescriber, pharmacist, nurse, and people working on the claim)
+
+### 6. **Inform the patient**
+
+- Set clear expectations: PA approval typically takes **1–3 business days**.
+- Encourage follow-up with the prescriber for urgent requests.
+
+### 7. **Resolving Denials**
+
+The **pharmacist** may:
+
+- Notify the prescriber to review insurer notes and appeal if appropriate.
+- File an appeal or exception request, often requiring updated clinical documentation.
+
+The **technician** may:
+
+- Assist in identifying the reason for denial.
+- Recheck documentation and ensure nothing was missed.
+- Track appeal submissions and timelines, but pharmacists handle clinical portions.
+- 🛡️ Appeals are time-sensitive. Always escalate denials immediately to the pharmacist or billing specialist.
 
 > 🛡️ Note date/time of PA submission, patient notification, and any escalation.
-> .
-> 🚨 PAs are **not required for emergency/life-threatening prescriptions** under federal rules, but this must be determined by the pharmacist.
 
 ## 📲 PBM Portals
 
