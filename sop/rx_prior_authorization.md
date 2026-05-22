@@ -23,6 +23,7 @@ This process is intended to control healthcare costs. Qualified pharmacy staff c
   - **High-cost or specialty medications**
   - **Drugs with step therapy requirements**
   - **Medications flagged for safety concerns** (e.g., opioids, biologics)
+  - **Off-Label Use** (PreD Required)
 - **Dose changes >11%**
 - **Patient has new insurance**
 - **Trying to fill brand-name drugs** when generics are available
@@ -47,7 +48,7 @@ Pharmacy technicians commonly access PBM portals to:
 - View or download PA forms and status updates
 - Troubleshoot error messages or incomplete PA submissions
 
-> 📌 Portals may vary by PBM. Examples include CoverMyMeds, SureScripts, OptumRx, Express Scripts, CVS Caremark, and Medi-Cal Rx.
+> 📌 Portals may vary by PBM. Examples include CoverMyMeds, SureScripts, OptumRx, Express Scripts, CVS Caremark, RxBenefits, and Medi-Cal Rx.
 
 ## 🧾 PA Workflow
 
