@@ -73,81 +73,90 @@ Pharmacy technicians use these portals to:
 
 ## 🧾 PA Workflow
 
-The prior authorization process must be closely monitored to ensure that patients receive necessary care and pharmacies receive proper reimbursement.
+The PA process must be monitored closely to ensure timely patient care and proper reimbursement.
 
-### 1. **Identify the rejection & notify the pharmacist**
+### 1. **Identify the Rejection & Notify the Pharmacist**
 
-- Look for `reject code 75` or `PA Required` messages.
-- Verify that the patient has no alternative coverage.
+- Look for **Reject Code 75**, **PA Required**, or similar messages.
+- Confirm no alternative coverage exists.
 
-Pharmacist must confirm if a PA is appropriate or if a formulary alternative is preferred.
+The pharmacist determines whether:
 
-> 🛡️ Always inform the pharmacist immediately if the medication is urgently needed or if the patient is in distress.
-> 🚨 PAs are **not required for emergency/life-threatening prescriptions** under federal rules, but this must be determined by the pharmacist.
+- A PA is appropriate, **or**
+- A formulary alternative should be used.
 
-### 2. **Determine Medication Elegibility with Payer**
+> 🛡️ Escalate immediately if the medication is urgent or the patient is distressed.  
+> 🚨 **Emergency/life‑saving medications may bypass PA** depending on state and federal rules, but this must be determined by the pharmacist. *Federal law does not universally exempt all emergency meds from PA; exceptions vary by payer and state.*
 
-`Technically the first step in the PA process`
+### 2. **Determine Medication Eligibility with the Payer**
 
-Review payer-specific documents such as:
+`This is technically the first step in the PA process.`
 
-- clinical policies (bulletins & newsletters)
-  - including what the payer views as medically necessary vs experimental; government payers will not cover off-label treatment
-- formulary listings
-- PA guidelines & requirements
-- Contract Drugs Lists
+Review payer‑specific resources:
+
+- Clinical policies, bulletins, and newsletters  
+  - Includes definitions of **medically necessary** vs **experimental**; *government payers may cover off‑label use if supported by compendia (e.g., Medicare Part B)*
+- Formulary listings
+- PA guidelines & criteria
+- Contract drug lists (restricted distribution or specialty‑pharmacy‑only medications)
 
 ### 3. **Collect Documentation**
 
-Gather relevant prescription data, insurance info, and rejection messages.
+Gather all relevant information (e.g. prescription data, insurance info, and rejection messages).
 
-Create a **clinical packet** for consideration by a clinical reviewer at the insurance company:
+**Clinical Packet Contents**:
 
-- medical records:
-  - diagnostics codes (ICD-10) & treatment codes (CPT)
-  - labs scans
-  - past therapies & progress notes
-  - letters of medical necessity
-  - treatment plan
-- literature (e.g. compendia listings)
-- prior (expired) approval letters
+- Medical records:
+  - ICD‑10 diagnosis codes  
+  - CPT/HCPCS procedure or administration codes  
+    - *HCPCS codes are often required for specialty drugs*
+  - Lab results, imaging, and diagnostics
+  - Past therapies, treatment failures, and progress notes
+  - Letters of medical necessity
+  - Treatment plan
+- Compendia or literature supporting use
+- Previous approval letters (if applicable)
 
-### 4. **Submit PA request**
+### 4. **Submit the PA Request**
 
-- May use electronic PA (ePA) tools, insurer web portals, or fax forms (under pharmacist supervision).
-- Add a copy of the PA request to the patient's EHR so it is available if needed later in case of denial
-- Track submission and document status in the patient's profile so that it is visible to all participating caregivers (prescriber, pharmacist, nurse, and people working on the claim)
+- Submit via ePA tools, payer portals, or fax (under pharmacist supervision).
+- Upload a copy of the PA request to the EHR.
+- Document submission date/time and status in the patient profile so all care team members can view it.
 
-### 5. **Inform the patient**
+### 5. **Inform the Patient**
 
-- Set clear expectations: PA approval typically takes **1–3 business days**.
-- Encourage follow-up with the prescriber for urgent requests.
+- Set expectations: PA review typically takes **1–3 business days**, but may take longer for specialty medications.
+- Encourage the patient to follow up with the prescriber for urgent needs.
 
 ### 6. **Resolving Denials**
 
-The **pharmacist** may:
+`Always escalate denials immediately to the pharmacist or billing specialist.`
 
-- Notify the prescriber to review insurer notes and appeal if appropriate.
-- File an appeal or formulary exception request, often requiring updated clinical documentation.
+**Pharmacist Responsibilities**:
 
-The **technician** may:
+- Notify prescriber of denial reason.
+- Assist with appeals or formulary exception requests.
+- Provide clinical justification when needed.
 
-- Assist in identifying the reason for denial.
-- Recheck documentation and ensure nothing was missed.
-- Track appeal submissions and timelines, but pharmacists handle clinical portions.
-- 🛡️ Appeals are time-sensitive. Always escalate denials immediately to the pharmacist or billing specialist.
+**Technician Responsibilities**:
+
+- Identify the denial reason.
+- Verify documentation completeness.
+- Track appeal submissions and deadlines.
+- Escalate time‑sensitive issues immediately.
 
 #### Common Reasons for PA Denial
 
-Reason | Description | Resolution
-Lack of PA | PA was not submitted | Submit PA
-Medical Necessity not Established / Requires Additional Information | Insufficient Documentation | Review requirements & contact PBM for clarification before resubmission
-Experimental & Investigational | Therapy not proven effective | Review Payer Policy; Government Payers do not cover this at all
-Out-of-Network Provider | Provider not covered | establish justification (e.g. urgency) for override or choose other provider before resubmission
-Timed Out | Claim was not filed in timely manner; missed deadline for reconsideration | X
-Multiple Diagnoses | multiple codes for disease states & metastases | Resubmit with proper coding |
-Inappropriate Diagnoses | ICD code not within coverage requirements | Resubmit with proper coding. |
-Prescription Billing Error | Prescribed Treatment not within billable amount; Typically concerns number of units billed | represcribe correctly before restarting the process |
-Not Covered Service or Medication on Plan Benefit | occasionally misleading; some payers require specialty medications to be filled at a national pharmacy they are contracted with. Sometimes the first two fills may be filled at a participating retail facility but PA work must be handed over to national pharmacy. (These are called Contract Drugs) |  todo
+| Reason | Description | Resolution |
+| --- | --- | --- |
+| Lack of PA | PA not submitted | Submit PA |
+| Insufficient Documentation | Medical necessity not established | Review requirements; obtain missing info; resubmit |
+| Experimental / Investigational | Therapy not supported by payer policy | Review policy; consider alternative therapy |
+| Out‑of‑Network Provider | Provider not contracted | Provide justification (e.g. lack of nearby contractors) & resubmit or redirect to in‑network provider |
+| Timely Filing Exceeded | Submission deadline missed | May require new claim or new PA |
+| Multiple Diagnoses | Conflicting or excessive ICD‑10 codes | Correct coding and resubmit |
+| Incorrect Diagnosis | ICD‑10 not within PA requirements | Update diagnosis if clinically appropriate |
+| Billing Error | Units or directions not billable | Correct prescription and resubmit |
+| Not Covered / Contract Drug | Medication must be filled at payer‑designated specialty pharmacy | Transfer prescription and coordinate PA through contracted pharmacy |
 
-> 🛡️ Note date/time of PA submission, patient notification, and any escalation.
+> 🛡️ Always document submission date/time, patient notification, and any escalation to create a clear timeline of events.
