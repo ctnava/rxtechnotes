@@ -25,6 +25,7 @@ This process helps control healthcare costs. **Pharmacy technicians** support th
 - **New insurance plan**
 - **Brand‑name drug requested when generic is available**
 - **Expired PA** (typically renewed annually)
+  - *Hepatitis C Treatment* can require PA every 6 weeks with lab results
 
 > 🚨 PA rules are determined by **PBMs and insurers**, not by the pharmacy.
 
