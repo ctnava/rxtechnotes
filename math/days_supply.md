@@ -35,6 +35,7 @@ Calculations are relatively straightforward, except for when the stability of th
 | Inhalers (MDIs) | Grams | Labeled on canister (e.g., 8g) |
 | Nebulizer vials | mL | Box of 30; 1mL vials = 30 units |
 | Eye/Ear drops | mL | 5 mL bottle = 5 units |
+| Eye Ointments | g | 3.5 g tube = 3.5 units |
 | Injector pens | mL | 3 mL per pen = 15 mL for box of 5 |
 | Injections (vials) | mL | 1 mL vial = 1 billing unit |
 
@@ -241,6 +242,7 @@ ${\boxed{\Rightarrow \text{Days Supply} = \text{4 Days (Rounded Down)}}}$ -->
 - ointments = `ung`/ `oint`
 - gels = `gel`
 - lotions = `lot.` (uncommon)
+- Take As Directed (for lotions) = `UD` / `TUD`
 
 🔢 **Formula**:
 
@@ -321,7 +323,7 @@ ${\boxed{\Rightarrow \text{Days Supply} = \frac{100 \, \text{gtt}}{4 \, \text{gt
 
 ### 💨 Nebulized Solutions
 
-**Billable Quantity**: Volume (mL)  
+**Billable Quantity**: Volume (mL) of all vials combined
 **Clinical Quantity**: Based on **container**; **whole vials**
 
 🔠 **Abbreviations**:
