@@ -284,7 +284,7 @@ Medications administered at fixed intervals.
 
 Link to 🔗 [**Standard Operating Procedure**](./rx_intake.md)
 
-### SOP: Prior Authorizations & Patient Assistance
+### SOP: Prior Authorizations & Financial Assistance
 
 Link to 🔗 [**Standard Operating Procedure**](./rx_prior_authorization.md)
 

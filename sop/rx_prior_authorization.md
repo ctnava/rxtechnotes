@@ -636,4 +636,4 @@ Some PAPs provide a **Bridge Supply** (temporary) while the full application is 
 ## Navlinks
 
 - 🔙🔗 Back to [**Prescription Intake & Order Entry**](./rx_intake.md#-prior-authorization-pa)
-- 🔙🔗 Back to [**Prescription Processing Workflows**](./prescriptions.md#sop-prior-authorizations--patient-assistance)
+- 🔙🔗 Back to [**Prescription Processing Workflows**](./prescriptions.md#sop-prior-authorizations--financial-assistance)
