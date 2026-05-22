@@ -8,7 +8,9 @@
 
 ## Definitions
 
-A **Prior Authorization / Precert (PA)** is a formal approval process required by insurance companies or PBMs before they will pay for certain prescriptions. A PA TPR is triggered when the insurer needs clinical justification for covering a drug that falls outside standard coverage rules.
+A **Prior Authorization / Precert (PA)** is a processed used by payers, such as insurance companies or PBMs, to determine if they will cover the cost of a prescribed medication. A PA TPR is triggered when the insurer needs clinical justification for covering a drug that falls outside standard coverage rules.
+
+This process is intended to control healthcare costs. Qualified pharmacy staff contribute to the approval process by initiating paperwork, collecting data, tracking requests, and communicating with insurance companies.
 
 > 📌 Some prescription drugs can still be purchased without insurance if the patient pays out-of-pocket.
 
@@ -24,7 +26,7 @@ A **Prior Authorization / Precert (PA)** is a formal approval process required b
 
 A **Predermination (PreD)** is the process used with commercial payers to gain approval for off-label use prior to the patient receiving treatment.
 
-`Neither of these processes guarantee coverage or reimbursement.`
+Neither of these processes guarantee coverage or reimbursement. If requested, and not approved, the patient will not be reimbursed for the cost of the drug.
 
 ## 🧾 PA Workflow
 
