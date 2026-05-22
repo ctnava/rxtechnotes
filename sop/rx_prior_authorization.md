@@ -367,7 +367,7 @@ For example:
 
 To calculate a patient’s FPL percentage:
 
-${\text{FPL} \% = \frac{\text{Household Annual Income}}{\text{FPL Guideline for Household Size}} \times 100}$
+${\text{FPL \%} = \frac{\text{Household Annual Income}}{\text{FPL Guideline for Household Size}} \times 100}$
 
 Example:
 
@@ -414,7 +414,7 @@ Determine which type of assistance is appropriate based on:
   Within a foundation, **subcategories** (e.g., metastatic vs. non‑metastatic) may open or close independently.
   Subcategories often have separate funding pools.
 - **Eligibility is based on Federal Poverty Level (FPL)**  
-  Foundations typically require income below a specific FPL percentage (e.g., <300%, <500%).  
+  Common thresholds: <300%, <400%, <500%.
 
 ##### Pharmaceutical / Patient Assistance Programs (PAPs)
 
@@ -450,11 +450,12 @@ Patients present these cards at the pharmacy during adjudication.
 
 Co-pay cards & coupons are the most commonly used form of assistance; only applicable to **commercially-insured** patients.
 
-**Exception to Commercial Insurance Requirement**:  
+**Exception to Commercial Insurance Requirement**:
 
-- If the co‑pay card is for a **free trial supply**, it is billed **only to the card**, not to insurance.  
-- Limited to **new starts** with strict eligibility requirements.
-- Free trial cards bypass insurance.
+- Billed **only to the card**, not to insurance; bypassing requirements
+- May be used by **any patient**, regardless of insurance  
+- Typically limited to **new starts**  
+- Strict eligibility rules apply
 
 ##### Community Organizations
 
@@ -478,7 +479,12 @@ Examples include churches, local nonprofits, and provider‑affiliated charity p
 
 **Brand‑Name Programs**:
 
-Most brand‑name manufacturers offer patient assistance programs & Co-Pay Cards directly through their websites.
+On their websites, most brand‑name manufacturers offer:
+
+- PAPs  
+- Co‑pay cards  
+- Bridge programs  
+- Free trial offers  
 
 > Example: 🔗 [AZ&Me by AstraZeneca](https://www.azandmeapp.com/)  
 > This program requires prescriptions to be filled through their designated dispensing pharmacy.
