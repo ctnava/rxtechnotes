@@ -264,4 +264,4 @@ Gather all relevant information (e.g. prescription data, insurance info, and rej
 ## Navlinks
 
 - 🔙🔗 Back to [**Prescription Intake & Order Entry**](./rx_intake.md#-prior-authorization-pa)
-- 🔙🔗 Back to [**Prescription Processing Workflows**](./prescriptions.md#sop-prior-authorizations)
+- 🔙🔗 Back to [**Prescription Processing Workflows**](./prescriptions.md#sop-prior-authorizations--patient-assistance)
