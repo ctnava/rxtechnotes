@@ -98,31 +98,6 @@ income level rubric created annually by the Department of Health & Human Service
 
 View 🔗 [HHS Poverty Guidelines](https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines)
 
-##### Determining Poverty Level
-
-When a foundation states that eligibility requires **<500% FPL**, it means the patient’s **household income** must be **below 5× the poverty guideline** for their household size.
-
-For example:
-
-- **2026 FPL for a 3‑person household = $27,320**
-
-To calculate a patient’s FPL percentage:
-
-${\text{FPL} \% = \frac{\text{Household Annual Income}}{\text{FPL Guideline for Household Size}} \times 100}$
-
-Example:
-
-- Household income: **$60,000**
-- FPL guideline (3 people): **$27,320**
-
-${\frac{60,000}{27,320} \approx 219\% \text{ FPL}}$
-
-to determine percentage of poverty divide annual income divided by poverty guideline for household size
-
-Patients and staff can use online tools to simplify this process:
-
-🔗 **[NeedyMeds FPL Calculator](https://www.needymeds.org/federal-poverty-level-calculator)**
-
 ### Financial Assistance
 
 **Financial Assistance** is used when a patient’s out‑of‑pocket costs create financial hardship. Financial strain often leads to **non‑adherence**, such as skipping doses or splitting tablets to extend supply.
@@ -135,132 +110,6 @@ The main sources of financial assistance include:
 - **Community organizations** (churches, clinics, nonprofits)
 
 `All of these may involve an appeal process if the initial request is denied.`
-
-#### Foundation Grants
-
-**Foundations** are nonprofit organizations funded by pharmaceutical companies, philanthropists, and donors.
-
-**Grants** provide financial support for eligible patients based on disease‑specific criteria, income limits, guidelines for use, and fund availability.
-
-- 🔗 [Patient Access Network Foundation](https://www.panfoundation.org/)
-- 🔗 [Patient Advocate Foundation](https://www.patientadvocate.org/)
-- 🔗 [Good Days](https://mygooddays.org/)
-- 🔗 [HealthWell Foundation](https://www.healthwellfoundation.org/)
-
-##### Important Considerations for Foundation Grants
-
-- **Funds open and close unpredictably**  
-  Foundation funds open when new donations arrive and close once fully allocated.  
-
-- **Foundations are diagnosis‑specific**  
-  Each foundation supports specific disease states.  
-  Within a foundation, **subcategories** (e.g., metastatic vs. non‑metastatic) may open or close independently.
-  Subcategories often have separate funding pools.
-
-- **Grant duration is typically one year**  
-  Most grants are active for **12 months from the approval date**, not calendar year.
-
-- **Renewal requires a new application**  
-  After expiration, a **new application** must be submitted on the patient’s behalf.  
-  Some foundations allow early renewal if funds reopen.
-
-- **Patients may receive multiple grants**  
-  If funds are available and eligibility criteria are met, patients can hold **multiple grants** (e.g., medication + travel assistance).
-
-- **Eligibility is based on Federal Poverty Level (FPL)**  
-  Foundations typically require income below a specific FPL percentage (e.g., <300%, <500%).  
-
-- **Random audits may occur**  
-  Some foundations conduct **random audits** to verify income, diagnosis, and use of funds.  
-  Keep applications, income documents, and clinical notes on file for compliance.  
-
-#### Pharmaceutical / Patient Assistance Programs (PAPs)
-
-PAPs are programs offered by **drug manufacturers** to assist:
-
-- **Uninsured patients**
-- **Underinsured patients**, including those with Medicare or Medicaid (rules vary by manufacturer)
-
-PAPs may provide:
-
-- Free medication
-- Reduced‑cost medication
-
-##### Important Considerations for PAP Applications
-
-- **Approval is typically valid for the calendar year**  
-  Most PAP approvals expire on **12/31**, regardless of the approval date.  
-  A **renewal application** is required each year to maintain assistance.
-
-- **Appeals are allowed for income or clinical denials**  
-  If a patient is denied due to **income limits**, **non‑FDA‑approved indications**, or **missing documentation**, PAPs generally allow an **appeal** with:  
-  - Updated income documents  
-  - Additional clinical justification  
-  - Letters of medical necessity
-
-- **Some PAPs offer temporary bridge programs**  
-  If eligibility is still being determined, manufacturers may provide a **short-term supply** to prevent treatment interruption.  
-  - *common for specialty drugs*
-
-- **Eligibility criteria vary by manufacturer**  
-  PAPs may consider:  
-  - Household income (based on FPL)  
-  - Insurance type (uninsured vs underinsured)  
-  - Diagnosis and FDA indication  
-  - Residency or citizenship requirements
-
-- **Documentation must be retained for audits**  
-  Manufacturers may request verification of income, diagnosis, or insurance status.  
-  Keep copies of:  
-  - Application forms  
-  - Income documents  
-  - Prescriber statements  
-  - Approval letters  
-
-#### Co-Pay Cards & Coupons
-
-Co‑pay cards and coupons are the most commonly used form of assistance and apply **only to commercially insured patients**.
-
-They are typically provided by pharmaceutical companies for **brand‑name medications** and may be:
-
-- Given at the prescriber’s office
-- Downloaded online
-- Activated through manufacturer portals
-
-Patients present these cards at the pharmacy during adjudication.
-
-Co-pay cards & coupons are the most commonly used form of assistance; only applicable to **commercially-insured** patients.
-
-**Exception to Commercial Insurance Requirement**:  
-
-- If the co‑pay card is for a **free trial supply**, it is billed **only to the card**, not to insurance.  
-- Limited to **new starts** with strict eligibility requirements.
-- Free trial cards bypass insurance.
-
-#### Community Organizations
-
-Community organizations may raise funds to help patients with financial burdens. These are typically used when:
-
-- No foundation funds are available
-- The patient does not qualify for PAPs
-- The patient needs short‑term or emergency support
-
-Examples include churches, local nonprofits, and provider‑affiliated charity programs.
-
-#### Patient Assistance Guides
-
-| Resource | Description |
-| --- | --- |
-| [NeedyMeds](https://www.needymeds.org) | Database of 5,000+ PAPs, coupons, and assistance programs |
-| [Partnership for Prescription Assistance](https://www.pparx.org) | Connects patients to free or reduced‑cost medication programs |
-| [RxAssist](https://www.rxassist.org) | Search by drug name; lists PAP availability and eligibility |
-
-#### Brand‑Name Medication Programs
-
-Most brand‑name manufacturers offer patient assistance programs directly through their websites.
-
-> Example: 🔗 [AZ&Me by AstraZeneca](https://www.azandmeapp.com/)  
-> This program requires prescriptions to be filled through their designated dispensing pharmacy.
 
 ---
 
@@ -470,6 +319,171 @@ Gather all relevant information (e.g. prescription data, insurance info, and rej
 | Not Covered / Contract Drug | Medication must be filled at payer‑designated specialty pharmacy | Transfer prescription and coordinate PA through contracted pharmacy |
 
 > 🛡️ Always document submission date/time, patient notification, and any escalation to create a clear timeline of events.
+
+---
+
+## Financial Assistance Workflow
+
+### 1. Obtain Consent
+
+obtain consent from the patient to share information with manufacturers and assistance programs.
+
+### 2. Collect Documentation
+
+gather
+diagnosis
+household size
+household income (with proof such as tax return, pay stub, bank statement, Social Security award letter)
+whether or not the patient files federal tax returns
+
+#### Determining Poverty Level
+
+When a foundation states that eligibility requires **<500% FPL**, it means the patient’s **household income** must be **below 5× the poverty guideline** for their household size.
+
+For example:
+
+- **2026 FPL for a 3‑person household = $27,320**
+
+To calculate a patient’s FPL percentage:
+
+${\text{FPL} \% = \frac{\text{Household Annual Income}}{\text{FPL Guideline for Household Size}} \times 100}$
+
+Example:
+
+- Household income: **$60,000**
+- FPL guideline (3 people): **$27,320**
+
+${\frac{60,000}{27,320} \approx 219\% \text{ FPL}}$
+
+to determine percentage of poverty divide annual income divided by poverty guideline for household size
+
+Patients and staff can use online tools to simplify this process:
+
+🔗 **[NeedyMeds FPL Calculator](https://www.needymeds.org/federal-poverty-level-calculator)**
+
+### 3. Identify Method of Assistance & Locate Source
+
+identify method of assistance & source
+
+#### Sources
+
+##### Foundation Grants
+
+**Foundations** are nonprofit organizations funded by pharmaceutical companies, philanthropists, and donors.
+
+**Grants** provide financial support for eligible patients based on disease‑specific criteria, income limits, guidelines for use, and fund availability.
+
+- 🔗 [Patient Access Network Foundation](https://www.panfoundation.org/)
+- 🔗 [Patient Advocate Foundation](https://www.patientadvocate.org/)
+- 🔗 [Good Days](https://mygooddays.org/)
+- 🔗 [HealthWell Foundation](https://www.healthwellfoundation.org/)
+
+**Important Considerations for Foundation Grants**:
+
+- **Funds open and close unpredictably**  
+  Foundation funds open when new donations arrive and close once fully allocated.  
+- **Foundations are diagnosis‑specific**  
+  Each foundation supports specific disease states.  
+  Within a foundation, **subcategories** (e.g., metastatic vs. non‑metastatic) may open or close independently.
+  Subcategories often have separate funding pools.
+- **Grant duration is typically one year**  
+  Most grants are active for **12 months from the approval date**, not calendar year.
+- **Renewal requires a new application**  
+  After expiration, a **new application** must be submitted on the patient’s behalf.  
+  Some foundations allow early renewal if funds reopen.
+- **Patients may receive multiple grants**  
+  If funds are available and eligibility criteria are met, patients can hold **multiple grants** (e.g., medication + travel assistance).
+- **Eligibility is based on Federal Poverty Level (FPL)**  
+  Foundations typically require income below a specific FPL percentage (e.g., <300%, <500%).  
+- **Random audits may occur**  
+  Some foundations conduct **random audits** to verify income, diagnosis, and use of funds.  
+  Keep applications, income documents, and clinical notes on file for compliance.  
+
+##### Pharmaceutical / Patient Assistance Programs (PAPs)
+
+PAPs are programs offered by **drug manufacturers** to assist:
+
+- **Uninsured patients**
+- **Underinsured patients**, including those with Medicare or Medicaid (rules vary by manufacturer)
+
+PAPs may provide:
+
+- Free medication
+- Reduced‑cost medication
+
+**Important Considerations for PAP Applications**:
+
+- **Approval is typically valid for the calendar year**  
+  Most PAP approvals expire on **12/31**, regardless of the approval date.  
+  A **renewal application** is required each year to maintain assistance.
+- **Appeals are allowed for income or clinical denials**  
+  If a patient is denied due to **income limits**, **non‑FDA‑approved indications**, or **missing documentation**, PAPs generally allow an **appeal** with:  
+  - Updated income documents  
+  - Additional clinical justification  
+  - Letters of medical necessity
+- **Some PAPs offer temporary bridge programs**  
+  If eligibility is still being determined, manufacturers may provide a **short-term supply** to prevent treatment interruption.  
+  - *common for specialty drugs*
+- **Eligibility criteria vary by manufacturer**  
+  PAPs may consider:  
+  - Household income (based on FPL)  
+  - Insurance type (uninsured vs underinsured)  
+  - Diagnosis and FDA indication  
+  - Residency or citizenship requirements
+- **Documentation must be retained for audits**  
+  Manufacturers may request verification of income, diagnosis, or insurance status.  
+  Keep copies of:  
+  - Application forms  
+  - Income documents  
+  - Prescriber statements  
+  - Approval letters  
+
+##### Co-Pay Cards & Coupons
+
+Co‑pay cards and coupons are the most commonly used form of assistance and apply **only to commercially insured patients**.
+
+They are typically provided by pharmaceutical companies for **brand‑name medications** and may be:
+
+- Given at the prescriber’s office
+- Downloaded online
+- Activated through manufacturer portals
+
+Patients present these cards at the pharmacy during adjudication.
+
+Co-pay cards & coupons are the most commonly used form of assistance; only applicable to **commercially-insured** patients.
+
+**Exception to Commercial Insurance Requirement**:  
+
+- If the co‑pay card is for a **free trial supply**, it is billed **only to the card**, not to insurance.  
+- Limited to **new starts** with strict eligibility requirements.
+- Free trial cards bypass insurance.
+
+##### Community Organizations
+
+Community organizations may raise funds to help patients with financial burdens. These are typically used when:
+
+- No foundation funds are available
+- The patient does not qualify for PAPs
+- The patient needs short‑term or emergency support
+
+Examples include churches, local nonprofits, and provider‑affiliated charity programs.
+
+#### Directory
+
+**Patient Assistance Guides**:
+
+| Resource | Description |
+| --- | --- |
+| [NeedyMeds](https://www.needymeds.org) | Database of 5,000+ PAPs, coupons, and assistance programs |
+| [Partnership for Prescription Assistance](https://www.pparx.org) | Connects patients to free or reduced‑cost medication programs |
+| [RxAssist](https://www.rxassist.org) | Search by drug name; lists PAP availability and eligibility |
+
+**Brand‑Name Programs**:
+
+Most brand‑name manufacturers offer patient assistance programs & Co-Pay Cards directly through their websites.
+
+> Example: 🔗 [AZ&Me by AstraZeneca](https://www.azandmeapp.com/)  
+> This program requires prescriptions to be filled through their designated dispensing pharmacy.
 
 ---
 
