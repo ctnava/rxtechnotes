@@ -124,8 +124,6 @@
 
 - [x] Reading: Chapter 17 - Hospital Pharmacy (pp 559 - 570)
 - [x] Reading: Chapter 17 - Hospital Pharmacy (pp 570 - 596)
-  - [ ] agencies that regulate hospitals document
-  - [ ] review sections of EHRs
   - [ ] extemporaneous compounding info
 - [ ] CE: Safe Handling of Hazardous Drugs
 - [x] Math: Chapter 10 - Temperature Conversion & Specific Gravity
