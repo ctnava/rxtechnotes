@@ -206,6 +206,7 @@ Hospital Pharmacy Technicians are often cross-trained to work in different areas
   - Manages investigational inventory and QA procedures
   - Conducts sponsor audits, tracks billing, and maintains documentation
   - Assists with staff training on study protocols
+    - Investigational drugs **must be returned to sponsors**
 - 🔄 **Inpatient Transitions of Care Technician**
   - Conducts Medication Reconciliation during admissions, transfers, and discharges
   - Assists in DUR processes
