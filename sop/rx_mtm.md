@@ -136,23 +136,70 @@ Medication Therapy Management (MTM) services are often delivered through **onlin
 
 ### Pharmacists
 
+Pharmacists are responsible for **clinical MTM functions**, including:
+
+- Conducting **CMRs** and **TMRs**  
+- Identifying and resolving **medication‑related problems (MRPs)**  
+- Creating and updating **MAPs** and **PMRs**  
+- Performing **prescriber outreach** and documenting clinical interventions  
+- Providing **patient counseling**, DSM services, and education  
+- Ensuring **CMS‑compliant documentation** and billing  
+- Overseeing technician workflow related to MTM support tasks
+
 ### Technicians
 
-Technicians assist with **scheduling**, **data collection**, **documentation prep**, and assisting with insurance or billing tasks.
+Pharmacy technicians play a **supportive, non‑clinical role** in MTM programs.
 
-reconciliation, medication list maintenance, finding medication assistance programs
+They assist with workflow, documentation, and patient coordination, but **may not** perform clinical judgment tasks.
 
-gathering information for initial patient assessment including history, diagnosis, and discharge records from hospitals and patient records from PCP.
+#### 🗂️ Administrative & Workflow Support
 
-assist patients with making provider appointments
+- **Scheduling MTM appointments** (CMRs, TMR follow‑ups)
 
-if state permits, assist with med reconciliation by obtaining histories to be crosschecked or cross-checking medications before administration, during hospital stay, and after discharge
+- **Preparing documentation** for pharmacist review  
+  (e.g., pulling med lists, insurance info, lab data if available)
 
-assist patients with adherence aids such as pillboxes: teaching to use the box and assist in refilling and monitoring for patient adherence during followup visits
+- **Assisting with insurance or billing tasks**  
+  (e.g., verifying coverage, gathering info for CMS‑1500 submissions)
 
-MTM billing and managing coordinating paperwork needed for financial assistance.
+#### 📋 Medication History & Reconciliation Support
 
-> 🛡️🐻 **CA technicians may not** document clinical interventions.
+Technicians may assist with **data gathering**, but **not clinical reconciliation**.
+
+- Collecting **medication histories** from patients, caregivers, hospitals, or PCP offices  
+- Obtaining **discharge summaries**, **diagnosis lists**, or **recent medication changes**  
+- Compiling medication lists for pharmacist review
+
+#### 🧰 Adherence & Patient Support
+
+- Assisting patients with **adherence tools** (pillboxes, calendars, reminders)  
+- Teaching patients **how to use** adherence aids  
+- Monitoring adherence patterns during follow‑up calls and reporting to the pharmacist
+
+#### 🧭 Care Coordination
+
+- Helping patients **schedule provider appointments**  
+- Facilitating communication between the pharmacy and external providers  
+- Assisting with **medication assistance program (MAP)** paperwork
+
+#### 🧾 MTM Program Support
+
+- Managing **MTM billing paperwork** and supporting documentation  
+- Uploading or organizing documents required by MTM platforms  
+- Tracking **intervention deadlines** assigned by MTM platforms
+
+### 🛑 Scope Limitations (Critical)
+
+🛡️🐻 **California technicians may NOT document clinical interventions.**
+
+Technicians (in any state) may NOT:  
+
+- Conduct CMRs or TMRs  
+- Interpret lab values  
+- Make therapy recommendations  
+- Modify medication regimens  
+- Provide clinical counseling  
+- Complete MAPs or PMRs  
 
 ---
 
