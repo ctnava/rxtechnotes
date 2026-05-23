@@ -43,3 +43,34 @@ All prescription and OTC medications sold in the U.S. must comply with applicabl
 ## Extemporaneous Compounding
 
 **Extemporaneous Compounding** is the on-demand formulation of a prescribed drug preparation to meet the unique needs of an individual patient.
+
+Technicians follow a recipe
+all ingredients & supplies must be collected and brought to the compounding area
+
+pharmacy technicians must wash their hands and clean the surface
+
+once compounded, a record of preparation and ingrediants is recorded in the BULK COMPOUNDING LOG:
+
+- includes list of ingredients
+- amounts used
+- manufacturer
+- lot numbers
+- expiration dates
+- of EACH specific ingredient
+
+the newly compounded bulk bottle needs to be labeled with compounded drug name, concentration, lot number (per hospital), expiration date
+initials of pharmacist after they check the preparation
+
+recipes usually stored in binder or computer
+directions must be followed exactly
+
+equipment:
+
+- mortar and pestles
+- calibrated measureing devices
+
+ingredients:
+
+- sterile water
+- simple syrup
+- glycerine

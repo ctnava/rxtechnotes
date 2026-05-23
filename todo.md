@@ -124,7 +124,6 @@
 
 - [x] Reading: Chapter 17 - Hospital Pharmacy (pp 559 - 570)
 - [x] Reading: Chapter 17 - Hospital Pharmacy (pp 570 - 596)
-  - [ ] extemporaneous compounding info
 - [ ] CE: Safe Handling of Hazardous Drugs
 - [x] Math: Chapter 10 - Temperature Conversion & Specific Gravity
 - [x] Math: Chapter 28 - Body Surface Area
