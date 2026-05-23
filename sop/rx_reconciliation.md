@@ -116,10 +116,76 @@ flowchart TD
     G --> I
 ```
 
-### 1. Verify Medication History
+---
 
-Obtain an Accurate List of Current Medications
+## Developing Medication Histories
 
-### 2. Comparison with Newly Ordered Medication
+Starts with a direct patient interview
 
-Pharmacist looks for discrepancies or potential problems
+### Medication History Tips
+
+- Ask open ended questions that can't be answered with yes or no.
+- Prompt the patient or caregiver beyond typical medications.
+- Document in a clear & concise manner.
+
+### 2. Introductions
+
+The technician should begin the interview with an introduction
+
+confirm patient identification by asking for name & date of birth
+
+explain what you're doing and why
+
+determine if the patient has any medication, food, and/or environmental allergies/ intolerances (and reactions)
+
+determine how many pharmacies (including mail-order) and providers the patient use then identify them.
+
+### 3. Determine Medications
+
+Review and individually verify each medication (OTC & Rx) with patient or caregiver. The technician must obtain the following information for every drug the patient takes:
+
+- Name (abbreviations & formulations)
+  - Patient may know brand or generic name
+- Dosage Form
+- Dose & Strength
+  - To determine amount of active ingredient
+- Frequency
+  - Directions for Use
+- Duration
+  - How long the patient has taken the medication
+- Route of administration
+- Reason for taking the medicaiton
+
+> Any information the patient provides may be completely wrong.
+
+Gather the same information about herbal medications or supplements.
+
+"what do you take for pain"
+what medications do you only take sometimes or as needed
+what do you take that you buy off the shelf
+what do you take if you have allergies
+
+### 4. Determine Compliance & Identify Possible Issues
+
+Clarify how the patient is actually taking the medication.
+
+- "in the last week, how many doses did you miss?"
+- "when was the last time you took your blood pressure medicine"
+
+Determine if the patient is having any problems with their medications.
+
+If the patient is noncompliant with medication, ask why.
+
+- "What do you not like about your medications? Cost? Side effects?"
+
+### 5. Educate the Patient on the Importance
+
+Educate the patient and/ or caregiver about the importance of carrying accurate and up-to-date medication information with them.
+Many providers are not aware of medication prescribed by other clinicians and OTCs the patient chooses.
+An accurate list could decrease the chance of medication error.
+recommend updating the list after every provider visit and hospital discharge
+list should be shown at every office visit, trip to the pharmacy, or admission to care facilities to prevent errors.
+
+### 6. Cross-Examination
+
+Call all pharmacies to cross-reference prescription medications & document discrepancies
