@@ -107,7 +107,7 @@ Topics often include:
 - CA pharmacists frequently perform CMRs/TMRs for **health plan quality measures** (e.g., CMS Star Ratings).  
 - 🐻 MTM services must comply with **California Confidentiality of Medical Information Act (CMIA)** and **HIPAA** privacy standards. Document storage and communication platforms must meet both state and federal privacy standards.
 
-### 🩺 Disease State Management (DSM)
+#### 🩺 Disease State Management (DSM)
 
 Pharmacists provide **Disease State Management** services to help patients with chronic conditions understand and manage their illnesses. Common conditions include:
 
@@ -122,7 +122,47 @@ DSM programs often involve patient counseling, medication adherence support, lif
 
 > 🛡️ HIPAA Requires all patient health information (PHI) obtained during Counseling, DSM, MTM services to be kept strictly confidential.
 
-### CMS-1500
+---
+
+## Personnel
+
+### Pharmacists
+
+### Technicians
+
+Technicians assist with **scheduling**, **data collection**, **documentation prep**, and assisting with insurance or billing tasks.
+
+reconciliation, medication list maintenance, finding medication assistance programs
+
+gathering information for initial patient assessment including history, diagnosis, and discharge records from hospitals and patient records from PCP.
+
+assist patients with making provider appointments
+
+if state permits, assist with med reconciliation by obtaining histories to be crosschecked or cross-checking medications before administration, during hospital stay, and after discharge
+
+assist patients with adherence aids such as pillboxes: teaching to use the box and assist in refilling and monitoring for patient adherence during followup visits
+
+MTM billing and managing coordinating paperwork needed for financial assistance.
+
+> 🛡️🐻 **CA technicians may not** document clinical interventions.
+
+---
+
+## Pharmacist Workflow
+
+### 🌐 Major MTM Platforms
+
+Medication Therapy Management (MTM) services are often delivered through **online MTM platforms** that connect pharmacies, prescribers, and health plans. These systems allow technicians and pharmacists to document interventions, complete reviews, and bill for eligible services.
+
+- **OutcomesMTM (Outcomes®)** — One of the largest MTM networks; integrates with many pharmacy systems.
+- **RxTherapyManagement** — Focuses on clinical documentation, adherence outreach, and payer‑driven MTM programs.
+- **Mirixa** — A long‑standing MTM platform used by many retail chains; supports CMRs, TMRs, and prescriber outreach.
+
+## Billing Workflow
+
+payers include Part D PDPs, medicare advantage PDPs, employer groups, state medicaid, other state programs, the patients themselves
+
+most 3rd party billing for pharmacists clinical services must be done through registered pharmacy or providers office such as a physician
 
 The **CMS‑1500** is the **standard federal claim form** used to bill **professional services**, including MTM, to Medicare Part B, Medicaid, and commercial insurers.
 
@@ -155,7 +195,7 @@ Supporting documents required by PDPs:
 
 > 🐻 Medi-Cal does **not reimburse** for MTM using CPT codes 99605–99607. MTM is typically embedded within comprehensive care management services delivered in clinical settings.
 
-#### 📄 Universal Claim Form (UCF)
+### 📄 Universal Claim Form (UCF)
 
 The **Universal Claim Form (UCF)** is a standardized **paper claim form** created by **NCPDP** for use when **electronic adjudication is unavailable** or fails.
 
@@ -166,7 +206,7 @@ Used for:
 - Disaster overrides  
 - Plans requiring manual review
 
-##### UCF Rejections
+#### UCF Rejections
 
 UCFs must be completed **accurately and legibly**. Incomplete or illegible forms will result in **claim rejections or delays**.
 
@@ -174,33 +214,9 @@ Many payers require original signatures or supporting documents as well as the *
 
 Rejections often do not appear for several weeks and are accompanied by justification + steps for resolution
 
-##### 🐻 California-Specific UCF Notes
+#### 🐻 California-Specific UCF Notes
 
 - **Medi-Cal** does **not accept handwritten UCFs**. Claims must be typed or submitted electronically unless an exception is granted.
 - For **Medi-Cal Rx**, electronic claim submission through the **Magellan portal** is required for standard prescriptions. UCFs may be used in rare override or disaster scenarios.
 - Medical billing through **Medi-Cal FFS** requires coordination with the **Local Education Agency (LEA)** or **county health department** for covered services.
 - Pharmacies must retain **UCF copies and supporting documentation for 3 years**, per audit standards.
-
----
-
-## Personnel
-
-### Pharmacists
-
-### Technicians
-
-Technicians assist with **scheduling**, **data collection**, **documentation prep**, and assisting with insurance or billing tasks.
-
-> 🛡️🐻 **CA technicians may not** document clinical interventions.
-
----
-
-## Workflow
-
-### 🌐 Major MTM Platforms
-
-Medication Therapy Management (MTM) services are often delivered through **online MTM platforms** that connect pharmacies, prescribers, and health plans. These systems allow technicians and pharmacists to document interventions, complete reviews, and bill for eligible services.
-
-- **OutcomesMTM (Outcomes®)** — One of the largest MTM networks; integrates with many pharmacy systems.
-- **RxTherapyManagement** — Focuses on clinical documentation, adherence outreach, and payer‑driven MTM programs.
-- **Mirixa** — A long‑standing MTM platform used by many retail chains; supports CMRs, TMRs, and prescriber outreach.
