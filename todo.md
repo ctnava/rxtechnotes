@@ -117,7 +117,7 @@
 
 - [x] DenaliRx Drugs 141-160
 - [ ] Reading: Chapter 9 - Nonsterile Compounding
-- [ ] CE: Medication Therapy Management (QUICK)
+- [x] CE: Medication Therapy Management
 - [x] CE: PAPs
 
 ## Week 12: Hospital Pharmacy
