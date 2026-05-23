@@ -232,8 +232,6 @@ ${\boxed{\Rightarrow \text{Days Supply} = \text{4 Days (Rounded Down)}}}$ -->
 
 ## 📘 Topical Creams, Ointments, Gels, & Lotions
 
-`Typical use is 1 gram PER day.`
-
 **Billable Units**: Mass (g); for Lotions - Volume (mL)
 
 🔠 **Abbreviations**:
@@ -249,10 +247,10 @@ ${\boxed{\Rightarrow \text{Days Supply} = \text{4 Days (Rounded Down)}}}$ -->
 ![top form](./img/days_supply/top_form.PNG)
 <!-- ${\boxed{\text{Grams Per Diem} = {\text{Grams per Application} \times \text{Applications Per Diem}}}}$
 
-${\boxed{\text{Days Supply} = \frac{\text{Grams Dispensed}}{{\text{Grams per Application} \times \text{Applications Per Diem}}}}}$
+${\boxed{\text{Days Supply} = \frac{\text{Grams Dispensed}}{{\text{Grams per Application} \times \text{Applications Per Diem}}}}}$   -->
 
 >- 📌 Estimate **1 gram/ 1mL per application**, unless prescriber or labeling indicates otherwise  
->- 📌 1 gram typically covers a **10 cm × 10 cm** area of skin   -->
+>- 📌 1 gram typically covers a **10 cm × 10 cm** area of skin
 
 🧴 **Example**:
 
@@ -333,9 +331,29 @@ ${\boxed{\Rightarrow \text{Days Supply} = \frac{100 \, \text{gtt}}{4 \, \text{gt
 
 🔢 **Formula**:
 
-> 📌 Days Supply is usually 7-10 Days
+![top form](./img/days_supply/top_form.PNG)
 
-📘 **Example**
+<!-- ${\boxed{\text{Grams Per Diem} = {\text{Grams per Application} \times \text{Applications Per Diem}}}}$
+
+${\boxed{\text{Days Supply} = \frac{\text{Grams Dispensed}}{{\text{Grams per Application} \times \text{Applications Per Diem}}}}}$ -->
+
+📘 **Example**:
+
+**Sig**: `TUD F7D 3.5g`
+
+==> `Use as Directed for 7 Days #3.5g tube`
+
+![eye ung example](./img/days_supply/eye_ung.PNG)
+
+<!-- ${\boxed{\text{Grams Dispensed} = 3.5 \, \text{g}}}$
+
+${\boxed{\text{Grams per Application} = \text{Negligible Mass}}}$
+
+${\boxed{\text{Applications per Diem} = 1 \, \text{times/day}}}$
+
+${\boxed{\Rightarrow \text{Days Supply} = 7 \, \text{days (As Directed)}}}$ -->
+
+> 📌 Days Supply is usually 7-10 Days
 
 ---
 
