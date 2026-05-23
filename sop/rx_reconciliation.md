@@ -368,3 +368,7 @@ The provider will:
 - Make clinical decisions based on the reconciliation report  
 
 ---
+
+## Navlinks
+
+- 🔙🔗 Back to [**Core Pharmacy Workflows & Standard Operating Procedures (SOP)**](../core_operations.md#-customer-service)
