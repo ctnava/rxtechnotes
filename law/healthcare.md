@@ -84,8 +84,6 @@ It also requires pharmacists to provide **Medication Therapy Management (MTM)** 
 - **Documentation and billing** according to federal MTM program standards  
 - **Coordinating** care with prescribers
 
-> 📌 MTM is commonly delivered through [OutcomesMTM](https://www.outcomesmtm.com).
-
 Technicians assist by preparing medication histories, documentation, and assisting with insurance or billing tasks.
 
 > 🛡️ HIPAA Requires all patient health information (PHI) obtained during Counseling, DSM, MTM services to be kept strictly confidential.
