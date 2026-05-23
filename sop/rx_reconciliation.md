@@ -49,13 +49,103 @@ This goal applies to:
 - Intravaneous Solutions (plain, with electrolytes and/ or drugs)
 - any product designated by the FDA as a drug
 
-### For the Purpose of Reconciliation
+### Definition of Medication For the Purpose of Reconciliation
 
 **Medications**, for the purpose of reconciliation, include:
 
 - Prescriptions, over-the counter drugs, herbal & dietary supplements
 - Substances that may have an impact on the patient's care & treatments
 - Substances that may interact with other therapies potentially used during the medical care episode
+
+### Non-Compliance
+
+**Non‑Compliance** occurs when a patient does not take their medication as instructed.  
+
+It is one of the most common causes of medication history discrepancies and can significantly impact MTM outcomes, safety, and therapeutic effectiveness.
+
+Non‑compliance may be **unintentional** or **intentional**, and identifying the underlying cause is essential for accurate reconciliation and patient safety.
+
+#### Causes of Non‑Compliance
+
+##### 1. Unintentional Non‑Compliance
+
+Patients may be confused or misinformed for several reasons:
+
+- Lack of understanding about **why** the medication is needed  
+- Misunderstanding or forgetting **directions for use**  
+- Not recognizing **intended or unintended effects**  
+- Difficulty understanding **healthcare terminology**  
+- Physical limitations (vision impairment, dexterity issues, cognitive decline)  
+- Financial barriers (cannot afford refills, transportation issues)  
+- Complex regimens that are difficult to manage  
+
+Unintentional non‑compliance is often rooted in **low health literacy**, cognitive challenges, or system‑level barriers.
+
+##### 2. Intentional Non‑Compliance
+
+Patients may choose not to adhere because they:
+
+- Disagree with the provider’s assessment of acceptable risk  
+- Experience side effects they find intolerable  
+- Believe the medication is unnecessary  
+- Prefer alternative therapies  
+- Fear dependency or long‑term effects  
+- Want to “stretch” medication by skipping doses  
+
+Intentional non‑compliance is still a **clinical issue**, not a moral failing.  
+Understanding the patient’s reasoning is essential for safe care.
+
+#### Health Literacy and Its Impact
+
+**Health literacy** is the degree to which individuals can obtain, process, and understand health information needed to make appropriate decisions.
+
+Low health literacy is an **independent risk factor** for:
+
+- Increased mortality  
+- Lower satisfaction with care  
+- Lower quality of care  
+- Worse patient safety outcomes  
+- Higher healthcare costs  
+
+Patients with low literacy may struggle to:
+
+- Understand instructions  
+- Interpret drug warning labels  
+- Follow complex regimens  
+- Navigate refills, prior authorizations, or pharmacy processes  
+
+Most patients will **not disclose** that they do not understand their medications.
+
+**Red Flags for Low Literacy or Non‑Compliance**:
+
+- Does not know the names or purposes of medications  
+- Passive communication style; rarely asks questions  
+- Difficulty completing forms  
+- Trouble navigating diagnostic tests, procedures, or refills  
+- Inconsistent or vague descriptions of medication use  
+- Brings in disorganized or outdated medication bottles  
+- Reports “I take the white pill” or “the little round one” without details  
+
+Because low literacy cannot always be identified, staff should use **universal precautions**:
+
+- Communicate clearly and simply  
+- Avoid jargon  
+- Use teach‑back (“Can you show me how you take this?”)  
+- Provide written materials in plain language  
+
+#### Identifying Non‑Compliance
+
+The first step in addressing non‑compliance is **recognizing it**.
+
+Indicators include:
+
+- Missed refills or delayed refill patterns  
+- Patient reports skipping doses or altering schedules  
+- Medication bottles with inconsistent pill counts  
+- Conflicting information between patient, caregiver, and pharmacy records  
+- Patient expresses confusion, frustration, or fear about medications  
+
+Once identified, the technician should document concerns and escalate to the pharmacist for clinical review.
 
 ---
 
