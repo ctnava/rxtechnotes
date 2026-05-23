@@ -77,13 +77,13 @@
 - [x] [Syringes Video](https://www.youtube.com/watch?v=b4Y2qE4ZgvE)
 - [x] IV Solutions
 
-## Week 7: Inventory & Medication Histories
+## [DONE] Week 7: Inventory & Medication Histories
 
 - [x] DenaliRx Drugs 81-100
 - [x] Kirby Lester Counting Machine Video
 - [x] CVS Insurance Training Packet (unnecessary)
 - [x] Reading: Chapter 14 - Inventory
-- [ ] CE: Medication Reconciliation (QUICK)
+- [x] CE: Medication Reconciliation (QUICK)
 - [x] Math: Chapter 24 - Powder Drugs
 - [x] Drug Regulation & Control Video
 - [x] Medical Symbols
