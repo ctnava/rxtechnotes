@@ -188,7 +188,7 @@ Technicians may assist with **data gathering**, but **not clinical reconciliatio
 - Uploading or organizing documents required by MTM platforms  
 - Tracking **intervention deadlines** assigned by MTM platforms
 
-### 🛑 Scope Limitations (Critical)
+#### 🛑 Scope Limitations (Critical)
 
 🛡️🐻 **California technicians may NOT document clinical interventions.**
 
