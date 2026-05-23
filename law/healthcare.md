@@ -76,12 +76,13 @@ The MMA established Medicare Part D, an optional drug benefit program. It sets g
 
 It also requires pharmacists to provide **Medication Therapy Management (MTM)** services to optimize therapeutic outcomes while minimizing adverse events. MTM is usually targeted toward patients taking multiple chronic medications, especially those with multiple conditions or high drug costs. These include:
 
-- **Comprehensive medication reviews (CMRs)**: Reviewing all medications a patient is taking
-- Identifying duplications or interactions
-- Providing personalized medication action plans
-- Optimizing therapeutic outcomes
-- Monitoring side effects and adherence
-- Coordinating care with prescribers
+- **Comprehensive medication reviews (CMRs)**: Reviewing all medications a patient is taking; including prescriptions, OTCs, supplements, and herbals.
+- Identifying **interactions**, **duplications**, **side effects**, **adherence issues**, and **cost-saving opportunities**.
+- Creation of a personalized **Medication Action Plan (MAP)**
+- **Personal medication record (PMR)** updates  
+- **Follow‑up and monitoring** to ensure therapy goals are met  
+- **Documentation and billing** according to federal MTM program standards  
+- **Coordinating** care with prescribers
 
 > 📌 MTM is commonly delivered through [OutcomesMTM](https://www.outcomesmtm.com).
 
