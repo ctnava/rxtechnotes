@@ -118,7 +118,7 @@ flowchart TD
 
 ---
 
-## Developing Medication Histories
+## Medication History Workflow
 
 Starts with a direct patient interview
 
@@ -210,6 +210,10 @@ Ask for permission to call family to address any omissions.
 
 After the interview, call all pharmacies to cross-reference prescription medications & document discrepancies
 
-### 7. Submit Report to Pharmacist & Provider
+### 7. Gather Pending Medications
+
+look at pending physician's orders in the EHR
+
+### 8. Submit Report to Pharmacist & Provider
 
 provide your completed report
