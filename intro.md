@@ -151,13 +151,6 @@ Pharmacists must complete **Continuing Education (CE)** regularly to maintain li
 - CE requirements vary by state, but typically include a mix of clinical, legal, and safety topics.
 - Some states require CE on specific topics like opioid safety or immunizations.
 
-💊 **Medication Therapy Management (MTM)**
-
-- MTM services involve a comprehensive review of **all medications** a patient is taking, including prescriptions, OTCs, supplements, and herbals.
-- Pharmacists identify **interactions**, **duplications**, **adherence issues**, and **cost-saving opportunities**.
-- MTM is especially beneficial for patients with chronic illnesses, polypharmacy, or high medication costs.
-- Pharmacists are reimbursed for MTM at rates averaging **$1–$3 per minute** of consultation.
-
 🖥️ **Computerized Pharmacy Management Systems (PMS)**
 
 - Store and manage key pharmacy data:
