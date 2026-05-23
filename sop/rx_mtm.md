@@ -14,6 +14,8 @@ It also requires pharmacists to provide **Medication Therapy Management (MTM)** 
 
 MTM programs are designed for patients who are at **high risk for medication‑related complications**, typically due to **multiple chronic diseases**, **polypharmacy**, and **high annual drug costs**.
 
+> 10% of patients are responsible for 70% of healthcare spending. MTM Services save about $5 for every dollar spent.
+
 #### 🦅 CMS‑Required MTM Eligibility Criteria
 
 To qualify for MTM, a Medicare Part D beneficiary must meet **all three** CMS criteria. Plans may set thresholds within CMS‑approved ranges.
