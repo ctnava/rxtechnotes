@@ -367,7 +367,9 @@ The provider will:
 
 - Make clinical decisions based on the reconciliation report  
 
-<!-- todo add step for delivering new list to patient after review -->
+#### Deliver to Patient
+
+After clinical decisions have been made, provide a copy to the patient.
 
 ---
 
