@@ -143,6 +143,8 @@ Always document **where each piece of information came from** (patient, caregive
 
 ### 1. Interview preparation
 
+`Accuracy depends on the patient's willingness & ability to provide correct information.`
+
 Before speaking with the patient:
 
 - Review available EHR data, prior medication lists, and recent provider notes.  
@@ -159,6 +161,8 @@ Ask the patient to bring **all medications**, including:
 - Herbal products  
 - Food supplements
 
+If the patient does not speak English as their first language, encourage them to bring a family member to interpret.
+
 ### 2. Introductions
 
 Begin with a professional, patient‑centered introduction:
@@ -173,6 +177,8 @@ Begin with a professional, patient‑centered introduction:
 - Determine how many pharmacies (including mail‑order) and providers the patient uses.  
 - Identify each pharmacy and prescriber for later verification.
 
+> If the patient has brought an interpretor, make sure to stress the importance of open-ended questions and instruct them not to summarize.
+
 ### 3. Determine Medications
 
 Review and individually verify **each medication** (OTC & Rx) with the patient or caregiver.
@@ -181,6 +187,7 @@ For every medication, obtain:
 
 - **Name** (brand/generic, abbreviations, formulations)  
   - Patient may know brand or generic name
+  - Patient may not know the names at all
 - **Dosage form**  
 - **Dose & strength**  
   - To determine amount of active ingredient
