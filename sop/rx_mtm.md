@@ -507,6 +507,7 @@ Rejections often do not appear for several weeks and are accompanied by justific
 
 ```mermaid
 flowchart TD
+
     %% STYLE DEFINITIONS
     classDef pharm fill:#E3F2FD,stroke:#1E88E5,stroke-width:1px,color:#0D47A1;
     classDef billtech fill:#E8F5E9,stroke:#43A047,stroke-width:1px,color:#1B5E20;
@@ -518,23 +519,38 @@ flowchart TD
         P1(["Provide Clinical Documentation<br/>SOAP, MRPs, MAP/PMR, time logs"]):::pharm
         P2(["Respond to Billing Tech Questions<br/>Clarifications, missing data"]):::pharm
         P3(["Send Prescriber Outreach Summary<br/>If required for billing"]):::pharm
+        P4(["Collaborate on Incident‑to Services<br/>Initial eval by MD; pharmacist follow‑up"]):::pharm
+        P5(["Provide Clinical Notes for HOPPS<br/>Hospital outpatient encounters"]):::pharm
     end
 
     subgraph BILLTECH["Billing Technician"]
         B1(["Receive Documentation Packet<br/>SOAP, MAP/PMR, time, interventions"]):::billtech
         B2(["Verify Billing Requirements<br/>CPT codes, time units, payer rules"]):::billtech
-        B3(["Prepare CMS-1500<br/>Medical benefit billing"]):::billtech
-        B4(["Prepare UCF (if needed)<br/>Pharmacy benefit paper claim"]):::billtech
-        B5(["Attach Supporting Documents<br/>MAP, PMR, SOAP, prescriber notes"]):::billtech
-        B6(["Submit Claim<br/>Pharmacy system, provider office, MTM platform"]):::billtech
-        B7(["Respond to Payer Documentation Requests"]):::billtech
-        B8(["Maintain Audit Trail<br/>Retain documents for 3–10 years"]):::billtech
+
+        %% MTM BILLING
+        B3(["Prepare CMS‑1500<br/>MTM CPT 99605/99606/99607"]):::billtech
+
+        %% UCF BILLING
+        B4(["Prepare UCF (if needed)<br/>Pharmacy‑benefit paper claim"]):::billtech
+
+        %% INCIDENT‑TO BILLING
+        B5(["Prepare CMS‑1500<br/>Incident‑to Physician Billing (99211)<br/>Billed under MD NPI"]):::billtech
+
+        %% HOPPS BILLING
+        B6(["Route Documentation to Hospital Billing<br/>HOPPS Facility Fee (APCs)"]):::billtech
+
+        B7(["Attach Supporting Documents<br/>MAP, PMR, SOAP, prescriber notes"]):::billtech
+        B8(["Submit Claim<br/>Pharmacy system, provider office, MTM platform"]):::billtech
+        B9(["Respond to Payer Documentation Requests"]):::billtech
+        B10(["Maintain Audit Trail<br/>Retain documents for 3–10 years"]):::billtech
     end
 
     subgraph PHYSICIAN["Physician"]
         MD1(["Review Pharmacist Recommendations"]):::physician
         MD2(["Approve/Modify Therapy<br/>New orders, clarifications"]):::physician
         MD3(["Send Updated Orders to Pharmacy"]):::physician
+        MD4(["Provide Initial Evaluation<br/>Required for 99211 billing"]):::physician
+        MD5(["Sign Off on Documentation<br/>If payer requires"]):::physician
     end
 
     subgraph PAYER["Payer / Plan"]
@@ -544,12 +560,23 @@ flowchart TD
     end
 
     %% FLOW CONNECTIONS
-    P1 --> B1 --> B2 --> B3
-    B2 --> B4
-    B3 --> B5 --> B6 --> PY1 --> PY2 --> B7 --> PY3 --> B8
+    P1 --> B1 --> B2
+
+    %% MTM BILLING PATH
+    B2 --> B3 --> B7 --> B8 --> PY1 --> PY2 --> B9 --> PY3 --> B10
+
+    %% UCF PATH
+    B2 --> B4 --> B7
+
+    %% INCIDENT‑TO PATH
+    P4 --> MD4 --> B5 --> B7
+
+    %% HOPPS PATH
+    P5 --> B6 --> B7
 
     %% PRESCRIBER INTERACTION
-    P3 --> MD1 --> MD2 --> MD3 --> B5
+    P3 --> MD1 --> MD2 --> MD3 --> B7
+
 ```
 
 ---
