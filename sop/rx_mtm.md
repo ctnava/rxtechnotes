@@ -187,14 +187,11 @@ Rejections often do not appear for several weeks and are accompanied by justific
 
 ### Pharmacists
 
-> 📌 MTM is commonly delivered through [OutcomesMTM](https://www.outcomesmtm.com).
-
 ### Technicians
 
-- 🛡️🐻 **Technicians may assist** with scheduling, documentation prep, and follow‑up, but **may not** perform clinical reviews, counsel patients, or document clinical interventions.  
- Technicians assist with **scheduling**, **data collection**, and **documentation prep**.
+Technicians assist with **scheduling**, **data collection**, **documentation prep**, and assisting with insurance or billing tasks.
 
-Technicians assist by preparing medication histories, documentation, and assisting with insurance or billing tasks.
+> 🛡️🐻 **CA technicians may not** document clinical interventions.
 
 ---
 
