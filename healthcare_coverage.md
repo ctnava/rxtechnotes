@@ -437,6 +437,12 @@ A **7-day supply** of a drug may be dispensed **without prior authorization** if
 
 Adjudication is usually online and instant.
 
+#### 💊 Medication Therapy Management (MTM)
+
+This document outlines the essential components of MTM billing, including **CMS‑1500**, **CPT 99605–99607**, **incident‑to (99211)**, **HOPPS facility fees**, **UCF**, **MAP/PMR**, **SOAP documentation**, **payer requirements**, and coordinated workflows between **pharmacists**, **technicians**, **physicians**, and **payers**.
+
+Link to 🔗 [**Standard Operating Procedure**](./sop/rx_mtm.md)
+
 #### Prescription Drugs
 
 Technicians use the computer to determine the exact coverage for each prescription with the appropriate third-party.
@@ -445,13 +451,7 @@ Claims for prescription drugs are typically filed during the process of prescrip
 
 🔗 [Prescription Intake & Order Entry SOP](./sop/rx_intake.md)
 
-#### 💊 Medication Therapy Management (MTM)
-
-This document outlines the essential components of MTM billing, including **CMS‑1500**, **CPT 99605–99607**, **incident‑to (99211)**, **HOPPS facility fees**, **UCF**, **MAP/PMR**, **SOAP documentation**, **payer requirements**, and coordinated workflows between **pharmacists**, **technicians**, **physicians**, and **payers**.
-
-Link to 🔗 [**Standard Operating Procedure**](./sop/rx_mtm.md)
-
-### 🔁 The Billing Cycle
+##### 🔁 The Billing Cycle
 
 The billing cycle is a real-time loop that occurs every time a prescription is submitted for insurance billing. It ensures the pharmacy receives reimbursement and the patient is charged correctly.
 
