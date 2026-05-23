@@ -146,6 +146,98 @@ Pharmacists are responsible for **clinical MTM functions**, including:
 - Ensuring **CMS‑compliant documentation** and billing  
 - Overseeing technician workflow related to MTM support tasks
 
+#### Pharmacist Workflow
+
+```mermaid
+flowchart TD
+    %% STYLE DEFINITIONS
+    classDef step fill:#E3F2FD,stroke:#1E88E5,stroke-width:1px,color:#0D47A1;
+    classDef action fill:#FFF3E0,stroke:#FB8C00,stroke-width:1px,color:#E65100;
+    classDef decision fill:#F3E5F5,stroke:#8E24AA,stroke-width:1px,color:#4A148C;
+    classDef terminal fill:#E8F5E9,stroke:#43A047,stroke-width:1px,color:#1B5E20;
+
+    %% WORKFLOW
+    A(["Patient Identified for MTM<br>Auto‑enrollment, referral, or platform flag"]):::step
+    B["Comprehensive Assessment<br>Rx, OTC, herbals, patient experience, history"]:::step
+    C["Identify Medication‑Related Problems (MRPs)<br>Appropriateness, safety, effectiveness, adherence"]:::decision
+    D["Develop Care Plan<br>Interventions, MAP, PMR, education, goals"]:::action
+    E["Follow‑Up Evaluation<br>Monitor outcomes, reassess, coordinate care"]:::step
+    F(["Repeat MTM Cycle<br>Until therapy is optimized"]):::terminal
+
+    %% FLOW
+    A --> B --> C --> D --> E --> F --> B
+```
+
+##### 1️⃣ Patient Identification & Enrollment
+
+- Patient is **auto‑enrolled** by the Part D plan **or** referred by a provider/pharmacist.  
+- Pharmacist reviews **eligibility criteria**, MTM platform alerts, and any **risk‑stratification flags** (polypharmacy, high‑risk meds, recent hospitalization, etc.).  
+- Initial outreach is made to schedule a **CMR**.
+
+##### 2️⃣ 🩺 Comprehensive Assessment
+
+The pharmacist conducts a **whole‑patient medication assessment**, which includes:
+
+- Reviewing **all medications**: prescription, OTC 💸, herbals, vitamins, supplements  
+- Incorporating the **patient’s lived experience** with medications:  
+  - What works  
+  - What doesn’t  
+  - What causes side effects  
+  - What is too expensive  
+- Gathering a **complete medication history**  
+- Reconciling the **current medication list** with prescriber records, discharge summaries, and pharmacy fill history  
+- Assessing:  
+  - Indication  
+  - Effectiveness  
+  - Safety  
+  - Adherence  
+
+##### 3️⃣ 🔍 Identification of Medication‑Related Problems (MRPs)
+
+The pharmacist evaluates the medication regimen for:
+
+- **Appropriateness** (Is the medication indicated?)  
+- **Effectiveness** (Is the dose achieving therapeutic goals?)  
+- **Safety** (Side effects, interactions, duplications, contraindications)  
+- **Adherence** (Gaps in refills, barriers, cost issues)  
+- **Access issues** (Formulary restrictions, prior authorizations, high copays)  
+
+##### 4️⃣ 🧩 Care Plan Development
+
+The pharmacist creates an **individualized care plan**, based on patient need & prescriber goals, that includes:
+
+- **Interventions** to resolve MRPs  
+  - Dose adjustments (via prescriber)  
+  - Safer alternatives  
+  - Cost‑saving substitutions  
+  - Adherence strategies  
+- **Personalized patient education**  
+  - How to take medications correctly  
+  - What to monitor  
+  - When to seek help  
+- **Medication Action Plan (MAP)**  
+  - Written in **patient‑friendly language**  
+  - Lists actionable steps the patient agrees to  
+- **Personal Medication Record (PMR)**  
+  - Updated, accurate, reconciled list of all medications  
+- **Measurable outcomes**  
+  - BP goals, A1c targets, symptom reduction, adherence metrics  
+- **Follow‑up plan**  
+  - Frequency of TMRs  
+  - Next CMR date  
+  - Prescriber coordination timeline  
+
+##### 5️⃣ 🔄 Follow‑Up Evaluation
+
+The pharmacist performs ongoing follow‑up to:
+
+- Evaluate **clinical outcomes**  
+- Confirm **resolution of MRPs**  
+- Reassess **adherence and safety**  
+- Update MAP and PMR as needed  
+- Coordinate with prescribers for unresolved issues  
+- Repeat the MTM cycle **as often as needed** until therapy is stable and optimized  
+
 ### Technicians
 
 Pharmacy technicians play a **supportive, non‑clinical role** in MTM programs.
@@ -203,48 +295,85 @@ Technicians (in any state) may NOT:
 
 ---
 
-## Pharmacist Workflow
+## Billing Requirements
 
-## Billing Workflow
+The billing process for MTM and pharmacist‑provided clinical services is **not** the same as standard prescription billing. MTM billing flows through **medical benefit pathways**, not PBMs, and requires **medical‑style documentation**, time tracking, and CPT coding.
 
-payers include Part D PDPs, medicare advantage PDPs, employer groups, state medicaid, other state programs, the patients themselves
+### 🧾 Payer Types
 
-most 3rd party billing for pharmacists clinical services must be done through registered pharmacy or providers office such as a physician
+Pharmacist‑provided MTM services may be billed to:
 
-The **CMS‑1500** is the **standard federal claim form** used to bill **professional services**, including MTM, to Medicare Part B, Medicaid, and commercial insurers.
+- **Medicare Part D PDPs** (primary MTM payers)  
+- **Medicare Advantage (MA‑PD) plans**  
+- **Employer group health plans**  
+- **State Medicaid programs** (varies by state; CA Medi‑Cal does *not* reimburse MTM CPT codes)  
+- **Other state programs** (e.g., ADAP, county health programs)  
+- **Patients directly** (cash‑pay MTM or DSM services)
+
+### 🏥 Where Billing Must Occur
+
+Most third‑party billing for pharmacist clinical services must be submitted through:
+
+- A **registered pharmacy**  
+- A **provider’s office** (e.g., physician or clinic)  
+- A **health system billing department**
+
+Pharmacists cannot independently bill Medicare unless recognized as providers under a supervising NPI.
+
+### 🧾 CMS‑1500 Claim Form
+
+The **CMS‑1500** is the **standard federal medical claim form** used to bill professional services, including MTM, to:
+
+- Medicare Part B  
+- Medicaid  
+- Commercial insurers  
+- Medicare Advantage plans
 
 Pharmacies use CMS‑1500 for:
 
-- MTM services (99605/99606/99607)  
-- Vaccinations (G0008, G0009, G0010)  
-- DMEPOS supplies  
-- Clinical services not billable through NCPDP  
+- **MTM services** (CPT 99605/99606/99607)  
+- **Vaccinations** (G0008, G0009, G0010)  
+- **DMEPOS supplies**  
+- **Clinical services not billable through NCPDP**
 
-Supporting documents required by PDPs:
+### 📑 Required Supporting Documentation
 
-- MTM program elements  
-- Target populations  
-- Intervention frequency  
-- Reporting metrics to CMS
+PDPs and medical insurers typically require:
 
-> 💡 MTM billing requires **time documentation**, **clinical notes**, and often **patient consent**. Claims are billed through **medical insurance** or Medicare Part D PDPs, not PBMs.
-> 🤯 Pharmacists are reimbursed for MTM at rates averaging **$1–$3 per minute** of consultation.
+- MTM program elements (CMR, TMR, prescriber outreach)  
+- Target population criteria  
+- Time documentation (start/stop or total minutes)  
+  - 🤯 Pharmacists are reimbursed for MTM at rates averaging **$1–$3 per minute** of consultation.
+- Clinical notes (SOAP or platform‑generated)  
+- MAP and PMR copies (for CMRs)  
+- Intervention frequency and follow‑up documentation  
+- Reporting metrics submitted to CMS
 
-**Current Procedural Terminology (CPT)** Codes are used to identify services rendered on billing forms.
+### 💡 Billing Requirements
 
-#### Codes for Services Delivered Face-to-Face Between Pharmacist & Patient
+- MTM billing requires **accurate time tracking**  
+- Clinical notes must justify billed time  
+- Patient consent is often required (varies by plan)  
+- Claims are billed through **medical insurance**, not PBMs  
+- Pharmacists are reimbursed at **$1–$3 per minute** on average  
+- Documentation must be retained for **audit purposes**  
+
+### 🧑‍💻 CPT Codes for MTM
+
+**CPT codes identify the MTM service delivered.**
 
 | **CPT Code** | **Description** | **Use Case** | **Billing Notes** |
 | ------------ | --------------- | ------------ | ----------------- |
-| **99605** | MTM initial consult, new patient, up to 15 minutes | First encounter with new MTM patient | Billed once per patient per year |
-| **99606** | MTM follow-up visit, established patient, up to 15 minutes | Ongoing MTM care (same year) | Use after 99605 has been billed |
-| **99607** | Add-on for MTM services, each additional 15 minutes | For longer sessions (attach to 99605/99606) | Can be billed multiple times for extended visits |
+| **99605** | MTM initial consult, new patient, up to 15 minutes | First MTM encounter | Billed once per patient per year |
+| **99606** | MTM follow‑up visit, established patient, up to 15 minutes | Ongoing MTM care | Used after 99605 |
+| **99607** | Add‑on code, each additional 15 minutes | Extended MTM sessions | Can be billed multiple times |
 
-> 🐻 Medi-Cal does **not reimburse** for MTM using CPT codes 99605–99607. MTM is typically embedded within comprehensive care management services delivered in clinical settings.
+> 🐻 **Medi‑Cal does NOT reimburse** MTM CPT codes.  
+> MTM is embedded within broader care‑management programs.
 
 ### 📄 Universal Claim Form (UCF)
 
-The **Universal Claim Form (UCF)** is a standardized **paper claim form** created by **NCPDP** for use when **electronic adjudication is unavailable** or fails.
+The **Universal Claim Form (UCF)** is an **NCPDP paper form** used when **pharmacy‑benefit billing** cannot be completed electronically.
 
 Used for:
 
@@ -267,3 +396,49 @@ Rejections often do not appear for several weeks and are accompanied by justific
 - For **Medi-Cal Rx**, electronic claim submission through the **Magellan portal** is required for standard prescriptions. UCFs may be used in rare override or disaster scenarios.
 - Medical billing through **Medi-Cal FFS** requires coordination with the **Local Education Agency (LEA)** or **county health department** for covered services.
 - Pharmacies must retain **UCF copies and supporting documentation for 3 years**, per audit standards.
+
+---
+
+## Billing Workflow
+
+### 1️⃣ **Patient Identified for MTM**
+- Auto‑enrollment by PDP  
+- Pharmacist referral  
+- High‑risk patient flagged by MTM platform  
+
+### 2️⃣ **Eligibility Verified**
+- Chronic disease count  
+- Medication count  
+- Annual drug cost threshold  
+
+### 3️⃣ **Service Performed**
+- CMR (annual) or TMR (quarterly)  
+- Time tracked  
+- MAP + PMR generated (for CMRs)  
+
+### 4️⃣ **Documentation Completed**
+- SOAP note  
+- Intervention details  
+- Prescriber outreach (if needed)  
+- Follow‑up plan  
+
+### 5️⃣ **Billing Prepared**
+- CPT codes selected  
+- Time units calculated  
+- CMS‑1500 completed (if required)  
+- Supporting documents attached  
+
+### 6️⃣ **Claim Submitted**
+- Through pharmacy billing system  
+- Through provider office  
+- Through MTM platform (Outcomes, Mirixa, etc.)  
+
+### 7️⃣ **Payer Review**
+- Claim adjudication  
+- Request for additional documentation (if needed)  
+
+### 8️⃣ **Payment Issued**
+- Reimbursement posted  
+- Audit trail maintained  
+
+---
