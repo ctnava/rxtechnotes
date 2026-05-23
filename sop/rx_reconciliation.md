@@ -1,4 +1,4 @@
-# Medication Reconciliation
+# SOP: Medication Reconciliation
 
 ## Definitions
 
