@@ -47,8 +47,8 @@ Structured for both exam prep and on-the-job reference.
 | 10 | [Pharmacy Mathematics](./math/readme.md) | ✅ Complete |
 | 11 | [Pharmacy Personnel, Duties, & Services](./personnel_services.md) | ✅ Complete |
 | 12 | [Pharmacy Settings](./settings.md) | ✅ Complete |
-| 13 | [Healthcare Coverage](./healthcare_coverage.md) | 🚧 WIP |
-| 14 | [Core Pharmacy Operations](./core_operations.md) | 🚧 WIP |
+| 13 | [Healthcare Coverage](./healthcare_coverage.md) | ✅ Complete |
+| 14 | [Core Pharmacy Operations](./core_operations.md) | ✅ Complete |
 | 15 | [Compounding](./compounding.md) | 🚧 WIP |
 
 - 📁 [Federal Law Reference Directory](./law/readme.md) directory.

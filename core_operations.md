@@ -333,4 +333,6 @@ Link to 🔗 [**Standard Operating Procedures**](./sop/inventory.md)
 
 ---
 
-🔙🔗 Back to [**Home Directory**](../readme.md)
+## Navlinks
+
+- 🔙🔗 Back to [**Home Directory**](../readme.md)

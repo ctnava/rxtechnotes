@@ -492,3 +492,9 @@ The billing cycle is a real-time loop that occurs every time a prescription is s
    - Underpaid, reversed, or clawed-back claims may require **reversal and resubmission**.
 
 > 🛡️ Always verify that the correct insurance plan and COB are set up before submission. Even minor data errors can cause denials or underpayments.
+
+---
+
+## Navlinks
+
+- 🔙🔗 Back to [**Home Directory**](../readme.md)
