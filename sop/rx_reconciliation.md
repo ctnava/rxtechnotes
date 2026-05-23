@@ -53,11 +53,68 @@ This goal applies to:
 
 **Medications**, for the purpose of reconciliation, include:
 
-- prescriptions, over-the counter drugs, herbal & dietary supplements
-- substances that may have an impact on the patient's care & treatments
-- substances that may interact with other therapies potentially used during the medical care episode
+- Prescriptions, over-the counter drugs, herbal & dietary supplements
+- Substances that may have an impact on the patient's care & treatments
+- Substances that may interact with other therapies potentially used during the medical care episode
+
+---
+
+## Personnel
+
+### Pharmacy Technician
+
+Pharmacy technician's main responsibilities are to:
+
+- Research & document patient medication histories
+  - Noting omissions or unclear information
+- Support physicians, nurses, & pharmacists in program facilitation
+- Assist with the logistics of patient medication transfer
+- Provide translation assistance services for patients not fluent in English
+
+### Pharmacist
+
+The pharmacist will perform clinical review of the collected medication history; noting omissions, duplications, contraindications, or unclear information. This report is passed to the provider.
+
+### Physician
+
+The provider will make clinical decisions based on the pharmacist's input & provided reconciliation report.
+
+---
 
 ## Medication Reconciliation Workflow
+
+```mermaid
+flowchart TD
+
+    %% --- Pharmacy Technician Lane ---
+    subgraph TECH[Pharmacy Technician]
+        A["Develop List of Current Medications"]
+        B["Develop List of New Medications (To Be Prescribed)"]
+        I["Communicate Final Medication List to Caregivers & Patient"]
+    end
+
+    %% --- Pharmacist Lane ---
+    subgraph PHARM[Pharmacist]
+        C["Compare Current vs New Medication Lists"]
+        D["Identify Omissions, Duplications, Interactions, Contraindications"]
+        E["Communicate Findings to Physician"]
+    end
+
+    %% --- Physician Lane ---
+    subgraph MD[Physician]
+        F["Review Pharmacist Recommendations"]
+        G["Make Clinical Decisions & Finalize Medication Plan"]
+    end
+
+    %% --- Workflow Connections ---
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F --> G
+    G --> I
+```
 
 ### 1. Verify Medication History
 
