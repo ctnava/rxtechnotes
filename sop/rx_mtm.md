@@ -1,4 +1,4 @@
-# Medication Therapy Management (MTM) Protocols
+# Medication Therapy Management (MTM) Billing
 
 ## Definitions
 
