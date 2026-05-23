@@ -153,7 +153,7 @@ Reference:
 
 ---
 
-## 📞 Customer Service
+## 📞 Customer Service & Correspondance
 
 `The main limitation for assisting patients is that ONLY pharmacists may recommend or counsel on the use of OTC products.`
 
@@ -197,7 +197,13 @@ Link to 🔗 [MedWatch Reporting SOP](./sop/medwatch.md)
 **VAERS** is used for vaccine‑related adverse events and administration errors.  
 Link to 🔗 [VAERS Reporting SOP](./sop/vaers.md)
 
-### Medication Reconciliation
+### Billing for MTM Services
+
+This document outlines the essential components of MTM billing, including **CMS‑1500**, **CPT 99605–99607**, **incident‑to (99211)**, **HOPPS facility fees**, **UCF**, **MAP/PMR**, **SOAP documentation**, **payer requirements**, and coordinated workflows between **pharmacists**, **technicians**, **physicians**, and **payers**.
+
+Link to 🔗 [**Standard Operating Procedure**](./sop/rx_mtm.md)
+
+### Medication History Collection for Medication Reconciliation
 
 Medication reconciliation is a structured process used to create the **most accurate and up‑to‑date list** of a patient’s medications in order to support **safe, effective care**. By gathering information directly from the patient and verifying it across multiple sources, healthcare personnel can identify **discrepancies**, prevent **medication errors**, and ensure that all members of the care team have a **shared understanding** of what the patient is taking. This foundational step improves communication, supports **MTM services**, and enhances **patient safety** across all care settings.
 

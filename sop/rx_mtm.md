@@ -262,6 +262,8 @@ Technicians may assist with **data gathering**, but **not clinical reconciliatio
 - Obtaining **discharge summaries**, **diagnosis lists**, or **recent medication changes**  
 - Compiling medication lists for pharmacist review
 
+Link to 🔗 [**Standard Operating Procedure**](./rx_reconciliation.md)
+
 #### 🧰 Adherence & Patient Support
 
 - Assisting patients with **adherence tools** (pillboxes, calendars, reminders)  
@@ -580,3 +582,8 @@ flowchart TD
 ```
 
 ---
+
+## Navlinks
+
+- 🔙🔗 Back to [**Core Pharmacy Workflows & Standard Operating Procedures (SOP)**](../core_operations.md#billing-for-mtm-services)
+- 🔙🔗 Back to [**Healthcare Coverage, Services, & Billing**](../healthcare_coverage.md#-medication-therapy-management-mtm)

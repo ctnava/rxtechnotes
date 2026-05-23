@@ -171,3 +171,4 @@ OTC medications are not automatically safe. They can cause:
 
 - 🔙 Back to [**Core Pharmacy Workflows & Standard Operating Procedures (SOP)**](../core_operations.md#new-patient-intake)
 - 🔙 Back to [**Prescription Intake**](./rx_intake.md#️-step-0-pre-entry-checklist)
+- 🔙🔗 Back to [**Healthcare Coverage, Services, & Billing**](../healthcare_coverage.md#-patient-intake--coordination-of-benefits-cob)

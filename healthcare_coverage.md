@@ -447,92 +447,9 @@ Claims for prescription drugs are typically filed during the process of prescrip
 
 #### 💊 Medication Therapy Management (MTM)
 
-`CMS-1500 is the standard form used by providers to bill for services, like MTM`
+This document outlines the essential components of MTM billing, including **CMS‑1500**, **CPT 99605–99607**, **incident‑to (99211)**, **HOPPS facility fees**, **UCF**, **MAP/PMR**, **SOAP documentation**, **payer requirements**, and coordinated workflows between **pharmacists**, **technicians**, **physicians**, and **payers**.
 
-Medication Therapy Management (MTM) is a clinical service provided by pharmacists under **Medicare Part D** through **Prescription Drug Plans (PDPs)** to optimize drug therapy, reduce risk, and improve therapeutic outcomes. Services may include **Comprehensive Medication Reviews** (CMRs), **Targeted Medication Reviews** (TMRs), & **Disease-state management** (e.g., diabetes, hypertension, hyperlipidemia).
-
-Billed using CPT codes on medical claim forms submitted via CMS-1500.
-
-Forms are required for PDPs offering MTM services and require the following supporting documents:
-
-- MTM program elements
-- Target populations
-- Intervention frequency
-- Reporting metrics to CMS
-
-| **CPT Code** | **Description** | **Use Case** | **Billing Notes** |
-| ------------ | --------------- | ------------ | ----------------- |
-| **99605** | MTM initial consult, new patient, up to 15 minutes | First encounter with new MTM patient | Billed once per patient per year |
-| **99606** | MTM follow-up visit, established patient, up to 15 minutes | Ongoing MTM care (same year) | Use after 99605 has been billed |
-| **99607** | Add-on for MTM services, each additional 15 minutes | For longer sessions (attach to 99605/99606) | Can be billed multiple times for extended visits |
-
-> 💡 All MTM billing requires **time documentation, clinical notes**, and often a **signed patient consent**. These services are generally not billable through PBMs. They go through medical insurance or Medicare Part D PDPs.
-
-##### 🐻 California-Specific MTM Notes
-
-- Under **California Business & Professions Code § 4052.2**, pharmacists may provide MTM services independently if they meet the requirements for advanced practice pharmacist (APh) licensure.
-- Pharmacists may initiate or adjust drug therapy in collaboration with physicians through a **Collaborative Practice Agreement (CPA)**.
-- Medi-Cal (California Medicaid) does **not reimburse** for MTM using CPT codes 99605–99607. MTM under Medi-Cal is typically embedded within comprehensive care management services delivered in clinical settings.
-- **California pharmacists may perform CMRs and TMRs as part of health plan performance measures**, including those tied to CMS Star Ratings.
-- 🛡️ **Technicians may assist** with MTM program documentation, scheduling, and follow-up tasks, but may **not perform clinical reviews, counsel patients, or document clinical interventions**.
-
-> 🐻 MTM services must comply with **California Confidentiality of Medical Information Act (CMIA)** as well as **HIPAA**. Document storage and communication platforms must meet both state and federal privacy standards.
-
-##### 🌐 Major MTM Platforms
-
-Medication Therapy Management (MTM) services are often delivered through **online MTM platforms** that connect pharmacies, prescribers, and health plans. These systems allow technicians and pharmacists to document interventions, complete reviews, and bill for eligible services.
-
-- **OutcomesMTM (Outcomes®)** — One of the largest MTM networks; integrates with many pharmacy systems.
-- **RxTherapyManagement** — Focuses on clinical documentation, adherence outreach, and payer‑driven MTM programs.
-- **Mirixa** — A long‑standing MTM platform used by many retail chains; supports CMRs, TMRs, and prescriber outreach.
-
-##### 💊 MTM‑Billable Services
-
-Common MTM services that pharmacies can bill through these platforms include:
-
-- **Comprehensive Medication Reviews (CMRs)**  
-  A full, structured review of all patient medications to identify therapy problems, duplications, interactions, or adherence issues.
-
-- **Targeted Medication Reviews (TMRs)**  
-  Focused interventions addressing a specific drug therapy problem or monitoring need.
-
-- **Prescriber Consultations**  
-  Communication with providers regarding:
-  - Cost‑effective alternatives  
-  - Drug therapy problems  
-  - Safety concerns  
-  - Optimization of therapy
-
-- **Patient Consultations**  
-  Counseling sessions for:
-  - Medication adherence  
-  - Education on new or high‑risk medications  
-  - Monitoring requirements (e.g., labs, side effects)  
-  - Chronic disease management support for chronic conditions
-
-#### 📄 Paper Claims
-
-The **Universal Claim Form (UCF)** is a standardized **paper form** created by the **National Council for Prescription Drug Programs (NCPDP)**. It is used when **electronic adjudication is unavailable**, fails, or is not supported by the plan.
-
-Common scenarios:
-
-- Long-term care or correctional facilities
-- Retroactive insurance billing
-- Workers' comp or third-party administrator (TPA) claims
-- Coordination of Benefits (COB) adjustments
-- Out-of-network pharmacy claims
-
-> 📄 UCFs must be completed **accurately and legibly**. Incomplete or illegible forms will result in **claim rejections or delays**. Many payers require original signatures or supporting documents as well as the **reason** for paper submission.
-
-`Rejections often do not appear for several weeks and are accompanied by justification + steps for resolution`
-
-##### 🐻 California-Specific UCF Notes
-
-- **Medi-Cal** does **not accept handwritten UCFs**. Claims must be typed or submitted electronically unless an exception is granted.
-- For **Medi-Cal Rx**, electronic claim submission through the **Magellan portal** is required for standard prescriptions. UCFs may be used in rare override or disaster scenarios.
-- Medical billing through **Medi-Cal FFS** requires coordination with the **Local Education Agency (LEA)** or **county health department** for covered services.
-
-> 🐻 CA pharmacies must retain **UCF copies and supporting documentation for 3 years**, per audit standards.
+Link to 🔗 [**Standard Operating Procedure**](./sop/rx_mtm.md)
 
 ### 🔁 The Billing Cycle
 
