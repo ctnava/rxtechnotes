@@ -10,7 +10,7 @@ It also requires pharmacists to provide **Medication Therapy Management (MTM)** 
 
 ### 💊 Medication Therapy Management (MTM)
 
-**Medication Therapy Management (MTM)** refers to a set of **clinical, patient‑centered services** provided by pharmacists to optimize medication use, improve therapeutic outcomes, and reduce medication‑related problems. MTM is usually targeted toward patients taking multiple chronic medications (**polypharmacy**), especially those with **multiple conditions** or **high drug costs**.
+**Medication Therapy Management (MTM)** refers to a set of **clinical, patient‑centered services** provided by pharmacists to optimize medication use, improve therapeutic outcomes, and reduce medication‑related problems. MTM is usually targeted toward patients taking multiple chronic medications (**polypharmacy**), especially those with **multiple conditions** or **high drug costs** (>$3000/year).
 
 #### 💊 MTM‑Billable Services
 
@@ -23,7 +23,7 @@ A **full, structured, patient‑centered review** of *all* medications a patient
 **Core Components**:
 
 - 🩺 **Comprehensive assessment** of all medications a patient is taking; including prescriptions, OTCs, supplements, and herbals.
-- 🔍 **Identification of medication‑related problems**. Such as:  
+- 🔍 **Identification of Medication-Related Problems & Intervention**. Such as:  
 - Side effects or safety concerns  
 - Non‑adherence  
 - Drug–drug or drug–disease interactions  
@@ -113,6 +113,8 @@ Supporting documents required by PDPs:
 > 🤯 Pharmacists are reimbursed for MTM at rates averaging **$1–$3 per minute** of consultation.
 
 **Current Procedural Terminology (CPT)** Codes are used to identify services rendered on billing forms.
+
+#### Codes for Services Delivered Face-to-Face Between Pharmacist & Patient
 
 | **CPT Code** | **Description** | **Use Case** | **Billing Notes** |
 | ------------ | --------------- | ------------ | ----------------- |
