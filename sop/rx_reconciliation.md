@@ -371,4 +371,4 @@ The provider will:
 
 ## Navlinks
 
-- 🔙🔗 Back to [**Core Pharmacy Workflows & Standard Operating Procedures (SOP)**](../core_operations.md#-customer-service)
+- 🔙🔗 Back to [**Core Pharmacy Workflows & Standard Operating Procedures (SOP)**](../core_operations.md#medication-reconciliation)
