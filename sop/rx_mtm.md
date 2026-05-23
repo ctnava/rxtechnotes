@@ -293,6 +293,72 @@ Technicians (in any state) may NOT:
 - Provide clinical counseling  
 - Complete MAPs or PMRs  
 
+#### Workflow (with Technicians)
+
+```mermaid
+flowchart TD
+
+    %% STYLE DEFINITIONS
+    classDef pharm fill:#E3F2FD,stroke:#1E88E5,stroke-width:1px,color:#0D47A1;
+    classDef histtech fill:#FFF3E0,stroke:#FB8C00,stroke-width:1px,color:#E65100;
+    classDef supptech fill:#F3E5F5,stroke:#8E24AA,stroke-width:1px,color:#4A148C;
+    classDef billtech fill:#E8F5E9,stroke:#43A047,stroke-width:1px,color:#1B5E20;
+    classDef physician fill:#E1F5FE,stroke:#0288D1,stroke-width:1px,color:#01579B;
+    classDef payer fill:#FCE4EC,stroke:#C2185B,stroke-width:1px,color:#880E4F;
+
+    %% SWIMLANES
+    subgraph PHARMACIST["Pharmacist"]
+        P1(["Patient Identified<br/>Auto-enrollment, referral, MTM platform flag"]):::pharm
+        P2(["Eligibility Verified<br/>Disease count, med count, cost threshold"]):::pharm
+        P3(["CMR/TMR Performed<br/>Time tracking, MAP/PMR"]):::pharm
+        P4(["Clinical Documentation<br/>SOAP, MRPs, interventions"]):::pharm
+        P5(["Prescriber Outreach<br/>Recommendations, therapy changes"]):::pharm
+        P6(["Finalize Care Plan<br/>Education, goals, follow-up"]):::pharm
+    end
+
+    subgraph MEDHISTTECH["Medication History Technician"]
+        H1(["Collect Medication History<br/>Patient, caregiver, hospital, PCP"]):::histtech
+        H2(["Obtain Discharge Summaries<br/>Diagnosis lists, recent changes"]):::histtech
+        H3(["Compile Med List for Pharmacist"]):::histtech
+    end
+
+    subgraph SUPPTECH["Other Pharmacy Technicians"]
+        T1(["Schedule MTM Appointments<br/>CMR/TMR follow-ups"]):::supptech
+        T2(["Prepare Documentation<br/>Insurance info, labs, platform data"]):::supptech
+        T3(["Assist with Adherence Tools<br/>Pillboxes, reminders"]):::supptech
+        T4(["Coordinate Provider Appointments"]):::supptech
+        T5(["Assist with MAP (financial assistance) paperwork"]):::supptech
+    end
+
+    subgraph BILLTECH["Billing Technician"]
+        B1(["Prepare Billing Packet<br/>CPT codes, time units, MAP/PMR"]):::billtech
+        B2(["Complete CMS-1500<br/>Medical benefit billing"]):::billtech
+        B3(["Submit UCF if Needed<br/>Pharmacy benefit paper claim"]):::billtech
+        B4(["Submit Claim<br/>Pharmacy system, provider office, MTM platform"]):::billtech
+        B5(["Maintain Audit Trail<br/>Documentation retention"]):::billtech
+    end
+
+    subgraph PHYSICIAN["Physician"]
+        MD1(["Receive Pharmacist Recommendations"]):::physician
+        MD2(["Review Therapy Issues<br/>Safety, effectiveness, interactions"]):::physician
+        MD3(["Approve/Modify Therapy<br/>New orders, dose changes"]):::physician
+        MD4(["Send Updated Orders to Pharmacy"]):::physician
+    end
+
+    subgraph PAYER["Payer / Plan"]
+        PY1(["Claim Adjudication"]):::payer
+        PY2(["Request Additional Documentation"]):::payer
+        PY3(["Issue Payment"]):::payer
+    end
+
+    %% FLOW CONNECTIONS
+    P1 --> P2 --> H1 --> H2 --> H3 --> P3 --> P4 --> P5
+    P5 --> MD1 --> MD2 --> MD3 --> MD4 --> P6
+    P6 --> B1 --> B2 --> B4 --> PY1 --> PY2 --> PY3 --> B5
+    B1 --> B3
+
+```
+
 ---
 
 ## Billing Requirements
@@ -399,46 +465,6 @@ Rejections often do not appear for several weeks and are accompanied by justific
 
 ---
 
-## Billing Workflow
-
-### 1️⃣ **Patient Identified for MTM**
-- Auto‑enrollment by PDP  
-- Pharmacist referral  
-- High‑risk patient flagged by MTM platform  
-
-### 2️⃣ **Eligibility Verified**
-- Chronic disease count  
-- Medication count  
-- Annual drug cost threshold  
-
-### 3️⃣ **Service Performed**
-- CMR (annual) or TMR (quarterly)  
-- Time tracked  
-- MAP + PMR generated (for CMRs)  
-
-### 4️⃣ **Documentation Completed**
-- SOAP note  
-- Intervention details  
-- Prescriber outreach (if needed)  
-- Follow‑up plan  
-
-### 5️⃣ **Billing Prepared**
-- CPT codes selected  
-- Time units calculated  
-- CMS‑1500 completed (if required)  
-- Supporting documents attached  
-
-### 6️⃣ **Claim Submitted**
-- Through pharmacy billing system  
-- Through provider office  
-- Through MTM platform (Outcomes, Mirixa, etc.)  
-
-### 7️⃣ **Payer Review**
-- Claim adjudication  
-- Request for additional documentation (if needed)  
-
-### 8️⃣ **Payment Issued**
-- Reimbursement posted  
-- Audit trail maintained  
+## misc
 
 ---
