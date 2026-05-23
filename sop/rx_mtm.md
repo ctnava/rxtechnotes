@@ -122,6 +122,14 @@ DSM programs often involve patient counseling, medication adherence support, lif
 
 > 🛡️ HIPAA Requires all patient health information (PHI) obtained during Counseling, DSM, MTM services to be kept strictly confidential.
 
+#### 🌐 Major MTM Platforms
+
+Medication Therapy Management (MTM) services are often delivered through **online MTM platforms** that connect pharmacies, prescribers, and health plans. These systems allow technicians and pharmacists to document interventions, complete reviews, and bill for eligible services.
+
+- **OutcomesMTM (Outcomes®)**: One of the largest MTM networks; integrates with many pharmacy systems.
+- **RxTherapyManagement**: Focuses on clinical documentation, adherence outreach, and payer‑driven MTM programs.
+- **Mirixa**: A long‑standing MTM platform used by many retail chains; supports CMRs, TMRs, and prescriber outreach.
+
 ---
 
 ## Personnel
@@ -149,14 +157,6 @@ MTM billing and managing coordinating paperwork needed for financial assistance.
 ---
 
 ## Pharmacist Workflow
-
-### 🌐 Major MTM Platforms
-
-Medication Therapy Management (MTM) services are often delivered through **online MTM platforms** that connect pharmacies, prescribers, and health plans. These systems allow technicians and pharmacists to document interventions, complete reviews, and bill for eligible services.
-
-- **OutcomesMTM (Outcomes®)** — One of the largest MTM networks; integrates with many pharmacy systems.
-- **RxTherapyManagement** — Focuses on clinical documentation, adherence outreach, and payer‑driven MTM programs.
-- **Mirixa** — A long‑standing MTM platform used by many retail chains; supports CMRs, TMRs, and prescriber outreach.
 
 ## Billing Workflow
 
