@@ -128,6 +128,22 @@ Starts with a direct patient interview
 - Prompt the patient or caregiver beyond typical medications.
 - Document in a clear & concise manner.
 
+Look for potential errors in medication history:
+
+- Omissions
+- medication listed, but not taking
+- missing information (dose, route, frequency)
+- LASA Medications
+- Errors in data entry
+
+Obtain as much information as possible and list the source for documentation
+
+### 1. Interview preparation
+
+familiarize yourself with relevant and accessible information regarding patient history.
+ask patient to bring in all medications, including: creams, lotions, solutions, syrups, sprays, inhalers, eye drops, insulin vials, injections, nasal sprays, nebulizers, over the counter medications, as needed medications, herbal products, and food supplements.
+<!-- preserve list exactly because it's for a patient that doesnt know better -->
+
 ### 2. Introductions
 
 The technician should begin the interview with an introduction
@@ -188,4 +204,12 @@ list should be shown at every office visit, trip to the pharmacy, or admission t
 
 ### 6. Cross-Examination
 
-Call all pharmacies to cross-reference prescription medications & document discrepancies
+Ask for permission to call family to address any omissions.
+
+"Is there someone at home that can read off your medications from the prescriptions?"
+
+After the interview, call all pharmacies to cross-reference prescription medications & document discrepancies
+
+### 7. Submit Report to Pharmacist & Provider
+
+provide your completed report
