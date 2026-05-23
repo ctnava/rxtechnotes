@@ -74,7 +74,6 @@ Topics often include:
 - Under **BPC § 4052.2**, **Advanced Practice Pharmacists (APh)** may independently provide MTM services.  
 - Pharmacists may initiate/modify therapy under a **Collaborative Practice Agreement (CPA)**.  
 - CA pharmacists frequently perform CMRs/TMRs for **health plan quality measures** (e.g., CMS Star Ratings).  
-- 🛡️ **Technicians may assist** with scheduling, documentation prep, and follow‑up, but **may not** perform clinical reviews, counsel patients, or document clinical interventions.  
 - 🐻 MTM services must comply with **California Confidentiality of Medical Information Act (CMIA)** and **HIPAA** privacy standards. Document storage and communication platforms must meet both state and federal privacy standards.
 
 ### 🩺 Disease State Management (DSM)
@@ -86,7 +85,7 @@ Pharmacists provide **Disease State Management** services to help patients with 
 - Asthma
 - Hyperlipidemia
 
-DSM programs often involve patient counseling, medication adherence support, lifestyle education, and clinical monitoring. Technicians assist with **scheduling**, **data collection**, and **documentation prep**.
+DSM programs often involve patient counseling, medication adherence support, lifestyle education, and clinical monitoring.
 
 ⚖️ DSM is **not federally mandated**, but is commonly integrated into MTM programs and state Medicaid initiatives.
 
@@ -157,9 +156,10 @@ Rejections often do not appear for several weeks and are accompanied by justific
 
 > 📌 MTM is commonly delivered through [OutcomesMTM](https://www.outcomesmtm.com).
 
-- Pharmacists are reimbursed for MTM at rates averaging **$1–$3 per minute** of consultation.
-
 ### Technicians
+
+- 🛡️🐻 **Technicians may assist** with scheduling, documentation prep, and follow‑up, but **may not** perform clinical reviews, counsel patients, or document clinical interventions.  
+ Technicians assist with **scheduling**, **data collection**, and **documentation prep**.
 
 Technicians assist by preparing medication histories, documentation, and assisting with insurance or billing tasks.
 
