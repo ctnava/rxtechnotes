@@ -2,7 +2,7 @@
 
 ## Definitions
 
-## Medicare Modernization Act (MMA, 2003) & MTM
+### Medicare Modernization Act (MMA, 2003)
 
 The MMA established Medicare **Part D**, an optional drug benefit program. It sets guidelines for, and relies on, private **Prescription Drug Plans** (PDP) companies to provide prescription drug coverage for eligible individuals, which each have their own formularies.
 
