@@ -1,4 +1,4 @@
-# Medication Reconciliation for Assisting with MTM Services
+# Medication Reconciliation
 
 ## Definitions
 
