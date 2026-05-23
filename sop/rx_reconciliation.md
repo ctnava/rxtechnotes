@@ -141,7 +141,7 @@ A high‑quality history reduces medication errors, improves MTM outcomes, and e
 
 Always document **where each piece of information came from** (patient, caregiver, pill bottles, pharmacy, EHR, etc.).
 
-### 1. Interview preparation
+### 1. Interview Preparation
 
 `Accuracy depends on the patient's willingness & ability to provide correct information.`
 
@@ -161,7 +161,8 @@ Ask the patient to bring **all medications**, including:
 - Herbal products  
 - Food supplements
 
-If the patient does not speak English as their first language, encourage them to bring a family member to interpret.
+If the patient does not speak English as their first language, encourage them to bring a family member to interpret.  
+If no one is available, request a professional interpreter to ensure accuracy and avoid miscommunication.
 
 ### 2. Introductions
 
@@ -177,7 +178,7 @@ Begin with a professional, patient‑centered introduction:
 - Determine how many pharmacies (including mail‑order) and providers the patient uses.  
 - Identify each pharmacy and prescriber for later verification.
 
-> If the patient has brought an interpretor, make sure to stress the importance of open-ended questions and instruct them not to summarize.
+> If the patient has brought an interpreter, make sure to stress the importance of open‑ended questions and instruct them not to summarize. The interpreter should translate word‑for‑word, not filter or condense the patient’s responses.
 
 ### 3. Determine Medications
 
