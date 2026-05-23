@@ -6,19 +6,48 @@
 
 The MMA established Medicare **Part D**, an optional drug benefit program. It sets guidelines for, and relies on, private **Prescription Drug Plans** (PDP) companies to provide prescription drug coverage for eligible individuals, which each have their own formularies.
 
-It also requires pharmacists to provide **Medication Therapy Management (MTM)** services to optimize therapeutic outcomes while minimizing adverse events.
+It also requires pharmacists to provide **Medication Therapy Management (MTM)** services, for eligible Medicare Part D beneficiaries, to optimize therapeutic outcomes while minimizing adverse events.
 
 ### 💊 Medication Therapy Management (MTM)
 
-**Medication Therapy Management (MTM)** refers to a set of **clinical, patient‑centered services** provided by pharmacists to optimize medication use, improve therapeutic outcomes, and reduce medication‑related problems. MTM is usually targeted toward patients taking multiple chronic medications (**polypharmacy**), especially those with **multiple conditions** or **high drug costs** (>$3000/year).
+**Medication Therapy Management (MTM)** is a set of **clinical, patient‑centered services** provided by pharmacists to optimize medication use, improve therapeutic outcomes, and reduce medication‑related problems (MRPs).
+
+MTM programs are designed for patients who are at **high risk for medication‑related complications**, typically due to **multiple chronic diseases**, **polypharmacy**, and **high annual drug costs**.
+
+#### 🦅 CMS‑Required MTM Eligibility Criteria
+
+To qualify for MTM, a Medicare Part D beneficiary must meet **all three** CMS criteria. Plans may set thresholds within CMS‑approved ranges.
+
+1. **Multiple Chronic Diseases**  
+   - Plans may require **2–3 chronic diseases**. Most plans choose **3**.
+   - some covered conditions include:
+     1. **Hypertension (HTN)**  
+     2. **Heart Failure (HF)**  
+     3. **Diabetes Mellitus (DM)**  
+     4. **Dyslipidemia / Hyperlipidemia**  
+     5. **Respiratory Disease** (Asthma, COPD)  
+     6. **Bone Disease / Arthritis** (Osteoporosis, RA)  
+     7. **Mental Health Conditions** (Alzheimer's, Depression, Schizophrenia, Bipolar)  
+     8. **End‑Stage Renal Disease (ESRD)**  
+     9. **HIV/AIDS**
+
+2. **Multiple Part D Medications**
+   - Plans may require **2–8 Part D medications**.  
+   - Most plans choose **8 or more**.
+
+3. **Annual Drug Costs Exceeding CMS Threshold**  
+   - CMS sets a new threshold each year.  
+   - Historically around **$4,000–$5,000/year**.  
+     - 2024: **$4,935**  
+     - 2025: **$5,330**
 
 #### 💊 MTM‑Billable Services
-
-Common MTM services include:
 
 ##### 📃 **Comprehensive Medication Reviews (CMRs)**
 
 A **full, structured, patient‑centered review** of *all* medications a patient is taking. CMRs are the cornerstone MTM service and always require **direct patient interaction**.
+
+Done within 60 days of enrollment in Medicare Part D & annually to passively scan for issues. If active problems are identified, reviews are quarterly.
 
 **Core Components**:
 
