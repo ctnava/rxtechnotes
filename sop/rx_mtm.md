@@ -402,7 +402,7 @@ Pharmacies use CMS‑1500 for:
 - **DMEPOS supplies**  
 - **Clinical services not billable through NCPDP**
 
-### 📑 Required Supporting Documentation
+#### 📑 Required Supporting Documentation
 
 PDPs and medical insurers typically require:
 
@@ -415,7 +415,7 @@ PDPs and medical insurers typically require:
 - Intervention frequency and follow‑up documentation  
 - Reporting metrics submitted to CMS
 
-### 💡 Billing Requirements
+#### 💡 Billing Requirements
 
 - MTM billing requires **accurate time tracking**  
 - Clinical notes must justify billed time  
@@ -424,7 +424,7 @@ PDPs and medical insurers typically require:
 - Pharmacists are reimbursed at **$1–$3 per minute** on average  
 - Documentation must be retained for **audit purposes**  
 
-### 🧑‍💻 CPT Codes for MTM
+#### 🧑‍💻 CPT Codes for MTM
 
 **CPT codes identify the MTM service delivered.**
 
@@ -436,6 +436,44 @@ PDPs and medical insurers typically require:
 
 > 🐻 **Medi‑Cal does NOT reimburse** MTM CPT codes.  
 > MTM is embedded within broader care‑management programs.
+
+### 🏥 Alternative Billing Models for Pharmacist Clinical Services
+
+Pharmacists practicing in clinical settings outside the pharmacy may use **alternative billing pathways** when MTM CPT codes (99605–99607) are not appropriate or not reimbursed. These models apply to **Medicare Part B** and **hospital outpatient billing**, not Medicare Part D.
+
+#### 🧑‍⚕️ “Incident‑to Physician” Billing (CPT 99211)
+
+Pharmacists embedded in a **physician’s office** may bill Medicare Part B **incident‑to** the supervising provider using **CPT 99211**, provided all CMS requirements are met.
+
+**Requirements for 99211 billing include:**
+
+- The physician/NP/PA performs the **initial evaluation**.  
+- The pharmacist provides **follow‑up care** under an established care plan.  
+- The supervising provider is **on‑site and immediately available**.  
+- The service is **medically necessary**.  
+- Documentation supports the level of service.
+
+**Key points:**
+
+- 99211 is billed **under the physician’s NPI**, not the pharmacist’s.  
+- Often used for chronic disease management, medication titration, and follow‑up visits.  
+- This is **not MTM billing**; it is **Evaluation & Management (E/M)** billing under Medicare Part B.
+
+#### 🏥 Hospital Outpatient Prospective Payment System (HOPPS)
+
+Pharmacists practicing in **hospital outpatient clinics** may generate a **facility fee** under the **Hospital Outpatient Prospective Payment System (HOPPS)**.
+
+**Key features:**
+
+- Billed by the **hospital**, not the pharmacist.  
+- Uses **Ambulatory Payment Classifications (APCs)**.  
+- Pharmacist services are **packaged into the facility fee**, not billed separately.  
+- Common in anticoagulation clinics, transplant clinics, oncology supportive care, and chronic disease management.
+
+**Important distinction:**
+
+- Pharmacists do **not** bill CPT codes directly under HOPPS.  
+- The hospital bills a **facility fee** for the encounter, which includes pharmacist services.
 
 ### 📄 Universal Claim Form (UCF)
 
@@ -465,6 +503,53 @@ Rejections often do not appear for several weeks and are accompanied by justific
 
 ---
 
-## misc
+## Billing Workflow
+
+```mermaid
+flowchart TD
+    %% STYLE DEFINITIONS
+    classDef pharm fill:#E3F2FD,stroke:#1E88E5,stroke-width:1px,color:#0D47A1;
+    classDef billtech fill:#E8F5E9,stroke:#43A047,stroke-width:1px,color:#1B5E20;
+    classDef physician fill:#E1F5FE,stroke:#0288D1,stroke-width:1px,color:#01579B;
+    classDef payer fill:#FCE4EC,stroke:#C2185B,stroke-width:1px,color:#880E4F;
+
+    %% SWIMLANES
+    subgraph PHARMACIST["Pharmacist"]
+        P1(["Provide Clinical Documentation<br/>SOAP, MRPs, MAP/PMR, time logs"]):::pharm
+        P2(["Respond to Billing Tech Questions<br/>Clarifications, missing data"]):::pharm
+        P3(["Send Prescriber Outreach Summary<br/>If required for billing"]):::pharm
+    end
+
+    subgraph BILLTECH["Billing Technician"]
+        B1(["Receive Documentation Packet<br/>SOAP, MAP/PMR, time, interventions"]):::billtech
+        B2(["Verify Billing Requirements<br/>CPT codes, time units, payer rules"]):::billtech
+        B3(["Prepare CMS-1500<br/>Medical benefit billing"]):::billtech
+        B4(["Prepare UCF (if needed)<br/>Pharmacy benefit paper claim"]):::billtech
+        B5(["Attach Supporting Documents<br/>MAP, PMR, SOAP, prescriber notes"]):::billtech
+        B6(["Submit Claim<br/>Pharmacy system, provider office, MTM platform"]):::billtech
+        B7(["Respond to Payer Documentation Requests"]):::billtech
+        B8(["Maintain Audit Trail<br/>Retain documents for 3–10 years"]):::billtech
+    end
+
+    subgraph PHYSICIAN["Physician"]
+        MD1(["Review Pharmacist Recommendations"]):::physician
+        MD2(["Approve/Modify Therapy<br/>New orders, clarifications"]):::physician
+        MD3(["Send Updated Orders to Pharmacy"]):::physician
+    end
+
+    subgraph PAYER["Payer / Plan"]
+        PY1(["Claim Adjudication"]):::payer
+        PY2(["Request Additional Documentation"]):::payer
+        PY3(["Issue Payment"]):::payer
+    end
+
+    %% FLOW CONNECTIONS
+    P1 --> B1 --> B2 --> B3
+    B2 --> B4
+    B3 --> B5 --> B6 --> PY1 --> PY2 --> B7 --> PY3 --> B8
+
+    %% PRESCRIBER INTERACTION
+    P3 --> MD1 --> MD2 --> MD3 --> B5
+```
 
 ---
