@@ -120,100 +120,153 @@ flowchart TD
 
 ## Medication History Workflow
 
-Starts with a direct patient interview
+Medication history collection begins with a **direct patient interview** and is the foundation of accurate medication reconciliation.
+
+A high‑quality history reduces medication errors, improves MTM outcomes, and ensures safe transitions of care.
 
 ### Medication History Tips
 
-- Ask open ended questions that can't be answered with yes or no.
-- Prompt the patient or caregiver beyond typical medications.
-- Document in a clear & concise manner.
+- Ask **open‑ended questions** that cannot be answered with yes/no.  
+- Prompt the patient or caregiver to think beyond “typical” medications.  
+- Document clearly, concisely, and consistently.  
+- Verify information using **multiple sources** whenever possible.
 
-Look for potential errors in medication history:
+**Common Errors to Watch For**:
 
-- Omissions
-- medication listed, but not taking
-- missing information (dose, route, frequency)
-- LASA Medications
-- Errors in data entry
+- Omitted medications  
+- Medications listed but **not actually being taken**  
+- Missing information (dose, route, frequency)  
+- LASA (Look‑Alike Sound‑Alike) medication confusion  
+- Errors in transcription or data entry
 
-Obtain as much information as possible and list the source for documentation
+Always document **where each piece of information came from** (patient, caregiver, pill bottles, pharmacy, EHR, etc.).
 
 ### 1. Interview preparation
 
-familiarize yourself with relevant and accessible information regarding patient history.
-ask patient to bring in all medications, including: creams, lotions, solutions, syrups, sprays, inhalers, eye drops, insulin vials, injections, nasal sprays, nebulizers, over the counter medications, as needed medications, herbal products, and food supplements.
-<!-- preserve list exactly because it's for a patient that doesnt know better -->
+Before speaking with the patient:
+
+- Review available EHR data, prior medication lists, and recent provider notes.  
+- Identify high‑risk medications or disease states requiring closer attention.
+
+Ask the patient to bring **all medications**, including:
+
+- Creams, lotions, solutions, syrups  
+- Sprays, inhalers, eye drops  
+- Insulin vials, pens, injections  
+- Nasal sprays, nebulizers  
+- Over‑the‑counter medications  
+- PRN (“as needed”) medications  
+- Herbal products  
+- Food supplements
 
 ### 2. Introductions
 
-The technician should begin the interview with an introduction
+Begin with a professional, patient‑centered introduction:
 
-confirm patient identification by asking for name & date of birth
-
-explain what you're doing and why
-
-determine if the patient has any medication, food, and/or environmental allergies/ intolerances (and reactions)
-
-determine how many pharmacies (including mail-order) and providers the patient use then identify them.
+- Confirm patient identity using **name and date of birth**.  
+- Explain the purpose of the medication history and how it improves their care.  
+- Ask about:
+  - Medication allergies  
+  - Food allergies  
+  - Environmental allergies  
+  - Reactions (not just “yes/no”)
+- Determine how many pharmacies (including mail‑order) and providers the patient uses.  
+- Identify each pharmacy and prescriber for later verification.
 
 ### 3. Determine Medications
 
-Review and individually verify each medication (OTC & Rx) with patient or caregiver. The technician must obtain the following information for every drug the patient takes:
+Review and individually verify **each medication** (OTC & Rx) with the patient or caregiver.
 
-- Name (abbreviations & formulations)
+For every medication, obtain:
+
+- **Name** (brand/generic, abbreviations, formulations)  
   - Patient may know brand or generic name
-- Dosage Form
-- Dose & Strength
+- **Dosage form**  
+- **Dose & strength**  
   - To determine amount of active ingredient
-- Frequency
-  - Directions for Use
-- Duration
-  - How long the patient has taken the medication
-- Route of administration
-- Reason for taking the medicaiton
+- **Frequency** (directions for use)  
+- **Duration** (how long they’ve taken it)  
+- **Route of administration**  
+- **Indication** (why they take it)  
+  - indication is critical for MTM and deprescribing decisions
 
-> Any information the patient provides may be completely wrong.
+> Any information the patient provides may be incomplete or incorrect.  
+> Verification is essential.
 
-Gather the same information about herbal medications or supplements.
+Also gather the same information for **herbal medications, supplements, and OTC products**.
 
-"what do you take for pain"
-what medications do you only take sometimes or as needed
-what do you take that you buy off the shelf
-what do you take if you have allergies
+Helpful prompts:
+
+- “What do you take for pain?”  
+- “What medications do you take only sometimes or as needed?”  
+- “What do you buy off the shelf?”  
+- “What do you take if you have allergies?”
 
 ### 4. Determine Compliance & Identify Possible Issues
 
-Clarify how the patient is actually taking the medication.
+Clarify **how** the patient is actually taking their medications:
 
-- "in the last week, how many doses did you miss?"
-- "when was the last time you took your blood pressure medicine"
+- “In the last week, how many doses did you miss?”  
+- “When was the last time you took your blood pressure medicine?”  
 
-Determine if the patient is having any problems with their medications.
+Identify barriers:
 
-If the patient is noncompliant with medication, ask why.
+- Side effects  
+- Cost  
+- Forgetfulness  
+- Difficulty opening bottles or using devices  
+- Misunderstanding directions
 
-- "What do you not like about your medications? Cost? Side effects?"
+If the patient is non‑compliant, ask:
+
+- “What do you not like about your medications?”  
+- “Is cost ever a factor?”  
+- “Have you noticed any side effects?”
 
 ### 5. Educate the Patient on the Importance
 
-Educate the patient and/ or caregiver about the importance of carrying accurate and up-to-date medication information with them.
-Many providers are not aware of medication prescribed by other clinicians and OTCs the patient chooses.
-An accurate list could decrease the chance of medication error.
-recommend updating the list after every provider visit and hospital discharge
-list should be shown at every office visit, trip to the pharmacy, or admission to care facilities to prevent errors.
+Explain why maintaining and carrying an accurate medication list matters:
+
+- Many providers are unaware of medications prescribed by others.  
+- OTCs and supplements can interact with prescription drugs.  
+- An accurate list reduces the risk of medication errors.  
+
+Encourage the patient to:
+
+- Update their list after **every** provider visit or hospital discharge.  
+- Bring the list to **all** appointments, pharmacy visits, and care transitions.  
 
 ### 6. Cross-Examination
 
-Ask for permission to call family to address any omissions.
+Ask for permission to contact family or caregivers to fill in gaps:
 
-"Is there someone at home that can read off your medications from the prescriptions?"
+- “Is there someone at home who can read your medication labels to us?”  
 
-After the interview, call all pharmacies to cross-reference prescription medications & document discrepancies
+After the interview:
+
+- Call **all pharmacies** the patient uses to cross‑reference active prescriptions.  
+- Document any discrepancies found.
 
 ### 7. Gather Pending Medications
 
-look at pending physician's orders in the EHR
+Review pending or newly ordered medications in the EHR:
+
+- Identify new prescriptions  
+- Identify discontinued medications  
+- Identify dose changes
 
 ### 8. Submit Report to Pharmacist & Provider
 
-provide your completed report
+Provide the completed medication history to the pharmacist for clinical review.
+
+The pharmacist will:
+
+- Compare current vs new medications  
+- Identify omissions, duplications, interactions, contraindications  
+- Communicate findings to the provider  
+
+The provider will:
+
+- Make clinical decisions based on the reconciliation report  
+
+---
