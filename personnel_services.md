@@ -60,13 +60,20 @@ The **Omnibus Budget Reconciliation Act (OBRA-90, 1990)** was a major federal la
 - 📋 **Conduct DURs**: Evaluate prescriptions to identify adverse effects, therapeutic duplication, drug–disease contraindications, incorrect dosage or duration, and drug–drug interactions.
 - 💬 **Offer Counseling to Medicaid Patients**: Pharmacists must “offer to counsel” Medicaid patients on:
   - Name and description of the medication
-  - Proper use of the medication; route, dosage, dosage form, and directions
-  - Special Precautions & Directions
+  - Proper use of the medication
+    - Dosage Amounts
+    - Route of Administration
+    - Duration of Administration
+    - Special Directions
+    - What to do in case of a missed dose
+  - Precautions
+    - Potential side effects
+    - Adverse reactions
+    - Drug Interactions
   - Potential side effects, adverse reactions, interactions, and contraindications
   - Techniques for self-monitoring therapy
   - Storage instructions
-  - Prescription refill instructions
-  - What to do in case of a missed dose
+  - Refill Directions
   - 📁 **Document Counseling Offers**: While OBRA-90 requires the offer, specific documentation requirements (such as signed refusals) vary by state.
 
 > ⚠️ Some states have extended OBRA-90 requirements to all patients, not just Medicaid recipients.

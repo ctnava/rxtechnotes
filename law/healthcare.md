@@ -16,6 +16,7 @@ OBRA-90 was a major federal law affecting Medicaid & Medicare prescription drug 
 - 📄 **Maintain Patient Medication Profiles**: Pharmacies must maintain records `(on-site for a minimum of 2 years)` of a patient's medication history to support counseling and DUR obligations.
 - 📋 **Conduct DURs**: Evaluate prescriptions to identify adverse effects, therapeutic duplication, drug–disease contraindications, incorrect dosage or duration, allergies, and drug–drug interactions.
 - 💬 **Offer Counseling to Medicaid Patients**: Pharmacists must “offer to counsel” Medicaid patients on:
+  - Name and description of the medication
   - Proper use of the medication
     - Dosage Amounts
     - Route of Administration
@@ -26,6 +27,8 @@ OBRA-90 was a major federal law affecting Medicaid & Medicare prescription drug 
     - Potential side effects
     - Adverse reactions
     - Drug Interactions
+  - Potential side effects, adverse reactions, interactions, and contraindications
+  - Techniques for self-monitoring therapy
   - Storage instructions
   - Refill Directions
   - 📁 **Document Counseling Offers**: While OBRA-90 requires the offer, specific documentation requirements (such as signed refusals) vary by state.
