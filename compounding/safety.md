@@ -4,9 +4,19 @@ Healthcare environments contain a wide range of chemical, biological, and physic
 
 ---
 
-## ☣️ Hazardous Materials
+## Occupational Safety & Health Act (OSHA, 1970)
 
-Modern pharmacies handle substances that can cause acute or chronic harm if mishandled. These include corrosive chemicals, cytotoxic medications, volatile solvents, and biological contaminants. Because of this, federal and state regulations require structured systems for identifying hazards, training employees, and ensuring safe disposal.
+`Enforced by the Occupational Safety & Health Administration (OSHA)`
+
+OSHA establishes nationwide standards to protect pharmacy personnel from workplace hazards such as chemicals, hazardous drugs, sharps, and bloodborne pathogens.
+
+🔑 **Key Requirements for Pharmacies**
+
+- Provide **safety training** to all employees (initial + periodic refreshers).
+- Supply appropriate **Personal Protective Equipment (PPE)** at no cost when exposure risks exist.
+- Ensure proper **labeling** of chemicals and secondary containers.
+- Follow **Bloodborne Pathogens** standards in settings that administer vaccines or handle sharps.
+- Maintain an **Exposure Control Plan** and procedures for spills, exposures, and emergencies.
 
 ### 🦅 OSHA Hazard Communication Standard (“Right to Know”)
 
@@ -24,14 +34,30 @@ Hospitals and pharmacies must therefore:
 - Ensure all containers are properly labeled with hazard warnings  
 - Keep **Safety Data Sheets (SDS)** accessible at all times  
 
+### Safety Data Sheets (SDS)
+
+`Formerly Materials Safety Data Sheets (MSDS)`
+
 An ***SDS*** is a standardized document that outlines:
 
-- Physical and chemical properties  
+- Physical and chemical properties
+- Hazards of a chemical or drug  
 - Routes of exposure and symptoms  
+- Required PPE  
 - First‑aid measures  
 - Safe handling and storage requirements  
 - Spill containment procedures  
 - Disposal considerations  
+
+> ⚠️ All hazardous drugs (e.g. **chemotherapy agents**, **antineoplastics**, **cytotoxic drugs**) and hazardous cleaning chemicals must have SDS accessible to staff.
+
+🔗 [USP SDS Online Database](https://www.uspmsds.com/)
+
+---
+
+## ☣️ Hazardous Materials
+
+Modern pharmacies handle substances that can cause acute or chronic harm if mishandled. These include corrosive chemicals, cytotoxic medications, volatile solvents, and biological contaminants. Because of this, federal and state regulations require structured systems for identifying hazards, training employees, and ensuring safe disposal.
 
 ### Waste Segregation & Disposal Systems
 

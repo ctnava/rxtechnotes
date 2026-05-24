@@ -10,21 +10,42 @@ OSHA establishes nationwide standards to protect pharmacy personnel from workpla
 
 - Provide **safety training** to all employees (initial + periodic refreshers).
 - Supply appropriate **Personal Protective Equipment (PPE)** at no cost when exposure risks exist.
-- Maintain accessible **Safety Data Sheets (SDS)** for all hazardous chemicals and drugs.
 - Ensure proper **labeling** of chemicals and secondary containers.
 - Follow **Bloodborne Pathogens** standards in settings that administer vaccines or handle sharps.
 - Maintain an **Exposure Control Plan** and procedures for spills, exposures, and emergencies.
 
-⚠️ **Safety Data Sheets (SDS)**
+### 🦅 OSHA Hazard Communication Standard (“Right to Know”)
 
-SDS documents outline:
+Under the OSHA Hazard Communication Standard, employees have a legally protected **Right to Know** about hazardous chemicals in their workplace. This includes:
 
-- Hazards of the chemical or drug  
+- The identity and classification of hazardous substances  
+- The risks associated with exposure  
+- Required PPE and engineering controls  
+- Emergency procedures for spills or accidental contact  
+
+Hospitals and pharmacies must therefore:
+
+- Maintain an updated inventory of hazardous chemicals  
+- Provide initial and ongoing employee training  
+- Ensure all containers are properly labeled with hazard warnings  
+- Keep **Safety Data Sheets (SDS)** accessible at all times  
+
+### Safety Data Sheets (SDS)
+
+`Formerly Materials Safety Data Sheets (MSDS)`
+
+An ***SDS*** is a standardized document that outlines:
+
+- Physical and chemical properties
+- Hazards of a chemical or drug  
+- Routes of exposure and symptoms  
 - Required PPE  
-- Safe handling and storage  
-- Spill, exposure, and first‑aid instructions  
+- First‑aid measures  
+- Safe handling and storage requirements  
+- Spill containment procedures  
+- Disposal considerations  
 
-> ⚠️ SDS are required for **chemotherapy agents**, **antineoplastics**, **cytotoxic drugs**, and all hazardous cleaning chemicals.
+> ⚠️ All hazardous drugs (e.g. **chemotherapy agents**, **antineoplastics**, **cytotoxic drugs**) and hazardous cleaning chemicals must have SDS accessible to staff.
 
 🔗 [USP SDS Online Database](https://www.uspmsds.com/)
 
