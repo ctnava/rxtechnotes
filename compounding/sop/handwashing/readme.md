@@ -49,5 +49,6 @@ This SOP outlines the required procedure for aseptic hand hygiene in environment
 ## 🗺️🔗 Nav Links
 
 - 🔙🔗 Back to [SOP - PPE Doffing & Donning](../ppe/readme.md#-pre-gowning-requirements)
-- 🔙🔗 Back to [Infection Control](../../infection_control.md#-hand-hygiene)
+- 🔙🔗 Back to [Handling Biohazards & Infection Control](../../infection_control.md#-hand-hygiene)
+- 🔙🔗 Back to [Hazardous Drug Handling](../../infection_control.md#-hand-hygiene)
 - 🥚 [Original WHO Document](./who_guidelines.pdf)
