@@ -72,15 +72,27 @@ USP <800> establishes national standards for:
 
 NIOSH identifies hazardous drugs based on:
 
-- **Cytotoxicity** (e.g., antineoplastic agents)  
-- **Reproductive toxicity** (e.g., hormonal therapies)
-- **Teratogenicity** (i.e. developmental toxicity)  
+- **Cytotoxicity**: Causing cell death; being potential carcinogens (e.g., antineoplastic agents)  
+- **Reproductive Toxicity**: Reduced or eliminated fertility (e.g., hormonal therapies)
+- **Teratogenicity**: Causing birth defects (i.e. developmental toxicity)  
+- **Genotoxicity**: Causing genetic damage
+- **Carcinogenicity**: Causing cancer
 - **Organ toxicity at low doses**  
-- **Genotoxicity**
-- **Carcinogenicity**
 - **Drugs harmful upon skin contact**  
 
 Any medication meeting these criteria must be handled and discarded according to USP <800> standards.
+
+### Routes of Exposure
+
+Hazardous drugs can enter the body in several ways:
+
+- **Dermal Contact (Most Common)**: touching contaminated surfaces with unprotected skin, especially the palm of the hand.
+- **Inhalation**: breathing contaminated air
+- **Hand-to-Mouth Contact**: contaminated fingers, gum, pens, etc. put into the worker's mouth
+- **Ingestion**: of contaminated food or drink
+- **Accidental Injection**
+
+> Surface contamination is a major contributor to exposure
 
 ---
 
