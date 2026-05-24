@@ -59,27 +59,7 @@ An ***SDS*** is a standardized document that outlines:
 
 Modern pharmacies handle substances that can cause acute or chronic harm if mishandled. These include corrosive chemicals, cytotoxic medications, volatile solvents, and biological contaminants. Because of this, federal and state regulations require structured systems for identifying hazards, training employees, and ensuring safe disposal.
 
-### Waste Segregation & Disposal Systems
-
-Waste disposal in healthcare is governed by environmental, occupational, and public health regulations. Improper disposal can harm workers, contaminate groundwater, or violate federal law. Pharmacies use color‑coded waste streams to ensure compliance.
-
-#### 🟥 Red Bins — Infectious & Biohazardous Waste
-
-Red bags and red sharps containers are used for materials contaminated with **blood, bodily fluids, or infectious agents**.
-
-Examples include:
-
-- **SHARPS**: items that may cut or puncture (Used needles, lancets, and syringes)
-- Blood‑soaked gauze or dressings  
-- Contaminated gloves or PPE  
-
-Reusable items such as scrubs or linens are **sanitized**, not discarded.
-
-### ⬛ Black Bins — Hazardous Pharmaceutical Waste
-
-Black bins are reserved for medications classified as hazardous by **NIOSH**, **EPA**, **DEA**, or **DOT**. These substances pose risks such as carcinogenicity, reproductive toxicity, organ damage, or environmental contamination.
-
-#### ☣️ USP <800> Overview  
+### ☣️ USP <800> Overview  
 
 USP <800> establishes national standards for:
 
@@ -100,6 +80,28 @@ NIOSH identifies hazardous drugs based on:
 
 Any medication meeting these criteria must be handled and discarded according to USP <800> standards.
 
+---
+
+## Waste Segregation & Disposal Systems
+
+Waste disposal in healthcare is governed by environmental, occupational, and public health regulations. Improper disposal can harm workers, contaminate groundwater, or violate federal law. Pharmacies use color‑coded waste streams to ensure compliance.
+
+### 🟥 Red Bins — Infectious & Biohazardous Waste
+
+Red bags and red sharps containers are used for materials contaminated with **blood, bodily fluids, or infectious agents**.
+
+Examples include:
+
+- **SHARPS**: items that may cut or puncture (Used needles, lancets, and syringes)
+- Blood‑soaked gauze or dressings  
+- Contaminated gloves or PPE  
+
+Reusable items such as scrubs or linens are **sanitized**, not discarded.
+
+### ⬛ Black Bins — Hazardous Pharmaceutical Waste
+
+Black bins are reserved for medications classified as hazardous by **NIOSH**, **EPA**, **DEA**, or **DOT**. These substances pose risks such as carcinogenicity, reproductive toxicity, organ damage, or environmental contamination.
+
 ### 🟨 Yellow Bins — Trace Chemotherapy & Cytotoxic Waste
 
 Yellow bins are used for **trace chemotherapy waste**, meaning items contaminated with small amounts of cytotoxic drugs.
@@ -117,7 +119,9 @@ Examples include:
 
 This distinction prevents environmental contamination and ensures compliance with EPA regulations.
 
-### Eyewash Stations & Emergency Response
+---
+
+## Eyewash Stations & Emergency Response
 
 Hazardous materials can cause immediate and irreversible damage if they contact the eyes. Pharmacies must maintain accessible eyewash stations that meet ANSI standards.
 
