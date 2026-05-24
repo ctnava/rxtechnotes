@@ -46,6 +46,7 @@ PHI may exist in several formats:
 - **Identifiers**: in any form (e.g. Name, DOB, address, SSN, MRN, phone number, photographs)
 
 > 🚨 Always **handle PHI securely**, regardless of format.
+> 🚨 Use a blank cover page when faxing PHI to protect privacy.
 
 #### Medical Records
 
