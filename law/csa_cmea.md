@@ -73,8 +73,8 @@ These drugs **require** special handling.
 | Schedule | Mark | 🧾 Description | 💊 Examples | 🔁 Prescribing Restrictions |
 | --- | --- | --- | --- | --- |
 | 🟥 I | C-I | 🚫 No accepted medical use, 🆙 high abuse potential | Heroin, LSD, Ecstasy (MDMA), Cannabis* | ❌ **Not allowed** — Cannot be prescribed |
-| 🟥 II | C-II | ✅ Accepted medical use, 🆙 high abuse risk, severe dependence | Oxycodone (opioid), Methadone (opioid), Fentanyl (opioid), Adderall (most stimulants) | ⛔ **No refills allowed** — New Rx required each time; prescriptions valid for 30 days; prescriptions valid for 30 days to 6 months |
-| 🟧 III | C-III | ⚠️ Moderate to low physical/psychological dependence potential | Ketamine (anesthetic), Medications w/ < 15mg hydrocodone (e.g. Vicodin) , Medications w/ 90 mg codeine (e.g. Tylenol III) | 🔁 Up to **5 refills** in **6 months**; prescriptions valid for 6 months |
+| 🟥 II | C-II | ✅ Accepted medical use, 🆙 high abuse risk, severe dependence | Morphine, Codeine, Hydrocodone, Opium, Hydromorphone, Methadone, Meperidine, Oxycodone, Fentanyl; Amphetamines, Methylphenidate, cocaine, Amobarbital, Flutethimide, Phenobarbital, Secobarbital | ⛔ **No refills allowed** — New Rx required each time; prescriptions valid for 30 days; prescriptions valid for 30 days to 6 months |
+| 🟧 III | C-III | ⚠️ Moderate to low physical/psychological dependence potential | Medications w/ < 15mg hydrocodone (Vicodin) , Medications w/ 90 mg codeine (Tylenol III), Anabolic Steroids, Benzphetamine, Phendimetrazine, Ketamine, Dronabinol | 🔁 Up to **5 refills** in **6 months**; prescriptions valid for 6 months |
 | 🟨 IV | C-IV | 🟡 Low abuse potential and dependence risk | Alprazolam (Xanax), Diazepam (Valium), Zolpidem (Ambien), Tramadol (most benzodiazepines, some sleep aids & analgesics) | 🔁 Up to **5 refills** in **6 months**; prescriptions valid for 6 months |
 | 🟩 V | C-V | 🟢 Lowest abuse potential, small amounts of narcotics | Robitussin AC (codeine cough syrup), Lomotil (diarrhea), Lyrica (pregabalin) | 🔁 Up to **5 refills** in **6 months**; prescriptions valid for 6 months |
 
