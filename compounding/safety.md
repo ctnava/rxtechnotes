@@ -96,6 +96,35 @@ Hazardous drugs can enter the body in several ways:
 
 ---
 
+## Handling Activities
+
+<!-- todo -->
+
+### Spill Control
+
+`One of the greatest risks from HDs is personal and environmental contamination from accidental spillage.`
+
+Accidental hazardous drug (HD) spills must be managed using standardized USP <800> and OSHA‑compliant procedures to prevent dermal exposure, inhalation, and environmental contamination. All areas where HDs are received, stored, transported, compounded, or dispensed must maintain **immediately accessible HD spill kits**, and all personnel, including delivery staff, must be trained in spill response.
+
+Policies and procedures should be in place to prevent and clean spills; containing written guidelines specifying who is responsible for spill management.
+
+**Core Requirements**:
+
+- Isolate the area and restrict access.
+- Don full PPE: chemotherapy‑rated double gloves, impermeable gown, eye/face protection, and a fit‑tested respirator (N95 or PAPR).
+- Use HD spill kit materials to contain, absorb, and collect spilled drug and contaminated debris.
+- Dispose of all cleanup materials in **hazardous drug waste** (trace or bulk chemo) per facility policy.
+- Decontaminate the surface using detergent → water rinse → sporicidal agent (per USP <800> sequence).
+- Remove PPE in correct order to avoid self‑contamination; perform hand hygiene immediately.
+
+**Reporting & Follow‑Up**:
+
+- Every spill must be documented according to facility policy.
+- Any employee with potential exposure must complete an incident or injury report and receive prompt medical evaluation.
+- Spill events must be reviewed as part of the facility’s Exposure Control Plan to prevent recurrence.
+
+---
+
 ## Eyewash Stations & Emergency Response
 
 Hazardous materials can cause immediate and irreversible damage if they contact the eyes. Pharmacies must maintain accessible eyewash stations that meet ANSI standards.
