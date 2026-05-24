@@ -221,7 +221,8 @@ Accidental HD spills must follow **USP <800>** and **OSHA** protocols to prevent
   - Eye/face protection  
   - **Fit‑tested respirator** (N95 or PAPR)  
 - Use HD spill kit to contain, absorb, and collect all materials.  
-- Dispose of waste in **hazardous drug waste** (trace or bulk chemo).  
+- Dispose of waste in **appropriate containers**.
+  - See [Hazardous Materials Disposal Guidelines](./disposal.md)
 - Decontaminate using the USP <800> sequence:  
   1. Detergent  
   2. Water rinse  
