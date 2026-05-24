@@ -98,13 +98,55 @@ Hazardous drugs can enter the body in several ways:
 
 ## Handling Activities
 
+### PPE
+
+GLOVES AND GOWNS ONLY PROVIDE SPLASH PROTECTION
+
+#### Gloves
+
+Gloves must pass new testing criteria for chemotherapy resistance & certified against HDs.
+
+Personnel should wear gloves at every stage of drug handling, from receipt to administration.
+
+Gloves should be changed every 30 minutes, or immediately if damaged or contaminated.
+
+Workers should inspect gloves for holes or imperfections before putting them on.
+
+#### Gowns
+
+gown material must be tested to resist permeations; coated gowns are best.
+
+should have solid fronts with back closure and long sleeves with tight fitting cuffs.
+
+personnel must change gowns every 3 hours; the maximum defense time against permeation.
+
+dispose of gowns immediately if contaminated
+
+For best protection, fit 1 glove under the cuff and 1 glove over the cuff.
+
+#### Respirators & Face Shields
+
+Surgical masks do not provide adequate protection against volatile drugs.
+
+workers should use niosh certified respirators when working with aerosols
+
+Face should be used with respirator to protect the face and eyes
+
+*not necesary when engineering controls are used
+
 ### Receiving & Transport
 
 `External surfaces of containers sent from the wholesaler may arrive contaminated.`
 
-### Storage
+Always assume packaging and contents within are contaminated.
+
+personnel receiving, opening, and unpacking cartons from the manufacturer or distributer may be exposed to hazardous materials through dermal contact.
+
+Handling activities may release and transfer it into the hair, hands/ gloves, and other surfaces.
 
 ### Compounding
+
+Dispose of gowns after compounding, do not reuse.
 
 ### Dispensing & Administration
 
