@@ -123,17 +123,19 @@ The EPA's *Management Standards for Hazardous Waste Pharmaceuticals* created str
 - Requires facilities to follow **no‑sewering** rules for all hazardous waste pharmaceuticals.
 - Provides clearer standards for long‑term care, retail, and hospital pharmacies.
 
+> ⚠️ RCRA rules apply to **waste**, not to active inventory. A drug becomes RCRA‑regulated only when it is discarded.
+
 💊 **Examples of RCRA Hazardous Waste Pharmaceuticals**
 
 - **P‑listed (Immediately Dangerous)**: warfarin (unused), arsenic trioxide  
 - **U‑listed (Toxic; Dangerous Long-Term)**: cyclophosphamide, chloral hydrate  
-- **Characteristic Waste**: ignitable alcohol formulations, certain aerosols  
+- **Characteristic Waste**: ignitable alcohol formulations, certain aerosols
   - **Ignitable**: flash point < 60°C / 140°F
   - **Corrosive**
   - **Reactive**
   - **Toxic**: fails the Toxicity Characteristic Leaching Procedure (TCLP, EPA Method 1311) test
 
-> ⚠️ RCRA rules apply to **waste**, not to active inventory. A drug becomes RCRA‑regulated only when it is discarded.
+> ⚠️ HDs not present on the RCRA list fall under Characteristic Waste.
 
 ---
 
