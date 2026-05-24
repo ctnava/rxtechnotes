@@ -37,7 +37,7 @@ CR packaging is *not required* in the following cases:
 - 💸 Certain OTC products, such as:
   - Effervescent acetaminophen or aspirin tablets (with low unit content)
   - Powdered iron or acetaminophen formulations with ≤0.324 g per unit dose
-- **Inpatient settings** where medications are administered by professionals (e.g. nursing homes, hospitals)
+- **Inpatient settings** where medications are administered by professionals (e.g. nursing homes, hospitals); **except for discharge**
 - Specific medications by regulation, such as:
   - **Emergency Medication** (e.g. Sublingual nitroglycerin)
   - **Oral contraceptives** in mnemonic blister packs
