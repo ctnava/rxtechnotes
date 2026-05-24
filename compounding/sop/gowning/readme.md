@@ -1,4 +1,4 @@
-# 🛠️ SOP – PPE Doffing & Donning
+# 🛠️ SOP – Aseptic Gowning for Clean Rooms
 
 ## 🔑 Purpose
 
