@@ -53,13 +53,11 @@ An ***SDS*** is a standardized document that outlines:
 
 🔗 [USP SDS Online Database](https://www.uspmsds.com/)
 
----
-
-## ☣️ Hazardous Materials
+### ☣️ Hazardous Materials
 
 Modern pharmacies handle substances that can cause acute or chronic harm if mishandled. These include corrosive chemicals, cytotoxic medications, volatile solvents, and biological contaminants. Because of this, federal and state regulations require structured systems for identifying hazards, training employees, and ensuring safe disposal.
 
-### ☣️ USP <800> Overview  
+#### ☣️ USP <800> Overview  
 
 USP <800> establishes national standards for:
 
@@ -84,7 +82,7 @@ NIOSH identifies hazardous drugs based on:
 
 Any medication meeting these criteria must be handled and discarded according to USP <800> standards.
 
-### Routes of Exposure
+#### Routes of Exposure
 
 Hazardous drugs can enter the body in several ways:
 
