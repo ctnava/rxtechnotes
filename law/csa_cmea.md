@@ -110,7 +110,7 @@ It is a serialized *triplicate form* (in traditional paper format), though many 
 
 ### 💼 Prescriber & Pharmacy Responsibilities
 
-- A **valid DEA number** is required on all prescriptions for controlled substances.
+- A **valid DEA number**, for both the prescriber and pharmacist, is required on all prescriptions for controlled substances.
   - 🔗 [Verifying DEA Numbers](../math/dea_numbers.md)
 - Schedule II prescriptions must be written (or e-prescribed where required) and cannot be refilled.
 - Partial fills of C-II prescriptions are allowed if requested by the prescriber or patient:
