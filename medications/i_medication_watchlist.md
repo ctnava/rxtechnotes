@@ -2,6 +2,8 @@
 
 ## 💊 Acetaminophen (Tylenol / APAP)
 
+`3,000 mg max dose.`
+
 Acetaminophen (APAP) is a **non-opioid analgesic and antipyretic** used to relieve **mild to moderate pain** and reduce **fever**. It is a common component in many over-the-counter and prescription combination products.
 
 **Dosage Forms:**
