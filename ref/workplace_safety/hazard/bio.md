@@ -112,3 +112,7 @@ Proper biohazard disposal ensures that infectious materials are handled using **
 See 🔗 [Hazardous Materials Disposal Guidelines](./disposal.md)
 
 ---
+
+## 🗺️🔗 Nav Links
+
+- 🔙🔗 Back to [Workplace Safety & Risk Management](../safety.md)

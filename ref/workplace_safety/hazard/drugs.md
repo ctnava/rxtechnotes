@@ -264,3 +264,7 @@ Accidental HD spills must follow **USP <800>** and **OSHA** protocols to prevent
 - Spill events must be reviewed as part of the **Exposure Control Plan** to prevent recurrence.
 
 ---
+
+## 🗺️🔗 Nav Links
+
+- 🔙🔗 Back to [Workplace Safety & Risk Management](../safety.md)

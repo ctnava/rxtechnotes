@@ -1,4 +1,4 @@
-# Employee Safety & Risk Management
+# Workplace Safety & Risk Management
 
 Healthcare environments contain a wide range of chemical, biological, and physical hazards. Pharmacy technicians must understand not only **what** these hazards are, but **why** they matter, **how** they are regulated, and **what procedures** ensure a safe workplace. This chapter provides a foundational overview of hazardous materials management, waste segregation, and infection control practices used across hospital and outpatient pharmacy settings.
 
