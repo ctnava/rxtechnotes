@@ -78,3 +78,7 @@ Pharmacy technicians routinely work around substances that can cause **infection
 - 🔗 [Biohazards & Infection Control](./hazard/bio.md)
 
 ---
+
+## 🗺️🔗 Nav Links
+
+- 🔙🔗 Back to [Pharmacy Settings](../../settings.md#workplace-safety--risk-management)

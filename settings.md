@@ -6,7 +6,7 @@ Pharmacy practice spans multiple environments, each with its own workflow, patie
 
 ## Workplace Safety & Risk Management
 
-Safe pharmacy practice depends on understanding the **chemical, biological, and physical hazards** present in healthcare environments—and knowing how to prevent harm from them. Pharmacy technicians must be able to recognize workplace risks, follow regulatory requirements, and apply standardized procedures that protect both staff and patients. This chapter provides a comprehensive foundation in **hazard identification**, **exposure prevention**, **waste segregation**, and **infection control**, integrating federal standards from **OSHA**, **NIOSH**, **EPA**, and **USP <797>/<800>**.  
+Safe pharmacy practice depends on understanding the **chemical, biological, and physical hazards** present in healthcare environments and knowing how to prevent harm from them. Pharmacy technicians must be able to recognize workplace risks, follow regulatory requirements, and apply standardized procedures that protect both staff and patients. This chapter provides a comprehensive foundation in **hazard identification**, **exposure prevention**, **waste segregation**, and **infection control**, integrating federal standards from **OSHA**, **NIOSH**, **EPA**, and **USP <797>/<800>**.  
 
 The goal is simple: ensure every technician can work confidently and safely in any pharmacy setting, from outpatient clinics to high‑risk sterile compounding environments.
 
