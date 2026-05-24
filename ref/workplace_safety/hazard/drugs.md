@@ -104,7 +104,7 @@ Areas that house PECs and provide **additional containment**, typically via:
 They do **not** prevent vapor or aerosol exposure.  
 Personnel handling hazardous drugs (HDs) must follow **USP <800>** and **NIOSH** requirements.
 
-🔗 [PPE Doffing & Donning Protocols](../ppe/readme.md)
+🔗 [PPE Donning & Doffing Protocols](./don_doff.md)
 
 ### Gloves
 

@@ -70,7 +70,7 @@ PPE includes:
 
 These barriers protect against **splashes** and **short‑term exposure**, but prolonged use can turn PPE into a contamination risk. PPE must be changed frequently and removed using proper technique.
 
-🔗 [PPE Donning & Doffing Protocols](../ppe/readme.md)
+🔗 [PPE Donning & Doffing Protocols](./don_doff.md)
 
 ---
 
