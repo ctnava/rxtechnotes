@@ -6,6 +6,8 @@ Pharmacy practice spans multiple environments, each with its own workflow, patie
 
 ## Across All Settings
 
+<!-- todo link workplace safety -->
+
 ### Occupational Safety & Health Administration (OSHA)
 
 OSHA sets nationwide standards to keep pharmacy staff safe when working around chemicals, hazardous drugs, and potential exposure risks. Every pharmacy must maintain basic OSHA compliance, regardless of setting.
