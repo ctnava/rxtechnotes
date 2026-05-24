@@ -1,36 +1,6 @@
 # Hazardous Drug Handling
 
-## Legal Defitions
-
-### Occupational Safety & Health Act (OSHA, 1970)
-
-`Enforced by the Occupational Safety & Health Administration (OSHA)`
-
-OSHA establishes nationwide standards to protect pharmacy personnel from workplace hazards such as chemicals, hazardous drugs, sharps, and bloodborne pathogens.
-
-🔑 **Key Requirements for Pharmacies**
-
-- Provide **safety training** to all employees (initial + periodic refreshers).
-- Supply appropriate **Personal Protective Equipment (PPE)** at no cost when exposure risks exist.
-- Ensure proper **labeling** of chemicals and secondary containers.
-- Follow **Bloodborne Pathogens** standards in settings that administer vaccines or handle sharps.
-- Maintain an **Exposure Control Plan** and procedures for spills, exposures, and emergencies.
-
-#### 🦅 OSHA Hazard Communication Standard (“Right to Know”)
-
-Under the OSHA Hazard Communication Standard, employees have a legally protected **Right to Know** about hazardous chemicals in their workplace. This includes:
-
-- The identity and classification of hazardous substances  
-- The risks associated with exposure  
-- Required PPE and engineering controls  
-- Emergency procedures for spills or accidental contact  
-
-Hospitals and pharmacies must therefore:
-
-- Maintain an updated inventory of hazardous chemicals  
-- Provide initial and ongoing employee training  
-- Ensure all containers are properly labeled with hazard warnings  
-- Keep **Safety Data Sheets (SDS)** accessible at all times  
+## Legal Definitions
 
 ### Safety Data Sheets (SDS)
 
@@ -77,39 +47,6 @@ NIOSH identifies hazardous drugs based on:
 - **Drugs harmful upon skin contact**  
 
 Any medication meeting these criteria must be handled and discarded according to USP <800> standards.
-
----
-
-## Routes of Exposure
-
-Hazardous materials can enter the body in several ways:
-
-- **Dermal Contact (Most Common)**: touching contaminated surfaces with unprotected skin, especially the palm of the hand.
-- **Inhalation**: breathing contaminated air
-- **Hand-to-Mouth Contact**: contaminated fingers, gum, pens, etc. put into the worker's mouth
-- **Ingestion**: of contaminated food or drink
-- **Accidental Injection**
-
-> Surface contamination is a major contributor to exposure
-
----
-
-## Aseptic Handwashing
-
-Aseptic handwashing is the **first and most critical barrier** against introducing contaminants into sterile environments.
-
-It is also the **most common and most effective method of decontaminating the hands after exposure** to hazardous drugs, chemicals, or contaminated surfaces. Because dermal contact (especially the palms and fingertips) is the **#1 route of occupational HD exposure**, proper handwashing is both a **preventive** and **post‑exposure** control measure.
-
-Before any sterile compounding, and immediately after any potential exposure, technicians must:
-
-- Remove transient microorganisms  
-- Reduce resident flora  
-- Eliminate HD residue, powder, or surface contamination  
-- Ensure hands and forearms are free of debris, jewelry, lotions, or visible soil  
-
-Correct technique supports **USP <797> compliance**, protects product integrity, and reduces the risk of patient harm and worker exposure.
-
-🔗 [Aseptic Handwashing Protocol](./sop/handwashing/readme.md)
 
 ---
 
