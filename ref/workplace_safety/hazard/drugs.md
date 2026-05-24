@@ -104,6 +104,8 @@ Areas that house PECs and provide **additional containment**, typically via:
 They do **not** prevent vapor or aerosol exposure.  
 Personnel handling hazardous drugs (HDs) must follow **USP <800>** and **NIOSH** requirements.
 
+🔗 [PPE Doffing & Donning Protocols](../ppe/readme.md)
+
 ### Gloves
 
 **Chemotherapy‑rated gloves** are disposable protective barriers designed to resist permeation by hazardous drugs. They must meet ASTM D6978 (or equivalent) standards for HD resistance.

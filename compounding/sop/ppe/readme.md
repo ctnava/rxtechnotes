@@ -100,9 +100,9 @@ Before entering the antechamber:
 
 ### Step 1: Initial Hand Hygiene
 
-![standard motions](../handwashing/motions.png)
+![standard motions](./motions.png)
 
-- Perform a 🔗 [quick aseptic hand rub](../handwashing/readme.md) down to the wrists with 70% IPA.
+- Perform a 🔗 [quick aseptic hand rub](../../../ref/workplace_safety/handwashing/readme.md) down to the wrists with 70% IPA.
 - Dry with a clean disposable towel.
 - This step reduces initial microbial burden before donning PPE.
 
@@ -158,7 +158,7 @@ Before entering the antechamber:
 
 ## 🔁 Doffing Procedure
 
-Personal Protective Equipment **(PPE) must be treated as a potential biohazard**. When removing each item, avoid touching external surfaces. Fold garments inward so the internal surfaces remain exposed during disposal. Perform hand hygiene after removing each item to maintain aseptic conditions.
+Personal Protective Equipment **(PPE) must be treated as hazardous material**. When removing each item, avoid touching external surfaces. Fold garments inward so the internal surfaces remain exposed during disposal. Perform hand hygiene after removing each item to maintain aseptic conditions.
 
 ### Step 1: Gloves
 
@@ -196,4 +196,3 @@ Personal Protective Equipment **(PPE) must be treated as a potential biohazard**
 ## 🗺️🔗 Nav Links
 
 - 🥚 [Original SOP](./aseptic_gowning.pdf)
-- 🔙🔗 Back to [Infection Control](../../infection_control.md#-basic-personal-protective-equipment-ppe)
