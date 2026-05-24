@@ -52,7 +52,7 @@ Always refer unclear or incomplete orders to the pharmacist
 - **Inscription**: Drug name, strength, dosage form, quantity
 - **Signa (Sig)**: Complete directions for use
   - if compounded, an ingredients list is also included
-- **Refills**: Number authorized
+- **Refills**: Number authorized; **default 0 if not stated**
 - **Product Selection Code** (optional)  
   - Default = 0 (generic substitution allowed)  
   - Can be a number or **DAW** (Dispense as Written) for brand name only
