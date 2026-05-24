@@ -135,7 +135,7 @@ The EPA's *Management Standards for Hazardous Waste Pharmaceuticals* created str
   - **Reactive**
   - **Toxic**: fails the Toxicity Characteristic Leaching Procedure (TCLP, EPA Method 1311) test
 
-> ⚠️ HDs not present on the RCRA list fall under Characteristic Waste.
+> ⚠️ Non-listed (U/P) HDs fall under Characteristic Waste.
 
 ---
 
@@ -157,11 +157,13 @@ Examples include:
 
 Reusable items such as scrubs or linens are **sanitized**, not discarded.
 
-### ⬛ Black Bins — Hazardous Pharmaceutical Waste
+### ⬛ Black Bins — Hazardous Pharmaceutical Waste (Bulk RCRA Waste)
 
-Black bins are reserved for medications classified as hazardous by **NIOSH**, **EPA**, **DEA**, or **DOT**. These substances pose risks such as carcinogenicity, reproductive toxicity, organ damage, or environmental contamination.
+Black bins are reserved for full containers of medications classified as hazardous by **NIOSH**, **EPA**, **DEA**, or **DOT**. These substances pose risks such as carcinogenicity, reproductive toxicity, organ damage, or environmental contamination.
 
-### 🟨 Yellow Bins — Trace Chemotherapy & Cytotoxic Waste
+Licensed handlers in permitted facilities must segregate, manifest, collect, and incinerate RCRA waste at high temperatures. These must never fall into sewers or wastewater.
+
+### 🟨 Yellow Bins — Trace Chemotherapy & Cytotoxic Waste (Empty Waste)
 
 Yellow bins are used for **trace chemotherapy waste**, meaning items contaminated with small amounts of cytotoxic drugs.
 
@@ -171,10 +173,12 @@ Examples include:
 - Empty IV bags, tubing, and vials  
 - Wipes and absorbent pads used during compounding  
 
-🚨 **Important Distinction:**  
+Empty waste must be separated and incinerated at a lower temperature.
 
-- **Trace waste → Yellow bin**  
-- **Bulk waste (full or partially full vials/bags) → Black hazardous waste bin**  
+To meet the RCRA's criteria for "empty" waste:
+
+- must be non-listed (U/P)
+- contain less than 3% of the original container's contents
 
 ---
 
