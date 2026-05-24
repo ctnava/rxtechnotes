@@ -1,6 +1,10 @@
 # Compounding
 
-## 📚 United States Pharmacopeia–National Formulary (USP–NF)
+## Regulations
+
+### 📚 United States Pharmacopeia–National Formulary (USP–NF)
+
+`Compounding is regulated by individual State Boards of Pharmacy; many of which delegate the creation of standards to the USP-NF`
 
 The **USP–NF** is an official compendium of drug standards used in the United States. It is published by the **United States Pharmacopeial Convention (USP)** and recognized by the U.S. **Food and Drug Administration (FDA)** as an enforceable standard under the **Federal Food, Drug, and Cosmetic Act**.
 
@@ -21,9 +25,11 @@ Together, the USP–NF provides quality standards to ensure:
 
 All prescription and OTC medications sold in the U.S. must comply with applicable USP–NF standards if they are labeled as such. Pharmacies and manufacturers must use USP–NF to ensure that compounded and commercial drugs meet national safety and quality standards. While USP is a **non-governmental organization**, its standards are **legally enforceable** by the FDA. Drugs failing to meet USP–NF standards are considered **adulterated** or **misbranded** under federal law.
 
-### USP Compounding Compendium
+#### USP Compounding Compendium
 
 `Subscription-based reference from USP–NF containing enforceable and informational compounding standards.`
+
+Chapters **<1> through <999>** are enforceable by the FDA. The rest are purely informational.
 
 | **Chapter** | **Title** | **Description** |
 | --- | --- | --- |
@@ -40,7 +46,13 @@ All prescription and OTC medications sold in the U.S. must comply with applicabl
 
 > 🧠 **Quick Fact**: The USP–NF is updated annually, with two supplemental updates each year to reflect evolving scientific standards.
 
-## Extemporaneous Compounding
+### FDA Monographs
+
+---
+
+## Types of Compounding
+
+### Extemporaneous Compounding
 
 **Extemporaneous Compounding** is the on-demand formulation of a prescribed drug preparation to meet the unique needs of an individual patient.
 
