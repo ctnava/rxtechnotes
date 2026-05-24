@@ -50,15 +50,6 @@ Hazardous materials can enter the body in several ways:
 
 ---
 
-## Hazardous Materials Handling
-
-Pharmacy technicians routinely work around substances that can cause **infection**, **injury**, or **long‑term harm** if mishandled. To keep patients and staff safe, hazardous materials are divided into two major categories, **hazardous drugs** and **biohazards**, each governed by its own regulatory standards, PPE requirements, and disposal systems. The following documents provide structured guidance for identifying risks, preventing exposure, and responding to contamination events in compliance with **OSHA**, **NIOSH**, **USP <797>/<800>**, and state law.
-
-- 🔗 [Hazardous Drugs](./sop/hazard/drugs.md)
-- 🔗 [Biohazards & Infection Control](./sop/hazard/bio.md)
-
----
-
 ## Eyewash Stations & Emergency Response
 
 Hazardous materials can cause immediate and irreversible damage if they contact the eyes. Pharmacies must maintain accessible eyewash stations that meet ANSI standards.
@@ -76,5 +67,14 @@ Technicians must know:
 - How to activate it  
 - That flushing must continue for **at least 15 minutes**  
 - That all exposures must be reported immediately
+
+---
+
+## Hazardous Materials Handling
+
+Pharmacy technicians routinely work around substances that can cause **infection**, **injury**, or **long‑term harm** if mishandled. To keep patients and staff safe, hazardous materials are divided into two major categories, **hazardous drugs** and **biohazards**, each governed by its own regulatory standards, PPE requirements, and disposal systems. The following documents provide structured guidance for identifying risks, preventing exposure, and responding to contamination events in compliance with **OSHA**, **NIOSH**, **USP <797>/<800>**, and state law.
+
+- 🔗 [Hazardous Drugs](./sop/hazard/drugs.md)
+- 🔗 [Biohazards & Infection Control](./sop/hazard/bio.md)
 
 ---
