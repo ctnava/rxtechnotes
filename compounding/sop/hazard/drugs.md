@@ -50,6 +50,25 @@ Any medication meeting these criteria must be handled and discarded according to
 
 ---
 
+## Aseptic Handwashing
+
+Aseptic handwashing is the **first and most critical barrier** against introducing contaminants into sterile environments.
+
+It is also the **most common and most effective method of decontaminating the hands after exposure** to hazardous drugs, chemicals, or contaminated surfaces. Because dermal contact (especially the palms and fingertips) is the **#1 route of occupational hazmat exposure**, proper handwashing is both a **preventive** and **post‑exposure** control measure.
+
+Before any sterile compounding, and immediately after any potential exposure, technicians must:
+
+- Remove transient microorganisms  
+- Reduce resident flora  
+- Eliminate HD residue, powder, or surface contamination  
+- Ensure hands and forearms are free of debris, jewelry, lotions, or visible soil  
+
+Correct technique supports **USP <797> compliance**, protects product integrity, and reduces the risk of patient harm and worker exposure.
+
+🔗 [Aseptic Handwashing Protocol](../sop/handwashing/readme.md)
+
+---
+
 ## Engineering Controls
 
 ### Primary Engineering Controls (PECs)
