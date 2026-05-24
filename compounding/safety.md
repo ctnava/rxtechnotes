@@ -163,6 +163,13 @@ Black bins are reserved for full containers of medications classified as hazardo
 
 Licensed handlers in permitted facilities must segregate, manifest, collect, and incinerate RCRA waste at high temperatures. These must never fall into sewers or wastewater.
 
+The definition of "bulk" waste applies to:
+
+- U/P-Listed drug containers or vials (full or not)
+- Materials with trace amount of U/P-Listed drugs
+- HD drug containers or vials (full)
+- Spill Cleanup Supplies
+
 ### 🟨 Yellow Bins — Trace Chemotherapy & Cytotoxic Waste (Empty Waste)
 
 Yellow bins are used for **trace chemotherapy waste**, meaning items contaminated with small amounts of cytotoxic drugs.
