@@ -138,6 +138,22 @@ Face should be used with respirator to protect the face and eyes
 
 ### Primary Engineering Controls
 
+Devices that provide controlled or contained environments to reduce exposure to HDs during compounding & other preparation activities.
+
+provides environmental and worker safety, and may profive product safety depending on type.
+
+ISO 5 environment is used for compounding sterile products
+most commonly used PEC for HD compounding are
+
+- Class II Bio safety cabinets (BSC)
+- **Compounding Aseptic Containment Isolators (CACIs)**
+
+PECs do not prevent the generation of contaminants nor guarantee containment
+contamination can come from external sources, poor compounding technique, or accidental spill.
+contamination from inside PEC can be deposited onto the outside; spread via gloves, supplies, doses, or during cleaning.
+
+all PPE is required; except face and respiratory protection are required if the pEC is opened
+
 ### Secondary Engineering Controls
 
 ---
@@ -159,6 +175,8 @@ use PPE when unpacking boxes. double gloves should be worn for all receiving
 
 Handling activities may release and transfer it into the hair, hands/ gloves, and other surfaces.
 
+never open a sealed bag without wearing protective equipment, even if it came from the clean room
+
 ### Storage
 
 personnel should segregate hazardous drugs from other drug inventory to avoid contaminating other stored products and to limit the number of personnel with access to the products.
@@ -178,7 +196,12 @@ the vial should not be sprayed directly (contamination risk). spray the cloth an
 
 `Dispose of gowns after compounding, do not reuse.`
 
+#### Injectible Vials
+
 injectable drugs are of special concern because they are in powder or liquid form, concentrated, and easily aerosolized.
+
+do not pressurize HD vials
+use care when removing needles from vials
 
 risky activities regarding injectables include:
 
@@ -186,6 +209,8 @@ risky activities regarding injectables include:
 - drawing up doses from vials or ampules with needles & syringes
 - expelling air from syringes filled with hazardous drugs
 - transferring doses into IV bags or devices
+
+#### Oral Formulations
 
 oral drugs also pose contamination risk
 broken tablets or capsules and loose powder may be present in the bulk container
@@ -200,7 +225,26 @@ risky handling activities include
 - compounding potent powders into custom dosage capsules
 - crushing and mixing into liquid or topical forms
 
-### Dispensing & Administration
+#### Preparation
+
+personnel should organize items needed for compounding inside the hood and should not overcrowd PECs
+Avoid reaching out and moving in or out of the PE; causing residue to fall out
+residue ends up on the floor in front of PEC
+
+#### Containment
+
+never but containment bags inside of PEC
+
+place Hds in a containment bag and seal it:
+
+- with contents visible
+- outside of the PEC
+
+clean the finished product after compounding
+remove outer gloves (contaminated)
+and use inner gloves to label the product and place it in the containment bag for transport
+
+#### Best Practices
 
 ### Spill Control
 
