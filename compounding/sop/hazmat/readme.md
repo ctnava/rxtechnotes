@@ -99,7 +99,7 @@ Personnel handling hazardous drugs (HDs) must follow **USP <800>** and **NIOSH**
 
 ### Gloves
 
-[definition here]
+**Chemotherapy‑rated gloves** are disposable protective barriers designed to resist permeation by hazardous drugs. They must meet ASTM D6978 (or equivalent) standards for HD resistance.
 
 `Change every 30 minutes, or sooner if torn, punctured, or visibly contaminated`
 
@@ -109,12 +109,12 @@ Personnel handling hazardous drugs (HDs) must follow **USP <800>** and **NIOSH**
 
 ### Gowns
 
-[definition here]
+**HD‑protective gowns** are disposable, impermeable garments designed to prevent dermal exposure to hazardous drugs. They must be made of materials tested for **permeation resistance**.
 
 `Never reuse gowns; dispose upon contamination`
 
 - **Change every 3 hours**, the maximum effective permeation‑resistance window.
-- Material must be **permeation‑tested**; **coated gowns** provide the best barrier.  
+- Material must be **coated** (best) or otherwise **permeation‑tested** for HDs.
 - Required features:  
   - Solid front  
   - Back closure  
@@ -126,11 +126,14 @@ Personnel handling hazardous drugs (HDs) must follow **USP <800>** and **NIOSH**
 
 ### Respirators & Face Shields
 
-[definition here]
+**Respiratory protection** prevents inhalation of HD aerosols and powders. **Eye/face protection** prevents splash exposure. These devices supplement PPE when engineering controls cannot fully contain risk.
 
 - **Surgical masks are NOT protective** against HD aerosols or vapors.  
-- Use **NIOSH‑certified respirators** (N95, elastomeric, or PAPR) when aerosolization risk exists.  
-- Face shields protect eyes and face **but must be used with a respirator**, not instead of one.  
+- Use **NIOSH‑certified respirators** when aerosolization risk exists:  
+  - N95  
+  - Elastomeric half‑mask  
+  - PAPR (Powered Air‑Purifying Respirator)  
+- Face shields protect eyes and face **but must be paired with a respirator**, never used alone.  
 - *Not required when closed‑system engineering controls fully contain exposure.*
 
 ## Engineering Controls
