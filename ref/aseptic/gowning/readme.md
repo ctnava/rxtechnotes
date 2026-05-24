@@ -100,9 +100,9 @@ Before entering the antechamber:
 
 ### Step 1: Initial Hand Hygiene
 
-![standard motions](./motions.png)
+![standard motions](../handwashing/motions.png)
 
-- Perform a 🔗 [quick aseptic hand rub](../../../ref/workplace_safety/handwashing/readme.md) down to the wrists with 70% IPA.
+- Perform a 🔗 [quick aseptic hand rub](../handwashing/readme.md) down to the wrists with 70% IPA.
 - Dry with a clean disposable towel.
 - This step reduces initial microbial burden before donning PPE.
 
