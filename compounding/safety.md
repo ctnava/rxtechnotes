@@ -106,7 +106,7 @@ Hazardous drugs can enter the body in several ways:
 
 ### Compounding
 
-### Administration
+### Dispensing & Administration
 
 ### Spill Control
 
