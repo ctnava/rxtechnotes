@@ -1,4 +1,4 @@
-# Doffing & Donning PPE
+# Donning & Doffing PPE
 
 This procedure outlines the required steps for safely preparing to handle **hazardous drugs (HDs)** or other hazardous materials. Proper donning and doffing of PPE minimizes the risk of **dermal exposure**, **inhalation**, and **cross‑contamination**.
 
