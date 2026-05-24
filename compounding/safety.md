@@ -96,9 +96,14 @@ Hazardous drugs can enter the body in several ways:
 
 ---
 
-## PPE
+## ☣️ Personal Protective Equipment (PPE)
 
-GLOVES AND GOWNS ONLY PROVIDE SPLASH PROTECTION
+### Bodily Exposure Protection
+
+`GLOVES AND GOWNS ONLY PROVIDE SPLASH PROTECTION!`
+
+They do **not** prevent vapor or aerosol exposure.  
+Personnel handling hazardous drugs (HDs) must follow **USP <800>** and **NIOSH** requirements.
 
 ### Gloves
 
