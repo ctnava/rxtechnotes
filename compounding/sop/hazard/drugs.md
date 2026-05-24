@@ -206,6 +206,16 @@ High‑risk activities:
 
 ---
 
+### 🚮 Disposal
+
+**Hazardous drug disposal** is the controlled process of collecting, segregating, and eliminating materials contaminated with *cytotoxic, genotoxic, or otherwise dangerous pharmaceuticals*. Because these substances can cause **long‑term environmental harm**, **worker exposure**, or **public‑health risks**, disposal must follow strict federal and state regulations, including **RCRA**, **USP <800>**, **NIOSH**, and **DEA** requirements.
+
+Proper disposal ensures that hazardous drugs, contaminated PPE, spill debris, and HD‑related materials are placed into **approved waste streams**, handled by **licensed disposal contractors**, and destroyed using **high‑temperature incineration** or other regulated methods. This prevents accidental exposure, protects groundwater and wastewater systems, and maintains compliance with environmental and occupational safety laws.
+
+See 🔗 **[Hazardous Materials Disposal Guidelines](./disposal.md)** for full details.
+
+---
+
 ### 🚨 Spill Control
 
 `One of the greatest risks from HDs is personal and environmental contamination from accidental spillage.`
@@ -222,7 +232,6 @@ Accidental HD spills must follow **USP <800>** and **OSHA** protocols to prevent
   - **Fit‑tested respirator** (N95 or PAPR)  
 - Use HD spill kit to contain, absorb, and collect all materials.  
 - Dispose of waste in **appropriate containers**.
-  - See [Hazardous Materials Disposal Guidelines](./disposal.md)
 - Decontaminate using the USP <800> sequence:  
   1. Detergent  
   2. Water rinse  

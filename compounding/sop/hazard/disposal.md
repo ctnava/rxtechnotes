@@ -95,4 +95,5 @@ To meet the RCRA's criteria for "empty" waste:
 
 ## Navlinks
 
-- 🔙🔗 Back to [Hazardous Drug Handling](./drugs.md#-spill-control)
+- 🔙🔗 Back to [Hazardous Drug Handling](./drugs.md#-disposal)
+- 🔙🔗 Back to [Handling Biohazards & Infection Control](./bio.md#biohazard-disposal)
