@@ -98,7 +98,15 @@ Hazardous drugs can enter the body in several ways:
 
 ## Handling Activities
 
-<!-- todo -->
+### Receiving
+
+`External surfaces of containers sent from the wholesaler may arrive contaminated.`
+
+### Storage
+
+### Compounding
+
+### Administration
 
 ### Spill Control
 
