@@ -120,11 +120,11 @@
 - [x] CE: Medication Therapy Management
 - [x] CE: PAPs
 
-## Week 12: Hospital Pharmacy
+## [DONE] Week 12: Hospital Pharmacy
 
 - [x] Reading: Chapter 17 - Hospital Pharmacy (pp 559 - 570)
 - [x] Reading: Chapter 17 - Hospital Pharmacy (pp 570 - 596)
-- [ ] CE: Safe Handling of Hazardous Drugs
+- [x] CE: Safe Handling of Hazardous Drugs
 - [x] Math: Chapter 10 - Temperature Conversion & Specific Gravity
 - [x] Math: Chapter 28 - Body Surface Area
 
