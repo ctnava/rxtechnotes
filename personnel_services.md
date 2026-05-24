@@ -59,9 +59,13 @@ The **Omnibus Budget Reconciliation Act (OBRA-90, 1990)** was a major federal la
 - 📄 **Maintain Patient Medication Profiles**: Pharmacies must maintain records (on-site for a minimum of 2 years) of a patient's medication history to support counseling and DUR obligations.
 - 📋 **Conduct DURs**: Evaluate prescriptions to identify adverse effects, therapeutic duplication, drug–disease contraindications, incorrect dosage or duration, and drug–drug interactions.
 - 💬 **Offer Counseling to Medicaid Patients**: Pharmacists must “offer to counsel” Medicaid patients on:
-  - Proper use of the medication
-  - Potential side effects or adverse reactions
+  - Name and description of the medication
+  - Proper use of the medication; route, dosage, dosage form, and directions
+  - Special Precautions & Directions
+  - Potential side effects, adverse reactions, interactions, and contraindications
+  - Techniques for self-monitoring therapy
   - Storage instructions
+  - Prescription refill instructions
   - What to do in case of a missed dose
   - 📁 **Document Counseling Offers**: While OBRA-90 requires the offer, specific documentation requirements (such as signed refusals) vary by state.
 

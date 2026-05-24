@@ -61,6 +61,7 @@ All pharmacy personnel must comply with **federal and state laws**, under the su
   - oversees hospitals (including the pharmacy department)
   - assures compliance with hospital practice standards
 - **Board of Pharmacy (BOP)**
+  - Pharmacy Inspections
   - Licensing Prescribers & Dispensers (Pharmacists & Technicians)
   - Administering state-specific pharmacy regulations
   - Granting limited prescribing rights to certain non-physician healthcare providers (e.g., NPs, PAs, pharmacists)
