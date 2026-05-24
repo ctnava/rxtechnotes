@@ -111,6 +111,34 @@ Correct technique supports **USP <797> compliance**, protects product integrity,
 
 ---
 
+## Engineering Controls
+
+### Primary Engineering Controls (PECs)
+
+Devices that create a **controlled, contained environment** to reduce HD exposure during compounding.
+
+- Provide **worker and environmental protection**; some also provide **product sterility**.  
+- Sterile HD compounding requires an **ISO 5** environment.  
+- Common PECs:  
+  - **Class II Biological Safety Cabinets (BSCs)**  
+  - **Compounding Aseptic Containment Isolators (CACIs)**  
+
+**Important Notes**:
+
+- PECs **do not prevent** contamination from poor technique or external sources.  
+- Contamination inside the PEC can transfer to the **outside** via gloves, supplies, or cleaning.  
+- Full PPE is required; **respiratory protection is required if the PEC is opened**.
+
+### Secondary Engineering Controls (SECs)
+
+Areas that house PECs and provide **additional containment**, typically via:
+
+- **Negative pressure rooms**  
+- **Minimum 12 ACPH** (air changes per hour) for hazardous drug storage (per USP <797>)  
+- Segregated HD storage to limit personnel exposure and prevent cross‑contamination
+
+---
+
 ## 🥽 Personal Protective Equipment (PPE)
 
 `GLOVES AND GOWNS ONLY PROVIDE SPLASH PROTECTION!`
@@ -156,32 +184,6 @@ Personnel handling hazardous drugs (HDs) must follow **USP <800>** and **NIOSH**
   - PAPR (Powered Air‑Purifying Respirator)  
 - Face shields protect eyes and face **but must be paired with a respirator**, never used alone.  
 - *Not required when closed‑system engineering controls fully contain exposure.*
-
-## Engineering Controls
-
-### Primary Engineering Controls (PECs)
-
-Devices that create a **controlled, contained environment** to reduce HD exposure during compounding.
-
-- Provide **worker and environmental protection**; some also provide **product sterility**.  
-- Sterile HD compounding requires an **ISO 5** environment.  
-- Common PECs:  
-  - **Class II Biological Safety Cabinets (BSCs)**  
-  - **Compounding Aseptic Containment Isolators (CACIs)**  
-
-**Important Notes**:
-
-- PECs **do not prevent** contamination from poor technique or external sources.  
-- Contamination inside the PEC can transfer to the **outside** via gloves, supplies, or cleaning.  
-- Full PPE is required; **respiratory protection is required if the PEC is opened**.
-
-### Secondary Engineering Controls (SECs)
-
-Areas that house PECs and provide **additional containment**, typically via:
-
-- **Negative pressure rooms**  
-- **Minimum 12 ACPH** (air changes per hour) for hazardous drug storage (per USP <797>)  
-- Segregated HD storage to limit personnel exposure and prevent cross‑contamination
 
 ---
 
