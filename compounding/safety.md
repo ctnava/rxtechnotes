@@ -73,9 +73,11 @@ USP <800> establishes national standards for:
 NIOSH identifies hazardous drugs based on:
 
 - **Cytotoxicity** (e.g., antineoplastic agents)  
-- **Reproductive toxicity** (e.g., hormonal therapies)  
+- **Reproductive toxicity** (e.g., hormonal therapies)
+- **Teratogenicity** (i.e. developmental toxicity)  
 - **Organ toxicity at low doses**  
-- **Genotoxicity**  
+- **Genotoxicity**
+- **Carcinogenicity**
 - **Drugs harmful upon skin contact**  
 
 Any medication meeting these criteria must be handled and discarded according to USP <800> standards.
