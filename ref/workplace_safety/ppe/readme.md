@@ -1,94 +1,91 @@
 # Doffing & Donning PPE
 
-## ✅ Donning Procedure
+This procedure outlines the required steps for safely preparing to handle **hazardous drugs (HDs)** or other hazardous materials. Proper donning and doffing of PPE minimizes the risk of **dermal exposure**, **inhalation**, and **cross‑contamination**.
 
-**⚠️ NOTICE**: Perform hand sanitization with 70% isopropyl alcohol **before applying any garment**, unless otherwise indicated.
+## ✅ Donning Procedure (Before Handling Hazardous Materials)
+
+**⚠️ NOTICE:** Perform hand hygiene **before donning any PPE** and again **between layers** when double‑gloving.
 
 ### Step 1: Initial Hand Hygiene
 
-![standard motions](../handwashing/motions.png)
-
 - Perform a 🔗 [quick aseptic hand rub](../handwashing/readme.md) down to the wrists with 70% IPA.
-- Dry with a clean disposable towel.
-- This step reduces initial microbial burden before donning PPE.
+- Dry with a clean disposable towel.  
+- This reduces initial microbial and chemical contamination before PPE application.
 
 ### Step 2: Shoe Covers
 
-![Shoe Covers](./shoe_covers.PNG)
-
-- Don **shoe covers** over both feet.
-- Use antechamber bench or dedicated hands-free shoe cover dispenser.
-- Avoid stepping on exposed flooring with uncovered feet.
+- Apply **shoe covers** to both feet.  
+- Use a hands‑free dispenser or bench to avoid touching the floor.  
+- Required before entering any area where HD residue may be present.
 
 ### Step 3: Hair Cover and Face Mask
 
-![Hair Cover and Face Mask](./mask.PNG)
-
-![Beard Cover](./beard_cover.PNG)
-
-- Cover entire head and ears with a **bouffant cap**.
-- Use a separate **beard cover** if needed.
-- Don a **face mask** covering both nose and mouth.
+- Cover all hair and ears with a **bouffant cap**.  
+- Apply a **beard cover** if applicable.  
+- Don a **surgical mask** or **NIOSH‑certified respirator** depending on risk:
+  - **N95 or PAPR** required if aerosolization is possible.  
 - Secure straps at the **crown and base of the head** to prevent slippage.
 
-### Step 4: Full Aseptic Hand Washing
+### Step 4: Hand Hygiene (Second Pass)
 
-![Surgical Scrub Brush with Nail Cleaner](./nail_brush.PNG)
+- Perform a second hand rub with **70% IPA**.  
+- Allow hands to dry completely.
 
-- Use **surgical scrub brush/ sponge** with nail cleaner and antimicrobial soap.
-- Clean all nail beds, palms, fingers, **and forearms up to elbows**.
-- Rinse thoroughly with **sterile water**, not tap water.
-- Use a disposable towel to dry hands completely.
+> 🛡️ This step prevents contamination of chemotherapy gloves.
 
-> 🛡️ Aseptic handwashing prevents contamination of sterile gloves and garments.
+### Step 5: Don Gown
 
-### Step 5: Aseptic Gowning
+- Don an **impermeable, coated, disposable HD‑protective gown**.  
+- Ensure the gown has:
+  - Solid front  
+  - Back closure  
+  - Long sleeves  
+  - **Tight‑fitting cuffs**  
+- Fasten all ties and ensure full coverage of torso and arms.
 
-![Putting on the Gown](./gown.PNG)
+### Step 6: Don Chemotherapy Gloves (Double‑Gloving)
 
-- Open sterile gown packaging without contaminating the interior.
-- Insert arms and secure ties at the **back**.
-- Avoid touching the exterior surface of the gown.
+- Don the **first pair** of chemotherapy‑tested gloves.  
+- Pull glove cuffs **under** the gown cuffs.  
+- Don the **second pair** of chemotherapy‑tested gloves.  
+- Pull glove cuffs **over** the gown cuffs to create a sealed barrier.  
+- Inspect gloves for tears or defects.
 
-> 📌 Gown should fully cover all street clothing and arms down to the wrists.
-
-### Step 6: Sterile Gloves
-
-![Glove over cuff](./glove.PNG)
-
-- Open sterile glove packaging using aseptic technique.
-- Don gloves carefully, ensuring they cover gown cuffs completely.
-- Spray gloved hands with **70% IPA** and allow to air dry.
-
-> 🛡️ Sterile gloves protect the critical zone during compounding.
+> 🛡️ Double‑gloving is required for all HD handling activities.
 
 ---
 
-## 🔁 Doffing Procedure
+## 🔁 Doffing Procedure (After Handling Hazardous Materials)
 
-Personal Protective Equipment **(PPE) must be treated as hazardous material**. When removing each item, avoid touching external surfaces. Fold garments inward so the internal surfaces remain exposed during disposal. Perform hand hygiene after removing each item to maintain aseptic conditions.
+**All PPE must be treated as contaminated hazardous waste.**  
+Remove PPE **slowly and deliberately** to avoid self‑contamination.
 
-### Step 1: Gloves
+When removing each item, avoid touching external surfaces. Fold garments inward so the internal surfaces remain exposed during disposal.
 
-![Glove Removal](./doffing_gloves.PNG)
+Perform **hand hygiene after removing each layer**.
 
-- Peel off one glove inside-out.
-- Use the gloved hand to remove the other glove without touching the outside.
+### Step 1: Remove Outer Gloves
 
-### Step 2: Gown
+- Grasp the outside of one glove and peel it off inside‑out.  
+- Use the gloved hand to remove the second glove.  
+- Dispose of gloves in **trace chemo (yellow)** or **bulk chemo (black)** waste per facility policy.
 
-![Gown Removal](./degown.jpg)
+### Step 2: Remove Gown
 
-- Untie gown from the back.
-- Fold inward so the **clean side faces out**.
-- Discard appropriately.
+- Untie the gown from the back.  
+- Roll the gown **inward**, keeping the contaminated exterior contained.  
+- Discard in **yellow (trace)** or **black (bulk)** chemo waste as appropriate.
 
-### Step 3: Remaining PPE
+### Step 3: Remove Inner Gloves
 
-![Mask Removal](./doffing_mask.png)
+- Remove inner gloves using glove‑in‑glove technique.  
+- Perform hand hygiene immediately.
 
-- Remove **face mask, beard cover, hair cover**, and **shoe covers**.
-- Discard all items unless facility policy requires reuse of specific PPE (e.g., reusable gowns in segregated compounding areas).
+### Step 4: Remove Remaining PPE
+
+- Remove **mask/respirator**, **bouffant**, **beard cover**, and **shoe covers**.  
+- Discard all items in the appropriate hazardous waste stream.  
+- Perform final hand hygiene.
 
 ---
 
