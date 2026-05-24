@@ -57,7 +57,7 @@ Healthcare workers must wash hands:
 
 > 📌 *Hands must be washed even if gloves were worn.*
 
-🔗 [Aseptic Handwashing Protocol](../handwashing/readme.md)
+🔗 [Aseptic Handwashing Protocol](../../aseptic/handwashing/readme.md)
 
 ### 🥼 Basic Personal Protective Equipment (PPE)
 

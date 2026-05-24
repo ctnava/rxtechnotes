@@ -8,7 +8,9 @@ This procedure outlines the required steps for safely preparing to handle **haza
 
 ### Step 1: Initial Hand Hygiene
 
-- Perform a 🔗 [quick aseptic hand rub](../handwashing/readme.md) down to the wrists with 70% IPA.
+![Standard Motions](../../aseptic/handwashing/motions.png)
+
+- Perform a quick aseptic hand rub down to the wrists with 70% IPA.
 - Dry with a clean disposable towel.  
 - This reduces initial microbial and chemical contamination before PPE application.
 

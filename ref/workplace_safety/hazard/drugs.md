@@ -65,7 +65,7 @@ Before any sterile compounding, and immediately after any potential exposure, te
 
 Correct technique supports **USP <797> compliance**, protects product integrity, and reduces the risk of patient harm and worker exposure.
 
-🔗 [Aseptic Handwashing Protocol](../handwashing/readme.md)
+🔗 [Aseptic Handwashing Protocol](../../aseptic/handwashing/readme.md)
 
 ---
 
