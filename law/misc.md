@@ -49,9 +49,50 @@ An ***SDS*** is a standardized document that outlines:
 
 🔗 [USP SDS Online Database](https://www.uspmsds.com/)
 
+### ☣️ Hazardous Materials
+
+Modern pharmacies handle substances that can cause acute or chronic harm if mishandled. These include corrosive chemicals, cytotoxic medications, volatile solvents, and biological contaminants. Because of this, federal and state regulations require structured systems for identifying hazards, training employees, and ensuring safe disposal.
+
+#### ☣️ USP <800> Overview  
+
+USP <800> establishes national standards for:
+
+- Receiving and unpacking hazardous drugs  
+- Storage requirements (e.g., negative pressure rooms)  
+- Compounding and manipulation  
+- PPE requirements  
+- Decontamination and cleaning  
+- Waste disposal  
+
+`Drugs do not discriminate between healthy & diseased cells.`
+
+NIOSH identifies hazardous drugs based on:
+
+- **Cytotoxicity**: Causing cell death; being potential carcinogens (e.g., antineoplastic agents)  
+- **Reproductive Toxicity**: Reduced or eliminated fertility (e.g., hormonal therapies)
+- **Teratogenicity**: Causing birth defects (i.e. developmental toxicity)  
+- **Genotoxicity**: Causing genetic damage
+- **Carcinogenicity**: Causing cancer
+- **Organ toxicity at low doses**  
+- **Drugs harmful upon skin contact**  
+
+Any medication meeting these criteria must be handled and discarded according to USP <800> standards.
+
+#### Routes of Exposure
+
+Hazardous drugs can enter the body in several ways:
+
+- **Dermal Contact (Most Common)**: touching contaminated surfaces with unprotected skin, especially the palm of the hand.
+- **Inhalation**: breathing contaminated air
+- **Hand-to-Mouth Contact**: contaminated fingers, gum, pens, etc. put into the worker's mouth
+- **Ingestion**: of contaminated food or drink
+- **Accidental Injection**
+
+> Surface contamination is a major contributor to exposure
+
 ---
 
-## 🤯 Resource Conservation & Recovery Act (RCRA, 1976)
+## Resource Conservation & Recovery Act (RCRA, 1976)
 
 `Enforced by the Environmental Protection Agency (EPA)`
 
