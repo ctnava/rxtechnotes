@@ -70,6 +70,8 @@ USP <800> establishes national standards for:
 - Decontamination and cleaning  
 - Waste disposal  
 
+`Drugs do not discriminate between healthy & diseased cells.`
+
 NIOSH identifies hazardous drugs based on:
 
 - **Cytotoxicity**: Causing cell death; being potential carcinogens (e.g., antineoplastic agents)  
