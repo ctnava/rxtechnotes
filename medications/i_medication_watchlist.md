@@ -36,7 +36,7 @@ Dosage Forms:
 - ⚠️ **Narrow Therapeutic Index**: monitor serum digoxin levels
 - 🩸 **Toxicity signs**: N/V, confusion, visual changes (yellow/green halos), arrhythmias
 - ⚖️ **Renally cleared**: Dose varies based on renal function and therapeutic drug monitoring.
-- 🧾 **Drug interactions**: Amiodarone, verapamil, and certain diuretics may increase toxicity risk
+- 🧾 **Drug interactions**: **Amiodarone, verapamil**, and certain diuretics may increase toxicity risk
 
 ## 💊 Nitroglycerin (NTG)
 
@@ -116,7 +116,11 @@ A **vasodilator** used for:
 
 ## 🩸 Warfarin (Coumadin)
 
+`No NSAIDs; NO ASPIRIN`
+
 A **blood thinner** used to prevent blood clots.
+
+Recommend Counseling for all OTC medication use.
 
 - 🔬 Requires regular INR monitoring for blood thickness
 - ⚠️ Risk of bleeding: bruising, nosebleeds, blood in stool/urine  
@@ -135,6 +139,13 @@ An **anticonvulsant** used for **seizure control**.
 - Oral Suspension  
 - IV Formulation  
 
+## Metronidazole (Flagyl)
+
+Nitroimidazole antimicrobial for anaerobic microbes.
+
+- Interaction w/ alcohol
+- Wait 3 days for medication to clear
+
 ## 🧊 Insulin (All Forms)
 
 Used to manage diabetes.
@@ -145,20 +156,21 @@ Used to manage diabetes.
 
 ## 💡 Quick Reference Table — Special Medication Watchlist
 
-| Medication           | Use / Class                         | Key Concerns / Notes                                                                 |
-| ---------------------- | -------------------------------------- | ---------------------------------------------------------------------------------------- |
-| **Acetaminophen** (Tylenol / APAP) | Analgesic / Antipyretic        | Hepatotoxicity risk; max 3000 mg/day; check combo meds (e.g., Norco, Nyquil)           |
-| **Digoxin** (Lanoxin)             | Cardiac Glycoside               | Narrow TI; monitor serum levels; toxicity signs (visual, GI, arrhythmia); renally cleared |
-| **Nitroglycerin** (NTG)          | Vasodilator (Angina)           | Emergency med; expires 6 mo after opening; no child-proof cap; dispense in glass bottle |
-| **Alendronate** (Fosamax)        | Bisphosphonate (Osteoporosis)  | Stay upright ≥30 min; take with full water glass; weekly dosing                         |
-| **Fentanyl Patch** (Duragesic)   | Opioid Analgesic (C-II)        | 72h duration; dispose by folding & flushing; store securely (abuse risk)               |
-| **Methotrexate** (Trexall)       | Antimetabolite / DMARD         | Weekly dosing; hazardous; teratogenic; special disposal & handling required             |
-| **Adalimumab** (Humira)          | Biologic (Autoimmune)          | Refrigerate; BBW for infection & cancer; requires prior auth                            |
-| **Epinephrine Auto-Injector**    | Anaphylaxis Emergency          | Room temp storage; expires in ~12–18 months; refills routine for high-risk pts         |
-| **Sildenafil** (Viagra / Revatio)| PDE-5 Inhibitor                | Contraindicated with nitrates; hypotension risk                                        |
-| **Warfarin** (Coumadin)          | Anticoagulant                  | INR monitoring; bleeding risk; avoid high-Vitamin K foods                               |
-| **Phenytoin** (Dilantin)         | Anticonvulsant                 | Narrow TI; monitor blood levels                                                        |
-| **Insulin** (All forms)          | Antidiabetic Hormone           | Refrigerate unopened; room temp 28 days; check expiration dates                         |
+| Medication | Use / Class | Key Concerns / Notes |
+| --- | --- | --- |
+| **Acetaminophen** (Tylenol / APAP) | Analgesic / Antipyretic | Hepatotoxicity risk; max 3000 mg/day; check combo meds (e.g., Norco, Nyquil) |
+| **Digoxin** (Lanoxin) | Cardiac Glycoside | Narrow TI; monitor serum levels; toxicity signs (visual, GI, arrhythmia); renally cleared |
+| **Nitroglycerin** (NTG) | Vasodilator (Angina) | Emergency med; expires 6 mo after opening; no child-proof cap; dispense in glass bottle |
+| **Alendronate** (Fosamax) | Bisphosphonate (Osteoporosis) | Stay upright ≥30 min; take with full water glass; weekly dosing |
+| **Fentanyl Patch** (Duragesic) | Opioid Analgesic (C-II) | 72h duration; dispose by folding & flushing; store securely (abuse risk) |
+| **Methotrexate** (Trexall) | Antimetabolite / DMARD | Weekly dosing; hazardous; teratogenic; special disposal & handling required |
+| **Adalimumab** (Humira) | Biologic (Autoimmune) | Refrigerate; BBW for infection & cancer; requires prior auth |
+| **Epinephrine Auto-Injector** | Anaphylaxis Emergency | Room temp storage; expires in ~12–18 months; refills routine for high-risk pts |
+| **Sildenafil** (Viagra / Revatio) | PDE-5 Inhibitor | Contraindicated with nitrates; hypotension risk |
+| **Warfarin** (Coumadin) | Anticoagulant | INR monitoring; bleeding risk; avoid high-Vitamin K foods |
+| **Phenytoin** (Dilantin) | Anticonvulsant | Narrow TI; monitor blood levels |
+| **Metronidazole** (Flagyl) | Nitroimidazole antimicrobial | Alcohol interaction within 3 days of taking |
+| **Insulin** (All forms) | Antidiabetic Hormone | Refrigerate unopened; room temp 28 days; check expiration dates |
 
 ---
 
