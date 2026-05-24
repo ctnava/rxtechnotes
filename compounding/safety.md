@@ -134,23 +134,71 @@ Face should be used with respirator to protect the face and eyes
 
 ---
 
-## Handling Activities
+## Engineering Controls
 
-### Receiving & Transport
+### Primary Engineering Controls
+
+### Secondary Engineering Controls
+
+---
+
+## Work Practices
+
+`work practices should be designed to minimize contamination and maximize containment.`
+
+### Receiving, Transport, Dispensing, & Administration
 
 `External surfaces of containers sent from the wholesaler may arrive contaminated.`
 
 Always assume packaging and contents within are contaminated.
 
+when received from a distributor, they should be sealed inside a bag and cushioned in an outer package.
+
 personnel receiving, opening, and unpacking cartons from the manufacturer or distributer may be exposed to hazardous materials through dermal contact.
+use PPE when unpacking boxes. double gloves should be worn for all receiving
 
 Handling activities may release and transfer it into the hair, hands/ gloves, and other surfaces.
 
 ### Storage
 
+personnel should segregate hazardous drugs from other drug inventory to avoid contaminating other stored products and to limit the number of personnel with access to the products.
+
+Drugs placed in inventory should be stored in bins or other containers that minimize the risk of falling and breakage
+
+ideally stored in an area of negative pressure
+
+spills in negative pressure stay in that environment
+
+797 requires a minimum of 12 ACPH air pressure changes per hour in hazardous storage areas
+
+before putting vials inside a PEC, personnel must wipe it down.
+the vial should not be sprayed directly (contamination risk). spray the cloth and wipe water or alcohol.
+
 ### Compounding
 
-Dispose of gowns after compounding, do not reuse.
+`Dispose of gowns after compounding, do not reuse.`
+
+injectable drugs are of special concern because they are in powder or liquid form, concentrated, and easily aerosolized.
+
+risky activities regarding injectables include:
+
+- reconstitution
+- drawing up doses from vials or ampules with needles & syringes
+- expelling air from syringes filled with hazardous drugs
+- transferring doses into IV bags or devices
+
+oral drugs also pose contamination risk
+broken tablets or capsules and loose powder may be present in the bulk container
+active drug can be inhaled
+crushing and grinding releases drug into the air where it can contaminate work surfaces, increasing dermal contact risk
+automated counting devices can spread this powder because they can place more stress on tablets/ capsules, greater than manual counting
+
+risky handling activities include
+
+- counting uncoated tablets and capsules
+- unit-dosing uncoated oral doses in machine
+- compounding potent powders into custom dosage capsules
+- crushing and mixing into liquid or topical forms
 
 ### Dispensing & Administration
 
