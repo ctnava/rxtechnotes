@@ -57,7 +57,7 @@ Healthcare workers must wash hands:
 
 > 📌 *Hands must be washed even if gloves were worn.*
 
-🔗 [Aseptic Handwashing Protocol](./sop/handwashing/readme.md)
+🔗 [Aseptic Handwashing Protocol](../handwashing/readme.md)
 
 ### 🥼 Basic Personal Protective Equipment (PPE)
 
@@ -71,6 +71,7 @@ PPE includes:
 These barriers protect against **splashes** and **short‑term exposure**, but prolonged use can turn PPE into a contamination risk. PPE must be changed frequently and removed using proper technique.
 
 🔗 [PPE Doffing & Donning Protocols](./sop/ppe/readme.md)
+<!-- todo fix link -->
 
 ---
 

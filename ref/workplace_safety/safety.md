@@ -74,7 +74,7 @@ Technicians must know:
 
 Pharmacy technicians routinely work around substances that can cause **infection**, **injury**, or **long‑term harm** if mishandled. To keep patients and staff safe, hazardous materials are divided into two major categories, **hazardous drugs** and **biohazards**, each governed by its own regulatory standards, PPE requirements, and disposal systems. The following documents provide structured guidance for identifying risks, preventing exposure, and responding to contamination events in compliance with **OSHA**, **NIOSH**, **USP <797>/<800>**, and state law.
 
-- 🔗 [Hazardous Drugs](./sop/hazard/drugs.md)
-- 🔗 [Biohazards & Infection Control](./sop/hazard/bio.md)
+- 🔗 [Hazardous Drugs](./hazard/drugs.md)
+- 🔗 [Biohazards & Infection Control](./hazard/bio.md)
 
 ---
