@@ -1,4 +1,4 @@
-# Hazardous Drugs
+# Hazardous Drug Handling
 
 ## Legal Defitions
 
@@ -16,18 +16,6 @@ OSHA establishes nationwide standards to protect pharmacy personnel from workpla
 - Follow **Bloodborne Pathogens** standards in settings that administer vaccines or handle sharps.
 - Maintain an **Exposure Control Plan** and procedures for spills, exposures, and emergencies.
 
-#### Routes of Exposure
-
-Hazardous materials can enter the body in several ways:
-
-- **Dermal Contact (Most Common)**: touching contaminated surfaces with unprotected skin, especially the palm of the hand.
-- **Inhalation**: breathing contaminated air
-- **Hand-to-Mouth Contact**: contaminated fingers, gum, pens, etc. put into the worker's mouth
-- **Ingestion**: of contaminated food or drink
-- **Accidental Injection**
-
-> Surface contamination is a major contributor to exposure
-
 #### 🦅 OSHA Hazard Communication Standard (“Right to Know”)
 
 Under the OSHA Hazard Communication Standard, employees have a legally protected **Right to Know** about hazardous chemicals in their workplace. This includes:
@@ -44,7 +32,7 @@ Hospitals and pharmacies must therefore:
 - Ensure all containers are properly labeled with hazard warnings  
 - Keep **Safety Data Sheets (SDS)** accessible at all times  
 
-#### Safety Data Sheets (SDS)
+### Safety Data Sheets (SDS)
 
 `Formerly Materials Safety Data Sheets (MSDS)`
 
@@ -89,6 +77,20 @@ NIOSH identifies hazardous drugs based on:
 - **Drugs harmful upon skin contact**  
 
 Any medication meeting these criteria must be handled and discarded according to USP <800> standards.
+
+---
+
+## Routes of Exposure
+
+Hazardous materials can enter the body in several ways:
+
+- **Dermal Contact (Most Common)**: touching contaminated surfaces with unprotected skin, especially the palm of the hand.
+- **Inhalation**: breathing contaminated air
+- **Hand-to-Mouth Contact**: contaminated fingers, gum, pens, etc. put into the worker's mouth
+- **Ingestion**: of contaminated food or drink
+- **Accidental Injection**
+
+> Surface contamination is a major contributor to exposure
 
 ---
 
