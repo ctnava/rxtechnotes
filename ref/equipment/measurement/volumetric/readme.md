@@ -179,6 +179,23 @@ Plastic or amber vials used for **storage and dispensing** of finished medicatio
 
 ---
 
+### Transfer (Pasteur) Pipets
+
+`Used for transferring, not measuring, liquids`
+
+**Definition:**  
+Plastic or glass pipets used to **move** liquids, not to measure exact volumes.
+
+**Notes:**  
+
+- Not calibrated  
+- Used for non‑critical transfers  
+- Often disposable
+
+![[Transfer Pipette](https://www.gouletpens.com/products/goulet-disposable-transfer-pipettes)](./transfer_pipette.png)
+
+---
+
 ## Volumetric Equipment Types
 
 ### Graduated Cylinders — **TC**
@@ -328,18 +345,3 @@ Precision pipets used to measure **µL‑scale** volumes (e.g., 10–100 µL).
 - Highly accurate for very small volumes
 
 ![[Micropipette](https://andyjconnelly.wordpress.com/2017/02/12/practical-pipetting-a-guide/)](./micropipette_diagram.png)
-
-#### Transfer (Pasteur) Pipets — **NON-CALIBRATED**
-
-`Used for transferring, not measuring, liquids`
-
-**Definition:**  
-Plastic or glass pipets used to **move** liquids, not to measure exact volumes.
-
-**Notes:**  
-
-- Not calibrated  
-- Used for non‑critical transfers  
-- Often disposable
-
-![[Transfer Pipette](https://www.gouletpens.com/products/goulet-disposable-transfer-pipettes)](./transfer_pipette.png)
