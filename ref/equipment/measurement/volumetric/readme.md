@@ -301,6 +301,36 @@ See 🔗 [Pharmacy Equipment Manual: Syringes & Needles](./syringes/readme.md) f
 
 Pipets are used for **precise measurement and transfer** of liquids.
 
+#### Rubber Bulbs
+
+**Definition:**  
+Rubber bulbs are **manual suction devices** attached to the end of a pipette to create a **vacuum**, allowing liquid to be drawn into and expelled from the pipette **without mouth contact**.
+
+**Purpose & Function:**
+
+- Provide **controlled suction** to fill pipettes  
+- Prevent **mouth pipetting**, which is unsafe and prohibited  
+- Allow **smooth, gradual dispensing**  
+- Fit onto **glass or plastic pipettes** of various sizes  
+- Used with:
+  - Volumetric pipettes  
+  - Serological pipettes  
+  - Mohr pipettes  
+
+**Types of Rubber Bulbs:**
+
+- **Simple squeeze bulbs**: basic suction  
+- **Three‑valve bulbs**: more control (A = aspirate, S = suction, E = expel)  
+
+**Safety Notes:**
+
+- Never mouth‑pipette (OSHA & USP violation)  
+- Ensure a **tight seal** between bulb and pipette  
+- Avoid drawing corrosive or volatile chemicals too forcefully  
+- Replace bulbs that are cracked, sticky, or losing elasticity  
+
+![[Pipette & Bulb](https://modelpaintsol.com/model-paint/10ml-glass-graduated-transfer-pipette-w-suction-bulb)](./pipette_bulb.jpeg)
+
 ---
 
 #### Single‑Volume (Volumetric) Pipets — **TD**
@@ -330,7 +360,7 @@ Pipets with graduation marks allowing measurement of **variable volumes**.
 
 **Notes:**  
 
-- **Serological pipets = TD** (blow‑out required)  
+- **Serological pipets = TD** (blow‑out required; OSHA Violation)  
 - **Mohr pipets = TC** (no blow‑out)  
 - Less accurate than volumetric pipets
 - Uses a detachable rubber bulb to draw & dispense liquid
@@ -351,5 +381,6 @@ Precision pipets used to measure **µL‑scale** volumes (e.g., 10–100 µL).
 - Common in research labs, rarely in pharmacy  
 - Use disposable tips  
 - Highly accurate for very small volumes
+- **Pipette pumps** (mechanical alternatives): crank or thumb‑wheel for precision  
 
 ![[Micropipette](https://andyjconnelly.wordpress.com/2017/02/12/practical-pipetting-a-guide/)](./micropipette_diagram.png)
