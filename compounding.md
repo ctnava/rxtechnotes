@@ -162,25 +162,80 @@ Before compounding:
 
 **Extemporaneous compounding** is the **on‑demand preparation** of a drug product to meet the **specific needs of an individual patient**.
 
-🧪 **Extemporaneous Compounding Services Are Required When**:
+🧪 **Extemporaneous Compounding Services Address**:
 
-- **A patient is allergic to an inactive ingredient** (e.g., dyes, preservatives, lactose) in a commercially available product
-- A drug product has been discontinued or is in shortage
-- A patient requires a nonstandard dose or route of administration
-- A specific flavor or form (e.g., liquid vs tablet) is needed for patient compliance
-- A veterinary or pediatric formulation is required
+1. **Patient‑Specific Needs** 👤
+   - **Nonstandard dose or strength**  
+     (e.g., micro‑doses, pediatric strengths, geriatric titration doses)
+   - **Alternative route of administration**  
+     (e.g., oral → topical, oral → rectal)
+   - **Allergy or intolerance to excipients**  
+     Examples: dyes, lactose, gluten, alcohol, preservatives, fragrances
+   - **Need for improved adherence**  
+     (e.g., converting tablets to liquid, adding flavoring)
 
-> Includes **reconstitution of oral suspensions** (e.g., adding purified water to a dry powder antibiotic) when done according to manufacturer or formulation instructions.
+2. **Clinical or Therapeutic Requirements** 🩺
+   - **Therapeutic drug monitoring (TDM)** requiring precise individualized doses  
+     (e.g., tacrolimus suspensions, narrow‑therapeutic‑index drugs)
+   - **Dermatological preparations**  
+     (creams, ointments, gels, pastes, compounded acne or steroid formulations)
+   - **Veterinary or pediatric formulations**  
+     (species‑specific or child‑appropriate strengths)
 
-💸 **Insurance Coverage**:
+3. **Product Availability Issues** 📦
+   - **Drug shortages**  
+   - **Manufacturer discontinuations**  
+   - **Temporary unavailability of commercial products**
 
-`NOT including reconstitution at the Point-of-Sale.`
+4. **Specialized Preparations** ⚗️
+   - **Radiopharmaceuticals**  
+     (rare in outpatient settings but included for completeness)
+   - **TPN**  
+     (primarily inpatient, but included for conceptual accuracy)
+   - **Off‑label dosage forms**  
+     (e.g., converting oral meds into topical gels)
 
-- Most **private insurance plans** may reimburse compounded prescriptions
-- **Public insurance programs** (e.g., Medicare, Medi-Cal) usually **do not** cover custom, compounded preparations
-- Billed to **medical benefit**
+#### Outpatient Extemporaneous Compounding
 
-> 🚨 Technicians must verify coverage during the adjudication process and inform patients of out-of-pocket costs
+Outpatient extemporaneous compounding focuses on **patient‑specific, small‑volume preparations** dispensed directly to the patient for home use.
+
+Common outpatient examples include:
+
+- Oral suspensions prepared from tablets/capsules  
+- Topical dermatologic preparations  
+- Pediatric liquid formulations  
+- Veterinary flavored liquids  
+- Hormone replacement therapy (HRT) creams  
+- Pain management gels (e.g., ketoprofen, lidocaine combinations)
+
+##### Reconstitution
+
+Reconstitution **counts as extemporaneous compounding** *only when* performed according to a **Master Formulation Record** or prescriber instructions.
+
+- 🦅x🐻 **When reconstitution is performed exactly as the manufacturer label instructs, it is *not legally considered compounding*.**  
+- It is a **dispensing activity**, but still requires proper documentation and counseling.
+
+##### 💸 Insurance Coverage
+
+`Billed Under Medical Benefit`
+
+`Does NOT include simple manufacturer‑directed reconstitution at the point of sale.`
+
+Private Insurance **may** reimburse compounded prescriptions. Coverage depends on:
+
+- Whether ingredients are FDA‑approved  
+- Whether ingredients are on formulary  
+- Plan‑specific compound policies  
+
+Public Insurance like **Medicare** and **Medi‑Cal** generally **do NOT cover** custom compounded medications.
+
+**Billing Notes**:
+
+- Compounds often require **manual claim submission**  
+- Some ingredients adjudicate while others reject  
+- Patients may face **significant out‑of‑pocket costs**
+
+> 🚨 **Technicians must verify coverage before compounding** and notify patients of expected costs.
 
 ## Bulk Compounding
 
