@@ -35,8 +35,30 @@ Always use the smallest device available for measurement (volume equals or barel
 
 ### Graduation Lines
 
-major
-minor
+![[Graduation Lines](https://www.youtube.com/watch?v=ZnJAjBs8koc)](./syringe/graduationLines.jpg)
+
+There exist two types of markings:
+
+- **Major Line Increments:** Prominent, thick, and typically labeled lines used for primary reference
+- **Minor Line Increments:** Thinner, intermediate lines filling the space between major lines to provide higher resolution detail
+
+#### Increment Pattern
+
+While each cylinder size has a standard graduation scale, it's important to understand how to calculate these things on our own.
+
+| Syringe Size | Typical Increment |
+| ------------ | ----------------- |
+| 1 mL (TB)    | 0.01 mL           |
+| 3 mL         | 0.1 mL            |
+| 5 mL         | 0.2 mL            |
+| 10 mL        | 0.2–0.5 mL        |
+| 20–60 mL     | 1 mL              |
+
+![[Counted Graduation Lines](https://knowledge.carolina.com/discipline/physical-science/chemistry/how-to-use-a-graduated-cylinder/)](./syringe/countedLines.jpg)
+
+- This cylinder has major lines every 5mL and has 10 spaces between each increment.
+- 5mL divided by 10 spaces = 0.5mL per increment
+- ==> each minor graduation is 0.5mL
 
 ### Calibration Mark
 
@@ -146,6 +168,8 @@ Syringes without a Luer‑lock tip, designed for **non‑sterile, oral administr
 - Color‑coded (often amber/orange) & larger tips to prevent IV use  
 - Accurate for pediatric and geriatric dosing  
 - Not used for sterile compounding
+
+See 🔗 [Pharmacy Equipment Manual: Syringes & Needles](./syringes/readme.md) for full details.
 
 ### Pipets — **TD / TC (depends on type)**
 

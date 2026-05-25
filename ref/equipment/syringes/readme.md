@@ -199,4 +199,6 @@ In practice:
 
 ---
 
-[document navigation placeholders]
+## Navlinks
+
+- 🔙🔗 Back to [Volumetric Equipment](../volumetric.md#syringes--td)
