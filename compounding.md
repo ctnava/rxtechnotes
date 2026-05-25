@@ -255,7 +255,7 @@ Public Insurance like **Medicare** and **Medi‑Cal** generally **do NOT cover**
 
 > 🚨 **Technicians must verify coverage before compounding** and notify patients of expected costs.
 
-## Bulk Compounding
+### Bulk Compounding
 
 **Bulk compounding** is the preparation of a **larger quantity** of a compounded product in advance, to be **dispensed later** into individual prescriptions.
 
