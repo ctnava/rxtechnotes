@@ -360,7 +360,7 @@ Pipets with graduation marks allowing measurement of **variable volumes**.
 
 **Notes:**  
 
-- **Serological pipets = TD** (blow‑out required; OSHA Violation)  
+- **Serological pipets = TD** (blow‑out required)  
 - **Mohr pipets = TC** (no blow‑out)  
 - Less accurate than volumetric pipets
 - Uses a detachable rubber bulb to draw & dispense liquid
