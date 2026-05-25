@@ -178,6 +178,14 @@ Tall, narrow cylinders with graduation marks for measuring **non‑critical** vo
 - Cylindrical is more accurate than conical
 - Avoid measuring volumes under 20% of its rated capacity
 
+![[Cylindrical Cylinders](https://globescientific.com/products/graduated-cylinder-pp-printed-graduations-1000ml)](./cylindrical_cylinder.png)
+
+A set of cylindrical cylinders
+
+![[Conical Cylinder](https://www.rapidonline.com/academy-conical-measures-neutral-glass-582834)](./conical_cylinder.jpg)
+
+A set of conical cylinders
+
 ### Volumetric Flasks — **TC**
 
 Used to **prepare exact volumes of solutions** (e.g., stock solutions, dilutions).
@@ -192,6 +200,8 @@ A bulbous flask with a long neck and a single calibration line indicating **one 
 - Not used for dispensing  
 - Must be mixed thoroughly after filling to the mark
 - Hard to use for mixing due to slender neck; predissolve solids first.
+
+![[Volumetric Flasks](https://www.homesciencetools.com/product/volumetric-flask-set-of-5/)](./volumetric_flasks.jpg)
 
 ### Syringes — **TD**
 
@@ -221,6 +231,8 @@ Syringes without a Luer‑lock tip, designed for **non‑sterile, oral administr
 - Not used for sterile compounding
 
 See 🔗 [Pharmacy Equipment Manual: Syringes & Needles](./syringes/readme.md) for full details.
+
+![[Colored Syringes](https://wtcs.pressbooks.pub/nursingskills/chapter/5-2-math-basic-concepts/)](./colored_syringe.jpg)
 
 ### Pipets — **TD / TC (depends on type)**
 
