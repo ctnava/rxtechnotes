@@ -1,5 +1,7 @@
 # About Compounding
 
+Compounding is the **preparation, mixing, assembling, altering, packaging, and labeling** of a drug or device in accordance with a licensed prescriber's prescription, medication order, or initiative based on the practitioner/patient/pharmacist/compounder relationship in the course of professional practice.
+
 ## Regulations 🦅x🐻
 
 `Compounding is subject to FDA, DEA, & State Board of Pharmacy oversight.`
