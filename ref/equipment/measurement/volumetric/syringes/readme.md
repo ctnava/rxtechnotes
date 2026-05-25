@@ -145,11 +145,12 @@ While each syringe size has a standard graduation scale, it's important to under
 
 | Syringe Size | Typical Increment |
 | ------------ | ----------------- |
-| 1 mL (TB)    | 0.01 mL           |
-| 3 mL         | 0.1 mL            |
-| 5 mL         | 0.2 mL            |
-| 10 mL        | 0.2–0.5 mL        |
-| 20–60 mL     | 1 mL              |
+| 1 mL (TB) | 0.01 mL |
+| 3 mL | 0.1 mL |
+| 5 mL | 0.2 mL |
+| 10 mL | 0.2–0.5 mL |
+| 20 mL | 1 mL |
+| 60 mL | 2 mL |
 
 ![[Counted Graduation Lines](https://knowledge.carolina.com/discipline/physical-science/chemistry/how-to-use-a-graduated-cylinder/)](../countedLines.jpg)
 

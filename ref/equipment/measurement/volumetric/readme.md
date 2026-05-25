@@ -48,8 +48,6 @@ While each cylinder size has a standard graduation scale, it's important to unde
 
 | Cylinder Size | Typical Increment |
 | --- | --- |
-| 1 mL (TB) | 0.01 mL |
-| 3 mL | 0.1 mL |
 | 5 mL | 0.2 mL |
 | 10 mL | 0.2–0.5 mL |
 | 20–60 mL | 1 mL |
