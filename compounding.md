@@ -100,6 +100,22 @@ Chapters **<1> through <999>** are enforceable by the FDA. The rest are purely i
 - **Intended uses**  
 - **Stability and BUD expectations** when the monograph is followed exactly
 
+### Pharmacy Compounding Accreditation Board (PCAB)
+
+The **Pharmacy Compounding Accreditation Board (PCAB)**, now part of the **Accreditation Commission for Health Care (ACHC)**, provides **voluntary accreditation** for compounding pharmacies that meet rigorous quality and safety standards.
+
+**PCAB Accreditation Requirements** include:
+
+- **Written SOPs** for all compounding processes
+- **Documented quality assurance (QA) program**  
+- **Environmental monitoring** (especially for sterile compounding)  
+- **Personnel training and competency assessments**  
+- **Use of USP‑grade ingredients** when available  
+- **Robust documentation** for every compounded preparation  
+- **Demonstrated compliance** with USP <795>, <797>, and <800>
+
+> 📌 **Note:** PCAB accreditation is **not required by law**, but many hospitals, clinics, and prescribers prefer or require it for contracted compounding services.
+
 ---
 
 ## Compounding
