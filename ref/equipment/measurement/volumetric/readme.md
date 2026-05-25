@@ -276,7 +276,9 @@ See 🔗 [Pharmacy Equipment Manual: Syringes & Needles](./syringes/readme.md) f
 
 ---
 
-### Pipets — **TD / TC (depends on type)**
+### Pipet(te)s — **TD / TC (depends on type)**
+
+`Recommended for volumes < 25 mL; Required for volumes < 1 mL in the absence of proper syringes`
 
 Pipets are used for **precise measurement and transfer** of liquids.
 
@@ -292,6 +294,8 @@ Pipets calibrated to deliver **one exact volume** (e.g., 5 mL, 10 mL).
 - Extremely accurate  
 - Must be drained completely  
 - Do not blow out remaining liquid unless specified
+
+![Volumetric Pipette(https://en.wikipedia.org/wiki/Volumetric_pipette)](./single_volume.jpg)
 
 #### Calibrated (Graduated/Serological) Pipets — **TD or TC**
 
