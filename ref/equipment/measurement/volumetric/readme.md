@@ -287,14 +287,14 @@ Pipets are used for **precise measurement and transfer** of liquids.
 `Most accurate pipet type`
 
 **Definition:**  
-Bulbous pipets, with a characteristic "belly", calibrated to deliver **one exact volume** (e.g., 5 mL, 10 mL).
+Bulbous pipets, with a characteristic "belly" and calibration mark, meant to deliver **one exact volume** (e.g., 5 mL, 10 mL).
 
 **Notes:**  
 
 - Extremely accurate  
 - Must be drained completely  
 - Do not blow out remaining liquid unless specified
-- Uses a rubber bulb to draw and dispense liquid
+- Uses a detachable rubber bulb to draw and dispense liquid
 
 ![Volumetric Pipette(https://en.wikipedia.org/wiki/Volumetric_pipette)](./single_volume.jpg)
 
@@ -310,6 +310,24 @@ Pipets with graduation marks allowing measurement of **variable volumes**.
 - **Serological pipets = TD** (blow‑out required)  
 - **Mohr pipets = TC** (no blow‑out)  
 - Less accurate than volumetric pipets
+- Uses a detachable rubber bulb to draw & dispense liquid
+
+![[graduated pipette](https://www.sigmaaldrich.com/US/en/product/aldrich/br27109)](./graduated_pipette.jpg)
+
+#### Transfer Pipets (Pasteur Pipets) — **TD**
+
+`Used for transferring, not measuring, liquids`
+
+**Definition:**  
+Plastic or glass pipets used to **move** liquids, not to measure exact volumes.
+
+**Notes:**  
+
+- Not calibrated  
+- Used for non‑critical transfers  
+- Often disposable
+
+![[Transfer Pipette](https://www.gouletpens.com/products/goulet-disposable-transfer-pipettes)](./transfer_pipette.png)
 
 #### Micropipets — **TD**
 
@@ -323,16 +341,3 @@ Precision pipets used to measure **µL‑scale** volumes (e.g., 10–100 µL).
 - Common in research labs, rarely in pharmacy  
 - Use disposable tips  
 - Highly accurate for very small volumes
-
-#### Transfer Pipets (Pasteur Pipets) — **TD**
-
-`Used for transferring—not measuring—liquids`
-
-**Definition:**  
-Plastic or glass pipets used to **move** liquids, not to measure exact volumes.
-
-**Notes:**  
-
-- Not calibrated  
-- Used for non‑critical transfers  
-- Often disposable
