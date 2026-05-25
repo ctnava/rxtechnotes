@@ -20,31 +20,67 @@ Equipment calibrated **to hold an exact volume**, but **not necessarily to deliv
 - Not required to fully empty  
 - Examples: **volumetric flasks, graduated cylinders, some calibrated pipets**
 
-> 📌 **TD = delivers exact volume**  
-> 📌 **TC = contains exact volume**
-
-### Meniscus
-
-- Should be read at **eye level** at the **bottom of the meniscus**
+> 📌 **TD = delivers exact volume for dispensing**  
+> 📌 **TC = contains exact volume for preparing solutions**
 
 ### Rated Capacity
 
-Largest measurable volume
+**Definition:**  
+The **maximum accurate volume** a device is designed to measure.
 
-Always use the smallest device available for measurement (volume equals or barely exceeds capacity)
+**Best Practice:**  
+Always choose the **smallest device** that can measure the required volume.  
+Accuracy decreases when measuring volumes **below 20%** of the device’s capacity.
+
+### Meniscus
+
+**Definition:**  
+The **curved surface** formed at the top of a liquid column due to adhesive and cohesive forces.  
+Most aqueous solutions form a **concave meniscus** (liquid curves upward at the edges).  
+Hydrophobic liquids (e.g., mercury) form a **convex meniscus**.
+
+**Reading the Meniscus Correctly:**
+
+- **Concave:** read at the **bottom** of the curve  
+- **Convex:** read at the **top** of the curve  
+- Always read at **eye level** to avoid distortion
+
+A meniscus is the curved top surface of a column of liquid. The meniscus can be either concave or convex.
+
+A concave meniscus occurs when molecules are more attracted to the container than to each other. The liquid appears to ‘climb’ the sides of the container. Most liquids possess a concave meniscus.
+
+![[Diagram of Proper Viewing Angle](https://theory.labster.com/meniscus/)](./meniscus.png)
+
+#### Parallax Error
+
+**Definition:**  
+A measurement error that occurs when the observer’s eye is **not level** with the meniscus, causing the reading to appear higher or lower than the true value.
+
+**Rule**:
+
+- Read at **eye level**  
+- Align with the **bottom of a concave** or **top of a convex** meniscus
+
+![[Diagram of Parallax Error](https://glossary.periodni.com/download_image.php?name=parallax.png&source=parallax)](./parallax.png)
 
 ### Graduation Lines
 
+**Definition:**  
+The **etched or printed markings** on volumetric equipment that indicate measurable increments.
+
+- **Major Line Increments**  
+  - Thick, bold, often labeled  
+  - Represent large, primary volume intervals (e.g., every 5 mL)
+
+- **Minor Line Increments**  
+  - Thin, unlabeled  
+  - Represent subdivisions between major lines (e.g., 0.5 mL)
+
 ![[Graduation Lines](https://www.youtube.com/watch?v=ZnJAjBs8koc)](./graduationLines.jpg)
-
-There exist two types of markings:
-
-- **Major Line Increments:** Prominent, thick, and typically labeled lines used for primary reference
-- **Minor Line Increments:** Thinner, intermediate lines filling the space between major lines to provide higher resolution detail
 
 #### Increment Pattern
 
-While each cylinder size has a standard graduation scale, it's important to understand how to calculate these things on our own.
+Graduated cylinders follow standard increment patterns, but technicians must be able to **calculate increments independently**.
 
 | Cylinder Size | Typical Increment |
 | --- | --- |
@@ -52,15 +88,32 @@ While each cylinder size has a standard graduation scale, it's important to unde
 | 10 mL | 0.2–0.5 mL |
 | 20–60 mL | 1 mL |
 
+**Example Calculation:**
+
+- Major lines every **5 mL**  
+- **10 spaces** between major lines  
+- 5 mL ÷ 10 = **0.5 mL per minor increment**
+
 ![[Counted Graduation Lines](https://knowledge.carolina.com/discipline/physical-science/chemistry/how-to-use-a-graduated-cylinder/)](./countedLines.jpg)
 
-- This cylinder has major lines every 5mL and has 10 spaces between each increment.
-- 5mL divided by 10 spaces = 0.5mL per increment
-- ==> each minor graduation is 0.5mL
+**Example Calculation (Continued):**
+
+- Bottom of concave meniscus is 7 minor lines above 10 mL
+- Volume = 10mL + (0.5 mL/increment x 7 increments)
+- ==> Volume = 13.5 mL
 
 ### Calibration Mark
 
-for devices with a single line, denoting volume (extremely accurate)
+**Definition:**  
+A **single, precise line** on a volumetric device (e.g., volumetric flask, volumetric pipet) indicating the **exact calibrated volume**.
+
+**Notes:**
+
+- Found only on **high‑accuracy TC or TD devices**  
+- Represents the **most accurate measurement** in volumetric equipment  
+- Used for preparing standard solutions, dilutions, and analytical work
+
+![[Calibration Mark](https://theory.labster.com/volumetricflask/)](./calibration_mark.png)
 
 ---
 
