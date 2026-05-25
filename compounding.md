@@ -1,41 +1,54 @@
 # Compounding
 
-## Regulations
+## Regulations 🦅x🐻
 
-### Drug Quality & Security Act (2013)
+### 🦅 Drug Quality & Security Act (2013)
 
-`Expands FDA authority to compounded drugs and establishes the difference between compounding & manufacturing`
+`Expands FDA authority over compounded drugs and clarifies the difference between compounding and manufacturing.`
 
-- **"Outsourcing Facility" Designation**: Allows pharmaceutical compounders to voluntarily register with the FDA as an outsourcing facility.
-- **cGMP Compliance**: Outsourcing facilities must adhere to current Good Manufacturing Practices (cGMP).
-- **Exemptions**: Outsourcing facilities may be exempt from certain new drug requirements and labeling requirements, but must still adhere to cGMP.
-- **Reporting Requirements**: Outsourcing facilities must report biannually on the drugs they compound and submit adverse event reports.
-- **Risk-Based Inspections**: Outsourcing facilities are subject to a risk-based inspection schedule.
+- **"Outsourcing Facility" designation:**  
+  Allows certain compounders to voluntarily register with the FDA as **outsourcing facilities** rather than traditional pharmacies.
+- **cGMP compliance:**  
+  Outsourcing facilities must follow **current Good Manufacturing Practices (cGMP)** similar to manufacturers.
+- **Limited exemptions:**  
+  May be exempt from **new drug approval** and **labeling** requirements, but **not** from cGMP.
+- **Reporting requirements:**  
+  Must submit **biannual reports** of all compounded products and **adverse event reports**.
+- **Risk‑based inspections:**  
+  Subject to **risk‑based FDA inspections** instead of routine pharmacy‑style inspections.
 
 ### 🤯 Right to Try Act (2018)
 
-`Many investigational drugs exist as compounded preparations`
+`Many investigational drugs are supplied as compounded preparations.`
 
-The "Right to Try Act" allows terminally ill patients to access investigational drugs that have not yet been fully approved by the FDA. The law bypasses the typical FDA approval process for compassionate use, providing a pathway for patients who have exhausted all standard treatment options.
+The **Right to Try Act** allows certain terminally ill patients to access **investigational drugs** that have **not yet received full FDA approval**, outside of the traditional FDA expanded‑access (compassionate use) pathway.
 
 **Patient Criteria**:
 
-- **Condition**: Have a life-threatening disease or condition.
-- **Treatment Exhaustion**: Have exhausted all conventional treatment options approved by the FDA.
-- **Trial Ineligibility**: Be unable to participate in a clinical trial for the investigational drug.
-- **Informed Consent**: Provide written informed consent, or have it provided by a legally authorized representative
+- **Life‑threatening condition:**  
+  Have a **serious or life‑threatening disease or condition**.
+- **Treatment exhaustion:**  
+  Have **exhausted all FDA‑approved treatment options**.
+- **Trial ineligibility:**  
+  Be **unable to participate** in a clinical trial involving the investigational drug.
+- **Informed consent:**  
+  Provide **written informed consent**, or have it provided by a **legally authorized representative**.
 
 **Drug Criteria**:
 
-- Successfully completed a Phase 1 clinical trial.
-- Still be in active development or undergoing clinical testing.
-- Not yet be approved or licensed by the FDA for any use.
+- **Phase 1 completed:**  
+  Successfully completed at least a **Phase 1 clinical trial**.
+- **Active development:**  
+  Still in **active clinical development** (not discontinued).
+- **Not FDA‑approved:**  
+  **Not yet approved** or licensed by the FDA for any indication.
 
 ### Records
 
 - **Formulation Records**: contain formulas and procedures (i.e. recipes) for what should happen when a preparation is compounded
 
 - **Compounding Records**: are a record of what actually happened when the preparation was compounded
+  - **Bulk Compounding Log**: includes list of ingredients as well as amounts used, manufacturer, lot numbers, & expiration dates of EACH specific ingredient.
 
 ### 📚 United States Pharmacopeia–National Formulary (USP–NF)
 
@@ -85,51 +98,36 @@ Chapters **<1> through <999>** are enforceable by the FDA. The rest are purely i
 
 Monographs are a document that describes a drug, drug ingredient, or chemical
 
-function like “recipe books” describing what is **Generally Recognized As Safe and Effective (GRASE)**:
-
-A monograph specifies:
+function like “recipe books” specifying:
 
 - **Active ingredients** allowed  
 - **Dosage strengths**  
 - **Dosage forms & routes**  
 - **Labeling requirements**  
 - **Intended uses**  
+- expected beyond Use Date & Stability data when followed exactly
 
 ---
 
 ## Types of Compounding
 
-### Extemporaneous Compounding
+Technicians follow a recipe under pharmacist supervision; directions must be followed exactly
 
-**Extemporaneous Compounding** is the on-demand formulation of a prescribed drug preparation to meet the unique needs of an individual patient.
-
-Technicians follow a recipe
 all ingredients & supplies must be collected and brought to the compounding area
 
 pharmacy technicians must wash their hands and clean the surface
 
-once compounded, a record of preparation and ingrediants is recorded in the BULK COMPOUNDING LOG:
+### Extemporaneous Compounding
 
-- includes list of ingredients
-- amounts used
-- manufacturer
-- lot numbers
-- expiration dates
-- of EACH specific ingredient
+**Extemporaneous Compounding** is the on-demand formulation of a prescribed drug preparation to meet the unique needs of an individual patient.
+
+> *also covers reconstitution of oral suspensions*
+
+## Bulk Compounding
+
+**Bulk Compounding**: Definition
+
+once compounded, a record of preparation and ingrediants is recorded in the bulk compounding log
 
 the newly compounded bulk bottle needs to be labeled with compounded drug name, concentration, lot number (per hospital), expiration date
 initials of pharmacist after they check the preparation
-
-recipes usually stored in binder or computer
-directions must be followed exactly
-
-equipment:
-
-- mortar and pestles
-- calibrated measureing devices
-
-ingredients:
-
-- sterile water
-- simple syrup
-- glycerine

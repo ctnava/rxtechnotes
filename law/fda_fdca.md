@@ -123,32 +123,44 @@ The **FDA Safety & Innovation Act (FDASIA)** strengthened the FDA's ability to e
 
 ## Drug Quality & Security Act (2013)
 
-`Expands FDA authority to compounded drugs`
+`Expands FDA authority over compounded drugs and clarifies the difference between compounding and manufacturing.`
 
-- **"Outsourcing Facility" Designation**: Allows pharmaceutical compounders to voluntarily register with the FDA as an outsourcing facility.
-- **cGMP Compliance**: Outsourcing facilities must adhere to current Good Manufacturing Practices (cGMP).
-- **Exemptions**: Outsourcing facilities may be exempt from certain new drug requirements and labeling requirements, but must still adhere to cGMP.
-- **Reporting Requirements**: Outsourcing facilities must report biannually on the drugs they compound and submit adverse event reports.
-- **Risk-Based Inspections**: Outsourcing facilities are subject to a risk-based inspection schedule.
+- **"Outsourcing Facility" designation:**  
+  Allows certain compounders to voluntarily register with the FDA as **outsourcing facilities** rather than traditional pharmacies.
+- **cGMP compliance:**  
+  Outsourcing facilities must follow **current Good Manufacturing Practices (cGMP)** similar to manufacturers.
+- **Limited exemptions:**  
+  May be exempt from **new drug approval** and **labeling** requirements, but **not** from cGMP.
+- **Reporting requirements:**  
+  Must submit **biannual reports** of all compounded products and **adverse event reports**.
+- **Risk‑based inspections:**  
+  Subject to **risk‑based FDA inspections** instead of routine pharmacy‑style inspections.
 
 ## 🤯 Right to Try Act (2018)
 
-`Many investigational drugs exist as compounded preparations`
+`Many investigational drugs are supplied as compounded preparations.`
 
-The "Right to Try Act" allows terminally ill patients to access investigational drugs that have not yet been fully approved by the FDA. The law bypasses the typical FDA approval process for compassionate use, providing a pathway for patients who have exhausted all standard treatment options.
+The **Right to Try Act** allows certain terminally ill patients to access **investigational drugs** that have **not yet received full FDA approval**, outside of the traditional FDA expanded‑access (compassionate use) pathway.
 
 **Patient Criteria**:
 
-- **Condition**: Have a life-threatening disease or condition.
-- **Treatment Exhaustion**: Have exhausted all conventional treatment options approved by the FDA.
-- **Trial Ineligibility**: Be unable to participate in a clinical trial for the investigational drug.
-- **Informed Consent**: Provide written informed consent, or have it provided by a legally authorized representative
+- **Life‑threatening condition:**  
+  Have a **serious or life‑threatening disease or condition**.
+- **Treatment exhaustion:**  
+  Have **exhausted all FDA‑approved treatment options**.
+- **Trial ineligibility:**  
+  Be **unable to participate** in a clinical trial involving the investigational drug.
+- **Informed consent:**  
+  Provide **written informed consent**, or have it provided by a **legally authorized representative**.
 
 **Drug Criteria**:
 
-- Successfully completed a Phase 1 clinical trial.
-- Still be in active development or undergoing clinical testing.
-- Not yet be approved or licensed by the FDA for any use.
+- **Phase 1 completed:**  
+  Successfully completed at least a **Phase 1 clinical trial**.
+- **Active development:**  
+  Still in **active clinical development** (not discontinued).
+- **Not FDA‑approved:**  
+  **Not yet approved** or licensed by the FDA for any indication.
   
 ---
 
