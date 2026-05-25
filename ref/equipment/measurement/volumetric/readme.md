@@ -347,6 +347,8 @@ Bulbous pipets, with a characteristic "belly" and calibration mark, meant to del
 - Do not blow out remaining liquid unless specified
 - Uses a detachable rubber bulb to draw and dispense liquid
 
+🔗 [Directions for Use](./sv_pipette/readme.md)
+
 ![Volumetric Pipette(https://en.wikipedia.org/wiki/Volumetric_pipette)](./single_volume.jpg)
 
 ---

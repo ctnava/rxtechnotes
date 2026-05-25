@@ -56,3 +56,9 @@ Move the pipette to the receiving vessel.
 
 > 🧠 **Important:** Volumetric pipettes are **TD, not blow‑out** devices.  
 > Any liquid remaining in the tip after draining is **intended** and accounted for in calibration.
+
+---
+
+## Navlinks
+
+- 🔙🔗 Back to [Volumetric Equipment](../readme.md#singlevolume-volumetric-pipets--td)
