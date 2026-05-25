@@ -2,6 +2,8 @@
 
 ## Regulations 🦅x🐻
 
+`Compounding is subject to FDA, DEA, & State Board of Pharmacy oversight.`
+
 ### 🦅 Drug Quality & Security Act (2013)
 
 `Expands FDA authority over compounded drugs and clarifies the difference between compounding and manufacturing.`
@@ -144,8 +146,15 @@ Before compounding:
 
 **Extemporaneous compounding** is the **on‑demand preparation** of a drug product to meet the **specific needs of an individual patient**.
 
-- Often used when a **commercial product is unavailable**, discontinued, or inappropriate (e.g., allergy to an excipient, need for a liquid instead of a tablet).  
-- Includes **reconstitution of oral suspensions** (e.g., adding purified water to a dry powder antibiotic) when done according to manufacturer or formulation instructions.
+🧪 **Extemporaneous Compounding Services Are Required When**:
+
+- **A patient is allergic to an inactive ingredient** (e.g., dyes, preservatives, lactose) in a commercially available product
+- A drug product has been discontinued or is in shortage
+- A patient requires a nonstandard dose or route of administration
+- A specific flavor or form (e.g., liquid vs tablet) is needed for patient compliance
+- A veterinary or pediatric formulation is required
+
+> Includes **reconstitution of oral suspensions** (e.g., adding purified water to a dry powder antibiotic) when done according to manufacturer or formulation instructions.
 
 ## Bulk Compounding
 
