@@ -202,7 +202,7 @@ Plastic or glass pipets used to **move** liquids, not to measure exact volumes.
 
 `Cylindrical & Conical`
 
-Used to **measure and transfer approximate volumes** of liquids.
+Used to **measure and transfer approximate volumes** of liquids; **NOT** for mixing or dissolving.
 
 **Definition:**  
 Tall, narrow cylinders with graduation marks for measuring **non‑critical** volumes.
