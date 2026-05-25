@@ -1,4 +1,4 @@
-# Compounding
+# About Compounding
 
 ## Regulations 🦅x🐻
 
@@ -17,7 +17,7 @@
 - **Risk‑based inspections:**  
   Subject to **risk‑based FDA inspections** instead of routine pharmacy‑style inspections.
 
-### 🤯 Right to Try Act (2018)
+### 🦅x🤯 Right to Try Act (2018)
 
 `Many investigational drugs are supplied as compounded preparations.`
 
@@ -42,13 +42,6 @@ The **Right to Try Act** allows certain terminally ill patients to access **inve
   Still in **active clinical development** (not discontinued).
 - **Not FDA‑approved:**  
   **Not yet approved** or licensed by the FDA for any indication.
-
-### Records
-
-- **Formulation Records**: contain formulas and procedures (i.e. recipes) for what should happen when a preparation is compounded
-
-- **Compounding Records**: are a record of what actually happened when the preparation was compounded
-  - **Bulk Compounding Log**: includes list of ingredients as well as amounts used, manufacturer, lot numbers, & expiration dates of EACH specific ingredient.
 
 ### 📚 United States Pharmacopeia–National Formulary (USP–NF)
 
@@ -96,38 +89,82 @@ Chapters **<1> through <999>** are enforceable by the FDA. The rest are purely i
 
 #### Monographs
 
-Monographs are a document that describes a drug, drug ingredient, or chemical
+**Monographs** are detailed documents that describe a **drug, drug ingredient, or chemical**. They function like **standardized “recipes”**, specifying:
 
-function like “recipe books” specifying:
-
-- **Active ingredients** allowed  
+- **Allowed active ingredients**  
 - **Dosage strengths**  
-- **Dosage forms & routes**  
+- **Dosage forms and routes of administration**  
 - **Labeling requirements**  
 - **Intended uses**  
-- expected beyond Use Date & Stability data when followed exactly
+- **Stability and BUD expectations** when the monograph is followed exactly
 
 ---
 
-## Types of Compounding
+## Compounding
 
-Technicians follow a recipe under pharmacist supervision; directions must be followed exactly
+`Technicians compound under pharmacist supervision and must follow the master formulation record exactly.`
 
-all ingredients & supplies must be collected and brought to the compounding area
+Before compounding:
 
-pharmacy technicians must wash their hands and clean the surface
+- **Gather all ingredients and supplies** and bring them to the compounding area.  
+- **Wash hands** and perform appropriate **hand hygiene**.  
+- **Clean and disinfect** the compounding surface and required equipment.  
+- Verify the **prescription**, **calculations**, and **formulation record** with the pharmacist when required.
 
-### Extemporaneous Compounding
+### Pharmacy Records
 
-**Extemporaneous Compounding** is the on-demand formulation of a prescribed drug preparation to meet the unique needs of an individual patient.
+`Compounding documentation must show both what should happen and what actually happened.`
 
-> *also covers reconstitution of oral suspensions*
+- **Formulation record (master formulation record):**  
+  The **"recipe"** for a compounded preparation. Includes:
+  - Name, strength, and dosage form  
+  - All ingredients and quantities  
+  - Equipment and step‑by‑step procedures  
+  - Calculations, compatibility/stability references, and BUD guidance  
+  - Required quality checks and labeling instructions
+
+- **Compounding record (preparation record):**  
+  A record of **what actually occurred** when a specific batch was prepared. Includes:
+  - Date and time of compounding  
+  - Lot numbers, manufacturers, and expiration dates of each ingredient  
+  - Actual quantities weighed/measured  
+  - Identity of compounder and verifying pharmacist (initials/signatures)  
+  - Assigned (internal) **lot number** and **BUD**  
+  - Results of any in‑process or final checks
+
+- **Bulk compounding log:**  
+  Specialized compounding record for **bulk batches**. Must include:
+  - **Complete ingredient list** with amounts used  
+  - **Manufacturer, lot number, and expiration date** of each ingredient  
+  - Internal (facility) **lot number** for the bulk preparation  
+  - **BUD/expiration date** for the bulk container  
+  - Initials of the **pharmacist who checks and releases** the preparation
+
+### Extemporaneous compounding
+
+**Extemporaneous compounding** is the **on‑demand preparation** of a drug product to meet the **specific needs of an individual patient**.
+
+- Often used when a **commercial product is unavailable**, discontinued, or inappropriate (e.g., allergy to an excipient, need for a liquid instead of a tablet).  
+- Includes **reconstitution of oral suspensions** (e.g., adding purified water to a dry powder antibiotic) when done according to manufacturer or formulation instructions.
 
 ## Bulk Compounding
 
-**Bulk Compounding**: Definition
+**Bulk compounding** is the preparation of a **larger quantity** of a compounded product in advance, to be **dispensed later** into individual prescriptions.
 
-once compounded, a record of preparation and ingrediants is recorded in the bulk compounding log
+**Bulk compounding requirements** ✅
 
-the newly compounded bulk bottle needs to be labeled with compounded drug name, concentration, lot number (per hospital), expiration date
-initials of pharmacist after they check the preparation
+- **Documentation:**  
+  A **bulk compounding log** must be completed, including:
+  - Full formula and batch size  
+  - Ingredient sources, lot numbers, and expiration dates  
+  - Date of preparation and assigned **internal lot number**  
+  - Name/initials of the **technician** and **verifying pharmacist**
+
+- **Labeling of bulk container:**  
+  The bulk container must be labeled with:
+  - **Name** and **strength/concentration** of the compounded preparation  
+  - **Dosage form** (e.g., oral suspension, ointment)  
+  - **Internal lot number** (per facility)
+  - **BUD/expiration date**  
+  - **Storage conditions** (e.g., “Refrigerate,” “Protect from light”)  
+  - **Initials of the pharmacist** who checked and released the batch
