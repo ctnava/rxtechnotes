@@ -35,7 +35,7 @@ Always use the smallest device available for measurement (volume equals or barel
 
 ### Graduation Lines
 
-![[Graduation Lines](https://www.youtube.com/watch?v=ZnJAjBs8koc)](./syringe/graduationLines.jpg)
+![[Graduation Lines](https://www.youtube.com/watch?v=ZnJAjBs8koc)](./graduationLines.jpg)
 
 There exist two types of markings:
 
@@ -46,15 +46,15 @@ There exist two types of markings:
 
 While each cylinder size has a standard graduation scale, it's important to understand how to calculate these things on our own.
 
-| Syringe Size | Typical Increment |
-| ------------ | ----------------- |
-| 1 mL (TB)    | 0.01 mL           |
-| 3 mL         | 0.1 mL            |
-| 5 mL         | 0.2 mL            |
-| 10 mL        | 0.2–0.5 mL        |
-| 20–60 mL     | 1 mL              |
+| Cylinder Size | Typical Increment |
+| --- | --- |
+| 1 mL (TB) | 0.01 mL |
+| 3 mL | 0.1 mL |
+| 5 mL | 0.2 mL |
+| 10 mL | 0.2–0.5 mL |
+| 20–60 mL | 1 mL |
 
-![[Counted Graduation Lines](https://knowledge.carolina.com/discipline/physical-science/chemistry/how-to-use-a-graduated-cylinder/)](./syringe/countedLines.jpg)
+![[Counted Graduation Lines](https://knowledge.carolina.com/discipline/physical-science/chemistry/how-to-use-a-graduated-cylinder/)](./countedLines.jpg)
 
 - This cylinder has major lines every 5mL and has 10 spaces between each increment.
 - 5mL divided by 10 spaces = 0.5mL per increment

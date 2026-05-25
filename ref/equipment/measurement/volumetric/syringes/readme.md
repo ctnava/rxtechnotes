@@ -132,7 +132,7 @@ Accurate measurement is essential for safe medication preparation. Syringe marki
 
 Syringe barrels are essentially modified, graduated cylinders and can be read the same way.
 
-![[Graduation Lines](https://www.youtube.com/watch?v=ZnJAjBs8koc)](./graduationLines.jpg)
+![[Graduation Lines](https://www.youtube.com/watch?v=ZnJAjBs8koc)](../graduationLines.jpg)
 
 There exist two types of markings:
 
@@ -151,7 +151,7 @@ While each syringe size has a standard graduation scale, it's important to under
 | 10 mL        | 0.2–0.5 mL        |
 | 20–60 mL     | 1 mL              |
 
-![[Counted Graduation Lines](https://knowledge.carolina.com/discipline/physical-science/chemistry/how-to-use-a-graduated-cylinder/)](./countedLines.jpg)
+![[Counted Graduation Lines](https://knowledge.carolina.com/discipline/physical-science/chemistry/how-to-use-a-graduated-cylinder/)](../countedLines.jpg)
 
 - This cylinder has major lines every 5mL and has 10 spaces between each increment.
 - 5mL divided by 10 spaces = 0.5mL per increment
