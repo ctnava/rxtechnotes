@@ -142,7 +142,7 @@ Before compounding:
   - **BUD/expiration date** for the bulk container  
   - Initials of the **pharmacist who checks and releases** the preparation
 
-### Extemporaneous compounding
+### Extemporaneous Compounding
 
 **Extemporaneous compounding** is the **on‑demand preparation** of a drug product to meet the **specific needs of an individual patient**.
 
