@@ -27,19 +27,6 @@ Equipment calibrated **to hold an exact volume**, but **not necessarily to deliv
 
 ## Volumetric Equipment Types
 
-### Volumetric Flasks — **TC**
-
-Used to **prepare exact volumes of solutions** (e.g., stock solutions, dilutions).
-
-**Definition:**  
-A flask with a long neck and a single calibration line indicating **one precise volume**.
-
-**Notes:**  
-
-- Extremely accurate for **solution preparation**  
-- Not used for dispensing  
-- Must be mixed thoroughly after filling to the mark
-
 ### Graduated Cylinders — **TC**
 
 `Cylindrical & Conical`
@@ -57,6 +44,19 @@ Tall, narrow cylinders with graduation marks for measuring **non‑critical** vo
 - Should be read at **eye level** at the **bottom of the meniscus**
 - Cylindrical is more accurate than conical
 - Always use the smallest cylinder available for measurement; avoid measuring volumes under 20% of its rated capacity
+
+### Volumetric Flasks — **TC**
+
+Used to **prepare exact volumes of solutions** (e.g., stock solutions, dilutions).
+
+**Definition:**  
+A flask with a long neck and a single calibration line indicating **one precise volume**.
+
+**Notes:**  
+
+- Extremely accurate for **solution preparation**  
+- Not used for dispensing  
+- Must be mixed thoroughly after filling to the mark
 
 ### Syringes — **TD**
 
