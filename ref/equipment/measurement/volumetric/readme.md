@@ -314,21 +314,6 @@ Pipets with graduation marks allowing measurement of **variable volumes**.
 
 ![[graduated pipette](https://www.sigmaaldrich.com/US/en/product/aldrich/br27109)](./graduated_pipette.jpg)
 
-#### Transfer Pipets (Pasteur Pipets) — **TD**
-
-`Used for transferring, not measuring, liquids`
-
-**Definition:**  
-Plastic or glass pipets used to **move** liquids, not to measure exact volumes.
-
-**Notes:**  
-
-- Not calibrated  
-- Used for non‑critical transfers  
-- Often disposable
-
-![[Transfer Pipette](https://www.gouletpens.com/products/goulet-disposable-transfer-pipettes)](./transfer_pipette.png)
-
 #### Micropipets — **TD**
 
 `Used for microliter volumes`
@@ -343,3 +328,18 @@ Precision pipets used to measure **µL‑scale** volumes (e.g., 10–100 µL).
 - Highly accurate for very small volumes
 
 ![[Micropipette](https://andyjconnelly.wordpress.com/2017/02/12/practical-pipetting-a-guide/)](./micropipette_diagram.png)
+
+#### Transfer (Pasteur) Pipets — **NON-CALIBRATED**
+
+`Used for transferring, not measuring, liquids`
+
+**Definition:**  
+Plastic or glass pipets used to **move** liquids, not to measure exact volumes.
+
+**Notes:**  
+
+- Not calibrated  
+- Used for non‑critical transfers  
+- Often disposable
+
+![[Transfer Pipette](https://www.gouletpens.com/products/goulet-disposable-transfer-pipettes)](./transfer_pipette.png)
