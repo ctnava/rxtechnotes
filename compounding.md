@@ -178,6 +178,8 @@ The **Pharmacy Compounding Accreditation Board (PCAB)**, now part of the **Accre
 - Recheck all work
 - Document the process in the **Compounding Record**.
 
+## Types of Compounding
+
 ### Extemporaneous Compounding
 
 **Extemporaneous compounding** is the **on‑demand preparation** of a drug product to meet the **specific needs of an individual patient**.
