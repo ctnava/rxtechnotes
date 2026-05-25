@@ -122,12 +122,30 @@ The **Pharmacy Compounding Accreditation Board (PCAB)**, now part of the **Accre
 
 `Technicians compound under pharmacist supervision and must follow the master formulation record exactly.`
 
-Before compounding:
+### Compounding Considerations
+
+**Questions to Ask Before Compounding**:
+
+- Is the **Formulation Record** prepared?
+- Are pharmacy personnel qualified to prepare this?
+- Are proper supplies and equipment available?
+- Can the drug and ingredient identity, quality, and purity be assured?
+- Is literature available about the preparation to help determine the correct BUD?
+- What basic quality control measures will assure the preparation is compounded correctly?
+- Does the patient have the necessary skills to use and store the preparation?
+
+**Preparation for Compounding**:
 
 - **Gather all ingredients and supplies** and bring them to the compounding area.  
 - **Wash hands** and perform appropriate **hand hygiene**.  
 - **Clean and disinfect** the compounding surface and required equipment.  
 - Verify the **prescription**, **calculations**, and **formulation record** with the pharmacist when required.
+
+**After Compounding**:
+
+- Package the preparation in an appropriate container and affix labels.
+- Recheck all work
+- Document the process in the **Compounding Record**.
 
 ### Pharmacy Records
 
