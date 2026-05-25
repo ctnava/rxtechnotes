@@ -258,6 +258,8 @@ Cylindrical devices with a plunger used to draw up and dispense liquids.
 - Avoid using syringes with **lubricated plungers** for sensitive measurements  
 - Do not use for viscous materials unless designed for it
 
+---
+
 #### Oral Syringes — **TD**
 
 Used to **measure and deliver oral medications**.
@@ -293,11 +295,13 @@ See 🔗 [Pharmacy Equipment Manual: Syringes & Needles](./syringes/readme.md) f
 
 ---
 
-### Pipet(te)s — **TD / TC (depends on type)**
+### Pipet(te)s
 
 `Recommended for volumes < 25 mL; Required for volumes < 1 mL in the absence of proper syringes`
 
 Pipets are used for **precise measurement and transfer** of liquids.
+
+---
 
 #### Single‑Volume (Volumetric) Pipets — **TD**
 
@@ -315,6 +319,8 @@ Bulbous pipets, with a characteristic "belly" and calibration mark, meant to del
 
 ![Volumetric Pipette(https://en.wikipedia.org/wiki/Volumetric_pipette)](./single_volume.jpg)
 
+---
+
 #### Calibrated (Graduated/Serological) Pipets — **TD or TC**
 
 `Used for measuring multiple volumes`
@@ -330,6 +336,8 @@ Pipets with graduation marks allowing measurement of **variable volumes**.
 - Uses a detachable rubber bulb to draw & dispense liquid
 
 ![[graduated pipette](https://www.sigmaaldrich.com/US/en/product/aldrich/br27109)](./graduated_pipette.jpg)
+
+---
 
 #### Micropipets — **TD**
 
