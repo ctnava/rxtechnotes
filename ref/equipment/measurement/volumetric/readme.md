@@ -386,3 +386,9 @@ Precision pipets used to measure **µL‑scale** volumes (e.g., 10–100 µL).
 - **Pipette pumps** (mechanical alternatives): crank or thumb‑wheel for precision  
 
 ![[Micropipette](https://andyjconnelly.wordpress.com/2017/02/12/practical-pipetting-a-guide/)](./micropipette_diagram.png)
+
+---
+
+## Navlinks
+
+- 🔙🔗 Back to [Measuring Equipment](../readme.md#volumetric-equiment)

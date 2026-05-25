@@ -124,3 +124,9 @@ Weighing papers and boats create a **clean, disposable barrier** between ingredi
   (creates a shallow “collection trough” that prevents powder loss)
 - After weighing, **refold into a funnel shape** to create a **controlled pour**  
 - Avoid over‑handling to prevent static buildup
+
+---
+
+## Navlinks
+
+- 🔙🔗 Back to [Measuring Equipment](../readme.md#weighing-equiment)
