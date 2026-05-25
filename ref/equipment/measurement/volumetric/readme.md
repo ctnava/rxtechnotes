@@ -135,6 +135,8 @@ Conical flasks used for **mixing, dissolving, heating, and storage** of solution
 - Markings are **approximate only**  
 - Common in compounding for dissolving powders before QS’ing in volumetric glassware
 
+![[Erlenmeyer Flask](https://globescientific.com/products/25ml-erlenmeyer-flask-globe-glass-narrow-mouth-12-box-48-case)](./erlenmeyer.png)
+
 ### Beakers
 
 **Definition:**  
@@ -146,6 +148,8 @@ Wide‑mouthed cylindrical vessels used for **holding, mixing, heating, or trans
 - Not suitable for measurement  
 - Used for bulk liquids, dissolving solids, or transferring to volumetric equipment
 
+![[Beaker](https://en.wikipedia.org/wiki/Beaker_%28laboratory_equipment%29)](./beaker.jpg)
+
 ### Prescription Bottles
 
 **Definition:**  
@@ -156,6 +160,8 @@ Plastic or amber vials used for **storage and dispensing** of finished medicatio
 - Not calibrated  
 - Markings (if present) are **not accurate**  
 - Used only for **final packaging & reconstitution**, not measurement
+
+![[Rx Bottles](https://vial.company/liquid-oval-bottles/graduated-oval-rx-bottles-with-child-resistant-caps-amber-color/)](./rx_bottle.jpg)
 
 ---
 
