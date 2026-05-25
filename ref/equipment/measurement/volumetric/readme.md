@@ -341,3 +341,5 @@ Precision pipets used to measure **µL‑scale** volumes (e.g., 10–100 µL).
 - Common in research labs, rarely in pharmacy  
 - Use disposable tips  
 - Highly accurate for very small volumes
+
+![[Micropipette](https://andyjconnelly.wordpress.com/2017/02/12/practical-pipetting-a-guide/)](./micropipette_diagram.png)
