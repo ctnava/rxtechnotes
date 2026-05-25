@@ -51,10 +51,12 @@ Tall, narrow cylinders with graduation marks for measuring **non‑critical** vo
 
 **Notes:**  
 
+- For measurements between 5mL to 4000mL
 - More accurate than beakers, less accurate than pipets or volumetric flasks  
 - Available in plastic or glass  
 - Should be read at **eye level** at the **bottom of the meniscus**
 - Cylindrical is more accurate than conical
+- Always use the smallest cylinder available for measurement; avoid measuring volumes under 20% of its rated capacity
 
 ### Syringes — **TD**
 
