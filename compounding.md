@@ -174,9 +174,10 @@ Before compounding:
 
 💸 **Insurance Coverage**:
 
+`NOT including reconstitution at the Point-of-Sale.`
+
 - Most **private insurance plans** may reimburse compounded prescriptions
 - **Public insurance programs** (e.g., Medicare, Medi-Cal) usually **do not** cover custom, compounded preparations
-  - **NOT** including reconstitution at the Point-of-Sale.
 - Billed to **medical benefit**
 
 > 🚨 Technicians must verify coverage during the adjudication process and inform patients of out-of-pocket costs
