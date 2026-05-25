@@ -22,6 +22,8 @@ To maintain accuracy and extend equipment life:
 
 > 📌 **Tip:** Even small vibrations (footsteps, carts, HVAC) can affect readings on sensitive balances.
 
+---
+
 #### Calibration Weights
 
 Calibration weights are **standardized, certified masses** used to verify and adjust balance accuracy.
@@ -29,6 +31,10 @@ Calibration weights are **standardized, certified masses** used to verify and ad
 - Typically range from **1 g to 50 g**, plus fractional weights **10–500 mg**  
 - Stored in a **protective box** to prevent contamination  
 - Always handled with **forceps** to avoid oils, corrosion, and residue
+
+![[Calibration Weights](https://www.globalgilson.com/ultra-class-calibration-weight-set1mg100g)](./weights.jpeg)
+
+---
 
 ### Class III Torsion Balances (Prescription Balances)
 
@@ -56,6 +62,10 @@ When a prescription requires **less than 120 mg**, technicians must:
 
 This ensures accuracy despite the balance’s sensitivity limitations.
 
+![[Torsion Balance](https://spwindustrial.com/torbal-drx-3-class-iii-mechanical-torsion-balance-scale-for-pharmacy-brand-new/)](./torsion.jpeg)
+
+---
+
 ### Electronic Balances
 
 Modern pharmacies primarily use **electronic (digital) balances** due to higher accuracy and ease of use.
@@ -66,6 +76,10 @@ Modern pharmacies primarily use **electronic (digital) balances** due to higher 
 - Internal calibration functions  
 - Faster, more accurate than torsion balances  
 - Available as **top‑loading** or **enclosed** models
+
+![[Digital Balance](https://techinstrument.com/products/precision-digital-balance-600g-x-0-01g)](./digital.jpg)
+
+---
 
 #### Analytical Balances
 
@@ -78,6 +92,10 @@ Used for **high‑precision** weighing in milligrams or micrograms.
 - Common in **research labs**, less common in retail pharmacy
 
 > 🚨 **Do not use analytical balances for bulk powders or sticky substances**. They are extremely sensitive and easily damaged.
+
+![[Analytical Balance](https://www.hogentogler.com/veritas/m124a-analytical-balance.asp)](./analytical.jpg)
+
+---
 
 ## Weighing Papers & Boats
 
@@ -93,6 +111,8 @@ Weighing papers and boats create a **clean, disposable barrier** between ingredi
 - Never touch weighing paper with **wet or gloved hands**  
   (moisture + static electricity can cause powders to cling or scatter)
 
+---
+
 ### Weighing Boats
 
 `Preferred for granular, sticky, or viscous ingredients`
@@ -107,6 +127,10 @@ Weighing papers and boats create a **clean, disposable barrier** between ingredi
 - Easy to grip and pour from
 
 > 📌 Boats are more durable and stable than paper; best for messy or heavy ingredients.
+
+![[Tare Boat](https://www.fishersci.com/us/en/browse/90111018/weighing-dishes-and-papers)](./boat.png)
+
+---
 
 ### Weighing Papers
 
@@ -124,6 +148,8 @@ Weighing papers and boats create a **clean, disposable barrier** between ingredi
   (creates a shallow “collection trough” that prevents powder loss)
 - After weighing, **refold into a funnel shape** to create a **controlled pour**  
 - Avoid over‑handling to prevent static buildup
+
+![[Tare Paper](https://totalpharmacysupply.com/weighing-papers.html)](./paper.jpg)
 
 ---
 
