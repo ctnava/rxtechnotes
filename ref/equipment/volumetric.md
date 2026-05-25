@@ -1,6 +1,6 @@
 # Volumetric Equipment 🧪
 
-Volumetric equipment is calibrated either **To Deliver (TD)** or **To Contain (TC)**.
+**Volumetric equipment measures volume**; calibrated either **To Deliver (TD)** or **To Contain (TC)**.
 
 ## Key Definitions
 
@@ -22,6 +22,48 @@ Equipment calibrated **to hold an exact volume**, but **not necessarily to deliv
 
 > 📌 **TD = delivers exact volume**  
 > 📌 **TC = contains exact volume**
+
+---
+
+## Non-Volumetric Equipment
+
+`Used for mixing, heating, transferring, or storage; NOT for accurate measurement.`
+
+These items **may have markings**, but they are **not calibrated** and **must never be used to measure volume**.
+
+### Erlenmeyer Flasks
+
+**Definition:**  
+Conical flasks used for **mixing, dissolving, heating, and storage** of solutions.
+
+**Notes:**  
+
+- Wide base + narrow neck reduces splashing  
+- Ideal for swirling or mixing  
+- Markings are **approximate only**  
+- Common in compounding for dissolving powders before QS’ing in volumetric glassware
+
+### Beakers
+
+**Definition:**  
+Wide‑mouthed cylindrical vessels used for **holding, mixing, heating, or transferring** liquids.
+
+**Notes:**  
+
+- Markings are **rough estimates**  
+- Not suitable for measurement  
+- Used for bulk liquids, dissolving solids, or transferring to volumetric equipment
+
+### Prescription Bottles
+
+**Definition:**  
+Plastic or amber vials used for **storage and dispensing** of finished medications.
+
+**Notes:**  
+
+- Not calibrated  
+- Markings (if present) are **not accurate**  
+- Used only for **final packaging & reconstitution**, not measurement
 
 ---
 
@@ -50,10 +92,11 @@ Tall, narrow cylinders with graduation marks for measuring **non‑critical** vo
 Used to **prepare exact volumes of solutions** (e.g., stock solutions, dilutions).
 
 **Definition:**  
-A flask with a long neck and a single calibration line indicating **one precise volume**.
+A bulbous flask with a long neck and a single calibration line indicating **one precise volume**.
 
 **Notes:**  
 
+- For measurements between 5mL to 4000mL
 - Extremely accurate for **solution preparation**  
 - Not used for dispensing  
 - Must be mixed thoroughly after filling to the mark
