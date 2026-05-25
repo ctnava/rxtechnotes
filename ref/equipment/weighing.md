@@ -81,17 +81,46 @@ Used for **high‑precision** weighing in milligrams or micrograms.
 
 ## Weighing Papers & Boats
 
-Used to protect the balance pan and prevent contamination or drug loss.
+`Used to protect the balance pan, prevent contamination, reduce drug loss, and eliminate repeated washing.`
 
-### Best Practices 🛡️
+Weighing papers and boats create a **clean, disposable barrier** between ingredients and the balance pan. They prevent scratches, reduce residue buildup, and help maintain accuracy.
 
-`Eliminating the need for repeated washing and reducing drug loss to porous surfaces.`
+### General Best Practices
 
-- Always use **weighing paper or disposable boats**  
-- Use a **clean paper/boat for each ingredient**  
-- Avoid porous or absorbent surfaces  
+- Always use **weighing paper or disposable boats** to protect the pan  
+- Use a **clean paper/boat for each ingredient** to avoid cross‑contamination  
 - Use a **spatula** to add or remove ingredients  
-- Fold weighing paper to create a **controlled pour**  
-- Never touch weighing paper with wet or gloved hands (static + contamination risk)
+- Never touch weighing paper with **wet or gloved hands**  
+  (moisture + static electricity can cause powders to cling or scatter)
 
-> 📌 Boats are preferred for **granular or sticky** ingredients; paper is ideal for powders.
+### Weighing Boats
+
+`Preferred for granular, sticky, or viscous ingredients`
+
+- Typically made of **polystyrene** or **polypropylene**  
+- Rigid walls prevent spillage  
+- Ideal for:
+  - Granules  
+  - Sticky ointment bases  
+  - Semi‑solid ingredients  
+- Often **anti‑static** to reduce powder loss  
+- Easy to grip and pour from
+
+> 📌 Boats are more durable and stable than paper; best for messy or heavy ingredients.
+
+### Weighing Papers
+
+`Ideal for powders and fine particulate ingredients`
+
+- Usually made of **glassine paper** (smooth, moisture‑resistant, non‑porous)  
+- Lightweight and flexible; excellent for transferring powders  
+- Creates minimal static when handled properly
+
+> 📌 Glassine paper is preferred because it resists tearing and does not absorb medication.
+
+### Folding Technique (for accuracy & clean transfer)
+
+- **Crease diagonally**, then flatten before placing on the pan
+  (creates a shallow “collection trough” that prevents powder loss)
+- After weighing, **refold into a funnel shape** to create a **controlled pour**  
+- Avoid over‑handling to prevent static buildup
