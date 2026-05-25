@@ -12,6 +12,8 @@ Equipment calibrated **to deliver an exact volume when fully emptied**.
 - Residual liquid remaining on the walls is accounted for in calibration  
 - Examples: **syringes, droppers, single‑volume pipets, many calibrated pipets**
 
+---
+
 ### To Contain (TC)
 
 Equipment calibrated **to hold an exact volume**, but **not necessarily to deliver it**.
@@ -23,6 +25,8 @@ Equipment calibrated **to hold an exact volume**, but **not necessarily to deliv
 > 📌 **TD = delivers exact volume for dispensing**  
 > 📌 **TC = contains exact volume for preparing solutions**
 
+---
+
 ### Rated Capacity
 
 **Definition:**  
@@ -31,6 +35,8 @@ The **maximum accurate volume** a device is designed to measure.
 **Best Practice:**  
 Always choose the **smallest device** that can measure the required volume.  
 Accuracy decreases when measuring volumes **below 20%** of the device’s capacity.
+
+---
 
 ### Meniscus
 
@@ -62,6 +68,8 @@ A measurement error that occurs when the observer’s eye is **not level** with 
 - Align with the **bottom of a concave** or **top of a convex** meniscus
 
 ![[Diagram of Parallax Error](https://glossary.periodni.com/download_image.php?name=parallax.png&source=parallax)](./parallax.png)
+
+---
 
 ### Graduation Lines
 
@@ -102,6 +110,8 @@ Graduated cylinders follow standard increment patterns, but technicians must be 
 - Volume = 10mL + (0.5 mL/increment x 7 increments)
 - ==> Volume = 13.5 mL
 
+---
+
 ### Calibration Mark
 
 **Definition:**  
@@ -137,6 +147,8 @@ Conical flasks used for **mixing, dissolving, heating, and storage** of solution
 
 ![[Erlenmeyer Flask](https://globescientific.com/products/25ml-erlenmeyer-flask-globe-glass-narrow-mouth-12-box-48-case)](./erlenmeyer.png)
 
+---
+
 ### Beakers
 
 **Definition:**  
@@ -149,6 +161,8 @@ Wide‑mouthed cylindrical vessels used for **holding, mixing, heating, or trans
 - Used for bulk liquids, dissolving solids, or transferring to volumetric equipment
 
 ![[Beaker](https://en.wikipedia.org/wiki/Beaker_%28laboratory_equipment%29)](./beaker.jpg)
+
+---
 
 ### Prescription Bottles
 
@@ -192,6 +206,8 @@ A set of cylindrical cylinders
 
 A set of conical cylinders
 
+---
+
 ### Volumetric Flasks — **TC**
 
 Used to **prepare exact volumes of solutions** (e.g., stock solutions, dilutions).
@@ -208,6 +224,8 @@ A bulbous flask with a long neck and a single calibration line indicating **one 
 - Hard to use for mixing due to slender neck; predissolve solids first.
 
 ![[Volumetric Flasks](https://www.homesciencetools.com/product/volumetric-flask-set-of-5/)](./volumetric_flasks.jpg)
+
+---
 
 ### Syringes — **TD**
 
@@ -230,15 +248,23 @@ Used to **measure and deliver oral medications**.
 **Definition:**  
 Syringes without a Luer‑lock tip, designed for **non‑sterile, oral administration**.
 
+![[Colored Syringes](https://wtcs.pressbooks.pub/nursingskills/chapter/5-2-math-basic-concepts/)](./colored_syringe.jpg)
+
 **Notes:**  
 
 - Color‑coded (often amber/orange) & larger tips to prevent IV use  
 - Accurate for pediatric and geriatric dosing  
 - Not used for sterile compounding
 
+##### Oral Syringe Adapters
+
+Liquid, oral medicine bottles have adapters for use with oral syringes.
+
+![[Oral Adapters](https://www.amazon.com/YHXiXi-Medical-Adapters-Medicine-Dispensers/dp/B0BNHRRBLH)](./oral_adapter.jpg)
+
 See 🔗 [Pharmacy Equipment Manual: Syringes & Needles](./syringes/readme.md) for full details.
 
-![[Colored Syringes](https://wtcs.pressbooks.pub/nursingskills/chapter/5-2-math-basic-concepts/)](./colored_syringe.jpg)
+---
 
 ### Pipets — **TD / TC (depends on type)**
 
