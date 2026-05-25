@@ -287,13 +287,14 @@ Pipets are used for **precise measurement and transfer** of liquids.
 `Most accurate pipet type`
 
 **Definition:**  
-Pipets calibrated to deliver **one exact volume** (e.g., 5 mL, 10 mL).
+Bulbous pipets, with a characteristic "belly", calibrated to deliver **one exact volume** (e.g., 5 mL, 10 mL).
 
 **Notes:**  
 
 - Extremely accurate  
 - Must be drained completely  
 - Do not blow out remaining liquid unless specified
+- Uses a rubber bulb to draw and dispense liquid
 
 ![Volumetric Pipette(https://en.wikipedia.org/wiki/Volumetric_pipette)](./single_volume.jpg)
 
