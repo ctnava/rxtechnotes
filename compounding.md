@@ -100,7 +100,7 @@ Chapters **<1> through <999>** are enforceable by the FDA. The rest are purely i
 - **Intended uses**  
 - **Stability and BUD expectations** when the monograph is followed exactly
 
-### Pharmacy Compounding Accreditation Board (PCAB)
+### 🛡️ Pharmacy Compounding Accreditation Board (PCAB)
 
 The **Pharmacy Compounding Accreditation Board (PCAB)**, now part of the **Accreditation Commission for Health Care (ACHC)**, provides **voluntary accreditation** for compounding pharmacies that meet rigorous quality and safety standards.
 
