@@ -258,7 +258,17 @@ Syringes without a Luer‑lock tip, designed for **non‑sterile, oral administr
 
 ##### Oral Syringe Adapters
 
-Liquid, oral medicine bottles have adapters for use with oral syringes.
+Bottle‑top inserts that allow an oral syringe to be inserted directly into the medication bottle for **accurate withdrawal** without spills or contamination.
+
+**Notes:**  
+
+- Create a **tight seal** around the syringe tip  
+- Reduce **dose loss**, **spillage**, and **air bubble formation**  
+- Prevent contamination by avoiding repeated bottle opening  
+- Commonly used for:
+  - Pediatric antibiotics  
+  - Compounded oral suspensions  
+  - High‑precision liquid medications
 
 ![[Oral Adapters](https://www.amazon.com/YHXiXi-Medical-Adapters-Medicine-Dispensers/dp/B0BNHRRBLH)](./oral_adapter.jpg)
 
