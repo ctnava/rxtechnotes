@@ -2,6 +2,41 @@
 
 ## Regulations
 
+### Drug Quality & Security Act (2013)
+
+`Expands FDA authority to compounded drugs and establishes the difference between compounding & manufacturing`
+
+- **"Outsourcing Facility" Designation**: Allows pharmaceutical compounders to voluntarily register with the FDA as an outsourcing facility.
+- **cGMP Compliance**: Outsourcing facilities must adhere to current Good Manufacturing Practices (cGMP).
+- **Exemptions**: Outsourcing facilities may be exempt from certain new drug requirements and labeling requirements, but must still adhere to cGMP.
+- **Reporting Requirements**: Outsourcing facilities must report biannually on the drugs they compound and submit adverse event reports.
+- **Risk-Based Inspections**: Outsourcing facilities are subject to a risk-based inspection schedule.
+
+### 🤯 Right to Try Act (2018)
+
+`Many investigational drugs exist as compounded preparations`
+
+The "Right to Try Act" allows terminally ill patients to access investigational drugs that have not yet been fully approved by the FDA. The law bypasses the typical FDA approval process for compassionate use, providing a pathway for patients who have exhausted all standard treatment options.
+
+**Patient Criteria**:
+
+- **Condition**: Have a life-threatening disease or condition.
+- **Treatment Exhaustion**: Have exhausted all conventional treatment options approved by the FDA.
+- **Trial Ineligibility**: Be unable to participate in a clinical trial for the investigational drug.
+- **Informed Consent**: Provide written informed consent, or have it provided by a legally authorized representative
+
+**Drug Criteria**:
+
+- Successfully completed a Phase 1 clinical trial.
+- Still be in active development or undergoing clinical testing.
+- Not yet be approved or licensed by the FDA for any use.
+
+### Records
+
+- **Formulation Records**: contain formulas and procedures (i.e. recipes) for what should happen when a preparation is compounded
+
+- **Compounding Records**: are a record of what actually happened when the preparation was compounded
+
 ### 📚 United States Pharmacopeia–National Formulary (USP–NF)
 
 `Compounding is regulated by individual State Boards of Pharmacy; many of which delegate the creation of standards to the USP-NF`
@@ -46,7 +81,19 @@ Chapters **<1> through <999>** are enforceable by the FDA. The rest are purely i
 
 > 🧠 **Quick Fact**: The USP–NF is updated annually, with two supplemental updates each year to reflect evolving scientific standards.
 
-### FDA Monographs
+#### Monographs
+
+Monographs are a document that describes a drug, drug ingredient, or chemical
+
+function like “recipe books” describing what is **Generally Recognized As Safe and Effective (GRASE)**:
+
+A monograph specifies:
+
+- **Active ingredients** allowed  
+- **Dosage strengths**  
+- **Dosage forms & routes**  
+- **Labeling requirements**  
+- **Intended uses**  
 
 ---
 

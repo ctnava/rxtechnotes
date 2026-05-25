@@ -121,7 +121,7 @@ The **FDA Safety & Innovation Act (FDASIA)** strengthened the FDA's ability to e
 - **Strengthen safety oversight**
   - Expanded FDA authority to enforce compliance, track adverse events, and ensure product quality across the supply chain
 
-## 🤯 Drug Quality & Security Act (2013)
+## Drug Quality & Security Act (2013)
 
 `Expands FDA authority to compounded drugs`
 
@@ -130,6 +130,25 @@ The **FDA Safety & Innovation Act (FDASIA)** strengthened the FDA's ability to e
 - **Exemptions**: Outsourcing facilities may be exempt from certain new drug requirements and labeling requirements, but must still adhere to cGMP.
 - **Reporting Requirements**: Outsourcing facilities must report biannually on the drugs they compound and submit adverse event reports.
 - **Risk-Based Inspections**: Outsourcing facilities are subject to a risk-based inspection schedule.
+
+## 🤯 Right to Try Act (2018)
+
+`Many investigational drugs exist as compounded preparations`
+
+The "Right to Try Act" allows terminally ill patients to access investigational drugs that have not yet been fully approved by the FDA. The law bypasses the typical FDA approval process for compassionate use, providing a pathway for patients who have exhausted all standard treatment options.
+
+**Patient Criteria**:
+
+- **Condition**: Have a life-threatening disease or condition.
+- **Treatment Exhaustion**: Have exhausted all conventional treatment options approved by the FDA.
+- **Trial Ineligibility**: Be unable to participate in a clinical trial for the investigational drug.
+- **Informed Consent**: Provide written informed consent, or have it provided by a legally authorized representative
+
+**Drug Criteria**:
+
+- Successfully completed a Phase 1 clinical trial.
+- Still be in active development or undergoing clinical testing.
+- Not yet be approved or licensed by the FDA for any use.
   
 ---
 
