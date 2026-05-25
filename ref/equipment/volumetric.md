@@ -100,6 +100,7 @@ A bulbous flask with a long neck and a single calibration line indicating **one 
 - Extremely accurate for **solution preparation**  
 - Not used for dispensing  
 - Must be mixed thoroughly after filling to the mark
+- Hard to use for mixing due to slender neck; predissolve solids first.
 
 ### Syringes — **TD**
 
