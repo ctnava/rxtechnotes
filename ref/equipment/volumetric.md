@@ -23,6 +23,25 @@ Equipment calibrated **to hold an exact volume**, but **not necessarily to deliv
 > 📌 **TD = delivers exact volume**  
 > 📌 **TC = contains exact volume**
 
+### Meniscus
+
+- Should be read at **eye level** at the **bottom of the meniscus**
+
+### Rated Capacity
+
+Largest measurable volume
+
+Always use the smallest device available for measurement (volume equals or barely exceeds capacity)
+
+### Graduation Lines
+
+major
+minor
+
+### Calibration Mark
+
+for devices with a single line, denoting volume (extremely accurate)
+
 ---
 
 ## Non-Volumetric Equipment
@@ -83,9 +102,8 @@ Tall, narrow cylinders with graduation marks for measuring **non‑critical** vo
 - For measurements between 5mL to 4000mL
 - More accurate than beakers, less accurate than pipets or volumetric flasks  
 - Available in plastic or glass  
-- Should be read at **eye level** at the **bottom of the meniscus**
 - Cylindrical is more accurate than conical
-- Always use the smallest cylinder available for measurement; avoid measuring volumes under 20% of its rated capacity
+- Avoid measuring volumes under 20% of its rated capacity
 
 ### Volumetric Flasks — **TC**
 
@@ -111,7 +129,8 @@ Cylindrical devices with a plunger used to draw up and dispense liquids.
 
 **Notes:**  
 
-- Most accurate for **small volumes**  
+- Most accurate for **small volumes**
+- Range from 0.5mL (0.01mL graduations) to 60mL (2mL graduations)
 - Avoid using syringes with **lubricated plungers** for sensitive measurements  
 - Do not use for viscous materials unless designed for it
 
