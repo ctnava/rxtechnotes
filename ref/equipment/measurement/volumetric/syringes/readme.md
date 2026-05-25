@@ -201,7 +201,7 @@ Examples:
 
 This is why **smaller syringes are preferred** for precise dosing.
 
-### 5. Dead Space Considerations
+### 6. Dead Space Considerations
 
 Most modern syringes are **low‑dead‑space**, but Luer‑lock syringes & needle tips may retain small residual volumes.
 
