@@ -158,7 +158,19 @@ While each syringe size has a standard graduation scale, it's important to under
 - 5mL divided by 10 spaces = 0.5mL per increment
 - ==> each minor graduation is 0.5mL
 
-### 3. Use the Correct Part of the Stopper
+### 3. Drawing & Degassing
+
+An excess of liquid is pulled into the syringe by pulling back the plunger.
+
+Air bubbles are expelled by holding the syringe (tip upwards) and pushing on the plunger.
+
+> 📌 Flick the syringe to dislodge air bubbles.
+
+![[Flicking](https://www.registerednursern.com/how-to-read-a-syringe/)](./airbubbles.jpg)
+
+### 4. Use the Correct Part of the Stopper
+
+`Expel excess liquid back into container`
 
 Syringes are different from graduated cylinders because it is an enclosed system. Therefore, the rubber stopper is used to identify the volume within, instead.
 
@@ -170,7 +182,7 @@ Always measure using the **top ring (leading edge)** of the rubber stopper, even
 
 This syringe contains 1.7mL of liquid.
 
-### 4. Measuring Partial Volumes
+### 5. Measuring Partial Volumes
 
 If a dose falls between two lines:
 
