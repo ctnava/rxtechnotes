@@ -134,7 +134,7 @@ Cylindrical devices with a plunger used to draw up and dispense liquids.
 - Avoid using syringes with **lubricated plungers** for sensitive measurements  
 - Do not use for viscous materials unless designed for it
 
-### Oral Syringes — **TD**
+#### Oral Syringes — **TD**
 
 Used to **measure and deliver oral medications**.
 
@@ -143,7 +143,7 @@ Syringes without a Luer‑lock tip, designed for **non‑sterile, oral administr
 
 **Notes:**  
 
-- Color‑coded (often amber/orange) to prevent IV use  
+- Color‑coded (often amber/orange) & larger tips to prevent IV use  
 - Accurate for pediatric and geriatric dosing  
 - Not used for sterile compounding
 
