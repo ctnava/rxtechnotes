@@ -389,6 +389,106 @@ Precision pipets used to measure **µL‑scale** volumes (e.g., 10–100 µL).
 
 ---
 
+### Dispensers
+
+Automated or semi‑automated **fluid delivery devices** used to repeatedly dispense **preset volumes** of liquid.  
+They are **not pipettes**, but they serve a similar purpose in high‑throughput or repetitive tasks.
+
+**Definition:**  
+Dispensers are mechanical or electronic devices that draw liquid from a **reservoir** and deliver **consistent, repeatable volumes** through a handpiece, nozzle, or tip. They are commonly used when the **same volume** must be dispensed multiple times.
+
+**Classification:**
+
+- **Most dispensers = TD** (To Deliver)  
+- Some reservoir‑based systems are **neither TD nor TC**, because they rely on internal mechanical calibration rather than volumetric markings.
+
+### When Dispensers *Are* Useful
+
+- Preparing **large batches** of non‑sterile solutions  
+- Repetitive dispensing of:
+  - Purified water  
+  - Buffers  
+  - Vehicles (e.g., glycerin, PEG solutions)  
+- Filling multiple containers with the **same volume**  
+- Reducing repetitive strain during high‑volume production
+
+### When Dispensers Should *Not* Be Used
+
+- Measuring **critical small volumes** (<1 mL)  
+- Measuring **potent APIs**  
+- Measuring **viscous** or **non‑Newtonian** liquids  
+- Sterile compounding (unless using specialized sterile‑rated systems)  
+- When USP <1176> requires **pipettes or syringes** for accuracy
+
+### Types of Dispensers
+
+---
+
+#### 1. Bottle‑Top Dispensers — **TD**
+
+Mounted directly onto reagent or solvent bottles.
+
+**Features:**
+
+- Adjustable volume dial  
+- Spring‑loaded piston  
+- Delivers consistent aliquots  
+- Reduces contamination risk  
+- Ideal for repetitive dispensing of:
+  - Buffers  
+  - Solvents  
+  - Stock solutions  
+
+**Notes:**
+
+- Not used for potent APIs  
+- Not used for sterile compounding  
+- Accuracy depends on viscosity and temperature of liquid
+
+![[Bottle Top Dispenser](https://sperdirect.com/products/accutop-bottle-top-dispenser)](./bottle_top.jpeg)
+
+---
+
+#### 2. Repeating (Step) Dispensers — **TD**
+
+Use a **plunger mechanism** with disposable syringe‑style tips.
+
+**Features:**
+
+- Adjustable step volume  
+- Can dispense dozens of identical aliquots  
+- Common in research labs  
+- Rare in pharmacy except for bulk non‑sterile prep
+
+**Notes:**
+
+- Excellent for high‑throughput tasks  
+- Not suitable for viscous or particulate solutions
+
+![[Repeating Dispenser](https://www.scientificlabs.co.uk/product/20943)](./repeating_dispenser.jpeg)
+
+---
+
+#### 3. Motorized or Foot‑Pedal Dispensers — **TD**
+
+Hands‑free or semi‑automated systems.
+
+**Features:**
+
+- Foot pedal or motor controls aspiration/dispensing  
+- Reduces hand fatigue  
+- Useful for large batch production  
+- Often used in manufacturing or 503B outsourcing facilities
+
+**Notes:**
+
+- Not typically found in community or hospital pharmacies  
+- Require routine calibration and maintenance
+
+![[Pedal Dispenser](https://www.dispensinglink.com/store/p27/5100804_%3D_PedalSpense_Foot_Pedal_Dispenser.html)](./pedal_dispenser.jpeg)
+
+---
+
 ## Navlinks
 
 - 🔙🔗 Back to [Measuring Equipment](../readme.md#volumetric-equiment)
