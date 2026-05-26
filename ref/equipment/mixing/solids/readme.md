@@ -62,6 +62,105 @@ Commonly used for **mixing, blending, and particle‑size reduction** of solids 
 
 ---
 
+#### Electronic Mortar & Pestle (EMP)
+
+Electronic Mortar & Pestle (EMP) systems are **automated mixing and grinding devices** designed for preparing **large quantities** of powders, creams, gels, and suspensions with minimal manual effort.
+
+**Definition:**  
+An EMP consists of a **motorized mixing blade** housed inside a **sealed plastic or polycarbonate jar**.  
+The jar moves **up and down** while the blade rotates at controlled speeds, producing **uniform mixing, wetting, and particle‑size reduction** in a **closed system**.
+
+**Key Features:**
+
+- **Closed, contained mixing**  
+  - Reduces airborne powder exposure  
+  - Ideal for potent or hazardous ingredients  
+  - Minimizes contamination risk
+
+- **Automated, reproducible action**  
+  - Consistent mixing speed and duration  
+  - Reduces operator variability  
+  - Suitable for batch compounding
+
+- **Large‑volume capacity**  
+  - Handles quantities far greater than a manual mortar & pestle  
+  - Useful for creams, gels, suspensions, and powder blends
+
+- **Versatile mixing**  
+  - Can perform **trituration**, **levigation**, **wetting**, and **homogenization**  
+  - Compatible with both solids and semi‑solids
+
+**When to Use an EMP:**
+
+- Preparing **large batches** of creams, ointments, gels, or suspensions  
+- Mixing powders that would otherwise create **dust**  
+- Incorporating **insoluble powders** into semi‑solid bases  
+- Compounding with **hazardous or potent APIs** (closed system = safer)  
+- When uniformity and reproducibility are critical
+
+**When NOT to Use an EMP:**
+
+- Very small quantities (manual mortar is more efficient)  
+- Heat‑sensitive ingredients (EMP friction may generate mild heat)  
+- Ingredients requiring **precision particle‑size reduction** beyond EMP capability  
+- Preparations where **texture** must be controlled manually
+
+**Cleaning & Maintenance:**
+
+- Jars and blades must be **cleaned immediately** after use  
+- Use **non‑abrasive detergents** to avoid scratching the jar  
+- Ensure the blade assembly is fully dry before reassembly  
+- Inspect seals and gaskets regularly to prevent leaks
+
+---
+
+#### Ointment Mills
+
+Ointment mills are **electronic three‑roll milling devices** used to produce **smooth, uniform, and elegant semi‑solid preparations**.  
+
+They are essential when compounding creams, ointments, gels, and pastes that require **precise particle‑size reduction** beyond what a mortar & pestle or EMP can achieve.
+
+An ointment mill uses **three horizontally aligned ceramic rollers** that rotate at different speeds.  
+
+As material passes between the rollers, particles are **sheared, compressed, and dispersed**, resulting in a **fine, uniform texture**.
+
+**Key Features**:
+
+- **Three precision rollers**  
+  - Typically made of **alumina ceramic**  
+  - Each roller rotates at a different speed  
+  - Creates high shear forces for particle‑size reduction
+
+- **Adjustable roller spacing**  
+  - Controls the degree of refinement  
+  - Narrower spacing = finer particle size  
+  - Allows customization for different formulations
+
+- **Scraper plate**  
+  - Collects the processed ointment as it exits the final roller  
+  - Ensures complete removal and minimal product loss
+
+- **Closed, controlled process**  
+  - Produces consistent, reproducible results  
+  - Reduces air incorporation compared to manual mixing
+
+**When to Use an Ointment Mill**:
+
+- When a preparation requires **exceptionally smooth texture**  
+- When incorporating **insoluble powders** into ointments or creams  
+- When manual trituration leaves a **gritty** or **non‑uniform** product  
+- For **large‑batch** compounding where consistency is critical  
+- When preparing:
+  - Dermatologic creams  
+  - Hormone creams  
+  - Transdermal gels  
+  - Pastes with high solid content  
+  - Suspensions incorporated into semi‑solids
+
+> You can remill multiple times for desired consistency
+
+---
+
 ### Sieves
 
 Used to ensure powders are **fine, uniform, and non‑irritating**.
