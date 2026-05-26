@@ -381,6 +381,24 @@ See 🔗 [Pharmacy Equipment Manual: Syringes & Needles](./syringes/readme.md) f
 
 ---
 
+### Burets — **TD**
+
+Burets are **high‑precision, TD (To Deliver)** volumetric instruments designed to dispense **variable, accurately measured volumes** of liquid.
+
+They are primarily used in **titrations**, **quantitative analysis**, and any procedure requiring **controlled, dropwise delivery**.
+
+A buret is a **long, graduated glass tube** with:
+
+- **Fine, uniform graduation marks** (typically 0.1 mL)  
+- A **stopcock valve** at the bottom to control flow  
+- A **TD calibration**, meaning it delivers the labeled volume when drained properly
+
+Burets allow the operator to **start, stop, and adjust** the flow with extreme precision.
+
+![[Buret & Stopcock Close Up](https://www.avogadro-lab-supply.com/products/50-ml-buret-w-ptfe-stopcock-class-a)](./buret.png)
+
+---
+
 ### Pipet(te)s
 
 `Recommended for volumes < 25 mL; Required for volumes < 1 mL in the absence of proper syringes`
