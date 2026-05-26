@@ -111,6 +111,38 @@ Used to **transfer**, **mix**, and **manipulate** solid and semi‑solid ingredi
 
 ---
 
+### Ointment Slabs
+
+Ointment slabs (also called **ointment tiles** or **pill tiles**) are **flat, hard, non‑porous surfaces** used for **mixing, levigating, and spatulating** semi‑solid preparations.
+
+**Materials:**
+
+- **Ground glass**  
+  - Smooth, durable, non‑porous  
+  - Ideal for levigation and spatulation  
+  - Easy to clean and disinfect  
+
+- **Porcelain**  
+  - Slightly textured but still non‑porous  
+  - Suitable for creams, ointments, and pastes  
+  - Heavier and more stable during mixing
+
+**Uses:**
+
+- Mixing **ointments, creams, gels, and pastes**  
+- Spatulating powders into semi‑solid bases  
+- Performing **levigation** to reduce particle size in a semi‑solid medium  
+- Preparing eutectic mixtures (when combined with carrier powders)
+
+**Advantages:**
+
+- Provides a **large working surface** for efficient mixing  
+- Non‑porous → prevents absorption of ingredients  
+- Easy to scrape clean with a spatula  
+- Allows precise control of pressure and shear during mixing
+
+---
+
 ## Techniques
 
 ### Trituration
