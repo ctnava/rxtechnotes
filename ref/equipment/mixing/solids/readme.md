@@ -2,6 +2,40 @@
 
 Compounding often requires **reducing particle size**, **creating uniform mixtures**, and **incorporating solids into semi‑solid bases**. Proper equipment and technique ensure accuracy, stability, and patient
 
+## Definitions
+
+### Solids
+
+**Definition:**  
+Solid dosage‑form ingredients exist in a **fixed shape** with a **defined particle size**. They may be crystalline or amorphous and require manipulation before incorporation into compounded preparations.
+
+**Characteristics:**
+
+- Require **particle‑size reduction** for uniform mixing  
+- May be **hygroscopic** (absorb moisture) or **deliquescent** (dissolve in moisture)  
+- Can form **eutectic mixtures** when combined with certain other solids  
+- Often require **trituration**, **sieving**, or **geometric dilution**
+
+**Examples:**  
+APIs, excipients, crystals, granules, powders
+
+### Semi-Solids
+
+**Definition:**  
+Semi‑solids are materials with **viscous, moldable consistency** that retain shape but deform under pressure. They are used for topical, transdermal, rectal, and vaginal preparations.
+
+**Characteristics:**
+
+- Intermediate between liquids and solids  
+- Require **spatulation**, **levigation**, or **geometric dilution** for uniformity  
+- May contain dispersed solids that require **trituration** before incorporation  
+- Sensitive to **temperature**, **shear**, and **order of mixing**
+
+**Examples:**  
+Creams, ointments, gels, pastes, suppository bases
+
+---
+
 ## Equipment
 
 ### Mortar & Pestle
@@ -25,6 +59,8 @@ Commonly used for **mixing, blending, and particle‑size reduction** of solids 
   - Smooth, non‑porous  
   - Best for **liquids**, **creams**, **ointments**, and **colored or oily substances**  
   - Not ideal for particle‑size reduction
+
+---
 
 ### Sieves
 
@@ -50,6 +86,8 @@ The number of **openings per linear inch**.
 
 > 📌 Sieving is typically performed **after trituration** to ensure uniformity.
 
+---
+
 ### Spatulas
 
 Used to **transfer**, **mix**, and **manipulate** solid and semi‑solid ingredients.
@@ -71,16 +109,108 @@ Used to **transfer**, **mix**, and **manipulate** solid and semi‑solid ingredi
 - Use **separate spatulas** for incompatible ingredients  
 - Use a **flexible spatula** for creams/ointments on an ointment slab
 
+---
+
 ## Techniques
 
 ### Trituration
 
 `Particle Size Reduction`
 
-The process of **grinding a solid into a fine powder** using a **Wedgewood or Porcelain** (ideal) mortar and pestle.
+**Definition:**  
+Trituration is the process of **grinding a solid into a fine, uniform powder** using a **Wedgewood or Porcelain mortar and pestle**.  
+It is one of the most fundamental techniques in non‑sterile compounding.
 
-This increases **surface area**, improves **uniformity**, and enhances **mixing**
-the process of grinding is called **trituration**
+**Purpose:**
+
+- Reduces **particle size**  
+- Increases **surface area**  
+- Improves **dissolution**, **absorption**, and **uniformity**  
+- Ensures even distribution of potent ingredients  
+- Prevents gritty or irritating textures in topical preparations
+
+**How It Works:**
+
+- The pestle applies **pressure + friction**  
+- The coarse interior of the mortar enhances grinding  
+- Circular, firm motions break down crystals and granules  
+- The powder becomes **fine, smooth, and uniform**
+
+**When to Use Trituration:**
+
+- Preparing powders for capsules  
+- Reducing particle size before geometric dilution  
+- Incorporating solids into ointments or creams  
+- Preparing dusting powders or dermatologic powders  
+- Breaking down crystalline APIs
+
+**When NOT to Triturate:**
+
+- Eutectic mixtures (risk of liquefaction)  
+- Sticky, gummy, or oily substances  
+- Highly potent drugs without proper containment  
+- Ingredients that degrade with friction or heat
+
+---
+
+### Levigation
+
+`Particle Size Reduction *in a Liquid or Semi‑Solid Medium*`
+
+**Definition:**  
+Levigaton is the process of **reducing particle size by triturating a solid with a small amount of liquid (levigating agent)** to form a **smooth, uniform paste**.  
+It is used when incorporating **insoluble powders** into **ointments, creams, gels, and suspensions**.
+
+**Purpose:**
+
+- Reduces **grittiness** in topical preparations  
+- Improves **uniform distribution** of solids in semi‑solid bases  
+- Enhances **texture**, **spreadability**, and **patient acceptability**  
+- Prevents clumping or “pilling” when powders are added to ointment bases  
+- Minimizes air incorporation compared to dry trituration
+
+**How It Works:**
+
+1. Place the powder in a mortar (glass preferred for semi‑solids).  
+2. Add a **minimal amount** of levigating agent; just enough to wet the powder.  
+3. Triturate until a **smooth, homogeneous paste** forms.  
+4. Incorporate the paste into the ointment or cream base using **geometric dilution** or **spatulation**.
+
+**Common Levigating Agents**:
+
+| Levigating Agent | Best For | Notes |
+| --- | --- | --- |
+| **Mineral oil** | Oleaginous ointment bases (e.g., petrolatum) | Non‑polar; excellent for hydrophobic powders |
+| **Glycerin** | Water‑soluble bases, creams, gels | Hygroscopic; good wetting for hydrophilic powders |
+| **Propylene glycol** | Creams, gels, emulsions | Good solvent + wetting agent |
+| **PEG 400** | Water‑miscible ointment bases | Smooth, non‑volatile |
+| **Castor oil** | Stubborn powders | High viscosity; strong wetting ability |
+
+> 📌 **Rule of Compatibility:**  
+> Choose a levigating agent that is **chemically similar** to the base (like dissolves like).
+
+**When to Use Levigation**:
+
+- Incorporating **insoluble powders** into:
+  - Ointments  
+  - Creams  
+  - Gels  
+  - Pastes  
+- Preparing **suspensions** where powders must be wetted  
+- Reducing particle size **without generating dust**  
+- When trituration alone is insufficient or creates airborne particles
+
+**When NOT to Use Levigation**:
+
+- Powders that **dissolve** in the levigating agent  
+- Powders that form **eutectic mixtures**  
+- Powders sensitive to **moisture** or **hydrolysis**  
+- When the base is incompatible with the levigating agent
+
+> 🧠 **Key Insight:**  
+> Levigation is essentially **wet trituration**, optimized for semi‑solid compounding.
+
+---
 
 ### Geometric Dilution
 
@@ -95,6 +225,8 @@ Used when mixing powders of **unequal quantities** to ensure a **homogeneous ble
 3. Triturate thoroughly.  
 4. Add another portion of the larger powder equal to the mixture in the mortar.  
 5. Repeat until **all powders** are incorporated.
+
+---
 
 ### Spatulation
 
@@ -130,3 +262,5 @@ To prevent liquefaction:
 - Thymol
 
 > 📌 Spatulation prevents heat and pressure that would otherwise cause eutectic mixtures to liquefy.
+
+---
