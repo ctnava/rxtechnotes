@@ -155,4 +155,4 @@ Weighing papers and boats create a **clean, disposable barrier** between ingredi
 
 ## Navlinks
 
-- 🔙🔗 Back to [Measuring Equipment](../readme.md#weighing-equiment)
+- 🔙🔗 Back to [Measuring Equipment](../readme.md#solid-measurements)
