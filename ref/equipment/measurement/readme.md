@@ -36,14 +36,6 @@ Choosing the correct device depends on:
 
 ---
 
-## Volume Contraction
-
-`Mass is conserved; volume is not`
-
-The final volume of a solution will not always be the sum of the individual volumes of liquid ingredients; admixtures of aqueous & nonaqueous solutions.
-
----
-
 ## Navlinks
 
 - 🔙🔗 Back to [TBD](./readme.md)

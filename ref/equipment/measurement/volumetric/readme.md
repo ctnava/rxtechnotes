@@ -112,6 +112,92 @@ Graduated cylinders follow standard increment patterns, but technicians must be 
 
 ---
 
+### Measurement Uncertainty
+
+Every measurement has an inherent uncertainty equal to **± half of the smallest increment**.
+
+Examples:
+
+- A 3 mL syringe with 0.1 mL increments has an uncertainty of **±0.05 mL**  
+- A 1 mL TB syringe with 0.01 mL increments has an uncertainty of **±0.005 mL**
+
+This is why **smaller syringes are preferred** for precise dosing.
+
+Every measuring device has an inherent **measurement uncertainty**, which represents the range within which the *true* value lies.  
+For volumetric equipment, uncertainty is typically assumed to be:
+
+> **± half of the smallest graduation increment**
+
+This reflects the fact that even with perfect technique, the reading can only be estimated to the nearest half‑division.
+
+#### Why This Matters
+
+- **Smaller syringes have smaller increments**, which means **lower uncertainty** and **higher accuracy**.  
+- This is why technicians must **always choose the smallest appropriate device** for the volume being measured.
+- For potent drugs, pediatric doses, or narrow‑therapeutic‑index medications, uncertainty becomes **clinically significant**.
+
+> 📌 **Use the smallest device that can measure the required volume without exceeding its rated capacity.**
+
+This minimizes uncertainty and ensures the most accurate measurement possible.
+
+#### Technician Interpretation
+
+A **1 mL tuberculin (TB) syringe** with **0.01 mL** increments → Uncertainty = **±0.005 mL**
+
+If you measure **1.00 mL** using a TB syringe, the *true* delivered volume is somewhere between **0.995 mL and 1.005 mL**.
+
+A **3 mL syringe** with **0.1 mL** increments → Uncertainty = **±0.05 mL**
+
+If you measure the same dose using a 3 mL syringe, the *true* volume could be **0.95 mL to 1.05 mL**.
+
+That is a **20‑fold increase** in possible error, which is why syringe selection is critical.
+
+> 🛡️ **Key Takeaway:**  
+> Smaller increments = smaller uncertainty = safer, more accurate dosing.
+
+---
+
+### Volume Contraction
+
+`Mass is conserved; volume is not.`
+
+When two liquids are mixed, the **final volume may be less than the sum of the individual volumes**.  
+This phenomenon is called **volume contraction**.
+
+#### Why It Happens
+
+- Molecules of different liquids **fit into each other’s empty spaces**  
+- Strong intermolecular forces (e.g., hydrogen bonding) pull molecules closer  
+- Common when mixing:
+  - **Aqueous + alcoholic solutions**  
+  - **Aqueous + glycerin/propylene glycol**  
+  - **Aqueous + concentrated electrolytes**  
+  - **Aqueous + nonaqueous solvents**
+
+#### Practical Implications in Pharmacy
+
+- **Do not add volumes together** to estimate final solution volume  
+- Always **QS (quantity sufficient)** to final volume in a **TC device** (e.g., volumetric flask)  
+- When compounding:
+  - Dissolve solids first  
+  - Add liquids in correct order  
+  - QS at the end to ensure accuracy  
+
+#### Example
+
+Mixing:
+
+- 50 mL ethanol  
+- 50 mL water  
+
+Final volume ≠ 100 mL  
+Final volume ≈ **96–97 mL** due to contraction.
+
+> 📌 **Key Rule:**  
+> Always QS to final volume. Never rely on additive volumes when preparing solutions.
+
+---
+
 ### Calibration Mark
 
 **Definition:**  
