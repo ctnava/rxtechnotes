@@ -491,4 +491,4 @@ Hands‑free or semi‑automated systems.
 
 ## Navlinks
 
-- 🔙🔗 Back to [Measuring Equipment](../readme.md#measuring-liquids-by-volume)
+- 🔙🔗 Back to [Measuring Devices](../readme.md#measuring-liquids-by-volume-)
