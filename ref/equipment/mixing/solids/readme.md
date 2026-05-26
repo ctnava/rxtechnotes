@@ -143,6 +143,52 @@ Ointment slabs (also called **ointment tiles** or **pill tiles**) are **flat, ha
 
 ---
 
+### Hot Plates
+
+Hot plates are used in compounding when **solids or semi‑solids must be melted** before mixing.  
+This technique is common for **ointments, suppository bases, waxes, and emulsions**.
+
+**Temperature Range:**
+
+- Compounding hot plates operate at **low temperatures (25–120 °C)**  
+- Standard laboratory hot plates (125–150 °C) are **too hot** and may degrade ingredients  
+- Most pharmaceutical waxes, fats, and ointment bases melt at **~70 °C**
+
+**Alternative Heating Methods:**
+
+- If a hot plate is unavailable, use a **water bath** or **steam bath**  
+- Water baths provide **gentle, uniform heating** and reduce risk of overheating  
+- Steam baths are useful for **heat‑sensitive** materials
+
+**Technique:**
+
+1. Place ingredients in a **beaker** or **heat‑safe glassware**  
+2. Heat gently until melted; avoid boiling or smoking  
+3. Remove the beaker from heat once melted  
+4. Allow to cool **slowly and uniformly**, stirring constantly with:
+   - A **glass stirring rod**  
+   - A **spatula**  
+   - A **magnetic stir bar** (if using a stir plate)
+
+**Why Cooling Rate Matters:**
+
+- **Rapid cooling** can cause:
+  - Grainy or gritty texture  
+  - Phase separation  
+  - Crystallization defects  
+  - Poor spreadability  
+  - Instability in emulsions  
+
+- **Controlled cooling** ensures:
+  - Smooth, uniform consistency  
+  - Proper incorporation of active ingredients  
+  - Stable final product
+
+> 📌 **Key Point:**  
+> Melt → remove from heat → stir continuously → cool gradually.  
+
+---
+
 ## Techniques
 
 ### Trituration
