@@ -153,65 +153,6 @@ It is one of the most fundamental techniques in non‑sterile compounding.
 
 ---
 
-### Levigation
-
-`Particle Size Reduction *in a Liquid or Semi‑Solid Medium*`
-
-**Definition:**  
-Levigaton is the process of **reducing particle size by triturating a solid with a small amount of liquid (levigating agent)** to form a **smooth, uniform paste**.  
-It is used when incorporating **insoluble powders** into **ointments, creams, gels, and suspensions**.
-
-**Purpose:**
-
-- Reduces **grittiness** in topical preparations  
-- Improves **uniform distribution** of solids in semi‑solid bases  
-- Enhances **texture**, **spreadability**, and **patient acceptability**  
-- Prevents clumping or “pilling” when powders are added to ointment bases  
-- Minimizes air incorporation compared to dry trituration
-
-**How It Works:**
-
-1. Place the powder in a mortar (glass preferred for semi‑solids).  
-2. Add a **minimal amount** of levigating agent; just enough to wet the powder.  
-3. Triturate until a **smooth, homogeneous paste** forms.  
-4. Incorporate the paste into the ointment or cream base using **geometric dilution** or **spatulation**.
-
-**Common Levigating Agents**:
-
-| Levigating Agent | Best For | Notes |
-| --- | --- | --- |
-| **Mineral oil** | Oleaginous ointment bases (e.g., petrolatum) | Non‑polar; excellent for hydrophobic powders |
-| **Glycerin** | Water‑soluble bases, creams, gels | Hygroscopic; good wetting for hydrophilic powders |
-| **Propylene glycol** | Creams, gels, emulsions | Good solvent + wetting agent |
-| **PEG 400** | Water‑miscible ointment bases | Smooth, non‑volatile |
-| **Castor oil** | Stubborn powders | High viscosity; strong wetting ability |
-
-> 📌 **Rule of Compatibility:**  
-> Choose a levigating agent that is **chemically similar** to the base (like dissolves like).
-
-**When to Use Levigation**:
-
-- Incorporating **insoluble powders** into:
-  - Ointments  
-  - Creams  
-  - Gels  
-  - Pastes  
-- Preparing **suspensions** where powders must be wetted  
-- Reducing particle size **without generating dust**  
-- When trituration alone is insufficient or creates airborne particles
-
-**When NOT to Use Levigation**:
-
-- Powders that **dissolve** in the levigating agent  
-- Powders that form **eutectic mixtures**  
-- Powders sensitive to **moisture** or **hydrolysis**  
-- When the base is incompatible with the levigating agent
-
-> 🧠 **Key Insight:**  
-> Levigation is essentially **wet trituration**, optimized for semi‑solid compounding.
-
----
-
 ### Geometric Dilution
 
 `Ensures even distribution of potent or low‑dose ingredients.`
@@ -262,5 +203,64 @@ To prevent liquefaction:
 - Thymol
 
 > 📌 Spatulation prevents heat and pressure that would otherwise cause eutectic mixtures to liquefy.
+
+---
+
+### Levigation
+
+`Particle Size Reduction *in a Liquid or Semi‑Solid Medium*`
+
+**Definition:**  
+Levigaton is the process of **reducing particle size by triturating a solid with a small amount of liquid (levigating agent)** to form a **smooth, uniform paste**.  
+It is used when incorporating **insoluble powders** into **ointments, creams, gels, and suspensions**.
+
+**Purpose:**
+
+- Reduces **grittiness** in topical preparations  
+- Improves **uniform distribution** of solids in semi‑solid bases  
+- Enhances **texture**, **spreadability**, and **patient acceptability**  
+- Prevents clumping or “pilling” when powders are added to ointment bases  
+- Minimizes air incorporation compared to dry trituration
+
+**How It Works:**
+
+1. Place the powder in a mortar (glass preferred for semi‑solids) or ointment slab.  
+2. Add a **minimal amount** of levigating agent; just enough to wet the powder.  
+3. Triturate until a **smooth, homogeneous paste** forms.  
+4. Incorporate the paste into the ointment or cream base using **geometric dilution** or **spatulation**.
+
+**Common Levigating Agents**:
+
+| Levigating Agent | Best For | Notes |
+| --- | --- | --- |
+| **Mineral oil** | Oleaginous ointment bases (e.g., petrolatum) | Non‑polar; excellent for hydrophobic powders |
+| **Glycerin** | Water‑soluble bases, creams, gels | Hygroscopic; good wetting for hydrophilic powders |
+| **Propylene glycol** | Creams, gels, emulsions | Good solvent + wetting agent |
+| **PEG 400** | Water‑miscible ointment bases | Smooth, non‑volatile |
+| **Castor oil** | Stubborn powders | High viscosity; strong wetting ability |
+
+> 📌 **Rule of Compatibility:**  
+> Choose a levigating agent that is **chemically similar** to the base (like dissolves like).
+
+**When to Use Levigation**:
+
+- Incorporating **insoluble powders** into:
+  - Ointments  
+  - Creams  
+  - Gels  
+  - Pastes  
+- Preparing **suspensions** where powders must be wetted  
+- Reducing particle size **without generating dust**  
+- When trituration alone is insufficient or creates airborne particles
+
+**When NOT to Use Levigation**:
+
+- Powders that **dissolve** in the levigating agent  
+- Powders that form **eutectic mixtures**  
+- Powders sensitive to **moisture** or **hydrolysis**  
+- When the base is incompatible with the levigating agent
+
+> 🧠 **Key Insight:**  
+> Levigation is essentially **wet trituration**, optimized for semi‑solid compounding.
 
 ---
