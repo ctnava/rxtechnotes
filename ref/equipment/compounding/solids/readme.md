@@ -342,6 +342,8 @@ It is one of the most fundamental techniques in non‑sterile compounding.
 - Highly potent drugs without proper containment  
 - Ingredients that degrade with friction or heat
 
+![[Trituration](https://kindle-tech.com/faqs/what-is-a-mortar-and-pestle-used-for-in-a-lab)](./trituration.png)
+
 ---
 
 ### Geometric Dilution
@@ -357,6 +359,8 @@ Used when mixing powders of **unequal quantities** to ensure a **homogeneous ble
 3. Triturate thoroughly.  
 4. Add another portion of the larger powder equal to the mixture in the mortar.  
 5. Repeat until **all powders** are incorporated.
+
+![[Geometric Dilution](https://uomus.edu.iq/img/lectures21/MUCLecture_2024_52539988.pdf)](./dilution.png)
 
 ---
 
@@ -394,6 +398,8 @@ To prevent liquefaction:
 - Thymol
 
 > 📌 Spatulation prevents heat and pressure that would otherwise cause eutectic mixtures to liquefy.
+
+![[spatulation](https://www.youtube.com/watch?v=rdMd7YMziAc)](./spatulation.jpg)
 
 ---
 
@@ -453,5 +459,7 @@ It is used when incorporating **insoluble powders** into **ointments, creams, ge
 
 > 🧠 **Key Insight:**  
 > Levigation is essentially **wet trituration**, optimized for semi‑solid compounding.
+
+![[levigation](https://www.senieer.com/problems-that-occur-during-trituration-and-their-potential-solutions/)](./levigation.jpg)
 
 ---
