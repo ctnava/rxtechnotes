@@ -8,7 +8,7 @@
 
 A **solution** is a *homogeneous, clear* liquid preparation in which a **solute is completely dissolved** in a **solvent**.  
 
-> 📌 *Clear does not mean colorless.*
+> 📌 *Clear ≠ colorless.*
 
 ### Solvent
 
@@ -39,8 +39,8 @@ Solubility describes how much solute dissolves in a given amount of solvent.
 
 📌 **Like dissolves like:**
 
-- Polar solutes dissolve in polar solvents (e.g., water).  
-- Nonpolar solutes dissolve in nonpolar solvents (e.g., oils, alcohols).
+- Polar solutes dissolve in **polar** solvents (water, alcohol).  
+- Nonpolar solutes dissolve in **nonpolar** solvents (oils, hydrocarbons).
 
 ### Saturation
 
@@ -48,6 +48,18 @@ Solubility describes how much solute dissolves in a given amount of solvent.
 Any additional solute will remain **undissolved**.
 
 🛡️ *Heat increases solubility for most solids, but not all.*
+
+### Precipitation
+
+**Precipitation** occurs when dissolved solute **falls out of solution** because:
+
+- The solvent becomes saturated  
+- Temperature decreases  
+- pH changes  
+- Alcohol concentration drops  
+- Incompatible solvents are mixed  
+
+📌 A precipitated solution becomes **cloudy, milky, or forms crystals**; becoming turbid.
 
 ### Volume Contraction
 
@@ -93,6 +105,17 @@ Final volume ≈ **96–97 mL**
 - Avoid overheating heat‑sensitive ingredients  
 - Stirring or shaking improves dissolution
 
+### Solvent‑Specific Dissolution
+
+Dissolve ingredients in their appropriate solvents **before combining**:
+
+- Alcohol‑soluble ingredients → **alcohol** or **oleaginous** base  
+- Water‑soluble ingredients → **water**
+
+Then combine by **adding aqueous phase to alcohol**, *slowly and with constant stirring*.
+
+📌 This keeps alcohol concentration high enough to prevent **precipitation** (cloudiness/turbidity).
+
 ---
 
 ## Aqueous Solutions
@@ -131,7 +154,7 @@ Sweet, viscous **aqueous** solutions saturated with **sucrose** or other sugars.
 ## Glycerates (Sugar-Based) Solutions
 
 Solutions containing **glycerin** as the primary solvent.  
-Used for drugs requiring a **viscous, stable** vehicle.
+Used for drugs requiring a **viscous, stable, hygroscopic** vehicle.
 
 ---
 
