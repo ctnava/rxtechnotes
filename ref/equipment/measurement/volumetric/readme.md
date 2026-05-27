@@ -157,47 +157,6 @@ That is a **20‑fold increase** in possible error, which is why syringe selecti
 
 ---
 
-### Volume Contraction
-
-`Mass is conserved; volume is not.`
-
-When two liquids are mixed, the **final volume may be less than the sum of the individual volumes**.  
-This phenomenon is called **volume contraction**.
-
-#### Why It Happens
-
-- Molecules of different liquids **fit into each other’s empty spaces**  
-- Strong intermolecular forces (e.g., hydrogen bonding) pull molecules closer  
-- Common when mixing:
-  - **Aqueous + alcoholic solutions**  
-  - **Aqueous + glycerin/propylene glycol**  
-  - **Aqueous + concentrated electrolytes**  
-  - **Aqueous + nonaqueous solvents**
-
-#### Practical Implications in Pharmacy
-
-- **Do not add volumes together** to estimate final solution volume  
-- Always **QS (quantity sufficient)** to final volume in a **TC device** (e.g., volumetric flask)  
-- When compounding:
-  - Dissolve solids first  
-  - Add liquids in correct order  
-  - QS at the end to ensure accuracy  
-
-#### Example
-
-Mixing:
-
-- 50 mL ethanol  
-- 50 mL water  
-
-Final volume ≠ 100 mL  
-Final volume ≈ **96–97 mL** due to contraction.
-
-> 📌 **Key Rule:**  
-> Always QS to final volume. Never rely on additive volumes when preparing solutions.
-
----
-
 ### Calibration Mark
 
 **Definition:**  
