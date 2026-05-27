@@ -60,6 +60,8 @@ Commonly used for **mixing, blending, and particle‑size reduction** of solids 
   - Best for **liquids**, **creams**, **ointments**, and **colored or oily substances**  
   - Not ideal for particle‑size reduction
 
+![[Mortar & Pestle](https://collection.sciencemuseumgroup.org.uk/objects/co13851/mortar-stoneware-impressed-wedgwood-best-composition)](./mortar_pestle.jpg)
+
 ---
 
 #### Electronic Mortar & Pestle (EMP)
@@ -112,6 +114,8 @@ The jar moves **up and down** while the blade rotates at controlled speeds, prod
 - Ensure the blade assembly is fully dry before reassembly  
 - Inspect seals and gaskets regularly to prevent leaks
 
+![[Unguator](https://www.pccarx.com/products/UNGUATOREMP/35-5378/EQUIPMENT)](./unguator.avif)
+
 ---
 
 #### Ointment Mills
@@ -159,6 +163,8 @@ As material passes between the rollers, particles are **sheared, compressed, and
 
 > You can remill multiple times for desired consistency
 
+![[Ointment Mill](https://www.youtube.com/watch?v=wXwWD0wwzrU)](./ointment_mill.jpg)
+
 ---
 
 ### Sieves
@@ -185,6 +191,8 @@ The number of **openings per linear inch**.
 
 > 📌 Sieving is typically performed **after trituration** to ensure uniformity.
 
+![[sieves](https://www.amazon.com/Standard-Laboratory-Inspection-Pharmacopeia-12-200mesh/dp/B08PQLW74N)](./sieves.jpg)
+
 ---
 
 ### Spatulas
@@ -207,6 +215,8 @@ Used to **transfer**, **mix**, and **manipulate** solid and semi‑solid ingredi
 - Always clean **before and after** use  
 - Use **separate spatulas** for incompatible ingredients  
 - Use a **flexible spatula** for creams/ointments on an ointment slab
+
+![[spatula](https://www.devinemedical.com/Q202-p/hcl-q202.htm)](./spatula.jpg)
 
 ---
 
@@ -239,6 +249,8 @@ Ointment slabs (also called **ointment tiles** or **pill tiles**) are **flat, ha
 - Non‑porous → prevents absorption of ingredients  
 - Easy to scrape clean with a spatula  
 - Allows precise control of pressure and shear during mixing
+
+![[ointment slab](https://www.indiamart.com/proddetail/ointment-slab-8-x-8-2854462608348.html)](./ointment_slab.png)
 
 ---
 
@@ -285,6 +297,8 @@ This technique is common for **ointments, suppository bases, waxes, and emulsion
 
 > 📌 **Key Point:**  
 > Melt → remove from heat → stir continuously → cool gradually.  
+
+![[Hotplate](https://totalpharmacysupply.com/ohaus-guardian-5000-hotplates-stirrers/)](./hotplate.jpg)
 
 ---
 
