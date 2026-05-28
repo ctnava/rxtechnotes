@@ -466,4 +466,5 @@ It is used when incorporating **insoluble powders** into **ointments, creams, ge
 
 ## Navlinks
 
-- 🔗🔙 To [Suspensions](../suspensions/readme.md#-levigating-agents)
+- 🔗🔙 To [Suspensions](./suspensions.md#-levigating-agents)
+- 🔗🔙 To [Topicals](./topicals.md#base-first)

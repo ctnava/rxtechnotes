@@ -90,7 +90,7 @@ Common levigating agents:
 `Suspensions must have enough air space in the bottle for adequate shaking; affix "Shake Well".`
 
 1. First, follow the levigation protocol in  
-   🔗 **[Mixing Solids & Semi‑Solids → Levigation](../solids/readme.md#levigation)**  
+   🔗 **[Mixing Solids & Semi‑Solids → Levigation](./solids.md#levigation)**  
 2. Transfer the levigated paste into the final container or volumetric device  
 3. Rinse mortar & pestle with small portions of vehicle  
    - Add each rinsing to the final container  
