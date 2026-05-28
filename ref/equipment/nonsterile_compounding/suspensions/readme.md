@@ -16,15 +16,21 @@ A **suspension** consists of:
 Characteristics:
 
 - Particles **settle over time** (sedimentation)  
+  - well-formulated suspensions take a while to settle
 - Must be **shaken well** before use  
+  - well-formulated suspensions redisperse easily
 - Particle size must be **controlled** to prevent caking  
 - Requires **excipients** to stabilize the system
 
 ---
 
-## 🧪 Flocculating Agents
+## Controlling Dispersion & Sedimentation
 
-**Flocculating agents** promote the formation of **loose, fluffy aggregates** (“flocs”) that:
+### 🧪 Flocculating Agents
+
+`Enhances Dispersion`
+
+**Flocculating agents** promote the formation of **loose, fluffy aggregates** (“floccules”) that:
 
 - Settle **rapidly**  
 - Are **easy to redisperse**  
@@ -32,7 +38,8 @@ Characteristics:
 
 Common flocculating agents:
 
-- Electrolytes (e.g., **sodium chloride**)  
+- Electrolytes (in aqueous solutions)
+  - carry an electrical charge; causing particle repulsion
 - Surfactants  
 - Polymers (e.g., **carboxymethylcellulose**, **gelatin**)  
 
@@ -40,7 +47,9 @@ Common flocculating agents:
 
 ---
 
-## 🧴 Thickening Agents (Viscosity Enhancers)
+### 🧴 Thickening/ Suspending Agents (Viscosity Enhancers)
+
+`Reduces Settling Speed`
 
 Thickening agents increase the **viscosity** of the dispersion medium to:
 
