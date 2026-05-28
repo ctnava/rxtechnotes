@@ -463,3 +463,7 @@ It is used when incorporating **insoluble powders** into **ointments, creams, ge
 ![[levigation](https://www.senieer.com/problems-that-occur-during-trituration-and-their-potential-solutions/)](./levigation.jpg)
 
 ---
+
+## Navlinks
+
+- 🔗🔙 To [Suspensions](../suspensions/readme.md#-levigating-agents)
