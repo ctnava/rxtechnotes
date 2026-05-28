@@ -16,9 +16,9 @@ A **suspension** consists of:
 Characteristics:
 
 - Particles **settle over time** (sedimentation)  
-  - well-formulated suspensions take a while to settle
+  - Well‑formulated suspensions settle **slowly**
 - Must be **shaken well** before use  
-  - well-formulated suspensions redisperse easily
+  - Well‑formulated suspensions **redisperse easily**
 - Particle size must be **controlled** to prevent caking  
 - Requires **excipients** to stabilize the system
 
@@ -38,10 +38,10 @@ Characteristics:
 
 Common flocculating agents:
 
-- Electrolytes (in aqueous solutions)
-  - carry an electrical charge; causing particle repulsion
-- Surfactants  
-- Polymers (e.g., **carboxymethylcellulose**, **gelatin**)  
+- **Electrolytes** (e.g., NaCl)  
+  - Provide surface charge → controlled particle repulsion  
+- **Surfactants**  
+- **Polymers** (e.g., **CMC**, **gelatin**, **xanthan gum**)
 
 📌 *Flocculation = controlled aggregation → better redispersibility.*
 
@@ -87,14 +87,20 @@ Common levigating agents:
 
 ### Preparation
 
-`Suspensions must have enough air in the bottle for adequate shaking; affix "shake well"`
+`Suspensions must have enough air space in the bottle for adequate shaking; affix "Shake Well".`
 
-1. 🔗 First, follow levigation protocol found in [Mixing Solids & Semi‑Solids](../solids/readme.md#levigation)
-2. place mixture into final container or volumetric measuring device
-3. rinse mortar and pestle with remaining vehicle
-   - Each rinsing is added to final container until final volume is reached
+1. First, follow the levigation protocol in  
+   🔗 **[Mixing Solids & Semi‑Solids → Levigation](../solids/readme.md#levigation)**  
+2. Transfer the levigated paste into the final container or volumetric device  
+3. Rinse mortar & pestle with small portions of vehicle  
+   - Add each rinsing to the final container  
+4. QS to final volume with vehicle  
+5. Shake to ensure uniform dispersion
 
-> Most commercially available suspensions are lyophilized powders that just require reconstitution with water before dispensed. water is added to container and contents are shaken to form the suspension
+> 📌 **Commercial suspensions** are often **lyophilized powders** requiring reconstitution:
+>
+> - Add water to the marked line  
+> - Shake vigorously to form the suspension
 
 ---
 
@@ -114,13 +120,14 @@ Most patients want:
 
 🛡️ *Match flavor to drug profile:*
 
-Taste | Flavor
-salty | Cinnamon, raspberry, orange, butterscotch
-sweet | fruit, berry, vanilla
-bitter | cocoa, chocolate, mint, cherry, walnut
-sour/acid | fruit, citrus, cherry
-Oily | wintergreen, peppermint, lemon, anise
-metallic | mint, marshmallow
+| Taste | Recommended Flavors |
+| --- | --- |
+| Salty | Cinnamon, raspberry, orange, butterscotch |
+| Sweet | Fruit, berry, vanilla |
+| Bitter | Cocoa, chocolate, mint, cherry, walnut |
+| Sour/acidic | Fruit, citrus, cherry |
+| Oily | Wintergreen, peppermint, lemon, anise |
+| Metallic | Mint, marshmallow |
 
 ---
 
@@ -128,31 +135,35 @@ metallic | mint, marshmallow
 
 `All flavoring agents are bitter; sweeten to taste`
 
-Used to mask unpleasant taste and improve patient acceptance.
+Sweeteners mask unpleasant taste and improve patient acceptance.
 
-colorless, odorless, soluble in water
-pleasant with no aftertaste
-stable over a wide pH range
+Ideal sweeteners are:
 
-**Nutritive sweeteners:**
+- Colorless  
+- Odorless  
+- Water‑soluble  
+- Pleasant with no aftertaste  
+- Stable across a wide pH range  
 
-|Sweetener|Sweetness (Sucrose Approximation)| Notes
-sorbitol | 0.5-0.7 | Adds Viscosity
-Mannitol | 0.7 | Adds Viscosity
-Sucrose | 1
+### Nutritive Sweeteners
 
-**Nonnutritive sweeteners:**
+| Sweetener | Sweetness (Sucrose = 1) | Notes |
+| --- | --- | --- |
+| Sorbitol | 0.5–0.7 | Adds viscosity |
+| Mannitol | ~0.7 | Adds viscosity |
+| Sucrose | 1 | Standard reference |
 
-|Sweetener|Sweetness (Sucrose Approximation)| Notes
-Aspartame | 180
-Stevia | 200
-Sodium Saccharin | 300
-Saccharin | 500
-Sucralose  | X
+### Nonnutritive Sweeteners
 
-📌 Polyols (sorbitol, glycerin) also add **viscosity**.
+| Sweetener | Sweetness (Sucrose = 1) | Notes |
+| --- | --- | --- |
+| Aspartame | ~180 | Clean sweetness |
+| Stevia | ~200 | Natural option |
+| Sodium Saccharin | ~300 | Slight aftertaste |
+| Saccharin | ~500 | Potent; may be bitter |
+| Sucralose | ~600 | Very stable; widely used |
 
-> If sweetening doesnt work, adjust flavoring agent concentration then sweeten
+> If sweetening fails, adjust **flavoring agent concentration**, then sweeten again.
 
 ---
 
@@ -167,14 +178,17 @@ Added to match flavor or improve appearance.
 
 🛡️ Must be **compatible**, **nonreactive**, and **safe for intended route**.
 
-Color | Perceived Effect
-clear, waterlike | Lack potency
-dark colors (purple, navy, black, and brown) | Reject; Poisonous
-Fruity Colors | Pleasant; must coordinate with scent
-Flesh-Tone | good for topicals; less visible
+### Color Psychology in Pharmacy
 
-> You can use grocery store aqueous solutions
-> blends can produce any color
+| Color | Perceived Effect |
+| --- | --- |
+| Clear / waterlike | Weak potency; “dilute” |
+| Dark colors (purple, navy, black, brown) | Rejection; “poisonous” |
+| Fruity colors | Pleasant; must match scent |
+| Flesh‑tone | Good for topicals; less visible |
+
+> Grocery‑store aqueous colorants are acceptable.  
+> Blending colors can produce any desired shade.
 
 ---
 
