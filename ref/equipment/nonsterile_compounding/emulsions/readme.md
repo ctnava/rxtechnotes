@@ -12,7 +12,9 @@ An **emulsion** is an *unstable, two‑phase* system consisting of **two immisci
 
 Liquids that **do not mix** or dissolve in each other (e.g., oil + water).
 
-### Emulsifier (Emulsifying Agent)
+### Emulsifying Agents
+
+`Emulsifiers, Surfactants, or Surface Active Agents`
 
 A substance that **prevents separation** of the two immiscible phases by:
 
