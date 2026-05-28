@@ -168,4 +168,20 @@ Used when both phases contain **multiple ingredients** that must be melted or di
 
 📌 *Beaker method = heat both phases → combine → cool with stirring.*
 
+#### 🔑 Internal vs External Phases
+
+- **Internal phase (dispersed phase)**  
+  The phase that becomes **droplets** inside the emulsion.  
+  - In **o/w emulsions**, the internal phase = **oil**  
+  - In **w/o emulsions**, the internal phase = **water**
+
+- **External phase (continuous phase)**  
+  The phase that forms the **surrounding medium**.  
+  - In **o/w emulsions**, the external phase = **water**  
+  - In **w/o emulsions**, the external phase = **oil**
+
+📌 *The external phase determines the “feel” of the product (greasy vs nongreasy).*
+
+📌 *During preparation, the **internal phase is always added to the external phase**, never the reverse.*
+
 ---
