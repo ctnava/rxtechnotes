@@ -80,10 +80,9 @@ Ointments vary widely depending on the **base type**
 ### Base-First
 
 Two ointments or ointment and drug can be spatulated on an ointment slab
+🔗 **[Mixing Solids & Semi‑Solids → Spatulation](./solids.md#spatulation)**
 ointment transferred with spatula into ointment jar just big enough for the final volume
 when filling, use the spatula to bleeed out air pockets.
 wipe excess material from outside of the jar, including cap screw threads
-
-See spatulation method in [Mixing Solids & Semi‑Solids](./solids.md#spatulation)
 
 ### Base-Second
