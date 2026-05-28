@@ -66,6 +66,13 @@ Ointments vary widely depending on the **base type**
 | **O/W Emulsion Bases (Cream Bases)** | Hydrous | Easy | Washable | Non‑greasy | No | Hydrophilic Ointment USP, Versabase |
 | **Water‑Miscible Bases** | Hydrous | Moderate to Easy | Washable | Non‑greasy | No | PEG Ointment USP, Polybase |
 
+- **More oil = more occlusive, more greasy, less washable; less drug penetration**  
+- **More water = easier to spread, easier to wash off; more drug penetration**  
+- **O/W = cream‑like**  
+- **W/O = ointment‑like**
+
+📌 *Occlusive bases trap moisture → good for dry, cracked skin.*
+
 ---
 
 ## Compounding
