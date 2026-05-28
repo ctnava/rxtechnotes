@@ -164,7 +164,7 @@ This minimizes thermal degradation and ensures uniform melting.
 
 > 📌 *Adding internal → external prevents phase inversion.*
 
-### Cooling Step
+#### Cooling Step
 
 Cooling determines the **final texture** and **stability**.
 
