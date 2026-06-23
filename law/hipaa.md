@@ -28,6 +28,20 @@ HIPAA was originally enacted to protect individuals' access to health insurance 
 
 > 🛡️ Business Associates (e.g. billing services, IT contractors) are regulated under HITECH.
 
+#### Hybrid Entities
+
+`a designation that describes organizations composed of covered and non-covered components`
+
+**Hybrid entities** are organizations that perform both **HIPAA-covered functions** and **non-covered functions** under the same corporate structure. Only the parts of the organization that perform covered functions (or support them) are treated as **covered components** for HIPAA purposes.
+
+**Non-covered components** may include employees or departments that work **near** PHI but do not need to **access or use** it to perform their job duties (e.g., janitorial staff, maintenance crews, construction or facilities contractors).
+
+To remain compliant, hybrid entities must implement **appropriate “firewalls” and access controls** to prevent unauthorized access to PHI, such as:
+
+- **Separating clinical and non-clinical areas** (e.g., restricting back-office or treatment areas)
+- Limiting system access to PHI to only those roles that require it
+- Training non-clinical staff to avoid viewing, handling, or discussing PHI in the course of their work
+
 ### 🕵️‍♀️ Protected Health Information (PHI)
 
 **Protected Health Information (PHI)** refers to **any individually identifiable health information**, in **any form**, that relates to a patient's:
