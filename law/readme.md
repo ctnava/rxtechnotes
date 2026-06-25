@@ -71,6 +71,7 @@ The HIPAA contains regulations related to privacy & Protected Health Information
 | ----------- | ----------- |
 | **HIPAA (1996)** | Protects patient privacy by regulating the use, disclosure, and safeguarding of PHI by Covered Entities. |
 | 🤯 **American Recovery & Reinvestment Act (ARRA, 2009)** | Expands HIPAA to include business associates; promoting secure use of electronic health records & prescribing through its **HITECH** portion. |
+| 🤯 **Genetic Information Nondiscrimination Act (GINA, 2008)** | Adds **genetic information** to the category of PHI & prevents discrimination based on genetic predisposition. |
 
 ---
 
