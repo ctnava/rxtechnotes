@@ -42,44 +42,6 @@ To remain compliant, hybrid entities must implement **appropriate “firewalls�
 - Limiting system access to PHI to only those roles that require it
 - Training non-clinical staff to avoid viewing, handling, or discussing PHI in the course of their work
 
-#### Direct Treatment Relationship
-
-`certain statutes of HIPAA Law apply specifically to these entities`
-
-A **direct treatment relationship** exists when a healthcare provider delivers care, services, or professional consultation **directly to a patient**, and the patient **initiates** the relationship by seeking diagnosis, treatment, or pharmacy services.
-
-Under HIPAA, entities with a direct treatment relationship have **expanded responsibilities**, including providing the **Notice of Privacy Practices (NPP)**, honoring patient rights (access, amendments, restrictions), and ensuring appropriate use and disclosure of PHI for treatment purposes.
-
-A direct treatment relationship applies to **anyone practicing in a prescriber’s office or pharmacy** who provides services directly to patients, including:
-
-- **Prescribers**: physicians, nurse practitioners, physician assistants  
-- **Pharmacists**: dispensing, counseling, medication therapy management  
-- **Pharmacy Technicians**: processing prescriptions, communicating with patients, handling PHI  
-- **Medical Assistants**: rooming patients, collecting vitals, updating charts  
-- **Nurses**: triage, care coordination, administering medications  
-- **Front-office clinical staff**: intake, registration, verifying identity and insurance  
-- **Specialty clinic staff**: infusion centers, imaging centers, urgent care personnel
-
-A direct treatment relationship **does not** apply to individuals who support operations but do not provide care, such as:
-
-- Billing-only personnel  
-- IT staff  
-- Administrative leadership  
-- Maintenance or custodial staff
-- Research laboratory pharmacy technicians
-
-These individuals may still be part of a **covered entity**, but they do not have a direct treatment relationship and therefore do not trigger certain patient-facing HIPAA obligations.
-
-**Key implications of a direct treatment relationship:**
-
-- The provider must offer and document receipt of the **Notice of Privacy Practices**.  
-- PHI may be used or disclosed for **Treatment, Payment, and Healthcare Operations (TPO)** without additional authorization.  
-- Providers must follow the **Minimum Necessary Rule** except when using PHI for treatment.  
-- Patients may request **access**, **amendments**, and **restrictions** to their records.  
-- Staff must ensure PHI is handled securely during all patient interactions.
-
-#### Privacy Officials
-
 ### 🕵️‍♀️ Protected Health Information (PHI)
 
 **Protected Health Information (PHI)** refers to **any individually identifiable health information**, in **any form**, that relates to a patient's:
@@ -213,6 +175,71 @@ Historically, records were maintained in **paper charts and folders**. Today, mo
 - **National Provider Identifier**: A 10-digit, unique ID assigned to each covered provider. Required on all HIPAA-compliant transactions.
   - Form **CMS-10114** is used to apply for an NPI
 
+#### Appointed Officials
+
+`Make sure you know who they are and how to get in touch`
+
+HIPAA requires every covered entity (including pharmacies, clinics, and hospitals) to formally designate individuals responsible for **privacy oversight**, **policy management**, and **patient communication**. These roles ensure that the organization maintains compliance, responds to concerns, and provides patients with clear pathways to exercise their rights.
+
+- **Privacy Official**: Develops, implements, and oversees the organization’s HIPAA Privacy Program. The Privacy Official is responsible for:
+  - Creating, updating, and enforcing **HIPAA privacy policies and procedures**  
+  - Ensuring staff receive **initial and ongoing HIPAA training**  
+  - Monitoring compliance and conducting internal audits  
+  - Investigating privacy incidents and coordinating corrective actions  
+  - Working with leadership to ensure PHI is used and disclosed appropriately  
+  - Overseeing the distribution and retention of the **Notice of Privacy Practices (NPP)**  
+  - Coordinating with the Security Officer when incidents involve both PHI and ePHI  
+
+> In smaller organizations, the Privacy Official may also serve as the **Security Officer**, but the responsibilities remain distinct.
+
+- **Patient Privacy Contact**: Serves as the public-facing point of contact for patients regarding privacy rights and concerns. The Privacy Contact is responsible for:
+  - Receiving and documenting **patient complaints** about privacy practices  
+  - Answering questions about how PHI is used, disclosed, or protected  
+  - Assisting patients with:  
+    - Requests for **access** to their records  
+    - Requests for **amendments**  
+    - Requests for **restrictions** or **confidential communication**  
+  - Providing guidance on how to submit a complaint to the **Office for Civil Rights (OCR)**  
+  - Ensuring patients understand their rights under HIPAA  
+
+> NOTE: The Privacy Official and Privacy Contact **can be the same person**, especially in smaller practices or pharmacies.
+
+#### 🤝 Direct Treatment Relationship (Covered Entities)
+
+`certain statutes of HIPAA Law apply specifically to these entities`
+
+A **direct treatment relationship** exists when a healthcare provider delivers care, services, or professional consultation **directly to a patient**, and the patient **initiates** the relationship by seeking diagnosis, treatment, or pharmacy services.
+
+Under HIPAA, entities with a direct treatment relationship have **expanded responsibilities**, including providing the **Notice of Privacy Practices (NPP)**, honoring patient rights (access, amendments, restrictions), and ensuring appropriate use and disclosure of PHI for treatment purposes.
+
+A direct treatment relationship applies to **anyone practicing in a prescriber’s office or pharmacy** who provides services directly to patients, including:
+
+- **Prescribers**: physicians, nurse practitioners, physician assistants  
+- **Pharmacists**: dispensing, counseling, medication therapy management  
+- **Pharmacy Technicians**: processing prescriptions, communicating with patients, handling PHI  
+- **Medical Assistants**: rooming patients, collecting vitals, updating charts  
+- **Nurses**: triage, care coordination, administering medications  
+- **Front-office clinical staff**: intake, registration, verifying identity and insurance  
+- **Specialty clinic staff**: infusion centers, imaging centers, urgent care personnel
+
+A direct treatment relationship **does not** apply to individuals who support operations but do not provide care, such as:
+
+- Billing-only personnel  
+- IT staff  
+- Administrative leadership  
+- Maintenance or custodial staff
+- Research laboratory pharmacy technicians
+
+These individuals may still be part of a **covered entity**, but they do not have a direct treatment relationship and therefore do not trigger certain patient-facing HIPAA obligations.
+
+**Key implications of a direct treatment relationship:**
+
+- The provider must offer and document receipt of the **Notice of Privacy Practices**.  
+- PHI may be used or disclosed for **Treatment, Payment, and Healthcare Operations (TPO)** without additional authorization.  
+- Providers must follow the **Minimum Necessary Rule** except when using PHI for treatment.  
+- Patients may request **access**, **amendments**, and **restrictions** to their records.  
+- Staff must ensure PHI is handled securely during all patient interactions.
+
 #### 🧾 Release of Information (ROI)
 
 Patient authorization for PHI disclosure must be documented via a **valid ROI form**. These are typically used to transfer medical records to another healthcare facility or directly to the patient for personal use. Valid authorization requests include:
@@ -278,14 +305,14 @@ Physical security protocols protect the hardware and locations where ePHI is acc
 
 > 🛡️ Pharmacy technicians are expected to follow all access control policies, maintain credential security, and report any suspected HIPAA violations immediately.
 
-### 💊 Pharmacy-Specific HIPAA Requirements
+### 💊 How HIPAA Applies to Pharmacy
 
 Pharmacies must:
 
 - Train staff on HIPAA on an **annual basis**
 - Post and offer patients a Notice of Privacy Practices
 - Provide access to PHI upon patient request (within 30 days)
-- Appoint a **Privacy Officer** and maintain written policies
+- Appoint a **Privacy Official** and **Patient Privacy Contact**
 - Shred, de-identify, or securely dispose of all PHI **separately from other trash**
 - Prevent unauthorized verbal disclosure (including casual conversations)
 - have conversations about PHI in private areas
