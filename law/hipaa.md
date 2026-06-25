@@ -421,6 +421,63 @@ The **Health Information Technology for Economic & Clinical Health (HITECH) Act*
 
 > 🤯 **In practice:** HITECH is what pushed many healthcare organizations to adopt EHRs, implement e-prescribing, and take HIPAA Security Rule safeguards (like encryption, access controls, and audit logs) much more seriously because compliance became directly tied to **federal incentives, penalties, and public reporting.**
 
+## 🤯 The Genetic Information Nondiscrimination Act (GINA, 2008)
+
+The **Genetic Information Nondiscrimination Act (GINA)** is a federal law that protects individuals from discrimination based on **genetic information**. GINA expanded the definition of PHI under HIPAA by adding **genetic data** to the list of protected identifiers and restricting how employers and health insurers may use this information.
+
+### 🔬 What Counts as Genetic Information?
+
+Under GINA, **genetic information** includes:
+
+- Results of **genetic tests** (e.g., BRCA, pharmacogenomics, carrier screening)  
+- Genetic tests of **family members**  
+- Family medical history (used to assess genetic risk)  
+- Requests for or receipt of **genetic services**  
+- Participation in genetic counseling or education  
+- Fetal or embryo genetic test results (e.g., IVF screening)
+
+> 📌 Genetic information is treated as **PHI** and must be protected like any other health information.
+
+### 🚫 What GINA Prohibits
+
+GINA prevents **health insurers** and **employers** from using genetic information in ways that could harm patients.
+
+#### **Health Insurers May NOT:**
+
+- Use genetic information to determine **eligibility** for coverage  
+- Use genetic information to set **premiums**, **deductibles**, or **contribution amounts**  
+- Treat genetic predisposition as a **pre-existing condition**  
+- Request or require genetic testing as a condition of enrollment  
+
+#### **Employers May NOT:**
+
+- Use genetic information in decisions about **hiring**, **firing**, **promotion**, or **job assignments**  
+- Request, require, or purchase genetic information about an employee or their family  
+- Retaliate against employees who file GINA-related complaints  
+
+> 🛡️ Employers must keep any genetic information they receive **confidential** and stored separately from personnel files.
+
+### ✔️ What GINA *Does Allow*
+
+GINA does **not** apply to:
+
+- Life insurance  
+- Disability insurance  
+- Long-term care insurance  
+- Members of the military (covered under separate DoD policies)  
+- Employers with fewer than 15 employees  
+
+GINA also does **not** prevent insurers from using **current diagnoses**, only genetic *risk* or predisposition.
+
+### 🧬 GINA + HIPAA: How They Work Together
+
+GINA and HIPAA overlap but serve different purposes:
+
+- **HIPAA** protects the **privacy and security** of genetic information as PHI.  
+- **GINA** prevents **misuse** of genetic information by insurers and employers.  
+
+Together, they ensure that patients can undergo genetic testing **without fear of discrimination** or inappropriate disclosure.
+
 ---
 
 ## 🗺️🔗 Nav Links
