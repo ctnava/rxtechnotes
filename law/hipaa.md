@@ -44,7 +44,7 @@ To remain compliant, hybrid entities must implement **appropriate “firewalls�
 
 ### 🕵️‍♀️ Protected Health Information (PHI)
 
-**Protected Health Information (PHI)** refers to **any individually identifiable health information**, in **any form**, that relates to a patient's:
+**Protected Health Information (PHI)** refers to **any individually identifiable health information**, in **any form**, **created or received**, that relates to a patient's:
 
 - Past, present, or future physical or mental health condition
 - Healthcare services provided
