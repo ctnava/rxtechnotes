@@ -56,8 +56,8 @@ PHI may exist in several formats:
 
 - **Verbal**: oral communications or information (e.g. conversations about care or billing)
 - **Paper Documents**: written communications or information (e.g. Charts, faxes, prescriptions, printouts)
-- **Electronic (ePHI)**: digital communications or information (e.g. Emails, EHRs, cloud storage, mobile devices)
-- **Identifiers**: in any form (e.g. Name, DOB, address, SSN, MRN, phone number, photographs)
+- **Electronic (ePHI)**: digital communications or information (e.g. Emails, EHRs, cloud storage, mobile devices, lab results)
+- **Identifiers**: in any form (e.g. Name, DOB, address, SSN, MRN, phone number, photographs, genetic information)
 
 > 🚨 Always **handle PHI securely**, regardless of format.
 > 🚨 Use a blank cover page when faxing PHI to protect privacy.
