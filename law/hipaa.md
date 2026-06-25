@@ -305,7 +305,7 @@ Physical security protocols protect the hardware and locations where ePHI is acc
 
 > 🛡️ Pharmacy technicians are expected to follow all access control policies, maintain credential security, and report any suspected HIPAA violations immediately.
 
-### 💊 How HIPAA Applies to Pharmacy
+### 💊 Key Takeaways for Pharmacy
 
 Pharmacies must:
 
