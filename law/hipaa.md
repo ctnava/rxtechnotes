@@ -42,6 +42,44 @@ To remain compliant, hybrid entities must implement **appropriate “firewalls�
 - Limiting system access to PHI to only those roles that require it
 - Training non-clinical staff to avoid viewing, handling, or discussing PHI in the course of their work
 
+#### Direct Treatment Relationship
+
+`certain statutes of HIPAA Law apply specifically to these entities`
+
+A **direct treatment relationship** exists when a healthcare provider delivers care, services, or professional consultation **directly to a patient**, and the patient **initiates** the relationship by seeking diagnosis, treatment, or pharmacy services.
+
+Under HIPAA, entities with a direct treatment relationship have **expanded responsibilities**, including providing the **Notice of Privacy Practices (NPP)**, honoring patient rights (access, amendments, restrictions), and ensuring appropriate use and disclosure of PHI for treatment purposes.
+
+A direct treatment relationship applies to **anyone practicing in a prescriber’s office or pharmacy** who provides services directly to patients, including:
+
+- **Prescribers**: physicians, nurse practitioners, physician assistants  
+- **Pharmacists**: dispensing, counseling, medication therapy management  
+- **Pharmacy Technicians**: processing prescriptions, communicating with patients, handling PHI  
+- **Medical Assistants**: rooming patients, collecting vitals, updating charts  
+- **Nurses**: triage, care coordination, administering medications  
+- **Front-office clinical staff**: intake, registration, verifying identity and insurance  
+- **Specialty clinic staff**: infusion centers, imaging centers, urgent care personnel
+
+A direct treatment relationship **does not** apply to individuals who support operations but do not provide care, such as:
+
+- Billing-only personnel  
+- IT staff  
+- Administrative leadership  
+- Maintenance or custodial staff
+- Research laboratory pharmacy technicians
+
+These individuals may still be part of a **covered entity**, but they do not have a direct treatment relationship and therefore do not trigger certain patient-facing HIPAA obligations.
+
+**Key implications of a direct treatment relationship:**
+
+- The provider must offer and document receipt of the **Notice of Privacy Practices**.  
+- PHI may be used or disclosed for **Treatment, Payment, and Healthcare Operations (TPO)** without additional authorization.  
+- Providers must follow the **Minimum Necessary Rule** except when using PHI for treatment.  
+- Patients may request **access**, **amendments**, and **restrictions** to their records.  
+- Staff must ensure PHI is handled securely during all patient interactions.
+
+#### Privacy Officials
+
 ### 🕵️‍♀️ Protected Health Information (PHI)
 
 **Protected Health Information (PHI)** refers to **any individually identifiable health information**, in **any form**, that relates to a patient's:
