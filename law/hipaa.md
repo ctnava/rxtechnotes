@@ -55,12 +55,67 @@ To remain compliant, hybrid entities must implement **appropriate “firewalls�
 PHI may exist in several formats:
 
 - **Verbal**: oral communications or information (e.g. conversations about care or billing)
-- **Paper Documents**: written communications or information (e.g. Charts, faxes, prescriptions, printouts)
+- **Paper Documents**: written communications or information (e.g. Charts, faxes, prescriptions, vial labels, printouts)
 - **Electronic (ePHI)**: digital communications or information (e.g. Emails, EHRs, cloud storage, mobile devices, lab results)
 - **Identifiers**: in any form (e.g. Name, DOB, address, SSN, MRN, phone number, photographs, genetic information)
 
 > 🚨 Always **handle PHI securely**, regardless of format.
 > 🚨 Use a blank cover page when faxing PHI to protect privacy.
+
+#### De-identified Health Information
+
+**De‑identified Health Information** refers to patient data that **cannot be used to identify an individual**, either directly or indirectly. Under HIPAA, these data sets, known as **Limited Data Sets (LDS)**, may be used for **research**, **public health activities**, **quality assurance (QA)**, and **healthcare operations** within a pharmacy or clinic.
+
+A Limited Data Set may include certain demographic or date‑related elements **as long as all direct identifiers have been removed**.
+
+🟩 **Permitted Elements in a Limited Data Set**:
+
+These elements may be included because they do not directly identify a patient:
+
+- **City, state, ZIP code**
+- **Dates related to an individual**, including:
+  - Date of birth  
+  - Date of death
+- **Other non‑identifying demographic or clinical information** that cannot reasonably be used to identify the patient
+
+🟥 **Prohibited Identifiers**:
+
+A Limited Data Set **must not** include any of the 18 HIPAA identifiers, such as:
+
+1. **Names**
+2. **Geographic subdivisions smaller than a state**  
+   (street address, county, precinct; ZIP code except first 3 digits under specific conditions)
+3. **All elements of dates** (except year) related to an individual (admission/discharge dates, etc.)
+4. **Telephone numbers**
+5. **Fax numbers**
+6. **Email addresses**
+7. **Social Security numbers**
+8. **Medical record numbers**
+9. **Health plan beneficiary numbers**
+10. **Account numbers**
+11. **Certificate/license numbers**
+12. **Vehicle identifiers and serial numbers**  
+    (including license plate numbers)
+13. **Device identifiers and serial numbers**
+14. **Web URLs**
+15. **IP address numbers**
+16. **Biometric identifiers**  
+    (fingerprints, voiceprints, retinal scans)
+17. **Full-face photographs and comparable images**
+18. **Any other unique identifying number, characteristic, or code** (except codes used for re-identification that cannot be traced back to the individual)
+
+🟨 **Data Use Agreement (DUA) Requirements**
+
+Before a Limited Data Set is shared with an external researcher or organization:
+
+- The recipient **must sign a HIPAA‑compliant Data Use Agreement (DUA)**.
+- The DUA must specify:
+  - **Permitted uses and disclosures**
+  - **Safeguards** to prevent re‑identification
+  - **Prohibition** on attempting to identify or contact individuals
+  - **Obligations** to report any unauthorized use or disclosure
+
+The pharmacy or clinic must retain the signed DUA according to internal record‑retention  policies.
 
 #### Medical Records
 
