@@ -6,6 +6,8 @@ Welcome to *Rx Tech Notes*, a curated study resource for pharmacy technician can
 
 ## 🔖 Emoji Key
 
+`General Styleguide`
+
 The following emoji system is used to quickly identify important categories of information. Some symbols may be combined with an `x` to indicate overlapping relevance (e.g., both state and federal law).
 
 | Emoji | Classification |
