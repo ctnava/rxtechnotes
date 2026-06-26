@@ -225,10 +225,36 @@ Historically, records were maintained in **paper charts and folders**. Today, mo
   - Patients must acknowledge receipt
   - Retention: 6 years from date of signature or last effective date.
 - **Disclosure Protocol**: PHI may only be used or disclosed for treatment, payment, and healthcare operations (TPO) without patient authorization.
-- **Minimum Necessary Rule**: Disclose only the least amount of PHI required for the purposes of treatment, payment, or administrative operations; keeping disclosures on a “need to know” basis and gathering the minimum amount of data
 - **Authorization Required**: For marketing, research, or sharing with third parties not involved in TPO.
 - **National Provider Identifier**: A 10-digit, unique ID assigned to each covered provider. Required on all HIPAA-compliant transactions.
   - Form **CMS-10114** is used to apply for an NPI
+- **Minimum Necessary Rule**: Disclose only the least amount of PHI required for the purposes of treatment, payment, or administrative operations; keeping disclosures on a “need to know” basis and gathering the minimum amount of data.
+
+#### Minimum Necessary Rule (Continued)
+
+`Only request what you need; only disclose what is required.`
+
+The purpose is to restrict PHI access to individuals who need it and only to the portions necessary to perform their job duties.
+
+During claim adjudication, information requested by the payer is generally considered the minimum necessary unless a provider disputes the relevance. Refusing to provide required information may delay or prevent reimbursement.
+
+`Do not automatically attach diagnosis codes unless required for the claim.`
+
+Policies should define:
+
+- Roles requiring PHI access  
+- The specific PHI each role may access  
+- Conditions under which PHI access is appropriate  
+
+**Exceptions to Minimum Necessary** include:
+
+- Use or disclosure by the patient  
+- Disclosures authorized by the patient  
+- Disclosures required for HIPAA compliance  
+- Disclosures to HHS for investigations  
+- Uses or disclosures required by other laws  
+
+> NOTE: Accessing your own medical information without a legitimate work-related reason is prohibited and treated the same as accessing any other patient’s record.
 
 #### Appointed Officials
 
